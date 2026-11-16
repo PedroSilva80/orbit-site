@@ -1,6 +1,39 @@
 {
- "atualizado": "2026-11-16T22:30:28.280Z",
+ "atualizado": "2026-11-16T23:00:22.296Z",
  "itens": [
+  {
+   "id": "t4cl7j",
+   "titulo": "The GTA VI-pocalypse is here",
+   "fonte": "Gazetteer SF",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5nSEs3X0F6eUJpM2VJcndGWXNHZ25BMWhMU3pNcml1VmpBQ0pDMWNnRDlyVTdpeEUyQmpnbmtDLXhxbjRTWVRPX2J4bmRWYkdyckh5MmVtTWU2MlltVW14NWRR?oc=5",
+   "data": "2026-11-16T22:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "150bnnn",
+   "titulo": "Grand Theft Auto 6: New GTA VI merchandise drops ahead of launch",
+   "fonte": "6abc Philadelphia",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmM1d1dSbnZIX1F2NzVRWlB0Z283d2dmQUZaNkVWUmg0RkZac25lci1udVFsQ3JVbDRWdzJlRVBsNTRRVzBTZVI4cGpOa3JuaDVTYTk4S2tueTB1R2VuTEI2ZkZjVWduNmlkX00xdXRONV9ieHhkVFBpX01oMDRXcm9Mb2hES0tCRmdyREd0NHBLamlOWmVr0gGcAUFVX3lxTE5aYjlqZXVYaklTR0N3alZvX2NIdkdSLTZqdlYyTE1fZlloVEI3bzh6TVRmYlUwRjFmOEZqMUl4SEo4b2hBQUFYNlUxbF8zZ3N1VzAtY3RzUGpSR3VRUlM5OUlGZFcwbE1EN3NXYjZCQlZzbG9hbmdWMzJhUk9oV3I3MFpDdDA2c01ST09aeWFIVF9RT3ZvNnIzSzQ2SQ?oc=5",
+   "data": "2026-11-16T22:42:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "6r2wj5",
+   "titulo": "Nvidia earnings, Anthropic IPO put AI trade to the test",
+   "fonte": "Fox Business",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14VklWemM5WkFMc0NybmdVekdtVTRIblpKNkNTLUFtTU9rNi1nQ21wWlctV1hiSW9DdDhLRU5mY1RGOExTeG9WYklFckUxdzA2V25vUUhRazdVajQ?oc=5",
+   "data": "2026-11-16T22:26:14.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 10,
+   "avisado": false
+  },
   {
    "id": "1gcuttq",
    "titulo": "Kurtaj GTA 6 Hack: 12 Offenses, $5M Rockstar Cost",
@@ -10,6 +43,17 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "bwrfmp",
+   "titulo": "Dow Jones Futures: AMD, Nvidia, Micron Lead AI Trade Lower With Nvidia Earnings On Deck",
+   "fonte": "Investor's Business Daily",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNSURHQzZzSmpXajVsMXNxYUNLZS1jNWpyOVgwcXpBRWJWQi1YM21rRmp0R0Z2LVd0Z3I1ZDdFUkphVTRNVDVKN1hWblZ4MmZjaGFrSENyeEc3S0RmZU5Cd2k2RlFfd3hDWTlaRG9VMkljSzN0aUQyRVgydFRQTFc1ODdGc2F5VVRPN2tWWEttMVVpUTQyNEJsaTd4ZjBuVW9EVDBnVDBoeVRxOUJjZzZFMGphbUlIQQ?oc=5",
+   "data": "2026-11-16T22:12:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "avisado": false
   },
   {
@@ -54,6 +98,39 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "1j4alb6",
+   "titulo": "Jensen Huang drops off Nvidia's GTC DC schedule following resignation",
+   "fonte": "Business Insider",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzJ4THJsVlhBS2tRSUdrcjNfV3ZEbzllV3NGRnNUUW8zbHRDTkdsVWJtVVIzajh6c1BTMHc2YlZVUXh0dkNBd1ZUbnJ2Q1FKNjNSV0FjRVoxTVVsUXVNakF0MHhjX1pHYnhpemJieGJGQU16TmpMV3V0NUM4TnZRUnhhTXV2OER5TGtRMWZqa0ZUUDJuZ1BuMVBrZDEwWDU1UWp3?oc=5",
+   "data": "2026-11-16T22:03:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "18kle6q",
+   "titulo": "Nvidia set to issue earnings report, days after Jensen Huang stepped down",
+   "fonte": "ABC News - Breaking News, Latest News and Videos",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQR0NjVnJURjhVb29vT04zN056SkZWOEc5SnpQalpDNHpTdm5MR0k3bV8yRW1HRWNYdmM5ZzBEWUFRNEVVQy1CS0hzSU8zbW8wbVozOHJDSkE4MHg0QnpVZl9pQUw5Y0xMcElzVmtKcHpMY2gxZkMzUkQzNEdBUklpSXdVRDhKbHhWMVMyTExjQkJiNmFkcDZET2x0d1A1RGvSAaQBQVVfeXFMTmtkUk1nN05uYUhjWXFYZmhLaUV0Q1ZsRXQtMW9MMXp5Mk1jM2UtNDdXQ0hyTmdVQVF3WUdaakU5VVdGS2haNmZuTlYtcG1keVAtOHpCQldVUVVpUlN4S2lzQjg1QUNGMGZkaUtSLXI5SktDcHhLRGd1MGtmMVVYU092b2lXUnRNU2pnZ0NndlJqMUViUWF4ZHB6ZVhfUEdseVY3U04?oc=5",
+   "data": "2026-11-16T22:00:17.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1icovsh",
+   "titulo": "Weekly Recap: GTA VI to lift earnings and mature consoles to slow sales",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQVU50YkV2X3RMUGhtMXBuRGwxTG1sYks4TENsRGc4TWtQWnJsRVJ5aWZ1dlZUelhXOEdNYndGQU56Rnk2X0d2TldrUldhRWFsQl9oX0x5LWQ4b21QYVhEaEJfa3hBOEZNZGVDWDYyTG04UGN6TVZQZENPN0pVN1lQd1RSbUxtbjYxbjJaRE4ydElaNnN4N1Q0MnpBQVd2ZmNZU05MNnE5QnZrMTBGWkRQNngtTjlpSmdjd1JySFlxQlljenpLd0FmSEJZOXM?oc=5",
+   "data": "2026-11-16T22:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "GTA VI",
+   "score": 8,
    "avisado": false
   },
   {
@@ -766,6 +843,17 @@
    "cat": "IPO",
    "empresa": "B3",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "vx2107",
+   "titulo": "Jensen Huang Resigns From Nvidia: Policy Issues Central to the Alleged Spying Scandal",
+   "fonte": "NBC News",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkpzaW9jVmZkWUVobjRmc1BNUzNVNzhjeGU4azRUcUNwWko5S091eV9MUTE3dVZRM0huSmpIc2M0dWZ6SVpralM4UHhlRGowSTVEcHI3V1dITjJ1b0U1LWlXUlNXallsMEJNWmxuVlFvRVlGWTYwSURlcUNOXy00ZmdRdU1UdW9LcUVJRUdNZGY3alZtaC1MZVRVVi1EenptQ0RyMVA2Z2hXOU5NMWRj?oc=5",
+   "data": "2026-11-16T18:10:41.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "avisado": false
   },
   {
@@ -1569,94 +1657,6 @@
    "cat": "IPO",
    "empresa": "Ibovespa",
    "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "64bbjf",
-   "titulo": "Anthropic's Dario Amodei is 'just setting himself up' with IPO, veteran tech investor warns",
-   "fonte": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNR0VnRWFnN0o3am4ydmh5a3hTenhOU29heTF4MGxYZy03R1VGNC1FNU5Wd2lDRzhMLWJoYmQydTk1ZzlOTXNHaGVhVlFiUmNSUGkzUjdkSGtDemJXTWdITkZGdzlKZDByR2Zhb05pZ1dOOV9yeG9HclNXb2xFbF9yZFMxelMxb0l4SF9RRGFrUnlXa1JQSGR2aFVubW9mNzB2bWZfa0FkMXhpbUx0MVNOYnEyUTRHbFhLOFhWR1AxMU9FTnNTVmJQU3V3WFFpa1JEb2FJb3A1OTgxMFB1RklMTlQzdkVZdw?oc=5",
-   "data": "2026-11-16T13:52:29.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1oncb6x",
-   "titulo": "Anthropic IPO Costs About Twice Google Per Sales Dollar",
-   "fonte": "Trefis",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTmdpeWZ5TVdDUk5LOWhvU3dwUDJHSG54NXR4VGJCa084RmxzRkdOb3ZyNTRhWlA3NndvMGtXT1EwVXlEZDhxMGVjZ3lxWUdjcHhMLWZfT1J2VGViMnl1Y2o2eDlLVE1CSURHTWU4UXVBV1E3RE1Manc3Qi1vNHhUVDZOSUhmRXQtbFFQWl9IdXBDVkMtYk1mblZrVTcyZDNYQjhWaGE3aGFEMmZQcmtrMGsxaHVyVFRj?oc=5",
-   "data": "2026-11-16T13:47:07.000Z",
-   "cat": "IPO",
-   "empresa": "Google",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "ofsmz3",
-   "titulo": "Anthropic’s IPO Math Comes Into Focus",
-   "fonte": "Direxion",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ST1RJZjNzVS1MOFM3VHFHbXg4bGVxek1kQ3BtaHZkUkFScDk0SXhOMTFMZF9HVVAteE1LUjBKVUgtbFlMaGRVRm1FM0JfUHdGUVZWV1N1ZU9MU2xWY1g0S1BDUXhNTVdHa29PRVNMRGtacm1IcjU0SA?oc=5",
-   "data": "2026-11-16T13:43:26.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "pkrh1n",
-   "titulo": "Tech Stocks Plunge as Investors Await Anthropic IPO",
-   "fonte": "Moomoo",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOWXBYUk5mS2xPQU5iMllvSmJKUFBFVVd5R1BDOVA2NmlNZWlxak0xZWNQWWhFNlk5ZGpDdExPLUpVUnRja0J1MFVRblA0YWZRTEFBMXZfczlUMmhwclVvQkxod3gyOFlsZjFRVHdrTFFRSlNDTzNaR2xRblFKelBfSDY3MHZtajY5R3FDa3RJbzFCT0FfNU5hdU5pRXo?oc=5",
-   "data": "2026-11-16T13:41:13.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "1sqlpi5",
-   "titulo": "How Rockstar’s ‘GTA VI’ Release Could Reshape Gaming, Streaming And Even Paid Time Off",
-   "fonte": "TV News Check",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcXdyMGw2OUNtS1RwdHBDY3JyeW12NFU4TndGNXZwbElTWlpvRm9zVEQxSFUyVnIxYnEzZ2Zoejg3YnZIdS04Vmh5dFNFc3VmWTB5RFZudTJaYnBfVkVzbkxoWGdfU0p6NEtMOU5oRExLZGtZVE9XMnBTRzVXUXJBWHZWMzl3R2FQMy1RVGhjcG9malRSN21GcmxQZGpWUTluNk1adnBvdlgySS1ZdFRnZHpQLU1fUGJ4Zkxsc2w2U3hrZw?oc=5",
-   "data": "2026-11-16T13:26:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "n6isza",
-   "titulo": "Tech shares slide ahead of Nvidia results, Anthropic IPO",
-   "fonte": "Macau Business",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPbUxjbEdZMTU1MFQxaUtFZmtyVWZURVdlMlFlZ3JfVG1vNGdCSEFfbG4zZ0U5aHVTb1NFNndBZ0VSRmtqS3laTUFaWnl3TFlSREVXT2N3NzdMRVJDc3UzWThHcGRzYm5DSHVQNnpXQzJacVVBN1Rid1JGQ0FrN1FmVHp6VzFFZXZaOHc?oc=5",
-   "data": "2026-11-16T13:25:10.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "160vs7i",
-   "titulo": "Spots across Miami adopt ‘GTA VI’ theme ahead of game’s highly anticipated release",
-   "fonte": "WSVN",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBPMFZKcXBxV041dE1zeGQxS2dzSS1QaFNxXzNUQ2hvWU9OQ0N5T01uQ1NIUzNMUXF0MDdvZC1JYjhpU3otdklDc0dVMV9HQ0tQM3c5ZkVkRXZmUl9wa3VhMVltRUZMc1VVUldqcUNn?oc=5",
-   "data": "2026-11-16T13:20:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1q2wdxr",
-   "titulo": "Dow Jones Futures Fall, Techs Tumble As Jensen Huang Mulls Nvidia Return; Anthropic IPO Looms",
-   "fonte": "Investor's Business Daily",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmoxeERFTVM2VG9DVVBnRERlZG4tcU0tOGFveC1mYlhEZEJydUZNM2ptaExRYU1LYXg3XzlUUHhtZ29JSF9OYlZtd0FSaF9mME9TYzhTWUVJT0lSSGVPSTMxZlhkTWhQMVp4MkRFVUdUZHRTNVd1bTdTckF2Q3VYdUxKY3kyaFpDaTZkQ1BVMHdrTUNQLUhnVVhPZzJIM3h6Tlg2THNnZU5NRDRvV3NFZUlta28wVXloNGhfNUFFTWdKR3Q3Vk05RnBhQXdWQkl3UTlGRC1RRGo2QU9rTmc?oc=5",
-   "data": "2026-11-16T13:16:00.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
    "avisado": false
   }
  ]
