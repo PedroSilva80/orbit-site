@@ -1,0 +1,1117 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#070908">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="Orbit">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<title>Orbit | Minha carteira</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { color-scheme:dark; --bg:#070908; --card:#0e1210; --tx:#f1f5f2; --tx2:#8d9a93; --bd:#1c2420; --ac:#34d399; --acbg:#0f2a1e; --onac:#04130d; --gr:#34d399; --grbg:#0f2a1e; --re:#ff6b6b; --rebg:#2b1416; --am:#fbbf24; --ambg:#2f250b; --hero:#0d1f17; --heroTx:#ffffff; --heroSub:#8fb3a2; --track:#18201c; }
+  :root[data-theme="light"] { color-scheme:light; --bg:#f4f6f4; --card:#ffffff; --tx:#0b1410; --tx2:#5a6a61; --bd:#e1e8e3; --ac:#059669; --acbg:#e2f5ec; --onac:#ffffff; --gr:#047857; --grbg:#e2f5ec; --re:#dc2626; --rebg:#fdeaea; --am:#b45309; --ambg:#fef3c7; --track:#edf1ee; }
+  * { box-sizing:border-box; }
+  body { padding-bottom:env(safe-area-inset-bottom); }
+  html { scroll-behavior:smooth; }
+  body { margin:0; background:radial-gradient(900px 420px at 85% -8%, rgba(52,211,153,.08), transparent 60%) no-repeat fixed, var(--bg); color:var(--tx); font-family:"Plus Jakarta Sans", "Segoe UI", system-ui, sans-serif; line-height:1.55; font-variant-numeric:tabular-nums; }
+  main { max-width:1020px; margin:0 auto; padding:16px 16px 70px; }
+  .eyebrow { font-size:12px; font-weight:700; letter-spacing:.18em; text-transform:uppercase; color:var(--ac); margin-bottom:6px; }
+  h1 { font-size:26px; font-weight:700; margin:0; letter-spacing:-.01em; }
+  h2 { font-size:16px; font-weight:700; margin:0 0 12px; }
+  .top { position:sticky; top:0; z-index:10; background:var(--card); border-bottom:1px solid var(--bd); }
+  .topin { max-width:1020px; margin:0 auto; padding:10px 16px; display:flex; align-items:center; gap:14px; flex-wrap:wrap; }
+  .logo { display:flex; align-items:center; gap:8px; font-weight:700; font-size:17px; }
+  .logo i { width:28px; height:28px; border-radius:8px; background:var(--ac); display:inline-block; position:relative; }
+  .logo i::after { content:""; position:absolute; left:7px; right:7px; bottom:7px; height:9px; border-left:3px solid var(--onac); border-bottom:3px solid var(--onac); transform:skewX(-20deg); }
+  .links { display:flex; gap:2px; flex:1; flex-wrap:wrap; }
+  .links a { color:var(--tx2); text-decoration:none; font-size:14px; font-weight:500; padding:6px 10px; border-radius:8px; }
+  .links a:hover { background:var(--track); color:var(--tx); }
+  .pill { display:inline-flex; align-items:center; gap:7px; font-size:13px; font-weight:600; padding:5px 12px; border-radius:999px; background:var(--track); color:var(--tx2); }
+  .dot { width:9px; height:9px; border-radius:50%; background:var(--tx2); display:inline-block; flex:none; }
+  .s-ok .dot, .dot.s-ok { background:var(--gr); } .s-wa .dot, .dot.s-wa { background:#f59e0b; } .s-ba .dot, .dot.s-ba { background:var(--re); } .dot.s-in { background:var(--ac); }
+  .pill.s-ok { background:var(--grbg); color:var(--gr); } .pill.s-wa { background:var(--ambg); color:var(--am); } .pill.s-ba { background:var(--rebg); color:var(--re); }
+  .card { background:var(--card); border:1px solid var(--bd); border-radius:18px; padding:18px; margin-bottom:16px; }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:16px; }
+  .grid .card { margin-bottom:0; }
+  .greet { display:flex; justify-content:space-between; align-items:flex-end; gap:12px; flex-wrap:wrap; margin:6px 0 16px; }
+  .sub, .small { color:var(--tx2); font-size:14px; } .small { font-size:13px; }
+  .hero { background:var(--hero); color:var(--heroTx); border-radius:22px; border:1px solid rgba(52,211,153,.2); padding:22px; margin-bottom:16px; display:flex; justify-content:space-between; gap:20px; flex-wrap:wrap; }
+  .hero .lbl { color:var(--heroSub); font-size:13px; }
+  .hero .big { font-size:36px; font-weight:700; letter-spacing:-.02em; line-height:1.2; }
+  .hero .side { display:flex; gap:26px; flex-wrap:wrap; align-items:flex-end; }
+  .hero .v { font-size:18px; font-weight:600; }
+  .chip { display:inline-block; font-size:13px; font-weight:600; padding:3px 11px; border-radius:999px; }
+  .c-ok { background:var(--grbg); color:var(--gr); } .c-ba { background:var(--rebg); color:var(--re); } .c-wa { background:var(--ambg); color:var(--am); } .c-ne { background:var(--track); color:var(--tx2); } .c-in { background:var(--acbg); color:var(--ac); }
+  .hero .chip.c-ok { background:rgba(52,211,153,.18); color:#6ee7b7; } .hero .chip.c-ba { background:rgba(255,122,127,.2); color:#ffb4b7; } .hero .chip.c-ne { background:rgba(255,255,255,.12); color:var(--heroSub); }
+  .pos { color:var(--gr); } .neg { color:var(--re); }
+  button { font:inherit; font-weight:600; font-size:14px; color:var(--tx); background:var(--card); border:1px solid var(--bd); border-radius:999px; padding:9px 18px; cursor:pointer; }
+  button:hover { border-color:var(--ac); }
+  button.main { background:var(--ac); border-color:var(--ac); color:var(--onac); font-weight:700; }
+  button.main:hover { filter:brightness(1.08); }
+  button.rm { font-size:12px; padding:3px 10px; margin-top:8px; color:var(--tx2); font-weight:500; }
+  input, select { font:inherit; font-size:14px; color:var(--tx); background:var(--bg); border:1px solid var(--bd); border-radius:10px; padding:9px 11px; width:100%; }
+  input:focus, select:focus { outline:2px solid var(--ac); outline-offset:0; border-color:transparent; }
+  input[type=checkbox] { width:auto; } input[type=range] { padding:0; accent-color:var(--ac); }
+  label { display:block; font-size:12px; font-weight:600; color:var(--tx2); margin-bottom:4px; }
+  .row { display:flex; gap:12px; flex-wrap:wrap; align-items:flex-end; } .row > div { flex:1; min-width:130px; }
+  .actions { display:flex; gap:8px; flex-wrap:wrap; align-items:center; }
+  .wave { display:none; align-items:flex-end; gap:3px; height:20px; } .wave.on { display:inline-flex; } .wave b { width:4px; background:var(--ac); border-radius:2px; animation:w .8s ease-in-out infinite alternate; } .wave b:nth-child(2) { animation-delay:.15s; } .wave b:nth-child(3) { animation-delay:.3s; } .wave b:nth-child(4) { animation-delay:.45s; }
+  @keyframes w { from { height:4px; } to { height:20px; } }
+  .item { border-top:1px solid var(--bd); padding:14px 0; } .item:first-child { border-top:none; padding-top:4px; }
+  .line { display:flex; justify-content:space-between; gap:10px; flex-wrap:wrap; align-items:center; }
+  .who { display:flex; align-items:center; gap:12px; }
+  .av { width:38px; height:38px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-size:12px; font-weight:700; color:#04130d; flex:none; }
+  .tname { font-weight:700; } .num { font-weight:700; text-align:right; }
+  .track { position:relative; height:8px; border-radius:6px; overflow:hidden; background:var(--track); margin:12px 0 4px; }
+  .zr { position:absolute; left:0; top:0; bottom:0; background:var(--rebg); } .zg { position:absolute; right:0; top:0; bottom:0; background:var(--grbg); }
+  .mk { position:absolute; top:0; bottom:0; width:4px; background:var(--ac); border-radius:2px; transform:translateX(-2px); }
+  .labels { display:flex; justify-content:space-between; font-size:11px; color:var(--tx2); }
+  .gauge, .donut { width:100%; max-width:180px; display:block; margin:0 auto; }
+  .g-bg, .d-bg { fill:none; stroke:var(--track); stroke-width:10; } .g-fg { fill:none; stroke:var(--ac); stroke-width:10; stroke-linecap:round; } .d-fg { fill:none; stroke:var(--ac); stroke-width:10; stroke-linecap:round; }
+  .g-num, .d-num { fill:var(--tx); font-family:inherit; font-weight:700; font-size:20px; }
+  .ctr { text-align:center; }
+  .alloc { display:flex; height:12px; border-radius:6px; overflow:hidden; background:var(--track); margin:6px 0 8px; } .alloc span { display:block; height:100%; }
+  .legend { display:flex; gap:12px; flex-wrap:wrap; font-size:12px; color:var(--tx2); } .legend i { display:inline-block; width:9px; height:9px; border-radius:50%; margin-right:5px; }
+  #resumoLista b { color:var(--tx); }
+  .rrow { display:flex; gap:12px; align-items:flex-start; padding:8px 0; border-top:1px solid var(--bd); } .rrow:first-child { border-top:none; }
+  .srow { display:flex; gap:10px; align-items:flex-start; padding:9px 0; border-top:1px solid var(--bd); font-size:14px; } .srow:first-child { border-top:none; } .srow .dot { margin-top:7px; } .srow b { display:block; font-weight:600; }
+  .out { margin-top:12px; padding:12px; border-radius:10px; background:var(--bg); font-size:14px; min-height:20px; }
+  .chk label { display:flex; gap:10px; align-items:flex-start; font-size:14px; font-weight:500; color:var(--tx); margin:0; padding:6px 0; cursor:pointer; } .chk input { margin-top:4px; }
+  .term { border-top:1px solid var(--bd); padding:10px 0; font-size:14px; } .term b { font-weight:700; } .lvl { font-size:11px; font-weight:600; color:var(--tx2); background:var(--track); border-radius:999px; padding:1px 9px; margin-left:6px; }
+  .broker { border:1px solid var(--bd); border-radius:12px; padding:14px; } .broker.rec { border:2px solid var(--ac); }
+  .mot { background:var(--acbg); border-color:transparent; }
+  .mot .q { font-size:19px; font-weight:600; line-height:1.4; margin:4px 0 14px; }
+  .mot .k { font-size:12px; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--ac); }
+  .tiles { display:grid; grid-template-columns:repeat(3, minmax(0, 1fr)); gap:10px; }
+  .tile { background:var(--bg); border-radius:12px; padding:10px 12px; }
+  .tile .n { font-size:24px; font-weight:700; line-height:1.2; } .tile .t { font-size:12px; color:var(--tx2); }
+  .grp { font-size:12px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--tx2); margin:18px 0 2px; }
+  .nm { color:var(--tx2); font-weight:500; font-size:13px; margin-left:8px; }
+  .why { margin-top:8px; display:flex; gap:8px; align-items:flex-start; flex-wrap:wrap; font-size:13px; color:var(--tx2); }
+  .mchip { display:inline-flex; align-items:center; gap:2px; border:1px solid var(--bd); border-radius:999px; padding:2px 4px 2px 12px; font-size:13px; font-weight:600; margin:0 6px 6px 0; }
+  .mchip button { border:none; background:transparent; padding:0 8px; font-size:16px; line-height:1.4; color:var(--tx2); }
+  .an { margin-top:10px; }
+  .scorebar { height:8px; border-radius:6px; background:var(--track); overflow:hidden; } .scorebar div { height:100%; background:var(--ac); border-radius:6px; }
+  .sec { font-size:12px; font-weight:700; letter-spacing:.08em; text-transform:uppercase; color:var(--tx2); margin:16px 0 6px; }
+  .crit { display:flex; gap:10px; align-items:flex-start; padding:7px 0; border-top:1px solid var(--bd); font-size:14px; } .crit:first-of-type { border-top:none; } .crit b { font-weight:600; } .crit > div { flex:1; }
+  .ck { width:22px; height:22px; border-radius:50%; display:inline-flex; align-items:center; justify-content:center; font-size:12px; font-weight:700; flex:none; margin-top:1px; }
+  .ck.ok { background:var(--grbg); color:var(--gr); } .ck.mid { background:var(--ambg); color:var(--am); } .ck.no { background:var(--rebg); color:var(--re); }
+  .pts { font-size:12px; color:var(--tx2); font-weight:600; white-space:nowrap; margin-top:3px; }
+  .plano { display:grid; grid-template-columns:repeat(auto-fit, minmax(220px, 1fr)); gap:10px; }
+  .pbox { background:var(--bg); border-radius:12px; padding:12px; font-size:13px; color:var(--tx); } .pbox b { display:block; font-size:11px; color:var(--tx2); text-transform:uppercase; letter-spacing:.06em; margin-bottom:4px; font-weight:700; }
+  .cl { background:var(--bg); border-radius:12px; padding:14px; } .cl .vtxt { font-weight:600; margin:8px 0 4px; font-size:14px; } .cs b { font-size:13px; } .cs p { margin:2px 0 10px; font-size:14px; color:var(--tx); }
+  .tiles.sm .n { font-size:18px; } .tiles.sm .t { line-height:1.3; }
+  .plan1 { font-size:14px; margin-top:10px; } .plan1 b { font-weight:700; }
+  details summary { cursor:pointer; font-weight:600; color:var(--ac); }
+  footer { font-size:12px; color:var(--tx2); margin-top:10px; }
+  a { color:var(--ac); }
+  @media (max-width:700px) { .links { order:3; width:100%; flex-wrap:nowrap; overflow-x:auto; } .links a { white-space:nowrap; } }
+  @media (max-width:600px) { .hero .big { font-size:30px; } h1 { font-size:22px; } }
+</style>
+</head>
+<body>
+<header class="top">
+  <div class="topin">
+    <div class="logo"><i></i><span id="brand">Orbit</span></div>
+    <nav class="links">
+      <a href="#resumo">Resumo</a><a href="#carteira">Carteira</a><a href="#oportunidades">Oportunidades</a><a href="#ferramentas">Ferramentas</a><a href="#aprender">Aprender</a><a href="#config">Config</a>
+    </nav>
+    <span class="pill" id="pill"><span class="dot"></span><span id="pillTx">Verificando...</span></span>
+    <button id="tema" title="Alternar tema claro e escuro" style="padding:6px 12px">Tema</button>
+  </div>
+</header>
+
+<main>
+  <section class="greet" id="resumo">
+    <div>
+      <div class="eyebrow">Painel de hoje</div>
+      <h1 id="saud">Olá, Pedro</h1>
+      <div class="sub" id="data"></div>
+    </div>
+    <div class="actions">
+      <span class="wave" id="wave"><b></b><b></b><b></b><b></b></span>
+      <button class="main" id="btnFalar">Ouvir resumo</button>
+      <button id="btnMic">Falar comando</button>
+      <button id="btnAtu">Atualizar</button>
+    </div>
+  </section>
+
+  <div class="hero">
+    <div>
+      <div class="lbl">Valor atual da carteira</div>
+      <div class="big" id="totAtual">R$ 0,00</div>
+      <span class="chip c-ne" id="totRes">Nenhuma compra registrada</span>
+    </div>
+    <div class="side">
+      <div><div class="lbl">Investido</div><div class="v" id="totInv">R$ 0,00</div></div>
+      <div><div class="lbl">Orçamento livre</div><div class="v" id="totLivre">R$ 0,00</div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>O que o assistente viu hoje</h2>
+    <div id="resumoLista" class="sub">Carregando...</div>
+    <div class="small" id="status" style="margin-top:6px"></div>
+  </div>
+
+  <section id="oportunidades" class="card">
+    <h2>Oportunidades no meu radar</h2>
+    <div class="small" style="margin-bottom:12px">Cada ação recebe uma pontuação de 0 a 100 com vários critérios: queda, faixa de preço, sobrevenda, estabilização, tendência, oscilação, risco x retorno e a leitura do Claude sobre a empresa. Mostro as 3 mais importantes. Abra "Ver análise completa" para entender cada ponto.</div>
+    <div class="tiles" id="tiles"></div>
+    <div id="watch"></div>
+    <details style="margin-top:14px">
+      <summary>Gerenciar radar</summary>
+      <div id="manage" style="margin-top:10px"></div>
+      <div class="row" style="margin-top:10px">
+        <div><label>Acompanhar novo código</label><input id="wT" placeholder="Ex: NVDC34, PETR4"></div>
+        <div style="flex:none"><button id="addW" class="main">Acompanhar</button></div>
+        <div style="flex:none"><button id="rstW">Restaurar panorama padrão</button></div>
+      </div>
+    </details>
+  </section>
+
+  <div class="grid" style="margin-bottom:16px">
+    <div class="card ctr">
+      <h2>Termômetro de oportunidade</h2>
+      <div id="gauge"></div>
+      <div class="small" id="gaugeLbl"></div>
+    </div>
+    <div class="card ctr">
+      <h2>Orçamento usado</h2>
+      <div id="donut"></div>
+      <div class="small" id="donutLbl"></div>
+    </div>
+    <div class="card">
+      <h2>Conexão e status</h2>
+      <div id="statusLista"></div>
+    </div>
+  </div>
+
+  <section id="carteira" class="card">
+    <h2>Minha carteira</h2>
+    <div id="allocBox"></div>
+    <div id="posicoes"></div>
+    <details style="margin-top:12px">
+      <summary>Registrar uma compra</summary>
+      <div class="row" style="margin-top:10px">
+        <div><label>Código (ex: NVDC34)</label><input id="pT" placeholder="NVDC34"></div>
+        <div><label>Quantidade</label><input id="pQ" type="number" step="1" min="1" placeholder="3"></div>
+        <div><label>Preço médio pago (R$)</label><input id="pP" type="number" step="0.01" min="0" placeholder="25,40"></div>
+        <div style="flex:none"><button id="addPos" class="main">Adicionar</button></div>
+      </div>
+    </details>
+  </section>
+
+  <section id="ferramentas">
+    <div class="grid" style="margin-bottom:16px">
+      <div class="card">
+        <h2>Calculadora de compra</h2>
+        <div class="row">
+          <div><label>Quanto quero investir (R$)</label><input id="kV" type="number" min="0" step="10" placeholder="100"></div>
+          <div><label>Preço da ação (R$)</label><input id="kP" type="number" min="0" step="0.01" placeholder="25,40"></div>
+        </div>
+        <div class="row" style="margin-top:10px">
+          <div><label>Usar cotação de</label><select id="kT"></select></div>
+          <div style="flex:none"><button id="kGo" class="main">Calcular</button></div>
+        </div>
+        <div class="out" id="kOut">Preencha e clique em Calcular.</div>
+      </div>
+      <div class="card">
+        <h2>Simulador "e se"</h2>
+        <label>Se minha carteira variar: <span id="sPct">-10%</span></label>
+        <input id="sR" type="range" min="-40" max="40" step="1" value="-10">
+        <div class="out" id="sOut"></div>
+        <div class="small" style="margin-top:8px">Serve para sentir o risco antes de comprar.</div>
+      </div>
+      <div class="card chk">
+        <h2>Checklist antes de comprar</h2>
+        <label><input type="checkbox"> Sei o que essa empresa faz.</label>
+        <label><input type="checkbox"> Sei por que o preço caiu ou subiu.</label>
+        <label><input type="checkbox"> Defini o preço para vender com ganho.</label>
+        <label><input type="checkbox"> Defini o limite de perda.</label>
+        <label><input type="checkbox"> É dinheiro que não vou precisar tão cedo.</label>
+        <label><input type="checkbox"> O valor está dentro do meu limite por compra.</label>
+        <label><input type="checkbox"> Conferi a data do próximo balanço.</label>
+        <div class="out" id="chkOut"></div>
+      </div>
+    </div>
+  </section>
+
+  <section id="aprender" class="card">
+    <h2>Aprender</h2>
+    <div class="card" style="background:var(--acbg); border-color:transparent; margin-bottom:12px"><div class="small">Termo do dia</div><div id="termo"></div></div>
+    <input id="busca" placeholder="Buscar termo (ex: ETF, stop, balanço)">
+    <div id="glos" style="margin-top:8px"></div>
+  </section>
+
+  <section id="config" class="card">
+    <h2>Configurações</h2>
+    <div class="row">
+      <div><label>Seu nome</label><input id="cUser"></div>
+      <div><label>Nome do assistente</label><input id="cNome"></div>
+      <div><label>Corretora que uso</label><input id="cCorr"></div>
+      <div><label>Orçamento total (R$)</label><input id="cBud" type="number" min="0" step="50"></div>
+      <div><label>Máx. por compra (% do orçamento)</label><input id="cMax" type="number" min="1" max="100"></div>
+    </div>
+    <div class="row" style="margin-top:10px">
+      <div><label>Zona de compra: queda da máxima de 3 meses (%)</label><input id="cDrop" type="number" min="1"></div>
+      <div><label>Meta de venda com ganho (%)</label><input id="cTP" type="number" min="1"></div>
+      <div><label>Limite de perda (%)</label><input id="cSL" type="number" min="1"></div>
+    </div>
+    <div style="margin-top:10px">
+      <label>Chave da brapi.dev (cotações)</label>
+      <input id="cTok" placeholder="Cole aqui sua chave">
+    </div>
+    <h2 style="margin-top:20px">Alertas no celular</h2>
+    <div class="small">Avisam quando uma compra sua bate a meta de venda ou o limite de perda da régua, ou quando uma ação do radar vira oportunidade. Saem enquanto o painel estiver aberto no notebook (pode ficar minimizado), em dias úteis, das 9h45 às 18h30, quando a bolsa está aberta.</div>
+    <div class="row" style="margin-top:10px">
+      <div><label>Tópico privado (ntfy)</label><input id="cNtfy" placeholder="Clique em Gerar"></div>
+      <div style="flex:none"><button id="ntfyGen">Gerar</button></div>
+      <div style="flex:none"><button id="ntfyTest">Enviar teste</button></div>
+    </div>
+    <div class="small" style="margin-top:8px">1) Instale o app gratuito ntfy no celular. 2) Toque em + e digite o tópico acima. 3) Clique em Enviar teste. O tópico funciona como uma senha: não o compartilhe.</div>
+    <div class="chk" style="margin-top:8px">
+      <label><input type="checkbox" id="aCel"> Avisar no celular (ntfy)</label>
+      <label><input type="checkbox" id="aWeb"> Avisar no navegador do notebook <button id="webPerm" style="margin-left:8px;padding:3px 12px;font-size:12px">Permitir</button></label>
+      <label><input type="checkbox" id="aOpp"> Avisar quando uma ação do radar virar oportunidade</label>
+    </div>
+    <div class="small" style="margin-top:12px">Para os avisos funcionarem com o notebook desligado, o servidor precisa da sua lista de compras e das suas regras.</div>
+    <div class="actions" style="margin-top:8px"><button id="cfgSrv">Copiar configuração para o servidor</button></div>
+    <h2 style="margin-top:20px">Voz</h2>
+    <div class="row">
+      <div><label>Voz</label><select id="cVoz"></select></div>
+      <div><label>Tom: <span id="pitchV"></span> (1,0 é o natural)</label><input id="cPitch" type="range" min="0.7" max="1.2" step="0.05"></div>
+      <div><label>Velocidade: <span id="rateV"></span></label><input id="cRate" type="range" min="0.8" max="1.3" step="0.05"></div>
+      <div style="flex:none"><button id="testVoz">Testar voz</button></div>
+    </div>
+    <div class="small" style="margin-top:8px">Para uma voz mais limpa e natural, use o Microsoft Edge conectado à internet e escolha uma voz masculina marcada como "Online (Natural)", como a Antonio. O tom 1,0 costuma soar melhor que tons graves.</div>
+    <div class="actions" style="margin-top:16px">
+      <button id="salvar" class="main">Salvar e atualizar</button>
+      <button id="exp">Exportar meus dados</button>
+      <button id="impB">Importar dados</button><input id="imp" type="file" accept="application/json" style="display:none">
+    </div>
+  </section>
+
+  <section class="card mot" id="motivacao">
+    <div class="k">Frase do dia</div>
+    <div class="q" id="frase"></div>
+    <div class="k">Você sabia?</div>
+    <div style="margin:4px 0 12px; font-size:15px" id="caso"></div>
+    <div class="actions"><button id="btnMot">Ouvir</button></div>
+    <div class="small" style="margin-top:10px">Cases reais de investidores, escolhidos para inspirar. Quem aparece aqui é a exceção que ficou conhecida, e resultados passados não garantem resultados futuros.</div>
+  </section>
+
+  <footer>Este painel mostra sinais baseados nas regras que você mesmo definiu. Não é recomendação de investimento: a decisão final é sempre sua. Investir em ações envolve risco de perda. Cotações podem ter atraso. Seus dados ficam só neste navegador e o painel não se conecta à sua conta em nenhuma corretora.</footer>
+</main>
+
+<script>
+(function () {
+  var KEY = 'painelAcoes_v1';
+  var INFO = {
+    NVDC34:['Nvidia','Tecnologia','Chips e placas para inteligência artificial'],
+    AAPL34:['Apple','Tecnologia','iPhone, Mac e serviços digitais'],
+    MSFT34:['Microsoft','Tecnologia','Windows, Office e nuvem Azure'],
+    GOGL34:['Google (Alphabet)','Tecnologia','Buscador, YouTube e nuvem'],
+    AMZO34:['Amazon','Varejo e nuvem','Loja online e nuvem AWS'],
+    M1TA34:['Meta','Tecnologia','Facebook, Instagram e WhatsApp'],
+    TSLA34:['Tesla','Automotivo','Carros elétricos e energia'],
+    PETR4:['Petrobras','Energia','Petróleo e combustíveis'],
+    VALE3:['Vale','Mineração','Minério de ferro e níquel'],
+    ITUB4:['Itaú Unibanco','Bancos','Um dos maiores bancos do Brasil'],
+    BBDC4:['Bradesco','Bancos','Banco e seguradora'],
+    BBAS3:['Banco do Brasil','Bancos','Banco público, forte no agro'],
+    WEGE3:['WEG','Indústria','Motores elétricos e equipamentos'],
+    ABEV3:['Ambev','Bebidas','Cervejas e refrigerantes'],
+    B3SA3:['B3','Financeiro','Dona da bolsa de valores do Brasil'],
+    SUZB3:['Suzano','Papel e celulose','Celulose e papel'],
+    RENT3:['Localiza','Serviços','Aluguel de carros'],
+    PRIO3:['Prio','Energia','Petróleo em águas profundas'],
+    MGLU3:['Magazine Luiza','Varejo','Lojas físicas e online'],
+    BOVA11:['ETF Ibovespa','ETF','Cesta com grandes empresas da bolsa brasileira'],
+    IVVB11:['ETF S&P 500','ETF','Cesta com 500 grandes empresas dos EUA']
+  };
+  var ANALISES = {
+    NVDC34: {
+      iso:'2026-11-15', data:'15/11/2026', veredito:'cautela',
+      vtxt:'Choque de confiança, sem piora nos números até aqui. O balanço de 17/11 é o grande teste.',
+      s:[
+        ['O que aconteceu','Em 12/11, Jensen Huang, fundador e CEO, renunciou ao cargo e ao conselho, com efeito imediato, depois de relatos da imprensa sobre a vida pessoal dele e de uma investigação aberta pelo conselho (os detalhes não foram confirmados). Colette Kress, diretora financeira, virou CEO interina e o conselho procura um sucessor. A ação já vinha caindo: de cerca de US$ 205 em 30/10 para cerca de US$ 162 em 12/11, com mínima do dia perto de US$ 150.'],
+        ['Por que a ação caiu','Três motivos somados. (1) Incerteza de liderança: Huang era a figura central da estratégia e dos acordos da empresa. (2) Dúvidas do mercado sobre o tamanho do gasto com IA. (3) Medo de regras mais duras para data centers de IA depois das eleições americanas.'],
+        ['Temporária ou deterioração?','Os números ainda não mostram piora. No trimestre encerrado em julho, a receita foi de US$ 96,2 bi (+106% em um ano), com margem bruta de 75%, e a empresa projetou US$ 108 bi para o trimestre seguinte. A RBC cita demanda cerca de 50% acima da oferta. O risco real é de médio prazo: perder a visão do fundador e a relação com grandes clientes. Por isso a leitura é de cautela: abalo de confiança, não de negócio, por enquanto.'],
+        ['Preço frente aos fundamentos','Em 30/10 o P/L projetado era 16,9x (era 20,8x em julho). Com a ação perto de US$ 162 e as estimativas de lucro mantidas, ficaria perto de 13x (conta aproximada minha). Isso é baixo para esse crescimento. Mas os analistas se dividiram: no consenso da Bloomberg são 73 compras, 8 neutros e 1 venda, com alvos cortados (Citi US$ 225, RBC US$ 230, Wells Fargo US$ 300) e o Bernstein rebaixou para neutro, com alvo de US$ 200.'],
+        ['Faixa de entrada','Em vez de uma compra só, o mais prudente é dividir: uma parte pequena depois do balanço de 17/11, se a projeção para janeiro ficar perto ou acima de US$ 124 bi, e outra se a ação recuar mais 8% a 10%. Referência na ação americana: US$ 150 a 165, perto da mínima de 12/11. O NVDC34 acompanha esses preços, mas também varia com o dólar. O cartão do motor traduz a faixa para reais.'],
+        ['Cenário de perda','Se o balanço decepcionar ou vier notícia ruim sobre sucessão ou investigação, e o lucro projetado cair 10% com o mercado pagando 12x, a ação iria para perto de US$ 130, cerca de 20% abaixo do nível atual (conta ilustrativa, não previsão). Só invista o que você aceita ver cair assim.'],
+        ['Quando vender ou rever','Rever a tese se a projeção de receita ou a margem bruta vier bem abaixo do esperado, se grandes clientes cortarem gastos com IA, ou se o novo CEO for mal recebido ou surgirem problemas de governança. Ganho: realizar parte perto de US$ 200 a 205 (nível de antes da crise) e o restante perto do alvo mais conservador dos analistas, cerca de US$ 225. Limite de perda sugerido: abaixo de cerca de US$ 140.'],
+        ['O que acompanhar','17/11, após o fechamento: balanço e previsão para janeiro (o mercado espera cerca de US$ 124 bi). Anúncio do novo CEO. A imprensa também aponta a estreia da Anthropic na Nasdaq em 19/11 como termômetro do apetite por IA.']
+      ],
+      fontes:[
+        ['Bloomberg Línea, 12/11/2026','https://www.bloomberglinea.com.br/mercados/as-acoes-da-nvidia-despencam-em-wall-street-apos-a-renuncia-de-jensen-huang/'],
+        ['TIKR, 02/11/2026','https://www.tikr.com/pt/blog/nvidias-fiscal-2028-revenue-estimate-is-up-25-since-june-heres-what-november-17-has-to-prove'],
+        ['Nord Investimentos, resultado do 2T27','https://www.nordinvestimentos.com.br/blog/amp/nvidia-nvda-resultado-2t27/'],
+        ['Investing.com, nota da RBC','https://br.investing.com/news/analyst-ratings/rbc-reduz-precoalvo-da-nvidia-em-meio-a-incerteza-sobre-investigacao-do-ceo-93CH-2124736'],
+        ['TV Sim Brasil, 15/11/2026','https://tvsimbrasil.com.br/brasil/tecnologia/noticia/2026/11/15/balanco-nvidia-ipo-anthropic-semana-sem-huang']
+      ]
+    }
+  };
+
+  var DEFAULT_WATCH = ['NVDC34','AAPL34','MSFT34','GOGL34','AMZO34','M1TA34','TSLA34','PETR4','VALE3','ITUB4','BBDC4','BBAS3','WEGE3','ABEV3','B3SA3','SUZB3','RENT3','PRIO3','MGLU3','BOVA11','IVVB11'];
+  var padrao = { token:'', budget:500, maxPct:25, drop:10, tp:20, sl:12, watch:[], pos:[], name:'Orbit', user:'Pedro', voice:'', pitch:1, rate:1, ver:4, theme:'auto', ntfy:'', aCel:true, aWeb:true, aOpp:true, corretora:'XP' };
+  var S = load();
+  var cache = {};
+  var CK = 'painelCot_v1';
+  var disk = loadDisk();
+  var net = { checked:false, at:null, errors:{} };
+  var ultimoResumo = '';
+  var falando = false;
+  var ocupado = false;
+  var radarMax = false;
+  var ultimaChecagem = null;
+  var abertos = {};
+  var ANA = {};
+  var TTL = 15 * 60 * 1000;
+
+  function load() {
+    var x = null;
+    try { x = JSON.parse(localStorage.getItem(KEY)); } catch (e) {}
+    var s = Object.assign({}, padrao, x || {});
+    s.watch = (s.watch || []).slice(); s.pos = (s.pos || []).slice();
+    if (!x) { s.watch = DEFAULT_WATCH.slice(); return s; }
+    if (!x.ver || x.ver < 2) { s.pitch = 1; s.rate = 1; s.voice = ''; s.user = x.user || 'Pedro'; }
+    if (!x.ver || x.ver < 3) { DEFAULT_WATCH.forEach(function (t) { if (s.watch.indexOf(t) < 0) s.watch.push(t); }); }
+    if (!x.ver || x.ver < 4) { s.aOpp = true; s.corretora = 'XP'; }
+    s.ver = 4;
+    return s;
+  }
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
+  function $(id) { return document.getElementById(id); }
+  function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+  function brl(n) { return n.toLocaleString('pt-BR', { style:'currency', currency:'BRL' }); }
+  function pct(n) { return (n >= 0 ? '+' : '') + n.toFixed(1).replace('.', ',') + '%'; }
+  function cls(n) { return n >= 0 ? 'pos' : 'neg'; }
+  function norm(t) { return String(t || '').toUpperCase().replace(/[^A-Z0-9]/g, ''); }
+  function clamp(v, a, b) { return Math.max(a, Math.min(b, v)); }
+  function nf(n) { return n.toLocaleString('pt-BR', { maximumFractionDigits:2 }); }
+  function nf1(n) { return Math.abs(n).toFixed(1).replace('.', ',').replace(/,0$/, ''); }
+  function diaDoAno() { var d = new Date(); return Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 86400000); }
+
+  function falaNome(t) { return INFO[t] ? INFO[t][0].replace(/\s*\(.*\)/, '') : t.replace(/([A-Z])(?=[A-Z0-9])/g, '$1 ').replace(/([A-Z])(\d)/, '$1 $2'); }
+  var cores = ['#34d399', '#a3e635', '#2dd4bf', '#94a3b8', '#fbbf24', '#86efac', '#67e8f9', '#d1d5db'];
+  function corDe(t) { var h = 0; for (var i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) >>> 0; return cores[h % cores.length]; }
+  function avatar(t) { return '<span class="av" style="background:' + corDe(t) + '">' + esc(t.slice(0, 2)) + '</span>'; }
+
+  var termos = [
+    ['Ação','Um pedacinho de uma empresa. Quem tem ação é sócio dela.','Básico'],
+    ['Ticker','O código da ação na bolsa, como PETR4 ou NVDC34.','Básico'],
+    ['B3','A bolsa de valores do Brasil, onde as ações são negociadas.','Básico'],
+    ['Corretora','O intermediário entre você e a bolsa, como XP, C6 ou Nubank.','Básico'],
+    ['Cotação','O preço atual de uma ação.','Básico'],
+    ['Pregão','O horário de negociação da B3, em dias úteis. Confira o horário atual no seu app.','Básico'],
+    ['Dividendos','Parte do lucro que a empresa paga a quem tem ações.','Básico'],
+    ['Volatilidade','O quanto o preço sobe e desce. Mais oscilação, mais risco.','Básico'],
+    ['Liquidez','A facilidade de vender a ação quando você quiser.','Básico'],
+    ['Mercado fracionário','Permite comprar ações de 1 em 1 quando o lote padrão é de 100. O código termina com F, como PETR4F. Alguns ativos, como muitos BDRs, já são negociados de 1 em 1: confira no app.','Básico'],
+    ['Ordem a mercado','Compra pelo preço do momento. Rápida, mas o preço pode variar um pouco.','Básico'],
+    ['Ordem limitada','Você define o preço máximo que aceita pagar. Só executa se o mercado chegar nele.','Básico'],
+    ['Spread','A diferença entre o preço de quem quer comprar e o de quem quer vender.','Intermediário'],
+    ['BDR','Recibo que representa uma ação estrangeira, como a Nvidia, negociado na B3 e em reais.','Básico'],
+    ['ETF','Fundo negociado como ação que compra várias empresas de uma vez, como o BOVA11.','Básico'],
+    ['Preço médio','Média do que você pagou por ação quando compra em datas diferentes.','Básico'],
+    ['Stop loss','Preço de saída que você define antes para limitar o prejuízo.','Intermediário'],
+    ['Take profit','Preço de saída que você define antes para realizar o lucro.','Intermediário'],
+    ['Balanço','Relatório de resultados da empresa. Costuma mexer bastante no preço.','Intermediário'],
+    ['P/L','Preço dividido pelo lucro por ação. Mostra quantos anos de lucro você paga na ação. Menor pode ser mais barato, mas depende do crescimento.','Intermediário'],
+    ['RSI','Indicador de 0 a 100 que mede a força da alta ou da queda recente. Abaixo de 30, a ação costuma estar em venda exagerada.','Intermediário'],
+    ['Média móvel','Média do preço dos últimos N dias. Ajuda a ver se a ação está acima ou abaixo da sua tendência.','Intermediário'],
+    ['Risco x retorno','Quanto você pode ganhar comparado com quanto pode perder. 2 para 1 significa ganho possível de o dobro da perda possível.','Intermediário'],
+    ['Máxima e mínima','O maior e o menor preço da ação em um período.','Básico'],
+    ['Diversificação','Não colocar todo o dinheiro em uma única ação para reduzir o risco.','Básico'],
+    ['Rentabilidade','Quanto o investimento rendeu, em porcentagem, em um período.','Básico'],
+    ['Alta e baixa','Alta é quando o preço sobe. Baixa é quando cai.','Básico'],
+    ['Posição','Quanto você tem de uma ação. "Estar posicionado" é ter a ação na carteira.','Intermediário'],
+    ['Imposto sobre ganho','Há imposto sobre o lucro na venda. Veja as regras atuais com sua corretora ou um contador.','Intermediário']
+  ];
+
+  var frases = [
+    { t:'Consistência vence intensidade: pequenos aportes, todo mês, por anos.' },
+    { t:'Quem entende o que compra dorme melhor quando o mercado cai.' },
+    { t:'Não é sobre acertar o dia perfeito. É sobre ter um plano e segui-lo.' },
+    { t:'Seu maior ativo no começo é o hábito de aprender um pouco todo dia.' },
+    { t:'Queda não é sentença. É a hora de reler o seu plano.' },
+    { t:'Proteja o capital primeiro. Os ganhos vêm depois.' },
+    { t:'Paciência é a estratégia mais subestimada da bolsa.' },
+    { t:'Comece pequeno, aprenda rápido e aumente com segurança.' },
+    { t:'Decida antes de comprar onde vai vender. As emoções chegam depois.' },
+    { t:'Ninguém controla o mercado, mas você controla o seu plano.' },
+    { t:'Diversificar não é medo. É inteligência.' },
+    { t:'Uma boa decisão não depende do resultado de um único dia.' },
+    { t:'Foco no processo: estudar, planejar, executar e revisar.' },
+    { t:'Seu 13º e suas férias são sementes. Plante com plano, não com pressa.' },
+    { t:'Seja medroso quando os outros são gananciosos e ganancioso quando os outros têm medo.', a:'Warren Buffett' },
+    { t:'Pequenos ganhos repetidos constroem grandes histórias.' },
+    { t:'Quem mantém a calma em dia de queda costuma decidir melhor.' },
+    { t:'Disciplina hoje, liberdade amanhã.' },
+    { t:'O melhor momento para aprender é antes de colocar um valor grande.' },
+    { t:'Cada real investido com critério é um voto no seu futuro.' }
+  ];
+  var casos = [
+    'Warren Buffett comprou suas primeiras ações aos 11 anos, e a maior parte da fortuna dele veio depois dos 50. Tempo e paciência pesam mais que pressa.',
+    'Peter Lynch comandou o fundo Magellan de 1977 a 1990 com retorno médio de cerca de 29% ao ano. A filosofia dele: invista no que você entende.',
+    'Ronald Read foi frentista e zelador nos EUA e, ao morrer em 2014, deixou cerca de US$ 8 milhões, juntados comprando ações de empresas sólidas e mantendo por décadas.',
+    'Grace Groner, secretária nos EUA, comprou ações da Abbott em 1935 e reinvestiu os dividendos. Ao morrer, em 2010, deixava cerca de US$ 7 milhões.',
+    'Luiz Barsi Filho, conhecido como o maior investidor pessoa física da bolsa brasileira, ficou famoso por comprar empresas que pagam bons dividendos e manter por décadas.',
+    'A Nvidia caiu mais de 50% entre o fim de 2021 e 2022 e depois chegou a ser uma das empresas mais valiosas do mundo. Quedas fortes fazem parte do jogo, mas o passado não garante o futuro.',
+    'Quem comprou ações da Amazon no IPO, em 1997, e manteve viu o valor se multiplicar por mais de mil vezes, já ajustado pelos desdobramentos.',
+    'Anne Scheiber, auditora da Receita dos EUA, se aposentou em 1944 com cerca de US$ 5 mil investidos e deixou cerca de US$ 22 milhões ao morrer, em 1995.',
+    'Buffett aprendeu com seu mentor, Benjamin Graham, a margem de segurança: comprar com desconto em relação ao valor da empresa.',
+    'John Bogle criou, em 1976, o primeiro fundo de índice para investidores comuns, mostrando que custo baixo e diversificação funcionam.',
+    'Em março de 2020 o Ibovespa caiu mais de 40% em poucas semanas. Quem manteve a calma viu uma grande recuperação nos meses seguintes.',
+    'Exemplo hipotético, não promessa: investir R$ 100 por mês durante 10 anos, com retorno de 10% ao ano, daria perto de R$ 20 mil, tendo colocado R$ 12 mil.',
+    'A Magazine Luiza (MGLU3) teve uma das maiores altas da bolsa brasileira entre 2016 e 2021 e depois uma queda forte. Nenhuma ação sobe para sempre, por isso diversificar importa.',
+    'Buffett disse ter orientado que 90% do patrimônio deixado para a esposa fosse aplicado em um fundo de índice do S&P 500: simples, barato e diversificado.'
+  ];
+
+  async function cotacao(t) {
+    var url = 'https://brapi.dev/api/quote/' + encodeURIComponent(t) + '?range=3mo&interval=1d' + (S.token ? '&token=' + encodeURIComponent(S.token) : '');
+    var r;
+    try { r = await fetch(url); } catch (e) { var e1 = new Error('net'); e1.code = 'net'; throw e1; }
+    if (!r.ok) { var e2 = new Error('http'); e2.code = r.status; throw e2; }
+    var j = await r.json();
+    var q = j.results && j.results[0];
+    if (!q || typeof q.regularMarketPrice !== 'number') { var e3 = new Error('nodata'); e3.code = 'nodata'; throw e3; }
+    var hist = (q.historicalDataPrice || []).filter(function (h) { return typeof h.close === 'number'; }).sort(function (a, b) { return (a.date || 0) - (b.date || 0); });
+    var closes = hist.map(function (h) { return h.close; }).slice(-66);
+    var vols = hist.map(function (h) { return typeof h.volume === 'number' ? h.volume : null; }).filter(function (v) { return v !== null; }).slice(-66);
+    var max = closes.length ? Math.max.apply(null, closes.concat([q.regularMarketPrice])) : q.regularMarketPrice;
+    return { price:q.regularMarketPrice, day:q.regularMarketChangePercent || 0, max3m:max, fromHigh:(q.regularMarketPrice / max - 1) * 100, name:q.shortName || t, closes:closes, vols:vols };
+  }
+
+  function limpaTopico(v) { return String(v || '').trim().replace(/[^A-Za-z0-9_-]/g, ''); }
+  function alertLoad() { try { return JSON.parse(localStorage.getItem('painelAlertas_v1')) || {}; } catch (e) { return {}; } }
+  function tsLoad() { try { return JSON.parse(localStorage.getItem('painelAlertasTs_v1')) || {}; } catch (e) { return {}; } }
+  function tsSave(o) { try { localStorage.setItem('painelAlertasTs_v1', JSON.stringify(o)); } catch (e) {} }
+  function alertSave(o) { try { localStorage.setItem('painelAlertas_v1', JSON.stringify(o)); } catch (e) {} }
+  function mercadoAberto() { var d = new Date(), w = d.getDay(); if (w === 0 || w === 6) return false; var m = d.getHours() * 60 + d.getMinutes(); return m >= 9 * 60 + 45 && m <= 18 * 60 + 30; }
+  function beep() { try { var A = window.AudioContext || window.webkitAudioContext, ctx = new A(), o = ctx.createOscillator(), g = ctx.createGain(); o.connect(g); g.connect(ctx.destination); o.frequency.value = 880; g.gain.value = 0.08; o.start(); setTimeout(function () { o.stop(); ctx.close(); }, 350); } catch (e) {} }
+  function enviarNtfy(titulo, msg, prio) {
+    return fetch('https://ntfy.sh', { method:'POST', body:JSON.stringify({ topic:S.ntfy, title:titulo, message:msg, priority:prio || 4, tags:['bell'] }) }).then(function (r) { if (!r.ok) throw new Error('ntfy'); });
+  }
+  function notificar(m) {
+    var feitos = [];
+    if (S.aWeb && 'Notification' in window && Notification.permission === 'granted') { try { new Notification(m.titulo, { body:m.msg }); beep(); feitos.push('navegador'); } catch (e) {} }
+    if (S.aCel && S.ntfy) { enviarNtfy(m.titulo, m.msg, m.prio).catch(function () { $('status').textContent = 'Não consegui enviar o aviso ao celular. Confira a internet.'; }); feitos.push('celular'); }
+    return feitos;
+  }
+  function msgPos(p, c, g, k) {
+    var n = falaNome(p.t), delta = p.q * c.price - p.q * p.pm;
+    if (k === 'meta') return { titulo:'Meta de venda atingida: ' + n, msg:p.t + ' está ' + pct(g) + ' sobre o seu preço médio. Preço agora: ' + brl(c.price) + '. Ganho de ' + brl(delta) + '. Hora de avaliar a venda.', prio:5 };
+    return { titulo:'Limite de perda atingido: ' + n, msg:p.t + ' está ' + pct(g) + ' do seu preço médio. Preço agora: ' + brl(c.price) + '. Perda de ' + brl(Math.abs(delta)) + '. Reveja a posição.', prio:5 };
+  }
+  function checarAlertas() {
+    ultimaChecagem = new Date();
+    var antes = alertLoad(), agora = {}, msgs = [];
+    S.pos.forEach(function (p) {
+      var c = cache[p.t]; if (!c) return;
+      var key = p.t + '|' + p.q + '|' + p.pm, g = (c.price / p.pm - 1) * 100, k = g >= S.tp ? 'meta' : (g <= -S.sl ? 'limite' : '');
+      if (k) { agora[key] = k; if (antes[key] !== k) msgs.push(msgPos(p, c, g, k)); }
+    });
+    if (S.aOpp) {
+      var n = 0;
+      S.watch.forEach(function (t) {
+        var A = ANA[t], c = cache[t]; if (!A || !c || A.nivel !== 'zona') return;
+        var key = 'opp|' + t; agora[key] = 'opp';
+        var tsm = tsLoad();
+        if (antes[key] !== 'opp' && n < 3 && Date.now() - (tsm[key] || 0) > 864e5) { n++; tsm[key] = Date.now(); tsSave(tsm); var P = A.plano; msgs.push({ titulo:'Oportunidade: ' + falaNome(t), msg:t + ' pontuou ' + A.score + '/100 e caiu ' + nf1(A.depth) + '% da máxima. ' + (P.qtd >= 1 ? 'Se comprar ' + brl(P.invest) + ', ganho possível de até ' + brl(P.g2) + ' e perda possível de ' + brl(P.loss) + '.' : 'Orçamento livre não cobre 1 ação.'), prio:3 }); }
+      });
+    }
+    alertSave(agora);
+    msgs.forEach(function (m) { notificar(m); });
+    if (msgs.length) $('status').textContent = msgs.length + ' alerta(s) enviado(s): ' + msgs.map(function (m) { return m.titulo; }).join('; ') + '.';
+    render();
+  }
+
+  var CK = 'painelCot_v1';
+  function loadDisk() { try { return JSON.parse(localStorage.getItem(CK)) || {}; } catch (e) { return {}; } }
+  function saveDisk() { try { localStorage.setItem(CK, JSON.stringify(disk)); } catch (e) {} }
+  function mesKey() { var d = new Date(); return d.getFullYear() + '-' + (d.getMonth() + 1); }
+  function reqGet() { try { var r = JSON.parse(localStorage.getItem('painelReq_v1')); if (r && r.m === mesKey()) return r; } catch (e) {} return { m:mesKey(), n:0 }; }
+  function reqInc() { var r = reqGet(); r.n++; try { localStorage.setItem('painelReq_v1', JSON.stringify(r)); } catch (e) {} }
+
+  async function atualizar(force, soPos) {
+    if (ocupado) return;
+    ocupado = true;
+    try {
+      var tk = {};
+      if (!soPos) S.watch.forEach(function (t) { tk[t] = 1; });
+      S.pos.forEach(function (p) { tk[p.t] = 1; });
+      var lista = Object.keys(tk), faltam = [], errs = {}, parar = false;
+      lista.forEach(function (t) {
+        var dk = disk[t];
+        if (!force && dk && dk.d && dk.d.closes && Date.now() - dk.ts < TTL) cache[t] = dk.d; else faltam.push(t);
+      });
+      for (var i = 0; i < faltam.length; i++) {
+        var tt = faltam[i];
+        $('status').textContent = 'Buscando cotações (' + (i + 1) + ' de ' + faltam.length + ')...';
+        if (parar) { errs[tt] = 429; }
+        else {
+          try { reqInc(); cache[tt] = await cotacao(tt); disk[tt] = { ts:Date.now(), d:cache[tt] }; }
+          catch (e) { errs[tt] = e.code; if (e.code === 429) parar = true; }
+        }
+        if (errs[tt] !== undefined) { var dk2 = disk[tt]; if (dk2 && Date.now() - dk2.ts < 864e5) cache[tt] = dk2.d; else delete cache[tt]; }
+        if (i % 3 === 2) render();
+      }
+      saveDisk();
+      var ultimo = null;
+      lista.forEach(function (t) { if (disk[t] && (!ultimo || disk[t].ts > ultimo)) ultimo = disk[t].ts; });
+      var er = soPos ? Object.assign({}, net.errors) : {};
+      if (soPos) lista.forEach(function (t) { delete er[t]; });
+      Object.keys(errs).forEach(function (t) { er[t] = errs[t]; });
+      net = { checked:true, at:ultimo ? new Date(ultimo) : null, errors:er };
+      $('status').textContent = '';
+    } finally { ocupado = false; }
+    render();
+    checarAlertas();
+  }
+
+  function motivo(code) {
+    if (code === 401 || code === 403) return 'A chave da brapi foi recusada. Confira em Config.';
+    if (code === 429) return 'Limite de consultas da brapi atingido. Aguarde alguns minutos.';
+    if (code === 'net') return 'Sem conexão com a internet ou acesso bloqueado.';
+    if (code === 'nodata') return 'Código não encontrado. Confira a grafia, como NVDC34.';
+    return 'Erro ' + code + ' ao consultar a brapi.';
+  }
+
+  function itensStatus() {
+    var it = [], lista = {};
+    S.watch.forEach(function (t) { lista[t] = 1; }); S.pos.forEach(function (p) { lista[p.t] = 1; });
+    var total = Object.keys(lista).length, ne = Object.keys(net.errors), nErr = ne.length;
+    var hh = net.at ? net.at.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) : '';
+    var uso = ' Plano gratuito: cerca de ' + reqGet().n.toLocaleString('pt-BR') + ' de 15.000 consultas no mês, com ~30 min de atraso.';
+    if (!total) it.push({ s:'in', t:'Cotações', d:'Nenhum ativo para consultar. Adicione ações ao radar.' });
+    else if (!net.checked) it.push({ s:'in', t:'Cotações', d:'Verificando...' });
+    else if (nErr === 0) it.push({ s:'ok', t:'Cotações', d:'Atualizadas às ' + hh + '.' + uso });
+    else if (nErr < total) it.push({ s:'wa', t:'Cotações', d:'Falhou em ' + ne.slice(0, 4).join(', ') + (ne.length > 4 ? ' e outras' : '') + '. ' + motivo(net.errors[ne[0]]) });
+    else it.push({ s:'ba', t:'Cotações', d:motivo(net.errors[ne[0]]) });
+    it.push(S.token ? { s:'ok', t:'Chave de acesso', d:'Chave da brapi.dev configurada.' } : { s:'wa', t:'Chave de acesso', d:'Sem chave: só alguns códigos de teste funcionam.' });
+    if (!S.pos.length) it.push({ s:'in', t:'Minha carteira', d:'Nenhuma compra registrada ainda.' });
+    else {
+      var com = S.pos.filter(function (p) { return cache[p.t]; }).length;
+      it.push(com === S.pos.length ? { s:'ok', t:'Minha carteira', d:S.pos.length + ' posição(ões) registradas, todas com cotação.' } : { s:'wa', t:'Minha carteira', d:com + ' de ' + S.pos.length + ' posições com cotação.' });
+    }
+    it.push({ s:'in', t:'Corretora (' + (S.corretora || 'XP') + ')', d:'Registro manual: o painel não lê sua conta na ' + (S.corretora || 'XP') + '. Ao comprar ou vender, atualize aqui.' });
+    var web = S.aWeb && 'Notification' in window && Notification.permission === 'granted', cel = S.aCel && S.ntfy;
+    it.push(web || cel ? { s:'ok', t:'Alertas', d:'Ativos: ' + [cel ? 'celular (ntfy)' : '', web ? 'navegador' : ''].filter(Boolean).join(' e ') + '. ' + (mercadoAberto() ? 'Checando a cada 15 minutos (radar a cada 30).' : 'Mercado fechado agora: volta a checar no próximo pregão, às 9h45.') + (ultimaChecagem ? ' Última checagem às ' + ultimaChecagem.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) + '.' : '') + (S.aOpp ? '' : ' Avisos de oportunidade desligados.') } : { s:'in', t:'Alertas', d:'Desligados. Ative em Config para receber avisos no celular.' });
+    var v = escolherVoz();
+    if (!('speechSynthesis' in window) || !v) it.push({ s:'ba', t:'Voz', d:'Nenhuma voz em português encontrada. Use o Microsoft Edge.' });
+    else it.push(ehNatural(v) ? { s:'ok', t:'Voz', d:v.name } : { s:'wa', t:'Voz', d:v.name + '. É uma voz básica; no Edge, escolha uma "Online (Natural)".' });
+    return it;
+  }
+
+  function investido() { return S.pos.reduce(function (a, p) { return a + p.q * p.pm; }, 0); }
+  function sugestao(price) {
+    var livre = Math.max(0, S.budget - investido());
+    var maxCompra = Math.min(livre, S.budget * S.maxPct / 100);
+    var qtd = Math.floor(maxCompra / price);
+    return { livre:livre, maxCompra:maxCompra, qtd:qtd, custo:qtd * price };
+  }
+
+  function sinalPos(p, c) {
+    var g = (c.price / p.pm - 1) * 100, n = falaNome(p.t);
+    if (g >= S.tp) return { tag:'c-ok', txt:'Meta de venda atingida (' + pct(g) + ')', fala:n + ' atingiu a sua meta de venda, com ' + nf1(g) + ' por cento de ganho.', g:g };
+    if (g <= -S.sl) return { tag:'c-ba', txt:'Limite de perda atingido (' + pct(g) + '). Vale revisar.', fala:n + ' atingiu o seu limite de perda, em menos ' + nf1(g) + ' por cento. Vale revisar.', g:g };
+    return { tag:'c-ne', txt:'Dentro das regras: manter e acompanhar', fala:n + ' segue dentro das regras, com ' + (g >= 0 ? 'mais ' : 'menos ') + nf1(g) + ' por cento.', g:g };
+  }
+  function idadeDias(iso) { return Math.floor((Date.now() - new Date(iso + 'T12:00:00').getTime()) / 864e5); }
+  function leituraClaude(t) { var a = ANALISES[t]; if (!a) return null; var d = idadeDias(a.iso); return { a:a, dias:d, fresca:d <= 14 }; }
+  function avg(a) { a = a.filter(function (v) { return typeof v === 'number'; }); return a.length ? a.reduce(function (x, y) { return x + y; }, 0) / a.length : 0; }
+
+  function analisar(t, c) {
+    var cl = c.closes || [], n = cl.length, px = c.price, max3 = c.max3m;
+    var min3 = n ? Math.min(Math.min.apply(null, cl), px) : px;
+    var depth = Math.max(0, -c.fromHigh);
+    var pos = max3 > min3 ? clamp((px - min3) / (max3 - min3), 0, 1) : 0.5;
+    function ret(k) { return n > k ? (px / cl[n - 1 - k] - 1) * 100 : null; }
+    function sma(k) { if (n < k) return null; var s = 0; for (var i = n - k; i < n; i++) s += cl[i]; return s / k; }
+    var r5 = ret(5), r10 = ret(10), r20 = ret(20), s20 = sma(20), s50 = sma(50);
+    var rets = [];
+    for (var i = Math.max(1, n - 40); i < n; i++) rets.push(cl[i] / cl[i - 1] - 1);
+    var sd = 0.025, temVol = false;
+    if (rets.length >= 15) { var mu = avg(rets); sd = Math.sqrt(rets.reduce(function (a, b) { return a + (b - mu) * (b - mu); }, 0) / (rets.length - 1)); temVol = true; }
+    var vol = sd * Math.sqrt(252) * 100;
+    var rsi = null;
+    if (n >= 15) { var g = 0, l = 0; for (var j = n - 14; j < n; j++) { var dd = cl[j] - cl[j - 1]; if (dd > 0) g += dd; else l -= dd; } rsi = l === 0 ? 100 : 100 - 100 / (1 + g / l); }
+    var vs = c.vols || [], vspike = null;
+    if (vs.length >= 30) { var base = avg(vs.slice(-60)); vspike = base > 0 ? avg(vs.slice(-5)) / base : null; }
+
+    var risco = clamp(1.5 * sd * Math.sqrt(10), 0.06, 0.20);
+    var stop = px * (1 - risco);
+    var alvo1 = max3 > px * 1.05 ? px + 0.5 * (max3 - px) : px * 1.06;
+    var alvo2 = max3 > px * 1.08 ? max3 : px * 1.12;
+    var rr = (alvo1 - px) / (px - stop);
+    var naMin = n > 0 && px <= min3 * 1.005;
+
+    var tipo, perfil;
+    if (r10 !== null && r10 <= -8 && vspike && vspike >= 1.3) { tipo = 'choque'; perfil = 'Queda rápida (' + pct(r10) + ' em 10 dias) com volume alto: costuma haver uma notícia por trás. Leia o contexto antes de decidir.'; }
+    else if (s20 && s50 && px < s50 && s20 < s50 && r20 !== null && r20 <= -5) { tipo = 'gradual'; perfil = 'Queda gradual e persistente: o mercado vem perdendo confiança aos poucos. Cuidado: pode ser piora do negócio, e não pechincha.'; }
+    else if (depth >= S.drop / 2) { tipo = 'moderada'; perfil = 'Recuo moderado, dentro da oscilação normal de uma ação.'; }
+    else { tipo = 'nenhuma'; perfil = 'Sem queda relevante desde a máxima de 3 meses.'; }
+
+    var crit = [];
+    function add(nome, peso, frac, nota) { frac = clamp(frac, 0, 1); crit.push({ nome:nome, peso:peso, pts:Math.round(peso * frac * 10) / 10, f:frac, nota:nota }); }
+    add('Desconto da máxima', 25, depth / S.drop, 'Caiu ' + nf1(depth) + '% da máxima de 3 meses. Sua zona de compra começa em -' + S.drop + '%.');
+    if (n >= 20) add('Faixa de 3 meses', 10, (0.5 - pos) / 0.5, 'Está em ' + Math.round(pos * 100) + '% da faixa entre a mínima e a máxima de 3 meses (0% = na mínima).');
+    if (rsi !== null) add('Sobrevenda (RSI)', 15, (50 - rsi) / 20, 'RSI em ' + Math.round(rsi) + '. Abaixo de 30 indica venda exagerada; acima de 50, não.');
+    if (r5 !== null) add('Estabilização', 15, ((r5 + 8) / 5) * (naMin ? 0.5 : 1), 'Últimos 5 dias: ' + pct(r5) + '.' + (naMin ? ' Está fazendo mínima nova: a queda ainda pode estar em curso.' : ' Quanto menos cai nos últimos dias, mais firme está.'));
+    if (s50) add('Tendência', 10, 1 - (((s50 - px) / s50 * 100) - 5) / 15, 'Preço ' + pct((px / s50 - 1) * 100) + ' da média de 50 dias. Muito abaixo dela indica queda forte e recente.');
+    if (temVol) add('Volatilidade', 10, (90 - vol) / 50, 'Oscila cerca de ' + Math.round(vol) + '% ao ano. Quanto menor, menos risco de sustos.');
+    add('Risco x retorno', 15, (rr - 0.5) / 1.5, 'Alvo inicial ' + brl(alvo1) + ' (' + pct((alvo1 / px - 1) * 100) + ') contra limite de perda em ' + brl(stop) + ' (-' + nf1(risco * 100) + '%): relação de ' + rr.toFixed(1).replace('.', ',') + ' para 1.');
+    add('Tipo de queda', 15, { choque:0.6, moderada:0.7, gradual:0, nenhuma:0.5 }[tipo], perfil);
+    var lc = leituraClaude(t);
+    if (lc && lc.fresca) add('Leitura do Claude', 20, { temporaria:1, cautela:0.5, deterioracao:0 }[lc.a.veredito], 'Leitura de ' + lc.a.data + ': ' + lc.a.vtxt);
+
+    var tot = 0, mx = 0;
+    crit.forEach(function (x) { tot += x.pts; mx += x.peso; });
+    var score = mx ? Math.round(tot / mx * 100) : 0;
+    var poucos = crit.length < 5;
+    if (poucos) score = Math.min(score, 45);
+    if (tipo === 'gradual') score = Math.min(score, 45);
+    var conf = (n >= 50 ? 1 : 0) + (lc && lc.fresca ? 1 : 0);
+
+    var capado = tipo === 'gradual' || (lc && lc.fresca && lc.a.veredito === 'deterioracao');
+    var nivel, label, tag;
+    if (score >= 50 && depth >= S.drop / 2 && !capado) { nivel = 'zona'; label = (score >= 70 && !naMin && (r5 === null || r5 > -8)) ? 'Oportunidade forte' : 'Oportunidade'; tag = 'c-ok'; }
+    else if (depth >= S.drop / 2) { nivel = 'obs'; label = tipo === 'gradual' ? 'Alerta: queda persistente' : 'Em observação'; tag = tipo === 'gradual' ? 'c-ba' : 'c-wa'; }
+    else { nivel = 'neutro'; label = 'Sem sinal'; tag = 'c-ne'; }
+
+    var sg = sugestao(px);
+    return { t:t, score:score, nivel:nivel, label:label, tag:tag, crit:crit, perfil:perfil, tipo:tipo, conf:['baixa', 'média', 'alta'][conf], poucos:poucos, depth:depth, lc:lc,
+      plano:{ entDe:px * (1 - risco / 2), entAte:px, stop:stop, risco:risco, alvo1:alvo1, alvo2:alvo2, rr:rr, sug:sg, qtd:sg.qtd, invest:sg.custo, g1:sg.qtd * (alvo1 - px), g2:sg.qtd * (alvo2 - px), loss:sg.qtd * (px - stop) } };
+  }
+
+  function sinalWatch(t, c) {
+    var A = analisar(t, c), n = falaNome(t), q = nf1(A.depth), P = A.plano;
+    var r = { nivel:A.nivel, tag:A.tag, label:A.label, score:A.score, A:A };
+    if (A.nivel === 'zona') {
+      r.why = P.qtd < 1 ? 'Caiu ' + q + '% da máxima, mas o orçamento livre não cobre 1 ação.' : 'Se comprar ' + brl(P.invest) + ' (' + (P.qtd === 1 ? '1 ação' : P.qtd + ' ações') + '): ganho possível de até ' + brl(P.g2) + ' e perda possível de ' + brl(P.loss) + '.';
+      r.fala = n + ' aparece como oportunidade, com pontuação ' + A.score + ' de 100. Caiu ' + q + ' por cento da máxima. Pela sua regra, o valor máximo para essa compra é ' + nf(Math.round(P.sug.maxCompra)) + ' reais. Veja a análise completa no painel.';
+    } else if (A.nivel === 'obs') {
+      r.why = 'Caiu ' + q + '% da máxima. ' + A.perfil;
+      r.fala = n + ' está em observação: caiu ' + q + ' por cento da máxima, com pontuação ' + A.score + ' de 100.';
+    } else {
+      r.why = A.perfil;
+      r.fala = n + ' está sem sinal de compra.';
+    }
+    return r;
+  }
+
+  function gaugeSVG(v) {
+    var arc = 'M10 60 A50 50 0 0 1 110 60';
+    return '<svg viewBox="0 0 120 70" class="gauge" role="img" aria-label="Termômetro de oportunidade ' + Math.round(v) + ' de 100"><defs><linearGradient id="gg" gradientUnits="userSpaceOnUse" x1="10" y1="0" x2="110" y2="0"><stop offset="0" stop-color="#38bdf8"/><stop offset="0.4" stop-color="#34d399"/><stop offset="0.7" stop-color="#fbbf24"/><stop offset="1" stop-color="#f87171"/></linearGradient></defs>' +
+      '<path d="' + arc + '" pathLength="100" class="g-bg" style="stroke:url(#gg);opacity:.2"/>' +
+      (v > 0.5 ? '<path d="' + arc + '" pathLength="100" class="g-fg" style="stroke:url(#gg);stroke-dasharray:' + v + ' 100"/>' : '') +
+      '<text x="60" y="54" text-anchor="middle" class="g-num">' + Math.round(v) + '</text></svg>' +
+      '<div class="labels" style="max-width:180px;margin:0 auto"><span>Frio</span><span>Quente</span></div>';
+  }
+  function donutSVG(v) {
+    return '<svg viewBox="0 0 100 100" class="donut" role="img" aria-label="Orçamento usado ' + Math.round(v) + ' por cento"><circle cx="50" cy="50" r="38" pathLength="100" class="d-bg"/><circle cx="50" cy="50" r="38" pathLength="100" class="d-fg" style="stroke-dasharray:' + v + ' 100" transform="rotate(-90 50 50)"/><text x="50" y="56" text-anchor="middle" class="d-num">' + Math.round(v) + '%</text></svg>';
+  }
+  function regua(g) {
+    var total = S.tp + S.sl, zero = S.sl / total * 100, pos = clamp((g + S.sl) / total * 100, 0, 100);
+    return '<div class="track"><div class="zr" style="width:' + zero + '%"></div><div class="zg" style="width:' + (100 - zero) + '%"></div><div class="mk" style="left:' + pos + '%"></div></div><div class="labels"><span>Limite de perda -' + S.sl + '%</span><span>Meta +' + S.tp + '%</span></div>';
+  }
+
+  function claudeHTML(t) {
+    var lc = leituraClaude(t);
+    if (!lc) return '<div class="pbox"><b>Leitura do Claude</b>Ainda não há leitura individual para esta ação. Use o botão abaixo para pedir: o Claude pesquisa notícias e fundamentos e atualiza o painel.</div>';
+    var a = lc.a, vt = { temporaria:['c-ok', 'Queda parece temporária'], cautela:['c-wa', 'Cautela'], deterioracao:['c-ba', 'Sinais de deterioração'] }[a.veredito];
+    return '<div class="cl"><div class="line"><span class="chip ' + vt[0] + '">' + vt[1] + '</span><span class="small">Leitura de ' + esc(a.data) + (lc.fresca ? '' : ' · desatualizada, não entra na pontuação') + '</span></div><div class="vtxt">' + esc(a.vtxt) + '</div>' +
+      a.s.map(function (x) { return '<div class="cs"><b>' + esc(x[0]) + '</b><p>' + esc(x[1]) + '</p></div>'; }).join('') +
+      '<div class="small">Fontes: ' + a.fontes.map(function (f) { return '<a href="' + esc(f[1]) + '" target="_blank" rel="noopener">' + esc(f[0]) + '</a>'; }).join(' · ') + '</div>' +
+      '<div class="small" style="margin-top:6px">Leitura baseada em notícias públicas até a data indicada. Não é recomendação de investimento.</div></div>';
+  }
+
+  function analiseHTML(x) {
+    var A = x.A, P = A.plano;
+    var h = '<div class="an">';
+    h += '<div class="small" style="margin:6px 0">Pontuação do motor: <b style="color:var(--tx)">' + A.score + ' de 100</b> · confiança ' + A.conf + (A.poucos ? ' · poucos dados, atualize para ver o histórico completo' : '') + '</div><div class="scorebar"><div style="width:' + A.score + '%"></div></div>';
+    h += '<div class="sec">Plano sugerido</div>';
+    if (P.qtd < 1) h += '<div class="pbox">Seu orçamento livre não cobre 1 ação desta empresa. Aumente o orçamento em Config ou espere.</div>';
+    else {
+      h += '<div class="tiles sm"><div class="tile"><div class="t">Se for comprar</div><div class="n">' + brl(P.invest) + '</div><div class="t">' + (P.qtd === 1 ? '1 ação' : P.qtd + ' ações') + ' a ' + brl(x.c.price) + '</div></div>' +
+        '<div class="tile"><div class="t">Se der certo</div><div class="n pos">+' + brl(P.g1) + '</div><div class="t">se chegar a ' + brl(P.alvo1) + '</div></div>' +
+        '<div class="tile"><div class="t">Se der errado</div><div class="n neg">-' + brl(P.loss) + '</div><div class="t">se cair a ' + brl(P.stop) + '</div></div></div>';
+      h += '<div class="plan1"><b>Como sair:</b> venda uma parte perto de ' + brl(P.alvo1) + ' e o resto perto de ' + brl(P.alvo2) + ' (ganho de até +' + brl(P.g2) + '). Saia se cair abaixo de ' + brl(P.stop) + '.</div>';
+      h += '<div class="plan1"><b>Dica:</b> divida em 2 compras: metade agora e metade se cair até ' + brl(P.entDe) + '.</div>';
+      h += '<div class="small" style="margin-top:6px">Para cada R$ 1 que você arrisca, o ganho possível é de R$ ' + P.rr.toFixed(1).replace('.', ',') + '.</div>';
+    }
+    if (A.lc) h += '<div class="small" style="margin-top:8px">Atenção: há um evento marcado, como balanço. Veja a leitura do Claude abaixo antes de comprar.</div>';
+    h += '<div class="sec">Como o motor chegou nisso</div>';
+    h += A.crit.map(function (k) {
+      var st = k.f >= 0.67 ? ['ok', '✓'] : (k.f >= 0.34 ? ['mid', '~'] : ['no', '✗']);
+      return '<div class="crit"><span class="ck ' + st[0] + '">' + st[1] + '</span><div><b>' + esc(k.nome) + '</b><div class="small">' + esc(k.nota) + '</div></div><span class="pts">' + k.pts.toString().replace('.', ',') + '/' + k.peso + '</span></div>';
+    }).join('');
+    h += '<div class="sec">Leitura do Claude sobre a empresa</div>' + claudeHTML(x.t);
+    h += '<div style="margin-top:12px"><button data-pedir="' + esc(x.t) + '">Pedir análise atualizada ao Claude</button></div>';
+    h += '<div class="small" style="margin-top:8px">Valores calculados pelo histórico de 3 meses e pela oscilação da ação. São referências de estudo, não recomendação.</div></div>';
+    return h;
+  }
+
+  function linhaRadar(x) {
+    var t = x.t, c = x.c, inf = INFO[t];
+    var nome = inf ? inf[0] : (c ? c.name : '');
+    var desc = inf ? inf[1] + ' · ' + inf[2] : 'Sem descrição cadastrada';
+    var preco = c ? brl(c.price) + '<div class="small ' + cls(c.day) + '">' + pct(c.day) + ' hoje</div>' : '<span class="small">sem cotação</span>';
+    var why = x.sg ? '<div class="why"><span class="chip ' + x.sg.tag + '">' + esc(x.sg.label) + '</span><span>' + (x.nivel === 'neutro' ? '' : '<b style="color:var(--tx)">' + x.score + '/100</b> · ') + esc(x.sg.why) + '</span></div>' : '';
+    var det = x.A ? '<details data-k="' + esc(t) + '"' + (abertos[t] ? ' open' : '') + ' style="margin-top:10px"><summary>Ver análise completa</summary>' + analiseHTML(x) + '</details>' : '';
+    return '<div class="item"><div class="line"><div class="who">' + avatar(t) + '<div><div class="tname">' + esc(t) + '<span class="nm">' + esc(nome) + '</span></div><div class="small">' + esc(desc) + '</div></div></div><div class="num">' + preco + '</div></div>' + why + det + '</div>';
+  }
+
+  function pedirTexto(t) {
+    var c = cache[t], A = ANA[t], inf = INFO[t], nome = inf ? inf[0] : t;
+    var tx = 'Faça a análise completa da ação ' + nome + ' (' + t + ') com dados e notícias de hoje, em linguagem simples e resumida:\n1) O que aconteceu com a empresa?\n2) Por que a ação caiu?\n3) A queda é temporária ou há deterioração do negócio?\n4) O preço está atrativo em relação aos fundamentos?\n5) Qual seria uma faixa de entrada interessante?\n6) Qual seria o cenário de perda?\n7) Em quais condições seria interessante vender?\n';
+    if (c && A) tx += '\nDados do meu painel: preço R$ ' + nf(c.price) + ', ' + pct(c.fromHigh) + ' da máxima de 3 meses, pontuação do motor ' + A.score + '/100 (' + A.label + '). Perfil: ' + A.perfil + '\nMeu orçamento total é R$ ' + nf(S.budget) + ' e o máximo por compra é R$ ' + nf(S.budget * S.maxPct / 100) + '.\n';
+    tx += '\nCite as fontes e, depois, atualize a leitura dessa ação no meu painel (arquivo orbit-carteira.html).';
+    return tx;
+  }
+  function copiar(txt, btn, okTxt) {
+    var orig = btn.textContent;
+    function ok() { btn.textContent = okTxt || 'Copiado. Cole no chat com o Claude.'; setTimeout(function () { btn.textContent = orig; }, 3500); }
+    function fallback() {
+      var ta = document.createElement('textarea'); ta.value = txt; ta.style.position = 'fixed'; ta.style.opacity = '0'; document.body.appendChild(ta); ta.select();
+      try { document.execCommand('copy'); ok(); } catch (e) { window.prompt('Copie o texto abaixo:', txt); }
+      document.body.removeChild(ta);
+    }
+    try { if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(txt).then(ok, fallback); return; } } catch (e) {}
+    fallback();
+  }
+
+  function render() {
+    var d = new Date(), h = d.getHours(), saud = h < 12 ? 'Bom dia' : (h < 18 ? 'Boa tarde' : 'Boa noite');
+    var user = (S.user || 'Pedro');
+    $('brand').textContent = S.name || 'Orbit';
+    $('saud').textContent = saud + ', ' + user;
+    $('data').textContent = d.toLocaleDateString('pt-BR', { weekday:'long', day:'numeric', month:'long', year:'numeric' });
+
+    var inv = 0, atual = 0, itens = [], falas = [], html = '', partes = [];
+    S.pos.forEach(function (p, i) {
+      var c = cache[p.t];
+      inv += p.q * p.pm;
+      if (!c) { atual += p.q * p.pm; html += '<div class="item"><div class="line"><div class="who">' + avatar(p.t) + '<div><div class="tname">' + esc(p.t) + '</div><div class="small">' + p.q + ' ação(ões) a ' + brl(p.pm) + '</div></div></div><span class="small">sem cotação</span></div><button class="rm" data-rp="' + i + '">Remover</button></div>'; return; }
+      var val = p.q * c.price; atual += val; partes.push({ t:p.t, v:val });
+      var sg = sinalPos(p, c);
+      itens.push({ t:p.t, txt:sg.txt }); falas.push(sg.fala);
+      html += '<div class="item"><div class="line"><div class="who">' + avatar(p.t) + '<div><div class="tname">' + esc(p.t) + '</div><div class="small">' + p.q + ' ação(ões) a ' + brl(p.pm) + '</div></div></div>' +
+        '<div class="num">' + brl(val) + '<div class="small ' + cls(sg.g) + '">' + pct(sg.g) + ' (' + (val - p.q * p.pm >= 0 ? '+' : '') + brl(val - p.q * p.pm) + ')</div></div></div>' +
+        regua(sg.g) +
+        '<div class="line small"><span>Preço ' + brl(c.price) + ' | hoje <span class="' + cls(c.day) + '">' + pct(c.day) + '</span></span><span class="chip ' + sg.tag + '">' + esc(sg.txt) + '</span></div>' +
+        '<button class="rm" data-rp="' + i + '">Remover</button></div>';
+    });
+    $('posicoes').innerHTML = html || '<div class="small">Nenhuma compra registrada. Quando comprar pelo app da ' + esc(S.corretora || 'XP') + ', registre aqui para o painel acompanhar.</div>';
+
+    var ab = '';
+    if (partes.length > 1) {
+      var tot = partes.reduce(function (a, x) { return a + x.v; }, 0);
+      ab = '<div class="small">Distribuição da carteira</div><div class="alloc">' + partes.map(function (x) { return '<span style="width:' + (x.v / tot * 100) + '%;background:' + corDe(x.t) + '"></span>'; }).join('') + '</div><div class="legend">' + partes.map(function (x) { return '<span><i style="background:' + corDe(x.t) + '"></i>' + esc(x.t) + ' ' + Math.round(x.v / tot * 100) + '%</span>'; }).join('') + '</div><div style="height:8px"></div>';
+    }
+    $('allocBox').innerHTML = ab;
+
+    $('totAtual').textContent = brl(atual);
+    $('totInv').textContent = brl(inv);
+    $('totLivre').textContent = brl(Math.max(0, S.budget - inv));
+    var res = atual - inv, rc = $('totRes');
+    if (inv > 0) { rc.textContent = (res >= 0 ? '+' : '') + brl(res) + ' (' + pct(res / inv * 100) + ')'; rc.className = 'chip ' + (res >= 0 ? 'c-ok' : 'c-ba'); }
+    else { rc.textContent = 'Nenhuma compra registrada'; rc.className = 'chip c-ne'; }
+
+    var usado = S.budget > 0 ? clamp(inv / S.budget * 100, 0, 100) : 0;
+    $('donut').innerHTML = donutSVG(usado);
+    $('donutLbl').textContent = brl(inv) + ' de ' + brl(S.budget) + '. Livre: ' + brl(Math.max(0, S.budget - inv)) + '.';
+
+    var linhas = S.watch.map(function (t, i) {
+      var c = cache[t];
+      if (!c) return { t:t, i:i, c:null, sg:null, A:null, nivel:'sem', score:-1 };
+      var sg = sinalWatch(t, c);
+      ANA[t] = sg.A;
+      return { t:t, i:i, c:c, sg:sg, A:sg.A, nivel:sg.nivel, score:sg.score };
+    });
+    function por(n) { return linhas.filter(function (x) { return x.nivel === n; }).sort(function (a, b) { return b.score - a.score; }); }
+    var zona = por('zona'), obs = por('obs'), neutro = por('neutro'), sem = por('sem');
+    var melhor = 0, melhorT = '';
+    zona.concat(obs).forEach(function (x) { if (x.score > melhor) { melhor = x.score; melhorT = x.t; } });
+    var comC = linhas.filter(function (x) { return x.c; });
+    var temCotW = comC.length > 0;
+
+    zona.slice(0, 3).forEach(function (x) { itens.push({ t:x.t, txt:x.sg.label + ' (' + x.score + '/100). ' + x.sg.why }); falas.push(x.sg.fala); });
+    if (temCotW) falas.push('No radar, ' + zona.length + (zona.length === 1 ? ' ação é oportunidade' : ' ações são oportunidades') + ' e ' + obs.length + ' estão em observação.');
+
+    $('tiles').innerHTML = [['Oportunidades', zona.length, 'pos'], ['Em observação', obs.length, ''], ['Sem sinal', neutro.length + sem.length, '']].map(function (x) { return '<div class="tile"><div class="n ' + x[2] + '">' + x[1] + '</div><div class="t">' + x[0] + '</div></div>'; }).join('');
+
+    function imp(x) { return (x.nivel === 'zona' ? 100 : x.nivel === 'obs' ? 50 : 0) + x.score + Math.min(10, Math.abs(x.c.day) * 2); }
+    var ord = comC.slice().sort(function (a, b) { return imp(b) - imp(a); });
+    var top = ord.slice(0, 3), outros = ord.slice(3).concat(linhas.filter(function (x) { return !x.c; }));
+    var wh = '';
+    if (!linhas.length) wh = '<div class="small">Nenhuma ação no radar. Adicione um código em "Gerenciar radar".</div>';
+    else {
+      if (!top.length) wh += '<div class="small" style="margin-top:10px">Sem cotações no radar ainda.</div>';
+      else wh += '<div class="grp">As ' + top.length + ' principais agora</div><div>' + top.map(linhaRadar).join('') + '</div>';
+      if (temCotW && !zona.length) wh += '<div class="small" style="margin-top:10px">Nenhuma ação com sinal de oportunidade hoje. Esperar também é uma decisão.</div>';
+      if (outros.length) wh += '<div style="margin-top:14px"><button id="btnRadarMax">' + (radarMax ? 'Mostrar só as principais' : 'Ver todas as ' + linhas.length + ' ações do radar') + '</button></div>' + (radarMax ? '<div class="grp">Demais ações</div><div>' + outros.map(linhaRadar).join('') + '</div>' : '');
+    }
+    $('watch').innerHTML = wh;
+    $('manage').innerHTML = S.watch.map(function (t, i) { return '<span class="mchip">' + esc(t) + '<button data-rw="' + i + '" aria-label="Remover ' + esc(t) + '">×</button></span>'; }).join('') || '<span class="small">Radar vazio.</span>';
+
+    $('gauge').innerHTML = gaugeSVG(melhor);
+    $('gaugeLbl').textContent = melhorT ? 'Maior pontuação: ' + melhorT + (INFO[melhorT] ? ' (' + INFO[melhorT][0] + ')' : '') + ', ' + melhor + '/100. Quanto mais quente, mais forte a oportunidade.' : (temCotW ? 'Nenhuma ação com oportunidade hoje.' : 'Sem cotações no radar ainda.');
+
+    var st = itensStatus();
+    $('statusLista').innerHTML = st.map(function (x) { return '<div class="srow"><span class="dot s-' + x.s + '"></span><div><b>' + esc(x.t) + '</b><span class="small">' + esc(x.d) + '</span></div></div>'; }).join('');
+    var ruim = st.filter(function (x) { return x.s === 'ba'; }).length, atenc = st.filter(function (x) { return x.s === 'wa'; }).length;
+    var pill = $('pill'), pt = $('pillTx');
+    if (!net.checked) { pill.className = 'pill'; pt.textContent = 'Verificando...'; }
+    else if (st[0].s === 'ba') { pill.className = 'pill s-ba'; pt.textContent = 'Sem conexão'; }
+    else if (ruim || atenc) { pill.className = 'pill s-wa'; pt.textContent = 'Atenção'; }
+    else { pill.className = 'pill s-ok'; pt.textContent = 'Tudo conectado'; }
+
+    var temCot = Object.keys(cache).length > 0;
+    var resumoRadar = temCotW ? 'No radar: ' + zona.length + ' oportunidade(s), ' + obs.length + ' em observação e ' + (neutro.length + sem.length) + ' sem sinal.' : '';
+    $('resumoLista').innerHTML = temCot ? itens.map(function (x) { return '<div class="rrow">' + avatar(x.t) + '<div><b>' + esc(x.t) + '</b><div class="small">' + esc(x.txt) + '</div></div></div>'; }).join('') + (resumoRadar ? '<div class="small" style="padding-top:10px">' + esc(resumoRadar) + '</div>' : '') : 'Sem cotações ainda. Confira o status de conexão abaixo ou em Config.';
+
+    var fala = saud + ', ' + user + '. Aqui está o seu resumo de hoje. ';
+    if (inv > 0 && temCot) fala += 'Sua carteira vale ' + nf(Math.round(atual * 100) / 100) + ' reais, ' + (res >= 0 ? 'um resultado de mais ' : 'um resultado de menos ') + nf(Math.abs(Math.round(res * 100) / 100)) + ' reais. ';
+    fala += temCot ? falas.join(' ') + ' ' : 'Ainda não tenho cotações. ';
+    var pior = st.filter(function (x) { return x.t === 'Cotações'; })[0];
+    fala += pior.s === 'ok' ? 'A conexão com as cotações está ok. ' : (pior.s === 'in' ? '' : 'Atenção: ' + pior.d + ' ');
+    fala += 'Lembre-se: a decisão final é sua.';
+    ultimoResumo = fala;
+
+    var tm = termos[diaDoAno() % termos.length];
+    $('termo').innerHTML = '<b>' + esc(tm[0]) + ':</b> ' + esc(tm[1]);
+    var fr = frases[diaDoAno() % frases.length], cs = casos[(diaDoAno() * 3 + 1) % casos.length];
+    $('frase').textContent = '"' + fr.t + '"' + (fr.a ? ' (' + fr.a + ')' : '');
+    $('caso').textContent = cs;
+
+    glossario(); simular();
+    var opts = '<option value="">Digitar preço</option>';
+    S.watch.concat(S.pos.map(function (p) { return p.t; })).filter(function (t, i, a) { return a.indexOf(t) === i; }).forEach(function (t) { opts += '<option value="' + esc(t) + '">' + esc(t) + '</option>'; });
+    var cur = $('kT').value; $('kT').innerHTML = opts; $('kT').value = cur;
+  }
+
+  function glossario() {
+    var q = $('busca').value.toLowerCase();
+    var h = termos.filter(function (t) { return !q || (t[0] + ' ' + t[1]).toLowerCase().indexOf(q) >= 0; }).map(function (t) { return '<div class="term"><b>' + esc(t[0]) + '</b><span class="lvl">' + esc(t[2]) + '</span><br>' + esc(t[1]) + '</div>'; }).join('');
+    $('glos').innerHTML = h || '<div class="small">Nenhum termo encontrado.</div>';
+  }
+  function simular() {
+    var v = parseInt($('sR').value, 10);
+    $('sPct').textContent = (v > 0 ? '+' : '') + v + '%';
+    var base = 0;
+    S.pos.forEach(function (p) { var c = cache[p.t]; base += p.q * (c ? c.price : p.pm); });
+    var ref = base > 0 ? base : S.budget, delta = ref * v / 100;
+    $('sOut').innerHTML = (base > 0 ? 'Sua carteira' : 'Seu orçamento') + ' de ' + brl(ref) + ' passaria a <b>' + brl(ref + delta) + '</b> (<span class="' + cls(delta) + '">' + (delta >= 0 ? '+' : '') + brl(delta) + '</span>).';
+  }
+  function calcular() {
+    var v = parseFloat($('kV').value), p = parseFloat($('kP').value);
+    if (!(v > 0) || !(p > 0)) { $('kOut').textContent = 'Informe o valor e o preço.'; return; }
+    var q = Math.floor(v / p), custo = q * p, lim = S.budget * S.maxPct / 100, aviso = '';
+    if (q < 1) { $('kOut').textContent = 'Esse valor não compra nem 1 ação a ' + brl(p) + '.'; return; }
+    if (v > lim) aviso = '<br><span class="neg">Acima do seu limite por compra (' + brl(lim) + ').</span>';
+    $('kOut').innerHTML = 'Você compra <b>' + q + '</b> ação(ões) por ' + brl(custo) + ' (sobram ' + brl(v - custo) + ').<br>Preço de saída com ganho (+' + S.tp + '%): <b>' + brl(p * (1 + S.tp / 100)) + '</b><br>Preço do limite de perda (-' + S.sl + '%): <b>' + brl(p * (1 - S.sl / 100)) + '</b><br>Ganho possível: ' + brl(custo * S.tp / 100) + ' | Perda possível: ' + brl(custo * S.sl / 100) + aviso;
+  }
+  function checklist() {
+    var boxes = document.querySelectorAll('.chk input'), n = 0;
+    boxes.forEach(function (b) { if (b.checked) n++; });
+    var falta = boxes.length - n;
+    $('chkOut').innerHTML = falta === 0 ? '<span class="pos">Checklist completo. A decisão continua sendo sua.</span>' : 'Faltam ' + falta + ' item(ns) antes de decidir.';
+  }
+
+  function ehNatural(v) { return /natural|online/i.test(v.name); }
+  function vozes() { return ('speechSynthesis' in window) ? window.speechSynthesis.getVoices().filter(function (v) { return v.lang && v.lang.toLowerCase().indexOf('pt') === 0; }) : []; }
+  var homem = /antonio|donato|humberto|fabio|julio|nicolau|valerio|daniel/i;
+  function escolherVoz() {
+    var vs = vozes();
+    if (!vs.length) return null;
+    if (S.voice) { var m = vs.filter(function (v) { return v.name === S.voice; })[0]; if (m) return m; }
+    var regras = [
+      function (v) { return ehNatural(v) && homem.test(v.name) && /br/i.test(v.lang); },
+      function (v) { return ehNatural(v) && homem.test(v.name); },
+      function (v) { return ehNatural(v) && /br/i.test(v.lang); },
+      function (v) { return homem.test(v.name); },
+      function (v) { return /br/i.test(v.lang); }
+    ];
+    for (var i = 0; i < regras.length; i++) { var f = vs.filter(regras[i])[0]; if (f) return f; }
+    return vs[0];
+  }
+  function popularVozes() {
+    var vs = vozes().sort(function (a, b) { return (ehNatural(b) - ehNatural(a)) || (homem.test(b.name) - homem.test(a.name)); }), cur = escolherVoz();
+    $('cVoz').innerHTML = vs.length ? vs.map(function (v) { return '<option value="' + esc(v.name) + '"' + (cur && cur.name === v.name ? ' selected' : '') + '>' + esc(v.name) + '</option>'; }).join('') : '<option value="">Nenhuma voz em português encontrada</option>';
+    if (net.checked) render();
+  }
+  function parar() { if ('speechSynthesis' in window) window.speechSynthesis.cancel(); falando = false; $('wave').classList.remove('on'); $('btnFalar').textContent = 'Ouvir resumo'; }
+  function falar(txt) {
+    if (!('speechSynthesis' in window)) { alert('Este navegador não suporta voz. Use o Microsoft Edge.'); return; }
+    var ss = window.speechSynthesis;
+    ss.cancel();
+    var v = escolherVoz();
+    var partes = txt.split(/(?<=[.!?])\s+/).filter(function (x) { return x.trim(); });
+    window.__utts = partes.map(function (p, i) {
+      var u = new SpeechSynthesisUtterance(p);
+      u.lang = 'pt-BR'; if (v) u.voice = v;
+      u.pitch = S.pitch; u.rate = S.rate; u.volume = 1;
+      if (i === partes.length - 1) { u.onend = function () { falando = false; $('wave').classList.remove('on'); $('btnFalar').textContent = 'Ouvir resumo'; }; }
+      return u;
+    });
+    falando = true; $('wave').classList.add('on'); $('btnFalar').textContent = 'Parar';
+    setTimeout(function () { window.__utts.forEach(function (u) { ss.speak(u); }); }, 80);
+  }
+
+  function comando() {
+    var SR = window.SpeechRecognition || window.webkitSpeechRecognition;
+    if (!SR) { alert('Comando de voz precisa do Microsoft Edge ou Chrome.'); return; }
+    var r = new SR(); r.lang = 'pt-BR'; r.interimResults = false;
+    $('status').textContent = 'Ouvindo... diga "resumo", "como está a Nvidia" ou "atualizar".';
+    r.onresult = function (e) {
+      var f = e.results[0][0].transcript.toLowerCase();
+      $('status').textContent = 'Você disse: ' + f;
+      if (f.indexOf('atualiz') >= 0) { atualizar(true).then(function () { falar(ultimoResumo); }); return; }
+      var achou = null;
+      S.watch.concat(S.pos.map(function (p) { return p.t; })).forEach(function (t) {
+        if (f.indexOf(t.toLowerCase()) >= 0 || f.indexOf(falaNome(t).toLowerCase()) >= 0) achou = t;
+      });
+      if (achou && cache[achou]) {
+        var c = cache[achou], p = S.pos.filter(function (x) { return x.t === achou; })[0];
+        falar((p ? sinalPos(p, c).fala : sinalWatch(achou, c).fala) + ' O preço atual é ' + nf(c.price) + ' reais.');
+      } else { falar(ultimoResumo); }
+    };
+    r.onerror = function () { $('status').textContent = 'Não consegui ouvir. Confira a permissão do microfone.'; };
+    r.start();
+  }
+
+  function aplicarTema() {
+    var t = S.theme;
+    if (t === 'light') document.documentElement.setAttribute('data-theme', 'light'); else document.documentElement.setAttribute('data-theme', 'dark');
+  }
+
+  document.addEventListener('click', function (e) {
+    var a = e.target.getAttribute && e.target.getAttribute('data-rp');
+    var b = e.target.getAttribute && e.target.getAttribute('data-rw');
+    if (a !== null && a !== undefined) { S.pos.splice(+a, 1); save(); render(); }
+    if (b !== null && b !== undefined) { S.watch.splice(+b, 1); save(); render(); }
+  });
+  document.addEventListener('toggle', function (e) {
+    var k = e.target.getAttribute && e.target.getAttribute('data-k');
+    if (k) { if (e.target.open) abertos[k] = 1; else delete abertos[k]; }
+  }, true);
+  document.addEventListener('click', function (e) {
+    var el = e.target;
+    if (el.id === 'btnRadarMax') { radarMax = !radarMax; render(); return; }
+    var pd = el.getAttribute && el.getAttribute('data-pedir');
+    if (pd) copiar(pedirTexto(pd), el);
+  });
+  $('cfgSrv').onclick = function () {
+    var o = { ntfy:S.ntfy, siteUrl:(/^https?:/.test(location.href) ? location.href.split('#')[0].split('?')[0] : ''), budget:S.budget, maxPct:S.maxPct, drop:S.drop, tp:S.tp, sl:S.sl, watch:S.watch, pos:S.pos };
+    copiar(JSON.stringify(o, null, 2), this, 'Copiado. Cole no config.json do GitHub.');
+  };
+  $('ntfyGen').onclick = function () {
+    var a = new Uint8Array(10); crypto.getRandomValues(a);
+    var t = 'orbit-' + Array.prototype.map.call(a, function (b) { return (b % 36).toString(36); }).join('');
+    $('cNtfy').value = t; S.ntfy = t; S.aCel = true; $('aCel').checked = true; save(); render();
+  };
+  $('ntfyTest').onclick = function () {
+    var b = this, o = 'Enviar teste';
+    S.ntfy = limpaTopico($('cNtfy').value); S.aCel = $('aCel').checked; S.aWeb = $('aWeb').checked; save();
+    var m = { titulo:'Teste do Orbit', msg:'Se você viu este aviso, os alertas estão funcionando.', prio:3 };
+    if (!S.ntfy && !(S.aWeb && 'Notification' in window && Notification.permission === 'granted')) { b.textContent = 'Gere um tópico primeiro'; setTimeout(function () { b.textContent = o; }, 3000); return; }
+    if (S.aWeb && 'Notification' in window && Notification.permission === 'granted') { try { new Notification(m.titulo, { body:m.msg }); beep(); } catch (e) {} }
+    if (S.ntfy) enviarNtfy(m.titulo, m.msg, 3).then(function () { b.textContent = 'Enviado! Veja o celular'; }, function () { b.textContent = 'Falhou. Confira a internet'; }).then(function () { setTimeout(function () { b.textContent = o; }, 3500); });
+    else { b.textContent = 'Enviado ao navegador'; setTimeout(function () { b.textContent = o; }, 3000); }
+    render();
+  };
+  $('webPerm').onclick = function (e) {
+    e.preventDefault(); var b = this;
+    if (!('Notification' in window)) { b.textContent = 'Sem suporte'; return; }
+    Notification.requestPermission().then(function (r) { b.textContent = r === 'granted' ? 'Permitido' : 'Bloqueado'; render(); });
+  };
+  var tick = 0;
+  setInterval(function () {
+    if (!mercadoAberto()) return;
+    tick++;
+    if (S.aOpp && tick % 2 === 0 && reqGet().n < 12000) atualizar(true, false);
+    else if (S.pos.length) atualizar(true, true);
+  }, 15 * 60 * 1000);
+  $('btnFalar').onclick = function () { if (falando) parar(); else falar(ultimoResumo); };
+  $('btnMot').onclick = function () { falar('Frase do dia. ' + $('frase').textContent.replace(/["()]/g, '') + ' Você sabia? ' + $('caso').textContent); };
+  $('btnMic').onclick = comando;
+  $('btnAtu').onclick = function () { atualizar(true); };
+  $('tema').onclick = function () { var atual = document.documentElement.getAttribute('data-theme') || 'dark'; S.theme = atual === 'dark' ? 'light' : 'dark'; save(); aplicarTema(); };
+  $('addW').onclick = function () {
+    var t = norm($('wT').value); if (!t) return;
+    if (S.watch.indexOf(t) < 0) S.watch.push(t);
+    $('wT').value = ''; save(); atualizar();
+  };
+  $('addPos').onclick = function () {
+    var t = norm($('pT').value), q = parseInt($('pQ').value, 10), pm = parseFloat($('pP').value);
+    if (!t || !(q > 0) || !(pm > 0)) { $('status').textContent = 'Preencha código, quantidade e preço pago.'; return; }
+    S.pos.push({ t:t, q:q, pm:pm });
+    $('pT').value = ''; $('pQ').value = ''; $('pP').value = ''; save(); atualizar();
+  };
+  $('rstW').onclick = function () { DEFAULT_WATCH.forEach(function (t) { if (S.watch.indexOf(t) < 0) S.watch.push(t); }); save(); atualizar(); };
+  $('kGo').onclick = function () { var t = $('kT').value; if (t && cache[t] && !$('kP').value) $('kP').value = cache[t].price.toFixed(2); calcular(); };
+  $('kT').onchange = function () { var t = $('kT').value; if (t && cache[t]) $('kP').value = cache[t].price.toFixed(2); };
+  $('sR').oninput = simular;
+  $('busca').oninput = glossario;
+  document.querySelectorAll('.chk input').forEach(function (b) { b.onchange = checklist; });
+  $('cPitch').oninput = function () { $('pitchV').textContent = this.value; S.pitch = parseFloat(this.value); };
+  $('cRate').oninput = function () { $('rateV').textContent = this.value; S.rate = parseFloat(this.value); };
+  $('cVoz').onchange = function () { S.voice = this.value; };
+  $('testVoz').onclick = function () { S.voice = $('cVoz').value; falar('Olá, ' + ($('cUser').value || 'Pedro') + '. Aqui é ' + ($('cNome').value || 'Orbit') + '. Estou pronto para acompanhar a sua carteira.'); };
+  $('salvar').onclick = function () {
+    S.user = $('cUser').value.trim() || 'Pedro';
+    S.name = $('cNome').value.trim() || 'Orbit';
+    S.corretora = $('cCorr').value.trim() || 'XP';
+    S.budget = parseFloat($('cBud').value) || 500;
+    S.maxPct = clamp(parseFloat($('cMax').value) || 25, 1, 100);
+    S.drop = parseFloat($('cDrop').value) || 10;
+    S.tp = parseFloat($('cTP').value) || 20;
+    S.sl = parseFloat($('cSL').value) || 12;
+    S.token = $('cTok').value.trim();
+    S.voice = $('cVoz').value || S.voice;
+    S.ntfy = limpaTopico($('cNtfy').value); S.aCel = $('aCel').checked; S.aWeb = $('aWeb').checked; S.aOpp = $('aOpp').checked;
+    save(); atualizar(true);
+  };
+  $('exp').onclick = function () {
+    var a = document.createElement('a');
+    a.href = URL.createObjectURL(new Blob([JSON.stringify(S, null, 2)], { type:'application/json' }));
+    a.download = 'meus-dados-orbit.json'; a.click();
+  };
+  $('impB').onclick = function () { $('imp').click(); };
+  $('imp').onchange = function () {
+    var f = this.files[0]; if (!f) return;
+    var r = new FileReader();
+    r.onload = function () { try { S = Object.assign({}, padrao, JSON.parse(r.result)); save(); fillConfig(); aplicarTema(); atualizar(); } catch (e) { $('status').textContent = 'Arquivo inválido.'; } };
+    r.readAsText(f);
+  };
+
+  function fillConfig() {
+    $('cUser').value = S.user; $('cNome').value = S.name; $('cCorr').value = S.corretora || 'XP'; $('cBud').value = S.budget; $('cMax').value = S.maxPct; $('cDrop').value = S.drop; $('cTP').value = S.tp; $('cSL').value = S.sl; $('cTok').value = S.token;
+    $('cNtfy').value = S.ntfy; $('aCel').checked = !!S.aCel; $('aWeb').checked = !!S.aWeb; $('aOpp').checked = !!S.aOpp; $('webPerm').textContent = ('Notification' in window && Notification.permission === 'granted') ? 'Permitido' : 'Permitir';
+    $('cPitch').value = S.pitch; $('cRate').value = S.rate; $('pitchV').textContent = S.pitch; $('rateV').textContent = S.rate;
+  }
+
+  save();
+  aplicarTema();
+  fillConfig();
+  render();
+  checklist();
+  popularVozes();
+  if ('speechSynthesis' in window) window.speechSynthesis.onvoiceschanged = popularVozes;
+  atualizar(false);
+})();
+</script>
+</body>
+</html>
