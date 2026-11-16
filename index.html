@@ -38,6 +38,9 @@
   .dot { width:9px; height:9px; border-radius:50%; background:var(--tx2); display:inline-block; flex:none; }
   .s-ok .dot, .dot.s-ok { background:var(--gr); } .s-wa .dot, .dot.s-wa { background:#f59e0b; } .s-ba .dot, .dot.s-ba { background:var(--re); } .dot.s-in { background:var(--ac); }
   .pill.s-ok { background:var(--grbg); color:var(--gr); } .pill.s-wa { background:var(--ambg); color:var(--am); } .pill.s-ba { background:var(--rebg); color:var(--re); }
+  .nw { display:block; padding:10px 0; border-top:1px solid var(--bd); color:var(--tx); text-decoration:none; }
+  .nw:first-child { border-top:0; }
+  .nw b { font-weight:600; display:block; margin:4px 0 2px; }
   .card { background:var(--card); border:1px solid var(--bd); border-radius:18px; padding:18px; margin-bottom:16px; }
   .grid { display:grid; grid-template-columns:repeat(auto-fit, minmax(260px, 1fr)); gap:16px; }
   .grid .card { margin-bottom:0; }
@@ -122,7 +125,7 @@
   <div class="topin">
     <div class="logo"><i></i><span id="brand">Orbit</span></div>
     <nav class="links">
-      <a href="#resumo">Resumo</a><a href="#carteira">Carteira</a><a href="#oportunidades">Oportunidades</a><a href="#ferramentas">Ferramentas</a><a href="#aprender">Aprender</a><a href="#config">Config</a>
+      <a href="#resumo">Resumo</a><a href="#carteira">Carteira</a><a href="#oportunidades">Oportunidades</a><a href="#noticias">Notícias</a><a href="#ferramentas">Ferramentas</a><a href="#aprender">Aprender</a><a href="#config">Config</a>
     </nav>
     <span class="pill" id="pill"><span class="dot"></span><span id="pillTx">Verificando...</span></span>
     <button id="tema" title="Alternar tema claro e escuro" style="padding:6px 12px">Tema</button>
@@ -194,6 +197,13 @@
       <div id="statusLista"></div>
     </div>
   </div>
+
+  <section id="noticias" class="card">
+    <h2>Notícias que mexem com o mercado</h2>
+    <div class="small" id="nwInfo">Carregando...</div>
+    <div class="actions" style="margin:10px 0"><button id="nwAll" class="main">Importantes</button><button id="nwIpo">Só IPOs</button><button id="nwTudo">Todas</button></div>
+    <div id="nwList"></div>
+  </section>
 
   <section id="carteira" class="card">
     <h2>Minha carteira</h2>
@@ -336,7 +346,8 @@
     PRIO3:['Prio','Energia','Petróleo em águas profundas'],
     MGLU3:['Magazine Luiza','Varejo','Lojas físicas e online'],
     BOVA11:['ETF Ibovespa','ETF','Cesta com grandes empresas da bolsa brasileira'],
-    IVVB11:['ETF S&P 500','ETF','Cesta com 500 grandes empresas dos EUA']
+    IVVB11:['ETF S&P 500','ETF','Cesta com 500 grandes empresas dos EUA'],
+    T1TW34:['Take-Two (GTA)','Jogos','Dona da Rockstar: GTA, Red Dead e NBA 2K']
   };
   var ANALISES = {
     NVDC34: {
@@ -362,7 +373,7 @@
     }
   };
 
-  var DEFAULT_WATCH = ['NVDC34','AAPL34','MSFT34','GOGL34','AMZO34','M1TA34','TSLA34','PETR4','VALE3','ITUB4','BBDC4','BBAS3','WEGE3','ABEV3','B3SA3','SUZB3','RENT3','PRIO3','MGLU3','BOVA11','IVVB11'];
+  var DEFAULT_WATCH = ['NVDC34','AAPL34','MSFT34','GOGL34','AMZO34','M1TA34','TSLA34','PETR4','VALE3','ITUB4','BBDC4','BBAS3','WEGE3','ABEV3','B3SA3','SUZB3','RENT3','PRIO3','MGLU3','BOVA11','IVVB11','T1TW34'];
   var padrao = { token:'', budget:500, maxPct:25, drop:10, tp:20, sl:12, watch:[], pos:[], name:'Orbit', user:'Pedro', voice:'', pitch:1, rate:1, ver:4, theme:'auto', ntfy:'', aCel:true, aWeb:true, aOpp:true, corretora:'XP' };
   var S = load();
   var cache = {};
@@ -1038,6 +1049,31 @@
     Notification.requestPermission().then(function (r) { b.textContent = r === 'granted' ? 'Permitido' : 'Bloqueado'; render(); });
   };
   var tick = 0;
+  var NW = { itens:[], f:'imp' };
+  function nwUrl() {
+    var h = location.hostname;
+    if (/\.github\.io$/.test(h)) return 'https://raw.githubusercontent.com/' + h.split('.')[0] + '/' + (location.pathname.split('/')[1] || '') + '/main/news.json';
+    return 'news.json';
+  }
+  function nwHa(iso) { var m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000)); return m < 60 ? 'há ' + m + ' min' : (m < 1440 ? 'há ' + Math.round(m / 60) + ' h' : 'há ' + Math.round(m / 1440) + ' d'); }
+  function nwRender() {
+    var l = NW.itens.filter(function (x) { return NW.f === 'ipo' ? x.cat === 'IPO' : (NW.f === 'imp' ? x.score >= 7 || x.cat === 'IPO' : true); }).slice(0, 40);
+    $('nwList').innerHTML = l.length ? l.map(function (x) {
+      var cl = x.score >= 7 ? 'c-wa' : 'c-ne';
+      return '<a class="nw" href="' + esc(x.link) + '" target="_blank" rel="noopener"><span class="chip ' + cl + '">' + esc(x.cat) + (x.empresa ? ' · ' + esc(x.empresa) : '') + '</span><b>' + esc(x.titulo) + '</b><span class="small">' + esc(x.fonte) + ' · ' + nwHa(x.data) + '</span></a>';
+    }).join('') : '<div class="small">Nenhuma notícia neste filtro agora.</div>';
+  }
+  function nwLoad() {
+    fetch(nwUrl() + '?t=' + Math.floor(Date.now() / 300000)).then(function (r) { if (!r.ok) throw new Error('x'); return r.json(); }).then(function (j) {
+      NW.itens = j.itens || [];
+      $('nwInfo').textContent = NW.itens.length ? 'Atualizado ' + nwHa(j.atualizado) + '. O robô filtra por palavras e pode errar: clique para ler a fonte antes de decidir.' : 'Ainda sem notícias. O robô de notícias lê a cada 30 minutos.';
+      nwRender();
+    }).catch(function () { $('nwInfo').textContent = 'As notícias aparecem quando o painel é aberto pelo link do GitHub e o robô de notícias está ativo.'; $('nwList').innerHTML = ''; });
+  }
+  $('nwAll').onclick = function () { NW.f = 'imp'; nwRender(); };
+  $('nwIpo').onclick = function () { NW.f = 'ipo'; nwRender(); };
+  $('nwTudo').onclick = function () { NW.f = 'tudo'; nwRender(); };
+  nwLoad(); setInterval(nwLoad, 600000);
   setInterval(function () {
     if (!mercadoAberto()) return;
     tick++;

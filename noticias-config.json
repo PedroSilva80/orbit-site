@@ -1,0 +1,17 @@
+{
+  "limiarAviso": 7,
+  "maxPorRodada": 3,
+  "maxPorDia": 8,
+  "horaInicio": 7,
+  "horaFim": 23,
+  "empresasBR": ["Petrobras", "Vale", "Itaú", "Bradesco", "Banco do Brasil", "WEG", "Ambev", "B3", "Suzano", "Localiza", "PRIO", "Magazine Luiza", "Ibovespa"],
+  "empresasUS": ["Nvidia", "Apple", "Microsoft", "Alphabet", "Google", "Amazon", "Meta", "Tesla", "Take-Two", "Rockstar", "GTA VI"],
+  "destaques": ["Anthropic", "OpenAI", "SpaceX", "Federal Reserve", "Copom"],
+  "termos": [
+    { "q": "IPO billion filing OR prices OR debut", "lang": "en" },
+    { "q": "Anthropic OR OpenAI OR SpaceX IPO", "lang": "en" },
+    { "q": "CEO resigns OR steps down tech", "lang": "en" },
+    { "q": "IPO bolsa B3 oferta pública inicial" },
+    { "q": "Ibovespa Copom Selic dólar" }
+  ]
+}
