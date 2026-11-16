@@ -294,7 +294,12 @@
       <label><input type="checkbox" id="aOpp"> Avisar quando uma ação do radar virar oportunidade</label>
     </div>
     <div class="small" style="margin-top:12px">Para os avisos funcionarem com o notebook desligado, o servidor precisa da sua lista de compras e das suas regras.</div>
-    <div class="actions" style="margin-top:8px"><button id="cfgSrv">Copiar configuração para o servidor</button></div>
+    <div class="row" style="margin-top:8px">
+      <div><label>Chave do GitHub para sincronizar (fica só neste aparelho)</label><input id="ghTok" type="password" placeholder="github_pat_..." autocomplete="off"></div>
+      <div style="flex:none"><button id="ghSync" class="main">Sincronizar agora</button></div>
+    </div>
+    <div class="small" id="srvStat" style="margin-top:6px"></div>
+    <div class="actions" style="margin-top:8px"><button id="cfgSrv">Copiar configuração (modo manual)</button></div>
     <h2 style="margin-top:20px">Voz</h2>
     <div class="row">
       <div><label>Voz</label><select id="cVoz"></select></div>
@@ -325,6 +330,8 @@
 <script>
 (function () {
   var KEY = 'painelAcoes_v1';
+  var SY = { tm:null, ultimo:'', msg:'', ok:null, quando:null, mexeuPos:false, busy:false };
+  try { SY.ultimo = localStorage.getItem('painelSync_v1') || ''; } catch (e) {}
   var INFO = {
     NVDC34:['Nvidia','Tecnologia','Chips e placas para inteligência artificial'],
     AAPL34:['Apple','Tecnologia','iPhone, Mac e serviços digitais'],
@@ -424,7 +431,7 @@
     s.ver = 4;
     return s;
   }
-  function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} }
+  function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} if (typeof agendaSync === 'function') agendaSync(); }
   function $(id) { return document.getElementById(id); }
   function esc(s) { return String(s).replace(/[&<>"']/g, function (c) { return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
   function brl(n) { return n.toLocaleString('pt-BR', { style:'currency', currency:'BRL' }); }
@@ -436,7 +443,9 @@
   function nf1(n) { return Math.abs(n).toFixed(1).replace('.', ',').replace(/,0$/, ''); }
   function diaDoAno() { var d = new Date(); return Math.floor((d - new Date(d.getFullYear(), 0, 0)) / 86400000); }
 
-  function falaNome(t) { return INFO[t] ? INFO[t][0].replace(/\s*\(.*\)/, '') : t.replace(/([A-Z])(?=[A-Z0-9])/g, '$1 ').replace(/([A-Z])(\d)/, '$1 $2'); }
+  function baseT(t) { return /^[A-Z]{4}\d{1,2}F$/.test(t) ? t.slice(0, -1) : t; }
+  function nomeDe(t) { var i = INFO[t] || INFO[baseT(t)]; return i ? i[0].replace(/\s*\(.*\)/, '') : t; }
+  function falaNome(t) { if (!INFO[t] && INFO[baseT(t)]) t = baseT(t); return INFO[t] ? INFO[t][0].replace(/\s*\(.*\)/, '') : t.replace(/([A-Z])(?=[A-Z0-9])/g, '$1 ').replace(/([A-Z])(\d)/, '$1 $2'); }
   var cores = ['#34d399', '#a3e635', '#2dd4bf', '#94a3b8', '#fbbf24', '#86efac', '#67e8f9', '#d1d5db'];
   function corDe(t) { var h = 0; for (var i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) >>> 0; return cores[h % cores.length]; }
   function avatar(t) { return '<span class="av" style="background:' + corDe(t) + '">' + esc(t.slice(0, 2)) + '</span>'; }
@@ -544,7 +553,7 @@
     return feitos;
   }
   function msgPos(p, c, g, k) {
-    var n = falaNome(p.t), delta = p.q * c.price - p.q * p.pm;
+    var n = nomeDe(p.t), delta = p.q * c.price - p.q * p.pm;
     if (k === 'meta') return { titulo:'Meta de venda atingida: ' + n, msg:p.t + ' está ' + pct(g) + ' sobre o seu preço médio. Preço agora: ' + brl(c.price) + '. Ganho de ' + brl(delta) + '. Hora de avaliar a venda.', prio:5 };
     return { titulo:'Limite de perda atingido: ' + n, msg:p.t + ' está ' + pct(g) + ' do seu preço médio. Preço agora: ' + brl(c.price) + '. Perda de ' + brl(Math.abs(delta)) + '. Reveja a posição.', prio:5 };
   }
@@ -641,6 +650,7 @@
     }
     it.push({ s:'in', t:'Corretora (' + (S.corretora || 'XP') + ')', d:'Registro manual: o painel não lê sua conta na ' + (S.corretora || 'XP') + '. Ao comprar ou vender, atualize aqui.' });
     var web = S.aWeb && 'Notification' in window && Notification.permission === 'granted', cel = S.aCel && S.ntfy;
+    it.push(!S.ghTok ? { s:'wa', t:'Servidor', d:'Sem sincronização automática: o servidor não sabe das suas compras. Em Config, cole a chave do GitHub.' } : (SY.ok === false ? { s:'ba', t:'Servidor', d:SY.msg } : { s:'ok', t:'Servidor', d:SY.quando ? 'Atualizado às ' + SY.quando.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) + '.' : 'Sincronização ligada.' }));
     it.push(web || cel ? { s:'ok', t:'Alertas', d:'Ativos: ' + [cel ? 'celular (ntfy)' : '', web ? 'navegador' : ''].filter(Boolean).join(' e ') + '. ' + (mercadoAberto() ? 'Checando a cada 15 minutos (radar a cada 30).' : 'Mercado fechado agora: volta a checar no próximo pregão, às 9h45.') + (ultimaChecagem ? ' Última checagem às ' + ultimaChecagem.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) + '.' : '') + (S.aOpp ? '' : ' Avisos de oportunidade desligados.') } : { s:'in', t:'Alertas', d:'Desligados. Ative em Config para receber avisos no celular.' });
     var v = escolherVoz();
     if (!('speechSynthesis' in window) || !v) it.push({ s:'ba', t:'Voz', d:'Nenhuma voz em português encontrada. Use o Microsoft Edge.' });
@@ -1034,7 +1044,7 @@
   document.addEventListener('click', function (e) {
     var a = e.target.getAttribute && e.target.getAttribute('data-rp');
     var b = e.target.getAttribute && e.target.getAttribute('data-rw');
-    if (a !== null && a !== undefined) { S.pos.splice(+a, 1); save(); render(); }
+    if (a !== null && a !== undefined) { var rm = S.pos.splice(+a, 1)[0]; SY.mexeuPos = true; save(); render(); if (rm && S.ntfy && S.aCel) enviarNtfy('Posição removida: ' + nomeDe(rm.t), rm.t + ' saiu da sua carteira no painel. O servidor para de vigiar essa posição.', 3).catch(function () {}); }
     if (b !== null && b !== undefined) { S.watch.splice(+b, 1); save(); render(); }
   });
   document.addEventListener('toggle', function (e) {
@@ -1047,11 +1057,47 @@
     var pd = el.getAttribute && el.getAttribute('data-pedir');
     if (pd) copiar(pedirTexto(pd), el);
   });
-  $('cfgSrv').onclick = function () {
+  function montaConfig() {
     var lei = {}; Object.keys(ANALISES).forEach(function (k) { lei[k] = { iso:ANALISES[k].iso, veredito:ANALISES[k].veredito }; });
-    var o = { leituras:lei, ntfy:S.ntfy, siteUrl:(/^https?:/.test(location.href) ? location.href.split('#')[0].split('?')[0] : ''), budget:S.budget, maxPct:S.maxPct, drop:S.drop, tp:S.tp, sl:S.sl, watch:S.watch, pos:S.pos };
-    copiar(JSON.stringify(o, null, 2), this, 'Copiado. Cole no config.json do GitHub.');
-  };
+    return { leituras:lei, user:S.user, ntfy:S.ntfy, siteUrl:(/^https?:/.test(location.href) ? location.href.split('#')[0].split('?')[0] : ''), budget:S.budget, maxPct:S.maxPct, drop:S.drop, tp:S.tp, sl:S.sl, watch:S.watch, pos:S.pos };
+  }
+  function b64(t) { return btoa(unescape(encodeURIComponent(t))); }
+  function ub64(t) { return decodeURIComponent(escape(atob(t.replace(/\n/g, '')))); }
+  function ghDono() { var h = location.hostname; return S.ghUser || (/\.github\.io$/.test(h) ? h.split('.')[0] : 'PedroSilva80'); }
+  function syncMsg(ok, m) { SY.ok = ok; SY.msg = m; var e = $('srvStat'); if (e) e.textContent = m; }
+  async function syncSrv(forcar) {
+    if (!S.ghTok || SY.busy) return;
+    SY.busy = true;
+    var base = 'https://api.github.com/repos/' + ghDono() + '/' + (S.ghRepo || 'orbit-alertas') + '/contents/config.json';
+    var H = { 'Authorization':'Bearer ' + S.ghTok, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28' };
+    try {
+      for (var tent = 0; tent < 2; tent++) {
+        var r = await fetch(base, { headers:H, cache:'no-store' }), sha, velho = {};
+        if (r.status === 404) sha = undefined;
+        else if (r.ok) { var j = await r.json(); sha = j.sha; try { velho = JSON.parse(ub64(j.content)); } catch (e) {} }
+        else { syncMsg(false, r.status === 401 || r.status === 403 ? 'A chave do GitHub foi recusada. Gere outra com permissão de Contents no repositório orbit-alertas.' : 'Não consegui ler o servidor (erro ' + r.status + ').'); return; }
+        var novo = montaConfig();
+        if (!S.pos.length && velho.pos && velho.pos.length && !forcar && !SY.mexeuPos) { syncMsg(false, 'Sincronização pausada: este aparelho não tem compras e o servidor tem ' + velho.pos.length + '. Use o aparelho onde você registrou suas compras.'); return; }
+        var txt = JSON.stringify(Object.assign({}, velho, novo), null, 2) + '\n';
+        var corpo = { message:'config via painel', content:b64(txt) }; if (sha) corpo.sha = sha;
+        var p = await fetch(base, { method:'PUT', headers:Object.assign({ 'Content-Type':'application/json' }, H), body:JSON.stringify(corpo) });
+        if (p.ok) { SY.ultimo = JSON.stringify(novo); try { localStorage.setItem('painelSync_v1', SY.ultimo); } catch (e) {} SY.quando = new Date(); SY.mexeuPos = false; syncMsg(true, 'Servidor atualizado às ' + SY.quando.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) + '. Ele agora conhece suas ' + S.pos.length + ' posição(ões).'); render(); return; }
+        if (p.status !== 409 && p.status !== 422) { syncMsg(false, p.status === 401 || p.status === 403 ? 'A chave do GitHub não tem permissão de escrita (Contents: Read and write).' : 'Não consegui gravar no servidor (erro ' + p.status + ').'); return; }
+      }
+      syncMsg(false, 'O servidor mudou durante a gravação. Tente de novo.');
+    } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora. Tento de novo na próxima alteração.'); }
+    finally { SY.busy = false; }
+  }
+  function agendaSync() {
+    if (!S.ghTok) return;
+    var c; try { c = JSON.stringify(montaConfig()); } catch (e) { return; }
+    if (c === SY.ultimo) return;
+    clearTimeout(SY.tm); SY.tm = setTimeout(function () { syncSrv(false); }, 2500);
+  }
+  $('ghTok').value = S.ghTok || '';
+  $('ghTok').onchange = function () { S.ghTok = this.value.trim(); save(); if (S.ghTok) syncSrv(false); else syncMsg(null, ''); render(); };
+  $('ghSync').onclick = function () { S.ghTok = $('ghTok').value.trim(); save(); if (!S.ghTok) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } syncMsg(null, 'Sincronizando...'); syncSrv(true); };
+  $('cfgSrv').onclick = function () { copiar(JSON.stringify(montaConfig(), null, 2), this, 'Copiado. Cole no config.json do GitHub.'); };
   $('ntfyGen').onclick = function () {
     var a = new Uint8Array(10); crypto.getRandomValues(a);
     var t = 'orbit-' + Array.prototype.map.call(a, function (b) { return (b % 36).toString(36); }).join('');
@@ -1098,6 +1144,7 @@
   $('nwIpo').onclick = function () { NW.f = 'ipo'; nwRender(); };
   $('nwTudo').onclick = function () { NW.f = 'tudo'; nwRender(); };
   nwLoad(); setInterval(nwLoad, 600000);
+  if (S.ghTok) setTimeout(function () { agendaSync(); }, 3000);
   setInterval(function () {
     if (!mercadoAberto()) return;
     tick++;
@@ -1117,7 +1164,10 @@
   $('addPos').onclick = function () {
     var t = norm($('pT').value), q = parseInt($('pQ').value, 10), pm = parseFloat($('pP').value);
     if (!t || !(q > 0) || !(pm > 0)) { $('status').textContent = 'Preencha código, quantidade e preço pago.'; return; }
-    S.pos.push({ t:t, q:q, pm:pm });
+    S.pos.push({ t:t, q:q, pm:pm }); SY.mexeuPos = true;
+    if (S.ntfy && S.aCel) {
+      enviarNtfy('Compra registrada: ' + nomeDe(t), t + ': ' + q + ' x ' + brl(pm) + ' = ' + brl(q * pm) + '. Aviso de venda em ' + brl(pm * (1 + S.tp / 100)) + ' (+' + S.tp + '%) e de limite de perda em ' + brl(pm * (1 - S.sl / 100)) + ' (-' + S.sl + '%).' + (S.ghTok ? ' Enviando ao servidor.' : ' Atenção: o servidor só vigia depois que a configuração for sincronizada.'), 3).catch(function () {});
+    }
     $('pT').value = ''; $('pQ').value = ''; $('pP').value = ''; save(); atualizar();
   };
   $('rstW').onclick = function () { DEFAULT_WATCH.forEach(function (t) { if (S.watch.indexOf(t) < 0) S.watch.push(t); }); save(); atualizar(); };
