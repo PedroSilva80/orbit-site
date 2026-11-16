@@ -1,6 +1,84 @@
 {
- "atualizado": "2026-11-16T21:30:29.983Z",
+ "atualizado": "2026-11-16T22:00:40.788Z",
  "itens": [
+  {
+   "id": "6lj7o3",
+   "titulo": "This Is a Huge Week for the Stock Market: Nvidia Earnings, Fed Minutes, and Anthropic’s IPO",
+   "fonte": "The Motley Fool",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOX2dHTURWQUo4cnA2OWc5YXlKV1Z0T1NjYlBQelpBaG5RMVFaX1llY0xQTlNGWGZfa0U3Z1dPcVNkbi1EQmtOdnJSQVh0RW9SX3dpMzRPc0NrcnZaWmhyWmZ6Snk0Nl9PNTJZYzVNNzBpanpwWVNQWlprblVTSkpUOWVYeXVKUnlYT2RReXBrZ3FpQlhSU2tvV0lyT0x1TU5FZjVHT3dLR2lsM3MtVDR0dEliWFhyVnM4VFdIMEZ0WGI5UGg3ZkZJcXJn?oc=5",
+   "data": "2026-11-16T21:56:00.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 11,
+   "avisado": true,
+   "avisadoEm": 1794866440788
+  },
+  {
+   "id": "1mkybcr",
+   "titulo": "FBI, Google warn of threat actors using ARTEX, other AI platforms to accelerate cyberattacks",
+   "fonte": "American Hospital Association",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNeTJ6U0JscnR5aXJMZWFRU1pVY1luSVBxNjBvSjFMcmRQRnFEZGg2cTJ6NDNIZDBEQ1g4X1Qxd2JxcnlfWDh0TEIzdFRPOWtEejRFUjdJMFU1SzJmZEVlNjhvUlg2bGM5aWMxQ0thbEtsdHh0MWJyQmRVUEFmNnBTMDZZX0MxcklxMzdqUnlRVHlhVzN6dmZuWG9Bak5fNm5JV1kyYlRDdVA2MXk2OHJST0tzMmJacWVIb19tRTl5WkRZMlB6WXJNeQ?oc=5",
+   "data": "2026-11-16T21:49:40.000Z",
+   "cat": "Risco grave",
+   "empresa": "Google",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "agbmkt",
+   "titulo": "Stocks tumble on Wall Street as Nvidia leads another sell-off in technology companies",
+   "fonte": "Los Angeles Times",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
+   "data": "2026-11-16T21:42:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "1bfmbcr",
+   "titulo": "Ibovespa cai com pessimismo fiscal, disparada dos juros futuros e aversão ao risco em Wall Street",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkxjVE45cElyMWxrYUlDTDc2Nmhtc0pjZ0VtVFRMSUg1TVpIaU10STZkZ0JFZm1TNmFGZG1ra2QxalNqY2Z2ZWZnTEIxRDVzX1Vrb0RyWkpyZEx5MHFPY1ZaUERrcFB2TC1SeGJsRWpRS21PMGZZaUlva09KeWlQOEtUc2huRTRjWTJhVWdaWnRUbXg3Q1NqWEZRSmJ3azd3YzdqV1ZnSjA3VkdlVDlsLUV4VS1JWUZRMU5DcUl1emQ1c0QzM3hKUUlXNWs?oc=5",
+   "data": "2026-11-16T21:41:14.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "gc1nut",
+   "titulo": "Tesla Cybercab has crashed 8 times, and the data shows a speed problem",
+   "fonte": "Electrek",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HS1pnU0tNMHpQSERUT0NsYW1SYU1oWThwRnJKQlZhbktiM0ludU9MejN3U0RObHZwbmNCeExvNWRWbVp5cW5XeUxGSG5zTWVoRjFHZkxjSkx6WVdnNW5rOUNKTE9HV0tTWlhSYkVkSU54RmF1U1FB?oc=5",
+   "data": "2026-11-16T21:41:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Tesla",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "s9hkmf",
+   "titulo": "Nvidia Earnings Are Sideshow as Huang’s Ouster Looms Over Market",
+   "fonte": "Bloomberg.com",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORlNRWmc0N3Uyc21OQ3RMb2x2U3VDbkxlLWk0SGdyd0xncEpzYTk4SDZKZzEzWWlNcHU2Snl6UXpiYXV4MzJ0aWl6SmdrVzVyb1B3XzVIYko0UGhGTVFtUml3SlpxTnE5MWZZVzl4VTN1WjQ4bDBUYmJvdVFTYkhISnNneENiNG1VMllvNGJqMDR2cHZNS0xWanY4VVV3aVlwLWRlU2ZRUUJvRDVxbEptcmNoazdZUQ?oc=5",
+   "data": "2026-11-16T21:31:41.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1p6i5xq",
+   "titulo": "Ibovespa perde mais de 3 mil pontos em um dia; dólar dispara e Vale (VALE3) afunda 4%",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoMFFIalBZZmZFWDI4cGYwaDByZW56UlFFTXdBbkhiTGdQZDRPWU9fTVpQRzZ5NnE5b1g4MzRnWHVKWUc0UUNJTENKanBSUkpXSG9wb0pzRlltZ25XUnlhRkdnM1RGVXg0YTRhSWVLNkMzc0N40gF6QVVfeXFMT21VRElyVTFFcERnVklLdWREUWFWcms1c3pzblB1aW9SZUpuNHFqVkRBRDZ1T29qNVV6U2NvaWNHeVp3Z0cxdTAtLUxjWGlJcUFkOXBYeVBYNTJ3aFNPbXZ1N0xpYWxVZXNlNjVnaE9VaGdsS01XQTNRRnc?oc=5",
+   "data": "2026-11-16T21:30:41.000Z",
+   "cat": "Movimento",
+   "empresa": "Vale",
+   "score": 5,
+   "avisado": false
+  },
   {
    "id": "1ragb1i",
    "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
@@ -135,6 +213,17 @@
    "avisado": false
   },
   {
+   "id": "8w3m0p",
+   "titulo": "Banco do Brasil tem queda de 42,4% no lucro em nove meses, pressionado pela inadimplência do agronegócio",
+   "fonte": "Contraf-CUT",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVBubGpZenZxbUpCZi1RTjhkRF81YW1odTJ4bTdfZTZjTHQ5Y3VJQlZIR3B1Q3A5RGFVQkMxWFd0TzdfNS1NdVJaSkNwYjhfU2dCR29fTVNEZmVrQ0pFb245VTZDZDhmLTIxalZlZE1sdnV2VzU3RXJiQmdVakNzcktKcDJOSnRfUTJyOWoyeWlfVlY5QXMwU0ZUWHRueTIwWUI1SjdXQV91UFZWZTFfcE9jRVkwdE5WU25idzlfVUtzSHpuN2VRUk9Sb21XdTlqeTBGMA?oc=5",
+   "data": "2026-11-16T20:53:09.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "avisado": false
+  },
+  {
    "id": "mp1cu9",
    "titulo": "A CEO steps down unexpectedly — what should HR do next?",
    "fonte": "Canadian HR Reporter",
@@ -187,6 +276,17 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "4azl5s",
+   "titulo": "Petição com líderes do Vale do Silício pede a volta de ex-CEO da Nvidia quatro dias após renúncia",
+   "fonte": "Rádio Metrópole",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNXNCSHFZWlBxSHZUcllQbkZHeHRCajZQV0tOMkRaZzZsMGItZjZTVThuem9HVVYtVWoyZjJmZmRJVm16OEhZczI5MmVKTHE5S2pRbjBYMC1qZjE3Njg3LXAzT0g4ejBxcWt2WC1qT1JtWnBVTzFQdjRLTHVCcGRqbDc4OXFNQnRVc3RqRkdUdWJZbm5Qa3JBNVNhbEtvVFZSTklHXzQyV2NFYWRzcjh2VWlhdjh2amhvbU1qVDhienVhNVJKVTdHWEJ0YTNWRF91NlVrSUk5QzNydlJidHpxSTNwTURUYW1f?oc=5",
+   "data": "2026-11-16T20:37:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Vale",
+   "score": 8,
    "avisado": false
   },
   {
@@ -519,6 +619,17 @@
    "fonte": "New York Post",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeTdDbUxQT0pZYWJsbzFib19sY0ZDSldsZmU3QjBNY2JsM1AtWUhZZU00ZVU3UWtuNXE5WVY3M1dWR1REVzh2dnU2T3FnZmNKWDVnd2QxMldsb25RS3NwR3VWWUVJV0R2RFE3ZkUyV3ZiX2lldVZqa3pTalNaM2g2aXZRd1kwQ1JJeFJEY2dNaEpQNklrTVBUX2Y5cDU2NHhFbUxRVHhueTNQUzRnZVFUNVQ1dTZydHRxSklfMlVia05lRnFl?oc=5",
    "data": "2026-11-16T18:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1rep5qw",
+   "titulo": "Forget Zelda: GTA VI Is Here to Shock the Gaming World!",
+   "fonte": "Polygon.com",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NUlFWMWRhRUZGNTJwYV9SeXkxS3daeEVHUGRxbzBaMml4aG1sU2k3Z3BBSE1ocS15X09qSTFidC0tMDdSSnpKdzdmYlBNby1ObEc4SWFoMFNuQ01ieFlVWG93ank3cVgyTThoLQ?oc=5",
+   "data": "2026-11-16T18:13:03.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -899,6 +1010,17 @@
    "avisado": false
   },
   {
+   "id": "1pxutkk",
+   "titulo": "Aquisição bilionária de inteligência artificial pelo Itaú redefine parâmetros de M&A corporativo no Brasil",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVnJtTEZrc1VhOXhCXzdETkRrR3B0eGtvc2xUY2EzT0t1RGdyQ3N4ejRLUms1OVE2QXdvVm14eWdBdzFLcjl0a1BFckl0Mk9McFZhV25yc0FtNmxzS2FxR18ydVpkeUhJRUJmcWE1TUYzbWtjZVp3bHZfb0ZaOFlFOFIwazl3UlRzUE5xRzhUWHFDQWY3MFhPbHIyajk5ZXNDN0REUGZUeHdjQkktaVRnQ2RydGNjWTE0TTQ5T0wtdGE3TjNLeko0RVFydWJwdWtZbVE?oc=5",
+   "data": "2026-11-16T16:15:11.000Z",
+   "cat": "Corporativo",
+   "empresa": "Itaú",
+   "score": 7,
+   "avisado": false
+  },
+  {
    "id": "1t0kdiz",
    "titulo": "Citizens' Mark Lehmann: Anthropic's IPO will give more clarity for consumers, institutional buyers",
    "fonte": "CNBC",
@@ -1273,6 +1395,17 @@
    "avisado": false
   },
   {
+   "id": "1ubtcl4",
+   "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeF9UXzdEend1MkhDNlE5Wk9mVng5bWtRN1dMZ241QVp2OUFJMVFhbUdqb0x2SHVvaVV6U1daM1JNQV9WTGstckVIcG5OaWxqRThQT2t3dlNReS1BWnB5eTlPdnhrd1lXOUV6NkwydG56SXBOUm5nZ2Nhd2NvTkJwY1pqT2dVTG9zZm9NREV0Y1NhQ2lkaXQ2UG95RDdxSzQwOG1EbmhTcVlSRUJMNS1LeDV5RFFVUQ?oc=5",
+   "data": "2026-11-16T14:04:57.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "avisado": false
+  },
+  {
    "id": "1e23kqh",
    "titulo": "Yamini Rangan Steps Down as HubSpot CEO; Co-Founder Brian Halligan Returns to Lead Company’s ‘Refounding’",
    "fonte": "INDIA New England News",
@@ -1523,138 +1656,6 @@
    "data": "2026-11-16T12:56:45.000Z",
    "cat": "Corporativo",
    "empresa": "Ibovespa",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1vgnlnc",
-   "titulo": "Dow Jones, Nasdaq, S&P 500 weekly preview: Nvidia earnings, Anthropic IPO on deck",
-   "fonte": "Investing.com",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzkwcTJIZUFZYXZpNnhJbEtiVUtuQzRSTUttdUVqdlNhRVpoQ1NMaHh6U1VTSzN3UVFFS3JzREV3YlhWZFpfRkVzNHk1TExfS3ZHN0NUWjBSQnRISWhnd3JFRnlsUUUyNDBfWkxLNmdMbGpFT1V4dXZoLVF0VmJ6TXdVb3lrU2lDLU16ckdIN01fNTlQOTlTbm54aVl1OU5hb1FRWmZMR1NPUWRJazJES2FRaDR0bnZ5RzliUHlDck4zY2M3RzhmXzhyVzNGQQ?oc=5",
-   "data": "2026-11-16T12:56:11.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "1iafqtg",
-   "titulo": "Stocks dip ahead of Nvidia earnings, Anthropic IPO",
-   "fonte": "Yahoo Finance",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
-   "data": "2026-11-16T12:45:20.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "1efxlm",
-   "titulo": "Ibovespa hoje: prévia do PIB, Focus e Fed testam Bolsa após semana de alta",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNTkVKaW4zeWRUU1o1akppRkdEX3pBQ0l6TjZqMU83cjJZSDJhNkhsQ2ZMYTdvbUdmUEFCaG1Fa1ByWEVVdkVtM2VyamFBeERRVjRvNVdFLUtCMUNPc3NKTFU0WXpoc1BWZS1kMHpwS3l0WHFIcWNLT2pKOUZQU3dGYWhCaXlYYlc0OXVvMGdkeVAtYWxBT0o4SWIxcVZlcGFCZXpGSFpDTW00amNFM3BtT0o5Z3Z3Z0ttdGpOUkt2T29UWG1YRHhkLS1GczJiUjZVWnNhQzU4RdIB3AFBVV95cUxNTDlNUElxTlR3WEVhV2o0WDNOMTcteHJHeEFtMDZ3cXFKUTdaQV9oZkJ4QjFLYjVELWF1YUFoRGdIZE80cEQ3dGQ0TlF5MU5rT0ZZTGlMU1Q3UTY2LW9RaGtkOFh0elJJWWZacHQzV3hOZk9XRlZ0d1ltcVVPOVdoWVRVempHVHlKZlZRRVV0aU04TFVuLXQzUWdPNWo5dHJyMXdxRkxtU1RjeEFIQkpFTFAzT3hmU1o3X3RSMmdHNy1OUHpOLTdnOUhGeVFwaEdxWF9ENlU1Y0paWXRv?oc=5",
-   "data": "2026-11-16T12:42:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "iimf8h",
-   "titulo": "Nvidia future, Anthropic IPO valuation analyzed by Kevin Mahn",
-   "fonte": "Fox Business",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ENkdhUVBObUZtdGFqV2dkYmlhOHhjb1dCOTNveHNrNFhycl80Y1dxbmYyOXFaZWs1X243WFBrNTkxRmlIWkJpM3FudmZEamh1OGxudWFVLTNOU1k?oc=5",
-   "data": "2026-11-16T12:41:57.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1phid0t",
-   "titulo": "S&P 500, Nasdaq futures fall ahead of Nvidia earnings, Anthropic IPO",
-   "fonte": "Kitco",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSktva2NqTGNheXVMRTFYT3RjNWRfUmVEREtXakt2Vk9GNXpxZlF0RmdPbEwyd3g1V2hWay1NQXgyTlMwdjRIaC0ycWpFUG1BdFpuZUhxOE45TjRhRGRybHROT1FLMHFLelFTamVyUUg0dDdRRHNnZmQ3VXQyMk9mbWY4d1kyMDl0TU4yYlg2OWt0S2Z2Rlk5RE5JUDNoUmhsTFhjX21GemFvYm9QdHd0M3UxUQ?oc=5",
-   "data": "2026-11-16T12:40:53.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "u5d1ig",
-   "titulo": "Blackstone Digital Infrastructure Trust to Acquire Data Center Portfolio from Amazon for $5 Billion",
-   "fonte": "WSJ",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYndUelZNd1UyOUZYQ1lmZVZYQmJ5SE9KNExiVV9hYUFpdlpTQ19lUnVyMFJJMF9VSjMtam9uT0ZCQnhrUzlCWWlJT0wxOW5Oak5jSTRkRTFTV3dlcUcxdDZJRjdjVW9pekpRb3pocUdweV83eUh5UzlFLXdQQ1FtaVlkNm1OblY0c3A2UGl3S24wbERRWEdIb2FUbmNKZjhZQjdPd3MwenVTLWdLTjZmT1l1bUY1cjlWRTY1bzRUWUJFSENTb0NQTlY4RGFjYjJXOXNPTGQ0d1RqZw?oc=5",
-   "data": "2026-11-16T12:40:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Amazon",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "1fbxgr6",
-   "titulo": "【US Pre-Market】Nasdaq Futures Fall Over 1%, Nvidia Drops About 4% as Jensen Huang Return Rumors Heat Up; Anthropic IPO Debuts This Week",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNbUNmak9JWEVjQS1iX08yTUIteHU5ZTBSbThWcWhSYUJyTGd2c2V1ZFM0OXBrdXJERHNNaU54ZEd4MGNDWE5JbDJxbnZjT1I4c2dLc29JSk1PcnVnREFYaUczeVlCbGV2WEhvOHdyTWpSSHh1MnE2M2tjUUpybF9OTUtyWHFVa1h0QnZ2SzNKS1pwLW1jc196Mks2SXRtdUN4XzQxZnRKVWJvbTZyeDRDWGtRdXpDcGNsb2N4NjQwTGVVMnFwZHlBcGF3?oc=5",
-   "data": "2026-11-16T12:39:22.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1d3oeq2",
-   "titulo": "Anthropic IPO considered 'important step' for AI revolution, Ives says (ANT:Pending)",
-   "fonte": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORDNjV21iRVZyM18wTEZSSW1UaFBDWUowTnRHb3VuZlhCWUJUdl9QVHE2Sm9TMVktZTBoVTA5eHVsSGhPQUVDNzgyejBHSldpenpPTnNQczVxN1F1QzRkSFFieXlkTGFpNlFtc3dWQ21wRS1TX0ZxaVRZdHJ3QndPX1hCTXBUdXo4ZDhYM1draEtaa1R6Xy1ERFhkVFlCbWhrWktvSw?oc=5",
-   "data": "2026-11-16T12:38:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "g1i8nm",
-   "titulo": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcW12ekZJa2xuSmJYbWxzWmJyYm5Ec0hSb19XaF90U196VGg1NmJMX3JqenhnYjQ2WUtvdk51Nm1wcmZFRG1UcTFZclNGNS04cExpZU9DZkpyT29CZzhWYjZmTkxhN3dxLUQ4R0NfLTU0SThLOGxxNNIBhwFBVV95cUxNVWJvNU5VOUdHd0c5TzRldTFteEtobUxWQ3VmaUxhcTVDSHpaZjhvTjdvaEJBaXU1cVlKTlVsRlBqRVM5NXdEaThNdDBOWjRfcFBaT3NOc1N2X1VLNkRfc1M0elBFTDgtXzBtQTl0V0tVVzRRQlZIbWNMYnN5ZU5IeVBsZ2s2clU?oc=5",
-   "data": "2026-11-16T12:38:41.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "c8ps0z",
-   "titulo": "US pre-open: Stocks lower as Nvidia remains in focus, investors look ahead to Anthropic IPO",
-   "fonte": "Sharecast.com",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPT0djNnRydnNFb2E3OXFCc0lOd2s5bXdQaDAwX0ZRRXJBV2hYWS1RODFxandLalNNRHFVekdndjl4UnlIZ0toRW1neFJaRi1mU3k3TElndVNCdEJSdG81czJsV3ZSY0hlUnFnRWdCMW96MER0ODRZSHd4emFnWUs2RTB1VF9mN0wtRXJiTkcybTFXSzN0azBiNElVS3hjYWVraGxRNjNibFN5N3dxSmhEUmlsdUFBbm1hZTVDc3JhN2FGQ1dKOGl0MDFpejc1WC1HSktzY0VweHYwbEdlVzRQVWVrM190M1c1bHVhSU9jenhaUGM?oc=5",
-   "data": "2026-11-16T12:38:12.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1mk1jlc",
-   "titulo": "Bitcoin Could Hit $90,000 if the Anthropic IPO Repeats the SpaceX IPO Pattern",
-   "fonte": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQ3g0MHpMdEFHdUI4RUdWUHlhM3J1amU5N1ZDWG53MkR2SFVxcnRRYWdxM1hOZzJSMVlqV25CTm5yZHEwX0NFMGhGd2l5WkhSM3JwNGxfY0xhb0N2NEczeVVSOFV1MHhBVUhKTG1oLVRNc1dwc25KZEJCdmNfLWRpSmd0M3BmZ0RsLXpR?oc=5",
-   "data": "2026-11-16T12:36:56.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "trjo2y",
-   "titulo": "Nvidia gets two more price target cuts from analysts ahead of earnings",
-   "fonte": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQLXM2WlNzd2l0SW1PN1NVa2prRmI1Q0dhLUIyLXFKZEd1RHNUZ1YwcE1YWmFjZENBMW02dGRsVlk5THd3OE9jcFo4el84dE9xNW9LWWdTT2Q4UVdHR1lySWFqR2ZGTk0xTWtROUlZZlhBeUU5VV9fVUprekljcGxOOEw5X2IyaWV4UFRuZkJmemlJTGlvbFN4bDgyeUFOWE8wUUozMHIwZXZpclk?oc=5",
-   "data": "2026-11-16T12:36:20.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
    "score": 7,
    "avisado": false
   }
