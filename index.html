@@ -299,7 +299,7 @@
       <div style="flex:none"><button id="ghSync" class="main">Sincronizar agora</button></div>
     </div>
     <div class="small" id="srvStat" style="margin-top:6px"></div>
-    <div class="actions" style="margin-top:8px"><button id="cfgSrv">Copiar configuração (modo manual)</button></div>
+    <div class="actions" style="margin-top:8px"><button id="ghPull">Puxar dados do servidor</button><button id="cfgSrv">Copiar configuração (modo manual)</button></div>
     <h2 style="margin-top:20px">Voz</h2>
     <div class="row">
       <div><label>Voz</label><select id="cVoz"></select></div>
@@ -1088,6 +1088,23 @@
     } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora. Tento de novo na próxima alteração.'); }
     finally { SY.busy = false; }
   }
+  async function puxarSrv(auto) {
+    if (!S.ghTok || SY.busy) return false;
+    var base = 'https://api.github.com/repos/' + ghDono() + '/' + (S.ghRepo || 'orbit-alertas') + '/contents/config.json';
+    try {
+      var r = await fetch(base, { headers:{ 'Authorization':'Bearer ' + S.ghTok, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28' }, cache:'no-store' });
+      if (!r.ok) { syncMsg(false, r.status === 401 || r.status === 403 ? 'A chave do GitHub foi recusada.' : 'Não consegui ler o servidor (erro ' + r.status + ').'); return false; }
+      var v = JSON.parse(ub64((await r.json()).content));
+      if (auto && !(!S.pos.length && v.pos && v.pos.length)) return false;
+      if (!auto && !confirm('Substituir compras e regras deste aparelho pelas do servidor?')) return false;
+      S.pos = v.pos || []; if (v.watch && v.watch.length) S.watch = v.watch;
+      ['budget', 'maxPct', 'drop', 'tp', 'sl'].forEach(function (k) { if (typeof v[k] === 'number') S[k] = v[k]; });
+      if (v.user) S.user = v.user; if (v.ntfy && !S.ntfy) S.ntfy = v.ntfy;
+      SY.ultimo = JSON.stringify(montaConfig()); try { localStorage.setItem('painelSync_v1', SY.ultimo); } catch (e) {}
+      save(); syncMsg(true, 'Dados puxados do servidor: ' + S.pos.length + ' posição(ões).'); render(); atualizar();
+      return true;
+    } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora.'); return false; }
+  }
   function agendaSync() {
     if (!S.ghTok) return;
     var c; try { c = JSON.stringify(montaConfig()); } catch (e) { return; }
@@ -1095,8 +1112,9 @@
     clearTimeout(SY.tm); SY.tm = setTimeout(function () { syncSrv(false); }, 2500);
   }
   $('ghTok').value = S.ghTok || '';
-  $('ghTok').onchange = function () { S.ghTok = this.value.trim(); save(); if (S.ghTok) syncSrv(false); else syncMsg(null, ''); render(); };
-  $('ghSync').onclick = function () { S.ghTok = $('ghTok').value.trim(); save(); if (!S.ghTok) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } syncMsg(null, 'Sincronizando...'); syncSrv(true); };
+  $('ghTok').onchange = async function () { S.ghTok = this.value.trim(); save(); if (S.ghTok) { await puxarSrv(true); syncSrv(false); } else syncMsg(null, ''); render(); };
+  $('ghSync').onclick = function () { S.ghTok = $('ghTok').value.trim(); save(); if (!S.ghTok) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } syncMsg(null, 'Sincronizando...'); puxarSrv(true).then(function () { syncSrv(true); }); };
+  $('ghPull').onclick = function () { if (!$('ghTok').value.trim()) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } S.ghTok = $('ghTok').value.trim(); save(); puxarSrv(false); };
   $('cfgSrv').onclick = function () { copiar(JSON.stringify(montaConfig(), null, 2), this, 'Copiado. Cole no config.json do GitHub.'); };
   $('ntfyGen').onclick = function () {
     var a = new Uint8Array(10); crypto.getRandomValues(a);
@@ -1144,7 +1162,7 @@
   $('nwIpo').onclick = function () { NW.f = 'ipo'; nwRender(); };
   $('nwTudo').onclick = function () { NW.f = 'tudo'; nwRender(); };
   nwLoad(); setInterval(nwLoad, 600000);
-  if (S.ghTok) setTimeout(function () { agendaSync(); }, 3000);
+  if (S.ghTok) setTimeout(function () { puxarSrv(true).then(function () { agendaSync(); }); }, 1500);
   setInterval(function () {
     if (!mercadoAberto()) return;
     tick++;
