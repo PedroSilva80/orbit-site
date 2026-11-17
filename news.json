@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T06:00:33.561Z",
+ "atualizado": "2026-11-17T07:00:29.800Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "1bwlz9f",
+   "titulo": "Principais investidores do IPO da Anthropic: Amazon, Alphabet lideram participações enquanto Altimeter planeja investimento de US$ 5 bilhões",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeEltOXVha1l6VWZtMl9mY0VFMzVKTW1XTmFXemwxbVd2MnVGTjEyMVdLYm5BQkd3b2hvcUtwMmNuN2tiTWlvM0ZfVWE3NVVlaHFoaFNEMlZJR1AxeVN1ZWJLOGwxdTRNbjBQSHQ4aXAzZTBvSDRGcThGMm85cklKY190b2d1eDJGSVlXNDl1NEpDOFV0V0FrcFlWY3JxMUFHMWJnM0RGb2QtUjJZdUtVV2t1eFhQU2h0NzRoaW1lckNZOTc2c0hnMmxOdUszSmUzNWZ6WUdvVXFVQQ?oc=5",
+   "data": "2026-11-17T06:44:39.000Z",
+   "cat": "IPO",
+   "empresa": "Alphabet",
+   "score": 10,
+   "avisado": false
+  },
   {
    "id": "1wqfi14",
    "titulo": "EUA divulgam detalhes de investigação sobre empresa ligada à Nvidia",
@@ -1649,17 +1660,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "plw3o6",
-   "titulo": "Futuros de Wall Street recuam à espera do balanço da Nvidia, IPO da Anthropic e discursos do Fed",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHNxM2czdnZNUG9WY2xFellBMWZUTnNNM0NmNEQ5VTlCZjVad0c4N3I1aWxMeTRfX0djWXJHQWE2NjV4M0xwOGY2aU9tdHdwaEp0eklzdklGTXRKSHZ1c0lxNm9fbzk1QV9mdHRzTzJFcnhDeTVJYUJwNk5VcDFTTkkxekFXOHJRSnlUOWptb3d1cXAyUm5Xby1nVQ?oc=5",
-   "data": "2026-11-16T10:39:43.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 11,
    "avisado": false
   }
  ]
