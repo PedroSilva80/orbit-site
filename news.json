@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T02:00:30.869Z",
+ "atualizado": "2026-11-17T02:30:27.689Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "1e5l8fh",
+   "titulo": "Governo não prevê socorro ao Banco do Brasil, que teve queda de 66,5% no lucro do terceiro trimestre",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPak9HZjNVRjNBRkxVWXdLQXg5VjgwUEQwQVhmODZNODMyWk1FbDgxbWNaUkJCZ2RNOHZnUV9iS3BOU3hROTFwM2tlejB5Y3psbmZHb2ZRa3BEclFROG15ZS1NNHB4MjMweUR2TFl5UVp3X3FVZEI2VzFLZTlONU4wWm1uM0RLSHltS2F2VWpBaHN6Vm1uRjlsM2FLbWtvOUMtVFV3?oc=5",
+   "data": "2026-11-17T02:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "avisado": false
+  },
   {
    "id": "16kwici",
    "titulo": "As ações de tecnologia caíram acentuadamente antes da divulgação do balanço da Nvidia e do IPO da Anthropic.",
@@ -1649,17 +1660,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1jzrlsz",
-   "titulo": "Dow futuro cede com Nvidia e IPO da Anthropic no radar",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYkR1R1A5bFZpMzR2bjJTcE9SZ01kdWppd040a1NEQS1WUnctNHVtNktRQlhFSFJxYzJHYl8yWFlDTUp6eVBmRC1jUko3SUstUHBKU2ZtZDUzQkNaeFo1aDlCTmhybnlRb0JGOUx0blhtRmszS2h6T196MmhMSm5DeXh0U3k3RFhPa2xTWUhza2JXSkJwLVVocWI2ay1fY1Jw?oc=5",
-   "data": "2026-11-16T09:19:47.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
    "avisado": false
   }
  ]
