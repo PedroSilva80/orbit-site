@@ -1,10 +1,65 @@
 {
- "atualizado": "2026-11-17T17:00:30.261Z",
+ "atualizado": "2026-11-17T17:30:28.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1j2cskt",
+   "titulo": "Avaliação da Anthropic para IPO ultrapassa US$ 1,5 trilhão com demanda por IA",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQeG1nRV9yMzVyck5FekxDU3pFelJRSm1mazlrWVpEVjVzTC1XT3k4SnBXQS11aFVZWVNIZldoblQzbGhFdjAxNWgzalpHc3VDcEYyZ3VlWmdvY0JSdDNDN0tpbnM5QVhPQ3VpUUdGNG9DeVlzZzJ1d1VIUDZnZTFzNjF1QVcwUnVTRFNHWWtfUXU4QnA3OWMySG4xb2RBT2lfZjFLRzhZdlRvT1hjOE9pS1pSX00yRmtrZ2xqRWFyYnQ5ZmtXMVpEY24tOA?oc=5",
+   "data": "2026-11-17T17:21:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "k99g4p",
+   "titulo": "The Game Awards 2026: GTA VI e Zelda disputam prêmio de Jogo do Ano",
+   "fonte": "Poltrona Nerd",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLTMtWExqU3FmZzJuQXFTLVQ1Nkd6VXVoUmo4QkRzd3lTN1k4QnJTbzNLZTlQaEkzSUE0VjZVTFN4eVFKX2h2elJwcFhvWGNDOHdVcE15QmhkRXRHNXI1NW9RVDBld1g2aTdQVHRvdi0xNlBVVG1IWVFtTS1rRXFtQUYxYWFONEFPdExMOVlWVHRlOXFzcHp5N0VjaE5TaDk1YTlYUXJTVFIyVEdqcEE?oc=5",
+   "data": "2026-11-17T17:19:56.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1kdk4o4",
+   "titulo": "Wall Street cai à espera de balanço da Nvidia e IPO da Anthropic",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMEt5aUNxQXV4VUtucDJ0Tmk5SnNLV1Itcl84R3dXcHZqRUgwUVlSVVlPUEFST2NBTGJqUm9nN244Z2xOS2lKRUdMSk95TWFtWmxxV2tIdjlweUlCWDlFVk5KQ3hxQ3I3WV9DbnZHdF9Ta2huUU5tRnlrY3d5QTZJeTAtaXVPQ1E?oc=5",
+   "data": "2026-11-17T17:15:01.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "gy98fi",
+   "titulo": "Justiça condena Bradesco a pagar R$ 15 mil após fraude com empréstimos e transferências",
+   "fonte": "Estadão MT",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWUxWWUZCUVQwcXkta1VtQk9zeUNuU2hlUHFyTFZLOEh0QWRTbE1xa293QUxvWXF2VFZxR016N0xMNTNUY1ZKV2VUb0s5TzgtTUJyT18wbTVBOE9Ha1o2b3lXaW1TRTNqVE1lYmxYZDRaMF9MWlNvZllsOHhocmZkSXFNUERrTEFwQkYtUkV0YTJuMndkb3I2THRHVlNWXzJ0REdOYUNrM1NYeFhLNFRkYzhKcC16c3R0OTRoM0NWbUdGYU5mQm9ZR29yRXhVUGFEWkllSEtTTXM?oc=5",
+   "data": "2026-11-17T17:04:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Bradesco",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "ylg1mt",
+   "titulo": "Anthropic (ANTH34) estreia na B3 junto com IPO na Nasdaq; veja como investir",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON0xHNHpWTmQtMUdnTzgwX1BGMUN5dUN6NGFlaVVJQTJhYmljcnBmNW4wRXZJSUVEYlE0TzBDVnlTR0NWRDk4eDllMGZUTU5rMXU0dTZFS0swbjNoTDhSUDlnV0NvbG8xUEVVZ1R4em03UlVIQzlxdmt0RUsxZE55ZjJjS3dLekpOaXRMM3FR0gGTAUFVX3lxTE10UEVpRW82NE54WE8tLWN6WnRoYzhmaWRGNWpfSVBzemkySlJGRmdEWUhoZUlfelpwWW5fUEpHeE12UGlmd0FYaFo3UTZpekY2Z0x4TTdJUDVjVHFkRVlZVGs0bzAxYllIMVlyVXh0bW1mdVR2QlJKWHZEaXdhajk1MzY3WlJNTzg4Um1yUHNlMklaTQ?oc=5",
+   "data": "2026-11-17T17:03:26.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "ar1v86",
    "titulo": "Após renúncia por escândalo, Jensen Huang abre porta para retorno à Nvidia",
@@ -377,6 +432,17 @@
    "fonte": "NeoTeo",
    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVlpeEJhRFd0cnZWOUNfVFJyRGR3LXprTERWeTI3aGNuTkpGMmQxMzB0NDdRdGJ0d29Tc0d4YktCMEk2QjloYUxVUHZQU2FaSWdUbE9ESTVha0pHMG01ZWhOTXRxa3lRT3NOa2NMbk9kamJZZU5wWGVkVzhvX0otaTF0VmlOYVRfMTlmaURMQXk5YVVPdG02UV9OQzZTc18zYXpaSThYM0pabUhxUjhOcA?oc=5",
    "data": "2026-11-17T14:48:40.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "ada7y8",
+   "titulo": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnRXZlV6WHp2bkRmejVLY2FnWDB6UGJvV3JRcmQydjNsUmxWYlpWMVgxZXV0N2VYdGI5MWVPaC01UU9laVk4QWkwbS13WDFBcFN1VGpRcEVxZC1rZjZRbWpRMkNfeHN3UmpHVkEzS2hORzV1Tl93NHBCb0JjcGh5SlVSUFBEa0tYNUV3RE5YQUk0VVF0bHpORjNJVDRrZXdrZVhCQ2pFNWdVWUJoLWl0VDlTSXdEQnc0ZW9RREdLZ3lObUJlNkxLTlFLUk1KYi1rNHc5Nmt0c0VNeDA1eVBKNG42UGg5QQ?oc=5",
+   "data": "2026-11-17T14:47:49.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
@@ -1595,72 +1661,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1a8qlkv",
-   "titulo": "O ex-CEO da Nvidia, Jensen Huang, renunciou ao cargo na empresa que fundou, após relatos de múltiplos casos extraconjugais, incluindo um com uma subordinada e outro com uma mulher que autoridades americanas temiam estar trabalhando com a intel",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQzBTN3B6ZzRXaThoZWQ4aXVMWHVQQjNFU3RmTmF0U1dDUnFVNEVHRklEa0lxNUp6cklDdmU5NDMxNXU5Z215MXQtNzdtdTV2Wmc?oc=5",
-   "data": "2026-11-17T00:00:20.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "1ebrj26",
-   "titulo": "Tem conteúdo novo na Coluna do Tio Nerd! Desta vez, o assunto é GTA VI e o fenômeno mundial que promete ir muito além dos videogames. O novo lançamento da Rockstar Games já movimenta milhões de fãs e chama a atenção de diferentes setores, co",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBUaENtc0ZlVUthQmdhbU9XVkMtMU1BQlctTmtPYk1lcHhrcHlZbzVjc1RSNWlFcms4TEFRMG1tc3VQb0J1UjRERDlnbTZBN1pOYkE?oc=5",
-   "data": "2026-11-16T23:55:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "u7z2ds",
-   "titulo": "Pescador desaparece no Vale do Javari, e Funai diz colaborar com investigação no Amazonas",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObGNDSTk5U1c1OUFlSTFhRW1aRlVkNVl4VnVPUWFYVUhiX1dWR1owcVNHM3ZtRklGUlhzS2ppSF94M0xTT3B5c2ZmalgyM1NQQUx6MDF5dHV2cGliai1oUy0ydjNweVZ3dnFmUFdFekw3QkxQLVozRFJvT25hczBsLUlsXzhBTm5fdTc1VWlnMndhMUpDUVBRUVRlSTcybmVSOFF4dTl4QXhaQk1nMXhEOElYOGJscW01NWtuNXRnLXpPbU9HZTFyTWNpTWpQc3FENFlvZFZvWGZqYmhUZWU40gHuAUFVX3lxTE5JSmlzYUczSHg1NXdZbnJiWFM4NFpqcEgwQW9tVmtJb0F3R3BjUVV1b1Z6SGtLZ0lBcTJ3OWVsTWRQbFJkSGVGbXJzb2NmMTV6RUZESWgzOWFESkZucW9INzZWQzJJUWJFWGVybm5BaWRHTEZvWW5aNDkyRVNqemRSd2lqMFBmU0Zib2dhZFZYTnZ5QTZxdHpYYzZPbEVndFFuQXJnZUMxdTZGZHh1WFpXZkh4S1JIcG53SjI4bDZDNnhyVUp2WEZNYWMxbE5fTFpVamtmTnRPa1ZCSTlPZ2prQjRmd0t3Zlp6MW5na3c?oc=5",
-   "data": "2026-11-16T23:52:37.000Z",
-   "cat": "Risco grave",
-   "empresa": "Vale",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "15ixeuz",
-   "titulo": "Longe da meta, previsão para IPCA tem recuo",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORGFJandyV0tCQjBOcjc0MVF2aVo5WEFfUG51cEJjRjg5VnNNMTVlRkQyUnZROExBZzZqMEZPdloxcGxob3luVThCWTFZdVo0Y3B0UmtHRlJIVEpucU5xX0lCaGdILVpJQWhFYmxfWXVfbC13YlNILUVOM18wcWRCZXlfZ3B5ZEh4YWVZTTdDdjcwOE1kSHMzLQ?oc=5",
-   "data": "2026-11-16T23:45:44.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "19iy5l4",
-   "titulo": "Ibovespa fecha em queda e dólar dispara com incertezas sobre política fiscal",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1YSWFlOTVxX3FjRGJyR0g0dlFHSi1PeGM5RF9VUnFleU51WGcyUHhlNUcyMWlmd04yU1Atam9ONVNSOGhId20xR0huRW5WakFhZ24wakY4S2puSDJuM2FBcV9WbG8tYTQyY0JaUE1mbjlNMmk4QVBF?oc=5",
-   "data": "2026-11-16T23:30:09.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1ijwzxa",
-   "titulo": "Jensen Huang avalia a possibilidade de voltar ao cargo de presidente-executivo da Nvidia, enquanto aliados no Vale do Silício pressionam o conselho da empresa a readmiti-lo poucos dias depois de o executivo renunciar em meio a reportagens de que ele",
-   "fonte": "Instagram",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5iUFBVTDdNOUQzWGV6b3BSVGVtMmtvVURnUE01WGM2a2Flb2tuQlFycGRHWVVaN01OWDNzb1NKMWROaW8zdlJycTAwV2liTWI2WUE?oc=5",
-   "data": "2026-11-16T23:22:35.000Z",
-   "cat": "Liderança",
-   "empresa": "Vale",
-   "score": 8,
    "avisado": false
   }
  ]
