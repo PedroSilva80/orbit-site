@@ -1,10 +1,54 @@
 {
- "atualizado": "2026-11-17T10:00:33.363Z",
+ "atualizado": "2026-11-17T10:30:32.904Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "j7armi",
+   "titulo": "Polícia investiga morte de menina de 4 anos com sinais de agressão em São José dos Campos; mãe e homem são presos",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTkp3SXg3eUFEUDhjUDd4dC1JQUtERDA2Q194RDlsZG15bmRiaDc0RTJudTJWWGNxRFVvc3V5MXgxaGdtR1pzeE1YQW0tNG1lX2ZfTUVSaVRINlVTM3JPeEJpLW83UG1xV3JMZDRJV0xzdzdGczJUYmpqcE1YX29Gdkg5N3oxRGYzN2lxTEs0dzJlQ3JTSGNDc1Rwa2NaY1dFRUw4bDF2anlSOUtldzJLd2xtZHBQNldGblZMT0ZwVndqS2M2aV9hMi1sUl9vUDNlaUxTSG1oc1JOSnlDZUFEdDQ0bThEVjVKcTh6ZGFkbDZzOU85V2lVb28tODc2RUxQdWRWTEJSLUdESFVqSV9ZSHlR0gGgAkFVX3lxTE4wMGZ0TEx0bl9uZi14dkZtdEZEWHdNMDZuNzVOTzRBS1AxWGo4UkxLdEh1NUNPcW1BZ3ZodGxqRlJOR2VwQUN4eVo0Y2U3RmJIemhqY3NPSkFsenREUGtLR2ZQdHRHT2FnUDRiQnBWMlhCYnV6ZVFoVDlCYnYyTHA4bDR4d0k3WFRMc3NNNGU2bk5YZkhLcVpsWWhLMU9XSzVROEY0MDBYWFFOaklKcTc2bENTejV5TV9QUkF4RndMc29uYUd1dGNpN1RtMlRQeEJOdHlMTTdrZ05oWVoyT3dMR1JFa1MtZEdpLV9pRUtvWFM3MnZKZjJPS0RQY2pFWWdja0tmZXE5V29NQVBOcnV5cDVQOE1FR2xNNGNjaGtubQ?oc=5",
+   "data": "2026-11-17T10:15:50.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "15mbvwt",
+   "titulo": "PS Store tem 27 lançamentos de 15 a 21/11, de GTA VI a Soul Reaver 2",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTMxdUhjdWJ2dXBsNHBLM3E2RG81dVRtbmpuLUJLSGNyYkJLM01tcmkxYTAwM1JwSUVGbGg3bFFGQlo2NVpNNnR6cGNSSlVIMnZOR1kxU2o3QTZlYmxlN3VvRWUzU0ZLSkRHRE9lNkhKTnZFZWlkV1pCZ3NwSENYVw?oc=5",
+   "data": "2026-11-17T10:14:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "18f2x92",
+   "titulo": "GTA VI: o blockbuster que Hollywood não filmou",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdCRGVfQmg5bnhGSm5yTVN2aU1YRkwtdVQwOFhnOVh6eTZ1T2JPYS1YZkc0Mk5NNFRuOGJmSWgtbGx1ZnFBRXc4TVhINUgybEx6WENWN3o0SWtKanR4Rmt4a05wOVVLUUd1UHRKQnQtc1lhdUNDX1ZRWS1tVnhIVjNod0FjLTRkT1dOV1B1TkFnVEZKS1dORDJSSQ?oc=5",
+   "data": "2026-11-17T10:11:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1ii92tr",
+   "titulo": "Após renúncia à NVIDIA, Jensen Huang ganha homenagem em Taiwan e declaração de Trump",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzAyS096VjJYR3YwN0RtTUpnRUdBckVpdkZBSXdaWWVWVlJMeDI5RW55QW8yMzA0S1dWd3phMnY3SnF4dWFFVEVhNDRJOHcxSDNCSng4RWUxM2d0TjBpeXJybzNJQzhyUm84SXZncmk2cFF0UGhHWk4zZndwcGNrS0N2QXVRSncySFd2Q1FnSlQ4R1ZnS0QzMGRNeGZLZkZ3NnZCdm5IT1lKUkxlenc?oc=5",
+   "data": "2026-11-17T10:02:31.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
   {
    "id": "3us5t2",
    "titulo": "Nvidia descarta retorno de Jensen Huang ao cargo de CEO após renúncia",
@@ -36,6 +80,17 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "2qc1u9",
+   "titulo": "Nvidia testa mercado com balanço e transição de comando",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWlYc2hiWDU1NXBOQlFnRUE0VXJRaDR1M2dGbjNIRGVrazVzeDQ1RUhyOHRHSVRnOW9VOXNzN0tmRll2cnFXOF9xTTFZWHY1VG9FWGE1S1NYNG1EN3NKYWNaVUhNaFJ6RzJKeUNzc25TcnE5QllXUUx2WHlJOTlqUXpnMmZhbGFuN1dSbjVoUEdkamRYMnJxUURmdjc?oc=5",
+   "data": "2026-11-17T09:19:24.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "avisado": false
   },
   {
@@ -1499,6 +1554,17 @@
    "avisado": false
   },
   {
+   "id": "rf9zxz",
+   "titulo": "Os mercados podem enfrentar mais uma semana volátil com os resultados da Nvidia, o IPO da Anthropic e a ata do FOMC?",
+   "fonte": "www.tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcnRqOG1HeGhXRkRkZjVWVWJuLUJvM3ZBNWJXUllkOUs1ZUNQMHdHc2dKbjRhbDJ3MlBWRU9mZ3NsSjlyTFZud3V4Mk5CTjdodFQ3cmhxdWJuWXFIN2diNkFJOGxydnRJOTA1d25xQWZRczB1a0lfSUNtcG1DcUVfTTdhVldhckhJaF9wV1BPaE0tY25DdjVjN01TTTg2NVVGclJ5V1kxZw?oc=5",
+   "data": "2026-11-16T15:08:01.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 9,
+   "avisado": false
+  },
+  {
    "id": "n1t9sy",
    "titulo": "Jensen Huang pode voltar ao comando da NVIDIA poucos dias após renúncia, diz jornal",
    "fonte": "ULTRA COMBO",
@@ -1594,72 +1660,6 @@
    "data": "2026-11-16T14:28:36.000Z",
    "cat": "Resultado",
    "empresa": "",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1fwlnes",
-   "titulo": "GTA 6 chega quinta-feira e pode destravar as ações da Take-Two na Nasdaq",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRWVZelVTVkMxYXFwMS1tYnAySnJHZW9tUXBFTUo0eGN0elpydW9oTDN6TjBFZmJDUFhkWk9iZjJOWGJwdlptWlM1cUMyRktpRkRReWRQWlVEdHh6cl9zT0lsdFRxWWNtLXhpc0dTSEpPdldVV242UnNkTFRnZHJScXdCVW5TeHVl?oc=5",
-   "data": "2026-11-16T14:25:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1d0f0hv",
-   "titulo": "Investidores fazem fila por IPO da Anthropic, mas têm dúvidas sobre liderança em IA",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEpmU3UzZGVmenFxMUtaazRxRmpReld2TE1nRHpXd2RxcmpTNnZCRE1XN3k1ZUU5Znh5aDktUkxpR3pMNkRXb2V5S0Fsd3RiSVkxQnpsLUNfWGVUT0tsY2UwNTdRYW1Ud2NFQUxpYzZKN3NBVG53YzdpRmNHbWU5REg5R1YtdnlvSm1nS1dFcE40Z3Q3SjJnd3NVdWhxSVBoc2RfRWZia3hwTGEtZERBc3d4QTJvcEhhc2ZyaWZ30gHDAUFVX3lxTE1YTzhnQ2diRGMtMlZpQUpGOXUyUGNvWmNvWHcxcTV1dGM0VHEwS1d1TjdYMVRPdWo4anQ5YlI0UzdiMlBXZ0NJeUsxekZ4Yk9LbjBLTWhSaWRubzFTN1RkMDBRLTJCSG5qQjNpUnlvZ1c1eTNja2owMV8tWUEtUExQSlYzOGlXUGVRcWNFaDFvRVR5cTlJLXFIQUFJU2lyODBFTTZtY3NxRFdTdkpkVl9EdVBybEEzOTQ5eV84eHhKLWtEQQ?oc=5",
-   "data": "2026-11-16T14:23:35.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1mbg2xa",
-   "titulo": "Ação da Take-Two salta após analista ver potencial além do lançamento de GTA VI",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLZ2hfVXhncnFON2JrNnA3eE1NcENJVE1MNFNmMi1Mb3dPTXJPZ3NwcTFLZVRzc2dLb0t0eGRySVdfVV9DNU84dDA2Q0ZEamlaWnY3cW5qY2lGT0pocm9NcVFDTVUwZw?oc=5",
-   "data": "2026-11-16T14:11:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "5i4c5r",
-   "titulo": "GTA VI chega em 19 de novembro após quebrar recordes de pré-venda",
-   "fonte": "AdNews Brasil",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN0ZTZmp6N2h5MWFkRTZNZUJBQmVmN2xvSEJMLWVaUm9VWi0tdzA3bTAxazlMRHRYWXQ5NnREQVRBSGVSVWJhUnI0b1cycEwxc2ZQRy1oQzBmZWZPcTljS2Y5UmFRVk9HdkVhTnc1Wjc4dER3R1ktVF9RNFltV1gzNjlNWGh3Nk8xelIzQ2JEQ0c1ZFl0N3Vz?oc=5",
-   "data": "2026-11-16T14:08:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1v0j9en",
-   "titulo": "Strategy compra 485 bitcoins e recompra STRC",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRl9iZkpLUFRURmFmUVpQajJHREhxMGx2clFSWUk1QWlkbDVITDdZSzhvU2k2M3Q1dlg2QlF0Z2RTbDRFWWZZXy13ZE55WjVTV3gzbHdhMHA0XzNDRkswWF94bkJDQldJRU9UYjJEb0ZYUjRvRWNYcEo5X3huUFlRRGNLTUZGcGl2NTNjWmUxRVRjVk5UWVUwUHB3VjZyWWgxa0E?oc=5",
-   "data": "2026-11-16T14:06:19.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "avisado": false
-  },
-  {
-   "id": "1ubtcl4",
-   "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeF9UXzdEend1MkhDNlE5Wk9mVng5bWtRN1dMZ241QVp2OUFJMVFhbUdqb0x2SHVvaVV6U1daM1JNQV9WTGstckVIcG5OaWxqRThQT2t3dlNReS1BWnB5eTlPdnhrd1lXOUV6NkwydG56SXBOUm5nZ2Nhd2NvTkJwY1pqT2dVTG9zZm9NREV0Y1NhQ2lkaXQ2UG95RDdxSzQwOG1EbmhTcVlSRUJMNS1LeDV5RFFVUQ?oc=5",
-   "data": "2026-11-16T14:04:57.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
    "score": 5,
    "avisado": false
   }
