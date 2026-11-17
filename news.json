@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T07:30:30.195Z",
+ "atualizado": "2026-11-17T08:00:28.410Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "15j7iw4",
+   "titulo": "Anthropic deixa Portugal fora da venda de ações antes do IPO",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUw5NGx2bXV6RmdJbzg3NHhBUnZoZmZNX1FqdFRReVlEZ05NZmhWNm5nNnFLa24ybTM1bTMyaEttR3V3SVBNMURYeThqMFRBTUotUDRtN0E1aUFtOU9FNlRPUVpRNEtwMlhWZWtqa1ZHSkNwY1huYXVmWUZydUVBS1ZqRkpOTlp3RU9pSlBnTmU0XzBzOEZz?oc=5",
+   "data": "2026-11-17T07:05:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "oxhpjo",
    "titulo": "IPO da Anthropic pode desencadear US$ 19 bilhões em compras passivas: ANT pode entrar no Russell 1000 e no Nasdaq 100 já em dezembro",
@@ -556,6 +567,17 @@
    "cat": "Liderança",
    "empresa": "Vale",
    "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "116phs6",
+   "titulo": "Mercado Pré-IPO da Anthropic da OKX Testa Descoberta de Preços com Alavancagem de até 10x",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yd2taVzUxWTJlMmx0UmkzMG5BeXVrdFY1WFl5Mnk2eXdyT2d2RURrV2dQRHZQVUtrOGlwNEZja2k2YjA5TVlUMmFpT3RZMjZyZjNTd291RTJIbnVJZ19kTUtCQkEzZHRXRVR0VWtTakxhbmNDT2hfaGxwX25EVkU?oc=5",
+   "data": "2026-11-16T20:28:37.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -1635,28 +1657,6 @@
    "fonte": "Forbes Brasil",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEtLWHdndWd1ck42NnpGU1I1UXFSeXNKS3U4X3FTd0RQQjFmWU9vUWlSdkhFanFXN09ubmxnUjZuQVRVOTByV2xibkZOTHRsR0tNUU9TTzhHelNXNENzblVrekZjMnBhY245UWJpZjFnU1dQam40ZWlIYS05dURDZUtjek1CZVlNSzIzMjB3dmxGdnV0NzdvaXNwdHBVY2hlRWdiMWxleWRXSXktemdv?oc=5",
    "data": "2026-11-16T11:58:44.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1tgfhi4",
-   "titulo": "Bolsas asiáticas caem antes de resultados da Nvidia e IPO da Anthropic",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRnFBNWpESzU1N1A1VXplU1hSWDZPZ216M3BWczZFU3BwT183X0l3NklYNjBzRUZoYVpIRnZVbFZMckhjZjBrTWNoUnE1amE5Q1JveXlKNnR2VEVldUZtMzFvb2RKaENrNS1wcXkzZGdOTHdtVGNkOHNtX21ZTEVfV196MkFQb05iN2s1cl9BZzg2R2t1b0VLSVo1WXhOejA5MGtYYVpuYWQxQQ?oc=5",
-   "data": "2026-11-16T11:22:54.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1ij4aoy",
-   "titulo": "Índices globais recuam com crise na Nvidia e expectativa pelo IPO da Anthropic",
-   "fonte": "Monitor do Mercado",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQczhFRkpfbE9leW96OFlDRDdYVjVoN0RFeTRzNUZtaG40XzZQYlZ2T1l4RUxXdmpPbnBmcWh2M3ViLUhUN1RoWnh0M0xqR2FuWWxtaGMybmlzdWxjUGNtaWhYNEtuX1p6a29DVEFWLVNYbzdHZnBPVFp4UkhlY0VkYy1HTDM5VWk3TmhYLTB0VUU5bkN1SjRlTGZEbDczU1BnVE1jeVpncC01Y1dhUF9aMmlNNnJwUUpTMWFEWURYRjMwMXc4U19qLVgzYTM5c3BOQVE?oc=5",
-   "data": "2026-11-16T11:16:15.000Z",
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 9,
