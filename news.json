@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T20:30:27.843Z",
+ "atualizado": "2026-11-17T21:00:33.206Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,114 @@
   }
  ],
  "itens": [
+  {
+   "id": "11qby6g",
+   "titulo": "Preço das ações da Anthropic pode superar US$ 80 antes do IPO, está alto demais?",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuVlp4cTY2WnRqaUlEVnpxUUJJTWg3MVlhVG94by14UVhreDhkVXJCVzhEODk5WUI5UlN4ejcwVmJKY1ZWMU5oSzlJdlhHTnFKbzRYLVlRUnZYVFh5eVlOLXpuSWxWcklvM2tjR0hTV25vTEtrOUE?oc=5",
+   "data": "2026-11-17T20:52:30.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12wfb8g",
+   "titulo": "Fãs de GTA VI são convidados a doar sangue; Hemocentro de Cascavel tem 36 vagas abertas",
+   "fonte": "O Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNLUhjZHRVZ0J4WFV2YlphV3FKVEppS0VXVmp1V25tMHJ3ei13QXFYWFBBdDZYcFlfRHpzbzMweGxqcUdRb3dmNWx5YjJ4Y1hrUTgtWWpHd1VXb0ZxYWNZZzU4T0xaWlJDVFlLQUtxeFQwX2tnVU9SYzZxUmNEdUFxV1VGczZwYzlSNTBRMHRqVGRTbHpjTGVrNGJaZEswSFBuNk94RExGVVFaeWh5Q05Cbnk0bEl0ZlBSNk81R1hGNmFIdnk4VHNENHVB?oc=5",
+   "data": "2026-11-17T20:49:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lakkyt",
+   "titulo": "Nem saiu ainda! GTA VI entra para a lista de indicados a Jogo do Ano 2026",
+   "fonte": "Rede 98",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNkxMZW5ncVh2eWhrdU80VldBTjRpRUlnRy1DZkY5QWgzUmJMS3FtNWdGbDVoR3NzZkNHbUQtUzRnbi1JWEdaOFdJY0VBbU5aeTRMUUJ1MEdrS2t0d19mYmtpVkFTVS1YejlZX1hTU1FZS3p4VE9tX08yQXptLXhkVDJzS21YRFZLLVJ0MVItWWFqNE1BMlZGZ2U4UEtMek0?oc=5",
+   "data": "2026-11-17T20:35:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bm9vqr",
+   "titulo": "Anthropic pode movimentar US$ 90,4 bi em IPO na Nasdaq",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMFNmVFZWTWNmYjJheU14YjE5TjdTOWc5c2xKWDFGa1Vub1d6Z25VOWd2LWlpQzV1SzRFVTVSTUpzcEhvSjBLMGtxWFVlTlVMX2hzUlpyeFJLeDNXNnpLZkRiWmMzbGw3U2llOXlmZVhPbHVEcVpGaEhsTEZid1ZSOS1MeWVoQUpod2Z0eTBzUm1mV0tTNlQ5VnVn?oc=5",
+   "data": "2026-11-17T20:33:42.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "eysr3w",
+   "titulo": "Sistemas da Apple têm interrupções. Empresa nega ataque hacker e diz que serviços estão sendo retomados",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNM3Y0SkJGS25naU5vODFzcmJlVzV6Sm5KaDFfWFhGNUVMNExFSmNKaGhIZ0ZSdzZsaHRPOFA5T09rRUEtLVB0MGF3dkk4ZUxXSFBPalYyUTlrUmE2RG9SSnVDNFhpYnNxeWJOOWZoU0FkNElRX0g0b2NSMERISDIzazlrX09qa3duYXYwc1o3R2t1ZEd1YmxlWG0yNktqSlRaNm1KajlGV2RXT3BJOF9PU3AwQ2I2cGY5TWJSOTBvMFJvNm13ejFhZU4yMmZaT2FpOTZfQ3FLbnBaZjQ2MkhOTkxuV1RXVzVBU09aOHVENUt3bm_SAYICQVVfeXFMTlMzUF93eC15dS13a3R3U1pJTU1Qd2VldXBBQzVWTHUyMWRkdzV5Zzlvd3BIaTRmNmx0NVpjY0I5MGN6MzVrN0ZxeVpNRklXMUxnRFVxcDZuak5Kc2wtZ2xPRlUxMFNFcl9rUVhRdklZMHRTRmxLUWRDOTZpX1VUVGtWQWdrQ1AzVGJUMWVyMkd4Tnh6U21oSkpndnJ2Sy1MR0lNRUl3ZUlPOGlNS2l0QzR4TzdiblJGcTFvY1gxakFZSXNiN0gxRjc5WVFNbzV4OHNTSFA0blpzWVVvaUQzZElScXdyMFVUem1NdTc2OUUtcngxSGI0S21tV3pXSGxOd2tR?oc=5",
+   "data": "2026-11-17T20:30:17.000Z",
+   "cat": "Risco grave",
+   "empresa": "Apple",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16khxg2",
+   "titulo": "O que está por trás da suposta “culpa” do agro no rombo do Banco do Brasil",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUQ0VE9QT1FxR1NMRmVsaW8yU1BCZWNkQlJIT1dDSUJCbkZHeTdOZXJEaWNsbnE0SHFIRWkwMmhuN1VIejJjVm54dnJ6ZWpFWHUydmZlWVhidlotai0wVThYa1RHazVDMDFyX1dGS05MckFKSXo5Zy1zR3NhMEM0U2swcTJWOTQ?oc=5",
+   "data": "2026-11-17T20:30:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1paeth7",
+   "titulo": "Lucro das empresas da B3 sobe 13,15% no 3º tri de 2026",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPdDlCdEQxOFJIcllSZml1ckV1ckhxdWRoakc5alZMck1BSFpQbFk4TktXS2ZSRWd3cUdJdjU1RzBNaVZmM0hFMWxMUmR1ZzAzV25KQkRyYTQwZmZ3bkVjQXE2LXJzY1o3bksxckZTNHlUQ19qOTl1cWF6YTBBMTVCcjF5ZXhMbE8yQUZxeDQwTWFZOXBqNkpBbXU3MEJZMzh5LVdnaWEySTM5bmY3N01fUjc4UTJGX2ZpUFMxZVZUUlNUdVI3d09qRGZhbFlpMDlYeENwZldyQmd3emxk?oc=5",
+   "data": "2026-11-17T20:30:00.000Z",
+   "cat": "Resultado",
+   "empresa": "B3",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pzhycb",
+   "titulo": "Anthropic busca US$ 84,6 bilhões em recursos líquidos com o IPO, considerando o preço médio",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNeXZ5NVdsRG9Db1VkcnVFTC00cUc1dXMzZDBieHBlbVFJTjlINXpRRDk2NklvSVVpWjVBamthcjc2VzUwbEhocHAxeDdJRlRKRWlhdGJGUUUtZGNtVjBIMThUMkFzTWxWZ1g1bUZjeTZvU2ZycFBRcjJRRTEzMjZwdGExTXRjazJJVmZPR2NmTTc?oc=5",
+   "data": "2026-11-17T20:28:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "owppdj",
+   "titulo": "B3 lança BDR da Anthropic. Veja como investir na dona do Claude",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPajRlN1NTMkY0dVNQT1E2MVlyYXNWZDB6MFRLZ0JreGlncDBXd0xPMWo2cW9pRmV0QTgtX1dsQ3otOFFGaHRVc3ZyaVRtb3JhUWQxVkJPbkFVLWhsY2F2Nlg0eFN5ZWlJbDZadUhIMVQyamZJc2NNYlRRVE9JbmpRdlhTU2t2WlM2ekVzVkFtLTlHRi1oVXJVOXczeXZOTGFnOXRDUjRn0gGrAUFVX3lxTE5QTjVlazRJUkw0d3ZBSzk0TUx0ZWZaNDlpV0pzZnFqMmlRVXV2TGEwSlRMck5yUG1JUy01YUdXN1FhLUpwR0RHdTZ3OHQwUEwyTG9JeUVqTnpfQ0ljWXdlUW5zN24tZFFteDBhQW1Rb19kTXg5R3RzRkRJdDRZdEFoeVFIOXNBeUF0S0h4MXVXVk9aUmppa3JVWmtpUkdmVUhNbHlKSDdFczFuaw?oc=5",
+   "data": "2026-11-17T20:24:42.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1cd8r88",
    "titulo": "STJ nega isenção de AFRMM à Petrobras em importações de petróleo pelo Repex",
@@ -137,6 +245,18 @@
    "score": 6,
    "avisado": false,
    "marco": false
+  },
+  {
+   "id": "tbbj70",
+   "titulo": "Fazendas fantasmas: o que a polícia investiga e o que diz o Banco do Brasil",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYmt2WFNUUXdCU3k2ZWdyODYyR2dCNE16Ymo2eHktYjI2TjRCWlRIVFhXRzg2RENFNWs3WmVZTTNtN0M5MmxJWHpnQnNMNTRkSmI5N2tSWXh1UWoyM0ZPdGRBV0hEdUF1dkNDSWdMVVB0SnpnbWQwQzNvOWhObkZiQjB0QlpXUmNORnlNYXFfaVI5OHNZNHJiQzJ5dTVpb0hBNms1OWNNUmk3ZXpHN3o2YzRZWkR5RFlUQUhfaTlfZzZJRVhRcHNFdw?oc=5",
+   "data": "2026-11-17T19:47:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "ya565a",
@@ -375,8 +495,9 @@
    "cat": "Resultado",
    "empresa": "Ibovespa",
    "score": 9,
-   "avisado": false,
-   "marco": false
+   "avisado": true,
+   "marco": false,
+   "avisadoEm": 1794949233206
   },
   {
    "id": "let4v5",
@@ -1725,126 +1846,6 @@
    "score": 7,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "z6y8l8",
-   "titulo": "【Pré-mercado dos EUA】Nvidia sobe quase 1% antes de balanço após o fechamento enquanto EUA endurecem restrições ao acesso remoto a chips de IA",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEkyT3lFcFktVm43XzcxM29KMGN5OG1ycVhJalpTeW9XU2o1VUd2ZXhleDNKVXZ3NXN6MWZKcTB4MFpjRFRxRjFIeFRUbUZmMVBkUG5MVEdoVmNoMmlWX3RmR2lVY2YwLW1UMkpybGU2ZDhDTm9yWkExbGFSMW5rVXg3N3BRTExMNjctNktQMjh5ZzNwQ1lONmQxUGpkLXNTUUxvN1poQUVsTHBKYU1OcVJDN2dnZDBqaGFuLVFMMkxhU3JXZ1E?oc=5",
-   "data": "2026-11-17T12:40:10.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1j0dvx7",
-   "titulo": "Horário, console e onde sai antes: tudo sobre o GTA VI",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xWFMxSGJ4ZmhWRGFfRkt6ejZCUW1wbG1UT3ZPbkM5VmhDMmFGSGprTnNnNHVJajVUaEgtVzVEU1pJT1RhbjdGYVRnNlRqTlRJUjQxZ2I3a3RXdV8xeHVrSF9Pb2VyYlk?oc=5",
-   "data": "2026-11-17T12:36:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1b4u3lj",
-   "titulo": "Mercados hoje: pacote fiscal no Brasil e balanço da Nvidia são destaques",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalo0cmF5aDRYV20wU0JrTjNxcDBJUmdVdlRRZlZBSllXdU1pSldUYkFUbVZYVk1fNDFMaGcxN3VoZlNTWmxGemNDNFBLVmtDWG43Tk9kVG5FdEJyTWJCakVEWW5XSnpOQ0lpUGdPM3BpdWJTZS1JVGdyT0pvRUhXU0hrZWl3RmhvdXZFS2JWMUlpWHdFNWRaQ1NUZXgza3FBSlRXczJFWmtkUEVFaDRCdXBPZ0xYbGVvTUlMcA?oc=5",
-   "data": "2026-11-17T12:35:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1v31tfq",
-   "titulo": "GTA 6 impressiona com sistema climático e Rockstar revela novas imagens",
-   "fonte": "Hardware.com.br",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10YTgteHdZODktSjgxU2pwMDZUZmxwMWFNZkRIUkdUTDdac1hIOU1GR245Q29EY04xY2hxMFJvd012aF9SQ1RYQ29ZcDZqenZJdWRaY1lNTWRXaGVFM1R1YTZPTXNONlFpN2NwTEdRNzI2ZHJ5ZXc?oc=5",
-   "data": "2026-11-17T12:34:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "182xwhf",
-   "titulo": "Investidor estrangeiro acompanha debate sobre meta de inflação e indicados para BC",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUXlvTHM0WU1KMVNDYzBXbTZJejNsTjdTRlpROUh2enRFODRDWTlIeHU2MWZIOHRfY2p2SjYyM0FtR19CcF9rMzlzZjFVeEowT2p3bHV6Q2FRei1zYklQUU5tOXlRN2hIeWcxR2lhcXJJSjk1VDd5TUJyWG4xMWpOQ3lFdmJsNXNLQ3ZaU2plZkV1WDhhNHgyQzluN0xPbUpyTGV0QmtWVDRabm0wNmZCUjlxOWhJNjFaMndnOXhTdGFER09FX25rOTB2cWlETzZEM0U4OXhPMnYydkNKLURHMXViWGV1SmFRYi1mNTVtLWk1LTNh0gGDAkFVX3lxTE0yNlFWeWhuMFNUN0F3ckhHd2ZEN2lfdU1mMjRYX1dZZVQ3QzFpcmxXY0hUY2JNOVJXLTN2NU5RblNJMEluSFFYbWZUV0dqSjFfY01FZVo5QV8wSmtSb1dBeXVLQUJwVDNBLUIxMWlaODBaSEVCQW93emw0bTlwVEd5clBZYzg4elRQYUxfQmh3VWVSZk9Ba21nZjB0cUxqQ0FFbVdhQ21YOUlaQ195eFJLekJFY3pEUDBoYzZCZ1JWVHZadzhZcVdkTFVjb19fNUljNTZtMDhaOHQ1M20xNmwyM0NBQ19GTUdLaFNOZ09mTnFZWUdqdlMtLTBmWVpySERPSHc?oc=5",
-   "data": "2026-11-17T12:32:58.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "q07odk",
-   "titulo": "IAgora?: IPO da Anthropic e encontro Trump-Xi: por que a semana é decisiva para a IA",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUFHX3hnSGJlVElKeUFWUS1fMmdqQ2hCR3A5d0pXUWVsR3puU09TSUo5WVk1VGg5ekt3YkJXWVZONVB5Q3hGeDlWYnU3UjhCTzg4Z2ZWSWJ3cmxJXzRXZjhwTXlvMHJPa0lrb2k3MXdfWWRtcWVvc0hoQjRhNmdIamVSdm90ZEJUaXJGb3BqdVZtMS0zc1lUV0llc01tWERzNGFtZ2Q0ODVpMW8wXzFCMUpjUTFkd2RKQnRMdHNSNW5QTkYtS1hOTlY3Y0JXQQ?oc=5",
-   "data": "2026-11-17T12:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "mjmq3o",
-   "titulo": "IPO da Anthropic pressiona OpenAI e coloca a IA à prova em Wall Street",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYzd1Mi12YmpEbk52VFVzdUgyU0FsM0REcXRUTTBCZUd1MjlOQTl3T2N4ZElRUnp4NEVhYjh5RzF6Q242T09UQ2VLT215alk4V205aFRvd0pEVWwyczVZVjRiMlQzcUN6V1UwWW52WmtMeHJISGplaGxPQW8xSXVqaDhqU3RXN3A4SDNGVk56amEtMldBT3lWTFR4dFo5MmhVOTQ5LU1qNHZqT19OYmdrLWxVbmM?oc=5",
-   "data": "2026-11-17T12:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "fhz1i7",
-   "titulo": "Disney tem lucro de US$ 2,61 bilhões no trimestre fiscal, alta de 98,3%",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQZDkzT3dqOTFqaVZYU2MtZzN5TVpmN1JlSkhjOWhGUENHUUhzeTVVQkRQekRJVEhkRGtYbVBRaFhJUGJURUJtYWZKZ1psdDdScE13TDAwcmZ1YlpmOVZFczZZY01FS0ZfbG5wTXN0TTJDeDRjbmdGWEl4NHZ0cG83anBqODBoTU53NUNfenh5cGd2dDZPNHAyd3lLaHVqTjB6U1VJb3FKaE5wS3pBVXlUajF5MXpIVkZtMmtBRm5qYWxQU01WNmt1T05hVdIB2gFBVV95cUxPankwdk5nR1pHQnYtWHBVeDNBcGZPbndIV1dQV00wS0RfWl8wTW5Hb1ZCcmhVbmxpSHQ4UVR0ZUI3VlZzZFEwX3lHZUJ5eFRMbGExc1NlQzVXb0pBdVZTZklTX1pBZzkzRlVVTG1LSkJoRVdvMldjNHpFZ3d4XzVUTFl3aEppRFFzemxONXM1WFFOb3lWRUdNLWlYakhaWHptNjVMMngwcEhDQWxiNGhrejdGR0dPV0NzbWRGUHhGUmstU2pqV2U1OFR1b3hvRmo5LWRjUndGYUVSUQ?oc=5",
-   "data": "2026-11-17T12:25:08.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1how16c",
-   "titulo": "Chão cedeu nos 169k: Ibovespa despenca ou segura o tombo hoje?",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFp6aVBRM2dyY3lXQmpNcFVmcGU1TjlLbDRjSm51MGdjWk90LVRiLTZRQ1NwanF1WGRHZXZxQmtEbnpnNmp3dmFLSmJjZmcxWkd5MHFaSlF6NFVoY3hpOU9SVUM5YzktQmlHODdacWNxSEVzTV9RejllMlZWaGR3dHluZ2xPYk9tQi1KazVUTFNsWG13Wl9sQzJPYVlOVDc4SnotZmY5bW9kejRId0RCVA?oc=5",
-   "data": "2026-11-17T12:04:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "ut2gsm",
-   "titulo": "Home Depot supera expectativas de lucro no 3T26 e divulga novidade na liderança; ações recuam",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUm5jbFRScmFLM3J1b2Z5VUZCSGRCWGR5ZFgxVGs2QmcxeHR3MGZnck1BN1BwTlNTU05mU2I0MW55cmhwQVRPSnlZNi1WdEs3cTNuYW9BSXJNbV80MzRObFA0Q3g3WHREVUl4UnA4ZjNjbXk0UWFibVFLNFRLdzlEMURFdl9lUlZVamZUMEhwdDFnLUFOcGUtbFI3bU53dmhiUnBoeFBkUFpqWnpnMHFhdTFvSFhRUEttZGRYeFhjODMxc0ozU2RRZ1M3M1I4ei13N3NZRUhNVTVfaVRrSzFoVVFNWndQd9IB6wFBVV95cUxPcVYwYmhJaHIwTWZXcklQYXgwbTd2NlJ2eVhOTDVOMkFIcUxmcUs1T1FubnJJUnhoMkRYMS1zRkdZYnU2dl9nTmRlYXhUVmF0bHJCXzdzUW05bU1fTlctaGw3NjlwWjR0MlB4OFU2LW5jd05Ybi1iWnUtRm5YenNLNjdEYk5xNXJCSEVWTnVJR1RyTTQtRmxJc0lMOURHakRoeHp1RFNubEFnekc3RWZZaFF5T19hRzhra2x6a2hzM19nckFKV1hvMVhwTTc2UTVlcmNBQVNhLUQ5Tk8xdGcxOHRtUjJfbGhYcjYw?oc=5",
-   "data": "2026-11-17T12:00:35.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 5,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
