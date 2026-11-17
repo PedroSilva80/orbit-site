@@ -114,6 +114,12 @@
   .tiles.sm .n { font-size:18px; } .tiles.sm .t { line-height:1.3; }
   .plan1 { font-size:14px; margin-top:10px; } .plan1 b { font-weight:700; }
   details summary { cursor:pointer; font-weight:600; color:var(--ac); }
+  details.fold > summary { list-style:none; display:flex; align-items:center; justify-content:space-between; cursor:pointer; }
+  details.fold > summary::-webkit-details-marker { display:none; }
+  details.fold > summary h2 { margin:0; }
+  details.fold > summary::after { content:'Abrir'; font-size:13px; font-weight:600; color:var(--ac); }
+  details.fold[open] > summary::after { content:'Fechar'; }
+  details.fold[open] > summary { margin-bottom:12px; }
   footer { font-size:12px; color:var(--tx2); margin-top:10px; }
   a { color:var(--ac); }
   @media (max-width:700px) { .links { order:3; width:100%; flex-wrap:nowrap; overflow-x:auto; } .links a { white-space:nowrap; } }
@@ -199,10 +205,13 @@
   </div>
 
   <section id="noticias" class="card">
-    <h2>Notícias que mexem com o mercado</h2>
-    <div class="small" id="nwInfo">Carregando...</div>
-    <div class="actions" style="margin:10px 0"><button id="nwAll" class="main">Importantes</button><button id="nwIpo">Só IPOs</button><button id="nwTudo">Todas</button></div>
-    <div id="nwList"></div>
+    <details class="fold">
+      <summary><h2>Notícias que mexem com o mercado</h2></summary>
+      <div id="nwAgenda"></div>
+      <div class="small" id="nwInfo">Carregando...</div>
+      <div class="actions" style="margin:10px 0"><button id="nwAll" class="main">Importantes</button><button id="nwIpo">Só IPOs</button><button id="nwTudo">Todas</button></div>
+      <div id="nwList"></div>
+    </details>
   </section>
 
   <section id="carteira" class="card">
@@ -256,10 +265,12 @@
   </section>
 
   <section id="aprender" class="card">
-    <h2>Aprender</h2>
-    <div class="card" style="background:var(--acbg); border-color:transparent; margin-bottom:12px"><div class="small">Termo do dia</div><div id="termo"></div></div>
-    <input id="busca" placeholder="Buscar termo (ex: ETF, stop, balanço)">
-    <div id="glos" style="margin-top:8px"></div>
+    <details class="fold">
+      <summary><h2>Aprender</h2></summary>
+      <div class="card" style="background:var(--acbg); border-color:transparent; margin-bottom:12px"><div class="small">Termo do dia</div><div id="termo"></div></div>
+      <input id="busca" placeholder="Buscar termo (ex: ETF, stop, balanço)">
+      <div id="glos" style="margin-top:8px"></div>
+    </details>
   </section>
 
   <section id="config" class="card">
@@ -428,8 +439,19 @@
     if (!x.ver || x.ver < 2) { s.pitch = 1; s.rate = 1; s.voice = ''; s.user = x.user || 'Pedro'; }
     if (!x.ver || x.ver < 3) { DEFAULT_WATCH.forEach(function (t) { if (s.watch.indexOf(t) < 0) s.watch.push(t); }); }
     if (!x.ver || x.ver < 4) { s.aOpp = true; s.corretora = 'XP'; }
-    s.ver = 4;
+    s.pos = juntaPos(s.pos);
+    s.ver = 5;
     return s;
+  }
+  function juntaPos(lista) {
+    var m = {}, ord = [];
+    (lista || []).forEach(function (p) {
+      if (!p || !p.t || !(p.q > 0) || !(p.pm > 0)) return;
+      var a = m[p.t];
+      if (a) { a.pm = Math.round((a.q * a.pm + p.q * p.pm) / (a.q + p.q) * 10000) / 10000; a.q += p.q; }
+      else { m[p.t] = { t:p.t, q:p.q, pm:p.pm }; ord.push(p.t); }
+    });
+    return ord.map(function (t) { return m[t]; });
   }
   function save() { try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {} if (typeof agendaSync === 'function') agendaSync(); }
   function $(id) { return document.getElementById(id); }
@@ -522,7 +544,7 @@
   ];
 
   async function cotacao(t) {
-    var url = 'https://brapi.dev/api/quote/' + encodeURIComponent(t) + '?range=3mo&interval=1d' + (S.token ? '&token=' + encodeURIComponent(S.token) : '');
+    var url = 'https://brapi.dev/api/quote/' + encodeURIComponent(baseT(t)) + '?range=3mo&interval=1d' + (S.token ? '&token=' + encodeURIComponent(S.token) : '');
     var r;
     try { r = await fetch(url); } catch (e) { var e1 = new Error('net'); e1.code = 'net'; throw e1; }
     if (!r.ok) { var e2 = new Error('http'); e2.code = r.status; throw e2; }
@@ -546,10 +568,10 @@
   function enviarNtfy(titulo, msg, prio) {
     return fetch('https://ntfy.sh', { method:'POST', body:JSON.stringify({ topic:S.ntfy, title:titulo, message:msg, priority:prio || 4, tags:['bell'] }) }).then(function (r) { if (!r.ok) throw new Error('ntfy'); });
   }
-  function notificar(m) {
+  function notificar(m, soNavegador) {
     var feitos = [];
     if (S.aWeb && 'Notification' in window && Notification.permission === 'granted') { try { new Notification(m.titulo, { body:m.msg }); beep(); feitos.push('navegador'); } catch (e) {} }
-    if (S.aCel && S.ntfy) { enviarNtfy(m.titulo, m.msg, m.prio).catch(function () { $('status').textContent = 'Não consegui enviar o aviso ao celular. Confira a internet.'; }); feitos.push('celular'); }
+    if (S.aCel && S.ntfy && !soNavegador) { enviarNtfy(m.titulo, m.msg, m.prio).catch(function () { $('status').textContent = 'Não consegui enviar o aviso ao celular. Confira a internet.'; }); feitos.push('celular'); }
     return feitos;
   }
   function msgPos(p, c, g, k) {
@@ -570,12 +592,13 @@
       S.watch.forEach(function (t) {
         var A = ANA[t], c = cache[t]; if (!A || !c || A.nivel !== 'zona') return;
         var key = 'opp|' + t; agora[key] = 'opp';
+        if (A.plano.qtd < 1) return;
         var tsm = tsLoad();
         if (antes[key] !== 'opp' && n < 3 && Date.now() - (tsm[key] || 0) > 864e5) { n++; tsm[key] = Date.now(); tsSave(tsm); var P = A.plano; msgs.push({ titulo:'Oportunidade: ' + falaNome(t), msg:t + ' pontuou ' + A.score + '/100 e caiu ' + nf1(A.depth) + '% da máxima. ' + (P.qtd >= 1 ? 'Se comprar ' + brl(P.invest) + ', ganho possível de até ' + brl(P.g2) + ' e perda possível de ' + brl(P.loss) + '.' : 'Orçamento livre não cobre 1 ação.'), prio:3 }); }
       });
     }
     alertSave(agora);
-    msgs.forEach(function (m) { notificar(m); });
+    msgs.forEach(function (m) { notificar(m, !!S.ghTok); });
     if (msgs.length) $('status').textContent = msgs.length + ' alerta(s) enviado(s): ' + msgs.map(function (m) { return m.titulo; }).join('; ') + '.';
     render();
   }
@@ -884,7 +907,8 @@
       ANA[t] = sg.A;
       return { t:t, i:i, c:c, sg:sg, A:sg.A, nivel:sg.nivel, score:sg.score };
     });
-    function por(n) { return linhas.filter(function (x) { return x.nivel === n; }).sort(function (a, b) { return b.score - a.score; }); }
+    function cabe(x) { return x.A && x.A.plano && x.A.plano.qtd >= 1 ? 1 : 0; }
+    function por(n) { return linhas.filter(function (x) { return x.nivel === n; }).sort(function (a, b) { return (cabe(b) - cabe(a)) || (b.score - a.score); }); }
     var zona = por('zona'), obs = por('obs'), neutro = por('neutro'), sem = por('sem');
     var melhor = 0, melhorT = '';
     zona.concat(obs).forEach(function (x) { if (x.score > melhor) { melhor = x.score; melhorT = x.t; } });
@@ -896,7 +920,7 @@
 
     $('tiles').innerHTML = [['Oportunidades', zona.length, 'pos'], ['Em observação', obs.length, ''], ['Sem sinal', neutro.length + sem.length, '']].map(function (x) { return '<div class="tile"><div class="n ' + x[2] + '">' + x[1] + '</div><div class="t">' + x[0] + '</div></div>'; }).join('');
 
-    function imp(x) { return (x.nivel === 'zona' ? 100 : x.nivel === 'obs' ? 50 : 0) + x.score + Math.min(10, Math.abs(x.c.day) * 2); }
+    function imp(x) { return (x.nivel === 'zona' ? (cabe(x) ? 100 : 55) : x.nivel === 'obs' ? 50 : 0) + x.score + Math.min(10, Math.abs(x.c.day) * 2); }
     var ord = comC.slice().sort(function (a, b) { return imp(b) - imp(a); });
     var top = ord.slice(0, 3), outros = ord.slice(3).concat(linhas.filter(function (x) { return !x.c; }));
     var wh = '';
@@ -1097,7 +1121,7 @@
       var v = JSON.parse(ub64((await r.json()).content));
       if (auto && !(!S.pos.length && v.pos && v.pos.length)) return false;
       if (!auto && !confirm('Substituir compras e regras deste aparelho pelas do servidor?')) return false;
-      S.pos = v.pos || []; if (v.watch && v.watch.length) S.watch = v.watch;
+      S.pos = juntaPos(v.pos || []); if (v.watch && v.watch.length) S.watch = v.watch;
       ['budget', 'maxPct', 'drop', 'tp', 'sl'].forEach(function (k) { if (typeof v[k] === 'number') S[k] = v[k]; });
       if (v.user) S.user = v.user; if (v.ntfy && !S.ntfy) S.ntfy = v.ntfy;
       SY.ultimo = JSON.stringify(montaConfig()); try { localStorage.setItem('painelSync_v1', SY.ultimo); } catch (e) {}
@@ -1145,15 +1169,22 @@
   }
   function nwHa(iso) { var m = Math.max(0, Math.round((Date.now() - Date.parse(iso)) / 60000)); return m < 60 ? 'há ' + m + ' min' : (m < 1440 ? 'há ' + Math.round(m / 60) + ' h' : 'há ' + Math.round(m / 1440) + ' d'); }
   function nwRender() {
-    var l = NW.itens.filter(function (x) { return NW.f === 'ipo' ? x.cat === 'IPO' : (NW.f === 'imp' ? x.score >= 7 || x.cat === 'IPO' : true); }).slice(0, 40);
+    var l = NW.itens.filter(function (x) { return NW.f === 'ipo' ? x.cat === 'IPO' : (NW.f === 'imp' ? x.score >= 8 : true); }).slice(0, 40);
     $('nwList').innerHTML = l.length ? l.map(function (x) {
-      var cl = x.score >= 7 ? 'c-wa' : 'c-ne';
-      return '<a class="nw" href="' + esc(x.link) + '" target="_blank" rel="noopener"><span class="chip ' + cl + '">' + esc(x.cat) + (x.empresa ? ' · ' + esc(x.empresa) : '') + '</span><b>' + esc(x.titulo) + '</b><span class="small">' + esc(x.fonte) + ' · ' + nwHa(x.data) + '</span></a>';
+      var cl = x.score >= 8 ? 'c-wa' : 'c-ne';
+      return '<a class="nw" href="' + (/^https?:\/\//.test(x.link || '') ? esc(x.link) : '#') + '" target="_blank" rel="noopener"><span class="chip ' + cl + '">' + esc(x.cat) + (x.empresa ? ' · ' + esc(x.empresa) : '') + '</span><b>' + esc(x.titulo) + '</b><span class="small">' + esc(x.fonte) + ' · ' + nwHa(x.data) + '</span></a>';
     }).join('') : '<div class="small">Nenhuma notícia neste filtro agora.</div>';
   }
   function nwLoad() {
     fetch(nwUrl() + '?t=' + Math.floor(Date.now() / 300000)).then(function (r) { if (!r.ok) throw new Error('x'); return r.json(); }).then(function (j) {
       NW.itens = j.itens || [];
+      var hj = new Date(Date.now() - 3 * 36e5).toISOString().slice(0, 10), DS = ['dom', 'seg', 'ter', 'qua', 'qui', 'sex', 'sáb'];
+      var ag = (j.agenda || []).filter(function (e) { return e.data >= hj; }).slice(0, 8);
+      $('nwAgenda').innerHTML = ag.length ? '<div class="grp">Próximos eventos</div>' + ag.map(function (e) {
+        var d = new Date(e.data + 'T12:00:00Z'), quando = e.data === hj ? 'Hoje' : DS[d.getUTCDay()] + ' ' + e.data.slice(8, 10) + '/' + e.data.slice(5, 7);
+        var nome = e.tipo === 'Decisão de juros' ? e.empresa + ' decide os juros' : e.tipo === 'Indicador' ? 'Sai o ' + e.empresa : e.tipo + ': ' + e.empresa;
+        return '<div class="small" style="margin:4px 0"><b>' + esc(quando) + '</b> · ' + esc(nome) + (e.hora ? ' (' + esc(e.hora) + ')' : '') + (/^https?:\/\//.test(e.link || '') ? ' · <a href="' + esc(e.link) + '" target="_blank" rel="noopener">fonte</a>' : '') + '</div>';
+      }).join('') + '<div style="height:10px"></div>' : '';
       $('nwInfo').textContent = NW.itens.length ? 'Atualizado ' + nwHa(j.atualizado) + '. O robô filtra por palavras e pode errar: clique para ler a fonte antes de decidir.' : 'Ainda sem notícias. O robô de notícias lê a cada 30 minutos.';
       nwRender();
     }).catch(function () { $('nwInfo').textContent = 'As notícias aparecem quando o painel é aberto pelo link do GitHub e o robô de notícias está ativo.'; $('nwList').innerHTML = ''; });
@@ -1166,7 +1197,7 @@
   setInterval(function () {
     if (!mercadoAberto()) return;
     tick++;
-    if (S.aOpp && tick % 2 === 0 && reqGet().n < 12000) atualizar(true, false);
+    if (S.aOpp && tick % 4 === 0 && reqGet().n < 6000) atualizar(true, false);
     else if (S.pos.length) atualizar(true, true);
   }, 15 * 60 * 1000);
   $('btnFalar').onclick = function () { if (falando) parar(); else falar(ultimoResumo); };
@@ -1182,9 +1213,11 @@
   $('addPos').onclick = function () {
     var t = norm($('pT').value), q = parseInt($('pQ').value, 10), pm = parseFloat($('pP').value);
     if (!t || !(q > 0) || !(pm > 0)) { $('status').textContent = 'Preencha código, quantidade e preço pago.'; return; }
-    S.pos.push({ t:t, q:q, pm:pm }); SY.mexeuPos = true;
+    var ja = S.pos.filter(function (p) { return p.t === t; })[0];
+    S.pos = juntaPos(S.pos.concat([{ t:t, q:q, pm:pm }])); SY.mexeuPos = true;
+    var junto = S.pos.filter(function (p) { return p.t === t; })[0];
     if (S.ntfy && S.aCel) {
-      enviarNtfy('Compra registrada: ' + nomeDe(t), t + ': ' + q + ' x ' + brl(pm) + ' = ' + brl(q * pm) + '. Aviso de venda em ' + brl(pm * (1 + S.tp / 100)) + ' (+' + S.tp + '%) e de limite de perda em ' + brl(pm * (1 - S.sl / 100)) + ' (-' + S.sl + '%).' + (S.ghTok ? ' Enviando ao servidor.' : ' Atenção: o servidor só vigia depois que a configuração for sincronizada.'), 3).catch(function () {});
+      enviarNtfy('Compra registrada: ' + nomeDe(t), t + ': ' + q + ' x ' + brl(pm) + ' = ' + brl(q * pm) + '.' + (ja ? ' Somado ao que você já tinha: ' + junto.q + ' ação(ões), preço médio ' + brl(junto.pm) + '.' : '') + ' Aviso de venda em ' + brl(junto.pm * (1 + S.tp / 100)) + ' (+' + S.tp + '%) e de limite de perda em ' + brl(junto.pm * (1 - S.sl / 100)) + ' (-' + S.sl + '%).' + (S.ghTok ? ' Enviando ao servidor.' : ' Atenção: o servidor só vigia depois que a configuração for sincronizada.'), 3).catch(function () {});
     }
     $('pT').value = ''; $('pQ').value = ''; $('pP').value = ''; save(); atualizar();
   };
@@ -1239,6 +1272,12 @@
   popularVozes();
   if ('speechSynthesis' in window) window.speechSynthesis.onvoiceschanged = popularVozes;
   atualizar(false);
+})();
+</script>
+<script>
+(function () {
+  function abre() { var id = (location.hash || '').slice(1); var el = id && document.getElementById(id); if (el) { var d = el.querySelector('details.fold'); if (d) d.open = true; } }
+  window.addEventListener('hashchange', abre); document.addEventListener('click', function (e) { var a = e.target.closest && e.target.closest('a[href^="#"]'); if (a) setTimeout(abre, 0); }); abre();
 })();
 </script>
 </body>
