@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T01:00:33.489Z",
+ "atualizado": "2026-11-17T01:30:27.178Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
@@ -24,6 +24,17 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "1a8qlkv",
+   "titulo": "O ex-CEO da Nvidia, Jensen Huang, renunciou ao cargo na empresa que fundou, após relatos de múltiplos casos extraconjugais, incluindo um com uma subordinada e outro com uma mulher que autoridades americanas temiam estar trabalhando com a intel",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ZQzBTN3B6ZzRXaThoZWQ4aXVMWHVQQjNFU3RmTmF0U1dDUnFVNEVHRklEa0lxNUp6cklDdmU5NDMxNXU5Z215MXQtNzdtdTV2Wmc?oc=5",
+   "data": "2026-11-17T00:00:20.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "avisado": false
   },
   {
@@ -1646,17 +1657,6 @@
    "fonte": "Época Negócios",
    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQzJSUVp3azJpRU5EQmhJZnBNdVpadmxiOGhHd0ZvRlpzcU1jOWJETE94ZVNzNDZDRU1xbDBsazNsSG9YcTBtdFhlRnplMTAtSXlXeTFESURjc0hxT2lfdUJNenFhcW55anFROFdQS1dmek9ISTdOVmFsRGctRF9CVU9UeFlPMTNEc3A5eTduaDVETVZvU3hjS18xX3ZvUWZtaHhXazdpYl8yQ25ic0pRSFlyNG5Wa2xKYUVvdGxxTWVOVVZCQjJacWhwU2FVUms0N3ozSkVnUzBTUEpTU3BFOVNYUWNNTUxubzd3Z081MGd4QWI5NElR0gH3AUFVX3lxTE5DMlJRWndrMmlFTkRCaElmcE11Wlp2bGI4aEd3Rm9GWnNxTWM5YkRMT3hlU3M0NkNFTXFsMGxrM2xIb1hxMG10WGVGemUxMC1JeVd5MURJRGNzSHFPaV91Qk16cWFxbnlqcVE4V1BLV2Z6T0hJN05WYWxEZy1EX0JVT1R4WU8xM0RzcDl5N25oNURNVm9TeGNLXzFfdm9RZm1oeFdrN2liXzJDbmJzSlFIWXI0blZrbEphRW90bHFNZU5VVkJCMlpxaHBTYVVSazQ3ejNKRWdTMFNQSlNTcEU5U1hRY01NTG5vN3dnTzUwZ3hBYjk0SVE?oc=5",
    "data": "2026-11-16T09:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1w7azov",
-   "titulo": "IPO da Anthropic em 2026: como investidores internacionais podem comprar ações da desenvolvedora do Claude AI?",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR2ZVYVRvYVUya28yNzhsREhGLUFYOE85aHowWktsZk51MWJuQldkSmk2N0JDN0VZcmNmb1Q3ZVgtaWtLOGpfaXVqWThQd25pNXUyRjY1RDRSZHhyZFFXX2xwNU5mRFBzN1RpNFJMNDNHWnh6QXl6MTRNNjRaNXZlMTBTOUZSdks0R200bHliUTJaWVdTTXhaTENGU2RpdWJJRk1TRFluUXJuZzdYLUlDaXc2V2NTbnZ6M2ZJNFpBOU1JZkdHMm9iaHhyU3AzREpjb1JubXN3elR0Q0Y0UkFj?oc=5",
-   "data": "2026-11-16T08:54:04.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
