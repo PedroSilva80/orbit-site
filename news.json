@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T07:00:29.800Z",
+ "atualizado": "2026-11-17T07:30:30.195Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "oxhpjo",
+   "titulo": "IPO da Anthropic pode desencadear US$ 19 bilhões em compras passivas: ANT pode entrar no Russell 1000 e no Nasdaq 100 já em dezembro",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMndIT25BUXZWWlo5ZnZtOHh0cEVha1VuRDhRandYSzh5T04wX0JsU0ktanlLTUxTbHUyejBSWkxnbnpsbTBwYkxrVmx6T0V4NmRjaG9YX2dTQjhaTVBHX25KQWhIS1oweU8wUDBhREVQS2UyYUVfeE5mbmpLd2RZdWJFc2Y1aWt0Ni10bjRSRXdLYjZkWnVtUDg0Q09EcWZySHhJbEc3MDZfUEw1aTJSTDJlcDdfblNWaGc2cEFJVk1jNWhFU2p0OC0wZkY1UDNsQlJZaENDbE11LWtTbXFrU1pjQXVrb2c?oc=5",
+   "data": "2026-11-17T07:00:49.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "avisado": false
+  },
   {
    "id": "1bwlz9f",
    "titulo": "Principais investidores do IPO da Anthropic: Amazon, Alphabet lideram participações enquanto Altimeter planeja investimento de US$ 5 bilhões",
@@ -1649,17 +1660,6 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "12cov61",
-   "titulo": "GTA 6: Rockstar anuncia distribuição de códigos grátis",
-   "fonte": "diariodamidia.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPRExvRG5QZDVQcWtONFdMbDBXWC1jeVNoclQxM3pYYlcySjJRaFRaZ1JzVHZiVWJGYklmeDg3eFdUVHVBTTA4TnFYN0RQWXhOOGl4OEtxOTJ4Sm1jYjhuN3VENXFFT0hEZTcyVmxEYmRVdkQtNXRwc1JSQlBRcTBWYkhjN2tpak1rVUE?oc=5",
-   "data": "2026-11-16T10:59:27.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "avisado": false
   }
  ]
