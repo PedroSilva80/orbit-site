@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T22:00:34.378Z",
+ "atualizado": "2026-11-17T22:30:34.598Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "1b5x2hf",
+   "titulo": "Nova sede da Segurança Cidadã terá 20 salas e espaços para diferentes grupamentosc",
+   "fonte": "Diário de Suzano",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPMkF6ZlNGTjBhakNwY3NUd1lLaUhWRW9fQnJHaVJBTVRWaTYwaFltWUVoVW9GWHpWbmJQcm1US0EySVFXQ0tsMkVWaWszdFg5dHppU1pUMG5OQ0JfcGpqWmhYZWh3N3VuSF9TaVd0TE9oNVVDb21FaUx0NklSZGFyTWFZMVNLZlhEUFhDTWFuRnhBUFdMOEF4RlZlWHFhUlRPQy01ZUZYSHNFUHFvSlczMURkenhUcmNEbXNTUzZMbXpkWXZFUnZXYkNXSTRnNnNlVFFVTjY3MA?oc=5",
+   "data": "2026-11-17T22:27:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1plllcx",
+   "titulo": "Microsoft lança Cobalt 200 para nuvem e IA com até 50% mais desempenho",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzBPWmxlTF9CYnJiSDNwbjlPX3hfUnNGNXNPQ3o4SkhvSV9uTHVkQjVQMmdyajkxVXE2TDRPYXI2VDgyWHdLaTNZbC04ekFLcGd4bWZVZTBVTEUteTA3OXluckJ1a3NKY1hTWlI4TWlKMkVFdFllNktrOXV3eVAwaHZWaXYzeUJPZk5ZVExaNm15SGZfa29oNDRYbEhWZw?oc=5",
+   "data": "2026-11-17T22:21:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "Microsoft",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1k2t80b",
+   "titulo": "Ibovespa perde embalo após adiamento de votação do pacote fiscal",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm92dnJJZm56Nm9LZmdLVGpWN1BGc3FOUGxSeDNkQzZjY2toMWJuVEg0dm9rTkgxYW1UVmRNS1JFYTFZaGNzcU45WjFSZUlqR1A0SGU5RjlCSlI0TEFVLTRscHN4OFNXSVJ1VUY0NmRMVjNXdVRKUUduY0ZKZllzbzNBSWM5dVB5Q2xsOFpHRlhwbHhORmFrUmZzOW1Ma0I0RXBDU3RoazBLM1FMTEpTdFBVRWIyN2NS?oc=5",
+   "data": "2026-11-17T22:15:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5fuu2h",
+   "titulo": "Rockstar revela novas imagens de GTA 6 em parceria com The Weather Channel e mostra tempestades, neblina e chuvas que mudam conforme a região do mapa de Leonida",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNcGVIUzhvMUFxNkFCcUp3dlpScDNMQ01Tcjh0UGQ2YzJDU0NqaV9Vb1BLbUFJM2xIMWMzVGF2Z01CY010QmZwUllLaFJpWkxGaHZqT2VfYlIzNkMzajBhckxXUldaTW9uczBsdldEWkI1OThBZFlycXJSblVGaGF3czYwWjhjQ3FhRDdPU1FURlRlNGNNbUU2WDdNNDcybFQ5Um4yVTNxdk9WXy1BODFkczZKc2hNMGVoZDR5SjRQaHJYZFJYbENXZTlfQzdEcW84ZHMwWmI1QUZET0dLU2kzZURENkZyUFZzX2pvaVpIVDFtemd3TGFMSGtfUno3YjFWRFVPRTFtRFlMUGtpcXBueGNLVndBWUlnOHhXOXpCemNBek5GNTlYbXpJUVVDRkRsaGgyeXVPLXVOemd4TURlMU5kR1Yxa1hVTlRuVEMweXpNYVJXWElXamlWaw?oc=5",
+   "data": "2026-11-17T22:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bh3cdc",
+   "titulo": "Colette Kress, executiva interina da Nvidia, não cita Jensen Huang nos comentários do balanço | Empresas",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNEwzRjh2SklwcVdUR29TR0xHWk0tTDNjQTZOWDEyWXJYek03UmJmeXd6N3QxM1dSY3VsRy1PdkpyQVFGZWhyLVFTeFVlbkt1a05RUXF0YjJGXy1fTWNuTnRBcXFKNG1CN1E1SE44ek12VFNVUVlXUWpCbmxITHVsWG0xZjFyd2FYZ0hQTlowbjc5Nk5GcEZXSk4wYmlnNlZNa0VYNnFZZER4Unk2elFUYlZXUmxtbzcyOHNfUldPb3pGcDN6MHdyaWx4M3RwNlBuaEFhRG9NN1o5ajc1b19nU0VmWQ?oc=5",
+   "data": "2026-11-17T22:05:14.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "197lfbc",
+   "titulo": "Nvidia dobra receita, vendas de data centers e lucro, além de elevar guidance; ações sobem 2%",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORTJTd3k2WjMtN0FxWnVtajE5YkNqYTJGZVdQRGRsU2U3dTZjbFZjLWVOcHpfTXBjVU5ZN1RNTFJWQVFRWlBrNFpiUUp4NllHRXNzQjdKR0JyNW1HRExkaEREbUZDcndmSFZreGRuLUN6c25vcldWWkFIYk10ZlVMa1RfUWtwcjBDZ1g3eFdyWTY3YjQyNzBKVDFsTkw5N0dxX2wxT005MlY4WHNPamFteFJTRlRuQTR5ZGhZOXpEZThJZlNJdldfdTBTTWs1bXJpQkhpNFBrNW9aRTVMSXAtMElEM0pjbE0yd0UzUlIycw?oc=5",
+   "data": "2026-11-17T21:59:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "15xw9mk",
    "titulo": "Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo",
@@ -92,6 +164,18 @@
   {
    "id": "1jezmfb",
    "titulo": "Nvidia apresenta projeção otimista em seu primeiro balanço desde a saída de Huang",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDlNcUxNU0JkcEZ3V05PVnJSZkQ0RnVVZkRwZkVBMmVqbUhLTGZLR2kxNFd2R3hfSW9HQWhTOFhGWnBwOWRXT1hjdXg2a1QxaWlEekh3VkZ4cUctTnpUaTJvSGxzdTBUSHd0U2JKUUZFZS1sXzV4c3dXMzdvN09ibGV3VGh2QXFMMzNlYjQtWlR1YzQxQ1lHY1IzSHFvXy1KaDNkdTR3XzFrTnMzajJTSFhYVHJpR01WaHItc9IBwgFBVV95cUxNRDM3dGY4WC1pdlhQNUFKUGVoSTJ6b0laT0ZfRUE1ckRDM0hmcE41a1NLUng0dDlBYnIxd0VVd3VIMFBfMmxab2pBRHdmUUdMaHlhXy1UY05mdnRWaWRrSE0zOVZJX3FXWmtMdWMwc21uLTRWc0dNSVVxYURRSUV4dWVwQ1RBblFmWDBhU21NaFdEVVBDdzVoX0s4YVoxWnNaZ1FJTW16WDcxT1RGY0FLd0Q0dHVxcGNLLThrTHRVeFlEQQ?oc=5",
+   "data": "2026-11-17T21:46:50.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "e0jfp1",
+   "titulo": "Nvidia tem receita e projeção acima do esperado em seu 1ª balanço sem Huang",
    "fonte": "InfoMoney",
    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDlNcUxNU0JkcEZ3V05PVnJSZkQ0RnVVZkRwZkVBMmVqbUhLTGZLR2kxNFd2R3hfSW9HQWhTOFhGWnBwOWRXT1hjdXg2a1QxaWlEekh3VkZ4cUctTnpUaTJvSGxzdTBUSHd0U2JKUUZFZS1sXzV4c3dXMzdvN09ibGV3VGh2QXFMMzNlYjQtWlR1YzQxQ1lHY1IzSHFvXy1KaDNkdTR3XzFrTnMzajJTSFhYVHJpR01WaHItc9IBwgFBVV95cUxNRDM3dGY4WC1pdlhQNUFKUGVoSTJ6b0laT0ZfRUE1ckRDM0hmcE41a1NLUng0dDlBYnIxd0VVd3VIMFBfMmxab2pBRHdmUUdMaHlhXy1UY05mdnRWaWRrSE0zOVZJX3FXWmtMdWMwc21uLTRWc0dNSVVxYURRSUV4dWVwQ1RBblFmWDBhU21NaFdEVVBDdzVoX0s4YVoxWnNaZ1FJTW16WDcxT1RGY0FLd0Q0dHVxcGNLLThrTHRVeFlEQQ?oc=5",
    "data": "2026-11-17T21:46:50.000Z",
@@ -207,6 +291,18 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "17cm7l0",
+   "titulo": "Nvidia dobra lucro e projeta vendas recordes após escândalo envolvendo Jensen",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZm5jYU5wNTlXZzRyTXNMZXUwNHZTNlRfeDkxaW1GRzE0bEg2SXRtcGhJSXVJWi1PamtoZGdFclZ6THZYU3J4NEc0dU9HOUJDR2dnSS01X3Y4eEZwLURyWEJjSnA2YTM2S0hkaDJkR3V4SDJGblNQSEF5czlVU2Z1N204X2UwWklfNWptTXI2RjBkem8zTHlwQ0VCcGRtYXVBNHctQnZqd3U0b2pyRGlac1pUbU5VRVkzcnZydC1BQzh0Y1hhQU5DVjFGYnJVZEJrX25nRm9raE44c0Q4dW4xV29rWmt4eXVHdTJ6Z3ljWdIB9AFBVV95cUxOTlFmemZBbzBFSV81ZFJlaC1tOHB1aTNEaC1tblVXMlJtUEZQWmwxcjY0YzVlaUpxbzdhdGhRblk4VUtfalpjNG5TZ3ozWllIUjNnakY2RGFkbTVJek5ZZ2t3Rmg2VXp2WEJ6SE4xUmZ1dVhxQ1IyaTRXaW5ub19Ib1BkaGNSVkVGNEVCUUJwOENxYXl5WHBlaVNwVUVaU3d0S2lWYzZOUi10RGg5S1FOQ1JKRE05RXRqb2ItOWJBS2VSUVl6U2drOFhVRWt1Mm5oX1BvZ1NJdG9vekwxRllYMGJFS3h2b1FHVHdaT3c4RTR2d1N4?oc=5",
+   "data": "2026-11-17T21:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
    "avisado": false
   },
   {
@@ -631,6 +727,18 @@
    "marco": false
   },
   {
+   "id": "1xxecho",
+   "titulo": "PF investiga suspeita de fraudes em contratos para obras contra enchentes no Vale do Taquari",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRUZ4eHFrSFkzWTE2cWNHZzNvdTBiN0ZIbzV6VXV2Z2t6dmRXaUxVVHEwem4yMFVHU2NXMEVPZ0VPTERZQ0Ixdl9wTHNGRko1TkhPWGhPV2hGOHhWTktJVXNhOHNONnZNZWlubHI1N2dncUo1R0pYLV96T2REWG8xUFlTdzhHd1A2SHNNNjlOUExmNUVaWDVDNWNsZFlWUmExS0FJMFVJRy1ramFwdXg1Rk5kZzV4RUl3Sm9wdzhnd1FVcVZVaXlITHVkUHNzdnVHZkRvNS1YeTBBa0NVZkdMS0hwZ292N2kyeEx0bGxYTDl1OXhVV0xCNlBwWjJpMndsZ29mRUZNZWhlNEhpZHc?oc=5",
+   "data": "2026-11-17T18:41:46.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1ek5b4f",
    "titulo": "GTA 6 bate recorde com US$ 1,54 bilhão em pré-vendas e estreia protagonista feminina na franquia",
    "fonte": "Gazeta de São Paulo",
@@ -679,6 +787,18 @@
    "avisado": false
   },
   {
+   "id": "1t53twv",
+   "titulo": "Campanha gamer incentiva doação de sangue para garantir folga no lançamento de GTA VI",
+   "fonte": "Catve",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOV1ptV295YW5PaTBYdnlPTVdlNEVIT0l6cXJqZFM2ekQ4c1lvVlVMbUE2M3BOU2I1Q2w5eVBSY3c5Q2ZMcGVtbWJzQkFwZTI1MGRNVW5YY1NMc1JhbFp3WmJVNjNvQWxDcXI4bVUzOHVDN2hKdGw3QlhrZ01VQ1lSRzA4X0tiVzlkd3k2YjBNcGxPREV3dEdiVTZxeHNHSnlfcHNRREZjN3laam5ZdDJESWxNSUlybVpsNGpVcg?oc=5",
+   "data": "2026-11-17T18:30:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1n7hmtn",
    "titulo": "B3 lança BDR da Anthropic com negociação simultânea ao IPO na Nasdaq",
    "fonte": "ADVFN",
@@ -714,6 +834,18 @@
    "score": 7,
    "avisado": false,
    "marco": false
+  },
+  {
+   "id": "1nz93m3",
+   "titulo": "Ex-CEO da Nvidia Irá Ao Congresso dos EUA em Dezembro",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFJMNnNXV3c4Uk1yY0gwZnoxeGFYWlRXUjNEQUNvY0FvVXNwU1k5NDlMNUdKWHV5V21EQkQ1M3QtRV90a3c3MGdfajRDLTRYWHRnWDVHUGJpdUpLQ1lyejd2Z3N1Y2ZCWGljWHpnZEtLZnZJSXFzZ3dWLWNXNC1QcGpqdUxSQnRROUt4WUtRaURUSHRrcDQ4TDQ2OEY?oc=5",
+   "data": "2026-11-17T18:18:35.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "dy0b03",
@@ -1714,138 +1846,6 @@
    "score": 7,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "1j96hm6",
-   "titulo": "Hacker que invadiu Rockstar usando um Fire Stick e vazou GTA 6 se declara culpado",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUnM1cjhYYkk1Q3NIU0xfaF9CTHNZUEpTZk9uLTNWNndmSEhEbkhvaDYtdEJqeDlzUWhnM0RxcUlwY2R4RTRuM2hwSjhsVDZEbXJtZ1luRVo0RUZReWZPc19qOUdlZjU5Uy1fMV93M1pCVExGZnpMVE1wMGJhODBmSTRpaGpxSFh6eXYyY3JHeng3c1ppRFlHajdmSTk3d2xHRFk0czFLaFVOSGhPLV96Vmt2UQ?oc=5",
-   "data": "2026-11-17T14:01:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1n4du2f",
-   "titulo": "Irá o IPO da Anthropic conduzir a uma melhor regulamentação da IA?",
-   "fonte": "Jornal de Negócios",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVIxUnJGZ0hodWxmdVhrTDFMVjhDdHYxaEtxX1FkX3YxZFZ1ZjlYbDgyaGQzQjAyUmFZdm4zTElhQzQxckxkUTRSWnhsTmh0VVpfWEJnN0xwbXhkcm1hYnVCVkZReFJ5Mnljd3J0T2tMLThEMGEtMjFEZGdZczY0TDlUX1RlSTlsTC1QRXpSa0hTZjJmbXBuVTFMel84WHZJUVhJVTVIbG1POWM3MjhPamZRWE9rQlhWTWtRdU1sdURxX0U?oc=5",
-   "data": "2026-11-17T14:00:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1o1b40d",
-   "titulo": "Devolver está sorteando uma cópia de Volvy's Adventure: Reslimed para quem deletar o pre-load de GTA VI de seu console",
-   "fonte": "arkade.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSlQ4R0VsQV9DWGtwU2p6RkFpeENCcnBneS0ybjd2T0hUQ2cwelZyUHJhNjEwaDFlMFRiRWdvc3VwbVZ5QUdKcndzbC1TbjlpWjE4MGdSMnNpQzdZaldSN1RpT1VkYzF0R3Nra1JhVkdQQUg1VkduMjQwUnBva1N5NnNRWkVHajM4bnp6aFFKdGdsY0xEZ0NCeWxXaWctbDJ0MWVQQlJ5UnNxakdYMEc1ZHgxdjRrNjFEbzhQaG9aWXU2NWlVbV9DekJPUHVSTVdPZlZYanpB?oc=5",
-   "data": "2026-11-17T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "bejsdb",
-   "titulo": "Devolver sorteia Volvy's Adventure por deletar GTA VI",
-   "fonte": "Arkade",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSlQ4R0VsQV9DWGtwU2p6RkFpeENCcnBneS0ybjd2T0hUQ2cwelZyUHJhNjEwaDFlMFRiRWdvc3VwbVZ5QUdKcndzbC1TbjlpWjE4MGdSMnNpQzdZaldSN1RpT1VkYzF0R3Nra1JhVkdQQUg1VkduMjQwUnBva1N5NnNRWkVHajM4bnp6aFFKdGdsY0xEZ0NCeWxXaWctbDJ0MWVQQlJ5UnNxakdYMEc1ZHgxdjRrNjFEbzhQaG9aWXU2NWlVbV9DekJPUHVSTVdPZlZYanpB?oc=5",
-   "data": "2026-11-17T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "jfepbf",
-   "titulo": "Meta lança app de compra e venda de produtos usados no Brasil para concorrer com Enjoei",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVDM3b3dldEU3N3NYWG13VlRJN1h1SEt1Q2dRRW1zV09GNEUyU01Kd1F3R0lkRURLa0padURGTFdqSlZ3X3kxS0pxdHVJcEtRUElHbHUxTVBzeV9lcWY5YmNlRzlMVzNPVVRiYldGbEFiNng5b0dQREFoUXJRdUY3QmxqZDJOaWNLQ1ltSElPQmFFRnVrajhLUTBKU0ZpVTZMYjlEUEFMb1BBQ2xoV0w0cDlXT2FnT3A1LWM1WTJLSlQteDhHNnE2T1FGZ2ZvQ2NaODVndy12WXBRZjVf0gHrAUFVX3lxTE51QkFDODZrSVVnc3dRYjN1V1ZpTFBhTzE1WUhIWU9ITDgtNm9yWnNxVU40Y1ozZlRQVE9wWkR4TnhSY2pTRl9qQl8zekl1QjAzLWVQSXd1Y09iUTRuU1BleW1pNkc3anl6TmVHZDNtWEZXeFlCODZVY3JXOTE4c0syckFmWVk1b3QzVzdtMkYza2RrUENLNVU2VUJUUktoUHZmUWxBaW1iallMRWJqV1RfTWRvT285OUh2MUlKUi1ydklFRC1GcXRNalJOajJSaTZuUzNwbVpDQ1Zra2Z1Z25la1NtRkk1dnZfVXc?oc=5",
-   "data": "2026-11-17T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18n55j2",
-   "titulo": "Meta lança novo app ‘Achados’ para compra e venda no Facebook e Instagram",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTJaQlR2UGk4YlU1dGUtX3o1VTNWTDc3M09IMFluTXB6Q0tvR0hkR0R4VklyUVRRdmlBZWtXbF9aQ1RDR0VmVVZYMm9rSktlbE42am1JaUlvSGx5eGttNDAxeHdPenVnRnJyVWhQTHBHdWhxeGhXT1hlbF9QME1tSXYtS09rZ1ctTk1ZUlpoZ3ZGd9IBlwFBVV95cUxOLUlBOTllT2lGYnZjSnN1TXdhUnk0d09OdFc2REthMWJOaGRIaXFDblBzbW82QXZNQVN1MDk5V3VFNzhmaTc3RXBHOHA5VnlCeGdoWmxaSEZZbm40YkVVT21uRDhqc29zYklIQWRXNnoxTUxINmZVb0dLOUdoRWZSekx2SUxiZTR3ZFRzQnhhX3VFcmpZSERZ?oc=5",
-   "data": "2026-11-17T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ljlfaf",
-   "titulo": "Ações da Disney recuam apesar de lucro acima do esperado e plano de corte de custos de $3B",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5EZldWV0NKQWdfSTN6OVREbUJNMURkTXgtbGZLeFcxQzFadFJZWUw5YlhHMUF6TGh2Ymw0YUt4Xy1HMDZkUmdLRm1DVFUxSG9yXzZFb050WjVQQWZWaTB2VVZQbDc5dw?oc=5",
-   "data": "2026-11-17T13:58:54.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fn4j8n",
-   "titulo": "ESET alerta para ficheiros maliciosos que se fazem passar por \"GTA VI\"",
-   "fonte": "Notícias ao Minuto",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTFQaDNnTFNVSHJtS0xlNVFQQ2ZlblpnVTZoMVoxVk12Zk9pSExMSTZVM2xnWXBDbEJNYkdrMk1mOHB2b1N0LVktdFFJQTdoWWdBeW84NWtPb3lpU3dfTTE5SC02WXk5WHJMOHJ6MGNMS0lmaFJWMGI2SmpLRVpBSG54VllWWTUwLTR6ZldNSkNPc0J4N05pcmR1WHpKV1VHT1FSRy15cTZtZmJ6NExYU2hLX0Q?oc=5",
-   "data": "2026-11-17T13:58:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1jzjpvw",
-   "titulo": "GTA VI ganha data e horário oficial no Brasil",
-   "fonte": "Rádio Acústica FM",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aYTFKMkNmQ3ExQVh4V2hmVWI3ZEVwTzBlZmt0Xy1mZm0xVXMyb0NkN2pFb3ZMS1pUUDhQT3EyOE8yekpOd193ZnRmbHFwN2REWkxKOXNucVBiX1dHWlZLYnhPYXl0VG9oYU5wQ2FRcm5DdXdsZEVSMXUzWkQ?oc=5",
-   "data": "2026-11-17T13:56:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "mr26k7",
-   "titulo": "GTA VI vende cerca de 15 milhões de cópias na pré-venda, afirma consultoria",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWU4wRDVpcERLNjZUZHh0bkliaWlnUWZmYmhKYllGZ2xQRjlWcjVOcThLMDBSU3R3ME1DQ2dWR3lBM2N4NXpnVkpZNG5HdGhRNHcwWG45ZHlNY2NnVGN5LVM4NmJQYmtHQWRfSWF4c2NRUmR2ZUdCVGQ3NWZmV3pKVTF0MXFkbWl5Y3BIOVRpY0dYUmFOMkhhN25Ma0RzYjJrUFJIZGd4RmZxUi12b0YwQVdKZGhnSmw2aDdrMjBlQkl3OEFkcEZfUdIB1wFBVV95cUxQVnpxaEpGWHJpc0NMQnFXSFRuNlBSSWgwRzNYdTBEOG5tWmhqS3hzal9QYUd2V3I0eGNPYTA0N2V5WC1qTmN1WjNCeGVqdU42Y3pUQkZMa01IUlBMbzRUOGhLbUMwNS1YdnlpUHdOSFFtN1JFTUxsUjAyenZRZUxtVXhTRmRhR0pEYTdYVkdNd0QxU1FFX3V4aTFaZnpEZG44Y2FXTy1pZ1I0c2JmRExxdVBoZjdpVGVpUUttM3loakdhUXl2OU5ENVFqZFZ3RnVDVUItNU5rMA?oc=5",
-   "data": "2026-11-17T13:55:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1awp6kn",
-   "titulo": "De espionagem a affairs: O que mais explica a crise de ex-CEO da Nvidia",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcGVlVnU0Yy0tUFBEb0R6R2lXN3lLeURqMDl4MU15U1RaNW5sWmpSU2lZZXBPTW5yYjg3RFBwZkVDXzMya2c2c3NqeVZULTFZdEI4aC1welFnTXhNVU9Tc21vc1JYaWotMk5Ec1dNYUpRWEtoa2JvNjlPNm00YU1EWklvOENQYzZ0dTE5SWpjc0FXbExGSjJ2VmVyWmdGM0ZyMUdsQnFpVUhBUG9DQUJ2SGJmdmk2UE5faFI1SjVUWUJ3QQ?oc=5",
-   "data": "2026-11-17T13:46:10.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
