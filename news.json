@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T03:00:31.607Z",
+ "atualizado": "2026-11-17T04:00:30.433Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
@@ -1255,6 +1255,17 @@
    "avisado": false
   },
   {
+   "id": "fcfq30",
+   "titulo": "Jensen Huang articula volta à Nvidia após renúncia e ganha apoio de Elon Musk",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVUwR09PMEVES3dmdGVCM0NqTWF1Yk1DLWpNVW1wYjBjc0t6UWRtakxUWmw4NmY4TGpnVEtLbzd3MldmR3FPekVvUGFfd21Pb0VxNVdfdlNyWDZjVG10ZTdlVmlxZkdadU5qRV9KdE1QZTJTRDJLOEZuRXAwcE1JVTdfLTd4MlBORWJhVngyZWRVMWVMclFROEhTMjZWUi1VNDNzWGF0RV9uNXA4VWdZYXB2VQ?oc=5",
+   "data": "2026-11-16T14:55:13.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
    "id": "uldc4f",
    "titulo": "Bitcoin cai ao menor nível desde julho; IPO de empresa de IA tem culpa?",
    "fonte": "Valor Investe",
@@ -1648,17 +1659,6 @@
    "data": "2026-11-16T09:59:33.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1hbswol",
-   "titulo": "Bolsas globais recuam com cautela sobre Nvidia e expectativa por IPO da Anthropic",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY1RoNWpiWEpWUHZjQy1HRTR2Z21kLTE4TGl3TWJONWVTZGVEZHBkUGJxTFVNWk1hS0tQT0x2VWM2ckpEbzhHUzg0c0ZNVUxUZGRCSjF2bkNiekd2Y0tWalV4dk8zeWZnVmliS0xZX1d5X0g3bGlxMk1xdDNxb1JKYWROUEZlUWMyUGZjVHpmQmpPYXZ3WV9RekhIbnEzTlhzMFVOaTlmaGVObmViNmluenpLcmhFTHBlUFFEWWZ5Rm9YSknSAdcBQVVfeXFMTU5Pa2dWZ3h5R3dnMmZiQlQ2X1ktaTQ4aFNFT1ByUGM3d1NqQ1F2Qy0yeDZZVkcyeGRNS2JYRHJsSkNuN0Rtd0ZsWWZsSjlPRURYcUJpWGttMVJ5YXdFZFlSdWdGdjBuTVJGTkUtczM2ZkVqX2dzQUVEYXIyS3ZERVc4TGt3MEQzdzdnWWpxcjBrY1pvZ0U1QzNENjdVNjZpQnA0LXotOHZYM2gyYnJxMkxvZTlyV1dOLWc3SUV0Nnl3UHRuUm5pTXlQZkNTVDlTbGZpZWtIRlE?oc=5",
-   "data": "2026-11-16T09:36:59.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
    "score": 9,
    "avisado": false
   }
