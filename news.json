@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T00:30:27.664Z",
+ "atualizado": "2026-11-17T01:00:33.489Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "13bgi10",
+   "titulo": "Strategy compra 485 BTC e Strive eleva aquisição a 251",
+   "fonte": "portalcripto.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNC16ZG1QZ0JzU1J1Z2JFU255dXJ1eHV3cFh1V0kwQ2ZhV0VPbUhMWVFjaWxoWlNFLUNYeGQzdVVGX3U1X3UtYUEyTTNYRWdFT0lKdk8yTHFVOXhxZHhaYmZXSkFsV1hNcTEyVXVfamZDX0wycndWdnpIc0lYTlhaMFZraHpJU3J4TzRYWTUwRlFCUy1TWHZ6cnEySS1ZTXc?oc=5",
+   "data": "2026-11-17T00:39:59.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
   {
    "id": "yd2qu9",
    "titulo": "Jensen Huang deixa Nvidia: teoria de conspiração surge",
@@ -1112,6 +1123,17 @@
    "avisado": false
   },
   {
+   "id": "13q1i1y",
+   "titulo": "GTA VI: o aguardado game que custou US$ 1 bilhão e que está prestes a gerar muito mais em vendas",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHFLb3c0YXRSOVp6WExOV1ItemZZck12Y2kxYzJqbVVkSkhEN1B4eTYtaUp0SVJvQjRSaVZOLUZfMjY5UF90NGxyaVMxaE5fTUdTd2JzTkE4Tkk1WU1mUExvVXlqd1NIT0VDdW8xeTRYRE54ZUdVdTRQZ21HZWp1cmk0VUx6ZmRTOVZpdVVyMWdkQ0poVFYySUVhdUhsRlF5RmFjN19ZRkZ6d9IBrwFBVV95cUxPdl9BYU1lek9UdGVuQTl2SmxvU3JDV2hsT19lRkFGWWhKV243RkVmOEY0NTRSSmFvMmRtRmlFZ2MzdlpRMXNtcENDWUFHclo1eTRsUWhhQkU5aHE0ZjgteDdmcWVyMzBlOVB3UmpTNWFXNlJJaV84TTF2X2JhOUtYUW5yOFlwM29BbHNvV3NVTFJTQWY5bHRJcmJnblpWcnozNDR0dmRHYWdyMTVfTDE0?oc=5",
+   "data": "2026-11-16T15:28:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "avisado": false
+  },
+  {
    "id": "eoo2e1",
    "titulo": "Trump diz que volta de ex-chefe da Nvidia, que renunciou após escândalo, 'não é má ideia'",
    "fonte": "UOL Notícias",
@@ -1638,28 +1660,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "17p7r0y",
-   "titulo": "Como comprar ações da Anthropic antes do IPO",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUmxEY2hXdGlVSTlNOFRkNkJiR2paTTlJSElHZXFubkpPZjFpYkUwT0UyWTFNM01tNVRtUWlCWk9MNGJ0cHMybGxRLUV4WktkQ0t1YldTU01VU29iR21NT1licHlZZk9BSS16RUlDeGZoT09LdzQtUHlyZzZLeUZ4ZTE5STJTODhw?oc=5",
-   "data": "2026-11-16T08:33:50.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "j0l3f5",
-   "titulo": "Sem IPO há 5 anos, incorporadoras recuam na abertura de capital",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTlYtTFpWTjB0aVpOT2dnNGxHZFpVbmh4U0VUcGdHbmJPcGpLT0dQNnZlM0Q4eXJnMklRVk8ySzBPSE9CdXRpMXVUV0ZXRXpuWkRDVGRyRE1Tak1VNWpEMXdzZUwxXzR3RXM3bzRvVVFGbTBXbXY2aTRVaHctQTRDcnBFOFhzc2VOemxTTTZkOEJYb08teEhueFpYNTRwT0JTeEE?oc=5",
-   "data": "2026-11-16T08:29:13.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
    "avisado": false
   }
  ]
