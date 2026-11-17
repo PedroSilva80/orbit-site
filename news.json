@@ -1,10 +1,65 @@
 {
- "atualizado": "2026-11-17T11:30:25.932Z",
+ "atualizado": "2026-11-17T12:00:30.817Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "rkeb5r",
+   "titulo": "Totvs anuncia novo CEO da Techfin em sucessão planejada com o Itaú",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcXI3LXZlaFNmX09jNGkxUkYxMTVqblRCdkdxUnE0Mk9ESnVlZUF6MVBIdTRzWU1UNkYwM1NOZ0FRN2Zpb1FfV1RBN1V2M29xeWlzMFlLRXRoSTAtN1Bjb2s4bkNubEdCWlFORVF1bmVPeUVIdmcycGk0VVl0d1p4WUcxM05jakhLTGUtc041S0pFbmlaMEhkamc4UmIwaVJtTWhweg?oc=5",
+   "data": "2026-11-17T11:48:41.000Z",
+   "cat": "Liderança",
+   "empresa": "Itaú",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "1pxr5gs",
+   "titulo": "Manhã no mercado: Desconfiança com IA e política fiscal no Brasil impõem cautela antes do balanço da Nvidia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNdkhXcVFkZE1rUmFqNVRVZ0tGTmpMRHlBbU5jUTJNMHlSeTVRM2VzSXBCVXlJUXo1YnY0aXptVFhDTWJmb3ZMTmdBU0dUekluUVdTN3JIX2gzRGd2bGEwWFlvYWhQcjRIcllZS3gxUlJyYVpBdmExSzBBa1FodlBobHg2ZXRTQ1YtS3h6UE9ZQ2M0Tk1VMlVvazQ4X3lILWdHN1NBYy10VUdXd1dLaENpMnBuTlg0OWV1NW1WMUdYZ0tySzRwMTN2UG5iRk04QnRDVVdNVHFyeF9pa1gtMl9VQnFxRVplRTRWN1BTSTVEeHZFblhheE800gGGAkFVX3lxTFBveTBkT1YxdlJlLU5HTU9XLVQ5SDVVMmRweXFzZEpjNXd5YWl1b2hZNlNHWklzVmJGeXpsbHlZb0tRUUNORkw4ajBrdVA0dnRXdUMwdzExRU5DV0FFbGVySGQ5aWpiWXViTGZxMnlCOVRObFFFem44YTdST0VDc2NmcWlxeVNWRkNmZjJTSHNZV3ZUMWxubFVzRHRJeU1nUFZPZ1lpcmE5bTVtbVQ4T25DLUY5TVVPZXBkVWhiTGZCZndROWxfLUx1RmdjTnhRWXd6YnhSZ0djd3lPU1ZVc2tabTkydE4zVkNWWWRsNXlKcjdnWGJFYkxvX3JJV2ZwS2tFZl9GdFE?oc=5",
+   "data": "2026-11-17T11:41:40.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1c9eayo",
+   "titulo": "Nvidia enfrenta cautela nos mercados globais antes de divulgação de balanço",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONjJwRzdHZUNmeWdncHc3MXFudWx4ek9ETUxNRDFnVTZrTXVwU0ROOWNPNHZaLVhTQ2QzUVlUUzQ4TGVTVGVPY2dBWjlrUWhiWllaMzM3a1JvR1Y1M1BZbnhRdlQwcVFwYzhtZFd5OVFvYlZpb2N5VHBzNFVyNkE3VTMwaWVwZzVRTkdNLUhCTjZPQTQzUDFGSnU3RmZUdGlCVlQxdGR1bXNsakVHQXU5Sg?oc=5",
+   "data": "2026-11-17T11:41:07.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "136tdrf",
+   "titulo": "Ibovespa e dólar hoje: pacote fiscal, BC e balanço da Nvidia no radar",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2o0T214d1BuUVptdlBqVjVpZTZLMW1Uc1o2ZmI4cnFYRDNfbTV3a2dXQ1hSbGtRWFZGbTBvODlYc3V4eE0xZ2dWLVhKZGhpUzl4OVEteTZPanJzUGxMTm9NTmFfZVg0RmpJOGZxVUJ6Vnh1NTVHTzhFTzlQM2N4X1RWeHBPQ21lSTNRSGlfQlJjWkVuMzA5Z05WSEVwQkwySmhNM2t3bWdlalBXVVBsQVRsMWRaYXZMOEQ2TmRrdEY?oc=5",
+   "data": "2026-11-17T11:39:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1fweuon",
+   "titulo": "B3 registra recorde de volume financeiro em renda variável em outubro",
+   "fonte": "Rádio Guaíba",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMTRmSGlGdmVUQm05VUIwRlk1WHNROGJlZ2pjSWZTUGQzckkzLU5peE4tWFZkTTU4b2FkVUhlVkFyRTRfT1BDTmU5UFNMallXV1N3OHJ0N2V6aDB2WG5nZTVxNjFGdlVGTG5nNGl3OWRTamkyU2xWelNTZXFIdzd6WlVKRGprNlc0VkZjc2tVRVRIZG9CbW1N?oc=5",
+   "data": "2026-11-17T11:30:00.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
+   "avisado": false
+  },
   {
    "id": "h2s1ec",
    "titulo": "Mercados em queda; balanço da Nvidia concentra atenções",
@@ -1012,6 +1067,17 @@
    "avisado": false
   },
   {
+   "id": "1m2mkws",
+   "titulo": "Prio e ExxonMobil arrematam cargas de petróleo de Búzios em leilão da PPSA",
+   "fonte": "TAGD Advogados",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDhBMHBNVzFYUmpnUXpRSGNPSHNpWGVJXzh1OE8tT2c5cmo1azkwR0M1T0h5SkNzUVA1S0tmTlMwLUhfWS1wT25HZ2QzSGxQQ3U5SzdqNGNlbzh1S3RwWnZFTFU5M1lfZGtVclJXMWhoS1RQN1ExZmJnbmUwU2RvWTJBNmlZYW5pLTlvVkY0RWYxYndMSG9CNTlQU25KY2c?oc=5",
+   "data": "2026-11-16T20:49:06.000Z",
+   "cat": "Mercado",
+   "empresa": "PRIO",
+   "score": 6,
+   "avisado": false
+  },
+  {
    "id": "g9j8ex",
    "titulo": "Anthropic IPO tests AI safety promises as profits loom",
    "fonte": "thebusinessjournal.com",
@@ -1595,72 +1661,6 @@
    "cat": "Mercado",
    "empresa": "B3",
    "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "mcjek8",
-   "titulo": "Nvidia CEO Jensen Huang resigns amid misconduct allegations",
-   "fonte": "Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUE0TEdvTlh0bTVWdnlMSHNabnF3WE9XaElWRHJWa3Q2bU1feE9Pak8ycWQ2QlVlVkpYcnhWYmZCY25HeXBXajY5elVOM1ZiQ2NMYl9CM3ZKRVVQT2J6NVd1a29Dc25VQmF2RkdPdHVaUG1pMnQxQ3NfWmJudk0yc252bF9EbkM2THkxQ0xvSHI?oc=5",
-   "data": "2026-11-16T16:20:52.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "1pxutkk",
-   "titulo": "Aquisição bilionária de inteligência artificial pelo Itaú redefine parâmetros de M&A corporativo no Brasil",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVnJtTEZrc1VhOXhCXzdETkRrR3B0eGtvc2xUY2EzT0t1RGdyQ3N4ejRLUms1OVE2QXdvVm14eWdBdzFLcjl0a1BFckl0Mk9McFZhV25yc0FtNmxzS2FxR18ydVpkeUhJRUJmcWE1TUYzbWtjZVp3bHZfb0ZaOFlFOFIwazl3UlRzUE5xRzhUWHFDQWY3MFhPbHIyajk5ZXNDN0REUGZUeHdjQkktaVRnQ2RydGNjWTE0TTQ5T0wtdGE3TjNLeko0RVFydWJwdWtZbVE?oc=5",
-   "data": "2026-11-16T16:15:11.000Z",
-   "cat": "Corporativo",
-   "empresa": "Itaú",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1b1lg6w",
-   "titulo": "Nvidia Fallout & Anthropic's IPO: Global Week Ahead",
-   "fonte": "Zacks Investment Research",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVEJKMXQzR3Q2ZjlMUjZpazJsREkxRGhkNXhiZnVhTGI3a0J2NXQtazRZMTBuUEw4anBjQkpOSUV3NWItRVRQTTgzaHVwWmdRWlNtRUN1My1pLVNmNjQ3MnMzamJReGliaEpSdERocEs4cDNUTzUzYmxHY2NFMkl6Y3d6azNaZUtTNzNwZ2E5UmxiQQ?oc=5",
-   "data": "2026-11-16T16:11:51.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "6eks95",
-   "titulo": "Interactive Brokers Abre Inscrições para IPO da Anthropic em 9 Países Europeus",
-   "fonte": "FinanceFeeds",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWdtV3RGSndpZjdTSzBrYmVlblRwVkcyeE5BemZ1SWo1QWxncjVhQmRPb2tCaDFYNWo4MDA2VDZlSk5kel9pNjhSN0U3eE1DVHZfUGhLR3JkQmc5d053VThCUXBPTXF6dldpSHM4RTg2VVk2M3c3VUVhb0hGVW1iVGstdGg?oc=5",
-   "data": "2026-11-16T16:01:08.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "kvrsj6",
-   "titulo": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
-   "fonte": "Electrek",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPanM4Zno2SncxWlpIM2RPb0ZsdTVHQjlhaVd2ODlySTd6My1WbW9sQmlfMXhZQ1U4YnJka1RhUTNkR3U3bFdTbW9xTFBtWWkyZlgwMHV5WkVaUDdmeDRKeWxDYnVRZFQtTXhaWFpONmFuMF8xcTVuMkhaZHpyUW1TWmd6NEV4dw?oc=5",
-   "data": "2026-11-16T16:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Tesla",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "nyihhd",
-   "titulo": "Wall Street cai com incerteza em torno da Nvidia abalando humor antes de balanço",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQeFlNUzUxZmxPeTE1TXhveWZKYmJlSEJ0SXNtZXZjQ3dJYjM5MHBrX3ZseHByUEZZVm9UaFNyeE52R3RZR201ekZrT1hNZVNydTRIcl82b3Bqb09vU1ZMT2tlMVhvcmduZGdvQWxqQkFwa1FoeXk0TTVwMnZoeHkxNER1M1ljRlRjTGRDazIteklJZUln0gGaAUFVX3lxTE9FdzRXWWE1SUwybFFjXzNWVTE1bE9ZLXFvX2p3bVhmY1F1UTRXQXJkUWpvRmNPTS01aE4yZ1hhSnVURGV1ZjBCSWxsbjV3bjE0UjJFaXhHdUduOUZNdmN2bmpfY1JSY1ZQZU9KZDhtc3NYOUFFYm5kTDJMTlhFd0kzTEszU3p2Y1lRQmRKODBwSmkxRU4teTJpMUE?oc=5",
-   "data": "2026-11-16T15:58:49.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
    "avisado": false
   }
  ]
