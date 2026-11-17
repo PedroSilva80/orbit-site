@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T02:30:27.689Z",
+ "atualizado": "2026-11-17T03:00:31.607Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
@@ -24,6 +24,17 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "168rd8g",
+   "titulo": "GTA 6 vai virar filme? CEO da Take-Two fala sobre possibilidade de levar a franquia para o cinema",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOZFYzVkNtNTZkQ21lR2dPVlpqZ2wzY2JvUnRHUE9ROVNqUElsNTZsbVdlcG1XOFhwNzVOQXNQQWc5UjRxbXIyTDU0ZjRZUXR1NUZEODlKT1lIUkpqU2ZYdXhlRHdMcEcwMkZZSzJDNF93RklUanY4bmlJQW84U19ZWE16bENhbFdCcDJlR3kxeVJ4LVFQRkhYUDJFSlpKcTlIcDFJOG1VQTB0UkVqZk1zSmZ1SGp2MG9zeDJ3ZlVxNzlFaHJjTXpXVG5pY2lTenJtZ1dTQ0FBSEpHRWxfMUZLXw?oc=5",
+   "data": "2026-11-17T01:00:11.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
    "avisado": false
   },
   {
@@ -1649,17 +1660,6 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1hv1882",
-   "titulo": "GTA VI pode bater US$ 3 bilhões em vendas e superar o épico do cinema 'Odisseia'",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOV2NhVGMxeElkQm1EV2dwNVRJZ3BsVGZaWWxMR1cycUJheFFpRDFGNDctQVNPdF9mNEdNNmxkaEVnTkVCY3NyTzFFb1UtWjNHU1pTTEtzclRrWjJTVU9hZ2x4Smo3OVpDbURSU1dEZGNENVFqT2dPdm9DNm5Vc0ZfNGlGSGFJSXFTdkFSankteXZRSDNqY3E1QUNnZjFJTVBQYkE?oc=5",
-   "data": "2026-11-16T09:36:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "avisado": false
   }
  ]
