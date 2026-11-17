@@ -1,10 +1,43 @@
 {
- "atualizado": "2026-11-17T12:00:30.817Z",
+ "atualizado": "2026-11-17T12:30:28.461Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1how16c",
+   "titulo": "Chão cedeu nos 169k: Ibovespa despenca ou segura o tombo hoje?",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdFp6aVBRM2dyY3lXQmpNcFVmcGU1TjlLbDRjSm51MGdjWk90LVRiLTZRQ1NwanF1WGRHZXZxQmtEbnpnNmp3dmFLSmJjZmcxWkd5MHFaSlF6NFVoY3hpOU9SVUM5YzktQmlHODdacWNxSEVzTV9RejllMlZWaGR3dHluZ2xPYk9tQi1KazVUTFNsWG13Wl9sQzJPYVlOVDc4SnotZmY5bW9kejRId0RCVA?oc=5",
+   "data": "2026-11-17T12:04:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "ut2gsm",
+   "titulo": "Home Depot supera expectativas de lucro no 3T26 e divulga novidade na liderança; ações recuam",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUm5jbFRScmFLM3J1b2Z5VUZCSGRCWGR5ZFgxVGs2QmcxeHR3MGZnck1BN1BwTlNTU05mU2I0MW55cmhwQVRPSnlZNi1WdEs3cTNuYW9BSXJNbV80MzRObFA0Q3g3WHREVUl4UnA4ZjNjbXk0UWFibVFLNFRLdzlEMURFdl9lUlZVamZUMEhwdDFnLUFOcGUtbFI3bU53dmhiUnBoeFBkUFpqWnpnMHFhdTFvSFhRUEttZGRYeFhjODMxc0ozU2RRZ1M3M1I4ei13N3NZRUhNVTVfaVRrSzFoVVFNWndQd9IB6wFBVV95cUxPcVYwYmhJaHIwTWZXcklQYXgwbTd2NlJ2eVhOTDVOMkFIcUxmcUs1T1FubnJJUnhoMkRYMS1zRkdZYnU2dl9nTmRlYXhUVmF0bHJCXzdzUW05bU1fTlctaGw3NjlwWjR0MlB4OFU2LW5jd05Ybi1iWnUtRm5YenNLNjdEYk5xNXJCSEVWTnVJR1RyTTQtRmxJc0lMOURHakRoeHp1RFNubEFnekc3RWZZaFF5T19hRzhra2x6a2hzM19nckFKV1hvMVhwTTc2UTVlcmNBQVNhLUQ5Tk8xdGcxOHRtUjJfbGhYcjYw?oc=5",
+   "data": "2026-11-17T12:00:35.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
+  {
+   "id": "10o9bz0",
+   "titulo": "Dólar oscila na abertura, à espera de balanço da Nvidia e de olho em dados dos EUA",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WbXA2QllSMWVnWHZlQjBHM21DVFRhdm1SY0laMXd0Rlh1dTdwZnMwVHB6c2MzcXAtZGFRQVc3d0kxdWVZck5UV1BFOHFmWHJ2LS1BdXlGZlRqQkxzdU9uUTJDQVFuODNUNG5SU19mNm01emd6T2N6aNIBhwFBVV95cUxNeF9sRVd4anExbUIxLWdobEFLYTRma2NCekd4bjJRS2UydkxwMlZpN0p1aDRXdk5pUWhKbHBzNURrRkZLMUpfV0xyRGt0ejVPTDFlR0k0c0NBVnBfT1ZkX0pDS20wM2dEdVpIVUpBb2paVHdwYlhFNWk2bFhpcG5jX21iVkdlNFE?oc=5",
+   "data": "2026-11-17T12:00:34.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
   {
    "id": "rkeb5r",
    "titulo": "Totvs anuncia novo CEO da Techfin em sucessão planejada com o Itaú",
@@ -14,6 +47,17 @@
    "cat": "Liderança",
    "empresa": "Itaú",
    "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "8v4zhg",
+   "titulo": "GTA VI: Hacker que expôs 90 vídeos do jogo ainda em construção confessa ciberataque dois dias antes do lançamento",
+   "fonte": "SÁBADO",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOURCa0Jfek16angwdEEteHhpbGxtUUx5OVNHQkZRWkdiYXB3WWttYkRYaGZBRWNNaldXZlotOW5xaWdPSi11NXdlWlN4NXFZYmFLa05EM1JoUkZCMDZ4Q0g2dVg3eFNzeE1xa0h3cjA3VVhrdHN5TERvVVJuT3RyeDR5Snk1MDctVnFvVDBuVnhWM1ppV0lsejFSbmIwNV9zN0pHeWltOEliQXZYMjNWVGR3R1BBRHZLR0xSSVA3YmhkQXA1WGUyZ0paRlp3VnYyaHdpeS1vejlqbHpUM1d30gHaAUFVX3lxTFBMUExWdTlOWFdTemJFN29TY3Y0WHZwdnBfbnNkb3VxLS1Wd3VGYUl3azRpTGtXMlpmUFhhMFNLUjJuMWE4V3Q0aXFSeG02YTR5WEZ1dzJRclZ2UVRveUNGclR4ODlQOW9BTEQ0dEZ3VnZHNXljQUk3M2ZYVFhBa3VMWTQ3ek9FdmRWS1Y5blR1R3JTeS0xZTl3aDBpWFFZMFFUWU56WVVZMVBQS2FmVlJCcU1SOXpXdHlkUGVHTTMwdENOdU45ZlJydERNVGwwUVptU1pEbWRkS3JR?oc=5",
+   "data": "2026-11-17T11:47:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "GTA VI",
+   "score": 9,
    "avisado": false
   },
   {
@@ -47,6 +91,17 @@
    "cat": "Resultado",
    "empresa": "Ibovespa",
    "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "7x99l9",
+   "titulo": "GTA VI: falsas versões antecipadas trazem malware",
+   "fonte": "MaisTecnologia",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdlpjeXI2VXNaejN1UjJiWVc3Zzh5bUQzb3BFbXNGckJzd3VlZmg0NV9ad3VmQ0ZzWmxqTnFIM3hyUTZsa0xXLWZDZXZIaTE1X2dOTWZuazhwUmdzNGdWOV9KUFMwRUJ6ekUtbE0tLVlaajRabFpKbFQwVkJpd0I1NTE5N1dJTlU?oc=5",
+   "data": "2026-11-17T11:35:25.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "avisado": false
   },
   {
@@ -1606,61 +1661,6 @@
    "cat": "Corporativo",
    "empresa": "Tesla",
    "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1aerh6g",
-   "titulo": "B3 fecha na sexta e semana traz Nvidia, ata do Fed e IBC-Br",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPblRGQ3lTT1g1RVNyT25JUms0dUVnNTE2TlRsckRrNS0tdTBJeXVrUklXWF9MVF94SEpHdnNRWlFWcng2OTFEWTU3Nk01QWpKYXNsNkRsQ3QxMXVmWWZrNVBBWFoxQ2RHcnBVYzFDZTBSR1dsTEFmTzJweDhHSThwNjB0bGZ1aG02WVlFZHRNWFVhYTljNldGR1pQU25JeTZ6ckpTeUVKeVE?oc=5",
-   "data": "2026-11-16T16:47:17.000Z",
-   "cat": "Mercado",
-   "empresa": "B3",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1336kkq",
-   "titulo": "Krishna Rao, diretor financeiro da Anthropic, se prepara para seu primeiro IPO no cargo",
-   "fonte": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaDlfMUhjT19Qc3VENmFYa0JRVm9wcHNTX0h4UkRkZ2RIQlFOTlRVWWJWNHlycmUxOC1ySnJtWWJaNkRZQ09ndWVYU01DRXk1NVFCQUwwTWRLM1d2dzVZMmRoY24wNHFlTkpRZDg0ZTUyN2d1T1B2T3BUWEtHUW5oU24xZ3BRaGZYT1VwMXR6SWU4V2FKZ2N3NWtR?oc=5",
-   "data": "2026-11-16T16:41:03.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "5didl2",
-   "titulo": "SpaceX's IPO Playbook Could Give Anthropic A $19B Buying Cushion—But There's A Catch",
-   "fonte": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUI4ZFVfcGF6bUVzNEpaX2luTjJINm4ydU13T0lzdDVOWmNJUjlENnJuT2NPaDl3ZjdhNmt5d3R3emVOV0Z2Z295di1ELWNlQ1h5dFVEM0pGa3E0SWczU3dncUc4cm13YkQzaTYxMVJ1QzlWMkNKVEU5MS1tRkhNeFNZanRSbHBwdkE?oc=5",
-   "data": "2026-11-16T16:35:08.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "jhtokh",
-   "titulo": "Anthropic IPO: Can SpaceX's $19B Playbook Work? - SpaceX (NASDAQ:SPCX)",
-   "fonte": "Benzinga",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOUI4ZFVfcGF6bUVzNEpaX2luTjJINm4ydU13T0lzdDVOWmNJUjlENnJuT2NPaDl3ZjdhNmt5d3R3emVOV0Z2Z295di1ELWNlQ1h5dFVEM0pGa3E0SWczU3dncUc4cm13YkQzaTYxMVJ1QzlWMkNKVEU5MS1tRkhNeFNZanRSbHBwdkE?oc=5",
-   "data": "2026-11-16T16:35:08.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "19839r2",
-   "titulo": "Agenda da semana: Nvidia (NVDA), Fed e B3 fechada na sexta",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSWkJFSExiM1hoS1dGSEhTN2NNblRuOUQ5OC1sMDNkUmp4b3VkeFlORWozc19xV1JrTmdPcXYwY1dOU2VhTzZKb0VWSndBV1hxb212TUFDUmlWaUdwTjlHSk5ielZxMmZITldhWjhFYnI5d9IBd0FVX3lxTE9wZHVtdWstUmRZYjNwZnYzeXVBYW5aNG5MUDdvRjdtUWpMU0NkaGVrVjJHSTZwWEsyQ1d5T28xSzhMTnMwSjA3a3NCeTRUajdtTWVFSE1VUkkwUVZUeU41VWlBTzFfb1p5RWJzSHdXaU1CaFA4YXlv?oc=5",
-   "data": "2026-11-16T16:30:39.000Z",
-   "cat": "Mercado",
-   "empresa": "B3",
-   "score": 6,
    "avisado": false
   }
  ]
