@@ -8,10 +8,26 @@
   "empresasUS": ["Nvidia", "Apple", "Microsoft", "Alphabet", "Google", "Amazon", "Meta", "Tesla", "Take-Two", "Rockstar", "GTA VI"],
   "destaques": ["Anthropic", "OpenAI", "SpaceX", "Federal Reserve", "Copom"],
   "termos": [
-    { "q": "IPO billion filing OR prices OR debut", "lang": "en" },
-    { "q": "Anthropic OR OpenAI OR SpaceX IPO", "lang": "en" },
-    { "q": "CEO resigns OR steps down tech", "lang": "en" },
-    { "q": "IPO bolsa B3 oferta pública inicial" },
-    { "q": "Ibovespa Copom Selic dólar" }
+    { "q": "IPO bolsa oferta pública inicial bilhões" },
+    { "q": "abertura de capital IPO B3 pedido de registro CVM" },
+    { "q": "Anthropic OR OpenAI OR SpaceX IPO" },
+    { "q": "CEO renuncia OR deixa o comando empresa" },
+    { "q": "divulga balanço trimestre ações disparam OR despencam" },
+    { "q": "recuperação judicial OR fraude OR investigação empresa listada" },
+    { "q": "aquisição OR fusão OR oferta de compra bilhões empresa" },
+    { "q": "Ibovespa Copom Selic dólar" },
+    { "q": "lançamento adiado OR confirmado games OR tecnologia ações" }
+  ],
+  "eventos": [
+    {
+      "data": "2026-11-17",
+      "titulo": "Balanço da Nvidia (NVDC34)",
+      "msg": "Data informada por você; confirme no site de relações com investidores da Nvidia. Costuma sair após o fechamento dos EUA e pode mexer forte no preço no dia seguinte."
+    },
+    {
+      "data": "2026-11-19",
+      "titulo": "Lançamento de GTA VI (Take-Two, T1TW34)",
+      "msg": "Lançamento mundial marcado para hoje. Ações costumam se mover antes e depois da data. Evite comprar no impulso."
+    }
   ]
 }
