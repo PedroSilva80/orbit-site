@@ -1,10 +1,43 @@
 {
- "atualizado": "2026-11-17T16:30:27.150Z",
+ "atualizado": "2026-11-17T17:00:30.261Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "ar1v86",
+   "titulo": "Após renúncia por escândalo, Jensen Huang abre porta para retorno à Nvidia",
+   "fonte": "Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1ViZHNoa2x4djJIeXNpc2swTHIzR0oxZ0V0eFhQZTdGVVE2cUxKZVl5ckdQcG1QaE00d0tIVHVSeVFlMlJFNW5mdFFsS21zUGlrdW1GY2lTaFVOYUFkTzE0bll2d01DMUI1clIzb0prUURFZnlMMEhoNW1wc0d0VE9BMkNGSDlMaGtISHRSWmtWR2F1M0xMNGc5SUhQUnQ0Y1lCcGlmaWNGSHBSdklhc2hwdXpJRklfUXFF?oc=5",
+   "data": "2026-11-17T16:44:29.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "oh1bpl",
+   "titulo": "Anthropic orienta preço de IPO para o limite superior da faixa ou acima dele",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQanNyWnBxNXNtcmoxTDZRV1JpSzBsZVE2RmdZMndKY3FLUE1zSXlvbUQtazUzdDRhSGNmS0ppQlg4V3duMnpWOTRjdmxhTnJ2U1NBWFFOTGpwX2kxTVlUREQ0YjI0LV9tVUxrbE9uREktOXJxSWM3REpoWlFmdWRtWjNfd2VjOW82cWJxVHlrb0YwdkpCWDBLYjlVcUdleUVEbzY4M1FyVk1OelRXelc1bnFRRDFYeHF5MzJlOTJfY2d6LUNBWVIxUXNfalh2a0dBbmxMelc4cmNiemEwNnc?oc=5",
+   "data": "2026-11-17T16:42:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "6ygysu",
+   "titulo": "Ex-CEO da Nvidia emite primeira declaração após renúncia ao cargo e investigações",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekE1MGx4eTRlT2Z1X01aTEtsc2FUN21ycEd3aDdHZ2psRUF1WnhKWnEyN1BocnhzR0g0QTF5Q2J0dGJsZE1GRWxSQUY0cE9VUTBQN3d1WGlwQXJvbnIteXVOdVlIc1NaNVpsTUVETnNzcjhxckV0ZEh4ejlzanhCLU9jSzhhT2U4d213ZVo3dWJqVGRqNm91aFo5TWc2MDU5Z0RRUDlYcjI1MHJZTDgxQlcybFhxUFFX0gG-AUFVX3lxTE5jYjdPRXJXVGNnRlFlR3NWVURTeVJ6RC16OUluTnVnVS14NnRicDZxbHdCOER6Q29oTXZLa2lQQ3MtWVdBak5sY1lwdGdPbHZiZlVKTERDcjVsSzlUVXFmQ2g1VkJaRktvLXhWWHNtb3BpNE1CWEpRR2MtaWxSajhFQ0pKdnNiczVoMGlIWXBDclE5Ty1GaEhoNHBzTXdGWDZxRHZQZm5kQ3k2ZVpkZTdQbC11T1hmQllTdXBramc?oc=5",
+   "data": "2026-11-17T16:33:22.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "r6vszx",
    "titulo": "M. Dias Branco celebra 20 anos na B3 com lançamento da primeira Carta de Governança Corporativa",
@@ -14,6 +47,17 @@
    "cat": "Lançamento",
    "empresa": "B3",
    "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "qr700c",
+   "titulo": "Do preço ao horário. Sete coisas que precisa de saber sobre o IPO da Anthropic",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm1oQ0JxSkVlYTFpVG00YjN6ZDVGY3BvZjBaLUZlTGtUbm5tZHZMbl95M24tN0lWdndkSTRobEZRaTByanptMUx3MmxIWVNoWGYyN1M5OC0zU3FicXRITUdaMlI3TFlLeEN5c2p3czNDRWJYaUFPRVk1alo1U3R0dXdxeEdpekU0a0VpWkJZV0JBUTFDN2trWWNuNkdhbjhwbGFXUnVkd3ZQZ0J3ZVR2U0cyWkN1Zmt3NXg0X2wyMDF1dmlBUXRobUppNFY?oc=5",
+   "data": "2026-11-17T16:20:50.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -73,6 +117,17 @@
    "avisado": false
   },
   {
+   "id": "1s0yo7h",
+   "titulo": "Wall Street cai à espera de balanço da Nvidia e em meio a falha em rede de segurança dos EUA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9peVVBSnNpZ0Fza2JXelloY2hCc2tjenlFdlYzb2stX2ZFOFRyYThpTzREYThoUGxadGhoN1YyZDgtVEJGUkxjWnFqRXZEV3hPUDdIRmdvdDF0RTd3UjhxZ1l4OVFQaFpQQzV5aTJBX185bmhWRkhmNWNkVFgtVWR4MFM3VFVxNUpvQVBscFVPYVJ1akpzMGwwTG9QXzlDM3oyZXB6MFdWOFVoSEw1cnBnTGRQU1ZHWnc2a0d3ZTVYa203c3Budm5ZWVZlOEhPbW1Ba0FYWGtGU3fSAeABQVVfeXFMT0FiUlRycWdlekJXM1BWXzRXTmJmWW0tZnpqaXBRTEk3MWZPb20xN0lZQkxvR2lJN3VCUXZ2UEkwSG13THJIVnhNQ3BEcHRlZlNKM0MtV01RSGdoTzRMSjN1SHpsdnRXYTZGcmpWV2JXU0xPTkpDaXVTZkNDTl9MNDZ6c0syTjlBV2ZrWFVtcE5wUjRnYmttLVFVMTFEaVJkZTRkMVJ5TFJvR3NjM2FpZmN4RC16UlZVdkRZYWxHc3phWTM4azZ3RVlkbnN1eG1MV1ViME5BdndEcnB2SWhWR0k?oc=5",
+   "data": "2026-11-17T16:05:59.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
    "id": "163sdpn",
    "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
    "fonte": "UOL Economia",
@@ -103,6 +158,17 @@
    "cat": "IPO",
    "empresa": "Google",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "p3cud6",
+   "titulo": "A filha de Jensen Huang ajudou a orientar a resposta da Nvidia às investigações sobre a Megaspeed, segundo reportagem do FT",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hVHdSeC1RSFA4NTlZeUg2dEtlRW5iV29GM3NfeTZudnJQR3FjNVlxel9vc0R1M3p6NlowbnJJckpUclJsWHY3cXhuV3c2R3FKbzU1dll3VUlwZC15b3ZCOUpaZWQ2RkdsSWhRdUpEV204em1TNDFj?oc=5",
+   "data": "2026-11-17T15:56:53.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
    "avisado": false
   },
   {
@@ -401,6 +467,17 @@
    "data": "2026-11-17T14:13:44.000Z",
    "cat": "Risco grave",
    "empresa": "Meta",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "t2cb81",
+   "titulo": "PF investiga possível fraude em obras no Vale do Taquari após as enchentes de 2024",
+   "fonte": "Agora RS",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWNmT2hNX18wQ1dUNGd5LXp0bi0xc2NzLXNkNVhuZk5TNW5tY1A2ZXF2ZmJwUGxjRldURDVFMllMX2JvMmp4c29mdUhyeFhSWk80TFB2ak5qWHNVemc5QkxCR3RjbUs3eEFWNkFwMUVsTUFObzFjanVZUU5waXFjOUdYbG9Kb1QybEVYNnpkejRaRGlyMHRoZ3QxZlRMTDBVdHpjUzlGZm9QOGEyb2VhR3o3ZXc?oc=5",
+   "data": "2026-11-17T14:10:56.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
    "score": 8,
    "avisado": false
   },
@@ -1584,83 +1661,6 @@
    "cat": "Liderança",
    "empresa": "Vale",
    "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "pmkghx",
-   "titulo": "Tesla Teases 'Transformation' Product Launch at RE+ Las Vegas Nov 17",
-   "fonte": "BASENOR - Tesla Accessories",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaEtiNG53ZHpWbXVuZXM1Ql83dXFpM21MdXotU3VjTnRScGtjdnhsb2dTVnlMdDJoeXBxX1ZQM2k3ZW1TRURTV2ZzUi1VajNZdFYxeWVhTGgxMDc1TkdwWHVGNUFfUFVtTk5zYl81RjVGSkJUbWVQUFF3NjFaaFBWbnlqRnRQU2JZZ2xmOXh3QTd5OHlxMWsxZW9tX1FiYkVsMFE?oc=5",
-   "data": "2026-11-16T23:06:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Tesla",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "hf3hhl",
-   "titulo": "Lançamento de GTA VI aumentará pedidos de folga, férias e atestados, diz pesquisa",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxONGNOOXc3d0F1WHRyaFp2b2FQVWQ0R2xQVURYUEdFZThkY1lsSEhDVEdxbzlzTzdTb3dXdjZ4bzlIZ3NQTGFtUm95eUp1eXROMDZDeGhDNVF0TERXOGpDSEhOdU1Bak1KQnNlTFVIS1Nva0dXbzlfU01BQU5DU05aMEZUNjBEeFZmWlBpbFVHTXk1UXlHemllNDk5TUlFTjFtczZ5cnU4Y3BwMU5ZM3Q3ZmkxZUJyeG9sV2drSFBvTGh2WnpCQy1CNUJzdm9VRDlKZlA1anBHTV9UeFNpdkE?oc=5",
-   "data": "2026-11-16T23:00:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1xpav0y",
-   "titulo": "ALumni Ventures' Laura Rippy: Anthropic IPO unlocks venture capital recycling",
-   "fonte": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNFQ4cXJFQk5zYjFpXzVmbTdOdndqNXFPdDVXYkN1TmZWUENQeUQxRnpJc2VsbkRNNGM2TEVxODJvZjZnc2pZMHBzeW9kZG1HeG8tYUpYNDBDcHBJcEJqTVg5SE1WTHU5Y2ZXUzI0c0Z5R0V2M1NNSmNKR2N6NV9yMnVGOTlpYXVOelMxZFRXanlkcElUM3JvZVBDMEI5dmVXaFJNeGdJaEdNOVQ0ZEhpSG1LU24xQ2RRNGc?oc=5",
-   "data": "2026-11-16T23:00:12.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1q5oibe",
-   "titulo": "Como GTA VI vai mudar o mundo dos games?",
-   "fonte": "Imirante.com",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQcTBObk5Ia0NweEJyeEZQVXR1OVVHaF9MaFREd25fUFQyc082anRkWjRvcE9ET2VzZVo3VHBiR3MyRF9UeWJFX3VXYXVMMUxySnVsV1g0cTY1cW1XWjNUSWJ4bWQ5c29GSUUyOHlodm5yR1dtTWdWUjZDQXRwWFJ6dDhSY0FaOFVaaGxJQTBLVUJJUk3SAZgBQVVfeXFMUDZTbU0welI5VjdxY3VPMUhtQTVkTEx3Y0xUOWZQNFpVQXBkaWpKQm4yWHpoZWlzU2pOZWR3YUxYdU9PTkRUenBLTkxEbG4tc0FlQnNkczk2M0x3djRuS0w0cGlnUUJ2Qm5sazRhZ3NBN2IxSV85RU8wWTNoVkFoMUtSQzJGYUNJdTRFbXlZZ29TN2t6VEozUFQ?oc=5",
-   "data": "2026-11-16T22:59:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1nnnnqm",
-   "titulo": "Banco do Brasil (BBAS3): resultado do 3T26, desafios e perspectivas",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVWliQUVEZERFWGhFdmF0NS1LWU9pd3FIZTVBZHI2LXhSVHhXRmNTQ0ZGNFZVVzlpdkUtMTJrUE02aVpDdXgwOGlJUzNhLWhVRWJ6dzNPMG5JQ1d0d2kyYm9XNS1hRHZyUnI2cjdHZEhqUEVJcllYYTlIRFRIdktUYVJSYWszU2xSbTA2ZUhQX2VPajZwYmNHOXoyTVo?oc=5",
-   "data": "2026-11-16T22:35:25.000Z",
-   "cat": "Resultado",
-   "empresa": "Banco do Brasil",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1llmb5j",
-   "titulo": "Wall Street fecha com forte queda com pressão sobre IA antes do resultado da Nvidia e IPO da Anthropic",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd09kQmh6ckZDbEFfZDRzY2JFaXRYRGEydkR0SmpjVjNjY2tSakNzM3A3X204a2UzM2dpRk05R1gzVEdOMTB5eWVzMTdCNXFoZU9jMTJZLXZVal9TS1VQV05IcUV6ZEZ1NkxuU1hoM2N5eXR6d1dsTFZHLXRZbmZFTS1NT0RadmpRd0tzbGYtbDI4YVZjN1pXRlFZOEFrbzlPX0Q3dThablZPRjR4b21PQ2lHYUZQc3dJbTR4bk55VjlPMzNUUmxGeG5oRWQwcHRXVW5rbk9MbUtmSHFY?oc=5",
-   "data": "2026-11-16T22:35:00.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "uxn41h",
-   "titulo": "Aon conclui aquisição da USI Insurance Services por US$ 17 bilhões",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1VOdzhpNUVxV2c5MkJORTQzSUp5NkZJWlFhekc4LW5nT1YyTG5rRHpwWThIZkl2TVVGV1lLQVBNYU5mXzUwd0FKWG1OQlE5dmtCLWNkWEhPQW16MXRVMzIyaDhnVGhrbXJ1V3d4aFN2VG1WZEtzUUdyVjkyYnJGQmVJVEEtOE1MSEphRGtuQzB4YWhHLWtRSmFJQ1poaElLcGt2TDdUT1pQbmdSX3NscVNYc2M2VjJKM0FaVzhZQzc0RDgx?oc=5",
-   "data": "2026-11-16T22:32:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "avisado": false
   }
  ]
