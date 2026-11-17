@@ -1,10 +1,88 @@
 {
- "atualizado": "2026-11-17T15:30:28.664Z",
+ "atualizado": "2026-11-17T16:00:32.895Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1p19gk5",
+   "titulo": "Nasdaq recua enquanto Wall Street aguarda resultados da Nvidia e IPO da Anthropic",
+   "fonte": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2VVV3ZUS3htbGNGUUsxUmNEaVRKMlMyY0M1bjFyS1FQRXBBbEk1U0M0eUxtR2pvWEdBSVpOTlJzYlJjMVo2Wk5MS3E2RktLY3pDR3lIMVJRaGc5WDFJcmhqWDVoaVNhNGVtY3llRUhqNS1MUDRkNVJUbENMNXUzVk1PV1lSTEg3UGRiY1hrbWJrTmJRekNmdGZ1ZDZ3YkFYNUJCMFU3bk1wcDNYTjZRMFlXREFWYldRenhCbmFtWnd5Zw?oc=5",
+   "data": "2026-11-17T15:48:57.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "ylnixz",
+   "titulo": "Anthropic mira IPO no topo ou acima da faixa, dizem fontes",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBaa0xHTXhrWFdBWHRJZktPV3dhbWVwSUlLX05WSEpfTHM4MXNZeC1ZbFlKRlJrWmk5cjFKQkRzY01oNmhLdTE0VmVsY1J2anRLamNTS1NMNkt2RDVOaF9lMGRsMXd6TFNJX1pPMXNicVFSS2J5YWw5cTNoVjgxc0RuZllEOGREQ1d3NEpCNF9zOGtKVGdQcldXNTZ0azBQVWVRamd4b3VBeWtLSmRmZlVmZnR3d9IBxAFBVV95cUxNWUxZOXdLSVJOUEN1dkd1Z2dXc1FhS0lUVGplUmxqTzl2WFl2RUg3SGlnYVlEWmNqWnVPUzV5TUJNZzR1bk15UUNnRFZESDJ6U2lPM3RNblpSNkpCd1dlajJXb2Q3Q1VBUzVTaTBybFhtcHoyVGlxRXEwU1d1VW9FMGdULS04aVB6SDB1a0IxYVI0a0Jqa081RHlXTGVwYnVERHRWR0lrS3lyamh1RHpqdlppU1Z5MldmQnRsUjBaZ29GdTdP?oc=5",
+   "data": "2026-11-17T15:45:57.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "1ayoiae",
+   "titulo": "Havan reduz preço do PlayStation 5 em R$ 1 mil e inclui dois jogos em oferta na semana de lançamento do GTA VI",
+   "fonte": "Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUFZNN0hySjdCUGdkRlBiSGxDc1BwZ2dvaWw4NjltcUswdmRlaERjX0Foa2VuQUk0LW5fRlRJRDZHemtscVFIU2xHZGFHS3lkLW90TkRCbURHc3hmdjg5dWpBUTBsb1RBYkFrWmtKRllyRXFjN3JmZXktMjFjQnl6TFpUN2pLWEExbkl0TzhfVDZGX3VMWks3eUkzX3hvZl9PRUFBQllWR1NTRm8yekNPYWxxMG8xMHAyQW04bHpTWERQNjVKQi1sTjljc1hYR1E2TEw5VGVKT1Z1aUFhZFE?oc=5",
+   "data": "2026-11-17T15:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "plo7ac",
+   "titulo": "Anthropic espera preço do IPO no topo ou acima do intervalo. Google e Amazon vão ter cerca de 28%",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOazJ0ZjRlQkE3N0NHdnlROGxzcE5HbXd0ZmVpcS1VOUVoT2tCWTFDekkyRGFvZGVqUkI4dkpHMUlCMkNjU1dYLVFQdXNfNWM2enk5NGVKSDRkODJlYnVfYzdWeGVoYTJUdVg3clJjOGRBdW1xek9CRDlPWm9MejUzcEUwOWhQSlZsaDlmOE1MZHZQMGlSb0tkY25GZndRSlFpM3Z4RHJZREIzMzVBWnVUVlQxZ09RR0tQS1BORWRrTVlWdlNpMjBjZU84bS1JTHpNN2huQVhYR0JDY0hPUmhVbTVUTFM?oc=5",
+   "data": "2026-11-17T15:44:08.000Z",
+   "cat": "IPO",
+   "empresa": "Google",
+   "score": 9,
+   "avisado": true,
+   "avisadoEm": 1794931232895
+  },
+  {
+   "id": "13z1d4o",
+   "titulo": "IPO da Anthropic: BDR na B3 deve sair a até R$ 56,50, diz Pipeline",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdF9tRXNlanFSel9ZemdoYVNtSGxtcFRkUUs5cVZGTklsQmszcS12czN1b1pVV2tGV1lqc0xHa3VmNjc2NUpaN3N2dmdWbUxZUFI2UHVVSVN2aU1ZTnNSd0hRZGpoS2Nfa25oOGF0WGppcGJzal9BN2wzV2M0Ukkxc09UQ0VrLTg0bXNhT2szZGZnaGlvSnBqOGJR?oc=5",
+   "data": "2026-11-17T15:41:42.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "vmqksl",
+   "titulo": "Wall Street recua antes da divulgação dos resultados da Nvidia e da oferta pública inicial da Anthropic",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5NTTljOTJ2TVRkdTMxTjNVUEFqZ00wenYyQWN2cncyNklQYW1Va0FBRXNQbjJpU1doNk1jekdLMEd0Y2l5ZmhlV29JRTZsNDhFcmtFX2JqbU95SXBIaE1XY0Jva1FlYnBzT3RhQ0l6aC1FcktDcFJJ?oc=5",
+   "data": "2026-11-17T15:40:56.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "9rwit8",
+   "titulo": "Dona do Claude chega à bolsa brasileira abaixo de R$ 100 no mesmo dia do IPO",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXJ4bUJ6dzQwblh4NnRpZ3liN2E2WmliNlUybEhUa3BzUkFTSzdtZGF2Mlk5RmdZUjBpVkpucGdqY3RvWFFENU83RXhKcmdaNG0xb2VTX1UzYmJaTmRDNFdBQnkwMzNUQnhaRy1SQjBZcFdxYUhyZ0h4eDRESWd5Y0J2VFRQOU9HSllZUkVsZjlJSmlmQlVHZXpxTFhXbmU4STQtOW80VnVfQnZMOUsw?oc=5",
+   "data": "2026-11-17T15:40:13.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "avisado": false
+  },
   {
    "id": "bdncpi",
    "titulo": "B3 vai lançar BDR da Anthropic simultaneamente ao IPO da empresa nos EUA; veja o valor",
@@ -13,6 +91,17 @@
    "data": "2026-11-17T15:26:41.000Z",
    "cat": "IPO",
    "empresa": "B3",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "krv8u1",
+   "titulo": "IPO da Anthropic: empresa indica precificação no topo da faixa ou até acima",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbUtacFI1Y3VvM3k3VllLMDdQX0Y2VXJKbGpMajFvREEyRXFKdGJod2lnWVpxWXFBSzdGX3h1emQ1Z0hWZFBlN0ctOC1kUXRlQkdWSzFlaGhSbkVLd2g5MmpTRDFhNTBZSlpLWUV3OGR3SktobUVpTHZ1b3l0RUxoazA3Nk1td3hfT19kZkEtVnp3ZWNzbUY5akZDeFJ4MHdBeFBMN0JmVnpHNTA3Q21yQWpLONIBuAFBVV95cUxNSHhfTnVIQmZkWEwtcW5iQUZJa0lLSXBVcWFPRGtiZWpheHkzbWFkdFpONERiLTlwV1d4dVA5OEItdGh3TlNKTjA5WlZzT0tGdGE3Sk1xQ1paZXgyTW9yN2NkOW9lU2RfLXo1NERjcml4aFRfTGRDQ1RTREV6YThGQlFRZmlLaHpfVWR4ZUVNcUxJT19jUTBDZ00zeTV6cDNhNDR3TmhQVFBmWVVUSFVkaDBESVJxV1lf?oc=5",
+   "data": "2026-11-17T15:21:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
    "score": 9,
    "avisado": false
   },
@@ -1220,6 +1309,17 @@
    "avisado": false
   },
   {
+   "id": "1bkgnl9",
+   "titulo": "Previsão de preço do Ethereum: BitMine vê no ETH tendência semelhante à do IPO da SpaceX antes do IPO da Anthropic",
+   "fonte": "www.tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUR2NEFOVUYzQktoUHhVdVpqOTFURG50anhnOFZVWmNwRGdJbHBuT19VT1R5REU1Y044ZUpvUHhaUE1OTFdxQ1RVZ3h4eVNKUVNHZUNNSGRaOWZQZzhrYzlScnhpZ2lKcnplbUpJMGgwc2JWb1JtVzVDR19FMklTU1VCLUJ6R1cwam90Q05XRmViWlU5cGpmOUI4Mk1JQnk3SHA3Rl9XQ0ZZTlJVVy1nRXZJQmpvMGFVOWdrT0RHMkRfcUNUT2tlMmpfc0sxYk94NFJWS01IdUxTdVJ0d0tuTHNveWg4Q0dLamc?oc=5",
+   "data": "2026-11-17T02:12:25.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
    "id": "1e5l8fh",
    "titulo": "Governo não prevê socorro ao Banco do Brasil, que teve queda de 66,5% no lucro do terceiro trimestre",
    "fonte": "A Crítica de Campo Grande",
@@ -1561,106 +1661,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1xe840g",
-   "titulo": "Lucro da B3 cresce 30% no trimestre e renda fixa supera R$ 10 trilhões pela primeira vez",
-   "fonte": "Jornal do Comércio",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSG1OX2NNLW5taEx6bV9jeHdjUE5rQTZTak1KZXBzcUhuZDlkdlNXR0tkYjAzM3h2UWN6Z2ZBelB6VmlQYzRvREo4bFFQVzE3RUxSVnVoSkwxYlNXemlfM21OYU9YSF9VazhvNDQxSVNZUFpUajNwX3NGQk9EbF9uOXpoczVQRHdYc2poMEd1VW5JbkJqb25sSU5SSGQ3M3pwZ0xSRFVpQUpwNmlEQzI3Q3lBMW5mZC0xVGRMOUd6TlpjNHBrSTFzTU5FLXgxZ2RvQVQ3SE5HVHoyaG11cDY0NzBTUkE?oc=5",
-   "data": "2026-11-16T21:33:42.000Z",
-   "cat": "Resultado",
-   "empresa": "B3",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "1p6i5xq",
-   "titulo": "Ibovespa perde mais de 3 mil pontos em um dia; dólar dispara e Vale (VALE3) afunda 4%",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoMFFIalBZZmZFWDI4cGYwaDByZW56UlFFTXdBbkhiTGdQZDRPWU9fTVpQRzZ5NnE5b1g4MzRnWHVKWUc0UUNJTENKanBSUkpXSG9wb0pzRlltZ25XUnlhRkdnM1RGVXg0YTRhSWVLNkMzc0N40gF6QVVfeXFMT21VRElyVTFFcERnVklLdWREUWFWcms1c3pzblB1aW9SZUpuNHFqVkRBRDZ1T29qNVV6U2NvaWNHeVp3Z0cxdTAtLUxjWGlJcUFkOXBYeVBYNTJ3aFNPbXZ1N0xpYWxVZXNlNjVnaE9VaGdsS01XQTNRRnc?oc=5",
-   "data": "2026-11-16T21:30:41.000Z",
-   "cat": "Movimento",
-   "empresa": "Vale",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1ragb1i",
-   "titulo": "Ibovespa fecha no vermelho com incertezas fiscais e queda do petróleo",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRS1PNFR5UjdBc0RZX3lCaUpEU2V1dlBRbVY0clpPTmduU2h5RXU5S3NSUzZxWm04OXl0YS1LeG0zbVljV0pmWVEyWXVtSjN0ZmdPYjlGeXV1Z1NTWTFYR0lqVl9wRlpiaFlQWW9SOGVYUVlXU1VwOV9PeGhXV3F4RVZ0TFpMdWdOaS1WdWM5X2FLUkwzUE5FZ2wtTjRNejcwcnFRMFBvWHI?oc=5",
-   "data": "2026-11-16T21:29:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1o357qm",
-   "titulo": "Ibovespa desaba quase 2% e dólar sobe 2,15%, com preocupações fiscais",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNE5FVFI0eUlOSE1tc0NKQWdoYWNxRE85UFdzSGZ1WlFsVXdxVU5sVzFObVZlNWhaTzhIUHpXMG1TQllFeEIyNDBHYXNjcnpJU3RhamppOVU1Qk5uRWk1SzNWOTVIZ3RMUGlLYXh4bzNtMm1hUG9WUXU2cTNVLUJXT21uc3dTMk1KQmJEUHNsNA?oc=5",
-   "data": "2026-11-16T21:25:34.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "m7xrcs",
-   "titulo": "Wall Street despenca com tombo de 4,1% da Nvidia e novas restrições dos EUA a chips de IA",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUEI4RW9yY0hhdUZVd21XTWwtLVdKTkpkbXlsYzI0QlNDcDlIWi1JdnRGU3BMZWI1RFhYTTk3Wm5ucUlYelhmMDJ4UWpvaWt5TWNuT1kwSF9iODZKUE80Tll1Wko4SzZ0UGU4QWNISGlaMHYwckFmS3Vzb3hvT0FvanZhb1g1dUVJWHhaR2FPNXFNUm9lQVlBcFI5WS1NVDJYRmpiWXQ1Z0ZuWW1P?oc=5",
-   "data": "2026-11-16T21:23:58.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "wfokvz",
-   "titulo": "Nvidia puxa perdas em NY antes de balanço e Nasdaq cai mais de 2%",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQb2FzN3I1Ul9yaTZqUFUzVU9Bd29la2I5d1Y1eEIzN1pUa25weHFmNTJUN192SGx1dC1iLWNRWHluaEtkTGFzZ0FTLV9DS0tMejE5U0dwZHotM3Z3aXhJMEpMRzBnY0M5eW1zRWlROWtGckpXRXFheldOVi02eXR0WmNPTG8xb2s0RFoxYjJBNVkzcTZONVF2VkhxSHJYdEdId21zaXU3UmdtOUFQS3k2RGZnVWwwT3Zxa1M2WGltY0dfZWgzLVgxYtIB1wFBVV95cUxNUXh1ZjBjTFk4N05Yak93WWtkR1JTVk1PMHJhTmhVLW5DVFJGdzZKUDlReDBVTnVVM19aeS1idjd2LXBKYjhKX3NPT05vNFpxclI3bFM4WDZjWmlaSzVULVNlR2dmeC04SmRGM0JFcDl4VkxtcmFJRWd5dHBNdWNIZmNxUzZjM05pbTRoTjlOSWR4RUxSdWhhSTZfTXVaLWZMZC1WX0VtamhIZWtEZ21SWXROMTl2Ty1hN0JmaC1TOUVoVlQxamoteHpOcTlyaXFyYl9nUnI3bw?oc=5",
-   "data": "2026-11-16T21:19:39.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1hnwyqo",
-   "titulo": "Anthropic IPO fuels US luxury home sales surge: Serhant",
-   "fonte": "Crypto Briefing",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQk1GLWt6dE9XbldBM1lIaEhCbUd0V0pmeDVMemJoM1dmZ05OQ1cyYnVabjV2RUZKcUVyUDZEMzJacmxIMDhrenppeEVNbUI3N0J0OThtekdlMF9neFctWFM0ajZGLVl0U3NEWTFMbHlpRW5ZejFvYy1RUG16VW5Zd3VtNGFma0lMakE?oc=5",
-   "data": "2026-11-16T21:17:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": true,
-   "avisadoEm": 1794864629983
-  },
-  {
-   "id": "ikmgej",
-   "titulo": "SpaceX e Tesla avançam em negociações de fusão, que pode ser anunciada em dezembro",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZUVZdnZUUzU5Vm4yR3NuOGRvekRNQ2RxZThZdEdsQWt0c0lVd3ZWeWdXejA3M2o4ZzFSNVJIRkdPXzFzRWlLSjdxTW9LMFlhUjVSMTdwcVNVLVFSeUR3dUxFNHhWcURNNUNsWlZQMkpEX2Z3VlhTVjl0Q05nUklHS194Tk9CenhnNENKQWItTTJpZThuVmk1MmJieWlnYUZNdWRXVXREYjFQR1VLNUJLRUpUMEptV05HRG9BWWFqXzB5Mm5DSjdyVjlGLUZhSWxMMmc?oc=5",
-   "data": "2026-11-16T21:06:21.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1habmil",
-   "titulo": "GTA VI nos seus ouvidos: YouTube, Apple Music, Spotify e Deezer lançam playlists com músicas do jogo",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLV9FY1llbjI0aGxYZEFfNnl2MEpmNTRXd0gwSURUMWRoTWhwWnlWUXZoelhfSzU1MG5hTzNsMXNpd0RGNzV2cDhwekxqZzl6QTAtSGtHVG5CZ0ZfMG9XV2xmdnlMaEVLcF8wRlRRaFdyVjBONnNWdkdBbHBlN3lncnp2aDJaYTZqdG9XX2w2N1BUd0Zvck1JeER5czRfMkNtZEgycHlR?oc=5",
-   "data": "2026-11-16T21:01:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "Apple",
-   "score": 6,
    "avisado": false
   }
  ]
