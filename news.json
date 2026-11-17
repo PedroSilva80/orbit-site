@@ -1,10 +1,76 @@
 {
- "atualizado": "2026-11-17T19:00:30.953Z",
+ "atualizado": "2026-11-17T19:30:25.337Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1bcbzbc",
+   "titulo": "Rockstar inclui mecânicas de empatia em ‘GTA 6’, uma novidade na série",
+   "fonte": "Rolling Stone Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ0dkYU05V04yWnlVMEFvR2IxTS1sV0tUUEFEVkp4SjJ2ZlRKTVNGNEdLcUhwVW9SeVVyWEZwS2cwSXREWGlyWXJ0MWNMakpfX00yekJtLTZ3MnNNRTJ0RjduVk1HVXJVcUcycTJ5SlM2OGE0a2E5czFEV2VJdE9IQW44RmM3XzZaTjVlVUp4NFhJZ1IzMUVtaVBicE42MlY5TU9CMmNDcXZGUQ?oc=5",
+   "data": "2026-11-17T19:21:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1i6ktv6",
+   "titulo": "Empresas brasileiras liberam funcionários para jogar GTA VI e mudam expediente no lançamento",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbWZCaFlIWkpnQjBnTkdhTUdKTjFNUWVSUkdDZGU4RmdmckFRZFA0c3NCVjYyYkdWd2swbE9GVjJESFRRZzNXaTQ1SEFDTmZ2bGFSRTFsamdIUzZHTUVwd0FIX3pnZVROaWFsUFp5VVY1ZTVtYmo3c0phV2NrOTJmMjdGczlOSmRzU2VnYm4yaXhpX21tRi1id3FTTHo4dTVmOXFkV0lIZ0tYUWZYYWNkbDJwdlBDcTdEVlZOd1FscEhZZW9yRzZKdHBITQ?oc=5",
+   "data": "2026-11-17T19:21:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1odjkix",
+   "titulo": "O que é o \"truque da Nova Zelândia\" para jogar GTA VI antes do lançamento no Brasil? Entenda",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5OQlJ1cEt6QUFKU3hwaFJNUXdWVnkwRUtoeWpJRlNuUmw1TTYyQ1NacGNJM0xLS0ZRYnNVaEdQME1KMGFoUjk2NC1XMDRlNGIzU0VNdUdDQlp5X1hEV1F2VG9rbWljQWxsY0JaWEJsbw?oc=5",
+   "data": "2026-11-17T19:14:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "ucw1w0",
+   "titulo": "Guerra interna pelo controle da Nvidia: o retorno de Jensen Huang como CEO está sobre a mesa",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxObGxwZ0RUNkVKZnJHOUZmTFZmSUR6b1JhZ3hSdXBEU0JVT1VRTHFIYldJS1lSdUV4V2U3M085WjBjb1ljbjhzbG5xREkxT1NpRzV3b2JfRWpnX0o2Q21mU2VEQWtQbk4wZDRxVm85UWp6TVZJUkZUR0lLZlltTE05YXBFSzhIVDBheVFSbG9BVjJvM0N4eWlYV3lhTF9qWWR3TDZqZFZ0V2JUa2FnLTBxVFpNQ0VxUTFhZC1iQ0treEJfNVZrYWJ3Y3ZuTmxtZ3dEVHdwejNpVGFvaVEwcnpQRTdna3VWMUpTM1FaazJVSjY1bnBzQzRObF9yNA?oc=5",
+   "data": "2026-11-17T19:09:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "2p2g2l",
+   "titulo": "Quem é Manni L. Perez? Conheça a atriz que interpreta Lucia em GTA VI",
+   "fonte": "Poltrona Nerd",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObGE1WGhTUUFuSEZrLXdpSVljaXpiV1BrOWRqT0g3NjZFaFVOdnV0WkxvNWFxR01VWEtoWkxWSjlIWHNySzdCSllWckptNWdoMXNDSGJjX2htMFNBdEM3V1lOTkNPS2hzcGxTRE1TSDE2OC1oempady1zUlhSUVd2c2pSdFNlcDNnUlR4M1JFYzZ3WndHQkc4bTdOakdVSU9tRmYxeHVYRktkejlWZ21z?oc=5",
+   "data": "2026-11-17T19:00:42.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "4g5mfg",
+   "titulo": "GTA 6 transforma estreia em evento — e mira US$ 3,25 bilhões na primeira semana",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMGhzR2VzczBQSnJCa2czWVFyNV9sOWtvTDBGWHhjb05yRzVZaEtjUjhFRUZDTFhOUDlFQm5fYzhLS29NSU4xcDZXb3pZTmhraEVDZDJjdUR4eGNoNGVuVVNndFVHREhCNHF3dUg1bXFlSjJEVXJObnExU0ZjSHdGZmw1c2d4SlFfMWxBZXp5djZXakZ2MVgwSl9VYk9HRk9jbkpvajA4T0NkTVNVWXhfNEh0YU3SAboBQVVfeXFMT1RlNmVOUW82M3E4bWNwM19DcklKZXBlaThkQlc4dk0yYnNTemtORUkyanZNWWtpaGExZk1lZmFTdlZaU3ppVWZ5aldRZWdqZ290U28taGc4YU4yNEZUMFN2cFVIcWFZTVJxd3FGOGtUWjVDaG5QVldGTUV6UGVDclFkR0VYd1ZzMm5icVVCdERhNVpVSmEzaGFray1ONlZaa1l4eExJVEM0dnJEcEkyeVJrVjFScU0zUHdn?oc=5",
+   "data": "2026-11-17T18:58:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
   {
    "id": "131q4hi",
    "titulo": "GTA VI domina as indicações ao The Game Awards mesmo antes do seu lançamento",
@@ -1013,6 +1079,17 @@
    "avisadoEm": 1794925128758
   },
   {
+   "id": "1ezofia",
+   "titulo": "Depois de 13 anos de espera, GTA VI finalmente chega aos consoles nesta quinta (19)",
+   "fonte": "Gazeta Carajás",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1lsNmhwUU42N3c3b2drUWk2emQ4QzZaZE1ZTXN0NVBhQVYtRjkzbzBubGdEQk42SmFjSzhuVTQwVllhZjFiQWo1N0lJWlhFWHpLN0Z2eE05cUxFOEsxOERRTUFTUUtjd1lTbEFfek1YWVBORklobjBOVDRyekRXTnBHbjk2T012NlhNY2tHSVpfSUtVSFFBSTUxdFZPNmlBS0dzcXFoQ3g0UjJieDg4RkhUR2VpSk9vQ0E?oc=5",
+   "data": "2026-11-17T13:13:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
    "id": "1vfljzk",
    "titulo": "Antes do GTA VI: Pai e filho criam jogo gratuito de mundo aberto que se passa no RS; veja como jogar",
    "fonte": "abc+",
@@ -1584,83 +1661,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "18f2x92",
-   "titulo": "GTA VI: o blockbuster que Hollywood não filmou",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMTdCRGVfQmg5bnhGSm5yTVN2aU1YRkwtdVQwOFhnOVh6eTZ1T2JPYS1YZkc0Mk5NNFRuOGJmSWgtbGx1ZnFBRXc4TVhINUgybEx6WENWN3o0SWtKanR4Rmt4a05wOVVLUUd1UHRKQnQtc1lhdUNDX1ZRWS1tVnhIVjNod0FjLTRkT1dOV1B1TkFnVEZKS1dORDJSSQ?oc=5",
-   "data": "2026-11-17T10:11:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "k7pgq6",
-   "titulo": "Bolsas globais recuam com pressão sobre chips e expectativa por balanço da Nvidia",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjZHY2dLMV9XUDhWQmpnc0RBM0pvZEpKNzhVMlJxZ01OVUZuNGNyV3UzWWhndnUzNk01NFpma2UtZ09RWVlZV3VMOGhDNVB4LWRoc252TUJMWjQ3THNneEd6RElqaklHb0VLVWZ5NDhrbldiS2dKWjh1dEFKMXliOGRSS0xzOUpFdXlVMzBHNkNsREJob2YwZWxNbWcyLWptX2FVaUVEbjdyRzczMWktcjJNeXBicXE2djdFbllOdHZlM3PSAdcBQVVfeXFMT05McDc5WHB6S0t5WHlrcVJsc3hKRk10UDA5QzJmSDBieFVKZFVaRldhM3ZnTVlqUWVrcFc5Z3NITG05SUlZQUJocmlFSFhZLU1NMVVncG5NY0RaUnBjb2otcllhLVplYkVPeHQzY3RVd3pNdU82UHZZQ1d3clVuenFxT0wxdmdMLVFnTEhwLTFDZXV2RGJBdHd4cS1reGNDaXJxN2FkWUVmOFRxZ2paS1FWdlJBZ1NnZGZfZ1RYN2xtakVwaEJVQkNjSF9wa3lSS1c5eXVmZFU?oc=5",
-   "data": "2026-11-17T10:07:28.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1ii92tr",
-   "titulo": "Após renúncia à NVIDIA, Jensen Huang ganha homenagem em Taiwan e declaração de Trump",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbzAyS096VjJYR3YwN0RtTUpnRUdBckVpdkZBSXdaWWVWVlJMeDI5RW55QW8yMzA0S1dWd3phMnY3SnF4dWFFVEVhNDRJOHcxSDNCSng4RWUxM2d0TjBpeXJybzNJQzhyUm84SXZncmk2cFF0UGhHWk4zZndwcGNrS0N2QXVRSncySFd2Q1FnSlQ4R1ZnS0QzMGRNeGZLZkZ3NnZCdm5IT1lKUkxlenc?oc=5",
-   "data": "2026-11-17T10:02:31.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "3us5t2",
-   "titulo": "Nvidia descarta retorno de Jensen Huang ao cargo de CEO após renúncia",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjNaZnRtcEoyazA3ZGQwV1Rfam5iUXcxdzkwdkE0azZ2ell0MXJoTDdKTHFiNkpMc2tKVUdQVTlzRXU0b3Y5UXVsanh0QTM4T1dMRXVoVGxTa3Z4eFFBeVNVTDhYMFZXWDNFY3JiZmtsUFJzWjNsVkNiU1dMNXNGY2ZlYm9aZjdSeE4yeXFrMWQ0Tk5STi1TdzV2LUNPWTlsVElNbmZMSk00YzRRWlhSQ2hzSHFTMUNORWZEQTNUcVc0VUxkZDU4V2dySmNlSDZHY0lDeVhjb3h3RVBo?oc=5",
-   "data": "2026-11-17T09:54:46.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "gvy8vt",
-   "titulo": "Antes do balanço da Nvidia: acesse ações com desconto e ferramentas com 55% off",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVoxV3VVSG1sS1NHVlZjU3Z3OGh2U3pRMDBaTF9pT2I3aUxxSFJHTW9pQnhleDRnN3NfaEhrVFhDS2NMTll6TG9aVEN1OGFUSGxYZ1RPRWFTOHExWFhIYUNLb3NRZjFCTmF2cUpCSmlySmZmWkNTTU9WRVlQTVdCdUkxRURST2VudWI1OTJyaVBGQl9kX3RnZnhSbDJ4blhIcnc1Tk9OY1ZNUVZVd1hBQS1BYkpWYXMxT19PVzBJUGFMbUJO?oc=5",
-   "data": "2026-11-17T09:51:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1ecu8dm",
-   "titulo": "Mega IPO da Anthropic desperta preocupações no mercado: repetirá a volatilidade das ações dos EUA da listagem da SpaceX?",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3VveHZSejNpaEgxU283cWdjMVppdUdXMVI5VGFKa0ZfR2EzRTZ4THZhMlYySzF4RmxzVUNpWWxBQWZwTzVVSHhFYVR6X2JsUnNCeURuN1FDUnozMVY1NDBUa2ZpaUNLYkk4czFaMzY5NlBCUE9ZNGRVcV9sZnZfdXJBYnhtNk9pX1BwQmpSanFDSjAxMzQyQWYxSzB0b0MyelZ3X05JNmNYM1F0R01LRTdCSHdWVzhnb2JIOEtLcU5sSlVIc1BUR29BcE1ycllzOWxSOTJZOUF5YnJud0V5TjRzTDU?oc=5",
-   "data": "2026-11-17T09:33:03.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "2qc1u9",
-   "titulo": "Nvidia testa mercado com balanço e transição de comando",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWlYc2hiWDU1NXBOQlFnRUE0VXJRaDR1M2dGbjNIRGVrazVzeDQ1RUhyOHRHSVRnOW9VOXNzN0tmRll2cnFXOF9xTTFZWHY1VG9FWGE1S1NYNG1EN3NKYWNaVUhNaFJ6RzJKeUNzc25TcnE5QllXUUx2WHlJOTlqUXpnMmZhbGFuN1dSbjVoUEdkamRYMnJxUURmdjc?oc=5",
-   "data": "2026-11-17T09:19:24.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
    "avisado": false
   }
  ]
