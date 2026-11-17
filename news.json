@@ -1,10 +1,21 @@
 {
- "atualizado": "2026-11-17T14:18:48.758Z",
+ "atualizado": "2026-11-17T14:30:28.310Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1faiscz",
+   "titulo": "Pacote fiscal de até R$ 60 bilhões e balanço da Nvidia concentram atenção do mercado",
+   "fonte": "Portal do Agronegócio",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQWFPSzlmb2lnSXlPRlpibnlKV3dvR2VrR3A4dTY5dWp1ako2bFU1SWJJejZUOWhmU0JFWkxQeC1JRkRQYlFmRkVoVW5TQ2w3OHBVeWR1WnUxUFlaWllzbTNxUFRJbmxMRFF1MGRUQ2NHOUpzVGQzUVhRY1ZiVl9SeFJZOUpoUTBYZE5scERlc1VpSEVlWHRLNlNhZ2pzRkNSeXR5a2U3YWhlVnZ6Nk01YjVzTnp5cVRFX2ZDQ3JRU1BDOUgyWVBhN0JZclo5bUlWS2hRRlJqdlZ4bGFkTDVXcW5MeG4zME9hb3R2RVBCQTI?oc=5",
+   "data": "2026-11-17T14:15:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
   {
    "id": "1dkxkl2",
    "titulo": "Meta leva multa bilionária por acessar fotos de usuários",
@@ -77,6 +88,17 @@
    "fonte": "arkade.com.br",
    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSlQ4R0VsQV9DWGtwU2p6RkFpeENCcnBneS0ybjd2T0hUQ2cwelZyUHJhNjEwaDFlMFRiRWdvc3VwbVZ5QUdKcndzbC1TbjlpWjE4MGdSMnNpQzdZaldSN1RpT1VkYzF0R3Nra1JhVkdQQUg1VkduMjQwUnBva1N5NnNRWkVHajM4bnp6aFFKdGdsY0xEZ0NCeWxXaWctbDJ0MWVQQlJ5UnNxakdYMEc1ZHgxdjRrNjFEbzhQaG9aWXU2NWlVbV9DekJPUHVSTVdPZlZYanpB?oc=5",
    "data": "2026-11-17T14:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "fn4j8n",
+   "titulo": "ESET alerta para ficheiros maliciosos que se fazem passar por \"GTA VI\"",
+   "fonte": "Notícias ao Minuto",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeTFQaDNnTFNVSHJtS0xlNVFQQ2ZlblpnVTZoMVoxVk12Zk9pSExMSTZVM2xnWXBDbEJNYkdrMk1mOHB2b1N0LVktdFFJQTdoWWdBeW84NWtPb3lpU3dfTTE5SC02WXk5WHJMOHJ6MGNMS0lmaFJWMGI2SmpLRVpBSG54VllWWTUwLTR6ZldNSkNPc0J4N05pcmR1WHpKV1VHT1FSRy15cTZtZmJ6NExYU2hLX0Q?oc=5",
+   "data": "2026-11-17T13:58:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -368,6 +390,17 @@
    "cat": "Resultado",
    "empresa": "Ibovespa",
    "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1l9tqbd",
+   "titulo": "O dilema do IPO da Anthropic",
+   "fonte": "O Brasilianista",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVVkwbjBsSkhpOXdMU0Rfb2dlR09EQ2ZGclhENUNRS3JTSHRRazFweWlIRHBsVHBEb2w0SER0UkhlYjJLWUtfczFNbTEwZUQ0T0syRWk5Y0JsZzFOZlZnT3NmeWFHQjlRTkZ4dWRvZ0lHMWZEMXFXMU9LNmc4a1U?oc=5",
+   "data": "2026-11-17T12:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -1625,39 +1658,6 @@
    "fonte": "StartSe",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcWtmS1YyOThpWXBBNm1KM2VwWjlnUDlOYmYzYW1rQmwyMkp2bmRVT0tPNXVFOWVFWDlyeWg1elp1aVJMZHJUMloyT0Njd1ZvN3c1aU1HYkMyQmtzM2d2dGs1MDJfNzg5bjRDd0dqQm1yRnI4OFBHMEVjUQ?oc=5",
    "data": "2026-11-16T19:34:15.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1s87fo3",
-   "titulo": "IPO: Eyes On Anthropic, Cheaper Go-Public Names Today, Technical Support (NYSEARCA:IPO)",
-   "fonte": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjhodVdHT2kzdVNIU3dwUTFuYWdNcmpLeDhMeW5paF8wa0JWME5lcDBveS1QVUFZRkRmZ2k0U0pJUnNsbUhMYjhLcURLbDhjNlVNQjM3VlR6VDFzRko3SzNjVnEyazVMaGdUVmo0c0VxaDBhZ2FWSW5RNFpkNGh0dzNBWC1OWlowMklhSmVnNGpkNUszWDFzdUc4M2phZ3ZzUTRrN0tHT0luSVpMWmtj?oc=5",
-   "data": "2026-11-16T19:31:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "152ef0a",
-   "titulo": "GTA VI Hacker Pleads Guilty To 2022 Rockstar Games Breach",
-   "fonte": "Aftermath",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8zcEkzb0QyS3Z4Mkhuc0paSDIyblp3X0xId1NqZ2pFNGM0SnVVOVVmaURJVDIyWmdlbmxBS21ncW1tTEFDYXVTRGpXY1E5aHl5R2xWY0lqS0N4TFBnRUJJWExrbnhLZw?oc=5",
-   "data": "2026-11-16T19:30:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "tuao8z",
-   "titulo": "Traders are pricing Anthropic 40% higher ahead of IPO",
-   "fonte": "TheStreet",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRGRFQ1FaTkdUa1lycERoU1BEM2xYNk9MQmxTWlpIVFpBU1pCTlhNX09BcWpvMVJLX1BlYnA4ajdTbmYtMlF1TTZnVWd3aXd6RjJkSnEzOHdvTnlUbEdDNy1EdXJxbVN1N09NeE96U1YxMmx6b182Sk1PckxYYm1CQ25xMEY4d0hMemRuWnRhY0dmbDdPQmtzMlIzOTVqcjEzaV94a0V0ZEZFVDlNU0E?oc=5",
-   "data": "2026-11-16T19:15:28.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
