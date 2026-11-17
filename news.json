@@ -1,10 +1,32 @@
 {
- "atualizado": "2026-11-17T13:30:35.082Z",
+ "atualizado": "2026-11-17T14:00:30.907Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1mwprno",
+   "titulo": "Com custo bilionário, GTA VI supera Hollywood como maior lançamento do ano",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTZ2R0VrN0c5NVBkTHFpMGliR3Z6Z0dSc0xMSlo3SDFEa3oyaVFTUUx1bkNJYnQ1S3ZLMlBVZDJVbTgtSjNqZFlJMmdpYi1oc2xWNjFyWE1OQXQzalZ5QUpJTFd2Y2kwYXFvV0ItLTVPV0dmRi1GTXVNM3BxR24zMDlMeFU0ZFJEUGN5U0hZRTZrMlNVaXg4RzVibjQwUmFYMFVvU1d6V3VxTWhRcjd4N0EtQTBQc0trWW1hNG9oTjVaMnhMd1E?oc=5",
+   "data": "2026-11-17T13:39:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1wsvsco",
+   "titulo": "Primeiro balanço pós-affair contamina expectativa de longo prazo para Nvidia",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU05rOS1KRXE3d1lTNjJWVnJoQWJJMVZoU1BNUTFJN0t6ODNpTlRrYndFNVU0MDg5WURTT0VYVlZYcF9uT1lnLV9IcVpVTmt2UmlhZU14SnlkbmFUU3d6MlpRTG9lSk5FM0Q0VkZlemxGU0F3eG56bWNqVHRyZi1fZG5MZmNaWm9veXpHRXk0UWpBaDNCVUxkcFZVTEsyMjFkQ2ZoWHRELUJXcUs2YktIekFn?oc=5",
+   "data": "2026-11-17T13:23:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
   {
    "id": "vsaplb",
    "titulo": "A queda no lucro do Banco do Brasil e o aumento da inadimplência no agronegócio revelam riscos que nem sempre chegam primeiro ao Judiciário. O advogado e administrador judicial Flávio Cardoso analisa, em artigo publicado nesta terça-feira (17), os de",
@@ -345,7 +367,8 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 10,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794924030907
   },
   {
    "id": "1fm88ok",
@@ -1638,29 +1661,6 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "xijiex",
-   "titulo": "Quais podem ser os próximos IPOs na B3?",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVU9zSUxUU3NEdmdMamxSQTBkUHhVRmJEMnRtc3RQZlpPM2ppam5XWHdXRVBGUjRTcnl6MnlVUzRsN2lmcW5VQndsdnFJNk1XRUtURnVWNjZxRVg1RTlVRUowYU10NXRsVi1ydTB4aHlaV3lRWWpKZXZDc2RjTm1NT0lub1M0YTFxSlc3TEREcmHSAZABQVVfeXFMT1VPc0lMVFNzRHZnTGpsUkEwZFB4VUZiRDJ0bXN0UGZaTzNqaWpuV1h3V0VQRlI0U3J5ejJ5VVM0bDdpZnFuVUJ3bHZxSTZNV0VLVEZ1VjY2cUVYNUU5VUVKMGFNdDV0bFYtcnUweGh5Wld5UVlqSmV2Q3NkY05tTU9Jbm9TNGExcUpXN0xERHJh?oc=5",
-   "data": "2026-11-16T18:12:27.000Z",
-   "cat": "IPO",
-   "empresa": "B3",
-   "score": 9,
-   "avisado": true,
-   "avisadoEm": 1794875427664
-  },
-  {
-   "id": "fsw8dl",
-   "titulo": "Nasdaq Slides as Nvidia Turmoil, Anthropic IPO Loom Large",
-   "fonte": "HDFC Sky",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQbWNPNVczZlRzT3RRV2ZQWnJCMnhjLXFxaXpIaDZON1NqRFEyZ0g5ZElRVDR1Q3E0ODVSb05SVTVWMk91YUFMWEVmbHBaVnpRcGdCanZFbDdGTGFFcklFU3RvRkZtM1JkOWU0NmV2TDc2QjBsbnJlMUZabkt1OVBVb2Y3TUxpVzM0WFRXRnQ1RGN1NGJheTk2MXhfUWhPakVSdVhKeXMwTU9rdDY4emg0Z0ZpMkxxdElBQk5fUmMyTUkzcmZmanoxaTVLSnRTNVV6Tm9MOHRKQ3ZZbjhPbGREbA?oc=5",
-   "data": "2026-11-16T18:05:19.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
    "avisado": false
   }
  ]
