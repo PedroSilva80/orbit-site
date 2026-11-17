@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T23:00:33.776Z",
+ "atualizado": "2026-11-17T23:30:30.960Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "vgbe0h",
+   "titulo": "NBA 2K27 ganha versão Vice City em colaboração com GTA 6",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZHF3a3B5WVplVG9QbFV3QUFRSjlNdFRIX090d3Nwc1l1NWZ5dmJ2MFdTWGxyLWR3TEZlMFpKQW1td2s3a2dvbUtJanpWdUFlMzlBOFFpT2R2UnpQTE81TWJzZDYtdWRvYWtBTmxxcExzcXIxTnZmRFpaMVdPTUJoYUdXekNRMHdhZ3A1azllVGFybVdjdFFXbEdCUGRidGtV0gGmAUFVX3lxTFB4VjNGMnJDRlA3MjJfU3E0bXJydmtfazZDU2JRM2lxZUd6U1RFSlFEdy1ZZnhKTnB3MncyVFRBVFU3UHhENTZjOFdsdmo3UjllejBoc2psc3dRQU9wdmxXUjBYQzBiUDZlRjQta213R3FxSndMdHVlS3pfNkQ0Z1RzUEFuZVgtTFZJMXF3VlNfYlkzXzFLY0h0dFIyMVpNOEl2LVB1LWc?oc=5",
+   "data": "2026-11-17T23:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1pqv5ax",
+   "titulo": "Nvidia supera previsões do mercado e descarta volta de ex-CEO",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sRWlIemdDRlNlZWJiM01CZWcyWnhrMHJZSmdjenRKZV9ocFg3d2trN0gxV3FxUzNTb3I1SGVkVEEyUklKT3B6aUwxQzJkSUw5STlUbTh1NTlpd1RfTG9WdElR?oc=5",
+   "data": "2026-11-17T23:05:17.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "io6js9",
+   "titulo": "Nvidia descarta retorno de Huang e diz buscar 'novo CEO' sem pressa, até que 'se encontre a pessoa certa'",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNNDRqWFYzOFVtb21MUktmUDdMNnZmUkxNM3VteGZTOWJoeHJqY0xEOS1QeUpwcGVDMEQ2emt1d0RRQnVUTG9xTDVuWWdzTGpNYTB0RjBfTG1lNEdoUDg3YVd4TEFGWk14Qm9VSERaX2hXWTFHNDg5ZV9ESGlqaWcwODFuLWxQdk0tVWgzZzlqaGl4WjhVLTI1THhHekFTN3hqdlRheFB5UlpuUkVyN1RDM1hDVldfQnc0UVlkQmlpR0ZoRnhBbzNTTmlxNHlBa2xJbEFtUjIwVzc5NFp6b1ZPQkxjemlCX0oyaFVUVzk1Sk5mZF9tYzFfbUFqN2IyQlHSAY4CQVVfeXFMTnkzekxwZGJHUlJ3aUdheGhySHZSdjRLWjRzcjJNVno1TEF5OE1TZXk5Y3JJLVBtTm1wN0UtNTNnbVZWQ1Vyc1U3QkRONEp6UzhfSmdOM25ZeU1hWm5neW16N2tYTTNtYV9XT1pOdlFIaHc4a3VDTmN2UDUydmRGbDhPam5jeVp6dnhlaXRNc1o3ZFJ6c3hkZHdFWTV0c0twSENXeG54cUsxczZKZHNMd1cwaVFSc2NqeUE0TDAyeW10ZWFXSlNIWTlKdm80Qi1jSnN6SF9tcktJSkYzWnNCYzd6dTAxQ3RxVFBaVm9DeDl3a1h1c19WODY3NEVGTi1OdUFWUUhWV1hvblhTZ09B?oc=5",
+   "data": "2026-11-17T22:55:39.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1bqucuj",
+   "titulo": "AGORA! GTA VI RECEBE ATUALIZAÇÃO GRÁFICA SURPRESA NO XBOX E MICROSOFT VOLTA AO BRASIL!",
+   "fonte": "Xboxers",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaGdPYU8zenZMWXpzSW50YWpuT2ViMDZYVFR6RnNkZWpKX3M0eGtjd0dzM3pjb0lFUkJtSVlqek8xdVo2X01zR3JiX3g3NGo2OVd6c2c5dEczVW5Wd0pZalBZU3pKWjNZU3pOcFZkSjR0c250d1hrVHZHYzJvRUtSTEs0bjFFbFgzdUhGVmE2aDRLUHZMWnNWTXZnODhYMFRvZURKYjZ6UjJibVlN?oc=5",
+   "data": "2026-11-17T22:54:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tzaf8k",
    "titulo": "Lucro da Nvidia cresce 104% no 3º trimestre de 2026",
@@ -318,6 +366,18 @@
    "avisado": false
   },
   {
+   "id": "av0il9",
+   "titulo": "Entidades do agro questionam gestão do Banco do Brasil após queda no lucro",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUR0Q1lDSEdVTFVaNGZYN0hQYklJMEM1MkU0WlBWWEUxUVlwNUxYdmxmQS1IS1ZqVVRPdDJ4d0VZNUxPNUVHX3pJdjBhb2ZseW96SVp2YksyN0I2amVVeDV1MnVkVFp6WUpBdFdXQmF5aFdZMUQ0Z0dYVzZEU1pYZ1lJdzBobFpQbE1MWlA4eEptZW01LTd6QnVIVXl1X3c0OVdpekhLNXpLVG5zUEJNdkZFWDB2Yk9SVzRPanhxVdIBxAFBVV95cUxPa0IzTkVybnV6OFFXNzhlTVNoODdVZmlEd2YxWDc3VFdpWUNXLUFyT3l5WVJ5cjB6VzBfdkJHTDBockRjakM1RmVPUkdxZjcxT2JJd0hOcDV3OXNHVUtwYURoUXFUWHJfYzNOZEJCeEk2RDBWYlBITVdSeU5DaVRjWnV5U3BxTTZPQVc1cWJDYmFtTFltQ1lEUlhrNE1adWx1dGhTaGtvWTY3R3NHZC14b2Q1a2NvTHQ2aHlsdjJPOVRsTXRT?oc=5",
+   "data": "2026-11-17T21:07:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "p680gc",
    "titulo": "Petição pelo retorno de Jensen Huang à Nvidia reúne mais de 180 mil assinaturas",
    "fonte": "REDE BRASIL DE TELEVISÃO",
@@ -398,6 +458,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vnkxaa",
+   "titulo": "Resultados trimestrais da Nvidia superam estimativas",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOXZhRE51bXljNWY1UDR3VFg1UXJ0UWdUejlGWnRoZS1YSnZDNlFzWUY1UmlYNENlc0ZSbXk0WjR5U29lNC1XZUlFejZIQWpUZzRsV053bnhkR0NBX3ZRc3M5YUl2SERWSVRYMjg1MVduVGNPOW9rOUpXWlVWSzRpbmNqTEdCQ1FnSDhQdVhZczJycll4MzhvaFk0NFNVOFZ2?oc=5",
+   "data": "2026-11-17T20:47:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1704,6 +1776,18 @@
    "marco": false
   },
   {
+   "id": "1gbq1wp",
+   "titulo": "Anthropic pode elevar a faixa de preço de seu IPO",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTRZTV9PYUJYbFp4OG5MT2N5dHA4bG5NVlJyMDZEa0xtUkU4UTZlX2tOVnJPR00weGZjVUdFWHFIbWx6bW9jczMwU1Z1cnFpTWlGOE1kb2RhVkFlTk5rYzhrd3VoeGJxTlJMQ3BKZlVrWFZPMExLVWI4MUdlQkp3RExDQjE0UHJKNVE?oc=5",
+   "data": "2026-11-17T14:51:31.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "qgcu59",
    "titulo": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
    "fonte": "Money Times",
@@ -1762,90 +1846,6 @@
    "score": 8,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "myl9do",
-   "titulo": "Clima hiper-realista em GTA 6: Rockstar faz parceria com canal meteorológico e revela tempestades em Leonida",
-   "fonte": "gamerpoint.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblh4dlRpcjhJeUxHQVR5dUNRb2llNGlNWnFhNEd6WXhBbVF6ZWo3UEMyN1NYa1k2TFhidGg0Q1lnd0JwakwxN29jSkI3LUJMMGlSNVhKTERfWDRJdmhaNFJwYzlnRHhxRkk2b1F3Sl9pTHFrc2Y4NTA1QnktOThLX3ozemtVUnloNjBnR2FWN0kyV2xOVnpmTG1xcG52NWw2STNXM21DUGJ6dGhHRFlKRVdnWjF5U0doMkM3cHFUQkZHNDdCNWlBSjI4SUFKSWZvMnF5elJlYUFKM2FjMHZ3Rw?oc=5",
-   "data": "2026-11-17T14:42:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1cdy9ew",
-   "titulo": "A traição mais cara da história? O ex-CEO da Nvidia e o preço da crise",
-   "fonte": "JOTA Info",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONS1ucFJtcEJqaVV0bUxaVHpxQ21yYzdzOUVGRXNpcmZPTXFGT01neXBQU25QaEVjNG1VOWZhaE5zQ2hzTzhjNzBnMWk1bC16LVZGN2o5QlN1bUJRVHJTY09MLTVNUDFldnc3NWNQMTJkRVZXRlZGMU5yMm9nUTVsNFphYWVMd3NpcExDbEpGQTVaTkg1V0F1MUdfUkN1eDgtTmlDNnFlcEdoMkRqMXQ5RXkyOERGRGNX?oc=5",
-   "data": "2026-11-17T14:42:58.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1tz4lqy",
-   "titulo": "Bolsas de NY abrem sem direção única à espera de Nvidia e de olho em petróleo",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUxsekQzdnc2bnY2TUMyVklkZURIRElRWmhsN2EzZUtMM3h2ZnlFVEUzYzNCdDJsQWpKRi1fSFZmNVJWajN3eUhKUk5xdmlPbTdtYl9sazhFeW0wamNSbU1vbXV1YkJnVGI0WGJxVXVweDgtbWlvaExKTmJuSlR2LWNtcjBfbUtJdnh3bDhUem4wZ0FuY00zMDNrQWhwNDlZZ2NVWmhKNkg3Y2tEQUxaWUlSLTlUNU0zWVAyTWtxWGR6M016RVl2MGZiUEZTSHRZRFAyMVVEVkhLNms4VjhB?oc=5",
-   "data": "2026-11-17T14:39:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "tqbeeo",
-   "titulo": "Lucro da Disney com parques e cruzeiros cresce 20% e chega a US$ 2,25 bilhões",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVGJFWHFxMjBMY3BXWk95dVd0VFZXTnNtUkZvc2trSEROTW0xNU5kc0ZaeUc0akJLYnNHWUZSclkwcmd4UDFtN1dyVFJhSmJhSEUzY3N6RVVfbmV0S0pDQjcxWEFjMnh1QWdYVS1DVmpQR1FucWZaaUMybEJFZk5Ba1RpcWFhTzNVUTM2MkVoQjAtSmZBdDVIaENfS2g1d0I2V0lwMEFIR0xEa0I3V29zMlVlQzlMclZsTjdDNmRzOUZIbm1aVXluaGRyQ1dnQmxqUGs2TFFEbzEyNGNKcFBxendFSQ?oc=5",
-   "data": "2026-11-17T14:34:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jy4pt5",
-   "titulo": "Bitcoin hoje: preço ronda US$ 64.500 sob pressão do Fed e Nvidia",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdG9DR19DSDFqTzNVQkttQUJJdk5lMDNidDh2NlhDRWNrUHVab1Z5UTlpNEY0cklZNW8wWEJ4d0k2T0lFMDNjQmM1c3NQOTkzS3JPbkpyN08wM3h3ZGZPUG9INVRicm9jcHRUd0hMVUJnX2Z4c0xlOHFWekZ6ZUVmRVV4cGg2Ry1uVlU5czlVSndEdw?oc=5",
-   "data": "2026-11-17T14:29:52.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "5cxj88",
-   "titulo": "Meta lança aplicativo de compra e venda de usados no Brasil e amplia disputa com Enjoei",
-   "fonte": "Money Report",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUtBU3NYbUdMeFdDNDVvQ0p2Xy1vU3ozdHRTcTlwLXRYQktsb2VMM2tPd2k0N1E2bHJiQXNBN2V2d21ld3dkZjJCTGlQdmZUbE5fMlZIVEJPOC1lQTZCNG10MW9UVEI1a1NwMUsxU2ZLTkwtbmVsVUxvZGhMZy1uVHBfLVJEbFFaMW1JNlhBSDVSZzU4OXZ2YkJRRldKT0d1TDk2NWdwbGQ0bDJuRGpLNGNJbkRQQ3hyaHJ2aDFzU1RnZnAwUGM0?oc=5",
-   "data": "2026-11-17T14:19:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10p5ajf",
-   "titulo": "Lançamento de GTA VI: Chuva de Meteoros Leónidas vai tirar a Terra do eixo!",
-   "fonte": "Revista Algomais",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajdiVUphakszSVBhRlBOSmdPWHh3aEo3SFVHOEVZd1Y4Sld0cmJrcF9COFM0dFJqOV9hTHljVkpkRlk4b1o0N0dyR2o5X3ZlbXpjWThDZVBDSVhCejZvdEIydWdRbGpmNEpYOGk2SXJpVWI4eDVUSXlrcE53ejVkSmRDWXRiQzczSmJhY2tzSWtiWER2OVVHTEl3OA?oc=5",
-   "data": "2026-11-17T14:19:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
