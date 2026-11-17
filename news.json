@@ -1,10 +1,87 @@
 {
- "atualizado": "2026-11-17T12:30:28.461Z",
+ "atualizado": "2026-11-17T13:00:30.115Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "kxfq28",
+   "titulo": "Parceira da Nvidia é alvo de investigação criminal dos EUA por suspeita de desvio de chips",
+   "fonte": "Rádio Metrópole",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTmhNSy1aTmtBY3c3TGh0b2UzMHdqelVkd2wtckZ4MGZTdnBuTlhSbE01RDRVMTgzaEJzVVlXMXRJaVZxN3B0YmRrQUV0azZBRTVjSlB6XzlCeXhPelZyUkQxVGRDb1lEMXN6aDlUZF80a21YdEZpNGpyU0pWV1R5YnBpTGQwSkkwRE9GR21sS3JiNFhGUkR1NVgxeUppdXEtRnZ2cTg4SWtnY3ZqLTBmVHNSSDZlU3dhMmhkRFhnT1VZRy16TXo4U2wyX1F3MzdUel9sUnZoZ1lqTnR5RUlF?oc=5",
+   "data": "2026-11-17T12:43:38.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "an02py",
+   "titulo": "Nvidia divulga balanço sob pressão após perder US$ 735 bilhões em meio à crise no setor de IA",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjF6RzZ4QUJ1aXNad3l6YTZ5ZjhIM3cxRGFIVjZkYm5YNklrN2dpdlduSzNlVzdoLWdDcWw4MGZEX25zczgzRDZjbzJJSXdJVXNoN0RLQ0NIQ0szYVRTMmRvT1FYTWdYSV8yYW4weWlVSmVVZW1VeGx1bDZ5b3UtbWZVVEZVcHY2QUFGem8xaFIwZm0xb21mZ0hYa0stXzlnVnZEYkx1ME5VUm5HSlh6NUFvM0xWbjRZZTdCcUhKUzFOUDdMMHV4WGdhTE0zVnktdzlmUTNVWQ?oc=5",
+   "data": "2026-11-17T12:43:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "z6y8l8",
+   "titulo": "【Pré-mercado dos EUA】Nvidia sobe quase 1% antes de balanço após o fechamento enquanto EUA endurecem restrições ao acesso remoto a chips de IA",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEkyT3lFcFktVm43XzcxM29KMGN5OG1ycVhJalpTeW9XU2o1VUd2ZXhleDNKVXZ3NXN6MWZKcTB4MFpjRFRxRjFIeFRUbUZmMVBkUG5MVEdoVmNoMmlWX3RmR2lVY2YwLW1UMkpybGU2ZDhDTm9yWkExbGFSMW5rVXg3N3BRTExMNjctNktQMjh5ZzNwQ1lONmQxUGpkLXNTUUxvN1poQUVsTHBKYU1OcVJDN2dnZDBqaGFuLVFMMkxhU3JXZ1E?oc=5",
+   "data": "2026-11-17T12:40:10.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1j0dvx7",
+   "titulo": "Horário, console e onde sai antes: tudo sobre o GTA VI",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xWFMxSGJ4ZmhWRGFfRkt6ejZCUW1wbG1UT3ZPbkM5VmhDMmFGSGprTnNnNHVJajVUaEgtVzVEU1pJT1RhbjdGYVRnNlRqTlRJUjQxZ2I3a3RXdV8xeHVrSF9Pb2VyYlk?oc=5",
+   "data": "2026-11-17T12:36:38.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1b4u3lj",
+   "titulo": "Mercados hoje: pacote fiscal no Brasil e balanço da Nvidia são destaques",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNalo0cmF5aDRYV20wU0JrTjNxcDBJUmdVdlRRZlZBSllXdU1pSldUYkFUbVZYVk1fNDFMaGcxN3VoZlNTWmxGemNDNFBLVmtDWG43Tk9kVG5FdEJyTWJCakVEWW5XSnpOQ0lpUGdPM3BpdWJTZS1JVGdyT0pvRUhXU0hrZWl3RmhvdXZFS2JWMUlpWHdFNWRaQ1NUZXgza3FBSlRXczJFWmtkUEVFaDRCdXBPZ0xYbGVvTUlMcA?oc=5",
+   "data": "2026-11-17T12:35:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1v31tfq",
+   "titulo": "GTA 6 impressiona com sistema climático e Rockstar revela novas imagens",
+   "fonte": "Hardware.com.br",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10YTgteHdZODktSjgxU2pwMDZUZmxwMWFNZkRIUkdUTDdac1hIOU1GR245Q29EY04xY2hxMFJvd012aF9SQ1RYQ29ZcDZqenZJdWRaY1lNTWRXaGVFM1R1YTZPTXNONlFpN2NwTEdRNzI2ZHJ5ZXc?oc=5",
+   "data": "2026-11-17T12:34:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "q07odk",
+   "titulo": "IAgora?: IPO da Anthropic e encontro Trump-Xi: por que a semana é decisiva para a IA",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLUFHX3hnSGJlVElKeUFWUS1fMmdqQ2hCR3A5d0pXUWVsR3puU09TSUo5WVk1VGg5ekt3YkJXWVZONVB5Q3hGeDlWYnU3UjhCTzg4Z2ZWSWJ3cmxJXzRXZjhwTXlvMHJPa0lrb2k3MXdfWWRtcWVvc0hoQjRhNmdIamVSdm90ZEJUaXJGb3BqdVZtMS0zc1lUV0llc01tWERzNGFtZ2Q0ODVpMW8wXzFCMUpjUTFkd2RKQnRMdHNSNW5QTkYtS1hOTlY3Y0JXQQ?oc=5",
+   "data": "2026-11-17T12:30:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "1how16c",
    "titulo": "Chão cedeu nos 169k: Ibovespa despenca ou segura o tombo hoje?",
@@ -245,6 +322,17 @@
    "cat": "Resultado",
    "empresa": "",
    "score": 4,
+   "avisado": false
+  },
+  {
+   "id": "18rvl67",
+   "titulo": "Preço do Bitcoin cai por IPO da Anthropic? Vaneck prevê baixa em dezembro",
+   "fonte": "Bitcoin News",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSDVGVFIzY3pxZVpRYzY0a1dqNF9pRzZDUEpFZVdzQ1pEZDVzYUtKVWVyUzRpRjE0UGFRR3dtYkx1N1Y5WDFmVG90Skd5WXZaR1FHNk9PWDRZQXBHT3paLTZwT09WRXpoeU9fTGxVU0M3N0YyQmtUZG9icl93RGZURWhfdWJTYWgxN29aS2VFanBGdjV5VkRfeE5ieTBub05xWTM1Z1duMWNPelBvSjlqckx5OXRVcXNQLU0w?oc=5",
+   "data": "2026-11-17T10:57:53.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -498,6 +586,17 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1f3qosp",
+   "titulo": "IPO da Anthropic: faixa esperada de US$ 70 a US$ 78",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWHg5U1BmNGtyX3NDU0lKeENDa3BoSUtBX3R3T1J6OU1HOE9WNi1reVNsV19Nc0lLWndrMkR5ajBzMjRqaXJFMm1xczQtTFRXUW80bHM4NHNqNlFSNVNzNnR5Z1V5ZUlhWEx0YVAwd1U4MkQ4VVFaWm9QQktvVHd6S3pCbFRWNGNTaERNckZlQ3FOdGE4M2k5RVlR?oc=5",
+   "data": "2026-11-17T08:44:33.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -1562,105 +1661,6 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "13rromn",
-   "titulo": "Ações da Nvidia caem antes de divulgação de balanço, e Wall Street recua",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWG1fZ1pndU8xR3pvQ0Fia0M5VWJmWkIzRWhTOVpWeWlZaUJIaktmRVFwaU1SU3pJSjdERFdGbUkxbDBsYnNSWmdtNXVlMWN6T2lNVE5mVnZmS1hCYlhQWnBWQVZfWUZDaWJ4cmhMdnVLeHllMERULUVlNlF3R1Z4RktRQ3hSVFFiNVkzUGNWMllzSTE2TllsZl91R1o1WkUzWC1LclRUb2VtODVENU04V28zbmFEbU9UV2c?oc=5",
-   "data": "2026-11-16T17:25:59.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "92ixd1",
-   "titulo": "Dólar dispara quase 2% e bate R$ 5,77; Ibovespa cai com dúvidas sobre pacote fiscal e prévia do PIB",
-   "fonte": "Jornal Pagina 12",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPcGFSRGtMM0NiZGw0VlNCY2l6cW8zM3B5YjM2QVVRX2NheE5SYTVXeHItUm1EOWZNOWgtWjh3cFF0OVQ3R0lRZDVqeFNJRmNTaDZQMjVEMXdBYTNJMHc2c2pFd09QWU9hY2JBZmMtb2Y1QUgycFZDR1MyOVA3VWFTWjR3YmV2YS16NDBoT2FIdGw2MnNyWnN6M0w0X3hyaDJrXzlqTzNCdDU5NUNKOHpWWWU2SGE5eVloRDFCbzhTeEFTOE5GWVZRbGJjVHVNVU5vUF9zcEgzbEI4WF9pTGJXNUdsdldTeTVlQ1FEXw?oc=5",
-   "data": "2026-11-16T17:22:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "6yz2do",
-   "titulo": "Dólar dispara e Ibovespa recua em meio a incertezas sobre pacote fiscal",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNblRhYm1qYy1JYUJyaHlQdndkYW0waEpmS3JJR0Rkekh2bU5kOW05MEoyTF96ZHg2M0drQTYtckd6OXBxajFRMjNlVE50R2R5UFBXMHNJR3ZfTXJmRlJSNVB5RXFzUWp0WUpLRndIUGN4QW52a093WDZDVTJPbjBtOGg4bWxrY1d0ZXRPMllaeERha09pOXVXT1pwUTBaVG1QMXR6MFpHWUtDcWJKQzFiRjJ6N05rcW9Pek95dXhYdGZJdE5BWHfSAdQBQVVfeXFMTno2SThSZDB1Rk4xRjZtS0dmTmNQRVlSY2NKakpPcVM3NzlCMFA2bUg4V0hxcE82c1Q4V1dyMkdMUTF1SXJiREZJVVdhOWx2VThjTUluUE5aRnVyVWFaNHFfamhaank4UUMyOVhsdGRWeUxqZzhVblI0R0V2b1A0WUxPcTJ0VTFuTlB0OU1odElkTmppaWllWU9QQTRvMDVkckEybktKM3hSc094N2oxMGluS0E0Sjl2ell3RTNpTTVxY3U3bzZFRjdJMWpreXF0VlZpS2s?oc=5",
-   "data": "2026-11-16T17:18:47.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "wp5fk3",
-   "titulo": "Dólar dispara para R$ 5,76 e Ibovespa recua com incertezas fiscais e prévia do PIB",
-   "fonte": "O Imparcial",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQcXdWRE5CV1RDd28yUHBCNXZVa056WnJkeWJLbXpheVZ2aWpxa0F3YmhTUlA4WVBNYTRBWk5qTmtsVEVoNVpZYWdDcERGSWJGQ1M4NDItS0FIdnc1VmtjbHFreEFCNUJVdHkzd3FhT0ZTX3FySFVPMkxKal9IV0ttX0duSEM4SjNvdWI2WWJiVzdsUTFSLTNDbnVnWEhpUmNDZ2daMDdjWHE5T296dGQ4V0t0WnUzNmVFQWlhb3BCRk9QZw?oc=5",
-   "data": "2026-11-16T17:17:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "lw615o",
-   "titulo": "Musk Backs Tesla-SpaceX Merger, but 0 Terms Are Set",
-   "fonte": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1M0b2xqTUI0SmRwb09DNTNqbTRqV1laVHdZbmZocTlFM29tMkdsd2Jia1o2UzlhTkIwNVJJRXVpLVJaQjd2YlhkbXhBRk9nRi1OQlRKVElseko1WHJnR2l5SUVBdTZPWlZESWl0T204eDd3X2tmZ25ESFlSaTROUldXWTBsbDZzRW9fNGh6UQ?oc=5",
-   "data": "2026-11-16T17:14:28.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1y93lc1",
-   "titulo": "CARAMBA! GTA VI FEZ O XBOX ALUGAR UM TRIPLEX NA CABEÇA DA INTERNET!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOM1RuWmg4aVFGaElldjg1bzlEX3l1Z3VTSkxwN1VIbjlJZGt2amFiRXBKMlJId29OenRGdnh3a3JfNmIxMEVRZXpaQTJYSzBaWDJENzQzRjdLUVYwRFl4c2s2blU3ZzFyZ3ZRU05oUFJqX2FzM1pVZ0RfRW16TlhiRURsWXdGb3BQRVFYTnFXZGR5R2s?oc=5",
-   "data": "2026-11-16T17:01:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "z3u5f6",
-   "titulo": "Prio e ExxonMobil arrematam últimos lotes do 10º Leilão Spot de Petróleo da União no Campo de Búzios",
-   "fonte": "Cenário Energia",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxON1JuU3NhSW5rTTFWLXE5cThjYlNxbkdkbFF3bVZIcTRNQkdKRXZ5MmhnTjVDaGhnQVF6clAtbnNiV0tYNkxoVjJnbkRJYUEzalhhWFY2SDRyWVlwUlRIU2sxaXNDSWExU1Z2ODlOV3dOZlAwMm44RWREdjNJZFVNZ2pfMFltSHFHbTVzblhMWDB4dDhWbVRvUQ?oc=5",
-   "data": "2026-11-16T17:00:55.000Z",
-   "cat": "Mercado",
-   "empresa": "PRIO",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1l88vc5",
-   "titulo": "Amazon Falha em Mais um Lançamento Espacial Enquanto Spacex Acelera Expansão",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc09hRWlVUWpTcU1BdE1ybWRIQ0VKOE5FUDUwck4zR3RMUmRyWWxnMFVFSDlXWUN0azNPbl85eGpxcEM5WGtLZC05NnBkd1VEQnlyWWN4ckpsZ3ljbVlXcnNHRHZDeV9YeXc2YU16eFJOS20zNWIySmhOTkYxS1h0Mi1YSlBvNmxYQXZkV3FiTFFfemRNYVZ5MWE0aXRLeFVKWU41UGwtU0tKWVk4QzlFT0tmRUwzcmJCaExn?oc=5",
-   "data": "2026-11-16T16:59:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "wvibm5",
-   "titulo": "The Tesla/SpaceX Merger Opportunity (NASDAQ:SPCX)",
-   "fonte": "Seeking Alpha",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPU243andUbVVBYXJWcWJDZ2gtRkVjMTMtdFB4b2YtaHFieUtFSl9FM1A5VDdobE9Kd05nSEFSR0Voc0JaUHFmSzNmaFF3cF8ybC1HTTBFVU5nTW54dmVOWURyTFl1cVRQV3pQeUttU2xnTzAzMmhXSmNuLTB0emRYQnlR?oc=5",
-   "data": "2026-11-16T16:47:22.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
    "avisado": false
   }
  ]
