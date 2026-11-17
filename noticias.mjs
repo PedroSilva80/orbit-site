@@ -37,6 +37,15 @@ export function pontuar(titulo, empresas = []) {
   return { score, cat: cats[0][0], empresa };
 }
 
+// Descarta titulos em ingles (a busca ja e em pt-BR, mas o Google News mistura fontes as vezes).
+const EN = new Set(['the', 'of', 'to', 'in', 'for', 'on', 'with', 'as', 'is', 'at', 'after', 'says', 'said', 'stock', 'stocks', 'shares', 'its', 'and', 'by', 'from', 'will', 'new', 'amid', 'over', 'how', 'why', 'what', 'could', 'may']);
+const PT = new Set(['de', 'da', 'do', 'das', 'dos', 'em', 'na', 'no', 'nas', 'nos', 'com', 'para', 'por', 'que', 'uma', 'um', 'ao', 'aos', 'se', 'mais', 'apos', 'sobre', 'sera', 'tem', 'foi', 'vai', 'diz']);
+export function ingles(titulo) {
+  const w = sem(titulo).replace(/[^a-z ]/g, ' ').split(/\s+/).filter(Boolean);
+  let en = 0, pt = 0; w.forEach(x => { if (EN.has(x)) en++; if (PT.has(x)) pt++; });
+  return en >= 2 && en > pt;
+}
+
 export function parseRss(xml) {
   const out = [];
   const itens = String(xml).match(/<item>[\s\S]*?<\/item>/g) || [];
@@ -65,7 +74,7 @@ export function consultas(cfg) {
   const q = [];
   const chunk = (arr, n) => { const r = []; for (let i = 0; i < arr.length; i += n) r.push(arr.slice(i, i + n)); return r; };
   chunk(cfg.empresasBR || [], 6).forEach(g => q.push({ q: g.map(x => '"' + x + '"').join(' OR '), lang: 'pt' }));
-  chunk(cfg.empresasUS || [], 6).forEach(g => q.push({ q: g.map(x => '"' + x + '"').join(' OR '), lang: 'en' }));
+  chunk(cfg.empresasUS || [], 6).forEach(g => q.push({ q: g.map(x => '"' + x + '"').join(' OR '), lang: 'pt' }));
   (cfg.termos || []).forEach(t => q.push(typeof t === 'string' ? { q: t, lang: 'pt' } : t));
   return q;
 }
@@ -91,13 +100,16 @@ export async function main(dir = '.') {
   const arq = `${dir}/news.json`;
   const base = lerJson(arq, { atualizado: '', itens: [] });
   const agora = Date.now();
-  let itens = (base.itens || []).filter(x => agora - Date.parse(x.data) < 72 * 36e5);
+  let itens = (base.itens || []).filter(x => agora - Date.parse(x.data) < 72 * 36e5 && !ingles(x.titulo));
+  const evAv = { ...(base.eventosAvisados || {}) };
+  Object.keys(evAv).forEach(k => { if (agora - evAv[k] > 20 * 864e5) delete evAv[k]; });
   let falhas = 0; const qs = consultas(cfg); let novas = 0;
   for (const c of qs) {
     let lista = [];
     try { lista = await buscar(c); } catch (e) { falhas++; console.log('Falha na busca:', c.q.slice(0, 40), e.message); continue; }
     for (const n of lista) {
       if (agora - Date.parse(n.data) > 30 * 36e5 || Date.parse(n.data) > agora + 36e5) continue;
+      if (ingles(n.titulo)) continue;
       const p = pontuar(n.titulo, empresas);
       if (p.score < 4) continue;
       const id = idDe(n.titulo);
@@ -116,16 +128,37 @@ export async function main(dir = '.') {
   if (!topic) console.log('NTFY_TOPIC vazio: sem avisos.');
   if (topic && janela) {
     const hoje = itens.filter(x => x.avisadoEm && agora - x.avisadoEm < 864e5).length;
-    const elegiveis = itens.filter(x => !x.avisado && agora - Date.parse(x.data) < 12 * 36e5 && (x.score >= cfg.limiarAviso || (x.cat === 'IPO' && x.score >= 6)))
-      .sort((a, b) => b.score - a.score).slice(0, Math.max(0, Math.min(cfg.maxPorRodada, cfg.maxPorDia - hoje)));
+    // Variedade: um aviso por tema (empresa, ou categoria) a cada 24h, salvo noticia muito forte (nota >= 11).
+    const tema = x => sem(x.empresa || x.cat);
+    const recentes = new Set(itens.filter(x => x.avisadoEm && agora - x.avisadoEm < 864e5).map(tema));
+    const usados = new Set();
+    const elegiveis = [];
+    const vagas = Math.max(0, Math.min(cfg.maxPorRodada, cfg.maxPorDia - hoje));
+    for (const x of itens.filter(x => !x.avisado && agora - Date.parse(x.data) < 12 * 36e5 && (x.score >= cfg.limiarAviso || (x.cat === 'IPO' && x.score >= 6))).sort((a, b) => b.score - a.score)) {
+      if (elegiveis.length >= vagas) break;
+      const t = tema(x);
+      if (usados.has(t) || (recentes.has(t) && x.score < 11)) continue;
+      usados.add(t); elegiveis.push(x);
+    }
+    // Agenda: eventos futuros (balancos, lancamentos). Avisa na vespera e no dia.
+    const hojeBR = new Date(agora - 3 * 36e5).toISOString().slice(0, 10);
+    const amanhaBR = new Date(agora - 3 * 36e5 + 864e5).toISOString().slice(0, 10);
+    for (const ev of cfg.eventos || []) {
+      const quando = ev.data === hojeBR ? 'hoje' : ev.data === amanhaBR ? 'amanha' : '';
+      const chave = ev.data + '|' + sem(ev.titulo) + '|' + quando;
+      if (!quando || evAv[chave]) continue;
+      const tit = (quando === 'hoje' ? 'Hoje: ' : 'Amanhã: ') + ev.titulo + (ev.hora ? ' · ' + ev.hora : '');
+      try { await ntfy(topic, tit, ev.msg || '', ev.link || '', 4); evAv[chave] = agora; enviados++; }
+      catch (e) { errNtfy++; console.log('Falha no aviso de agenda:', e.message); }
+    }
     if (FORCE) { try { await ntfy(topic, 'Notícias do Orbit funcionando', `Teste ok. ${itens.length} notícia(s) na lista, ${elegiveis.length} para avisar agora.` + (falhas ? ` ${falhas} busca(s) falharam.` : ''), '', 3); enviados++; } catch (e) { errNtfy++; console.log('Falha no teste:', e.message); } }
     for (const x of elegiveis) {
       try { await ntfy(topic, `${x.cat}${x.empresa ? ' · ' + x.empresa : ''}`, `${x.titulo} (${x.fonte})`, x.link, x.score >= 9 ? 4 : 3); x.avisado = true; x.avisadoEm = agora; enviados++; }
       catch (e) { errNtfy++; console.log('Falha ao avisar:', e.message); }
     }
   }
-  const mudou = JSON.stringify(itens) !== JSON.stringify(base.itens || []);
-  if (mudou) fs.writeFileSync(arq, JSON.stringify({ atualizado: new Date(agora).toISOString(), itens }, null, 1) + '\n');
+  const mudou = JSON.stringify(itens) !== JSON.stringify(base.itens || []) || JSON.stringify(evAv) !== JSON.stringify(base.eventosAvisados || {});
+  if (mudou) fs.writeFileSync(arq, JSON.stringify({ atualizado: new Date(agora).toISOString(), eventosAvisados: evAv, itens }, null, 1) + '\n');
   console.log(`Buscas: ${qs.length - falhas}/${qs.length}. Novas: ${novas}. Avisos: ${enviados}.`);
   if (qs.length && falhas === qs.length) return 1;
   return errNtfy ? 1 : 0;
