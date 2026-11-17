@@ -1,10 +1,99 @@
 {
- "atualizado": "2026-11-17T13:00:30.115Z",
+ "atualizado": "2026-11-17T13:30:35.082Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "vsaplb",
+   "titulo": "A queda no lucro do Banco do Brasil e o aumento da inadimplência no agronegócio revelam riscos que nem sempre chegam primeiro ao Judiciário. O advogado e administrador judicial Flávio Cardoso analisa, em artigo publicado nesta terça-feira (17), os de",
+   "fonte": "Instagram",
+   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sTXFfcF93cGFBVEIwZ182TTVxLXUxYUdxcmZWcW5penhkV1pibVpFMDlXYWswRVVuSEJOeDh1aWJ3TDJmQm9YR2FaVkMyWHNqdUE?oc=5",
+   "data": "2026-11-17T13:22:17.000Z",
+   "cat": "IPO",
+   "empresa": "Banco do Brasil",
+   "score": 10,
+   "avisado": true,
+   "avisadoEm": 1794922235082
+  },
+  {
+   "id": "12iu50w",
+   "titulo": "Dólar sobe 2,17% e fecha a R$ 5,78, maior valor desde abril de 2025; Ibovespa cai 1,83% e petróleo recua mais de 3%",
+   "fonte": "Impactto News",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjdJYW1MeHgwUWJyMDV0RmFxZEl1Y2Z2NldydXpUVENKSm5wd3REN180RWJZbDM4WllIQVBLYXZNa053OXJIRVpDS3plY1VPX0JobVBEOHpoTFB2dGg5MkM1eXBxUF82cjJfSUlENEp0dGtrOUl6MmZXVDg3RTdfOVdJaDFmTVpranlESVlKaGsyUWc4UzlZT3ZlbjFvSXlnaUF3WXAtM2JUS1M1MXRKeFpBZlNLNU9KUGMxOVlWa0EzcGltcmVMeHpZLXYxOGpHTWpiclp0NjBYVTJ1NU9OZmYtV1l4ZjhS?oc=5",
+   "data": "2026-11-17T13:17:04.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "3m4amn",
+   "titulo": "Anthropic: vale a pena investir no IPO da dona do Claude?",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX3h1c2FBeENLS25HOGFGbUFrMWZ1dTgwX1ljLW5FOWZFdl9BODlZakY0dmVFbGtDQzBuZG9BRFVWTUVEU3l3Qktpcks0MmlQbUxtanctSTZadW9iT2FMT3ZaWUtnc1lQaTBnRnlQZzk0OTlUdGViZk9xc1pmVl9PMTY2SThmc3hLczBaejdGMU1OaGdYZXhlZUNRNFhKUjMtYjNGMW9NbC1xbmM0RXRiTEJOUHV1VUVv?oc=5",
+   "data": "2026-11-17T13:17:02.000Z",
+   "cat": "IPO",
+   "empresa": "Vale",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "1vfljzk",
+   "titulo": "Antes do GTA VI: Pai e filho criam jogo gratuito de mundo aberto que se passa no RS; veja como jogar",
+   "fonte": "abc+",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmZkdE9FcDlhdl9iZWVaMWhxeU9sXzhRRk9WaXM0YTFaSVNkUXN1LThyZ085bk92YzJEbFFEaDU0QzU2ZGhHeVdmcXJEQ3lCcXNnNjVDRGdHUE5faC1FU0l1T0htYTZSSmtkb1pob1FxOFhiSUU1cTRSZnk4SU9IUGkzcHVHaUtJbU1tWVg2WUh5QWdWSWJ0UVFIa0preHhYNHEtX2RWUEMtZnB2TjFxeXNEZ05OdmZtWTYtMF82OUlDUEVIdkNvN2k5WVZqWGVhQzY2QWFjOXhsOW1lcWFDSw?oc=5",
+   "data": "2026-11-17T13:00:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1xxecho",
+   "titulo": "PF investiga suspeita de fraudes em contratos para obras contra enchentes no Vale do Taquari",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRUZ4eHFrSFkzWTE2cWNHZzNvdTBiN0ZIbzV6VXV2Z2t6dmRXaUxVVHEwem4yMFVHU2NXMEVPZ0VPTERZQ0Ixdl9wTHNGRko1TkhPWGhPV2hGOHhWTktJVXNhOHNONnZNZWlubHI1N2dncUo1R0pYLV96T2REWG8xUFlTdzhHd1A2SHNNNjlOUExmNUVaWDVDNWNsZFlWUmExS0FJMFVJRy1ramFwdXg1Rk5kZzV4RUl3Sm9wdzhnd1FVcVZVaXlITHVkUHNzdnVHZkRvNS1YeTBBa0NVZkdMS0hwZ292N2kyeEx0bGxYTDl1OXhVV0xCNlBwWjJpMndsZ29mRUZNZWhlNEhpZHc?oc=5",
+   "data": "2026-11-17T13:00:07.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "iep37n",
+   "titulo": "Amazon prevê Black Friday recorde no Brasil e aposta em 'Alexa para compras' para comparar preços com IA",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNanpCMmwxdTBUb3EzOG1nWlZ3ekVUc2NhbUJvUk1wejhnNXBESkx2ZnJtM2hKMjhUR3pzVFNmNVpuN0RScExMWUwzaEFrM1I2WE5ibDZscWdPaVJESTBKUjdjX1Z3d0U1OFc0SDNiZmtDMlFfeDg1YTczU3c4SHlCOG5uVXdOeS1hSUcxSXlubFBWY0l4NW83b2l5WVh2Ulhqa0JsYlF4a0ktQ2VoYV8zZlNya3c4eU1WUWZNNjRhMHlFOUNyLUtkclVudHJxS0l3SWx6RG5MLXdnQm5oaHI4Y2NfdDdXdnZZXzdGVmdIaHBXTWxqd3YwSWFyRlVVNTjSAY4CQVVfeXFMUDJYeEZNZXhuMUZiTWZ1WllhUDBLREJJaHRlby1yUHJyN2k5cjVSUlhDVVcyRXAtVDlsS0szVWZHclBraXNDR2QzeWdBNFBWX09lMFdES1R2Q1EtN21mdjhDcy14S0ZOMGdFeVRFbUVrNG1xNnNUZUJjeG5idXNDN01YMG02dEFRSWNMZjZRR3NCRUQ0TkJQZkg1ckdsbWNpLTF6aVJka0JnWjZBYnhfWXY1R2QzT25tdUlFRTV3UHNXcVNOU1hiSVd1akFjTlNORjBDbmtPeHJZTGpGNGplYUhBTVhlamROaDlDTllYN3gtZmxWQ0hyV3NiRXFxSDJmWkM5RURWU1RESXZQNDZn?oc=5",
+   "data": "2026-11-17T13:00:01.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "1dtl0wk",
+   "titulo": "O que o balanço do Banco do Brasil revela sobre o crédito rural",
+   "fonte": "Rota Jurídica",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3V6VVR5WTFULUR3SE8yMHNaMzBuTnRKZFdHRlVwOTBUcVpsRUlqLXg1cnNxQUU1RE9fSFJpSXJYUksxb0NaM19LRUNKcld0V3BZQnZGeWZ0LUZjSjU3WVdTT2lRbG9VZXVGbENuTFlmYm0wejVhOUM2RFdvbGhJbUJ2Tk5yMl9ndnNPeUVWVTFUbEpvRTB1RHc3Yi1HV0tLTU1RNWI2Yw?oc=5",
+   "data": "2026-11-17T12:56:02.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "prl33v",
+   "titulo": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb1dGSU05MEpOUElXWG9pdEQtRlQtVVdsalhYQ3lTZGVVb3pPYUdPeERLTVRCNWhrQnp2LUNyYjNTMWFIVi1vZTVWUlE4SXBkOXNDRGZmUF9TZkVDQ0pBZzJJbXFUUVI5N1lyMlZVYlhyd3VURjdRZjczSGRiMXVoMkxzZlJPOWN5Ty1ZTXFxTTRyVXVKYklYU1pJTWdWcERQRFhZZ01lVE1MNFBha2xNY2pvR0VQcTh3WXBGblJTOXpiUTJMcHVjYXZDbEVYSlNJZmpSeVNFT2RzbU1JZXpjT2RFSHBQU3gyWmkyc1BjT3ExZTZHVjBNcWJmM0Y2d2lGWUl0bWNub1hQQ044UGthLdIBnwJBVV95cUxQRUE3aWd3bDRTeFNqa0w2dVkzQVdCdlJYdTY3UEpYXzJnbFBwTkxucUVaRWRlM0ptZnRvREI5Zmg4aEhsQXZPSzdwblBjN1JLdVZXX1RfMkh0MnRXZjJvYmRvMXJHQWplSmhRMU9zazNmWXhkSXFNd1YwOU5wdjJ4V3BQVkpyRzhSNFA4Nl90dHR1YzVFc19JdVhjLTZKR3pSRnBoNWQ2UVZGVE05bm92MzVzTGJyZmR1djZlTDJzRThvMEhiYkl2UnZkNXBIY1R3TmhtUW5KZDF6VUFRWHptQWEwQXJNbnJkRlNray1SeDVqeDlubmJqVDB5RlN0TU5EVlhqX0NTcHRTaUJ6TzJXalVEdVg4Y3RFTUhVWUZRUQ?oc=5",
+   "data": "2026-11-17T12:53:12.000Z",
+   "cat": "Movimento",
+   "empresa": "Itaú",
+   "score": 5,
+   "avisado": false
+  },
   {
    "id": "kxfq28",
    "titulo": "Parceira da Nvidia é alvo de investigação criminal dos EUA por suspeita de desvio de chips",
@@ -1572,95 +1661,6 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1y52s1s",
-   "titulo": "Watch Stocks Fall Before Nvidia Earnings, Anthropic IPO",
-   "fonte": "Bloomberg.com",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZUtXTmpwaEtJUFJCQk5sM2ZWVlQxZ24wYURNTGN2R2JBdkxqMlJrLTBXS3ppUlU3VGNnb1pheTlqQlRWOGVUTEV4Qk5hT3V2WG1uVDB4Rk1ERU90OHFKTE5xOVU5OXhLWXI4cFpKbUs0bVBXTEQ1ZGF1aFdYcm82c1ViY3p5WGczMFFLMzFMTllVZw?oc=5",
-   "data": "2026-11-16T18:04:37.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": true,
-   "avisadoEm": 1794875185555
-  },
-  {
-   "id": "ada7y8",
-   "titulo": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnRXZlV6WHp2bkRmejVLY2FnWDB6UGJvV3JRcmQydjNsUmxWYlpWMVgxZXV0N2VYdGI5MWVPaC01UU9laVk4QWkwbS13WDFBcFN1VGpRcEVxZC1rZjZRbWpRMkNfeHN3UmpHVkEzS2hORzV1Tl93NHBCb0JjcGh5SlVSUFBEa0tYNUV3RE5YQUk0VVF0bHpORjNJVDRrZXdrZVhCQ2pFNWdVWUJoLWl0VDlTSXdEQnc0ZW9RREdLZ3lObUJlNkxLTlFLUk1KYi1rNHc5Nmt0c0VNeDA1eVBKNG42UGg5QQ?oc=5",
-   "data": "2026-11-16T18:03:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "4akios",
-   "titulo": "Altimeter's Brad Gerstner investing $5 billion in Anthropic IPO",
-   "fonte": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZWsta3NJMEZJLTlRcHl5TGVlU0oyODVkT2xJV3NmWWR2dXhOSTZCeTBRSFlQV180eTNHbW9hM0ZwaTZaejNQMUU4SHZpQm5aRnFodkNrQVFrNUFTV2I5bHBJUk5URDFmTm1UQnRQcXpVbDgyb3hreGowR0otMDZweHVMbFhuT1A4MWpyNnNPc2VJNUZOckhaQWR2cWxGZEHSAaQBQVVfeXFMT2ZTeDRvb2NxdVZfVUNtelBYSGVjY1NodS1UVXJxb21CV05PYkVLOEN4VGpUa0Y0bXRVaHdJQlN5dzY4U1pRakxpMjVod05TSnU5UmVJel9pRkhReDlNd1ZuOWNDSGxRU0RjaGdDdUsxTVduRGdXU0RPQmlBTFdpRjdnT3h3LVJ5WEk2c3cxUFozeGVGZEhWSFdkRnNoVHdPOFptLWw?oc=5",
-   "data": "2026-11-16T17:50:09.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "zkjj33",
-   "titulo": "IPO da Anthropic tem pedidos 6 vezes acima da oferta; veja quanto custa uma ação em reais",
-   "fonte": "melhorinvestimento.net",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE41MzRsMkpTTXNWLU5qLWRQOVptcWhQR2hZWGNmMW5jaUdkZXNBNDdDWlhUWlJFMjg3UGRHcUUzdnQ4Q2FrYmc1ZkZfUjJVSXlpR2NkUFBReElwYVlUekhJd0JTdG5IWndQTEExZ2RRNTlCVkJUSk1oNVdkRHc?oc=5",
-   "data": "2026-11-16T17:50:05.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "11w2fyi",
-   "titulo": "Rockstar Games hacker Arion Kurtaj pleads guilty over $5 mn GTA 6 hack",
-   "fonte": "Beinsure",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTnppTG1DWGI3SlotX01ta0R5OFNHMVEyYzNSWHVBU3ZZc0pxc0c1MDJUd2sxVTFCRnc5V19FRE9fRDdoRVBUWU9ETFVuaFE4cjl4c3hqc0N6dnRnWUJZQnhGbGpfQkNFdTNRbEs1a2NiMkVpc0dTc256eTUzeWJtUXRGMHNYemxFT3pFY3hlSHZJZVpGZ2c?oc=5",
-   "data": "2026-11-16T17:49:22.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "tpzeow",
-   "titulo": "Dólar dispara 2,25% e Ibovespa recua em meio a preocupações fiscais no Brasil",
-   "fonte": "RRMAIS",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRE1yUlY0WWhDOVNpSzNVYm1ZLTVDSXJ6cnZxOW5xTmZFOTdLLUxWQkxvZklrVm5TQjk1dHpocGdBNFJrdVRsY1pJWTcxWFZzN1NoZVNwZkZMUDlyN19JRUVYNUI4RVZLeXRCZlV5V01CNHVQYVZINDgwR1pwWm5yWWo3SzRMaUN5Z0IzUXB1TnpwbE9vNXNES3pjbUNDc3ctN29fWXRobzF1NjhrU2diYTJSRXZUWkZEWmJNb2wtenFvdGhuVjRn?oc=5",
-   "data": "2026-11-16T17:45:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1xtsgn6",
-   "titulo": "Amazon Leo perde 40 satélites após falha em lançamento da ULA",
-   "fonte": "TELETIME News",
-   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE03ZV91dFNzdzBLVFNBNUdtVVNYV01WUjRqdzJ4VS1XTUQ0aUV6RTRicV9OTXpDOEMwZFNSSDNWVW5IWUs1WEJVNkk1ajY4Z3p3eEw3QXZRNnlSVUZoQmxJ?oc=5",
-   "data": "2026-11-16T17:42:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "u2wc57",
-   "titulo": "Bitcoin Slips Under $65K Ahead of Nvidia Earnings, Anthropic IPO",
-   "fonte": "Bitbo",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJNWUtbkdDX09wSVo0QzNEV2xZckdYYnZRa1lBWDRtNkx0Nm52QkZESjUyc0N2dk15V1RKcW9aR2JSbUhEU1lwME8xZnhhYW5Ic3lzVUhCVGRmc1dmZVN1X1poWktYYUxr?oc=5",
-   "data": "2026-11-16T17:40:00.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
    "avisado": false
   }
  ]
