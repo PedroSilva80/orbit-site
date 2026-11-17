@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T21:30:27.799Z",
+ "atualizado": "2026-11-17T22:00:34.378Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,114 @@
   }
  ],
  "itens": [
+  {
+   "id": "15xw9mk",
+   "titulo": "Ibovespa recupera fôlego e encerra sessão no azul em meio à alta do petróleo",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeU0zR1p4bXB3ME1qdlBIWHdBcG5JeFVTMnM2VzRrcVRhdGc5ZTY0ZHNZVmF3SE1NUWdSVGZ2RHhVbmM5aTI5dExRMGxON2U3alBYZEMtRGdoQURQVGE1NFN1b3Z4S2haWG94TlRYSVE0NlNtOUQ3ZUtTZXFlTFNwMUF5UFFzTlk5SVQxaWdieXBYMmdwM3ZNNmhPV0oxYjk5RVpZWEViMFYzT00weXgzSGxn?oc=5",
+   "data": "2026-11-17T21:58:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1arwslc",
+   "titulo": "Netflix lança documentário sobre a vida e o legado de Basquiat",
+   "fonte": "GPS Brasília",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQnZ3OFZyWG83N3NqMThXQnBWN0lWWGxXel9oc2w3dEJxTlBPN3pXVDRrM0Y1alA2N0NJN1hzQ3hfYWpKV2FFQkV2bkJHNTlJdG5yYTVvZzRvNU9HSGJqeEh0NGtaM1ZYTUNqcU51TmUxSDhSRk1wazZtZ2FqdllIRWJINmxBSFktYWtjNWRpQ2Fsb216?oc=5",
+   "data": "2026-11-17T21:52:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dvauvg",
+   "titulo": "Receita da Nvidia no 3T salta 103%, guidance de receita para o próximo trimestre atinge US$ 130 bilhões, ações sobem brevemente mais de 4% no after-hours",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSWVSVmp4bXBHNzlEWGdaaGQ5OC1RR0hTbG5VbzdaWXZZaFY4bDFnX0RXNFpmbVRRWHhCSEtlUHE3V3lNQ3dHVkVla3pkQWJSZVJPdlhwWXR5Rk1BN2lfVkY2OWNuNU1QQUQxN0dGQWtmZkRwUG5kdjdERmZldWU5bDRid3RxMlNMb29FZnp6WVl0Z21DbXRHYW1wRlFpZHFWNDhTeW5vRENkTWdaUVRfMjFmQVdzcm1YeDNUcTM2UXNVc243YjcyM29UTFI5SXlibDFOQ1dmYm1LX3VRcVYwUmstM1o4T2VTNkhlZUxiQV90b3dG?oc=5",
+   "data": "2026-11-17T21:48:01.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7ckspc",
+   "titulo": "PrimeXBT lança futuros cripto de pré-IPO da Anthropic e abre nova frente de oportunidades em IA",
+   "fonte": "Yellow.com",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOU4xRFRNXy1MQzRMOGVybV9FRnA2cjRJcnhTb0g4ZmY4ZHFvbEJLbkg4ZFB6UnhvYXA3Y3Z3RndaOFNuNEJmSE96NzhnZzN2LVRwc3luakNOMjNwa3NEM3AxZmcyZ1IteVFDNnVMREdmNVNYMFQ2NG51OW5jWjJKQ0taY2FZZ0p0UHhSUnQwbDFZcjZJSHFjOTBEV0FhTUszRkNkcFBXSVoxekhFQlJuT0phN1lXVnI0bjZPazNJcjJHX3dJUGNBQnhDWTN2akRaWHJfNXZBenRJR1FWRXc?oc=5",
+   "data": "2026-11-17T21:47:19.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1jezmfb",
+   "titulo": "Nvidia apresenta projeção otimista em seu primeiro balanço desde a saída de Huang",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRDlNcUxNU0JkcEZ3V05PVnJSZkQ0RnVVZkRwZkVBMmVqbUhLTGZLR2kxNFd2R3hfSW9HQWhTOFhGWnBwOWRXT1hjdXg2a1QxaWlEekh3VkZ4cUctTnpUaTJvSGxzdTBUSHd0U2JKUUZFZS1sXzV4c3dXMzdvN09ibGV3VGh2QXFMMzNlYjQtWlR1YzQxQ1lHY1IzSHFvXy1KaDNkdTR3XzFrTnMzajJTSFhYVHJpR01WaHItc9IBwgFBVV95cUxNRDM3dGY4WC1pdlhQNUFKUGVoSTJ6b0laT0ZfRUE1ckRDM0hmcE41a1NLUng0dDlBYnIxd0VVd3VIMFBfMmxab2pBRHdmUUdMaHlhXy1UY05mdnRWaWRrSE0zOVZJX3FXWmtMdWMwc21uLTRWc0dNSVVxYURRSUV4dWVwQ1RBblFmWDBhU21NaFdEVVBDdzVoX0s4YVoxWnNaZ1FJTW16WDcxT1RGY0FLd0Q0dHVxcGNLLThrTHRVeFlEQQ?oc=5",
+   "data": "2026-11-17T21:46:50.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xq1qrp",
+   "titulo": "Bitcoin cai abaixo de US$ 64 mil com IPO da Anthropic no radar",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3NNWnRJQjMxa2NsOUlXeWVmWG1lXy1pYU5YNmduM1dIUkFvQVdKei1QNXNOQk91THdGLVA0NHozSjJ5V2wyaDNDdWFiSndsWlM0Um80aHZDQXVDWlU0em9NZTdseVlsOEotQmZjRXV2Y2g3b0lZTHlrT0ZlQnFFTjlFUG9aUENGUVhsX2lyd19sNWJPUG5NWl9ZRWNTOGVSSFp2MlVhNW1hdkkwZjJSUno3Yk4?oc=5",
+   "data": "2026-11-17T21:39:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xf4buc",
+   "titulo": "Nvidia fatura US$ 115,8 bilhões e dobra de tamanho no 1º balanço sem Jensen Huang",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTHQ1MXZ5eTNST3NkNjBSMXFudFdndE9JaUxkcG5uZmc3RnB1OHlLVHZuZ0s1MHpoczBqODBDVG9yVGlsMkZWZFNRcGhZeWxlbkVzOXZhbGZtTEJoNlB2ZGtJekJ5Q09ZMkcyc2w3UXJELTNSMmhiS3VUd2txRllBQ2dKWUVpMHFOUTRQUVBkUUhsbTAyY3Y0ZDk0WnpYbEs5dUFHUlVfbU9rODNiNVdpZzJ3QWw?oc=5",
+   "data": "2026-11-17T21:37:43.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zbx966",
+   "titulo": "Lucro da Nvidia dobra no 3º trimestre, para US$ 65,3 bilhões",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41SWlCRmx1OW1fcFNMVlJUX2xyOWVqXy0yZHE0cHNBWEZmZ2U2aFdteWQwNjZlVy1SbVdZSmR0T3dweEx5NThMa2NEaDM3bG1wOExvOFJZemVTM2JHVTNFTkU4aTdIaVJZRGRGYW5aeDJ1Y2ZCSjU3RjFwUdIBigFBVV95cUxOay0yU0dfbVFFWkJqRFZHNm1uV0hfMzc4bkhZcGpQM3E0NlRjWUoxcEJtY1FralZnUUZIOENuNXkxWkxXc0pVcHBzQTlhSzZKZzFvWVk0TjdUTGE5SE43Qm56eXlaR085MHV4UUZlOXdNbTJBZlp2WTRvVnR1U3c2YnFCT21HTmFaQnc?oc=5",
+   "data": "2026-11-17T21:36:15.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "t0ot3a",
+   "titulo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco antes de balanço da Nvidia",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOVZnbXNiRUJVNXNtdnExZUpteDhnYjc4WlMxTG1qdkYzaGJ1b3Y5bDZMWHZYd09oUjB1NmlUMHdLNVpXMTRhOE1FZWV3eElXcU03S2VxeTh6SHFNMGdiWkp1Y01hdEJOdTN6eUEza3RVa2RHSUhjUHVFQS1LZ0N4Q1h3NU5WcGotdE1VY0dwR2VybjVYazF6dFFHdU94RzJJeWtkaHVTc0c1ODVXQWtlTENRQXp5anBmT2JqYktyZmVSU1hTWU5MSDY3T3g5SFNwNlpkTVJpREh3dXlmNnVERS1wcktvUXRqbEdiNG5uSEZOSUI0Um84?oc=5",
+   "data": "2026-11-17T21:12:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "100iqps",
    "titulo": "GTA VI bate recorde de pré-venda a dois dias do lançamento",
@@ -1738,114 +1846,6 @@
    "score": 9,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1y5m0ae",
-   "titulo": "Amazon espera Black Friday recorde no Brasil com 350 centros logísticos e IA",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcGE5M2NwUmNJMHZZZFBsRVRqOUhqdThrTnR6anBzdDZMdFRvemh5TFREcGQtWGhGUGpBcHVnYXpBbnFmUzdDLWYyT1BxOE9FdzZUMmpacllnODZvYlZmLW1tcDVjUzd5eXJkOHZQdThSelY3SlE1S1dUN1FUeXgzN1dkcUNxcmliam1nSTNOVFJxNWt5cUY4NTBEaThDUUVvX0drZV9UMVR3bC1kc08wOFlfRmdoZ9IBuwFBVV95cUxNWlAyalV6RFpoTkNIRG90XzRtenI1dS0teGp0MVFlSWhaM2V5NkxRVzluYmVBajQxemRGSTBNbGVlRlBnclBBeVE1ZXpUUkVtTjZ5WXJHNXREeEt6Z2Nzc1VsbWR5V2ZSV01mU0U3bG5tbTJlclJVcHNDSTlVYnhPbEZfMVBWOWl4bDgzWnY3ek1KWFFkTkVoM2tOQ3VYQm43YWcyeW8xUk80dEx0WHFIblc1SlR4MlAwVnJ3?oc=5",
-   "data": "2026-11-17T13:44:54.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1mwprno",
-   "titulo": "Com custo bilionário, GTA VI supera Hollywood como maior lançamento do ano",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTZ2R0VrN0c5NVBkTHFpMGliR3Z6Z0dSc0xMSlo3SDFEa3oyaVFTUUx1bkNJYnQ1S3ZLMlBVZDJVbTgtSjNqZFlJMmdpYi1oc2xWNjFyWE1OQXQzalZ5QUpJTFd2Y2kwYXFvV0ItLTVPV0dmRi1GTXVNM3BxR24zMDlMeFU0ZFJEUGN5U0hZRTZrMlNVaXg4RzVibjQwUmFYMFVvU1d6V3VxTWhRcjd4N0EtQTBQc0trWW1hNG9oTjVaMnhMd1E?oc=5",
-   "data": "2026-11-17T13:39:13.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1wsvsco",
-   "titulo": "Primeiro balanço pós-affair contamina expectativa de longo prazo para Nvidia",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU05rOS1KRXE3d1lTNjJWVnJoQWJJMVZoU1BNUTFJN0t6ODNpTlRrYndFNVU0MDg5WURTT0VYVlZYcF9uT1lnLV9IcVpVTmt2UmlhZU14SnlkbmFUU3d6MlpRTG9lSk5FM0Q0VkZlemxGU0F3eG56bWNqVHRyZi1fZG5MZmNaWm9veXpHRXk0UWpBaDNCVUxkcFZVTEsyMjFkQ2ZoWHRELUJXcUs2YktIekFn?oc=5",
-   "data": "2026-11-17T13:23:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "12iu50w",
-   "titulo": "Dólar sobe 2,17% e fecha a R$ 5,78, maior valor desde abril de 2025; Ibovespa cai 1,83% e petróleo recua mais de 3%",
-   "fonte": "Impactto News",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQjdJYW1MeHgwUWJyMDV0RmFxZEl1Y2Z2NldydXpUVENKSm5wd3REN180RWJZbDM4WllIQVBLYXZNa053OXJIRVpDS3plY1VPX0JobVBEOHpoTFB2dGg5MkM1eXBxUF82cjJfSUlENEp0dGtrOUl6MmZXVDg3RTdfOVdJaDFmTVpranlESVlKaGsyUWc4UzlZT3ZlbjFvSXlnaUF3WXAtM2JUS1M1MXRKeFpBZlNLNU9KUGMxOVlWa0EzcGltcmVMeHpZLXYxOGpHTWpiclp0NjBYVTJ1NU9OZmYtV1l4ZjhS?oc=5",
-   "data": "2026-11-17T13:17:04.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "cvhrbj",
-   "titulo": "Walt Disney supera projeções ao dobrar lucro e aprova aumento de 33% nos dividendos",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOVVLSUJSSXNlaFBWVHlXOVhyS3FQWmNCYjRsTUV0cTA0NEswOTBHYW00Mmh6VlpFeXhxa2UySGpEcFFXRHRxWEUxS2x1czR5V291ZTNQNHNYOU0tYW9Sa2JNM3lfa0t0UnNpUmhiWDFXaUdFc2ZJTy0wbW5tdG1pM3RjTlpXMm93anY4bERGcE81Uzc4dXdCa2gxZmdDejBhNE9xbjAzbmppYmJwcW1PZXY1bUhXd1JqSnFnWFZGaThJWkhZdExLR3Jn?oc=5",
-   "data": "2026-11-17T13:17:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ezofia",
-   "titulo": "Depois de 13 anos de espera, GTA VI finalmente chega aos consoles nesta quinta (19)",
-   "fonte": "Gazeta Carajás",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM1lsNmhwUU42N3c3b2drUWk2emQ4QzZaZE1ZTXN0NVBhQVYtRjkzbzBubGdEQk42SmFjSzhuVTQwVllhZjFiQWo1N0lJWlhFWHpLN0Z2eE05cUxFOEsxOERRTUFTUUtjd1lTbEFfek1YWVBORklobjBOVDRyekRXTnBHbjk2T012NlhNY2tHSVpfSUtVSFFBSTUxdFZPNmlBS0dzcXFoQ3g0UjJieDg4RkhUR2VpSk9vQ0E?oc=5",
-   "data": "2026-11-17T13:13:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "13txoe",
-   "titulo": "Disney (DIS): Streaming dobra o lucro, enquanto os parques da Ásia seguem fracos – 3T26",
-   "fonte": "XP Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11ZnBwb1Ezci1uQ1FqNUF2b3BDWHNUVmFZTmMwMW8weG9Ncmprc01ablB0U2FZaHZmU01rX3VsYTRHOU5jVUVkdVExV3l5QXlTWW9Pcl91U1RWS1h1d3p5Z09rWmpUbmpXLW8ybExzLXNfMm05?oc=5",
-   "data": "2026-11-17T13:07:47.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vfljzk",
-   "titulo": "Antes do GTA VI: Pai e filho criam jogo gratuito de mundo aberto que se passa no RS; veja como jogar",
-   "fonte": "abc+",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdmZkdE9FcDlhdl9iZWVaMWhxeU9sXzhRRk9WaXM0YTFaSVNkUXN1LThyZ085bk92YzJEbFFEaDU0QzU2ZGhHeVdmcXJEQ3lCcXNnNjVDRGdHUE5faC1FU0l1T0htYTZSSmtkb1pob1FxOFhiSUU1cTRSZnk4SU9IUGkzcHVHaUtJbU1tWVg2WUh5QWdWSWJ0UVFIa0preHhYNHEtX2RWUEMtZnB2TjFxeXNEZ05OdmZtWTYtMF82OUlDUEVIdkNvN2k5WVZqWGVhQzY2QWFjOXhsOW1lcWFDSw?oc=5",
-   "data": "2026-11-17T13:00:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1xxecho",
-   "titulo": "PF investiga suspeita de fraudes em contratos para obras contra enchentes no Vale do Taquari",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPRUZ4eHFrSFkzWTE2cWNHZzNvdTBiN0ZIbzV6VXV2Z2t6dmRXaUxVVHEwem4yMFVHU2NXMEVPZ0VPTERZQ0Ixdl9wTHNGRko1TkhPWGhPV2hGOHhWTktJVXNhOHNONnZNZWlubHI1N2dncUo1R0pYLV96T2REWG8xUFlTdzhHd1A2SHNNNjlOUExmNUVaWDVDNWNsZFlWUmExS0FJMFVJRy1ramFwdXg1Rk5kZzV4RUl3Sm9wdzhnd1FVcVZVaXlITHVkUHNzdnVHZkRvNS1YeTBBa0NVZkdMS0hwZ292N2kyeEx0bGxYTDl1OXhVV0xCNlBwWjJpMndsZ29mRUZNZWhlNEhpZHc?oc=5",
-   "data": "2026-11-17T13:00:07.000Z",
-   "cat": "Risco grave",
-   "empresa": "Vale",
-   "score": 8,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
