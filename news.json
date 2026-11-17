@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T01:30:27.178Z",
+ "atualizado": "2026-11-17T02:00:30.869Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "16kwici",
+   "titulo": "As ações de tecnologia caíram acentuadamente antes da divulgação do balanço da Nvidia e do IPO da Anthropic.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdGc2bklxZjBaZ1hQRDg0Qnl6aWRWNVlHb0ZKd1FZYm1xRzlrNi1tVXhPYVc5bXhQQUQ5Q0RNZHNNb2lFZFpvY3JnM05rMms1SkFQS2U5Ul9KaXlYbmdMdWVVUjBSM20wTGwzQkxmTTVjWFZzNU0xb1BHX3k0OExGZHBQcGw1ZG0yOU9tSWVGMl9vd3gtUHJZMllDQTRrMGsyLU1Jc3B3b2daTlBqZ0lR?oc=5",
+   "data": "2026-11-17T01:08:53.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 10,
+   "avisado": false
+  },
   {
    "id": "13bgi10",
    "titulo": "Strategy compra 485 BTC e Strive eleva aquisição a 251",
@@ -1343,6 +1354,17 @@
    "avisado": false
   },
   {
+   "id": "1ubtcl4",
+   "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeF9UXzdEend1MkhDNlE5Wk9mVng5bWtRN1dMZ241QVp2OUFJMVFhbUdqb0x2SHVvaVV6U1daM1JNQV9WTGstckVIcG5OaWxqRThQT2t3dlNReS1BWnB5eTlPdnhrd1lXOUV6NkwydG56SXBOUm5nZ2Nhd2NvTkJwY1pqT2dVTG9zZm9NREV0Y1NhQ2lkaXQ2UG95RDdxSzQwOG1EbmhTcVlSRUJMNS1LeDV5RFFVUQ?oc=5",
+   "data": "2026-11-16T14:04:57.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "avisado": false
+  },
+  {
    "id": "10dpty2",
    "titulo": "IPO da Anthropic se aproxima: por que ANT pode subir no 1º dia e depois cair",
    "fonte": "Invezz",
@@ -1637,28 +1659,6 @@
    "data": "2026-11-16T09:19:47.000Z",
    "cat": "IPO",
    "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1f7dvlx",
-   "titulo": "Anthropic mira IPO de US$ 64 bilhões, mas book diverge sobre sua vantagem em IA",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYUJZV3NadFFsY3lacUxCbDUzcWxiMWxIR2pOeDBwYndZM1BqOGJndHVGeUhlX0tCQnY2al9zaGZ6QTRVdHFKblE0aWZXVXpXYW55bkJmaDZERUU5cUtFOHZKRFpGYWlWNDVCM083cEVTb2V0eVFtSlVzQmpoek1rUG9YYU9uUG05V000RWFKVldmSjA5bWwyT3ZQOEc3V1dZS2kzd255WUZaT3BaSHc?oc=5",
-   "data": "2026-11-16T09:06:27.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "htd8o5",
-   "titulo": "IPO da Anthropic reacende debate: por que startups brasileiras ainda estão longe das bolsas?",
-   "fonte": "Época Negócios",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQzJSUVp3azJpRU5EQmhJZnBNdVpadmxiOGhHd0ZvRlpzcU1jOWJETE94ZVNzNDZDRU1xbDBsazNsSG9YcTBtdFhlRnplMTAtSXlXeTFESURjc0hxT2lfdUJNenFhcW55anFROFdQS1dmek9ISTdOVmFsRGctRF9CVU9UeFlPMTNEc3A5eTduaDVETVZvU3hjS18xX3ZvUWZtaHhXazdpYl8yQ25ic0pRSFlyNG5Wa2xKYUVvdGxxTWVOVVZCQjJacWhwU2FVUms0N3ozSkVnUzBTUEpTU3BFOVNYUWNNTUxubzd3Z081MGd4QWI5NElR0gH3AUFVX3lxTE5DMlJRWndrMmlFTkRCaElmcE11Wlp2bGI4aEd3Rm9GWnNxTWM5YkRMT3hlU3M0NkNFTXFsMGxrM2xIb1hxMG10WGVGemUxMC1JeVd5MURJRGNzSHFPaV91Qk16cWFxbnlqcVE4V1BLV2Z6T0hJN05WYWxEZy1EX0JVT1R4WU8xM0RzcDl5N25oNURNVm9TeGNLXzFfdm9RZm1oeFdrN2liXzJDbmJzSlFIWXI0blZrbEphRW90bHFNZU5VVkJCMlpxaHBTYVVSazQ3ejNKRWdTMFNQSlNTcEU5U1hRY01NTG5vN3dnTzUwZ3hBYjk0SVE?oc=5",
-   "data": "2026-11-16T09:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
    "score": 9,
    "avisado": false
   }
