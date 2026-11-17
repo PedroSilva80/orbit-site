@@ -1,10 +1,87 @@
 {
- "atualizado": "2026-11-17T18:00:31.594Z",
+ "atualizado": "2026-11-17T18:30:28.146Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "let4v5",
+   "titulo": "Musk planeja fusão entre Tesla e SpaceX para ampliar concentração de negócios",
+   "fonte": "Opera Mundi",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2s5bXpPM21JMHdSUmVDM3BxYm9rUHN2bzZJZ2VHd3NZTVMzdjkyc3FxU2hiVXVZeHVJU0dkSEFxeGc2azZKM2lhSXJTMWdvbEM3WHpNVEViNHAtOFlfZXNuUjY2RDJ0ejdwX2Nwc0JXOThFWkFiZXk1dE9MZkVPaU5OWE9iT3J6X05ucVJB?oc=5",
+   "data": "2026-11-17T18:20:26.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "dy0b03",
+   "titulo": "GTA VI: KaBuM! confirma evento de lançamento na Avenida Paulista",
+   "fonte": "Última Ficha",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fZURiQkF1eG1qTHJMQko3aFFmeGhGelFEWUUwYU4wSlYwd2lJalFUelVCellqTXhKTFRMbzBlem1VdlhrWjZzcWpOd0lYOWtYbi1UWkpoX2p0dU9ucVFYUGJaSjBRdGs1SloxVEdLNWNjUkJndXp0emNwRGo?oc=5",
+   "data": "2026-11-17T18:17:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1fhmh7e",
+   "titulo": "Petróleo na Foz do Amazonas: o que está em jogo com a nova aposta da Petrobras",
+   "fonte": "Superinteressante",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTU1UT2ZGdGdrUDI4eEtVVDNOX3dyZEFYb0pyQXl3NFJwXzZIM3dqRnVmUWY3TFFyYjNkc3laaWtVcDRNS3dVMDdTYUV6QVE3dFhGVkFWSDd3N3dfVkZjMktzdF9oTm1BaE1BSkU4RjJsX1NlcHJoYml2eS1wMGdhWHlTNnJ1RWh5dXc5Nk1qZXd6YlRWSEFXUldnSXhoLVFJN2c4VGJZSXZxMi1FRHRsbUp1Zw?oc=5",
+   "data": "2026-11-17T18:11:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "8orte",
+   "titulo": "Anthropic deve definir preço de IPO acima da faixa atual de US$ 70 a US$ 78, dizem fontes à CNBC",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDdRR2ZHNFZYUzF5NFhsMnNnVlBwd0owbm1JdlNBWDk3OGhtOURZVjk3UE5KS3FrUk1xcGY2Y1lrbzNoMDNHNVFjZG1CcWVISG1oem5zWWZ5eENFVk1ZZ0htRVBDZmszZ2RGVFZuZXJqeEN2Y1p4MHRvOFNwZ3NyeEtQaXFGWF85X2xYR09SWG9pTjJFOXh4WUJoLTBvZw?oc=5",
+   "data": "2026-11-17T18:09:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "s5ddnv",
+   "titulo": "Hacker que vazou GTA 6 usou Fire TV Stick para invadir a Rockstar",
+   "fonte": "Tecnoblog",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3FaZG9ldktPSHVLX0ZSRk9LQ1ZacjJTWlVCZW9GTW9zQzBhWmp6NnJxQkFhVnVEUWZxeXBuS3hVdm9jTGs2UzZGNHk1elJWXzBlRmd4cndDallrRmVLanR5TG1pQ2dxZ1c1MTBXenZRdFY4bHVGYmpoUFhnSkRIUjVTdk1sUjFRMEdZRjNGai0xUmRlU1FxUC1hQUtYZw?oc=5",
+   "data": "2026-11-17T18:08:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1y83ykk",
+   "titulo": "'Será uma honra voltar ao cargo': ex-CEO da Nvidia se pronuncia pela 1ª vez desde renúncia após escândalos",
+   "fonte": "Rádio Itatiaia",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa2NBb3U2V2lfS0NtSGxFWHNrQjhHbmhlX3BwRV9hNmFtQWJrOVNkUmYtc0FVdnFkaUstTWlIZ0Y1X2Zhc3J0NEdMQlRJY205RU1OVVlDdjRUNXl0RW5mQXk3TFNTZ2hRbC1IbUZpR1o1a0ZsVDlPT004WVJCS29YT21UYlZOazVfcEllQjZkQnh0RWVHWG9Ha1lsZE12UTF1RG5lbGtRQ2xoZXF6czVMdnowcGF3TFJrMWlkaGpWU3Yzdnd0QXV4NjR1MlJyLU02UjhFUg?oc=5",
+   "data": "2026-11-17T18:04:54.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "1mn7yh8",
+   "titulo": "GTA 6 demorou 13 anos porque Rockstar não queria fazer mais do mesmo",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaS1GSUpRMlRta3QzMlVVNFJkajZsNzgxc0VfMFg4TVNxUnFNLVVxRllYYTVJdXM3VTNDWnRMTEI3QzRxSnhZSFU1NTB1alUwdmRCLVdrQmRUZDVVa1JpT1ZFM1lSQU16Q3FFVDBaNHQ3U3AtdWttdE0tVkJYQy1Qd1NsTzR4VVV3MEFNTE5sTDdST2tPNVVya2VDaFZTZw?oc=5",
+   "data": "2026-11-17T18:02:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
   {
    "id": "1lzs5of",
    "titulo": "Autoridades dos EUA entrevistaram Alice Huang em investigação sobre chips",
@@ -13,6 +90,17 @@
    "data": "2026-11-17T17:52:59.000Z",
    "cat": "Risco grave",
    "empresa": "",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "sje3ia",
+   "titulo": "FII dispara 3% na B3 ao propor compra de torre de escritórios no Rio de Janeiro",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTml4TFdSUWhLQ3JDX3Jnb2pDazZnUXJqS2tvZ29IVUhOQ2o4UFVQN1RTblFlMTdUU1lvQnppTEJhYmRsMENGY2pmc2ZIWFk2SVVJQmhIVTdYbEdlaGR0QWxzZkxIMmxKWnNYWDI4Tlh3YVFuTFAzMVJVMVZQYTZDaTY1T0dYeEpvQW1xZFZfOVhZYkVSQnduR2hfXzVUZWd5X1V6cEpKTnRBSHRIa1c0ZW9uWDVPYXBIajF0SmNLSmPSAcYBQVVfeXFMTVByLWZkYzNUNC16VXJXOGRhM01OcTZwRG1MYU10ejNaZzYtT1UyQ2Z4X2FuWDRETFlpbVo3MDhHUmcycDhfSkJOM2hNS2ZOQU9fYXJfZWFIZkhYU0NXVkNlN2tnc3MwbXEtYTJLWERqSUN4Z2g4dWNSb2ZZMXdVcDVKalgwNWdCd0JqOGQ3VWxVZVNGNld6MXFtd0YweWgwVnpKXzFaMXZPMkQxZlJtTWxsMFhxb2tuLXRrRHVXVjY5Z3l0VE1R?oc=5",
+   "data": "2026-11-17T17:44:00.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
    "score": 5,
    "avisado": false
   },
@@ -68,6 +156,17 @@
    "data": "2026-11-17T17:15:01.000Z",
    "cat": "IPO",
    "empresa": "Nvidia",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "eidug1",
+   "titulo": "Precificação das ações da Anthropic atinge US$ 78 e IPO se aproxima dos US$ 90 bilhões",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamZEZ2E0V2dKUHRfQ3lnS0YtMHJzcXJpYzloMTRTazhLZHpBal9uY1FIRUJSby1mN1U1UUg1VHRBRkVWRVJFbjVycHFqQTFjMEJWZUFKQ1M5X2Fha1V5Q3hHUkgzOEVTa3pMOUJIWVoyWURNRXhJLTZjNEFGZDdOQ25UcjkwYnRmZE1LeFlCZ19JVHFSNy1KTUJvZFVjRWl6QkQwclVxai00MldQQ3R5MWlR?oc=5",
+   "data": "2026-11-17T17:14:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
    "score": 10,
    "avisado": false
   },
@@ -146,6 +245,17 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "1x4jyxx",
+   "titulo": "B3 lança BDR da Anthropic com estreia simultânea ao IPO e preço unitário abaixo de R$ 100",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSk43d2dnUlgyLTF0djZScWgtMmVTbl83QmJRbVZtUWRCekFpakwwWTR3WF95OGJnTmdoVFdod0FKdWhvOE4yOHVIYXBRZkhCR3R5UHk4YjJfZjM4QXBCaVJxczRjZERyb2phd0VabXF3U0VyOHFBV3lmaUxEMTc4UzNvU2YzNVJKMGZOOHdSbw?oc=5",
+   "data": "2026-11-17T16:24:10.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
    "avisado": false
   },
   {
@@ -1020,7 +1130,8 @@
    "cat": "Risco grave",
    "empresa": "GTA VI",
    "score": 9,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794940228146
   },
   {
    "id": "1pxr5gs",
@@ -1310,6 +1421,17 @@
    "avisado": false
   },
   {
+   "id": "zekzki",
+   "titulo": "Wall Street e Europa caem antes de balanço da Nvidia e IPO da Anthropic",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0I4NnpUTG56MWdGczlYZDA1OHVxVW9GQnFqRi11dGljOEVNdXFRX0phN19wcFZqdHVnR2RaR00tVkxCUG9lZHFJTWpUcDdaSDNmZ1J0YzlRNDZpUnJnMXU3dExyYklFUWU4SDF5Ym4tUnU1RXU5VVRHVlhEMzJaVVpndWFmVEI0NTFhYWUxNDhESXFCYWdvOFNNcGNGODdiVXpvQzZWTEVxeDU0?oc=5",
+   "data": "2026-11-17T10:31:27.000Z",
+   "cat": "IPO",
+   "empresa": "Nvidia",
+   "score": 10,
+   "avisado": false
+  },
+  {
    "id": "11vearm",
    "titulo": "Nvidia tem 1º balanço após saída de Huang, e Durigan vai ao Senado",
    "fonte": "TV Sim Brasil",
@@ -1539,128 +1661,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "ea89sv",
-   "titulo": "Zelnick diz que pré-vendas de GTA VI superam expectativas",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0Z3dE1QWW85OHY0NlNYQmJjU01pZ2FwUk43WmUyTGYyQ1BZb2xaSkg2RWM1QnhUQUhVelg2ZzI3QVJDRFUzTW9HazA1Y1FZM1I4VU1pNFk4NC1zNGJYaktQWldOMFFtZ05HSjBKdDJjcXBwTWZoT1VtelplWFdjSHVKelZCbW5kV3pz?oc=5",
-   "data": "2026-11-17T08:34:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "14nefbp",
-   "titulo": "Lara Resende propõe meta para queda gradual da Selic e rejeita rótulo de “tabelamento”",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2N1SDBobGFNcDA0MlFubnVic2FQb256TVluc2ZsVGlQWURLcExmUXV6NC1mWndyNDcyWmNpeUNON0taMUNnTV94S3NYMUhPeEhtYmRKVHh5T2YxbnppbDdfcFQ3a29CT2g0RV9oWHU3VUxsOVhLT2tIN0Y4bTdGUmlUNkdTN09URl9QWkU3aFdzbjVmdzVsVkI5OEpUUUpleW9vZEEzOXFKeTdGRnZrWnlFN3kwVk9WQWR5Sg?oc=5",
-   "data": "2026-11-17T08:33:26.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "17riugk",
-   "titulo": "Ações da Avio disparam após oferta de aquisição de € 2,05 bilhões da Iceye",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeF9BSFZGekpsT01VdzhUZmNGeEJOQW0xUks3aEhKZ2ZTUVJSeXBCZHFuOXQ0UW5oeDFXeWFGVVdERTlaTGRKeFFmTVRrX0k3bWpUZWt1QWxVYVo2S3FYckxsN01XTXQ0OXk1WlhaUFJBYlhPNXBCS3Q1SXJ4b25Dd3JnbHBwS1A2cHU1RDh4a3FYVGVWeklqalZfRzZ1NnZJeHlfSjByelNGZU92b2ZPNWJrZmR6RlliX0pfdGNiNkRZSW80RlA4?oc=5",
-   "data": "2026-11-17T08:28:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1r9s4v1",
-   "titulo": "OpenAI encerra Sora enquanto Kling avança em plano de IPO em Hong Kong",
-   "fonte": "www.tecstudio.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaG90Y1Nlc3hIOEU3LWJEMm11QkJoZWNtX1kxZzVyaXJXMHhySHFSdkkySlc3eDBXdWtONUhncWFHM1ZyS01BaXdZUXF3Z19oMW94NlctM0pZTkJ2b1lPNmc0NjJ3aWJzMzFIWjhUa2RvUENxSVJxaF81N2VZa2Q0bExOQnprVTdzakFudE5oWGRaY0Rsd1l4QXUzRGlLTmJMb1JJci05NGlyNjZOd2ZsZw?oc=5",
-   "data": "2026-11-17T08:05:01.000Z",
-   "cat": "IPO",
-   "empresa": "OpenAI",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1li7iie",
-   "titulo": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai",
-   "fonte": "brasilagro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREsxbE51NTJMQ3NZT1J2QkRKT29yU0czejZBZDZWNXNTOFdEdzZnWnlkVlpoX3ZfakZIMTAzdWFpbHZ0Rkh0OXF0WmR6bzJsU1MxSFVpbWdFRWpPcUdNc2RyeVR6cWpzV3p4c1RGTFRDNUNTeWx2NktjV29OZTVmWThUMU5MV0hIUDluUVNpWmZKWUJJWVhSOUZhbFNPek9uckY3MV95RU1pdFJwRG5nSA?oc=5",
-   "data": "2026-11-17T07:26:08.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "15j7iw4",
-   "titulo": "Anthropic deixa Portugal fora da venda de ações antes do IPO",
-   "fonte": "ECO",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUUw5NGx2bXV6RmdJbzg3NHhBUnZoZmZNX1FqdFRReVlEZ05NZmhWNm5nNnFLa24ybTM1bTMyaEttR3V3SVBNMURYeThqMFRBTUotUDRtN0E1aUFtOU9FNlRPUVpRNEtwMlhWZWtqa1ZHSkNwY1huYXVmWUZydUVBS1ZqRkpOTlp3RU9pSlBnTmU0XzBzOEZz?oc=5",
-   "data": "2026-11-17T07:05:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "oxhpjo",
-   "titulo": "IPO da Anthropic pode desencadear US$ 19 bilhões em compras passivas: ANT pode entrar no Russell 1000 e no Nasdaq 100 já em dezembro",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMndIT25BUXZWWlo5ZnZtOHh0cEVha1VuRDhRandYSzh5T04wX0JsU0ktanlLTUxTbHUyejBSWkxnbnpsbTBwYkxrVmx6T0V4NmRjaG9YX2dTQjhaTVBHX25KQWhIS1oweU8wUDBhREVQS2UyYUVfeE5mbmpLd2RZdWJFc2Y1aWt0Ni10bjRSRXdLYjZkWnVtUDg0Q09EcWZySHhJbEc3MDZfUEw1aTJSTDJlcDdfblNWaGc2cEFJVk1jNWhFU2p0OC0wZkY1UDNsQlJZaENDbE11LWtTbXFrU1pjQXVrb2c?oc=5",
-   "data": "2026-11-17T07:00:49.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "1bwlz9f",
-   "titulo": "Principais investidores do IPO da Anthropic: Amazon, Alphabet lideram participações enquanto Altimeter planeja investimento de US$ 5 bilhões",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPeEltOXVha1l6VWZtMl9mY0VFMzVKTW1XTmFXemwxbVd2MnVGTjEyMVdLYm5BQkd3b2hvcUtwMmNuN2tiTWlvM0ZfVWE3NVVlaHFoaFNEMlZJR1AxeVN1ZWJLOGwxdTRNbjBQSHQ4aXAzZTBvSDRGcThGMm85cklKY190b2d1eDJGSVlXNDl1NEpDOFV0V0FrcFlWY3JxMUFHMWJnM0RGb2QtUjJZdUtVV2t1eFhQU2h0NzRoaW1lckNZOTc2c0hnMmxOdUszSmUzNWZ6WUdvVXFVQQ?oc=5",
-   "data": "2026-11-17T06:44:39.000Z",
-   "cat": "IPO",
-   "empresa": "Alphabet",
-   "score": 10,
-   "avisado": true,
-   "avisadoEm": 1794909633363
-  },
-  {
-   "id": "1wqfi14",
-   "titulo": "EUA divulgam detalhes de investigação sobre empresa ligada à Nvidia",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTdWR084WEVPd3pWTU9VY21PUzU2UGo1SjQ3VXlmUmlMMlpmRF95SXh4REp0QmFucnFsRUlTX1pIWGlaYmpRcmpFbmlyQ25rbTZjYklHYUpHdWpLMmRTa2l3aDhvZlUzMlZQeTVoYTMtcF96cGc2QUVXcFZya29RRnhPTzBpWjZLYUc2UVV2M1RZNzdJUFp6T19DbjBuV2U0NXNhUnNNOEs4Nk1vS1U1SmtrS1hNU0s3OUhnZU5lWmw?oc=5",
-   "data": "2026-11-17T05:46:55.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "cv9no6",
-   "titulo": "OpenAI: US$ 11 bi reportados e IPO da Anthropic",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2o4SEh4WnZ3SnFMN2xCVWVmUVhlNEpra1F1dDNsQm1Ta015MUlkNjlJVHNDekIyMUdkZ01EdmFLeXh3WkxjVjBWWlQwcHRHZ0dRbmlzeTN4RHVhTUFYZU8tYWVqdTlXQVM5LW5xTHIyN1hZeGxwbFhhQWEyVHBRaElYV203M21KakppQUxwMVh4ajRuYkVyYnZlX3l4TWljVU5fVTEyYw?oc=5",
-   "data": "2026-11-17T04:08:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1bkgnl9",
-   "titulo": "Previsão de preço do Ethereum: BitMine vê no ETH tendência semelhante à do IPO da SpaceX antes do IPO da Anthropic",
-   "fonte": "www.tmgm.com",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPNUR2NEFOVUYzQktoUHhVdVpqOTFURG50anhnOFZVWmNwRGdJbHBuT19VT1R5REU1Y044ZUpvUHhaUE1OTFdxQ1RVZ3h4eVNKUVNHZUNNSGRaOWZQZzhrYzlScnhpZ2lKcnplbUpJMGgwc2JWb1JtVzVDR19FMklTU1VCLUJ6R1cwam90Q05XRmViWlU5cGpmOUI4Mk1JQnk3SHA3Rl9XQ0ZZTlJVVy1nRXZJQmpvMGFVOWdrT0RHMkRfcUNUT2tlMmpfc0sxYk94NFJWS01IdUxTdVJ0d0tuTHNveWg4Q0dLamc?oc=5",
-   "data": "2026-11-17T02:12:25.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "avisado": false
   }
  ]
