@@ -1,10 +1,65 @@
 {
- "atualizado": "2026-11-17T19:30:25.337Z",
+ "atualizado": "2026-11-17T20:00:31.952Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "1gzu5k2",
+   "titulo": "Anthropic estreia na bolsa como termômetro do boom de IA",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXpsSVdjalhPeW0wLU0tdHA4ckJmZWk4eG5nYS1saENnSUU0VTY1SGV1YUszcThWQUNmOHVMZmpLR1cxUG12UGxsVXdQbTZVdU1DVDFacVVlLUplZnlvdjVJcGNVaWlvYzRkaTRDWVRla2JoY0RMenc3T2hmT21uY2s2M3k5QWthdV9YT3JNYVM1R2JNSlFscm50M1dNLXc?oc=5",
+   "data": "2026-11-17T19:49:17.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "neloax",
+   "titulo": "Crise na Nvidia abala mercado de tecnologia às vésperas de balanço e possível volta de Jensen Huang",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNc295ek1zRklWZDhsYV9rTnR6TVVVWmtsQzhITk42b2hwV0hSc0ZzSy1OZV9tbmdldTJzdV81SWxXVjV2cVNTSkFrX2Y3OGprdkpwendpNXFtSUFPYW9FQ196TndRM1NqWXliMHp1enZHQkQtM3NkcmJjbkVPN0FaWEFmTFZSTHlfejFIZmhaWDRDUjduZTNsdW4zVkV0MG1POWp0NHZVbDQwRWNDQkpRVXZtNUZWSU0ySDNIMGJZeUlxUmZrTmRlRTczRWVjbFd5bVpPTFU5akpTc0FuaWhjc0lwOW1TUGNOTXRTQVNKLUExVUU2R1E?oc=5",
+   "data": "2026-11-17T19:49:03.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "9e1qh0",
+   "titulo": "De figurante de GTA V a protagonista de GTA VI: quem é Manni L. Perez, a nova Lucia",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOSDhhWVc4dElpZ3pQSGM3aEhPWWp0OE14clJEM1piT0tVQmFEUWZyLVlxMHZIZ1FMeDNqR2hXR0lqa3E5U244RlB3aHlkeXlVVkc1ZkdWVGxxX0duRWxMVkxRNmhQcWpOaHlpaUdzT2VPZnVPQ3JDbzNZNTJvU2Ytck1Cbmh5NGdTWDctMktLYmFUWEJoSmw0Wks0Y1kyamk4TDNVbHJ6MThwbFFnaU5sSWZqMkVhUXA4YTNCWTNmbzc0ZDRuXzRwRWNKa29TbS1rbXl1OUt1NEE?oc=5",
+   "data": "2026-11-17T19:48:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "ya565a",
+   "titulo": "Como IPO da Anthropic pode gerar bilhões para Ashton Kutcher e empresário de Madonna",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLXpBZUJsRHdvZ18zVjlmeUJiaC1JTS1mV3J1UkQxc0x3M2cyOHV5RDBwWUJIOUgyMjctLWVYLVlIWkJCR3I1LXR1c29WZl84ZnFuR0hkUGc2aGdTS3JpZ2pQRzY1bmFsVnlCNmJnbWVibDVxSGFhdWYzM01nVzJ5ZHp6d01iNllVeHFZTDk4VTl0VHPSAZgBQVVfeXFMTlRqcnBhM0tFV2cwdk1JckdzRUhoU2dzbUlmVzREYUlpaS1JVFBudnZPRTJzbmxkMHlURHlNWC04T0tUNi1GWXFndHlodjl0clpYR3NOcWNwWDc5djU1T2pzQlFuVkVickdJcF9DVnlnM09UNW1OdE83ZGhoYmdiOTc1U2kzMllGRGFkdk9ReW5SSVYwSTFMRFI?oc=5",
+   "data": "2026-11-17T19:45:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "1nqe8dd",
+   "titulo": "Amazon e Google terão cerca de 28% da Anthropic após IPO da empresa",
+   "fonte": "Repórter PB",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY1ZfbWU5aXFiSVZnRFFuajFtdVFQMnJNWnpneVBFZjdFYnhkbVZqc0dySTJkMUY3UVpvcWNHdjRYVXFIcFEzQkJKTlVhQTlkV05fd0xlVFlEM1V1TEo3eWJVb2NWQ1UwQS05NVVWQTQ2SVpPX1BxQXJqLWlGZXJQUTZJY0o4aHVwUTJRR1pHSkZ3Q3ZEUlFtU3ZqZWxOalE1RnBRU3ZTRzJZX0tzbmV6YnAzck85YV84NWFJOTg5UklNWmZUbkwxNUcyTnlrQQ?oc=5",
+   "data": "2026-11-17T19:38:00.000Z",
+   "cat": "IPO",
+   "empresa": "Google",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "1bcbzbc",
    "titulo": "Rockstar inclui mecânicas de empatia em ‘GTA 6’, uma novidade na série",
@@ -47,6 +102,17 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1gq42ip",
+   "titulo": "Dólar opera estável e Ibovespa sobe com mercado atento a pacote fiscal e balanço da Nvidia",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNVRIWFhBQ3ZYc3pIMXhTVGlCamJEeXdrUmRqRjBZVU52Zkt6UTNSWnhic09iWEtQYThLMzl4ajdtWFpXWkY2Q08xcnpIMHZqZG1la0RrWEdBMDlXU05SVG5GM1hmMG1WTEZYSk11SEtlNEJlMENER1NpZnZLQXhNM2ptRUhqRlJUaThrc253T3dxSTVEdXY2Wk1MTWdyT2lmRXE2UTJVUUFwY3loQ0FoWXlNdjE0OHNtQkRfQTVvUDYxdkJPSWFLa25vekk5UlpPdlVSVHRn0gHkAUFVX3lxTFBFd3N2SG9pNkE3NC1OLVRrSXZkUHM1YVFuaHUwdVY0TlJVZ3lDSVVIQXVPZHIyQWduWGw4a3lnc0VvRV9mWTczRmpCMXRBMndIWERZNk9vclU0Rkp4LUxyc3BSQ1RXaVQwVFJlb2FKU21kbWhNdjJDY1dWdUNnUjRFdzZHc0hEbW02VjlETTNvQUNwelhTalVaTDF5aXFTM0Y3VVBoOW5IU2hkdTJuVG1ZUUVrZU1GelptclFFNDViRndtdXA1S0QwRkZKZlAxajhpSHhJVmZEZ1VoS0Fqb3d6aFowNA?oc=5",
+   "data": "2026-11-17T19:07:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Ibovespa",
+   "score": 7,
    "avisado": false
   },
   {
@@ -146,6 +212,17 @@
    "cat": "IPO",
    "empresa": "B3",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "1a4g4gd",
+   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
+   "data": "2026-11-17T18:20:50.000Z",
+   "cat": "Resultado",
+   "empresa": "Ibovespa",
+   "score": 7,
    "avisado": false
   },
   {
@@ -1583,83 +1660,6 @@
    "data": "2026-11-17T10:39:25.000Z",
    "cat": "Regulação",
    "empresa": "Nvidia",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "ilaks5",
-   "titulo": "Jensen Huang transferiu mais de US$ 10 bilhões em ações da Nvidia para fundo familiar meses antes da renúncia",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWWN1Y2NDdGk4S2hNN3JNUmZjNFB5dURJRFY0Z1psdWJUTmdhbUoyYkpBTWQzYVZIdVoxem5UV3VnVTFZR0I5NV9mQ2lESzBJbjJ5R0NVN25Nd3pnbk12OFg4S0UxN0dIX3VPRXlCdUkwamhOdGgzX2lGZ1YyVWEtYllldS1Bai1aYnd1ODdneWN0OXc0dHdOWnBLa0k1bGNGNFBZaXVpVnpEQ3hYQVZLT0FlM21rUlNhSUZuMXJheF9oVS1kX0JoOHFycDBNS2dpbE8zSk9zblFyQjYtaHUzYm9GV0pGcHFDUjQwYQ?oc=5",
-   "data": "2026-11-17T10:38:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "r6wfq2",
-   "titulo": "Modelo de Negócios da GTA VI: Como um Jogo Pode Gerar Lucros por Décadas",
-   "fonte": "KuCoin",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjZUYWREMkNLTFRSMUVqSUcyX0dDYzM0SXQ2Qk8xMVV1dzF3OWRuTWVSM0ZGQUxwenVjRWtpZ21DT2U1Y0N1VVQtNTFtMGZRRzgzR3RScTVFLUFUTExLN05DRTVJckNhSHk0RXcyYU9yMWVvWml1dW8zdXk2RktWeC1Pal9tVzV1R19pUXkwWU95QklWdWFqRHl1LXhiZVBFc25hdkh3?oc=5",
-   "data": "2026-11-17T10:34:40.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "zekzki",
-   "titulo": "Wall Street e Europa caem antes de balanço da Nvidia e IPO da Anthropic",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZ0I4NnpUTG56MWdGczlYZDA1OHVxVW9GQnFqRi11dGljOEVNdXFRX0phN19wcFZqdHVnR2RaR00tVkxCUG9lZHFJTWpUcDdaSDNmZ1J0YzlRNDZpUnJnMXU3dExyYklFUWU4SDF5Ym4tUnU1RXU5VVRHVlhEMzJaVVpndWFmVEI0NTFhYWUxNDhESXFCYWdvOFNNcGNGODdiVXpvQzZWTEVxeDU0?oc=5",
-   "data": "2026-11-17T10:31:27.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "11vearm",
-   "titulo": "Nvidia tem 1º balanço após saída de Huang, e Durigan vai ao Senado",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZDaDVWQk1TaV9BTmx3WmpxVEpBUGIwMHNvU0kyUTlIY1E3blFDOUJaMDZaVzg0SmtEVDVNTlhZLUluSm9iaVVfNjd6bFg2Y3FqMklmclU5Si1xZlZNb192NDNXYko5NEhrNEYwMGpWZklBYzZ1U3huMWRaQmhtaDdxYlpvQTJiQm8tMDFtRVF4UWxmU0l5MURGaEZEdVdYa3FiZ01sc0hSR0xqZFpOUmln?oc=5",
-   "data": "2026-11-17T10:29:33.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "diz7x5",
-   "titulo": "No foco dos estrangeiros, o debate sobre meta de inflação e nomes para o BC",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFpZRjUzUVQwcmZCMDNpNFh2ZV9pem8tVkhzd21MM01iUkE4dXo0TDdUcDcxczhEazFmQUpLN0VzQUp0TWpqWmtkWG9mbWJPWmQxeTY2UlhRMlQ2U1FIT2FpQkRkR0sxdk1EaVBTTDctQ0VwT21PNlBmTXF4azZiclJzMFRPOWE2ZDgyN2hScEduYkZWMURUbDJVX2FWazFuQWwtNng2R2swV29teXJUZks4VElXSkxpbVJPTW1GQkRwUdIB0AFBVV95cUxNVUFQZnQtVDl0NndRaklxYzY3LU0zN1NPS0FxdUp2NF9KSVFpT0VYcU5naHhqUlF3S0Q1dXA5THgzRk1pMkFQNVJzcDhhcmFwdUVZTmd2LXJTTnh2OTJHcGtsR3lmX1AzRHI2RHcyWVVDTFNvWm1FNW1kdGVSSFJ2MmQxZm1GUTFPR3c5bV9IZVkwTmdtN05TQ3c0Z01Salc5STFfVlV1R0puS2VoRFI4R0l6Z1FTYWpObHRoSm1IMmxhTkxlV2xmZXlYNEdwYmRF?oc=5",
-   "data": "2026-11-17T10:28:17.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "j7armi",
-   "titulo": "Polícia investiga morte de menina de 4 anos com sinais de agressão em São José dos Campos; mãe e homem são presos",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOTkp3SXg3eUFEUDhjUDd4dC1JQUtERDA2Q194RDlsZG15bmRiaDc0RTJudTJWWGNxRFVvc3V5MXgxaGdtR1pzeE1YQW0tNG1lX2ZfTUVSaVRINlVTM3JPeEJpLW83UG1xV3JMZDRJV0xzdzdGczJUYmpqcE1YX29Gdkg5N3oxRGYzN2lxTEs0dzJlQ3JTSGNDc1Rwa2NaY1dFRUw4bDF2anlSOUtldzJLd2xtZHBQNldGblZMT0ZwVndqS2M2aV9hMi1sUl9vUDNlaUxTSG1oc1JOSnlDZUFEdDQ0bThEVjVKcTh6ZGFkbDZzOU85V2lVb28tODc2RUxQdWRWTEJSLUdESFVqSV9ZSHlR0gGgAkFVX3lxTE4wMGZ0TEx0bl9uZi14dkZtdEZEWHdNMDZuNzVOTzRBS1AxWGo4UkxLdEh1NUNPcW1BZ3ZodGxqRlJOR2VwQUN4eVo0Y2U3RmJIemhqY3NPSkFsenREUGtLR2ZQdHRHT2FnUDRiQnBWMlhCYnV6ZVFoVDlCYnYyTHA4bDR4d0k3WFRMc3NNNGU2bk5YZkhLcVpsWWhLMU9XSzVROEY0MDBYWFFOaklKcTc2bENTejV5TV9QUkF4RndMc29uYUd1dGNpN1RtMlRQeEJOdHlMTTdrZ05oWVoyT3dMR1JFa1MtZEdpLV9pRUtvWFM3MnZKZjJPS0RQY2pFWWdja0tmZXE5V29NQVBOcnV5cDVQOE1FR2xNNGNjaGtubQ?oc=5",
-   "data": "2026-11-17T10:15:50.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "15mbvwt",
-   "titulo": "PS Store tem 27 lançamentos de 15 a 21/11, de GTA VI a Soul Reaver 2",
-   "fonte": "Espaço do Povo",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZTMxdUhjdWJ2dXBsNHBLM3E2RG81dVRtbmpuLUJLSGNyYkJLM01tcmkxYTAwM1JwSUVGbGg3bFFGQlo2NVpNNnR6cGNSSlVIMnZOR1kxU2o3QTZlYmxlN3VvRWUzU0ZLSkRHRE9lNkhKTnZFZWlkV1pCZ3NwSENYVw?oc=5",
-   "data": "2026-11-17T10:14:24.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "avisado": false
   }
