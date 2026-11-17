@@ -1,10 +1,87 @@
 {
- "atualizado": "2026-11-17T10:30:32.904Z",
+ "atualizado": "2026-11-17T11:00:34.953Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "dozk0s",
+   "titulo": "Ainda vai a tempo de ver novas (e realistas) imagens de \"GTA VI\"",
+   "fonte": "Notícias ao Minuto",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbkx1V3ZSOUI3T1FHdGJvVGxVNDB4Z3NHQUFEMUlmOEtUVWZzZWZKUnNhQ2ZPRC1sTnZBcTRwVTZNcUlzMk54aE91emk0cXUtVF9ScXNfR29SLV8zSkhhX19ZRlRBcERLc1h1NFk2cWtxa1RIVFRLUzlYRHZRVzJwdG9EQU1RV0pnN0daODV6RGQwRFJxZFdQMTJnOFpyVXJTZEpUS1lPZlZBUQ?oc=5",
+   "data": "2026-11-17T10:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "11fo2jv",
+   "titulo": "Totvs Techfin, joint venture entre Totvs (TOTS3) e Itaú (ITUB4), anuncia novo CEO",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVEFGZUxDRnU0bUVuRFdQZ1gzcUxBbzBVaHJkc1N4Nktoclpjakd3ZDR5SGpHV1FBRWV3R2VsUVcyOU5XVXh1VVVvR21kSkJoVUxsTldIY09rbGVxazg3a2NsUFFSTHhJSzZuRmx5b0RDTmFqUlprWDNMSWJvZkZ3Z0NZWkFXMmU4ckNMeVk0QjJ0bWhUVG12VHk5bE1NUDdPTWFTSTZCNnZ5T3NhaTFRZHFVNEvSAboBQVVfeXFMUC1iVXlBNF9id09BS19tTEItTzBsQ2NKeldCcE1aei0wTW1zd2ZWLXVWQm1odTh5SmVwSGpLQk1UNHl0WmxRQzVmS1pzNEQ1cEVabU1RcXBnZU83N1hnRlpFTWlEaDVzMWNRejRXdzZTY2ZiUHVfeEtFZU1hQU0tMTU0czFUS3NDUkFFa3lfN2ZUaFhSRFJvbFdhRWVBeXppai1JMkR5QjFOLUtxbnFlUXZnRlFfSWVLNThB?oc=5",
+   "data": "2026-11-17T10:40:03.000Z",
+   "cat": "Liderança",
+   "empresa": "Itaú",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "1yn9tj5",
+   "titulo": "Nvidia cai mais 1% antes dos resultados enquanto primeira teleconferência de resultados após a saída de Jensen Huang enfrenta teste de regulação de computação da China",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQXzlDNzlZdnZJMHlOa0pjUVRKTzYtZmFQdmlqRjQ4MV9sNTFsTmJwU25RNXlzdHN1Zk1LVXJ6R0VuSGZyY2I3dXpoLUl4c25zQ21abDlYLUJKRmpyTmVkdHJPS3BVNWtwOFdDTjB6bnJaUVRKLW42X3pua3VDT3hCUlpQeUNfaFJOSzZIMHNWdnFUV1haVkhhWTlTdFNEejBzZWh0aFh1U1VyTF9icEhJVDRITU1yWGt4OTBiUGtjZ2NadENkUXNyU2pEY0R4Yk00QUR3Sw?oc=5",
+   "data": "2026-11-17T10:39:25.000Z",
+   "cat": "Regulação",
+   "empresa": "Nvidia",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "ilaks5",
+   "titulo": "Jensen Huang transferiu mais de US$ 10 bilhões em ações da Nvidia para fundo familiar meses antes da renúncia",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQWWN1Y2NDdGk4S2hNN3JNUmZjNFB5dURJRFY0Z1psdWJUTmdhbUoyYkpBTWQzYVZIdVoxem5UV3VnVTFZR0I5NV9mQ2lESzBJbjJ5R0NVN25Nd3pnbk12OFg4S0UxN0dIX3VPRXlCdUkwamhOdGgzX2lGZ1YyVWEtYllldS1Bai1aYnd1ODdneWN0OXc0dHdOWnBLa0k1bGNGNFBZaXVpVnpEQ3hYQVZLT0FlM21rUlNhSUZuMXJheF9oVS1kX0JoOHFycDBNS2dpbE8zSk9zblFyQjYtaHUzYm9GV0pGcHFDUjQwYQ?oc=5",
+   "data": "2026-11-17T10:38:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "r6wfq2",
+   "titulo": "Modelo de Negócios da GTA VI: Como um Jogo Pode Gerar Lucros por Décadas",
+   "fonte": "KuCoin",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWjZUYWREMkNLTFRSMUVqSUcyX0dDYzM0SXQ2Qk8xMVV1dzF3OWRuTWVSM0ZGQUxwenVjRWtpZ21DT2U1Y0N1VVQtNTFtMGZRRzgzR3RScTVFLUFUTExLN05DRTVJckNhSHk0RXcyYU9yMWVvWml1dW8zdXk2RktWeC1Pal9tVzV1R19pUXkwWU95QklWdWFqRHl1LXhiZVBFc25hdkh3?oc=5",
+   "data": "2026-11-17T10:34:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "11vearm",
+   "titulo": "Nvidia tem 1º balanço após saída de Huang, e Durigan vai ao Senado",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOZGZDaDVWQk1TaV9BTmx3WmpxVEpBUGIwMHNvU0kyUTlIY1E3blFDOUJaMDZaVzg0SmtEVDVNTlhZLUluSm9iaVVfNjd6bFg2Y3FqMklmclU5Si1xZlZNb192NDNXYko5NEhrNEYwMGpWZklBYzZ1U3huMWRaQmhtaDdxYlpvQTJiQm8tMDFtRVF4UWxmU0l5MURGaEZEdVdYa3FiZ01sc0hSR0xqZFpOUmln?oc=5",
+   "data": "2026-11-17T10:29:33.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "diz7x5",
+   "titulo": "No foco dos estrangeiros, o debate sobre meta de inflação e nomes para o BC",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMFpZRjUzUVQwcmZCMDNpNFh2ZV9pem8tVkhzd21MM01iUkE4dXo0TDdUcDcxczhEazFmQUpLN0VzQUp0TWpqWmtkWG9mbWJPWmQxeTY2UlhRMlQ2U1FIT2FpQkRkR0sxdk1EaVBTTDctQ0VwT21PNlBmTXF4azZiclJzMFRPOWE2ZDgyN2hScEduYkZWMURUbDJVX2FWazFuQWwtNng2R2swV29teXJUZks4VElXSkxpbVJPTW1GQkRwUdIB0AFBVV95cUxNVUFQZnQtVDl0NndRaklxYzY3LU0zN1NPS0FxdUp2NF9KSVFpT0VYcU5naHhqUlF3S0Q1dXA5THgzRk1pMkFQNVJzcDhhcmFwdUVZTmd2LXJTTnh2OTJHcGtsR3lmX1AzRHI2RHcyWVVDTFNvWm1FNW1kdGVSSFJ2MmQxZm1GUTFPR3c5bV9IZVkwTmdtN05TQ3c0Z01Salc5STFfVlV1R0puS2VoRFI4R0l6Z1FTYWpObHRoSm1IMmxhTkxlV2xmZXlYNEdwYmRF?oc=5",
+   "data": "2026-11-17T10:28:17.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "avisado": false
+  },
   {
    "id": "j7armi",
    "titulo": "Polícia investiga morte de menina de 4 anos com sinais de agressão em São José dos Campos; mãe e homem são presos",
@@ -36,6 +113,17 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "k7pgq6",
+   "titulo": "Bolsas globais recuam com pressão sobre chips e expectativa por balanço da Nvidia",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSjZHY2dLMV9XUDhWQmpnc0RBM0pvZEpKNzhVMlJxZ01OVUZuNGNyV3UzWWhndnUzNk01NFpma2UtZ09RWVlZV3VMOGhDNVB4LWRoc252TUJMWjQ3THNneEd6RElqaklHb0VLVWZ5NDhrbldiS2dKWjh1dEFKMXliOGRSS0xzOUpFdXlVMzBHNkNsREJob2YwZWxNbWcyLWptX2FVaUVEbjdyRzczMWktcjJNeXBicXE2djdFbllOdHZlM3PSAdcBQVVfeXFMT05McDc5WHB6S0t5WHlrcVJsc3hKRk10UDA5QzJmSDBieFVKZFVaRldhM3ZnTVlqUWVrcFc5Z3NITG05SUlZQUJocmlFSFhZLU1NMVVncG5NY0RaUnBjb2otcllhLVplYkVPeHQzY3RVd3pNdU82UHZZQ1d3clVuenFxT0wxdmdMLVFnTEhwLTFDZXV2RGJBdHd4cS1reGNDaXJxN2FkWUVmOFRxZ2paS1FWdlJBZ1NnZGZfZ1RYN2xtakVwaEJVQkNjSF9wa3lSS1c5eXVmZFU?oc=5",
+   "data": "2026-11-17T10:07:28.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "avisado": false
   },
   {
@@ -1573,94 +1661,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "fcfq30",
-   "titulo": "Jensen Huang articula volta à Nvidia após renúncia e ganha apoio de Elon Musk",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaVUwR09PMEVES3dmdGVCM0NqTWF1Yk1DLWpNVW1wYjBjc0t6UWRtakxUWmw4NmY4TGpnVEtLbzd3MldmR3FPekVvUGFfd21Pb0VxNVdfdlNyWDZjVG10ZTdlVmlxZkdadU5qRV9KdE1QZTJTRDJLOEZuRXAwcE1JVTdfLTd4MlBORWJhVngyZWRVMWVMclFROEhTMjZWUi1VNDNzWGF0RV9uNXA4VWdZYXB2VQ?oc=5",
-   "data": "2026-11-16T14:55:13.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "uldc4f",
-   "titulo": "Bitcoin cai ao menor nível desde julho; IPO de empresa de IA tem culpa?",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOWkdIR0k1Q1dhRWljZFJWVS0wTjU4b3ZUcWV6eVM2aFFHSWdVSGFkRTk2QlRvQWpqR2Y3aU1FX2c3Y29oUjE3Skdkak0wX0lhT2tyd0hrbnZKeWp6RWdVZ0ZOQUlmemY2Mi1yVkdIeUlLcHpVSmNxN3FWT2JwLWd1cVpmOXYzVENRMVJfajM2Tng3V3dJUHlTSU9IUE1hQlptZ0VwdUdqeFhWb3JibVlmVEp5SGJHbS1kLW5OZHZPVGhUUXRQUGhXT2RZVzNCQlhfMDgxLVBWVUJ1OTRseHFrX0tQMDhEM03SAecBQVVfeXFMTlpHSEdJNUNXYUVpY2RSVlUtME41OG92VHFlenlTNmhRR0lnVUhhZEU5NkJUb0FqakdmN2lNRV9nN2NvaFIxN0pHZGpNMF9JYU9rcndIa252SnlqekVnVWdGTkFJZnpmNjItclZHSHlJS3B6VUpjcTdxVk9icC1ndXFaZjl2M1RDUTFSX2ozNk54N1d3SVB5U0lPSFBNYUJabWdFcHVHanhYVm9yYm1ZZlRKeUhiR20tZC1uTmR2T1RoVFF0UFBoV09kWVczQkJYXzA4MS1QVlVCdTk0bHhxa19LUDA4RDNN?oc=5",
-   "data": "2026-11-16T14:53:29.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1v65kzt",
-   "titulo": "Anthropic sobe em cripto e pré-IPO chega perto de US$ 1.000",
-   "fonte": "portalcripto.com.br",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU0xNMDQtQW5VY1daTnFTSGMyeFNmMTZLXzk5YnFZQzJpVnJsaGJxVW9Cb1RyR1ZxVUUwX0RRZjZialNFU1VERlVPcjRZWUNlWmNhT051U1l1VUxJM2QzUklPeng4V2hHTTdQanF0YkwwanZSRkdpYmtMYjlqVzQxMGhhenRkYkdDSVFIc01HQy1fZG9aN0RoX2tjUEt2T01WeV84Tw?oc=5",
-   "data": "2026-11-16T14:50:01.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "nhsp0f",
-   "titulo": "Anthropic entra em bolsa esta semana. Forte procura dos investidores impulsiona IPO que pode bater recordes",
-   "fonte": "Tek Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNXRLcHU1Mm94c2VLN19NOVZhdDZzOHNLSWV1UFFzSnJlcXcwdFJqZVhILVlJU3Z2eDhvNm9DcE5fbldvUnV6eTVyRW1tY21rT0xpSjNyMkhqc2R4RFpoOGJkTmNoczRlTkd6S2xUX3QzQmtFWWI2S0I1Z0h6Zjk3THJhbjlNS3AySF8zRzlmQkRzTHdIaWZMTUtzRVdCa1FpdW1kLTh4RUYzNUVTOU9ha1RWQWtvSHByczgzazQzRm13M2FLM0Ftd1VSUjZJc1hfcHh0RXpMeDVWU21CMGRvRFlBRTlDQ3Bl?oc=5",
-   "data": "2026-11-16T14:44:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "h6yk8s",
-   "titulo": "Nasdaq abre 1.5% em baixa; resultados da Nvidia e IPO da Anthropic pressionam ações de IA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85eUpQb2ZyWGM3V0lvWTl6RTBBMGxiSUNqMnZsNWZKWklJNlBzdWNuaEtZT3RrZnV1QWNvMWc0TWc3UEs0TDdHY1BfTFVOWUdJQ3dsS1daQWR2MW1oUnAyMUVMSWZPaUk?oc=5",
-   "data": "2026-11-16T14:43:49.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "11es7zr",
-   "titulo": "Meio-Dia Mercado: O Ibovespa operava com queda, após Focus elevar inflação e juros enquanto a prévia do PIB recua",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXlhaHNsRGVySkxIWDdxaTkxeTNfakRiOUR2T21OeGlrbktPQjExRks2Yl9zS2pwdldqUk9zVEg3MzVtYkRaXzdkcW5VdDMzQ1RUMkh0NFNzcGdlbW1wWW9vaGNkck9icWNKRXpQZlVMd0luY18wNVVtVl90SnAycTJWRHFIaVdlWGxZZnFheEhDYnR2MHEwSkw4MEs0cUNOSmNUSjdWVmNobGdMME1LWE8zbTJkS1AtckJOcVp5eFBXZ2x2OWtKeW9fRGdkSG5YY2tUaFBhMmxKcVA5VEZXcw?oc=5",
-   "data": "2026-11-16T14:36:53.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "xxq0uq",
-   "titulo": "Golpe da pré-venda do GTA VI usa Pix e CPF; plataforma também pode responder",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTTJ4ZktXRVRoV0FYN181Mm1xemV2X0EySWFfTmdVdV91ZXRIdkdPb0trTEdKbHIxX1VDeVRieFZZX1FMRE9ualJzbV9WNF9tVldSU0tTVExoYUZadkg1NmNhSlVVT1hqaXVabW5qbGlFOVlaMU91R25rRGlWSnl1WEJOSE54QW9xZF8xeVI4eDZaci1DdEJSM1pNRkIxSG51MXRfTGo4YUk0MExoVlp2c0xnV3l2Z1ZyTUdNT29nV1p6RWh2TGJBX0dMUUxlTHdiUjhmc1pjbjlSMTdaR0QtU1VBbm_SAfMBQVVfeXFMT1VMSERsVkp1LWZxNkVGTWlsVnM1RWMyUGNCVGwyZlBnel92bTBuRVNNNG9RaVc0VVByb0JjZlJjYXU1S25WWEtXR3hWZmNOZFNoaGU1bFktLUtpeV9ZbWJVTVFVYzd0bDVsX0I0dGktQmJSZmVUT3ZfN2E5NHEwM3czaWxvMDZTSl9zcU8wZjBxREFxSkpDVGUybjJ5SjhqYkw0QjJKbUE1OFpMZ09mYVJsdTctNkhnMGFOOEc0VnB2bWJONmExYnlOckJQTy1BM09UV2pGVF9PUDh1VkczYmxIdDBweUt1eHhLU0tkNXl2UHEw?oc=5",
-   "data": "2026-11-16T14:28:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "c1t606",
-   "titulo": "Strategy compra 485 bitcoins e amarga prejuízo contábil de US$ 9,7 bilhões",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZENIWllCOHl2V01KMkliczRtWUp6RXkxT0tHS2dGOEE1dXZMRWRnR1N5dTZTMlVVbkpERi1JSF9lS3duczl4NTYxRWFVUjFGZUwyM2ZLTER5amNmWW1JY0IwVDFzQmd1NW8xRWgwd3BRdVRqeHQydlJ5QTgwTWpvNzR5bGRlRVpoNHBsSXF4c2RFOEpBM0N0cWk2eWRqVjM0V2xNQTREdkM0bGV4cko1OUtleTc3ZEQwd01N?oc=5",
-   "data": "2026-11-16T14:28:36.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 5,
    "avisado": false
   }
  ]
