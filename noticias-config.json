@@ -1,33 +1,44 @@
 {
-  "limiarAviso": 7,
-  "maxPorRodada": 3,
-  "maxPorDia": 8,
+  "limiarAviso": 8,
+  "maxPorRodada": 1,
+  "maxPorDia": 6,
+  "horasMesmoAssunto": 48,
   "horaInicio": 7,
   "horaFim": 23,
   "empresasBR": ["Petrobras", "Vale", "Itaú", "Bradesco", "Banco do Brasil", "WEG", "Ambev", "B3", "Suzano", "Localiza", "PRIO", "Magazine Luiza", "Ibovespa"],
-  "empresasUS": ["Nvidia", "Apple", "Microsoft", "Alphabet", "Google", "Amazon", "Meta", "Tesla", "Take-Two", "Rockstar", "GTA VI"],
+  "empresasUS": ["Nvidia", "Apple", "Microsoft", "Alphabet", "Google", "Amazon", "Meta", "Tesla", "Take-Two", "Rockstar", "GTA VI", "Netflix", "AMD", "Walmart", "Disney"],
   "destaques": ["Anthropic", "OpenAI", "SpaceX", "Federal Reserve", "Copom"],
   "termos": [
-    { "q": "IPO bolsa oferta pública inicial bilhões" },
-    { "q": "abertura de capital IPO B3 pedido de registro CVM" },
-    { "q": "Anthropic OR OpenAI OR SpaceX IPO" },
-    { "q": "CEO renuncia OR deixa o comando empresa" },
-    { "q": "divulga balanço trimestre ações disparam OR despencam" },
-    { "q": "recuperação judicial OR fraude OR investigação empresa listada" },
-    { "q": "aquisição OR fusão OR oferta de compra bilhões empresa" },
-    { "q": "Ibovespa Copom Selic dólar" },
-    { "q": "lançamento adiado OR confirmado games OR tecnologia ações" }
+    "IPO bolsa oferta pública inicial bilhões",
+    "abertura de capital IPO B3 pedido de registro CVM",
+    "Anthropic OR OpenAI OR SpaceX IPO",
+    "CEO renuncia OR deixa o comando empresa",
+    "recuperação judicial OR fraude OR investigação empresa listada",
+    "aquisição OR fusão OR oferta de compra bilhões empresa",
+    "Ibovespa Copom Selic dólar"
   ],
-  "eventos": [
-    {
-      "data": "2026-11-17",
-      "titulo": "Balanço da Nvidia (NVDC34)",
-      "msg": "Data informada por você; confirme no site de relações com investidores da Nvidia. Costuma sair após o fechamento dos EUA e pode mexer forte no preço no dia seguinte."
-    },
-    {
-      "data": "2026-11-19",
-      "titulo": "Lançamento de GTA VI (Take-Two, T1TW34)",
-      "msg": "Lançamento mundial marcado para hoje. Ações costumam se mover antes e depois da data. Evite comprar no impulso."
-    }
-  ]
+  "termosAgenda": [
+    "agenda da semana mercado balanços",
+    "divulga balanço nesta OR amanhã",
+    "o que esperar do balanço",
+    "data de lançamento confirmada",
+    "Copom OR Fed decide juros nesta"
+  ],
+  "agendaEUA": {
+    "NVDA": "Nvidia (NVDC34)",
+    "AAPL": "Apple (AAPL34)",
+    "MSFT": "Microsoft (MSFT34)",
+    "GOOGL": "Alphabet (GOGL34)",
+    "AMZN": "Amazon (AMZO34)",
+    "META": "Meta (M1TA34)",
+    "TSLA": "Tesla (TSLA34)",
+    "TTWO": "Take-Two (T1TW34)",
+    "NFLX": "Netflix (NFLX34)",
+    "AMD": "AMD (A1MD34)",
+    "WMT": "Walmart (WALM34)",
+    "DIS": "Disney (DISB34)"
+  },
+  "fontesConfiaveis": ["Forbes", "InfoMoney", "Valor", "Exame", "Estadão", "Folha", "O Globo", "g1", "CNN Brasil", "Bloomberg", "Reuters", "Money Times", "Seu Dinheiro", "InvestNews", "Brazil Journal", "E-Investidor", "BBC"],
+  "fontesBloqueadas": ["Instagram", "Facebook", "TikTok", "YouTube", "X (Twitter)", "Twitter", "Threads", "LinkedIn", "Kwai"],
+  "eventos": []
 }
