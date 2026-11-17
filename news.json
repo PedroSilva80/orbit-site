@@ -1,10 +1,87 @@
 {
- "atualizado": "2026-11-17T15:00:34.536Z",
+ "atualizado": "2026-11-17T15:30:28.664Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "bdncpi",
+   "titulo": "B3 vai lançar BDR da Anthropic simultaneamente ao IPO da empresa nos EUA; veja o valor",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdXF6QncwTTYtcTUtT2tzQXBrZmR1ZHVwRmNQdmdIRnlxblBHU2dMMWJpYUtOakhhT1BuVzdOa0t4Rkl4TkFoRUhQU3pIU1k3dnYycHhkT2hlb2VWRl9kUHVpT0Z4d2xTZmN4alZsWnZrWEpWZHRtMmVrRjJINkZUdzhPR0hFLW15R19qb1Y4TmdFbWtSMy1IZDlhY1ZyZkV5THFkQWJmaXRWV2FTTDFDU2hIMDhmV2NkX25zV1h2amhnQTR5dmZOUjczX3VSMzFlUjJFZ3lSNVh1V09lSUxKRDJmTHJmSVE?oc=5",
+   "data": "2026-11-17T15:26:41.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "ps6j14",
+   "titulo": "Investidores portugueses ficam de fora do IPO da Anthropic",
+   "fonte": "MoneyLab",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVWVaeDh6SnhiQmpDeFlkWWM2ZVRoWVl6emdkcXkyYWwxU09fMVBzQlpjNDRWbDEzeVdZc2R2cHMwS1hCWTc4bExTMDNTUlhBY3FqNW5ZaGgwRmYxX2VNQkFleGlnejR0V29mVzVvV2pXQkI3UTBJVUVIZWpOcHdqOHB4c0YzM0xKQUtRZWZOWW0zNDg?oc=5",
+   "data": "2026-11-17T15:15:08.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "15guaob",
+   "titulo": "GTA VI: saiba o horário de lançamento no Brasil e onde jogar",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3JrejFHQVZZcGtOcXJRRFJSWjFyalpoWDRCRkRpS2xiV2FOQjVOSEdyamp6N28yRVBVUHZVbUVyNUdVazBzR0lmWlNnRUJmMWdnRTNTUmJSR3poLVpqMWxUNkZlcGVtUWNmR1BNRXJOV0sydVV4a3hHcURLSk9oSHFTX2RSRDBENlNKRERvMy1ZbUdwRmVhd1BaQ1NUUQ?oc=5",
+   "data": "2026-11-17T15:08:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1st6m39",
+   "titulo": "Apple pode ser multada por dificultar Pix por aproximação no iPhone? Entenda investigação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3BhaVZiZUVBN3JVVDVTZkJRVm1qSnJNU2dldDdlMWdHc0ZqQU1aRUxSRldORldVUjhheUI4ZjMxMFJyaGNOU3JVTUF1UDRtSnNTREg4bnVnX19yRWxaWHJUR3BYa1hqYTBOVEdsMk8xZHB5c1dwOEFBQ3pWLWtoQzg2UGNHUVo5eWFpdzF0SU1uUDI2RUpwVTZ2dFQ5aDBzbjZjcHlESVJXaUVKM1o4NHJYTlYxaTIxa1NxM2V3LVhwelBWYTMzbEhLa0FSS3Jh0gHWAUFVX3lxTE1meXlsc3JoV3pFYjdZbjZfNVZMQTdkcjJIU3cxRndfZ1p6UGRTRFp1bXBRWTg4VnEzLXhITGlJWmxfblY5aGtKcG13SHJxWVc2My1IMUNPdUlGbFZlbUtDa0xxWFZfZDVJZXBOc20yNlBNdVRHSFVObnV5ZE5EU3lBRjBhQ2hLUy13bGRDNVEwOUhhR0V0UVdaZU02LVV0M3RSZFJzdEh0blRGb1Ezbkc4ZFE5Q18xYk5XVHhWUHdTS0RsdGtaUUVmUVVVaFhaeWdwMVJuZ3c?oc=5",
+   "data": "2026-11-17T15:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Apple",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "trftmr",
+   "titulo": "Wall Street recua à espera de balanço da Nvidia, enquanto tensão no Oriente Médio faz petróleo subir",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9peVVBSnNpZ0Fza2JXelloY2hCc2tjenlFdlYzb2stX2ZFOFRyYThpTzREYThoUGxadGhoN1YyZDgtVEJGUkxjWnFqRXZEV3hPUDdIRmdvdDF0RTd3UjhxZ1l4OVFQaFpQQzV5aTJBX185bmhWRkhmNWNkVFgtVWR4MFM3VFVxNUpvQVBscFVPYVJ1akpzMGwwTG9QXzlDM3oyZXB6MFdWOFVoSEw1cnBnTGRQU1ZHWnc2a0d3ZTVYa203c3Budm5ZWVZlOEhPbW1Ba0FYWGtGU3fSAeABQVVfeXFMT0FiUlRycWdlekJXM1BWXzRXTmJmWW0tZnpqaXBRTEk3MWZPb20xN0lZQkxvR2lJN3VCUXZ2UEkwSG13THJIVnhNQ3BEcHRlZlNKM0MtV01RSGdoTzRMSjN1SHpsdnRXYTZGcmpWV2JXU0xPTkpDaXVTZkNDTl9MNDZ6c0syTjlBV2ZrWFVtcE5wUjRnYmttLVFVMTFEaVJkZTRkMVJ5TFJvR3NjM2FpZmN4RC16UlZVdkRZYWxHc3phWTM4azZ3RVlkbnN1eG1MV1ViME5BdndEcnB2SWhWR0k?oc=5",
+   "data": "2026-11-17T14:59:06.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "tc5zdt",
+   "titulo": "Anthropic deve receber múltiplos pedidos de US$ 10 bilhões ou mais em IPO",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWJFeV9DZjRwWmZUWktEV3A1RDdzUUxIakZ1Y0RSdjdzajdkbW1hclB4RVNsUlpCT2FyM183N3V6anFNQTZ5MnhqcWhQTWp6QXpUUzN6bFdEMHRyd1FsSmRSdGtlN3FEaDVFOHVxbUhSWXk5cDdTX3hWdk8wb2tJUlpiU0JRUnE0SUNwUVBNR1pWb05vRTItQVZkWWJuUU5XTi1vcG9TZzJ6OEl3dTZKSFZkSngxTWcyUjdhTWpiTEtaTjlQYUhWLUxvdWE2NVU?oc=5",
+   "data": "2026-11-17T14:57:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "1htkdnp",
+   "titulo": "Ajuste fiscal no Brasil e balanço da Nvidia pautam o mercado financeiro nesta terça-feira",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWVlTExrYmxnWjRVZ0V0SEM4eXV1emRfTWpyaHh5YVJtcGZDQUNqS0FnVkhRbFQ2SGRNMFRXYk5saHMxVFNSSjh2cTY3WWxISjF5S0ZCY1hQckp4bWNOUHo5MFNiLTZQTHN4dE93ZUMtQ1kxMTJ6VTQyTXR6cnVUZGdCRHdkRkotYTVwQ3l4Mm0zdHh3N1JVTXZ2aHozODY5ZDgwUElfVl96MzR1Y3l2M3RPUlRaT1YyU2dKMA?oc=5",
+   "data": "2026-11-17T14:52:50.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
   {
    "id": "qgcu59",
    "titulo": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
@@ -666,6 +743,17 @@
    "cat": "Resultado",
    "empresa": "Ibovespa",
    "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "7nxwlj",
+   "titulo": "GTA 6 quer que você pense antes de espalhar o caos. Pela primeira vez na história, a Rockstar criou mecanismos para incentivar a empatia",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQRkdVUlN4ZTFIcXBYUExyTUJ3NGExVW1EZjlnZktWS3h0czdrZHVDUVcwRjMtNnh0VFFlRnJrWXNPNjVvcDJZLU10eXUzd1pOZmM0TFZfN1ozRDgtbUp3R01lTFlQRmkzZ1drTWdLNk9Za2VhRHkwMHhaODdEQzAzeG85MEU3MHN2ZUJFdndhcDFscERxeERGeFFHeU9LOTZXcDE2blc4c1EwcHJ3WFN5RFVOanRxRVZla202ZjhKdzdOVDBTZTZoTWtaRFp4UTBOLWkyUk90NVFSeXktMHFTOGNKME9UMTdWbUE1cE5YU0RES0VCa0J6YmZuWFl3QzBnMUpidFRyNl9kZzQyVTE5dXprSUdIZ1NaQnZvZnBxTEJwXzZELUVkbmNYOVI3VDhTNmlGbQ?oc=5",
+   "data": "2026-11-17T11:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "avisado": false
   },
   {
@@ -1573,94 +1661,6 @@
    "cat": "Lançamento",
    "empresa": "Apple",
    "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1mpkh2w",
-   "titulo": "Funcionários da Rockstar começam a votar sindicalização antes da chegada de GTA 6; entenda",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQam5tVm51LVFRa3R6N0d2dFRsTzEzYXFtMlpPNjNpVUtYNXZyMjBsc3pqY2Z0c0xZMXdiR21tR1BQVl93MXdsR01sV01seXdQbnlLdy1OcFlOenNoMXBFUmxOS3g5YjV6ejVvNGlKcHB2UWgtVzlmZW1wN1hfMnNQQmpuX2FnTEN4YlR6NVBPUmxxT1dERzI4RVBaWUZwUXZ6bEtDZHczZUhVbjBaTGNMaFgxMG1ocXRFYmFZWlY5YmcxQUdCcWNsN2Z6YTlyRjZpX1k3UnhiME0?oc=5",
-   "data": "2026-11-16T20:56:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "8w3m0p",
-   "titulo": "Banco do Brasil tem queda de 42,4% no lucro em nove meses, pressionado pela inadimplência do agronegócio",
-   "fonte": "Contraf-CUT",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNVBubGpZenZxbUpCZi1RTjhkRF81YW1odTJ4bTdfZTZjTHQ5Y3VJQlZIR3B1Q3A5RGFVQkMxWFd0TzdfNS1NdVJaSkNwYjhfU2dCR29fTVNEZmVrQ0pFb245VTZDZDhmLTIxalZlZE1sdnV2VzU3RXJiQmdVakNzcktKcDJOSnRfUTJyOWoyeWlfVlY5QXMwU0ZUWHRueTIwWUI1SjdXQV91UFZWZTFfcE9jRVkwdE5WU25idzlfVUtzSHpuN2VRUk9Sb21XdTlqeTBGMA?oc=5",
-   "data": "2026-11-16T20:53:09.000Z",
-   "cat": "Resultado",
-   "empresa": "Banco do Brasil",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "g9oupp",
-   "titulo": "Anthropic’s IPO Reveals Profitable Growth",
-   "fonte": "Carson Group",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVVlvRG1VN1ZuMFE1TllXS2xvc3VYYmJLT2l3aVVSV2V6Vk5jcktrdkQyUDdOT1V3Nk83eHEyeXRzeGQ3cUVWVV9BZ1c2Q2ZJaEZ5Q0Q0TTBmZGNYb0tHal9CWFA1OG1PdXZNWXJFWGNLdDZXSVJkWTFwU180UkV6dWRodjVQOXpIaVNF?oc=5",
-   "data": "2026-11-16T20:51:11.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "mp1cu9",
-   "titulo": "A CEO steps down unexpectedly — what should HR do next?",
-   "fonte": "Canadian HR Reporter",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWxYU2dNdjNjSGdXY19oZDF5RkZETkNkTjlEODJnVXhiZ2JBaUJnX29oQW1renRMV2tZandSenFpNk1TaGhIdlNKRmQwdXNMZEhVN0RMTFByMGdrTVdCZTg0QlRPNDRLUnllSm9zX1NBc1NuUkpXN2JxVUJBVjB3Xzctcmw0b3JWR1YtaENCaFNuaGI5b3ZVUkxpSzFKQ3BGd04yT2s5VnRGV2JadVhaaEo2U252di1qcXNEMjBhYldXZVJPelNLOQ?oc=5",
-   "data": "2026-11-16T20:50:52.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1m2mkws",
-   "titulo": "Prio e ExxonMobil arrematam cargas de petróleo de Búzios em leilão da PPSA",
-   "fonte": "TAGD Advogados",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDhBMHBNVzFYUmpnUXpRSGNPSHNpWGVJXzh1OE8tT2c5cmo1azkwR0M1T0h5SkNzUVA1S0tmTlMwLUhfWS1wT25HZ2QzSGxQQ3U5SzdqNGNlbzh1S3RwWnZFTFU5M1lfZGtVclJXMWhoS1RQN1ExZmJnbmUwU2RvWTJBNmlZYW5pLTlvVkY0RWYxYndMSG9CNTlQU25KY2c?oc=5",
-   "data": "2026-11-16T20:49:06.000Z",
-   "cat": "Mercado",
-   "empresa": "PRIO",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "g9j8ex",
-   "titulo": "Anthropic IPO tests AI safety promises as profits loom",
-   "fonte": "thebusinessjournal.com",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tVU5kbDBsdHA1Vl8zMm0xcTAxb2F1aGNOcmZSaTZwNXJhWXVqU0pMYXFJSVA3b3lDRlJFcFVaaldfNm1ZcXNQaThuajdnOTVNRm9ja3ZuRXlhcUt6UUJuNG1CMkpYQVk0WlpxbEJDTW4?oc=5",
-   "data": "2026-11-16T20:40:13.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "4azl5s",
-   "titulo": "Petição com líderes do Vale do Silício pede a volta de ex-CEO da Nvidia quatro dias após renúncia",
-   "fonte": "Rádio Metrópole",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNXNCSHFZWlBxSHZUcllQbkZHeHRCajZQV0tOMkRaZzZsMGItZjZTVThuem9HVVYtVWoyZjJmZmRJVm16OEhZczI5MmVKTHE5S2pRbjBYMC1qZjE3Njg3LXAzT0g4ejBxcWt2WC1qT1JtWnBVTzFQdjRLTHVCcGRqbDc4OXFNQnRVc3RqRkdUdWJZbm5Qa3JBNVNhbEtvVFZSTklHXzQyV2NFYWRzcjh2VWlhdjh2amhvbU1qVDhienVhNVJKVTdHWEJ0YTNWRF91NlVrSUk5QzNydlJidHpxSTNwTURUYW1f?oc=5",
-   "data": "2026-11-16T20:37:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Vale",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "116phs6",
-   "titulo": "Mercado Pré-IPO da Anthropic da OKX Testa Descoberta de Preços com Alavancagem de até 10x",
-   "fonte": "FinanceFeeds",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yd2taVzUxWTJlMmx0UmkzMG5BeXVrdFY1WFl5Mnk2eXdyT2d2RURrV2dQRHZQVUtrOGlwNEZja2k2YjA5TVlUMmFpT3RZMjZyZjNTd291RTJIbnVJZ19kTUtCQkEzZHRXRVR0VWtTakxhbmNDT2hfaGxwX25EVkU?oc=5",
-   "data": "2026-11-16T20:28:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "avisado": false
   }
  ]
