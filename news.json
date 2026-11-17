@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T21:00:33.206Z",
+ "atualizado": "2026-11-17T21:30:27.799Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -42,6 +42,78 @@
  ],
  "itens": [
   {
+   "id": "100iqps",
+   "titulo": "GTA VI bate recorde de pré-venda a dois dias do lançamento",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZm0wNDVjcnRWVzl4ZWV3QXBTeUx3SkN5NU53MVRNWGxVSmZ1OFFMLXpPWGJ3REx1cTZRVXhCSmtTZW04MFNiUnlJTGJjWWxJZU1RQ3kzOWVKSzM4SFBfS0JzekYtT3RvWTZHcjAxY0E4MjdOTW5ycDhzRkVaYTF0Ymx1ZHBVYzFlTjJleFp2OWVwWGUwOU0yR3JjMnFEMUFfZmxlUWZnOVFnaThzNjVpTFFfcVlReDlYSENpSTZrejNkd9IB0AFBVV95cUxNMFBJa0sxWWFIWGZlVzlGelU1Q29tbHFOOHlvR1FiNkVYTi1qRk92ekdfWlZqamJpZU9ON1E3MFNVRkx0TXo3bWtwdjhlWV9OcXVDTWVBYU5WVi1maHF5OWFoSFFVMUc0M2h0OXg0MTJ3aTBDeWNPM1I0RVQyS0h0c20yZU1yVjVSYTFJcUgzTlFPVmJhOGViTDlmY2J6UUNNNWhXdDlkOFdVSUhlYTMwTkpSQ1VYZmkyTmNKa2RpcjlVVXlEdmNCRlBjR0kyRFg5?oc=5",
+   "data": "2026-11-17T21:11:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rps3fp",
+   "titulo": "Anthropic prevê ultrapassar a faixa de US$ 78 no lançamento de ações",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajkwZTRVTDBDbDU5dk53SWh1ZWVpTnFPQXhReGJvLVRhSmFVWUJTVFpYWUxwbEZ2djlRUW5nLV9kNllZQ1hjaF9ZZ2ZxdV9YSFR2Tk1ienFaRWpQcDl4RXRjaWxWZVlSNjlCeFJ5bEdBX1JTUXlzT2Z0VDhjanZ0UlEtbWpKTGNwdUF4S19YbVBSdkFaNVk0dWMyT1VRY2JDNWc?oc=5",
+   "data": "2026-11-17T21:10:41.000Z",
+   "cat": "Lançamento",
+   "empresa": "Anthropic",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "540exq",
+   "titulo": "Nvidia se prepara para divulgar balanço em meio a escândalos e incertezas sobre IA",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTFo0VnZscG9STUVRaWh2dm9zRl9QQXF0X1A1SXNMb01xYUhaT2RwV0hlMThVZTBVTkFseUFQSlF1WG4xWU1kSUF6R0ZVTDRlZ1dZcElsZThYNklQUzl4S2k5WDRiU1Z4VnhpWjhfWWUxVlN4bWRtdmVoS1dEdmF6M3M3aFZIYkFkZ2M5VmlPUEV1QUp3MmJaQzc0dWsxWS03YnNMQU9ia3RSZE4xcVFVczZMdGIxbi1B?oc=5",
+   "data": "2026-11-17T21:07:20.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "p680gc",
+   "titulo": "Petição pelo retorno de Jensen Huang à Nvidia reúne mais de 180 mil assinaturas",
+   "fonte": "REDE BRASIL DE TELEVISÃO",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYjctRjlCUDRkYVZXYnNCeTRtSjk4QjJHYmlHYmV4NUkyc1VfZEFnMzFoMTU3eDg5Wkl6dHZIcEdoOGUtTEtuWVY4MDJlR2pqUzE1Z3Zxa3ozekpQeF94Sk5QQzhOSF9RaldtYlk1dHN4R2ZVS1hpNDJjSHQyY3NMdkhObWtNMzdFYlNoaHVuSW45TFQxejFNbVV0Zk12Q1NucEhSa3Vlb05nWUZ3TFg2ZGxSVQ?oc=5",
+   "data": "2026-11-17T21:04:55.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lgeg7v",
+   "titulo": "Ex-CEO da Nvidia diz estar disposto a voltar ao comando da companhia após renúncia",
+   "fonte": "Terra Brasil Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNb1NKczZobmgtT3NjZWZPS3dqYmFPbkxROUQ5T2NxZzNRc1M4c3lGUmYzRXVTLXh1UjRrVmcxbVNDX2JVQ1E4MUFzUHg1LWxpdmtlRmFUMVllRmJHc3NVWlBQZGlTZkRFZ0dtZkFRVDR3ZFBuek4tdWxTcDNpWjBNSGJ5ci1GWlpucWZJWTZaX1RReHNnanVTNGVGeEh1MEdfNmN2bkxDSkxlb0h6OEdBVjhpd045SXpWdmhtMzUzQXQ?oc=5",
+   "data": "2026-11-17T21:01:44.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "10oro3f",
+   "titulo": "REUNIÃO DE TRUMP E XI E IPO DA ANTHROPIC MARCAM SEMANA DECISIVA DA IA",
+   "fonte": "Fernando Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNTNPRUY2STM4RnRnTGl6bV9FWTVfQkdzOFlfemE1V21waGN6R3NnRkx1RlRwWlFoWEstSkNwOFdpWmQtTURPcUg2ZkgzQjBrUW92ZHY5M2xyX1Y3cTBHcHk4X21hMUVSZUlUUXBGWWNIZndXNExYZlBGbjEydVVOak85Q1NuY1JYVnNRWmxpMFFxamF1bGNfYWl1UlVKVnBlcVRrXw?oc=5",
+   "data": "2026-11-17T20:55:13.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "11qby6g",
    "titulo": "Preço das ações da Anthropic pode superar US$ 80 antes do IPO, está alto demais?",
    "fonte": "BeInCrypto",
@@ -50,6 +122,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gj70xb",
+   "titulo": "'Angry Birds 3 - O Filme' aproveita expectativa por 'GTA VI' e divulga pôster inspirado no videogame",
+   "fonte": "Ingresso.com",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOR3F0YzVGb1hjQ2RORmxMeG1kdXRyQjJ0cTNyWVBUVjZoNURNak13NlJ0VUI3YnBkSDZVMDB3Zmwzc0FqOFNIV1FkTEV4UElISDE1MlhGM1lubTMzZ1ZIZmxOZ2x0ODJBWUdoeFZiVnJubklTbUhTS2FDMVg4U2xsaWItdUFiSWlVZGtGSGRDVVRwZw?oc=5",
+   "data": "2026-11-17T20:50:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -146,6 +230,18 @@
    "cat": "Lançamento",
    "empresa": "B3",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "3pa8g4",
+   "titulo": "IPO da Anthropic: datas-chave, preço e como negociar ANT on-chain",
+   "fonte": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONl8zZlJUMUlxamwtQzFaXzAzdmxXUEswT1pQVkt3MFhSb0JjT0VXbEhaWUplUlRuUjFOTEZsV3Q0Mnp2WV9ZSlJzeVNhMk93Z3B6b1ZRb3ZFMm1UdklJajBvenM2ckRJQmlnQUd4X0gwcUswaEYzS1NsWkVhUjFTNmhYckU2UlZkdHN5MFJB?oc=5",
+   "data": "2026-11-17T20:23:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1750,102 +1846,6 @@
    "score": 8,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "iep37n",
-   "titulo": "Amazon prevê Black Friday recorde no Brasil e aposta em 'Alexa para compras' para comparar preços com IA",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNanpCMmwxdTBUb3EzOG1nWlZ3ekVUc2NhbUJvUk1wejhnNXBESkx2ZnJtM2hKMjhUR3pzVFNmNVpuN0RScExMWUwzaEFrM1I2WE5ibDZscWdPaVJESTBKUjdjX1Z3d0U1OFc0SDNiZmtDMlFfeDg1YTczU3c4SHlCOG5uVXdOeS1hSUcxSXlubFBWY0l4NW83b2l5WVh2Ulhqa0JsYlF4a0ktQ2VoYV8zZlNya3c4eU1WUWZNNjRhMHlFOUNyLUtkclVudHJxS0l3SWx6RG5MLXdnQm5oaHI4Y2NfdDdXdnZZXzdGVmdIaHBXTWxqd3YwSWFyRlVVNTjSAY4CQVVfeXFMUDJYeEZNZXhuMUZiTWZ1WllhUDBLREJJaHRlby1yUHJyN2k5cjVSUlhDVVcyRXAtVDlsS0szVWZHclBraXNDR2QzeWdBNFBWX09lMFdES1R2Q1EtN21mdjhDcy14S0ZOMGdFeVRFbUVrNG1xNnNUZUJjeG5idXNDN01YMG02dEFRSWNMZjZRR3NCRUQ0TkJQZkg1ckdsbWNpLTF6aVJka0JnWjZBYnhfWXY1R2QzT25tdUlFRTV3UHNXcVNOU1hiSVd1akFjTlNORjBDbmtPeHJZTGpGNGplYUhBTVhlamROaDlDTllYN3gtZmxWQ0hyV3NiRXFxSDJmWkM5RURWU1RESXZQNDZn?oc=5",
-   "data": "2026-11-17T13:00:01.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1dtl0wk",
-   "titulo": "O que o balanço do Banco do Brasil revela sobre o crédito rural",
-   "fonte": "Rota Jurídica",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ3V6VVR5WTFULUR3SE8yMHNaMzBuTnRKZFdHRlVwOTBUcVpsRUlqLXg1cnNxQUU1RE9fSFJpSXJYUksxb0NaM19LRUNKcld0V3BZQnZGeWZ0LUZjSjU3WVdTT2lRbG9VZXVGbENuTFlmYm0wejVhOUM2RFdvbGhJbUJ2Tk5yMl9ndnNPeUVWVTFUbEpvRTB1RHc3Yi1HV0tLTU1RNWI2Yw?oc=5",
-   "data": "2026-11-17T12:56:02.000Z",
-   "cat": "Resultado",
-   "empresa": "Banco do Brasil",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1c27mjy",
-   "titulo": "Vivo negocia compra da Vero por cerca de R$ 6,3 bilhões",
-   "fonte": "Tecnoblog",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGtmdGJVQzFLOE1nTWROR1E5WmppMFAyUFFpRlh4YnJCdTVUQWJsMkRHdGdqeGNVcEpGa0hPdndlY0xuLVYtaHRwYXRMWTY0THo3Rnp5T18wMnhlMFlDU2xWdlFSWDRVQnNlTDlrczhTcElrNDdxTVRSYmV1Vnp1Q1dJUVZULUcxcnZrR2lR?oc=5",
-   "data": "2026-11-17T12:54:28.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "118c3jm",
-   "titulo": "Disney supera previsões de lucro e planeja aumentar gastos com conteúdo",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUk1yUS13djhJUVRVa0k2aUZZQ0VHVmNtOExCWXhZRkpTeUFtdzQ3VHpIeDV2YWF5d25lVXpaWEIzSEFjX1o1M2N1UUVkTmJjckpMbDhYMnIxZC1oLUl0Y1ZFamVkanhxMW9aOUxCUl9Fb0FoNE1qTlRfMlFvYzFjSUFJbDZtdVJtTEo1RHhMTllkZ0xxdExfLXZmY0xNWE5yelpRUGJpcWt4bGJpUlNz0gG0AUFVX3lxTE5tbEJ0Q0FjTlJxZ1dpZ3dLSFpjQTAtV1FvNXlTMjNPcl82WnJvbGhCMnBDT2ZBbU1kbTZ6NWc5ZjBkS3dHampsSE1ULVg1Qmh2WGwzNEVKVE9fendjNmdUelV0SXlNTEhMdWNQUUh0WERaanQyX1VZbC1MWm54eldvODkydFFXS3A2SGpEQkc1RmExa21xcXAtZkpad0JlLXQzX3NWd2c1RjZQelF1ZE1nbFN2UA?oc=5",
-   "data": "2026-11-17T12:53:14.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "prl33v",
-   "titulo": "Crédito deve seguir em desaceleração em 2027 com juros elevados e comprometimento de renda em patamar recorde, diz CEO do Itaú",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQb1dGSU05MEpOUElXWG9pdEQtRlQtVVdsalhYQ3lTZGVVb3pPYUdPeERLTVRCNWhrQnp2LUNyYjNTMWFIVi1vZTVWUlE4SXBkOXNDRGZmUF9TZkVDQ0pBZzJJbXFUUVI5N1lyMlZVYlhyd3VURjdRZjczSGRiMXVoMkxzZlJPOWN5Ty1ZTXFxTTRyVXVKYklYU1pJTWdWcERQRFhZZ01lVE1MNFBha2xNY2pvR0VQcTh3WXBGblJTOXpiUTJMcHVjYXZDbEVYSlNJZmpSeVNFT2RzbU1JZXpjT2RFSHBQU3gyWmkyc1BjT3ExZTZHVjBNcWJmM0Y2d2lGWUl0bWNub1hQQ044UGthLdIBnwJBVV95cUxQRUE3aWd3bDRTeFNqa0w2dVkzQVdCdlJYdTY3UEpYXzJnbFBwTkxucUVaRWRlM0ptZnRvREI5Zmg4aEhsQXZPSzdwblBjN1JLdVZXX1RfMkh0MnRXZjJvYmRvMXJHQWplSmhRMU9zazNmWXhkSXFNd1YwOU5wdjJ4V3BQVkpyRzhSNFA4Nl90dHR1YzVFc19JdVhjLTZKR3pSRnBoNWQ2UVZGVE05bm92MzVzTGJyZmR1djZlTDJzRThvMEhiYkl2UnZkNXBIY1R3TmhtUW5KZDF6VUFRWHptQWEwQXJNbnJkRlNray1SeDVqeDlubmJqVDB5RlN0TU5EVlhqX0NTcHRTaUJ6TzJXalVEdVg4Y3RFTUhVWUZRUQ?oc=5",
-   "data": "2026-11-17T12:53:12.000Z",
-   "cat": "Movimento",
-   "empresa": "Itaú",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "kxfq28",
-   "titulo": "Parceira da Nvidia é alvo de investigação criminal dos EUA por suspeita de desvio de chips",
-   "fonte": "Rádio Metrópole",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTmhNSy1aTmtBY3c3TGh0b2UzMHdqelVkd2wtckZ4MGZTdnBuTlhSbE01RDRVMTgzaEJzVVlXMXRJaVZxN3B0YmRrQUV0azZBRTVjSlB6XzlCeXhPelZyUkQxVGRDb1lEMXN6aDlUZF80a21YdEZpNGpyU0pWV1R5YnBpTGQwSkkwRE9GR21sS3JiNFhGUkR1NVgxeUppdXEtRnZ2cTg4SWtnY3ZqLTBmVHNSSDZlU3dhMmhkRFhnT1VZRy16TXo4U2wyX1F3MzdUel9sUnZoZ1lqTnR5RUlF?oc=5",
-   "data": "2026-11-17T12:43:38.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "an02py",
-   "titulo": "Nvidia divulga balanço sob pressão após perder US$ 735 bilhões em meio à crise no setor de IA",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYjF6RzZ4QUJ1aXNad3l6YTZ5ZjhIM3cxRGFIVjZkYm5YNklrN2dpdlduSzNlVzdoLWdDcWw4MGZEX25zczgzRDZjbzJJSXdJVXNoN0RLQ0NIQ0szYVRTMmRvT1FYTWdYSV8yYW4weWlVSmVVZW1VeGx1bDZ5b3UtbWZVVEZVcHY2QUFGem8xaFIwZm0xb21mZ0hYa0stXzlnVnZEYkx1ME5VUm5HSlh6NUFvM0xWbjRZZTdCcUhKUzFOUDdMMHV4WGdhTE0zVnktdzlmUTNVWQ?oc=5",
-   "data": "2026-11-17T12:43:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "189o3bf",
-   "titulo": "Walt Disney mais que dobra lucro líquido no quarto trimestre fiscal",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUkpkaHVtZkVPRjN6a205dzhkazRPbHZfaGh6OG5YdXl6OEZWM0xmS0ZaZ1hzUUtDX0FaT0l3bUlFTzdxeFoyVHMxbFZJNURTdzE1REw0VnExZzFfa1h3YjRhNU9tTHF3Q3dsUEw2R3M3MmlTRHFNVm1zX0F4UmJyS21IeHZObkU5Mzh1cFJab3Ftdlg1YTMxR3VKcG91bHZnVlhR?oc=5",
-   "data": "2026-11-17T12:40:19.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
