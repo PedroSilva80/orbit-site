@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T22:30:34.598Z",
+ "atualizado": "2026-11-17T23:00:33.776Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -42,6 +42,30 @@
  ],
  "itens": [
   {
+   "id": "tzaf8k",
+   "titulo": "Lucro da Nvidia cresce 104% no 3º trimestre de 2026",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT0xZb0hDc1BsaDhWZWJqSXE2REJpN3JPZ3ZVTWdTYjFFT20zOXFQOG9MY2R0OGZUdEI4NUNEb3MwTnlhYTZkak1CVVkyemFWczZhenNHdXQ4VE9yZ3lYa2tkYTVBWG5QcHhIR1QySVVQUU9WamQzMFhqLUhObGJuR2htd0FoZ05ZS1F0NTZBaFFURmpJ?oc=5",
+   "data": "2026-11-17T22:36:30.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "132ljf5",
+   "titulo": "Meta lança app de compra e venda de produtos usados",
+   "fonte": "Rádio Pampa",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORjFWN3RwRnVOaGVHSnFwZmNKc0hQMFFYaWxJcXhJQS1vZ290SDF4OUhJNWI1anAzQnFmQTZiTkZMX19FbXROT05KREY0ZTE0eUphVnJtNWRPbzMtSE96UG0wV0xJcTJYWEVsUGplTHBsQzJRamhPVzVYMFl6Mm1hSFMtVUc3ZVlJblE?oc=5",
+   "data": "2026-11-17T22:34:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1b5x2hf",
    "titulo": "Nova sede da Segurança Cidadã terá 20 salas e espaços para diferentes grupamentosc",
    "fonte": "Diário de Suzano",
@@ -50,6 +74,18 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2agtgo",
+   "titulo": "Nvidia (NVDC34) bate lucro e receitas no 3T26 e ações sobem 3% no after-market",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON0NSekQzREI1bTBINDZTWXRPN3pyalE3WGpZYXBWdDkyRHhQMGl0RmYyLTVzN2kzLUNPQ0FOVnJJX0VlZEZBZmVudVl5Ni1iZzMwWGh2ZjNSRXhYNmhXNTVSa2tKVjJZbkdhYmdwR3oyUHlGUHY2OS1wazEtVDVZTkJ2YmdtaGlqQnhlQjBXVUFRRkdFUnI1RXRiZ1Yzd1N4QThvMDB6T0xfV0RNbzJ3SlYxNXgycEp5MDlqdNIBwgFBVV95cUxPNmRYcjVpek9KN0FTS0ZKQl8yMks2Q3k3VjczTmZDMWE4ZldoN2FUVkh2aVZZclF4R1pkUm1hcVNFcDJkRE90R3hXTUxlMkxHcF9sMDRoWmFtY2ZfRHhBMzRHMFNqS1AyVjNwbEd6UXRsTUVQaHNIYUtfSlNDREQ4eTY5bDhzd2F0clI4aVdacTQ1VXlQTjNHdkI2OF9LSndCdnpURWxGMHY3RUFYcDVyaWJIY29qbUUxWXBZek1XNTM0UQ?oc=5",
+   "data": "2026-11-17T22:23:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -217,6 +253,18 @@
    "data": "2026-11-17T21:36:15.000Z",
    "cat": "Resultado",
    "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dqkb00",
+   "titulo": "Anthropic deverá fixar preço do IPO no topo do intervalo ou acima",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTMxODBhQXZlc29RaHlDLVhBNXlLbnViWFk2cjhwVkYxOG9yOWNFQ2RLaFp1eERuNWJYelVpcU40WlBZWWZmT24wVndfRUNTQ2ljX08yZnJMU3BoaW9qRW5BeVFuNE1jc19oTUNzOUNWZUhqbVA0enVuQjA3LWNqR1V3NUJENmpuMnI1LU9DSWdHdmZxSjdGTmFzalhmQQ?oc=5",
+   "data": "2026-11-17T21:26:59.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
    "score": 9,
    "marco": false,
    "avisado": false
@@ -470,6 +518,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cowzju",
+   "titulo": "GTA VI deve passar de US$ 1 bi em vendas no lançamento, dois dias antes do GTA V",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVFhJRHdSR0EtVm9QTk9JdlVmdmJBX0JzVnFTSERJbW9XbGdwdE5IWHNQZ0xkdEQzR2NlZDhxbUE2Y2pod1diUUZBalIzaWdldjZoR2hKYVZrLVlhMVdvMEowLWJ1YnhEX0RJanlZOXdDTmEyYklmaXU1alRxUG16ZXd0ZXo4U0pzaWUyVUVsYnQ3MVNuOTZRa0xiX1pYUU9kdHFOVkVhenJ4M1AtR2w3cmozR1lpOFpyNUJGLUdkMVbSAcYBQVVfeXFMTWc5eVZLcUg4Tnd0azBJN1oxb2lNcXd3d1gyNHdfVDBfVkVMV1NVN2N5dlllcklaWUF0OHQySnl4Z09NUGd4V2JDNWMxUmF5Y0NSNXZ5NDhMOTl2Uk9GR2NEWElPUlFPVFBRVV9RRmQxWDJWMFYxY1VLeXk5WEhRbVpUUEJNaXNaTGswVTVHOFJIV1hzM2E4a2JTbHFqcll1a3EtMU9abGYxUTY1akg2VWZMY0IzVlByYnVSQzNRaVd3clZqRmx3?oc=5",
+   "data": "2026-11-17T20:05:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1764,6 +1824,18 @@
    "marco": false
   },
   {
+   "id": "5cxj88",
+   "titulo": "Meta lança aplicativo de compra e venda de usados no Brasil e amplia disputa com Enjoei",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUUtBU3NYbUdMeFdDNDVvQ0p2Xy1vU3ozdHRTcTlwLXRYQktsb2VMM2tPd2k0N1E2bHJiQXNBN2V2d21ld3dkZjJCTGlQdmZUbE5fMlZIVEJPOC1lQTZCNG10MW9UVEI1a1NwMUsxU2ZLTkwtbmVsVUxvZGhMZy1uVHBfLVJEbFFaMW1JNlhBSDVSZzU4OXZ2YkJRRldKT0d1TDk2NWdwbGQ0bDJuRGpLNGNJbkRQQ3hyaHJ2aDFzU1RnZnAwUGM0?oc=5",
+   "data": "2026-11-17T14:19:29.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10p5ajf",
    "titulo": "Lançamento de GTA VI: Chuva de Meteoros Leónidas vai tirar a Terra do eixo!",
    "fonte": "Revista Algomais",
@@ -1774,78 +1846,6 @@
    "score": 6,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1faiscz",
-   "titulo": "Pacote fiscal de até R$ 60 bilhões e balanço da Nvidia concentram atenção do mercado",
-   "fonte": "Portal do Agronegócio",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQWFPSzlmb2lnSXlPRlpibnlKV3dvR2VrR3A4dTY5dWp1ako2bFU1SWJJejZUOWhmU0JFWkxQeC1JRkRQYlFmRkVoVW5TQ2w3OHBVeWR1WnUxUFlaWllzbTNxUFRJbmxMRFF1MGRUQ2NHOUpzVGQzUVhRY1ZiVl9SeFJZOUpoUTBYZE5scERlc1VpSEVlWHRLNlNhZ2pzRkNSeXR5a2U3YWhlVnZ6Nk01YjVzTnp5cVRFX2ZDQ3JRU1BDOUgyWVBhN0JZclo5bUlWS2hRRlJqdlZ4bGFkTDVXcW5MeG4zME9hb3R2RVBCQTI?oc=5",
-   "data": "2026-11-17T14:15:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1dkxkl2",
-   "titulo": "Meta leva multa bilionária por acessar fotos de usuários",
-   "fonte": "Tecnoblog",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN2JtQ0pldzFadzNZWnIwMW82WENOVGJlSWpyWlVNdnFoVGhncVNjNHhCc0EtRlFrSWRINUlFeVFMRlB0OVlQbGViX1dqU0wyVEM5aGw1T3ZWd2p5TzYyQjhtbnZqTTkyMTNuamw2QlpiOG9wbzNnTDc1a01mSWZ3SWpmN19mUUdsa3hIWGtfWXU1Zw?oc=5",
-   "data": "2026-11-17T14:13:44.000Z",
-   "cat": "Risco grave",
-   "empresa": "Meta",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "t2cb81",
-   "titulo": "PF investiga possível fraude em obras no Vale do Taquari após as enchentes de 2024",
-   "fonte": "Agora RS",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZWNmT2hNX18wQ1dUNGd5LXp0bi0xc2NzLXNkNVhuZk5TNW5tY1A2ZXF2ZmJwUGxjRldURDVFMllMX2JvMmp4c29mdUhyeFhSWk80TFB2ak5qWHNVemc5QkxCR3RjbUs3eEFWNkFwMUVsTUFObzFjanVZUU5waXFjOUdYbG9Kb1QybEVYNnpkejRaRGlyMHRoZ3QxZlRMTDBVdHpjUzlGZm9QOGEyb2VhR3o3ZXc?oc=5",
-   "data": "2026-11-17T14:10:56.000Z",
-   "cat": "Risco grave",
-   "empresa": "Vale",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "145p951",
-   "titulo": "GTA VI pode aumentar faltas no trabalho? Entenda a história do chamado ‘GTA Flu’",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ0pSNExUM0VBWVBqZFBUQTVKeUNVVFdtWVRnRW4tSmhtb29qTkJld2YyaHJIdDhSelBNeURzSTBMQ2k1Y3NsYmZ6R0xNd2VSd2JyOG1mbEY4THZEMEQ3eExLMjRoZmJqU21HbmFjcmFUU1RJbEpremd1Tnh5ZW5KTnpxUXIxTmp3ZEFnaHdab2pEUnVEZGV2NENZaXJDb01lbnp5eGsyY3lzZw?oc=5",
-   "data": "2026-11-17T14:10:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1jp1mfe",
-   "titulo": "Anthropic deve precificar IPO no topo da faixa ou acima, diz Bloomberg",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSkpEUkZBd3QxRTVVZWpnWnlvVFltajQtV3NmT1h2dFRTdUZSMGlNM3hSa0tMUmluUF9OLWUwZ09UbXJkMHI2SHBmRmxtTW82RXN2NW9XOWdjSGp2ekFBYlh3RGMwM05HOWd2WUc4V3pWOGxudEZZUGxOSlE4Ql83SF9kenQ5eWdlZ0UxVUFQNi1xeHhyenlOb1YtSEhmaVNhbnBVUmwwblFMelVLblRaTTZsS3VBTjc0ems4a2s3VFdtSFVMWjFRUndZNA?oc=5",
-   "data": "2026-11-17T14:10:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "1itvdpn",
-   "titulo": "O que esperar do primeiro balanço da Nvidia sem Jensen Huang",
-   "fonte": "StartSe",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNFFObzV5ejh6cy1haUM0TGRGSWtHN0daQkF4aHROb05LQnR0ZmFURVFfclpHQTdVQkt2TFkxTE1VN1RKc3E3emJHaWlTa0JsQ0k2ZDhHdG1uWmk0bXJzdUh2NmNjdGFpZ01meExHSFZ6MTRkRzJfdVRaMkRlYmw5c2tCSkVvUExBVEdXYzRtQlU4LWJRWjJjdA?oc=5",
-   "data": "2026-11-17T14:04:13.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
