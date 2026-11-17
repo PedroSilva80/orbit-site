@@ -1,9 +1,43 @@
 {
- "atualizado": "2026-11-17T09:30:33.019Z",
+ "atualizado": "2026-11-17T10:00:33.363Z",
  "eventosAvisados": {
-  "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
+  "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
+  "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "3us5t2",
+   "titulo": "Nvidia descarta retorno de Jensen Huang ao cargo de CEO após renúncia",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjNaZnRtcEoyazA3ZGQwV1Rfam5iUXcxdzkwdkE0azZ2ell0MXJoTDdKTHFiNkpMc2tKVUdQVTlzRXU0b3Y5UXVsanh0QTM4T1dMRXVoVGxTa3Z4eFFBeVNVTDhYMFZXWDNFY3JiZmtsUFJzWjNsVkNiU1dMNXNGY2ZlYm9aZjdSeE4yeXFrMWQ0Tk5STi1TdzV2LUNPWTlsVElNbmZMSk00YzRRWlhSQ2hzSHFTMUNORWZEQTNUcVc0VUxkZDU4V2dySmNlSDZHY0lDeVhjb3h3RVBo?oc=5",
+   "data": "2026-11-17T09:54:46.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "gvy8vt",
+   "titulo": "Antes do balanço da Nvidia: acesse ações com desconto e ferramentas com 55% off",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORVoxV3VVSG1sS1NHVlZjU3Z3OGh2U3pRMDBaTF9pT2I3aUxxSFJHTW9pQnhleDRnN3NfaEhrVFhDS2NMTll6TG9aVEN1OGFUSGxYZ1RPRWFTOHExWFhIYUNLb3NRZjFCTmF2cUpCSmlySmZmWkNTTU9WRVlQTVdCdUkxRURST2VudWI1OTJyaVBGQl9kX3RnZnhSbDJ4blhIcnc1Tk9OY1ZNUVZVd1hBQS1BYkpWYXMxT19PVzBJUGFMbUJO?oc=5",
+   "data": "2026-11-17T09:51:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1ecu8dm",
+   "titulo": "Mega IPO da Anthropic desperta preocupações no mercado: repetirá a volatilidade das ações dos EUA da listagem da SpaceX?",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPT3VveHZSejNpaEgxU283cWdjMVppdUdXMVI5VGFKa0ZfR2EzRTZ4THZhMlYySzF4RmxzVUNpWWxBQWZwTzVVSHhFYVR6X2JsUnNCeURuN1FDUnozMVY1NDBUa2ZpaUNLYkk4czFaMzY5NlBCUE9ZNGRVcV9sZnZfdXJBYnhtNk9pX1BwQmpSanFDSjAxMzQyQWYxSzB0b0MyelZ3X05JNmNYM1F0R01LRTdCSHdWVzhnb2JIOEtLcU5sSlVIc1BUR29BcE1ycllzOWxSOTJZOUF5YnJud0V5TjRzTDU?oc=5",
+   "data": "2026-11-17T09:33:03.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "pxi5wi",
    "titulo": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões",
@@ -137,6 +171,17 @@
    "avisado": false
   },
   {
+   "id": "1li7iie",
+   "titulo": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai",
+   "fonte": "brasilagro.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOREsxbE51NTJMQ3NZT1J2QkRKT29yU0czejZBZDZWNXNTOFdEdzZnWnlkVlpoX3ZfakZIMTAzdWFpbHZ0Rkh0OXF0WmR6bzJsU1MxSFVpbWdFRWpPcUdNc2RyeVR6cWpzV3p4c1RGTFRDNUNTeWx2NktjV29OZTVmWThUMU5MV0hIUDluUVNpWmZKWUJJWVhSOUZhbFNPek9uckY3MV95RU1pdFJwRG5nSA?oc=5",
+   "data": "2026-11-17T07:26:08.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "avisado": false
+  },
+  {
    "id": "15j7iw4",
    "titulo": "Anthropic deixa Portugal fora da venda de ações antes do IPO",
    "fonte": "ECO",
@@ -167,7 +212,8 @@
    "cat": "IPO",
    "empresa": "Alphabet",
    "score": 10,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794909633363
   },
   {
    "id": "1wqfi14",
@@ -1596,6 +1642,17 @@
    "avisado": false
   },
   {
+   "id": "1v0j9en",
+   "titulo": "Strategy compra 485 bitcoins e recompra STRC",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQRl9iZkpLUFRURmFmUVpQajJHREhxMGx2clFSWUk1QWlkbDVITDdZSzhvU2k2M3Q1dlg2QlF0Z2RTbDRFWWZZXy13ZE55WjVTV3gzbHdhMHA0XzNDRkswWF94bkJDQldJRU9UYjJEb0ZYUjRvRWNYcEo5X3huUFlRRGNLTUZGcGl2NTNjWmUxRVRjVk5UWVUwUHB3VjZyWWgxa0E?oc=5",
+   "data": "2026-11-16T14:06:19.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
+  {
    "id": "1ubtcl4",
    "titulo": "Ibovespa cai, dólar dispara e Nvidia derruba Wall Street; veja o que pesa na Bolsa",
    "fonte": "Exame",
@@ -1604,62 +1661,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "10dpty2",
-   "titulo": "IPO da Anthropic se aproxima: por que ANT pode subir no 1º dia e depois cair",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbVhzaEJ0Z1FrRkpjTEZVUlZIWVJUelRLLTZsMkdPMUk2bHZiTTlhNllhekQ3UFRDSDBLUDgza2FSOTZRMkhlem91VWE5c1U2VTJGRnFBVGRrTzdoV0t2dGJWYUNrNUU5N3BHd0dkTEl0MEpRRURVWXlBd29DbTFrcjVkQWxTTmdsSjdLdmNWT18xMDRfQUI2LTV6M3I5XzJVZTUzRlJEV2tmalY5UXRiQlllWTV6UlZjNnc?oc=5",
-   "data": "2026-11-16T14:03:18.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "wuc5zt",
-   "titulo": "Strategy compra mais 485 bitcoins em meio à queda do mercado e acumula prejuízo bilionário com BTC",
-   "fonte": "Portal do Bitcoin",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRTJuQzRfUUhsbnc0UlFwXzBtd2lLcXhfUE5mWFplTS14VXdBNEZaS25TNWJnRXgzdW5fR3dOaU15eEFldXIzYzRqVk5Zd1VHaFQzZ3pZYV80S0NDV2JCclA1dnM2Z2JlWVdYLWJZMloyaHU5MnhxTDlsQVpwdC1SYjh4VUp6Q0lyOXVOTVNfeklmQkJMRl9GWHBxZzRGQ0ZZR2syZk1jVFBVRDNCNWtWNEhEaHF2YzR1am55X1pIeF8zT29MQ0RLTGJscmYzckJETDNrRtIB1AFBVV95cUxPRTJuQzRfUUhsbnc0UlFwXzBtd2lLcXhfUE5mWFplTS14VXdBNEZaS25TNWJnRXgzdW5fR3dOaU15eEFldXIzYzRqVk5Zd1VHaFQzZ3pZYV80S0NDV2JCclA1dnM2Z2JlWVdYLWJZMloyaHU5MnhxTDlsQVpwdC1SYjh4VUp6Q0lyOXVOTVNfeklmQkJMRl9GWHBxZzRGQ0ZZR2syZk1jVFBVRDNCNWtWNEhEaHF2YzR1am55X1pIeF8zT29MQ0RLTGJscmYzckJETDNrRg?oc=5",
-   "data": "2026-11-16T14:03:00.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 4,
-   "avisado": false
-  },
-  {
-   "id": "wnqzi0",
-   "titulo": "Ibovespa: Encontro entre Trump, Xi Jinping e Putin, IPO da Anthropic e retorno de Lula ao Brasil; veja o que esperar desta semana",
-   "fonte": "Empiricus",
-   "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQNVRHUGxPVkJHQlpvX2VqbGtxVzh6NF91b2VoWHY0ZHNEZnYxa0RfbThCV2VXU3d0WmtCcW5PNXBYeWNvVF9kakdRX1hPLXdOTHZpSngxaExFa3M0TUZ0Y1hXNVFEaVY0MGdBbVU2MTZJRlMxUDU4aHNHZlpwdjZ0OGMtQktkemVLVWpzcGF1SEZtdl93a1AyR1BuNlY1MkFKR1RHRDEtdjlmZmtzTTFvTnBVSUZhZTdrckM5NFdwaXNRSzJVWmh1OXIyZ29QLWt1SFBIYkhFN0JwYnlpRjlIV1hueV8yRjNSX3gzWTRUcFBJUzlCZlVtTmhvVXJCZU1TRkFiRDZyUjJrb1hkaUVZ?oc=5",
-   "data": "2026-11-16T13:56:00.000Z",
-   "cat": "IPO",
-   "empresa": "Ibovespa",
-   "score": 9,
-   "avisado": true,
-   "avisadoEm": 1794875427664
-  },
-  {
-   "id": "1szhc33",
-   "titulo": "GTA 6: Rockstar libera nova atualização a três dias do lançamento do jogo",
-   "fonte": "Legião dos Heróis",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX2RuYmpuVEpmaXJyemFSZXlvUzJUaGx4a2R6ME1YS3lPVTc3ZExhazdJYmR0SVYwR2ZUcUJJVEZpdkRwYk9pQ3JTdl9QczVvLW5uVlBia19FVlFVeDhCaWxseV9KMUdRUHpfY0VpS2V2Z1pCU0pFM3JOZ1ZpUDNFNk56NXVGenpqVXJPaXJ1RDR4ZDJHZENvY2hudm1BZWxCNVRyTGNmT19Hb2kxbVVaOFdxTGt0d2JY?oc=5",
-   "data": "2026-11-16T13:54:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1vk8481",
-   "titulo": "GTA 6 está chegando: por que o lançamento pode ser um ponto de virada para as ações da Take-Two",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOeS1haHJtTThIV2NSTUllSGZRei05UE9IOTFDZGNvWEwtTWR2REM3dkVCQ054cGVDQW01TDdzaW1HQkFLbUIteV9ia2ctT1dMaTVRT2Q3NG5UdkdFalIxTVZDNlVtb29WTUR5ODZXUHpFamhMbVRDSEJWMW1RdDFyRlZsczZhYmFBXzk0VllIbXN0RFNBQURST0dUTURSbEFuUExSN09ZeW9DLTBWeENPV2hhZzJuMjdCSHliaEdrNUNoS2Z2d3VaOFhWeTJDUWllZFcw?oc=5",
-   "data": "2026-11-16T13:49:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
    "avisado": false
   }
  ]
