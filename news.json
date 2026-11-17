@@ -1,10 +1,87 @@
 {
- "atualizado": "2026-11-17T14:30:28.310Z",
+ "atualizado": "2026-11-17T15:00:34.536Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "qgcu59",
+   "titulo": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEtuaFFHRVB3WEM1S2g5bDZuLWxQWTJmTEVhQkFKa2VpZFhTZHdnaFVWUjNWX0Q4Mldsd3pfU3pFUUc4bzFZVjRkX1NJVmJpeE1HbUxtakpkeWhpdTB0RjJEc25kTkFRYng1RkZvREg0OFUzQWwyVV9fbUVtX0s3WkV3VlRYdm0wRndrSGt4NzQ5N3Y5c09FcmlEZThHZTNLQXF2YWFRaEZLRjZhWk5jNDM4bTBRMktZU3EwZA?oc=5",
+   "data": "2026-11-17T14:51:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "hj13zj",
+   "titulo": "IPO da Anthropic: termos propostos e demanda relatada",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVlpeEJhRFd0cnZWOUNfVFJyRGR3LXprTERWeTI3aGNuTkpGMmQxMzB0NDdRdGJ0d29Tc0d4YktCMEk2QjloYUxVUHZQU2FaSWdUbE9ESTVha0pHMG01ZWhOTXRxa3lRT3NOa2NMbk9kamJZZU5wWGVkVzhvX0otaTF0VmlOYVRfMTlmaURMQXk5YVVPdG02UV9OQzZTc18zYXpaSThYM0pabUhxUjhOcA?oc=5",
+   "data": "2026-11-17T14:48:40.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "2tu1bc",
+   "titulo": "Itaú BBA e BTG Pactual reiteram indicação de compra para ações da XP após balanço",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelpUa2FjYUhUSjkyWVJva0xfMkR4MFl4WnhPQWFDTFUtWkFaYkRoNTYzeDdLSDJXS3o4SWNUb3hsbHJISFc1YWdaVzZiYnhFQ21KUXIyZ1BEOFV4Qk9oeUZOWkFwTzN6MGFEOWZFMG43NFg2NTduRkJMZEdXd3ZiZW0tMDJUbkdwUVU3MHZSYXkwM19UdVJ0dTU3aWpGTTRLX2Z3RHJXU1c2bTlDWE5lczhLX3FObFlpb2hNaDJnclFUdFVvdDdrSXNjMWp0SGRNYkhTajF30gHkAUFVX3lxTE02STdpSkhGT0RnNXctOTl2VjA3WUJueUFDdEJUa09nVlNNWHR1VGoxalF2ZUVfTTd2Vl9SRmZweXZqU2VUVWFNMlpYSU9tbTFrSms4cDdldjB4VGNNVl9FU1FoSmNPRzQtb3U5TG5UVXZOVmhzVENyNTY3eWN5bzFSVWV1ODJNbmZtUXB1YmZ3MGo2ZGJxazA4Q3dHRXpBWE9ydWYwZnExdTNIdjc5V1RiZG9XUFdKb2lFakVCTFV5Y1VIaUpTUnE5YTRnVllKaGV0aEx5cEZqNkF3aU1PZThjMVhXMg?oc=5",
+   "data": "2026-11-17T14:45:34.000Z",
+   "cat": "Resultado",
+   "empresa": "Itaú",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1nv11iy",
+   "titulo": "Balanço da Nvidia (NVDA): o que esperar dos resultados — e do futuro da empresa sem Jensen Huang",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNm4tcGFsRGZXMXdVeHVIaUwtZk9vQU5zdndZaHBoaHlkOGRQQVZkYWtvVHRTS2ZPZndUclEtZU4wWEdnNWRINXpXb3NJM3dqNzQ4OTBibHp3MllxSG8wVTFTZ2U0QmtfUXlYbmNMTWVNVEs4b19IOHBqb2FRRlg1UkNNazk4NmoyRFJuZGZVbHk3UV9yM25xZlZCME1STG0zMk1TOWZGcmZfQzBlRnUwZDZmdTl5OFBqSHNURm9UNA?oc=5",
+   "data": "2026-11-17T14:45:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "myl9do",
+   "titulo": "Clima hiper-realista em GTA 6: Rockstar faz parceria com canal meteorológico e revela tempestades em Leonida",
+   "fonte": "gamerpoint.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOblh4dlRpcjhJeUxHQVR5dUNRb2llNGlNWnFhNEd6WXhBbVF6ZWo3UEMyN1NYa1k2TFhidGg0Q1lnd0JwakwxN29jSkI3LUJMMGlSNVhKTERfWDRJdmhaNFJwYzlnRHhxRkk2b1F3Sl9pTHFrc2Y4NTA1QnktOThLX3ozemtVUnloNjBnR2FWN0kyV2xOVnpmTG1xcG52NWw2STNXM21DUGJ6dGhHRFlKRVdnWjF5U0doMkM3cHFUQkZHNDdCNWlBSjI4SUFKSWZvMnF5elJlYUFKM2FjMHZ3Rw?oc=5",
+   "data": "2026-11-17T14:42:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1jy4pt5",
+   "titulo": "Bitcoin hoje: preço ronda US$ 64.500 sob pressão do Fed e Nvidia",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdG9DR19DSDFqTzNVQkttQUJJdk5lMDNidDh2NlhDRWNrUHVab1Z5UTlpNEY0cklZNW8wWEJ4d0k2T0lFMDNjQmM1c3NQOTkzS3JPbkpyN08wM3h3ZGZPUG9INVRicm9jcHRUd0hMVUJnX2Z4c0xlOHFWekZ6ZUVmRVV4cGg2Ry1uVlU5czlVSndEdw?oc=5",
+   "data": "2026-11-17T14:29:52.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1fc6ibk",
+   "titulo": "Citi vê temporada de balanços positiva, mas ações não reagem; o que pesa no mercado?",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNd2lmbzVWNDE5TElJek9nUUJYQkRIMFVkS2ZMVmhZRGhCbEVOSnlpcHhVTjBEdFpTZUFRbXY0NjgzeVRNUjBFMXZiWDdqakgwX2I3SERUVzBYWXpmTk9IWHV1MVZNeTFTWFA3WjhubjRQeTJlSUllLTVNMFBEZUhnd1FBdmtRUFZhdjZkelhzd1MtM3ZTOEwwOUlRdHV3V2JsV3RHTV9KU3ZyaW0tV2xFZHd5RTdKWEp5Nkg3eEJ6Z21PUzlJRGtDa2czNHBvelZxVUNaaGc5d9IB3AFBVV95cUxON1Jnd2lySzZZaGpCa05MMWJIYzJqNlRCVlBCTW9lSW8ybWlvNEphdGFpVUpBa0l5ZmlWdFVvcldDTVJqNkZCR0E0YWtDMTVyZ2FSbkpiNGVENkFxMUNiQ2c5OVlyeGxnOEs1MEJaUGE2WFpVWFZYYjJLMlNLeVQxWmZZZWgwRUhQUFhoR3F3Vm9RQ0xVVnZWdU91b2FZRTJFQnN1STBJZXd5Vi1fNmtyWm1hRXFtRlljQmZwR05uYldJblRhT0M0SXZJTDJhZ0U5S2hfLXhrakpLMnlk?oc=5",
+   "data": "2026-11-17T14:27:35.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
   {
    "id": "1faiscz",
    "titulo": "Pacote fiscal de até R$ 60 bilhões e balanço da Nvidia concentram atenção do mercado",
@@ -94,6 +171,17 @@
    "avisado": false
   },
   {
+   "id": "bejsdb",
+   "titulo": "Devolver sorteia Volvy's Adventure por deletar GTA VI",
+   "fonte": "Arkade",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSlQ4R0VsQV9DWGtwU2p6RkFpeENCcnBneS0ybjd2T0hUQ2cwelZyUHJhNjEwaDFlMFRiRWdvc3VwbVZ5QUdKcndzbC1TbjlpWjE4MGdSMnNpQzdZaldSN1RpT1VkYzF0R3Nra1JhVkdQQUg1VkduMjQwUnBva1N5NnNRWkVHajM4bnp6aFFKdGdsY0xEZ0NCeWxXaWctbDJ0MWVQQlJ5UnNxakdYMEc1ZHgxdjRrNjFEbzhQaG9aWXU2NWlVbV9DekJPUHVSTVdPZlZYanpB?oc=5",
+   "data": "2026-11-17T14:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
    "id": "fn4j8n",
    "titulo": "ESET alerta para ficheiros maliciosos que se fazem passar por \"GTA VI\"",
    "fonte": "Notícias ao Minuto",
@@ -110,6 +198,17 @@
    "fonte": "Rádio Acústica FM",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5aYTFKMkNmQ3ExQVh4V2hmVWI3ZEVwTzBlZmt0Xy1mZm0xVXMyb0NkN2pFb3ZMS1pUUDhQT3EyOE8yekpOd193ZnRmbHFwN2REWkxKOXNucVBiX1dHWlZLYnhPYXl0VG9oYU5wQ2FRcm5DdXdsZEVSMXUzWkQ?oc=5",
    "data": "2026-11-17T13:56:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "mr26k7",
+   "titulo": "GTA VI vende cerca de 15 milhões de cópias na pré-venda, afirma consultoria",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWU4wRDVpcERLNjZUZHh0bkliaWlnUWZmYmhKYllGZ2xQRjlWcjVOcThLMDBSU3R3ME1DQ2dWR3lBM2N4NXpnVkpZNG5HdGhRNHcwWG45ZHlNY2NnVGN5LVM4NmJQYmtHQWRfSWF4c2NRUmR2ZUdCVGQ3NWZmV3pKVTF0MXFkbWl5Y3BIOVRpY0dYUmFOMkhhN25Ma0RzYjJrUFJIZGd4RmZxUi12b0YwQVdKZGhnSmw2aDdrMjBlQkl3OEFkcEZfUdIB1wFBVV95cUxQVnpxaEpGWHJpc0NMQnFXSFRuNlBSSWgwRzNYdTBEOG5tWmhqS3hzal9QYUd2V3I0eGNPYTA0N2V5WC1qTmN1WjNCeGVqdU42Y3pUQkZMa01IUlBMbzRUOGhLbUMwNS1YdnlpUHdOSFFtN1JFTUxsUjAyenZRZUxtVXhTRmRhR0pEYTdYVkdNd0QxU1FFX3V4aTFaZnpEZG44Y2FXTy1pZ1I0c2JmRExxdVBoZjdpVGVpUUttM3loakdhUXl2OU5ENVFqZFZ3RnVDVUItNU5rMA?oc=5",
+   "data": "2026-11-17T13:55:29.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -622,6 +721,17 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "jl90bm",
+   "titulo": "Nvidia, Anthropic e balanços movimentam Wall Street; Dow Jones recua na pré-abertura",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9peVVBSnNpZ0Fza2JXelloY2hCc2tjenlFdlYzb2stX2ZFOFRyYThpTzREYThoUGxadGhoN1YyZDgtVEJGUkxjWnFqRXZEV3hPUDdIRmdvdDF0RTd3UjhxZ1l4OVFQaFpQQzV5aTJBX185bmhWRkhmNWNkVFgtVWR4MFM3VFVxNUpvQVBscFVPYVJ1akpzMGwwTG9QXzlDM3oyZXB6MFdWOFVoSEw1cnBnTGRQU1ZHWnc2a0d3ZTVYa203c3Budm5ZWVZlOEhPbW1Ba0FYWGtGU3fSAeABQVVfeXFMT0FiUlRycWdlekJXM1BWXzRXTmJmWW0tZnpqaXBRTEk3MWZPb20xN0lZQkxvR2lJN3VCUXZ2UEkwSG13THJIVnhNQ3BEcHRlZlNKM0MtV01RSGdoTzRMSjN1SHpsdnRXYTZGcmpWV2JXU0xPTkpDaXVTZkNDTl9MNDZ6c0syTjlBV2ZrWFVtcE5wUjRnYmttLVFVMTFEaVJkZTRkMVJ5TFJvR3NjM2FpZmN4RC16UlZVdkRZYWxHc3phWTM4azZ3RVlkbnN1eG1MV1ViME5BdndEcnB2SWhWR0k?oc=5",
+   "data": "2026-11-17T10:54:05.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
    "avisado": false
   },
   {
@@ -1548,116 +1658,6 @@
    "fonte": "FinanceFeeds",
    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4yd2taVzUxWTJlMmx0UmkzMG5BeXVrdFY1WFl5Mnk2eXdyT2d2RURrV2dQRHZQVUtrOGlwNEZja2k2YjA5TVlUMmFpT3RZMjZyZjNTd291RTJIbnVJZ19kTUtCQkEzZHRXRVR0VWtTakxhbmNDT2hfaGxwX25EVkU?oc=5",
    "data": "2026-11-16T20:28:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "13376n7",
-   "titulo": "TN Valley Railroad Museum president & CEO steps down",
-   "fonte": "Local 3 News",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRHE0SlBYSjN0YUV6U1haQnI4STZqOEpkQ21oMk9TYmtITlRMVl9aemxsWDA1Vm9IbmdLV2RfbDhJVHo1TGRKOGRTa29xU294MmZxUTg5QWd2Nzc3SGxHYnJ2VWdobzE2VDk5TTdoTTBmNldmUUlxWE5JUzBrOWVkSlBSZktVRks3dTE4b0VZaFhZaFB4M1VIZU1ib1BZYzRrZjVjQlJjMFFwdVk3MmJwSU0xeTh0VWNyMGo3VG9hQlBwYXp3OTBwTzRjZlNveVEtZUI5QQ?oc=5",
-   "data": "2026-11-16T20:15:00.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1deuhfv",
-   "titulo": "GTA 6 Hacker Pleads Guilty: 90 Clips, $5M Rockstar Cost",
-   "fonte": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXhZSWNnclM0cVRYSXRYSUkyRzdjZkgyd2R4SmV4NGhvMHlqclo1WjNJRDJyYlNFOXZlSDV1NndOek1sdmN5cFUxWVExNi14cUp4NTZiLUJaM19RZ24xWFQtS2xUN1RKYng0ZUlyQ2JXNnlWck9yRDlyUVhFMUVmRjJ1ckFocURyT0J4Nzk4NFBqQQ?oc=5",
-   "data": "2026-11-16T20:12:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1o6ul4h",
-   "titulo": "GTA 6 quer que você pense antes de causar destruição e, pela primeira vez, a Rockstar criou mecanismos para incentivar a empatia",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM25JZzRyYjlUOHVodkJvRXhEVVJ6N0FObm5NSWRvaTNzSXlqVkczWEZUeXZsWU1TU19zbjd2OW0wTzl4eGhKanM5ZzNRVXFubUZ3Ry16LUh1WHZUVGV5Y29VbzB1djY5QWlWTlh2NEpyZmR6LThTTy15NldXbmJ1QXdJZWFaWmphemRTS3ZFc3VjaUtqeTR2QmZ3UVdpTTBmSzdqTEZQRGlIcnYwQ3JEVVg0aGsxeFA4U3h2WWpfT1JQUDRvWTdjbG9Cc2VYWXNxTk5jUnFaWmdnb0oyZ2FR?oc=5",
-   "data": "2026-11-16T20:03:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "qwzkr",
-   "titulo": "GTA 6 terá mecânicas que incentivam 'politicamente correto' e empatia, diz Rockstar",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOUtTNm1kam11d1RKRTFPZDlMT3FTMUNSN3IwanBoSnpua1RhRGtzaThLVnR6RGc0MFZEQVpaaUlBRThqZml0RGZ2NmY4azNmbGRXT0wxSEdueXdNVUhlc0k3M2F2ODZzQ2NCQy00eUd1TklvWkQ4c2M1aFlxcFRmLUF1OGxXZEJod2hma29ycFVmWmN5cWwzaHQ2enJpZDBlRUFnbFA5QTZ4SnNXUnNSbTJmNG82OWJFWVlIb1RBSWFaWGg1WFE?oc=5",
-   "data": "2026-11-16T20:02:51.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1glxu9z",
-   "titulo": "Fundo com 14% em Anthropic atrai opções antes de IPO",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVmFZako0RjlWSTl2RW9vX0VRd2k2NXNPTGlwY3Zqbmh0NjdVX21CYWIzQTNNU3VIOUdJeXhKeXFoM0tveEdmczR1TnczdWZtWVkwbDNsTXlVLXZDZnNBSHhQLTBDOG9HYkpoOHhQd1g0NWlHdnN0OHJleTNxOEVQZVFWaU5VTjZKd2dZLUlWUTZuZ2hEb3RUNGZaRmR5cTIyRWowLQ?oc=5",
-   "data": "2026-11-16T19:48:50.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1y37jwo",
-   "titulo": "‘Ilumina Suzano’ bate recorde de atendimentos no ano com serviços realizados em outubro",
-   "fonte": "Diário de Suzano",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRE1IVVJOUENQQmw5enc5Qy1zYzNuMnBEZm9pakl4eWdkTXQxZFhySFF4UVpnY05MXzJlM25lWWNzbXNoUW1iczgzVU9CY0JkcFFmNVdXNHVtSGJqYzQzQXNiTFcwVXRpa3ptVkJkcmlITVluN21IMVR3T01ralBycmJSWUV6ZWRHWU8wWTlsVlJyNWxoWkVIT0F4ME04X3lQRU5nRUtocWRHX0pBUE9ydU5UMHUxeVF3ZlVHaTRiQ2NpdklRa3pLNmEzWXhmZVNKRkw3OUdteEFYY2c?oc=5",
-   "data": "2026-11-16T19:48:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Suzano",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "85hsrw",
-   "titulo": "Volta de Huang ao comando da Nvidia divide analistas antes de balanço",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNk9WU3pYSTBRRVRXNDAzXzIyXzR1Qmhaajd6RHpzbmhEdmFmUW9FLXItWWhsSVlNbHJXbXJGZnN6NEhEQWJBcEdldGl1S3RFMVpSQ0ZsblM4VTlBT0FpTWdwbWpxQUFGWllMVkRyczhsSHRNNDVKMTY4Y0pTSzBaZnZWWGZGMldOVWVOYjdlYnBPRkw0MUtYNjFOTHRDek51MTl5Vk1SUXk3N2cxZ2FZZTVDUDZfeDNMUUE?oc=5",
-   "data": "2026-11-16T19:47:59.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1cm3103",
-   "titulo": "Anthropic: IPO de US$ 1,5 trilhão enfrenta resistência de investidores",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLVAzUG9UdDF1YTFjS0V3c1B2dEttcDcyUm85amZRZFpGNUxFVThwS3J5aS1wMGJMZ3BhdHc0QWwxQzZYcDAyM3dZWDVQUW1iUmMxQWYtTWhzUHZtZEJIb0JhUWdEVUFtUUdKalZtSnBURWNNUkEwdE5nRXlrVjRYUEhKQTNzSkFneFltSXdDeS12QUpGSVoyWGw3V3ZCQUJlcGJTQUVVNzZrNXZ4akVQc3RTSms?oc=5",
-   "data": "2026-11-16T19:47:49.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "josddj",
-   "titulo": "GTA VI’s total game length revealed; getting your money’s worth",
-   "fonte": "Digital Trends",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQXzI3NFhYcWg3M1huamZCUkoxZnc5Z3BVZTFEY2t2b0VGWWNXYXRiZWF3OUZqY3JHaHFFU2JVckJrdjljaWNmd05DaDhZeGJpRDY3V0dVWVF5Z2J6Tmp6dDN0QWtDZlVlbEJIOURlWnBJaTRva2s1QUZpMWs1eUNqRUtMXzM2bnBJMjNFYWhSNmpRYlVhTUZaVU5rRjYtdjg?oc=5",
-   "data": "2026-11-16T19:36:28.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "ckzh7t",
-   "titulo": "IPO da Anthropic testa o preço da IA",
-   "fonte": "StartSe",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4tcWtmS1YyOThpWXBBNm1KM2VwWjlnUDlOYmYzYW1rQmwyMkp2bmRVT0tPNXVFOWVFWDlyeWg1elp1aVJMZHJUMloyT0Njd1ZvN3c1aU1HYkMyQmtzM2d2dGs1MDJfNzg5bjRDd0dqQm1yRnI4OFBHMEVjUQ?oc=5",
-   "data": "2026-11-16T19:34:15.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
