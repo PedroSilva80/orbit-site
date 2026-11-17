@@ -1,9 +1,31 @@
 {
- "atualizado": "2026-11-17T04:00:30.433Z",
+ "atualizado": "2026-11-17T06:00:33.561Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "1wqfi14",
+   "titulo": "EUA divulgam detalhes de investigação sobre empresa ligada à Nvidia",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVTdWR084WEVPd3pWTU9VY21PUzU2UGo1SjQ3VXlmUmlMMlpmRF95SXh4REp0QmFucnFsRUlTX1pIWGlaYmpRcmpFbmlyQ25rbTZjYklHYUpHdWpLMmRTa2l3aDhvZlUzMlZQeTVoYTMtcF96cGc2QUVXcFZya29RRnhPTzBpWjZLYUc2UVV2M1RZNzdJUFp6T19DbjBuV2U0NXNhUnNNOEs4Nk1vS1U1SmtrS1hNU0s3OUhnZU5lWmw?oc=5",
+   "data": "2026-11-17T05:46:55.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "cv9no6",
+   "titulo": "OpenAI: US$ 11 bi reportados e IPO da Anthropic",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNT2o4SEh4WnZ3SnFMN2xCVWVmUVhlNEpra1F1dDNsQm1Ta015MUlkNjlJVHNDekIyMUdkZ01EdmFLeXh3WkxjVjBWWlQwcHRHZ0dRbmlzeTN4RHVhTUFYZU8tYWVqdTlXQVM5LW5xTHIyN1hZeGxwbFhhQWEyVHBRaElYV203M21KakppQUxwMVh4ajRuYkVyYnZlX3l4TWljVU5fVTEyYw?oc=5",
+   "data": "2026-11-17T04:08:54.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "1e5l8fh",
    "titulo": "Governo não prevê socorro ao Banco do Brasil, que teve queda de 66,5% no lucro do terceiro trimestre",
@@ -1638,28 +1660,6 @@
    "cat": "IPO",
    "empresa": "Nvidia",
    "score": 11,
-   "avisado": false
-  },
-  {
-   "id": "zw4ov8",
-   "titulo": "IPO da Anthropic representa uma aposta decisiva para o sector tecnológico",
-   "fonte": "Jornal Mercado",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNl9Wd3RGZUxFWmRqbnZUal9hLUd3ZzJjNS15NnBfaGVYMzJjaGJGYXRqXy1sazlmSXlBTWxQSFlhQTIzMFpSRXZSajVGYUk4QVRnMHpGb1N3UEFOS2lMZ0JtVGtWZWJaalpZMmd2d2tJWWEtUjN5UzN1Ym1iaVBmT3NmN3EyblVoZHdQM0ZYTU9vTmlwTkI5Ri04YUE?oc=5",
-   "data": "2026-11-16T10:20:34.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1apld8r",
-   "titulo": "Zhao vê IPO da Anthropic como possível causa da queda das criptomoedas",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNzRfcE5WUjJhRnN3LWpSQUNTLV9PSEZObU1PaHk4V0h2bXZkakVSOEZLZ2NvZTJzMDdXT2x2NHM2d3RCNWxaTXBrM0xYUXVKUWEzb0RTQXFtMms4dzI5bFB2dHJpN1kycTdDT2poZkNsNkN3S0FXN3czc2tKVUh3eVhQbXdRRWJTUTNfS3d1aExELWM4cWNHQ1Fubw?oc=5",
-   "data": "2026-11-16T09:59:33.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "avisado": false
   }
  ]
