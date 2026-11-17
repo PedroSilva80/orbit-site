@@ -1,9 +1,20 @@
 {
- "atualizado": "2026-11-17T08:00:28.410Z",
+ "atualizado": "2026-11-17T08:30:32.143Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "1r9s4v1",
+   "titulo": "OpenAI encerra Sora enquanto Kling avança em plano de IPO em Hong Kong",
+   "fonte": "www.tecstudio.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPaG90Y1Nlc3hIOEU3LWJEMm11QkJoZWNtX1kxZzVyaXJXMHhySHFSdkkySlc3eDBXdWtONUhncWFHM1ZyS01BaXdZUXF3Z19oMW94NlctM0pZTkJ2b1lPNmc0NjJ3aWJzMzFIWjhUa2RvUENxSVJxaF81N2VZa2Q0bExOQnprVTdzakFudE5oWGRaY0Rsd1l4QXUzRGlLTmJMb1JJci05NGlyNjZOd2ZsZw?oc=5",
+   "data": "2026-11-17T08:05:01.000Z",
+   "cat": "IPO",
+   "empresa": "OpenAI",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "15j7iw4",
    "titulo": "Anthropic deixa Portugal fora da venda de ações antes do IPO",
@@ -1648,17 +1659,6 @@
    "data": "2026-11-16T12:03:37.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "8ll79m",
-   "titulo": "Pré-mercado: Resultado da Nvidia e IPO da Anthropic Pautam a Semana",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSEtLWHdndWd1ck42NnpGU1I1UXFSeXNKS3U4X3FTd0RQQjFmWU9vUWlSdkhFanFXN09ubmxnUjZuQVRVOTByV2xibkZOTHRsR0tNUU9TTzhHelNXNENzblVrekZjMnBhY245UWJpZjFnU1dQam40ZWlIYS05dURDZUtjek1CZVlNSzIzMjB3dmxGdnV0NzdvaXNwdHBVY2hlRWdiMWxleWRXSXktemdv?oc=5",
-   "data": "2026-11-16T11:58:44.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
    "score": 9,
    "avisado": false
   }
