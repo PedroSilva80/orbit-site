@@ -1,9 +1,130 @@
 {
- "atualizado": "2026-11-17T08:30:32.143Z",
+ "atualizado": "2026-11-17T09:30:33.019Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555
  },
  "itens": [
+  {
+   "id": "pxi5wi",
+   "titulo": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQmEyNGQ1VE5keDJTZGlLZ2l1M3RveEtXZXM0TmFwTlJabjVteklEMml5Y2Z5VFlpTU9tYnctV3h6cmtpcTZTTHZJYkU2Z3RsSHdMQ3RlemRDUVJ5Ym94aVNKQ0lPcFlxdjJ5Z3lBLW1KSWItQ1VvQTR4SWVibWJDTHVQRXlxUDZ0dDBkbTRoSWZhX3pmYWkwUmM2RWV6djg?oc=5",
+   "data": "2026-11-17T09:15:00.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "avisado": false
+  },
+  {
+   "id": "1w0lnpq",
+   "titulo": "Varejo e indústria nos EUA, balanço da Nvidia e ajuste fiscal movimentam os mercados",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPekJPZmlCZGlTa21CZUxTbWxjd0hHMDBlQXE1bFVxemxqcjh5TFNGd3JzS0dUNzF4WkRRMG9Fa0RPT1pUWjZPWG1VcXdYM1JHRzBkblhnNWlNSTN4MUczaG5tMG55U2VXTzdkMm1ZVDVaN3IzMmNDenY1V21RdXV1RXVjZWdiYUtLVV9HeVpIZnJWTEh4SWdwYWFnUTbSAaIBQVVfeXFMTVhFbTVJdEx3U2xDZzZCZnRDcjBpYmZXQWV5cTVLTkljS1R5TlZaU3lxcHVvYnlDVWVacG1yS2k4cUgtQ3NJLUdrYUlnc19OT0tYd0dxb3JSLWM0U0pVQ2JYVTFEb0FSTmxUTjhiallPUko0Ym5Pc0oxcWdLTWxiUGJmNWxxSjVPb3NfSWZJWFlrZlh5QUpWVjZyRUdlVzVRTzdn?oc=5",
+   "data": "2026-11-17T09:05:03.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1oje2j1",
+   "titulo": "Ações da Nokia despencam após Nvidia reduzir participação pela metade",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORnpmR01TMEtTTEpDQTMxNmVsaGU3MDdRRV9yaTFRXzNnVFBRN2RMS0NJLUI0YTBXODBkaWJOeWpjLVdBVU9JYzYxYmgwSFEtY09PcGp6V21oWk5jdnFrckJobGplZnZlZEJoNmNSZ2FDWGNVcmxvSnVYLWJvLVNtN2tCYTV2cDR6VU9NclB4WGl4d3Bac2JPRThQY3Nxc2NnRXhTY0o3cWVab1Atc0lCeTZ1WlhlQ2V1QkpWbi1SMGtjUEk?oc=5",
+   "data": "2026-11-17T09:03:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "avisado": false
+  },
+  {
+   "id": "14afa55",
+   "titulo": "Análise de investimentos em IA pós-IPO da SpaceX: plano mais recente de investir mais de US$ 74 bilhões em campus de supercomputação de IA",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNa0kyaE1mbkd4MFJrVG96UXcxdl9MVHBwd0ZtU09QYm1LdnBfUGZpbHZfUzZCSU56RzZFMmhMbUpuSkZsMEtsUDB2V2dBM0N4Xy1BT2RyVlpKOUJUMjNhU2V4bTFlSDhVeURpdEp4V0RQczFLMjZYQmlDU1ZZa3FFdTdYUzRjaEJxdUJrZWFqYV84a2VxSi1VNFNaVTVsMWJfNTlfbDNEUmxUUTZxN1YzRmNNY2R3cU9qdXhZV0g5RkZ3WFpFcnMzUTM4RzRGejBt?oc=5",
+   "data": "2026-11-17T09:02:39.000Z",
+   "cat": "IPO",
+   "empresa": "SpaceX",
+   "score": 10,
+   "avisado": false
+  },
+  {
+   "id": "ilq9fw",
+   "titulo": "Gestora atrai brasileiros para investir em empresas como SpaceX e Blue Origin antes de IPO",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDE5NzI5b25ZaUtuam5uXy1GalVjX2VuZmdFQnhXZVBDTThHNmFhTkhDalhNeFhUTDhYbnNzS2dqUVBZZWotcnJpVy1QREotdWJHY0EydTNQOWpFWFhTbjFqTjhsZWpMSExQaFRxRS1YazNiTkFrVHNnUTI1RnVQbHdUMTJWNVdTWVk3UFFnSkJscm9PTmVTWDc4S0wwSEFmUERERWRMNjZqVTZsODNfV3FJdndQS3hpVGN0QnNJTGVoaEZWVEE2UEpLMkpxWW_SAeMBQVVfeXFMTWh1Q21ITHE0bkhkQWtWVUpGWGxEQkw4TmRuZGd4RnVRbVhodVVNemNKQUJJVkdTdF9meE9kaFA3R084bFpGTE1nYTkybmlsNmtCRi1Xa1VvWi1MMEVMdDgxc1BZZ2FJYkFpdXJ5OFVMMUI0RzZkSGFZMi04RDdKZ0JSTXVfNFZqWWwwTHcxVUwtYVZ0TTgzLTIxYXJWbmljYTJiTkRyLTgwOC11Q21TZHJtSDlGQTVDdUlVb2ZWUlROMFd3OThhNGtvc0RzQjh4a1pFVTVYSWp2NmFYQU9kRUNwLWM?oc=5",
+   "data": "2026-11-17T09:00:01.000Z",
+   "cat": "IPO",
+   "empresa": "SpaceX",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "1w5db8n",
+   "titulo": "Nvidia divulga balanço cercada por dúvidas sobre expansão da IA e sucessão de CEO",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQb0J2cE1uZmlFSXRaVE5PZDhsa1Zhb05zSjBTOFFnYWxsNnYxWHV4TmI2TGJXZWM3cElXM282ZGpVbjcyNWRSLUlJbVNpVTJRcXdyLXUtSEZaZHRmUHJDeHJ0TW1hUmZBMEVaNVlWdDN3QzFncjFPWXFaQ1ZJWDFMRGU5aDNBY2lFcl9zOXFlaFVQM1IxR2hHay03cjdycHpfMEduTUU0dFI3MTVHbVFIZEtuTDVRRF9yUGJobdIBwgFBVV95cUxPQWdELUJoblRGR2hxOUFOWG1NaVdKajR6Vmo4blhiRWxpb0RMVzdqanVSYnhXalVtdFotS3JrVnpmQ2Yyb3lfZEQzc3dnelhyLUlzU1BIdmp5cXMzNTVELW1YcWlPY2YwMUJNTEtPNHgtUGdpdTlRd0tQTmpjTTN0OHc2N3Fnenh5MHdvcV82dThQNDJKNy1EVTVtOUZsMGJKdXhQRjFFa2hYeTBkNVg4dEN2REEtU1djR0VUeUNGRWhIQQ?oc=5",
+   "data": "2026-11-17T09:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1jaipe8",
+   "titulo": "Dow Jones Futuro cai com restrições dos EUA a chips para China e balanço da Nvidia",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOTRUdWRfVkVZMGdxZzlYRUlkenVTZ2g3bWIxY09EZl9DWGpuNjVXZTVrckRLc2lLZG9ta3Etb3lGaHgzRGxndmhOajVqLTBQYjNGb2xqbXdJQmNNai1jRnJuTlNjQ2s0OHRfWjRIM3gxWGZDUDl1LU1RclZpU1Z0NEhSQ3lCV0RkdkNRYlNHbEZudW8yejJtVFk3Ql9LMkkxVGx6TlhGbU0zNGhMclpaTDhJazR3WUFMczVhRGlR0gHDAUFVX3lxTFB1SVRjNHlfN1ZKN0ZJNzlGVzZDaERxOGVUY3MtckF5dXh5bjBZcTZzNGxjS0RydnZtRWFNdjREV1ZRa3FrMlc0Tlp4RWRxN1B5bEhUZ3NTdHFTZGE4MDVycmJXZ1lxYXNSWUxNM2ttdEZ6aUp1MzFpSXhVRjFYVGtldkFKUmpUVFpPNzZBUjdRNmFHdlJfVTNOYUcwalZRdVUxUDFnV3EtZW1hcENmZEdiUDJiTW41Z1JjYi16WEtkcE9mUQ?oc=5",
+   "data": "2026-11-17T08:41:45.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "18ql2mw",
+   "titulo": "Ibovespa tenta reagir após tombo com saída de capital estrangeiro e balanço da Nvidia no radar",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSEFyRnlNTGgxYVBoT3RtWmFkUlk5M1pYeXZxdmRSNFFfajZmSVFMMnYwR1VfX0MtM3Z1VzRrS3RkVlpYbDlfdDFiYnd5ZU84QzctUUZkOTFWZmVLZnpiQTNNY1QyenFSUTZEclVYV3RQVF9zdmY3X3M5bTFEaktuY0FIbUpadnNFS3dNSW1zSERPUEhMS0RNOVk5UDYtdldvMTdHSXRJaHNsek9VbXlrZkYzdWNSakVvUjB6UUs4M01QY19BZ1NPVnR5WWZhUDh3RENjTWNWMXF5STFXcmJkQWxyTk5kUWl6NzdZanBoaWNMdzQ?oc=5",
+   "data": "2026-11-17T08:35:05.000Z",
+   "cat": "Resultado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "1x9vdfy",
+   "titulo": "CEO da Nvidia renuncia ao cargo",
+   "fonte": "Jornal Primeira Página",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQb1M5Qzk5MHpqd1dZeXVJQl9UaTRmUnpfd1pUaEdOa2YxUHd5X0M4TGdHblczYVpBMy0xUVcxN1NPWDZvMFlZcUdzbGs2OXAxV3VEcHBFakRtaUlXVlpLdExPMWRCU2ZYN0tlRmJPZnk2S2xkUXFlZkh3eEVVOFNxRXg5OXdlY0U?oc=5",
+   "data": "2026-11-17T08:34:57.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "ea89sv",
+   "titulo": "Zelnick diz que pré-vendas de GTA VI superam expectativas",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQd0Z3dE1QWW85OHY0NlNYQmJjU01pZ2FwUk43WmUyTGYyQ1BZb2xaSkg2RWM1QnhUQUhVelg2ZzI3QVJDRFUzTW9HazA1Y1FZM1I4VU1pNFk4NC1zNGJYaktQWldOMFFtZ05HSjBKdDJjcXBwTWZoT1VtelplWFdjSHVKelZCbW5kV3pz?oc=5",
+   "data": "2026-11-17T08:34:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "14nefbp",
+   "titulo": "Lara Resende propõe meta para queda gradual da Selic e rejeita rótulo de “tabelamento”",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPM2N1SDBobGFNcDA0MlFubnVic2FQb256TVluc2ZsVGlQWURLcExmUXV6NC1mWndyNDcyWmNpeUNON0taMUNnTV94S3NYMUhPeEhtYmRKVHh5T2YxbnppbDdfcFQ3a29CT2g0RV9oWHU3VUxsOVhLT2tIN0Y4bTdGUmlUNkdTN09URl9QWkU3aFdzbjVmdzVsVkI5OEpUUUpleW9vZEEzOXFKeTdGRnZrWnlFN3kwVk9WQWR5Sg?oc=5",
+   "data": "2026-11-17T08:33:26.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "avisado": false
+  },
   {
    "id": "1r9s4v1",
    "titulo": "OpenAI encerra Sora enquanto Kling avança em plano de IPO em Hong Kong",
@@ -1178,6 +1299,17 @@
    "avisado": false
   },
   {
+   "id": "6eks95",
+   "titulo": "Interactive Brokers Abre Inscrições para IPO da Anthropic em 9 Países Europeus",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORWdtV3RGSndpZjdTSzBrYmVlblRwVkcyeE5BemZ1SWo1QWxncjVhQmRPb2tCaDFYNWo4MDA2VDZlSk5kel9pNjhSN0U3eE1DVHZfUGhLR3JkQmc5d053VThCUXBPTXF6dldpSHM4RTg2VVk2M3c3VUVhb0hGVW1iVGstdGg?oc=5",
+   "data": "2026-11-16T16:01:08.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "avisado": false
+  },
+  {
    "id": "kvrsj6",
    "titulo": "Tesla on Autopilot/FSD was going 74 mph before fiery crash that killed 3",
    "fonte": "Electrek",
@@ -1528,138 +1660,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "vg5v50",
-   "titulo": "UE aprova aquisição do Commerzbank pelo UniCredit sem impor restrições",
-   "fonte": "Mercado&Consumo",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFFYX1V6d2pRZGtfVERTdGlabTIwSFdyVEtReXQyYy00c20wS3RRQ19qY3d3QnIxamo4Q2lEYzBqM3FMQ1JvZm1Rc3pQbUN4YVF2SW1WWHk0ME5NbU0tTXowYTFTdmdfRjZIaTZ0VzE3VllDNTR5R1pfTGdJUE9tOGl6aUsxVmxyQ2dZN1hIRHNjWUZOckZzMW4yWEx5Wl9IUmhHSzhyLUdZbV9ETDZNeGh5dGpPaGRNb1djRUhfdW9iZ9IBxwFBVV95cUxQVFdOTDliREt3alNQWTUyV0xXOUN0eHpXcF9TRXZrZjdRWkJzVlo4RWFSMWpVbmtVWE5oN0ZjU014M2ZGZlZvY0Rpendna09yMXBrSHdWb256VWUwVlFIVUZWR1FzaTFuVERPd0JXU0tObllyaFNVNC1OUWVjRjJJYWZUVk40czBkaGxMWlFYWU1rMllaZEtHQm1YYTd3TFJjazVYeTBOTnRNdlRKWDJiQUNDVmMyMXdLc1lldnFaVUk1X0ttMjl3?oc=5",
-   "data": "2026-11-16T13:48:31.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "avisado": false
-  },
-  {
-   "id": "1hvy05k",
-   "titulo": "Antes da Anthropic: maiores IPOs de 2026 já perderam 20% em valor de mercado",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOcUJpU0pxN3JTS3A0R05xUEFRNUgxREYxeWZqM2xHWV9lRjhLaDhuSXRwblRxTlZqeDVDdjVCVVlveU44bmlBOXJ4bkJ5akIwZjJnd0NnREFMZXJHeXhiZGhYd050TFRZYVB1S3RKM3hubTNWRXZRa2otRDZhLUdJVF9R?oc=5",
-   "data": "2026-11-16T13:17:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1tslkm3",
-   "titulo": "Ibovespa mira recuperação e dólar entra em sobrecompra: o que esperar nesta segunda?",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZU1LQ3QxX1J2WXlUUHJxQUxrUS1vTVZkMVBOOVg3Qk5XVkJ6enNPWjZ1aThSOFgxMkUwb05wYThHOVR0eWhXTm9hNXYxVWl5UkNldVFncXp0RlpiMngyM3N0UDBWa29QRjlLQ3RXS0xLaG1UWFoxVkhLc0E5WjFvcGZBNldBclVhUEwtTVVtV2dzWTFHU0N1Qzdfd1pLUGNxOFBsUzRTZ3dfekNDWi1Wbmw3Y1YzWFV5emEwLVBn0gHDAUFVX3lxTE1QbUQtV0VnVkRkVWlSb1RkNU11QXBGTWh1d2hibjV4emVGWkNMaWF2NjQ3NGt5MUZ3NHFsNEg1SGR4UVVVZ3hJYWoyUGJQd2dXV09LSmtHQ0tYNHA2OVRGX2xOdEhEbXliQ1c4OUpsOVlwcm5Eb2F3MkhORXF6TTJmQnhoOW8tV0RkZlF5ZmpjaXdMZ2VfT29hWmtMQzRyQVFwT3BOMzlocEU2dU5SaUtPYUtxVUwwaTlVTXdqcHNmbk1OYw?oc=5",
-   "data": "2026-11-16T12:56:45.000Z",
-   "cat": "Corporativo",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "17j9edv",
-   "titulo": "【Pré-mercado dos EUA】Futuros da Nasdaq caem mais de 1%, Nvidia cai cerca de 4% enquanto rumores sobre o retorno de Jensen Huang ganham força; IPO da Anthropic estreia nesta semana",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYUJYWDFwLUlrUjhCX2xaRWpxN3pKTG5KcEFtY2pZMlVfSDNwRnk0QmNxRkpadjQ4MkRXSHFCMDBTUGNoNUQzT25jcXdWeFZvRUJNcFQ3eUFueUFMZkowbGljZFNKOHdzcHBmZkstNjg1UzY1VXZrVGVOY2c5WjU2MzRvWVFGRGJQSUxic1lGT1BCN2c3OGd2NUMweWd2MUMtNDdHbzhaam9ReVJXY0xxODFuclp0cE10cVk2VUhYcnZOWHNmT21nRGQwc2Izdw?oc=5",
-   "data": "2026-11-16T12:51:27.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "g1i8nm",
-   "titulo": "Dólar dispara a R$ 5,77, maior nível desde abril de 2025; Ibovespa cai com dúvidas sobre pacote fiscal",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0tcW12ekZJa2xuSmJYbWxzWmJyYm5Ec0hSb19XaF90U196VGg1NmJMX3JqenhnYjQ2WUtvdk51Nm1wcmZFRG1UcTFZclNGNS04cExpZU9DZkpyT29CZzhWYjZmTkxhN3dxLUQ4R0NfLTU0SThLOGxxNNIBhwFBVV95cUxNVWJvNU5VOUdHd0c5TzRldTFteEtobUxWQ3VmaUxhcTVDSHpaZjhvTjdvaEJBaXU1cVlKTlVsRlBqRVM5NXdEaThNdDBOWjRfcFBaT3NOc1N2X1VLNkRfc1M0elBFTDgtXzBtQTl0V0tVVzRRQlZIbWNMYnN5ZU5IeVBsZ2s2clU?oc=5",
-   "data": "2026-11-16T12:38:41.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "6ds4x0",
-   "titulo": "Futuros do TSX caem com resultados da Nvidia e IPO da Anthropic no radar",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVzVsMjhsQjF3a2FGTDBVVUl3WXBrUTJhalNlOGlxR0tDUEt1MEg1ZWVxRjJOOTVtSkZtOXFTN3p5b3pWbEgzcGR1TkZnaGwtZzRScHVDTzZxclk2SjlHbTB6c2Q3bEg2dDVoNVBpRHBkeEJVRVlKNXVBVnk2MDFNWVJTQ2RWbFZVX0VlNE8wVTA1WVlIdkhDRjA3MDlSYU9NNjFSR215cklaT0lIQ2tIVXdWNE9kaGJOUmdiUTJVWWRvWDJVS0Zn?oc=5",
-   "data": "2026-11-16T12:26:00.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "wjsqqd",
-   "titulo": "Compra da NeoSpace pelo Itaú reforça modelo de aquisição após validação prática",
-   "fonte": "AdNews Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTEtQZ0lvajludXJmOVU0SDNwdlJLbnFDRXdYVU4zR25JYmNiaDMtYzlteFFuVkFaS3hrSzlmR1pfbDVxd2gyelo2VTBmRGpuUjdUT2lsVmFuQ3BIa29XZkVPVlBkbkRfaG1aeEswVGF6NlFrWWVlYUhpa2tYcGl2UzBjQ05DMGZVNTROaVpUc3g0TDN0MTlDb0JCc2ZXTXJ5WEF5SWxON2ZXWDQ?oc=5",
-   "data": "2026-11-16T12:21:30.000Z",
-   "cat": "Corporativo",
-   "empresa": "Itaú",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "1lnh3sk",
-   "titulo": "Ibovespa Futuro cai com IBC-Br e cautela externa antes de balanço da Nvidia",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0F1MDc0UVZDbG1NM0pHd1FreVZNZndoX1g3QmhrOGNmNjBvZmVkSlpCZmU1OE5kaHBoTm1JWXZDaWFzUnZMdElYNzQwanJraVZBTkY4YXZYamN5QVNEY0lpVW8wWHR3V2ZST1RManA1NmJRTFF6ZV9pb2pqZ3ZBUVZQRVhmc1kxeG5nZ1QxWkdhX0lGUmw2TGdOWDRPZHlRRWkzdHU2XzJsRVJNMWlSOXBDbjfSAboBQVVfeXFMTUhxa0Zhd3lpTDdJYnNWXzBKa3pFR1VEbHo0N3ZaY2oxdGZHSmRPdmFXM1ZLbElnWk55QjhIOXlJcFRtbUlqUm0tMjFCalpQVWVGa0FfNEZDOFFHZUdiZTRsS3I2RjdqaHpaeHBjZzNIdFQyNzYweU1NZmZPc2Y2ZFpvSnpyRnI1clVLa2RrNWpoVFJ2dUpDSWxPVlhma0VWbHlhSWo0SDItZWlhUC04RkV3NDAtT09oWlZn?oc=5",
-   "data": "2026-11-16T12:13:14.000Z",
-   "cat": "Resultado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "avisado": false
-  },
-  {
-   "id": "g94xgv",
-   "titulo": "Balanço da Nvidia, IPO recorde da Anthropic e encontros de Trump dominam a semana nos mercados",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT1dadk40MVBTUXFGWjRTMTBIbDNyM0J3SkNUekY5X0x5eUlCbXh6UzMyODVySHo3eXpYbzdtVHV1Q19RbzlWOHNfUzNJRWlydXZVaG1CYmgxbVduX2prZlNicEhzUXluNThBSjRBcnNMLWFjenRyMGZ1TC1zT1FQNjdxX2tEb1dDZ0RvT0FQZVRYeU52RUdaWWw3YTE?oc=5",
-   "data": "2026-11-16T12:12:58.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 11,
-   "avisado": false
-  },
-  {
-   "id": "1rcmvqz",
-   "titulo": "Morning Call: Crise na Nvidia e IPO da Anthropic colocam mercado de IA à prova",
-   "fonte": "Monitor do Mercado",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdTJBdjRXdGR3Y1ZSTHlJa2J0R1NYRzJxZklkNmF0NXlyMjJFS3p6NXhfa29PaC1YTDhDMHNKWG1yeFk5VHJmUm93b3lrdDl0Y0FPczQ5VmpUVkkyZXRScWNFMFFKX1BJNXczSk1Ra0RVckl0WkRReW5iYUFldEVMR0psbzFMa3VOTHpUQ2dhR0t4VzhVTEpyTGhCUHJoZlNHbVhWMlpHSUhsV3lKRVdXT3VmMnMxZ1JuWlF2ZmRZQVNqeEdYeDNhbHZSU1lDMGZn?oc=5",
-   "data": "2026-11-16T12:11:21.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "120jbgs",
-   "titulo": "IPO da Anthropic pode colocar a OpenAI em desvantagem",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZzVRLUVrQlphdVZBWWVtX1Q0aEVadlVtT21nREc4THBQMGRLTUR5SW1iLWdRWFhnRUVYTVJVUDlzc3VCMldWcWo1UmFFSDZ2WWw5ZHgybFRuSzViOGlHc3ZHYm15bXpVbzViNnZManNoWDBvZW5aSDRITFNxNUU5R294NWQ4UUIxT1ZwcTF5T3U?oc=5",
-   "data": "2026-11-16T12:07:23.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "hd03uz",
-   "titulo": "Anthropic prepara estreia no Nasdaq: cinco riscos e apostas do IPO",
-   "fonte": "Euronews",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPbzIwOXZPa21OVURMNlpvdDBGNmx6Zms2a24yUnE1eTRLdVRpOVAzNjFkSVhsZWRIRmtBYVpLZkota2NoaDZfM2Vqdll3c1cwRFFFYXhqUWc3U3FWOUNXMmZ2dlFFeEdPSVJlTW96WjlneTlCbDdySGNCYVFkZllCTlhVS2lRdXZjb3A3NERuaU9ZNDhreWNZcGZVVkQxX0Utcnc?oc=5",
-   "data": "2026-11-16T12:03:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "avisado": false
   }
  ]
