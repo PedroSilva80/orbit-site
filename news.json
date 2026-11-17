@@ -1,10 +1,110 @@
 {
- "atualizado": "2026-11-17T16:00:32.895Z",
+ "atualizado": "2026-11-17T16:30:27.150Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363
  },
  "itens": [
+  {
+   "id": "r6vszx",
+   "titulo": "M. Dias Branco celebra 20 anos na B3 com lançamento da primeira Carta de Governança Corporativa",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0ZiSy12WHkwVG5zOWpfTmtNOWVHMndIQkpwd1V2d3BHUERsTURidFFtNC1OLThzSndNX2VRTnotRFZmbHlIUVdBQ01fclZENzdQRnBDa0YxWGRKYzFxY1VvTk9qa0w5QnpNT0ZxX0pONm9ZVERjSmF4ai1BMFpBMGtyWWRZN3FBVDJVZFdXdnBnWlM3Um10T284a3JnWjhWUUtJNU1yVEc3RHhrcEZGTm41NjFiZ3JMT0xWTEVEa2lwT2NGVHBB?oc=5",
+   "data": "2026-11-17T16:24:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "c4iqjp",
+   "titulo": "PS5 recebe atualização obrigatória às vésperas do lançamento de GTA VI",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWRCaVhtNTE3bTlkSkt4a0ZmNzBUNFF0X0FaYkdMM1VfdFAwb1R2NE9TbV9Hc2ZKZ0ZXYWMyWkxSR1BiZkFRaGtmMm9lWE1sNmRQNXZlaTd5SWdxcnVNOUVTSmxzODVKd29UbGlCbmYwQTZWUjJaLU9rMHA1blhtS3gtSi1fZUE4c2hnRll1c0V6LV9JSF9kLQ?oc=5",
+   "data": "2026-11-17T16:19:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1ym0283",
+   "titulo": "Ex-CEO da Nvidia, Jensen Huang se pronuncia pela primeira vez desde sua renúncia",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNU9qT3oyVjFtX3EtbHBIcXh4eHVvNFFVcnFaT0ZxZHNjcllfbmoxY0gzNVVOUlVaVE5NVW12UkFGcG4tN1RCN3FjbHFvWm8ycm1vSHluelBkd2EwdmNjU04wLVB6UXk0NnlyRXhxell0M216VHhkcE0wMjd4UF9DaHlhVnIyZTRTWkFDem5LQlhLc0dHd2lzNXZVb01RcmRpNjBKSFhtcXVaTzh2al9Fdy1fblpqVENCeng5VXVfdjMtdw?oc=5",
+   "data": "2026-11-17T16:18:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "avisado": false
+  },
+  {
+   "id": "1q924zx",
+   "titulo": "B3 lança BDR da Anthropic simultaneamente ao IPO",
+   "fonte": "financenews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXh4dUJqWFU4dERkNlczR2FTRTJHeE50QkpYRGYweXpKVDNmcXZrMnFRMmV3Uk50RDBlNDd4MmlzaVlic2kzM1BsNEZ3TUlXYTc0R1JadlIxQmJjU2g2a29JZmxBbWxrTTJQaFJicG52ZHhOTnM5UVdwOWxUUFItQjJxZU9ibkRZMUhOcA?oc=5",
+   "data": "2026-11-17T16:17:30.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
+   "avisado": true,
+   "avisadoEm": 1794933027150
+  },
+  {
+   "id": "bayb5l",
+   "titulo": "Jensen Huang diz que seria 'uma honra' voltar ao comando da Nvidia, horas antes do balanço",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2h4emJ6UWpkS3BHeXpOcTFTU09xOUk2MG0yUUVYRDdNSXB0SWZxb2xDV04tTS1YaVRraXpNNm8tN1RENk53dXFlUUNPejBJVlgxVjlEaVlhQ2MwejJHTUdmOEJaY091UGR3blNLalhWSlR3WVZXMTEtcVlqekFJU2FKaG05YlFpMWpGSUVROGtuS3Fsdk96U3AwNHF1SVdxZWVMU1lFOUdTV1dVN1VaZHFodE15R0Y1?oc=5",
+   "data": "2026-11-17T16:16:57.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "avisado": false
+  },
+  {
+   "id": "fg0wgt",
+   "titulo": "GTA VI impressiona com novas imagens e sistema climático que promete surpreender jogadores",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG5QVlhMUGptRUFBMFBIZHBaeXZ1UC03c0x3SXEyX2lQcDQ2VXZNZWt5VnpXbjBxZ0hxbndYcVc5ZnplZ0tybDc1cHV5V0VvcjNPSlFUekFQczZLaU9JdHp3LTdHX2JtbHUyQ3htelJtLUtONzQtNVg4Nk5BTnRrbjNaMmQ2Zml4R3FCS3B2VzVyck1SeHphSnJaYTg?oc=5",
+   "data": "2026-11-17T16:11:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "163sdpn",
+   "titulo": "B3 lançará BDR da Anthropic simultaneamente ao IPO da empresa na Nasdaq",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPODRZTXRsSmpyYlBqcU5qV2ZPMnJ5bWpBS0JEY2o4SFQyajlpNnpKU0I4R2MteVp1bFdDUks4bEpldDdQZkktRkVJbENLeW1kS21md19Fd2RiYXdLelFXekx4MmJCNks0MU5LZldCQzNXazVMRVpDTTYyZjBMQmpnaG5NRUxqbWJxNXIwWmJRRlRjN3Q4U3owWEM2TV9GczV2OEo5Nkg3ZF9va01YSkN0bHhUWW5fZ3dYYV92R3NDS0kwbGt1OWpoNEtKbFNCWE0wSXp3eGZHWQ?oc=5",
+   "data": "2026-11-17T16:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "B3",
+   "score": 9,
+   "avisado": false
+  },
+  {
+   "id": "1g4bur",
+   "titulo": "GTA VI: fãs tentam prever nota no Metacritic antes da estreia",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMm9YYU5yTjhiUEI5a1o4Z0tsUG5oU3FxVmNueDlkbG1Sd1p5d0hTVXJxSWhzNHBCTTdLNFdvUUlyTW1sczJLQXRWZGhTbkgzdXFsSVpiX0JaNkJQU09ZTGd3QjNSUFJLakJJXy1NUFFnU0lOQ05nWG1pQzlaZU9mMkE5RXpaX3lVZ0dFRnJLVzQxb2lERkd6X1RLc21Cb1IzODVYeFRtLWc?oc=5",
+   "data": "2026-11-17T15:59:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1fjq88c",
+   "titulo": "Amazon e Google terão quase 29% das ações da Anthropic, dona do Claude, após IPO; entenda",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOVWVtOTRVaU8wTVdCbDEycHZ3bWFKUmR2OU5FVXFPLUdKdkpTLUhaVXB3ckM4d1l2YzV1b3FoTDNYeXdzVHhLd2M2bzJDa2VjeDhrZ1QtdV9fdVRpTnBqaEdsMm9remZkd01wRER1bGFPRGpjYlZKU0FMLUI2YnV5MTg2R3lJbEZsXzk5WEpnVGF1SzFoWl8xaVdtN3JWQ0c5V2R6UHlISl9LS29nYlJ1UjdLdjdQZDhiNW9nSDVVMmFrUktaRTdtdzlXRlNLZE9LMW82Mk1SNTlETE5nbW1GanFmTmE2aW1WNjhvRjV4UGJVTUdS0gGDAkFVX3lxTE1BWXFRd1RjM3BnWkJzNjk2aEFNLVRuaWVxMm1lUGlJWE5pVDBwOU5fd0RyZWZiaTF3WjBlaXpBUW9fdk9NOWszV1dlcEw1M25tUDM2TmRFN0NvMjhwNlhQNzB2VDgzd3c0Z0hpaFpVUGxjYVlZSi10UzZRei1FcFRLaGFocG1OUEg1SWNKRW1feGNqZnUxRkJlMFFNeDNDZHZyOXo0YVFiMEpwak5RQnprNmY4dGRzcXByLUh4aE5wQTRMNVlwTnlJZ3VSS29hbnRaQ2UzNnRxLV9RMTZ3MTBpU0VFMWxRd1VPOFlsWDlwcjlrQVlLOHYtLWNvWHUxUTQ0bUE?oc=5",
+   "data": "2026-11-17T15:56:53.000Z",
+   "cat": "IPO",
+   "empresa": "Google",
+   "score": 9,
+   "avisado": false
+  },
   {
    "id": "1p19gk5",
    "titulo": "Nasdaq recua enquanto Wall Street aguarda resultados da Nvidia e IPO da Anthropic",
@@ -117,6 +217,17 @@
    "avisado": false
   },
   {
+   "id": "qwjhoz",
+   "titulo": "Invicta, Bia Mesquita dispara no ranking Meta após brilhar no UFC 334",
+   "fonte": "BOL",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm1sc0J1NTQtYlZFV1dmdXVDSVg4VENfVVhTdXp1MVZKRG9jNWVwYjlRSFlyeXNEREJwbG12OW5tT3lRckJ0UXA1VFVGNW1QYkNpZVo0dk1icW5KNDZ4alk0NWJxNTQxeDlpaFRtdjl5N0FkVHFCZkszT3lkWkFHOXRQYmlzODVrbnhaRXB4QTN6VTMtc1E5WmlCZ0p6RnZRZUdWUXdMMXRIVDdycnRVd2g2SWxuMzI2UmfSAb8BQVVfeXFMTWFEZWJJb1N2eHZaWHVhN1pHV0I0TGFkUlNYbVNFTUVzX0J2ZE5HZXdZM1RMMi1vdVdIdjJNWlJGNXYtM0ZtVFJaRElhT3FwaFVCNUc5d1lJT252SFY1c1lwYW9KRDYzNmFRU3hWNXFtYkJqbTItTXJBZFpCUFNUa3N2MWlNaEQtSnRLQklCb3RSSVQtVXFhVXpDNlkwS2JrbUQxYkJSb0xsa1lTS21wZV9TT0E5NXBZUTF5cl9HQ0U?oc=5",
+   "data": "2026-11-17T15:10:43.000Z",
+   "cat": "Movimento",
+   "empresa": "Meta",
+   "score": 5,
+   "avisado": false
+  },
+  {
    "id": "15guaob",
    "titulo": "GTA VI: saiba o horário de lançamento no Brasil e onde jogar",
    "fonte": "VEJA",
@@ -125,6 +236,17 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "g6sce8",
+   "titulo": "IPO da Anthropic deve ser precificada acima da faixa preliminar",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEhWOVlRenh0VFhnejl0SFhnYUZ4eGQ4RHRrVXkzWmdlTGhnUzU3YTlvWlFSa25uMEptTGxJWHBUTnlmRzItcHpFbzVDUDE2dHRLRW0zSmx6S0JtVlpWanQzOFBibGE2Ui03RVlHd1hkb09kaDNIRzB2dW8tOU90TzZpelZVOEE?oc=5",
+   "data": "2026-11-17T15:00:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "avisado": false
   },
   {
@@ -158,7 +280,8 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794933027150
   },
   {
    "id": "1htkdnp",
@@ -223,6 +346,17 @@
    "data": "2026-11-17T14:42:58.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "1tz4lqy",
+   "titulo": "Bolsas de NY abrem sem direção única à espera de Nvidia e de olho em petróleo",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQNUxsekQzdnc2bnY2TUMyVklkZURIRElRWmhsN2EzZUtMM3h2ZnlFVEUzYzNCdDJsQWpKRi1fSFZmNVJWajN3eUhKUk5xdmlPbTdtYl9sazhFeW0wamNSbU1vbXV1YkJnVGI0WGJxVXVweDgtbWlvaExKTmJuSlR2LWNtcjBfbUtJdnh3bDhUem4wZ0FuY00zMDNrQWhwNDlZZ2NVWmhKNkg3Y2tEQUxaWUlSLTlUNU0zWVAyTWtxWGR6M016RVl2MGZiUEZTSHRZRFAyMVVEVkhLNms4VjhB?oc=5",
+   "data": "2026-11-17T14:39:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
    "score": 6,
    "avisado": false
   },
@@ -1140,7 +1274,8 @@
    "cat": "IPO",
    "empresa": "SpaceX",
    "score": 10,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794933027150
   },
   {
    "id": "ilq9fw",
@@ -1227,6 +1362,17 @@
    "data": "2026-11-17T08:33:26.000Z",
    "cat": "Mercado",
    "empresa": "Meta",
+   "score": 6,
+   "avisado": false
+  },
+  {
+   "id": "17riugk",
+   "titulo": "Ações da Avio disparam após oferta de aquisição de € 2,05 bilhões da Iceye",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeF9BSFZGekpsT01VdzhUZmNGeEJOQW0xUks3aEhKZ2ZTUVJSeXBCZHFuOXQ0UW5oeDFXeWFGVVdERTlaTGRKeFFmTVRrX0k3bWpUZWt1QWxVYVo2S3FYckxsN01XTXQ0OXk1WlhaUFJBYlhPNXBCS3Q1SXJ4b25Dd3JnbHBwS1A2cHU1RDh4a3FYVGVWeklqalZfRzZ1NnZJeHlfSjByelNGZU92b2ZPNWJrZmR6RlliX0pfdGNiNkRZSW80RlA4?oc=5",
+   "data": "2026-11-17T08:28:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
    "score": 6,
    "avisado": false
   },
@@ -1514,152 +1660,6 @@
    "data": "2026-11-16T22:32:00.000Z",
    "cat": "Corporativo",
    "empresa": "",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1gcuttq",
-   "titulo": "Kurtaj GTA 6 Hack: 12 Offenses, $5M Rockstar Cost",
-   "fonte": "shattered.io",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZjRsSER1ZkZOZUZnMXBXRDhEYkVycjRRVWpjXzlqSlpZVW92Ny1nY3ptbklOdEFrTzhLZkkzWVNQcWpDS21NQ2V5N1RWR3FvUkpZWVZYYXJIVThjWE5faS1hNV95cWNQbjUxS0RnVWpOcE9WVmcxQ1hoZS14X3d1QlNoYW5qNklu?oc=5",
-   "data": "2026-11-16T22:21:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "167ibzl",
-   "titulo": "Ações fecham em baixa antes da divulgação dos resultados da Nvidia e da abertura de capital da Anthropic; preço do petróleo cai",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE83S0JrU0Z4LWplVG56aDRLTzFmRlAycXNBdTJmQTJFOWpnajhmVUxCRWN4SFlFZEtYbHFMTTVxSW5CeUs1RlVYNkl5ZXJsdll5M1BHc1QxYnloa2g1UzY1YXVXRjIzR1gxa05Ua3Nla1FSRGFLT000?oc=5",
-   "data": "2026-11-16T22:09:48.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": false
-  },
-  {
-   "id": "1j1aexy",
-   "titulo": "Sam Altman says he's not worried about OpenAI's IPO plan",
-   "fonte": "Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNXI3cnpJZjBrWXU2ZGhCb2tVNThZZkdpdHdLek81ajFzMDVhSjkyQkhyRkhQTXJCWUhaT2tpN1pJQzF6YUdscWVqOXhrTzZEanF4cjRZaDFIMHdtOFJOc241d2VwVHUzTkhidnJCN0J2T3gzcXlKYU8xUVRlOWlOT3NiSkNnT0tfYUE?oc=5",
-   "data": "2026-11-16T22:06:00.000Z",
-   "cat": "IPO",
-   "empresa": "OpenAI",
-   "score": 9,
-   "avisado": true,
-   "avisadoEm": 1794875185555
-  },
-  {
-   "id": "5xc3ih",
-   "titulo": "Dólar dispara e fecha a R$ 5,77 em meio a dúvidas sobre pacote fiscal; Ibovespa cai",
-   "fonte": "Oeste Mais",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVFUxRnBLYTdNc3lRcTZMc2VYQ2pxXzRVZlh0V0NOY1liemh1bXlyYjU2NHNnRW03aE1oOUV3RVZDQ3h2VGN5TmQ2RC1PR3pZdjZsd0dVcTBocWJGdWJsWmppeU5zT1hXclFqUTVpQVRHelJSZUp1cXRmbzRiSm9iMHNEU3hzYmxHeUtLczhwUUw4MUxFcGtnZ0ltc3NEcVBVV2RZeEhvbEc3ZHl2aVpvMnZZRE1tRnB5RXlEQlBNbXpYXzBCcXlhdjd3?oc=5",
-   "data": "2026-11-16T22:03:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "avisado": false
-  },
-  {
-   "id": "1j4alb6",
-   "titulo": "Jensen Huang drops off Nvidia's GTC DC schedule following resignation",
-   "fonte": "Business Insider",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZzJ4THJsVlhBS2tRSUdrcjNfV3ZEbzllV3NGRnNUUW8zbHRDTkdsVWJtVVIzajh6c1BTMHc2YlZVUXh0dkNBd1ZUbnJ2Q1FKNjNSV0FjRVoxTVVsUXVNakF0MHhjX1pHYnhpemJieGJGQU16TmpMV3V0NUM4TnZRUnhhTXV2OER5TGtRMWZqa0ZUUDJuZ1BuMVBrZDEwWDU1UWp3?oc=5",
-   "data": "2026-11-16T22:03:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false
-  },
-  {
-   "id": "1n1g59k",
-   "titulo": "Ethereum Price Forecast: BitMine compares ETH sell-off to SpaceX IPO trend",
-   "fonte": "FXStreet",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdzktVF9HelZjOGJXUDdENUxDSWJHNmU1eVA2dHZyajQ2a0hnSTZoaWFQdTQ5dHdFQ2ViWWVqRnZUU3RTSnUzRE02UEZUSjRHcFlIa2JLYWZDVkMyOXppTUItYVR6Wjh6SFc3cVkzQzJfN0pEbi1jMTY3Y01UcHlnTUFyRkFwclNHelBmdkpCN3NMejY4c2R1UGJkM3Q3c0ZNRG5TbTE1eVNial9Pc2FEVnhuclNaSUtWR1JWblhielJGeWNvei1RM09xb2xld2JuRlVSRzhaQWRCNWd3SzctenVB?oc=5",
-   "data": "2026-11-16T21:59:54.000Z",
-   "cat": "IPO",
-   "empresa": "SpaceX",
-   "score": 9,
-   "avisado": true,
-   "avisadoEm": 1794875185555
-  },
-  {
-   "id": "19896yy",
-   "titulo": "Licença para jogar: o que está por trás do hype do GTA VI?",
-   "fonte": "Consumidor Moderno",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOekdNV3RXV2VLaUVhWXRoNkgyTFNYdlREZDVFNjRIYUdrOU1fVk1DajJYcE9pSW93LW5WbllDaEFvVG81QlpsUzBiOFZLc1AwWDIzQXJiRUU?oc=5",
-   "data": "2026-11-16T21:58:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "qrgdf2",
-   "titulo": "$1.5 trillion Anthropic IPO looks attractive, says William Blair's Arjun Bhatia",
-   "fonte": "CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNjRsTUQ3X3ExQ2RKMmdnTHI0bzVBVTZVWk9fTm1SczVTNzZiWWxiVnRpaE5qWG9WYmUycFpSU3RrZmdYbHBxN2NhcnV2OTFDMWVRUWladEpuVVI0U3lHWGlIWko5bm41c2ZvRzY5NmtfUGhJZnUwamZBdDVfVUJxcEhYakxjdkpJNVlBRTVBdWNLc1hWTXNHaUsxUi1hRFhnZC1GOGlYWmpTUXl6Y3ZtN2xvRTdOMkRscnlmbmRPek8?oc=5",
-   "data": "2026-11-16T21:56:23.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": true,
-   "avisadoEm": 1794868228280
-  },
-  {
-   "id": "1ubn6tr",
-   "titulo": "Meta AI em português chega aos óculos Ray-Ban Meta com comandos de voz avançados",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQLWpZR1FTSDF6SzVOaUVqMDVxT2xYTW1VNWg3QlRlVGpzUkxlTkNyTkY2Qm1RM0RwUlN5bzRlMHFFWmhoQWNGdmJLc0EyUGhnN3JqU3dGX2RzS21fQklJVW9HWHBTdHNvMk5IOWlMUklVUXdfRHJOREN2WXhwXzdzWVlabG5zUnhiN1ZsamppNWxickk0TlJmd2ZyeHY5UF9YaFE?oc=5",
-   "data": "2026-11-16T21:52:11.000Z",
-   "cat": "Regulação",
-   "empresa": "Meta",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "g5ehvl",
-   "titulo": "Às vésperas de GTA VI, hacker responsável por vazamento do jogo se declara culpado",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUmhRcS1scVFIUF9qNU5NZTFtLTB4UkxUbmhtdDVIVGFuV21RSzYtT0tSa2Nyd1dVa1huSGlmdHdHMFhYNC02MEt0aEdCckFFRm5SWHhycEw0Y0szdVJwSUlLeVY2enBsd3hJSVktVFYycVJTSmFXZVhJSXVha3BRVi1ZbHBEaXpaRGxvb1loV25ZRDhlQXNfQVp1V0dNN1lIWmZzVWpaT2pNbGRWR1hfWTlJbXdOMmJHbXBWTUw4bmRQSTd5Xzk4SFpzWW5ROUNZSzZoS1BnbUdRd9IB6AFBVV95cUxOVGtKRHNoSldtN1NDOHlqY3FkSlNNd0VaeXhLaTNFMXJobVZLLTB6VllzVFl1Vl9tdjk1a09rUHB1MGpLWjRlNzgwTnRHVDZKMDBBRXRnQThTcGhxWWZpOGxZY3hTZm5tY3QwVk1FQkRXRXV3ZjAybE9VMmJDTk1SQkxlQ3ktRDVRQ0FQMTlxQ1FtSnhOaEt3RGRFaDg4MjdtTE9QOXdWVUpzemRkbVhyTkdsQUFYTldyMG5JU2wtN1lLSWxPemZDT1lLTkRNZ1F2d0RyZEl0LVluSTNlNkcwa1Fnay1nZTNM?oc=5",
-   "data": "2026-11-16T21:44:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "elr0bf",
-   "titulo": "Wall Street cai com preocupação sobre IA, antes de dados da Nvidia e IPO da Anthropic",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZlczOWhKdW1DcDZhZWZlTDJLQmN1NDdOY0gwanRtcWhlY1E4VzB4d1BtVzdxYXY2SjhnZGpDNXVqNjREZlFQY2NtSF9jaHV1a0VFd1VncjFHZ0ltSjBoZXczc0s4ZjZlLTBzT1NRVXp5b29DNTVhaS1DR3FnWEt0MkxuOWctOS1ONno4dU5wSFAtcDd2SU9peHRZWjdmNkpqMGpmb2RsYXV1QUZKeDUteG9jaXdSM0RXdFhhOUg0RnTSAcYBQVVfeXFMTW5fcnZnbU1iRDBqYW9EVTNBT1ZpN294djVIN2NkaUE0aUx1djNPc3FJdVlCNXZQNGhTRno1a21iMnFIRlBSUTRWb1BOeTYwblFlYmMyaXFsZllqcFhZLTd6OWZSOFM5VnJlX3NoVnBIdE1tMEFJUkRvcjBXajJMNWpSWkd0RjZQa3VsOXM2OUxad0tIVGkwbzdYdm9UdHUzS0pid2d4c1lPRFlkQlRKQWdJc2VtdV81bFdmdFA4blNuUTBVVWx3?oc=5",
-   "data": "2026-11-16T21:42:56.000Z",
-   "cat": "IPO",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false
-  },
-  {
-   "id": "1l04zpe",
-   "titulo": "Evento no Rotary marca lançamento do programa ‘Renda Verde’ em Suzano",
-   "fonte": "Diário de Suzano",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcm9jdmJPTmN3dEwzeG00ZG9zYjdEX2dwVTQwQXZiNGJVaUgwQ0x3dG9jNTZFLTNXc2xtWXBVUjBJSnFEc2F3ZS1nWG82aVdaQWpZcUh1N09OUmx4RlM5dExvcW9IZHNFdEdXYmVRdmxTZGJrWTdDMnBPRms1SnhUd3VLdU1jdThiZDN4cGFYbGhwNWZuX3E2bnNuUERaRHVXbHpmdkE3eFdrdU5RZEY1NUxiWk5iNXUxS0Z6aF9IdV9WdTQ?oc=5",
-   "data": "2026-11-16T21:42:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Suzano",
-   "score": 6,
-   "avisado": false
-  },
-  {
-   "id": "1bfmbcr",
-   "titulo": "Ibovespa cai com pessimismo fiscal, disparada dos juros futuros e aversão ao risco em Wall Street",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQkxjVE45cElyMWxrYUlDTDc2Nmhtc0pjZ0VtVFRMSUg1TVpIaU10STZkZ0JFZm1TNmFGZG1ra2QxalNqY2Z2ZWZnTEIxRDVzX1Vrb0RyWkpyZEx5MHFPY1ZaUERrcFB2TC1SeGJsRWpRS21PMGZZaUlva09KeWlQOEtUc2huRTRjWTJhVWdaWnRUbXg3Q1NqWEZRSmJ3azd3YzdqV1ZnSjA3VkdlVDlsLUV4VS1JWUZRMU5DcUl1emQ1c0QzM3hKUUlXNWs?oc=5",
-   "data": "2026-11-16T21:41:14.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
    "score": 5,
    "avisado": false
   }
