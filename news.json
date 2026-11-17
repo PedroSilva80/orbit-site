@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T20:17:30.326Z",
+ "atualizado": "2026-11-17T20:30:27.843Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -42,6 +42,18 @@
  ],
  "itens": [
   {
+   "id": "1cd8r88",
+   "titulo": "STJ nega isenção de AFRMM à Petrobras em importações de petróleo pelo Repex",
+   "fonte": "TAGD Advogados",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3lnYVFoQVU4TEVXWi1NSHVuYkFkUHNwSENybzJSRmRzMXpfMUN0Q0tacFdDR3JOS3VjdUNId1lQLXBRMXdNQ3QyWUI5TTdiMmxrMEFRa09jS3RlQjlwQ2VrVVZCTEtSMUt4VDBBenNUWExkMnQtUFByZEpfcm9KQUpaVVJSV3ViZ2VQQmdrQkJtaE5FVlFQVWtTS0NPMG1O?oc=5",
+   "data": "2026-11-17T20:14:25.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2o94go",
    "titulo": "IPO da Anthropic deve movimentar US$ 90,4 bilhões e superar recorde da SpaceX",
    "fonte": "Monitor do Mercado",
@@ -63,7 +75,8 @@
    "empresa": "Apple",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794947427843
   },
   {
    "id": "10a5xlw",
@@ -158,6 +171,18 @@
    "cat": "Liderança",
    "empresa": "Netflix",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gj7kat",
+   "titulo": "IPO da Anthropic é esperado para esta semana; B3 prevê lançamento de BDR com aplicação mínima abaixo de R$ 100",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOQ2FOQWMzbVFOcUJfc2pTbDlIZDdGazltMkk4Smw2UVphb1VLVlJfcGRmYml3Ykc1UkUxRm1TZ3VaaTc4ZXR0cTMwYnFWT09sNUowaHhoWnZZekREOHI0bS1SaTBFNVlZT2FuSUxSeDhhQ0tRNVZQODhXVHEzaVIwYXJzbzBEOGl2bVVHdi1lNEg2ZjgwXzdBZ0thbS1lMEtIc3N3aVhRbm15dHJVLThiY0Jtb1pZa3RJdGhGQWNZVXlYOGdzZUNxdlhRdmg2dXlYekVIQ3NCYXJLOHhyc0tiYkZva0k1WVBsN2QtRE5Cb2dENTRSTXJPQTlPSkhIVnNGcHlMWmRkY0g3dnZBd2dZYg?oc=5",
+   "data": "2026-11-17T19:34:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Anthropic",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1282,6 +1307,18 @@
    "marco": false
   },
   {
+   "id": "10p5ajf",
+   "titulo": "Lançamento de GTA VI: Chuva de Meteoros Leónidas vai tirar a Terra do eixo!",
+   "fonte": "Revista Algomais",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQajdiVUphakszSVBhRlBOSmdPWHh3aEo3SFVHOEVZd1Y4Sld0cmJrcF9COFM0dFJqOV9hTHljVkpkRlk4b1o0N0dyR2o5X3ZlbXpjWThDZVBDSVhCejZvdEIydWdRbGpmNEpYOGk2SXJpVWI4eDVUSXlrcE53ejVkSmRDWXRiQzczSmJhY2tzSWtiWER2OVVHTEl3OA?oc=5",
+   "data": "2026-11-17T14:19:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1faiscz",
    "titulo": "Pacote fiscal de até R$ 60 bilhões e balanço da Nvidia concentram atenção do mercado",
    "fonte": "Portal do Agronegócio",
@@ -1806,42 +1843,6 @@
    "cat": "Resultado",
    "empresa": "",
    "score": 5,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "10o9bz0",
-   "titulo": "Dólar oscila na abertura, à espera de balanço da Nvidia e de olho em dados dos EUA",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WbXA2QllSMWVnWHZlQjBHM21DVFRhdm1SY0laMXd0Rlh1dTdwZnMwVHB6c2MzcXAtZGFRQVc3d0kxdWVZck5UV1BFOHFmWHJ2LS1BdXlGZlRqQkxzdU9uUTJDQVFuODNUNG5SU19mNm01emd6T2N6aNIBhwFBVV95cUxNeF9sRVd4anExbUIxLWdobEFLYTRma2NCekd4bjJRS2UydkxwMlZpN0p1aDRXdk5pUWhKbHBzNURrRkZLMUpfV0xyRGt0ejVPTDFlR0k0c0NBVnBfT1ZkX0pDS20wM2dEdVpIVUpBb2paVHdwYlhFNWk2bFhpcG5jX21iVkdlNFE?oc=5",
-   "data": "2026-11-17T12:00:34.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "u5g21r",
-   "titulo": "Dólar opera em alta e bate R$ 5,81, com balanço da Nvidia e ajuste fiscal no foco; Ibovespa sobe",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1WbXA2QllSMWVnWHZlQjBHM21DVFRhdm1SY0laMXd0Rlh1dTdwZnMwVHB6c2MzcXAtZGFRQVc3d0kxdWVZck5UV1BFOHFmWHJ2LS1BdXlGZlRqQkxzdU9uUTJDQVFuODNUNG5SU19mNm01emd6T2N6aNIBhwFBVV95cUxNeF9sRVd4anExbUIxLWdobEFLYTRma2NCekd4bjJRS2UydkxwMlZpN0p1aDRXdk5pUWhKbHBzNURrRkZLMUpfV0xyRGt0ejVPTDFlR0k0c0NBVnBfT1ZkX0pDS20wM2dEdVpIVUpBb2paVHdwYlhFNWk2bFhpcG5jX21iVkdlNFE?oc=5",
-   "data": "2026-11-17T12:00:34.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1l9tqbd",
-   "titulo": "O dilema do IPO da Anthropic",
-   "fonte": "O Brasilianista",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5xVVkwbjBsSkhpOXdMU0Rfb2dlR09EQ2ZGclhENUNRS3JTSHRRazFweWlIRHBsVHBEb2w0SER0UkhlYjJLWUtfczFNbTEwZUQ0T0syRWk5Y0JsZzFOZlZnT3NmeWFHQjlRTkZ4dWRvZ0lHMWZEMXFXMU9LNmc4a1U?oc=5",
-   "data": "2026-11-17T12:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "avisado": false,
    "marco": false
   }
