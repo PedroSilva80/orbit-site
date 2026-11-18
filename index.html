@@ -284,6 +284,7 @@
     </div>
     <div class="row" style="margin-top:10px">
       <div><label>Zona de compra: queda da máxima de 3 meses (%)</label><input id="cDrop" type="number" min="1"></div>
+      <div><label>Avisar oportunidade fora do orçamento a partir da nota</label><input id="cFora" type="number" min="50" max="100"></div>
       <div><label>Meta de venda com ganho (%)</label><input id="cTP" type="number" min="1"></div>
       <div><label>Limite de perda (%)</label><input id="cSL" type="number" min="1"></div>
     </div>
@@ -415,7 +416,7 @@
   };
 
   var DEFAULT_WATCH = ['NVDC34','AAPL34','MSFT34','GOGL34','AMZO34','M1TA34','TSLA34','PETR4','VALE3','ITUB4','BBDC4','BBAS3','WEGE3','ABEV3','B3SA3','SUZB3','RENT3','PRIO3','MGLU3','BOVA11','IVVB11','T1TW34'];
-  var padrao = { token:'', budget:500, maxPct:25, drop:10, tp:20, sl:12, watch:[], pos:[], name:'Orbit', user:'Pedro', voice:'', pitch:1, rate:1, ver:4, theme:'auto', ntfy:'', aCel:true, aWeb:true, aOpp:true, corretora:'XP' };
+  var padrao = { token:'', budget:500, maxPct:25, drop:10, tp:20, sl:12, watch:[], pos:[], name:'Orbit', user:'Pedro', voice:'', pitch:1, rate:1, ver:4, minForaOrc:70, theme:'auto', ntfy:'', aCel:true, aWeb:true, aOpp:true, corretora:'XP' };
   var S = load();
   var cache = {};
   var CK = 'painelCot_v1';
@@ -592,9 +593,10 @@
       S.watch.forEach(function (t) {
         var A = ANA[t], c = cache[t]; if (!A || !c || A.nivel !== 'zona') return;
         var key = 'opp|' + t; agora[key] = 'opp';
-        if (A.plano.qtd < 1) return;
+        var fora = A.plano.qtd < 1;
+        if (fora && A.score < (S.minForaOrc || 70)) return;
         var tsm = tsLoad();
-        if (antes[key] !== 'opp' && n < 3 && Date.now() - (tsm[key] || 0) > 864e5) { n++; tsm[key] = Date.now(); tsSave(tsm); var P = A.plano; msgs.push({ titulo:'Oportunidade: ' + falaNome(t), msg:t + ' pontuou ' + A.score + '/100 e caiu ' + nf1(A.depth) + '% da máxima. ' + (P.qtd >= 1 ? 'Se comprar ' + brl(P.invest) + ', ganho possível de até ' + brl(P.g2) + ' e perda possível de ' + brl(P.loss) + '.' : 'Orçamento livre não cobre 1 ação.'), prio:3 }); }
+        if (antes[key] !== 'opp' && n < 3 && Date.now() - (tsm[key] || 0) > 864e5) { n++; tsm[key] = Date.now(); tsSave(tsm); var P = A.plano; msgs.push({ titulo:'Oportunidade: ' + falaNome(t), msg:t + ' pontuou ' + A.score + '/100 e caiu ' + nf1(A.depth) + '% da máxima. ' + (P.qtd >= 1 ? 'Se comprar ' + brl(P.invest) + ', ganho possível de até ' + brl(P.g2) + ' e perda possível de ' + brl(P.loss) + '.' : 'Oportunidade forte, mas fora do seu orçamento livre. 1 ação custa ' + brl(c.price) + '. Só entra se você decidir colocar mais dinheiro.'), prio:fora ? 4 : 3 }); }
       });
     }
     alertSave(agora);
@@ -907,7 +909,7 @@
       ANA[t] = sg.A;
       return { t:t, i:i, c:c, sg:sg, A:sg.A, nivel:sg.nivel, score:sg.score };
     });
-    function cabe(x) { return x.A && x.A.plano && x.A.plano.qtd >= 1 ? 1 : 0; }
+    function cabe(x) { return x.A && x.A.plano && (x.A.plano.qtd >= 1 || x.score >= (S.minForaOrc || 70)) ? 1 : 0; }
     function por(n) { return linhas.filter(function (x) { return x.nivel === n; }).sort(function (a, b) { return (cabe(b) - cabe(a)) || (b.score - a.score); }); }
     var zona = por('zona'), obs = por('obs'), neutro = por('neutro'), sem = por('sem');
     var melhor = 0, melhorT = '';
@@ -1083,7 +1085,7 @@
   });
   function montaConfig() {
     var lei = {}; Object.keys(ANALISES).forEach(function (k) { lei[k] = { iso:ANALISES[k].iso, veredito:ANALISES[k].veredito }; });
-    return { leituras:lei, user:S.user, ntfy:S.ntfy, siteUrl:(/^https?:/.test(location.href) ? location.href.split('#')[0].split('?')[0] : ''), budget:S.budget, maxPct:S.maxPct, drop:S.drop, tp:S.tp, sl:S.sl, watch:S.watch, pos:S.pos };
+    return { leituras:lei, user:S.user, ntfy:S.ntfy, siteUrl:(/^https?:/.test(location.href) ? location.href.split('#')[0].split('?')[0] : ''), budget:S.budget, maxPct:S.maxPct, minForaOrc:S.minForaOrc || 70, drop:S.drop, tp:S.tp, sl:S.sl, watch:S.watch, pos:S.pos };
   }
   function b64(t) { return btoa(unescape(encodeURIComponent(t))); }
   function ub64(t) { return decodeURIComponent(escape(atob(t.replace(/\n/g, '')))); }
@@ -1238,6 +1240,7 @@
     S.budget = parseFloat($('cBud').value) || 500;
     S.maxPct = clamp(parseFloat($('cMax').value) || 25, 1, 100);
     S.drop = parseFloat($('cDrop').value) || 10;
+    S.minForaOrc = clamp(parseFloat($('cFora').value) || 70, 50, 100);
     S.tp = parseFloat($('cTP').value) || 20;
     S.sl = parseFloat($('cSL').value) || 12;
     S.token = $('cTok').value.trim();
@@ -1259,7 +1262,7 @@
   };
 
   function fillConfig() {
-    $('cUser').value = S.user; $('cNome').value = S.name; $('cCorr').value = S.corretora || 'XP'; $('cBud').value = S.budget; $('cMax').value = S.maxPct; $('cDrop').value = S.drop; $('cTP').value = S.tp; $('cSL').value = S.sl; $('cTok').value = S.token;
+    $('cUser').value = S.user; $('cNome').value = S.name; $('cCorr').value = S.corretora || 'XP'; $('cBud').value = S.budget; $('cMax').value = S.maxPct; $('cDrop').value = S.drop; $('cFora').value = S.minForaOrc || 70; $('cTP').value = S.tp; $('cSL').value = S.sl; $('cTok').value = S.token;
     $('cNtfy').value = S.ntfy; $('aCel').checked = !!S.aCel; $('aWeb').checked = !!S.aWeb; $('aOpp').checked = !!S.aOpp; $('webPerm').textContent = ('Notification' in window && Notification.permission === 'granted') ? 'Permitido' : 'Permitir';
     $('cPitch').value = S.pitch; $('cRate').value = S.rate; $('pitchV').textContent = S.pitch; $('rateV').textContent = S.rate;
   }
