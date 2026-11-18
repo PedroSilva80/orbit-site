@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-17T23:30:30.960Z",
+ "atualizado": "2026-11-18T00:00:29.957Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "mfah7y",
+   "titulo": "Banco do Brasil contesta alegações de que haveria fraude no crédito rural",
+   "fonte": "Globo Rural",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNaGFqLXZabDhIR2o3RWJ0RFhPLVlLeUNGbGkweXIwNkdOdmtYbzRJVktxMUVJcFl1aEpFbkxhYVB3ZnNQUTU0WlNhUC1mSHdBRVpmVl9scnc1cVYwMEk3ZmRvVDZwX1FxZVBqZXY2aWV1M3Y5a3JNS00wR3dzYlVranNvakhpMHNSclJDNkJrcWJUM1d1Mm03SXpYQ3JxNkcxNGtUbTNSeUZ2UkxROXFCakFXQjJPbTlxMjFPbEl2WVA1ZjJrT1NmM3I3Y0ZzYl92LWhycUFrWGlwSHc1M245dNIB7wFBVV95cUxOOUxMZ0YxTUZwX2VtWXdTanpBT1pTOG5OUHJHN3laV3FnU0YxMTh3Wm9MMEprOG5zbi15M1phZmZBdmFQUk5PS1ZoRUY1Z09RejgxN2lQeDc4a0M2NGcyZzFPNmJ0OXNJZWxNSlNlbnNuTTlhTHpCQTNiUmRHVlNNYWxER2VUS1lfeEx4X1pvUnNTZUtEU2RNUXRlUmxDV2NrV3FuekpPVk1Va25sOGpHNDJ2NUxDWU0tMFF1bHI2bC1fMjdTN1E3ejMwMV93Z0FlQWhUTXdBQ01XT3E5NXJRSjdZMTMtVDBmSmc1YzJBQQ?oc=5",
+   "data": "2026-11-17T23:40:35.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n7ffye",
+   "titulo": "Resultados da Nvidia superam estimativas; empresa não responderá a perguntas sobre renúncia",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rRERnLTJmYVl3aVEyV3NBdlRWMXdNdkNGNlZUWFJ4cktKb3pNTHpvMlFOT0gtbUhXOWU1ZHpodnpGWGp1SUd4QlRXNGEwSzZaZEpjd3JxZE5LRmViZ3oyNFpDQmpLaUlQOFFaQUN6SGd6UDcwRzN3?oc=5",
+   "data": "2026-11-17T23:34:33.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1aaaizp",
+   "titulo": "Petrobras (PETR4): Banco vê dividendos extraordinários como improváveis em 2027",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPWXAtdVRJQXpiYzR5T0FlWU9pYmkxRjZ2Wkx1cTBWUllGTDVBaVFLMHlSb1VxTkx0ZUNiX0lPQnRqTEhaQUV3bENvdFpRRGNBOWpiWVItY3llV1o3ZkJLd00wdVRzT1BxSUswTGJPSWYxTTRZYno4ZGZqYW5IOVRyaFU5N0xwQzhhcGhtUTlneHhtZEVyLUQwYm5MSzJpd3VzdUYtbVBxY3N5WFZlUFFOS1c1OHBPLURIa3NQZHNR0gHDAUFVX3lxTFBOTU1QNlVkcjBiUFBvaENWU29Bdjg0TUx4bjhVS281TlFaQjZnd2pkWVBvZlVrX1cxM0twTXVQdWhqVzlnVGU3Rm9VQkFzbmdMR3U4M3Rob3JfdmMyMURQVWRrekpPYjN1NHNlaEpycWxXYTA2NmtQX1ZuU3gyT0RkQlpUTlM2aXlyaWFzREJzOHZlQ2pLeFNGOUcwZlNVUm5QcGVSUkZsaHQ4UDlYZklpZ0d0QlZkZ1BnZlRMNTNXeExmbw?oc=5",
+   "data": "2026-11-17T23:34:11.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "vgbe0h",
    "titulo": "NBA 2K27 ganha versão Vice City em colaboração com GTA 6",
@@ -303,6 +339,30 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5zedl",
+   "titulo": "Nvidia dobra lucro para US$ 65,3 bilhões em primeiro balanço após saída de Jensen Huang",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41SWlCRmx1OW1fcFNMVlJUX2xyOWVqXy0yZHE0cHNBWEZmZ2U2aFdteWQwNjZlVy1SbVdZSmR0T3dweEx5NThMa2NEaDM3bG1wOExvOFJZemVTM2JHVTNFTkU4aTdIaVJZRGRGYW5aeDJ1Y2ZCSjU3RjFwUdIBigFBVV95cUxOay0yU0dfbVFFWkJqRFZHNm1uV0hfMzc4bkhZcGpQM3E0NlRjWUoxcEJtY1FralZnUUZIOENuNXkxWkxXc0pVcHBzQTlhSzZKZzFvWVk0TjdUTGE5SE43Qm56eXlaR085MHV4UUZlOXdNbTJBZlp2WTRvVnR1U3c2YnFCT21HTmFaQnc?oc=5",
+   "data": "2026-11-17T21:36:15.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n6zm8",
+   "titulo": "Em meio à renúncia de CEO, Nvidia lucra US$ 65 bi no 3º tri, alta de 104%",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbjI3bzIteWMxT1c0OFdwdUdBbUM3VU1VdWNmVW9ISldJdkY2amNwS2U3MzlDd0szSHpXdk5NaWtmam03LVcySC1WZzhIZmkyWFprOWVRQU5mR2hzVlFTcXhEQ2tRRHBaR0x6alJ5dFpsRTZtN2FpZEVyUU0zb29PUmtmakEzOEdLVkxoZXVQWVg?oc=5",
+   "data": "2026-11-17T21:30:37.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1232,6 +1292,18 @@
    "marco": false
   },
   {
+   "id": "1l04zpe",
+   "titulo": "Evento no Rotary marca lançamento do programa ‘Renda Verde’ em Suzano",
+   "fonte": "Gazeta Popular",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeDRFcmQ5VUN3c2RsNy1aSERiRjdwZFJ0ZHphcTVmejdDbFJXN3pqVElneEFjWlhvc1FWSlY5YzB3ZjJpR2UwUUVtbEtEQ01SYVZybmZjZmp2clJ0eHg2eThyZ3g3QWhTTWdCa2lraUNkV2FHNXZwdjBnZVN3SDR0dFpaWjRkV3dBOHI5bEYyb1ZfQ1BsRkpDQ1lrRE1DeERMZkdsaC1Vaw?oc=5",
+   "data": "2026-11-17T17:31:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "Suzano",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1snqw4a",
    "titulo": "Jensen Huang, ex-CEO da Nvidia, diz estar disposto a voltar ao cargo se conselho permitir",
    "fonte": "InvestNews",
@@ -1772,78 +1844,6 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1gbq1wp",
-   "titulo": "Anthropic pode elevar a faixa de preço de seu IPO",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRTRZTV9PYUJYbFp4OG5MT2N5dHA4bG5NVlJyMDZEa0xtUkU4UTZlX2tOVnJPR00weGZjVUdFWHFIbWx6bW9jczMwU1Z1cnFpTWlGOE1kb2RhVkFlTk5rYzhrd3VoeGJxTlJMQ3BKZlVrWFZPMExLVWI4MUdlQkp3RExDQjE0UHJKNVE?oc=5",
-   "data": "2026-11-17T14:51:31.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "qgcu59",
-   "titulo": "Wall Street opera em leve queda à espera do resultado da Nvidia e preços do petróleo",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOEtuaFFHRVB3WEM1S2g5bDZuLWxQWTJmTEVhQkFKa2VpZFhTZHdnaFVWUjNWX0Q4Mldsd3pfU3pFUUc4bzFZVjRkX1NJVmJpeE1HbUxtakpkeWhpdTB0RjJEc25kTkFRYng1RkZvREg0OFUzQWwyVV9fbUVtX0s3WkV3VlRYdm0wRndrSGt4NzQ5N3Y5c09FcmlEZThHZTNLQXF2YWFRaEZLRjZhWk5jNDM4bTBRMktZU3EwZA?oc=5",
-   "data": "2026-11-17T14:51:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "hj13zj",
-   "titulo": "IPO da Anthropic: termos propostos e demanda relatada",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZVlpeEJhRFd0cnZWOUNfVFJyRGR3LXprTERWeTI3aGNuTkpGMmQxMzB0NDdRdGJ0d29Tc0d4YktCMEk2QjloYUxVUHZQU2FaSWdUbE9ESTVha0pHMG01ZWhOTXRxa3lRT3NOa2NMbk9kamJZZU5wWGVkVzhvX0otaTF0VmlOYVRfMTlmaURMQXk5YVVPdG02UV9OQzZTc18zYXpaSThYM0pabUhxUjhOcA?oc=5",
-   "data": "2026-11-17T14:48:40.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "ada7y8",
-   "titulo": "Quem fez a cabeça de Dario Amodei, CEO da Anthropic, prestes a realizar o maior IPO da história",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYnRXZlV6WHp2bkRmejVLY2FnWDB6UGJvV3JRcmQydjNsUmxWYlpWMVgxZXV0N2VYdGI5MWVPaC01UU9laVk4QWkwbS13WDFBcFN1VGpRcEVxZC1rZjZRbWpRMkNfeHN3UmpHVkEzS2hORzV1Tl93NHBCb0JjcGh5SlVSUFBEa0tYNUV3RE5YQUk0VVF0bHpORjNJVDRrZXdrZVhCQ2pFNWdVWUJoLWl0VDlTSXdEQnc0ZW9RREdLZ3lObUJlNkxLTlFLUk1KYi1rNHc5Nmt0c0VNeDA1eVBKNG42UGg5QQ?oc=5",
-   "data": "2026-11-17T14:47:49.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "2tu1bc",
-   "titulo": "Itaú BBA e BTG Pactual reiteram indicação de compra para ações da XP após balanço",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOelpUa2FjYUhUSjkyWVJva0xfMkR4MFl4WnhPQWFDTFUtWkFaYkRoNTYzeDdLSDJXS3o4SWNUb3hsbHJISFc1YWdaVzZiYnhFQ21KUXIyZ1BEOFV4Qk9oeUZOWkFwTzN6MGFEOWZFMG43NFg2NTduRkJMZEdXd3ZiZW0tMDJUbkdwUVU3MHZSYXkwM19UdVJ0dTU3aWpGTTRLX2Z3RHJXU1c2bTlDWE5lczhLX3FObFlpb2hNaDJnclFUdFVvdDdrSXNjMWp0SGRNYkhTajF30gHkAUFVX3lxTE02STdpSkhGT0RnNXctOTl2VjA3WUJueUFDdEJUa09nVlNNWHR1VGoxalF2ZUVfTTd2Vl9SRmZweXZqU2VUVWFNMlpYSU9tbTFrSms4cDdldjB4VGNNVl9FU1FoSmNPRzQtb3U5TG5UVXZOVmhzVENyNTY3eWN5bzFSVWV1ODJNbmZtUXB1YmZ3MGo2ZGJxazA4Q3dHRXpBWE9ydWYwZnExdTNIdjc5V1RiZG9XUFdKb2lFakVCTFV5Y1VIaUpTUnE5YTRnVllKaGV0aEx5cEZqNkF3aU1PZThjMVhXMg?oc=5",
-   "data": "2026-11-17T14:45:34.000Z",
-   "cat": "Resultado",
-   "empresa": "Itaú",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1nv11iy",
-   "titulo": "Balanço da Nvidia (NVDA): o que esperar dos resultados — e do futuro da empresa sem Jensen Huang",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNNm4tcGFsRGZXMXdVeHVIaUwtZk9vQU5zdndZaHBoaHlkOGRQQVZkYWtvVHRTS2ZPZndUclEtZU4wWEdnNWRINXpXb3NJM3dqNzQ4OTBibHp3MllxSG8wVTFTZ2U0QmtfUXlYbmNMTWVNVEs4b19IOHBqb2FRRlg1UkNNazk4NmoyRFJuZGZVbHk3UV9yM25xZlZCME1STG0zMk1TOWZGcmZfQzBlRnUwZDZmdTl5OFBqSHNURm9UNA?oc=5",
-   "data": "2026-11-17T14:45:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
    "avisado": false,
    "marco": false
   }
