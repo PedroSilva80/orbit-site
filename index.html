@@ -342,8 +342,12 @@
 <script>
 (function () {
   var KEY = 'painelAcoes_v1';
-  var SY = { tm:null, ultimo:'', msg:'', ok:null, quando:null, mexeuPos:false, busy:false };
-  try { SY.ultimo = localStorage.getItem('painelSync_v1') || ''; } catch (e) {}
+  // Sincronizacao entre aparelhos. O servidor (config.json) e a fonte da verdade e tem um numero de versao (rev).
+  // Cada alteracao local vira uma "operacao" pendente; se o servidor mudou por outro aparelho, o painel puxa a versao
+  // nova e reaplica so as operacoes pendentes deste aparelho. Assim nenhum aparelho apaga a compra feita no outro.
+  var SY = { tm:null, visto:'', msg:'', ok:null, quando:null, busy:false, base:null, ops:[] };
+  try { var sy0 = JSON.parse(localStorage.getItem('painelSync_v2') || '{}'); SY.visto = sy0.visto || ''; SY.base = sy0.base === undefined ? null : sy0.base; SY.ops = sy0.ops || []; } catch (e) {}
+  function sySave() { try { localStorage.setItem('painelSync_v2', JSON.stringify({ visto:SY.visto, base:SY.base, ops:SY.ops })); } catch (e) {} }
   var INFO = {
     NVDC34:['Nvidia','Tecnologia','Chips e placas para inteligência artificial'],
     AAPL34:['Apple','Tecnologia','iPhone, Mac e serviços digitais'],
@@ -1070,7 +1074,7 @@
   document.addEventListener('click', function (e) {
     var a = e.target.getAttribute && e.target.getAttribute('data-rp');
     var b = e.target.getAttribute && e.target.getAttribute('data-rw');
-    if (a !== null && a !== undefined) { var rm = S.pos.splice(+a, 1)[0]; SY.mexeuPos = true; save(); render(); if (rm && S.ntfy && S.aCel) enviarNtfy('Posição removida: ' + nomeDe(rm.t), rm.t + ' saiu da sua carteira no painel. O servidor para de vigiar essa posição.', 3).catch(function () {}); }
+    if (a !== null && a !== undefined) { var rm = S.pos.splice(+a, 1)[0]; if (rm) { SY.ops.push({ o:'rm', t:rm.t }); sySave(); } save(); render(); if (rm && S.ntfy && S.aCel) enviarNtfy('Posição removida: ' + nomeDe(rm.t), rm.t + ' saiu da sua carteira no painel. O servidor para de vigiar essa posição.', 3).catch(function () {}); }
     if (b !== null && b !== undefined) { S.watch.splice(+b, 1); save(); render(); }
   });
   document.addEventListener('toggle', function (e) {
@@ -1091,55 +1095,85 @@
   function ub64(t) { return decodeURIComponent(escape(atob(t.replace(/\n/g, '')))); }
   function ghDono() { var h = location.hostname; return S.ghUser || (/\.github\.io$/.test(h) ? h.split('.')[0] : 'PedroSilva80'); }
   function syncMsg(ok, m) { SY.ok = ok; SY.msg = m; var e = $('srvStat'); if (e) e.textContent = m; }
+  var CAMPOS = ['budget', 'maxPct', 'minForaOrc', 'drop', 'tp', 'sl', 'user', 'watch'];
+  function digital() { var o = { pos:S.pos }; CAMPOS.forEach(function (k) { o[k] = S[k]; }); return JSON.stringify(o); }
+  function ghBase() { return 'https://api.github.com/repos/' + ghDono() + '/' + (S.ghRepo || 'orbit-alertas') + '/contents/config.json'; }
+  function ghH() { return { 'Authorization':'Bearer ' + S.ghTok, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28' }; }
+  function hora() { return new Date().toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }); }
+  // Aplica no aparelho os dados do servidor e, por cima, as alteracoes locais que ainda nao subiram.
+  function adotar(v) {
+    var pos = juntaPos(v.pos || []);
+    SY.ops.forEach(function (op) {
+      if (op.o === 'add') pos = juntaPos(pos.concat([{ t:op.t, q:op.q, pm:op.pm }]));
+      else if (op.o === 'rm') pos = pos.filter(function (p) { return p.t !== op.t; });
+    });
+    S.pos = pos;
+    CAMPOS.forEach(function (k) {
+      var local = SY.ops.filter(function (op) { return op.o === 'set' && op.k === k; }).pop();
+      if (local) S[k] = local.v;
+      else if (v[k] !== undefined && v[k] !== null && !(k === 'watch' && !v[k].length)) S[k] = v[k];
+    });
+    if (v.ntfy && !S.ntfy) S.ntfy = v.ntfy;
+    SY.visto = digital(); sySave();
+    try { localStorage.setItem(KEY, JSON.stringify(S)); } catch (e) {}
+  }
+  // Conversa com o servidor: puxa o que mudou em outro aparelho e envia o que mudou neste.
   async function syncSrv(forcar) {
-    if (!S.ghTok || SY.busy) return;
-    SY.busy = true;
-    var base = 'https://api.github.com/repos/' + ghDono() + '/' + (S.ghRepo || 'orbit-alertas') + '/contents/config.json';
-    var H = { 'Authorization':'Bearer ' + S.ghTok, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28' };
+    if (!S.ghTok) return;
+    if (SY.busy) { SY.denovo = true; return; }
+    SY.busy = true; SY.denovo = false;
     try {
-      for (var tent = 0; tent < 2; tent++) {
-        var r = await fetch(base, { headers:H, cache:'no-store' }), sha, velho = {};
+      for (var tent = 0; tent < 3; tent++) {
+        var r = await fetch(ghBase(), { headers:ghH(), cache:'no-store' }), sha, v = {};
         if (r.status === 404) sha = undefined;
-        else if (r.ok) { var j = await r.json(); sha = j.sha; try { velho = JSON.parse(ub64(j.content)); } catch (e) {} }
+        else if (r.ok) { var j = await r.json(); sha = j.sha; try { v = JSON.parse(ub64(j.content)); } catch (e) {} }
         else { syncMsg(false, r.status === 401 || r.status === 403 ? 'A chave do GitHub foi recusada. Gere outra com permissão de Contents no repositório orbit-alertas.' : 'Não consegui ler o servidor (erro ' + r.status + ').'); return; }
-        var novo = montaConfig();
-        if (!S.pos.length && velho.pos && velho.pos.length && !forcar && !SY.mexeuPos) { syncMsg(false, 'Sincronização pausada: este aparelho não tem compras e o servidor tem ' + velho.pos.length + '. Use o aparelho onde você registrou suas compras.'); return; }
-        var txt = JSON.stringify(Object.assign({}, velho, novo), null, 2) + '\n';
+        var srvRev = v.rev || 0, temDados = !!(v.pos && v.pos.length) || !!(v.watch && v.watch.length);
+        var mudouLa = temDados && (SY.base === null || srvRev !== SY.base);
+        if (mudouLa) { var antes = digital(); adotar(v); if (digital() !== antes) { render(); atualizar(); } }
+        if (!SY.ops.length && !forcar && temDados) {
+          SY.base = srvRev; sySave(); SY.quando = new Date();
+          syncMsg(true, (mudouLa ? 'Atualizado com o outro aparelho às ' : 'Em dia com o servidor às ') + hora() + '. ' + S.pos.length + ' posição(ões).');
+          return;
+        }
+        var rev = Date.now(), nOps = SY.ops.length;
+        var txt = JSON.stringify(Object.assign({}, v, montaConfig(), { rev:rev }), null, 2) + '\n';
         var corpo = { message:'config via painel', content:b64(txt) }; if (sha) corpo.sha = sha;
-        var p = await fetch(base, { method:'PUT', headers:Object.assign({ 'Content-Type':'application/json' }, H), body:JSON.stringify(corpo) });
-        if (p.ok) { SY.ultimo = JSON.stringify(novo); try { localStorage.setItem('painelSync_v1', SY.ultimo); } catch (e) {} SY.quando = new Date(); SY.mexeuPos = false; syncMsg(true, 'Servidor atualizado às ' + SY.quando.toLocaleTimeString('pt-BR', { hour:'2-digit', minute:'2-digit' }) + '. Ele agora conhece suas ' + S.pos.length + ' posição(ões).'); render(); return; }
+        var p = await fetch(ghBase(), { method:'PUT', headers:Object.assign({ 'Content-Type':'application/json' }, ghH()), body:JSON.stringify(corpo) });
+        if (p.ok) { SY.base = rev; SY.ops = SY.ops.slice(nOps); if (SY.ops.length) SY.denovo = true; SY.visto = digital(); sySave(); SY.quando = new Date(); syncMsg(true, 'Servidor atualizado às ' + hora() + '. Ele agora conhece suas ' + S.pos.length + ' posição(ões).'); render(); return; }
         if (p.status !== 409 && p.status !== 422) { syncMsg(false, p.status === 401 || p.status === 403 ? 'A chave do GitHub não tem permissão de escrita (Contents: Read and write).' : 'Não consegui gravar no servidor (erro ' + p.status + ').'); return; }
       }
-      syncMsg(false, 'O servidor mudou durante a gravação. Tente de novo.');
-    } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora. Tento de novo na próxima alteração.'); }
-    finally { SY.busy = false; }
+      syncMsg(false, 'O servidor mudou durante a gravação. Tento de novo em instantes.');
+      setTimeout(function () { syncSrv(false); }, 5000);
+    } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora. Tento de novo logo.'); }
+    finally { SY.busy = false; if (SY.denovo) { SY.denovo = false; setTimeout(function () { syncSrv(false); }, 500); } }
   }
+  // Botao "Puxar do servidor": descarta o que este aparelho tiver de diferente e fica igual ao servidor.
   async function puxarSrv(auto) {
-    if (!S.ghTok || SY.busy) return false;
-    var base = 'https://api.github.com/repos/' + ghDono() + '/' + (S.ghRepo || 'orbit-alertas') + '/contents/config.json';
-    try {
-      var r = await fetch(base, { headers:{ 'Authorization':'Bearer ' + S.ghTok, 'Accept':'application/vnd.github+json', 'X-GitHub-Api-Version':'2022-11-28' }, cache:'no-store' });
-      if (!r.ok) { syncMsg(false, r.status === 401 || r.status === 403 ? 'A chave do GitHub foi recusada.' : 'Não consegui ler o servidor (erro ' + r.status + ').'); return false; }
-      var v = JSON.parse(ub64((await r.json()).content));
-      if (auto && !(!S.pos.length && v.pos && v.pos.length)) return false;
-      if (!auto && !confirm('Substituir compras e regras deste aparelho pelas do servidor?')) return false;
-      S.pos = juntaPos(v.pos || []); if (v.watch && v.watch.length) S.watch = v.watch;
-      ['budget', 'maxPct', 'drop', 'tp', 'sl'].forEach(function (k) { if (typeof v[k] === 'number') S[k] = v[k]; });
-      if (v.user) S.user = v.user; if (v.ntfy && !S.ntfy) S.ntfy = v.ntfy;
-      SY.ultimo = JSON.stringify(montaConfig()); try { localStorage.setItem('painelSync_v1', SY.ultimo); } catch (e) {}
-      save(); syncMsg(true, 'Dados puxados do servidor: ' + S.pos.length + ' posição(ões).'); render(); atualizar();
-      return true;
-    } catch (e) { syncMsg(false, 'Sem conexão com o GitHub agora.'); return false; }
+    if (!S.ghTok) return false;
+    if (auto) { await syncSrv(false); return true; }
+    if (!confirm('Substituir compras e regras deste aparelho pelas do servidor?')) return false;
+    SY.ops = []; SY.base = null; sySave();
+    await syncSrv(false); return true;
   }
+  // Toda alteracao salva vira operacao pendente e sobe em 2,5 s.
   function agendaSync() {
     if (!S.ghTok) return;
-    var c; try { c = JSON.stringify(montaConfig()); } catch (e) { return; }
-    if (c === SY.ultimo) return;
+    var d = digital();
+    if (d !== SY.visto) {
+      try { var old = JSON.parse(SY.visto || '{}'), nv = JSON.parse(d); CAMPOS.forEach(function (k) { if (SY.visto && JSON.stringify(old[k]) !== JSON.stringify(nv[k])) SY.ops.push({ o:'set', k:k, v:nv[k] }); }); } catch (e) {}
+      SY.visto = d; sySave();
+    }
+    if (!SY.ops.length) return;
     clearTimeout(SY.tm); SY.tm = setTimeout(function () { syncSrv(false); }, 2500);
   }
+  // Confere o servidor ao abrir, ao voltar para o app e a cada 2 minutos com o app aberto.
+  document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'visible') syncSrv(false); });
+  window.addEventListener('focus', function () { syncSrv(false); });
+  setInterval(function () { if (document.visibilityState === 'visible') syncSrv(false); }, 120000);
   $('ghTok').value = S.ghTok || '';
-  $('ghTok').onchange = async function () { S.ghTok = this.value.trim(); save(); if (S.ghTok) { await puxarSrv(true); syncSrv(false); } else syncMsg(null, ''); render(); };
-  $('ghSync').onclick = function () { S.ghTok = $('ghTok').value.trim(); save(); if (!S.ghTok) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } syncMsg(null, 'Sincronizando...'); puxarSrv(true).then(function () { syncSrv(true); }); };
+  $('ghTok').onchange = async function () { S.ghTok = this.value.trim(); save(); if (S.ghTok) { await syncSrv(false); } else syncMsg(null, ''); render(); };
+  $('ghSync').onclick = function () { S.ghTok = $('ghTok').value.trim(); save(); if (!S.ghTok) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } syncMsg(null, 'Sincronizando...'); syncSrv(true); };
   $('ghPull').onclick = function () { if (!$('ghTok').value.trim()) { syncMsg(false, 'Cole primeiro a chave do GitHub.'); return; } S.ghTok = $('ghTok').value.trim(); save(); puxarSrv(false); };
   $('cfgSrv').onclick = function () { copiar(JSON.stringify(montaConfig(), null, 2), this, 'Copiado. Cole no config.json do GitHub.'); };
   $('ntfyGen').onclick = function () {
@@ -1195,7 +1229,7 @@
   $('nwIpo').onclick = function () { NW.f = 'ipo'; nwRender(); };
   $('nwTudo').onclick = function () { NW.f = 'tudo'; nwRender(); };
   nwLoad(); setInterval(nwLoad, 600000);
-  if (S.ghTok) setTimeout(function () { puxarSrv(true).then(function () { agendaSync(); }); }, 1500);
+  if (S.ghTok) setTimeout(function () { syncSrv(false); }, 1200);
   setInterval(function () {
     if (!mercadoAberto()) return;
     tick++;
@@ -1216,7 +1250,7 @@
     var t = norm($('pT').value), q = parseInt($('pQ').value, 10), pm = parseFloat($('pP').value);
     if (!t || !(q > 0) || !(pm > 0)) { $('status').textContent = 'Preencha código, quantidade e preço pago.'; return; }
     var ja = S.pos.filter(function (p) { return p.t === t; })[0];
-    S.pos = juntaPos(S.pos.concat([{ t:t, q:q, pm:pm }])); SY.mexeuPos = true;
+    S.pos = juntaPos(S.pos.concat([{ t:t, q:q, pm:pm }])); SY.ops.push({ o:'add', t:t, q:q, pm:pm }); sySave();
     var junto = S.pos.filter(function (p) { return p.t === t; })[0];
     if (S.ntfy && S.aCel) {
       enviarNtfy('Compra registrada: ' + nomeDe(t), t + ': ' + q + ' x ' + brl(pm) + ' = ' + brl(q * pm) + '.' + (ja ? ' Somado ao que você já tinha: ' + junto.q + ' ação(ões), preço médio ' + brl(junto.pm) + '.' : '') + ' Aviso de venda em ' + brl(junto.pm * (1 + S.tp / 100)) + ' (+' + S.tp + '%) e de limite de perda em ' + brl(junto.pm * (1 - S.sl / 100)) + ' (-' + S.sl + '%).' + (S.ghTok ? ' Enviando ao servidor.' : ' Atenção: o servidor só vigia depois que a configuração for sincronizada.'), 3).catch(function () {});
