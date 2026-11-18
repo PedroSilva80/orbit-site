@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T08:00:30.090Z",
+ "atualizado": "2026-11-18T08:30:26.917Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "5w5keh",
+   "titulo": "De laboratório de pesquisa a empresa de até US$ 1,4 trilhão: como a dona do Claude chegou ao IPO",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVHFoUnB0VGhydGhSU2xlM0RJcEU4ODJERDR5aWkwS0JRN3Q5V005V3laR1pEb0JYTFhsWl9NUXd3eWVBY296d1h4Zy1nQW5ENlNsTlNHQmt1UU5Yb2F2QW5hTGlQN1I5V1B2azZBY3J2M1Z2VW1ub3VZZncxbjg3Y0w4SkdweTA?oc=5",
+   "data": "2026-11-18T08:15:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18hdf3e",
+   "titulo": "IPO da Anthropic: faixa e valor bruto das ações",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemctM0Y0dmdzZGhOMHNldWRnckFOTnRjYkdhRkZvbUpRa2FQYTRDQlRaeDBZWlpjUGVEWTNRU3doamNMcUZRTzUxeW1qWV85dGYzanRueUpHSTREUlcydTVOekhTdlhlbTdtTFdMVTNMZDFxTk42cnJyWlJNeU9SQXk2LWF2MVVVd3ZVeGdXZ0hPS3dFSGtGaWFORQ?oc=5",
+   "data": "2026-11-18T08:10:12.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ktr9el",
+   "titulo": "Ações europeias se estabilizam após resultados da Nvidia; índice recua do maior queda desde março",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMFZoY3E3Q2JJU2dqa1BLMGlLM2dqem9qT2RVN280RXQxTzRsVUY4OU1EcXdWM0FFLVdDM2h3enMtMGIzNEZzYjYzaUctSTBxaXJkTHBaRHpSUnV0MTRVTVVKdGxpakNtQ0RYeFdLTWdNTGZGS3RYcnRjX01VZFMxeTVvakdXemhQVFBWbmRZTU9jMXN4Y0owRURtd0hZbXhoOGVNVXNRNUtDeDVLcjBuYTZUbHNNazhIMEdGRWJyWnNoVkpHanU1aVJ2N3JxMm50SUp0b0JGajcwdzdZTGVlYTBncHNCZXc?oc=5",
+   "data": "2026-11-18T08:07:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wizkvl",
+   "titulo": "Na Nvidia, balanço forte e investigações",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGNMQS0xU2MxbkpWenE1MFk2cmw2TUtQRldoMHpvcjhMWTE4T2lDSkF5NS1fOTlGNFJMdkNmUm9EQjgxUm9rZzhRMHgxQXRNNUNiUmtMOEhmeTR1V0loeFVkVjdYbG90MTEyUnNPcTljbkw1aEFIOUVodS1WdGZiOS1uNUxPdlRSX2o3cVpmUzRYZS1hUEFaenFnY1lqQdIBrAFBVV95cUxOamlrdjdpOS1VdmhvZXVXRTN6aVhjNzNvdUx6MmVvcWJNWnQzZGV4TXBMZ1JHdFFCYjZkNzZVaU5RZnhGdjF0aVVWWnpZX3BwekotNlFId19JVW1Rb09Hdk1aajd3aVJfM0gtVW1LaDVGNF9RT2ZUN0I3UmZQdGZxT2xwQUhLQ2xqVlJtNEtBaERjXzAzOHBVcEh0Z1FJdHQyS2xtWFhkOWp3b21a?oc=5",
+   "data": "2026-11-18T08:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14lfzdo",
+   "titulo": "Dos bilhões de GTA VI aos laços reais: a força dos games",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxORXNUUlJvbUlHRXIxU29Qa2pab0U1RDlNa2JsYldPRk1CMDBfRy1PRklLVGlBOGJlb0t6Wkxmdlo0WEo1TUU1S09RMmhKVmdNN0tlWnNiWGJmRlljYldhSWozTENNa1pPSmQtZU1STkhnczFHOXI4RXFPUW1pT2VJUWQwdXlzRVZDMVZsWkNyRWExaHZPX0I2MW1GNjNLcFZ3MnZDdFZXRy1fUUNqZm5fUzAwaTVNbG1LTVNfb2JfbzR1MENxLUJwVzFLUThSNVRFcDVzN25TUUZsclk4Um9VRXlR?oc=5",
+   "data": "2026-11-18T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jm4gs2",
+   "titulo": "GTA 6: veja preços, onde comprar mais barato e como parcelar",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNODBwS3VfTTk1Sk5wM1FWNWVHbE01WWRYY1NXTXE3RTdSRGhkVFhudTRCSG9BbFYxb3BLekNmMzZQMnFQVERnMUVVWnY0Y2xkanFydWJ2eURHOXpJV1JfR3J5b2U5ZFpPU0dzbW1TcEU5eWJzMFJEU1BmZzNXc0lHdm8weVA4UVhhN2pJLTd1WDVFcFJubk5RQnZYRzbSAaIBQVVfeXFMTWVwQkM4eFZZMFd0Yld6cnZZaTlaZU5BeDhBcjVfOGJ0WUhiU05qUmZFV1NWekZHb2xLako3Vms5VmtzRzc5TjRxM1FXTmhOMUZEcEE2blF0ejJJTjNSRWU0Y0hMMXBUV0luM3VmNWhfVDhwTVlkRzY0UjhadzdYY0Y2QzJLX1pWNURRWXJGeVhSVFh2cGIwNVRqRjFDZlJuTjNn?oc=5",
+   "data": "2026-11-18T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "izt2rp",
+   "titulo": "GTA VI: tudo sobre o jogo mais aguardado, que já movimenta bilhões antes mesmo do lançamento",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQVFN6TjRWQTJEOHp4WS1BV2gzMGVoYXVqbmIzemNvYnhLVk5PV0xZQ3hPb1puS0huT0Y4SXVabmdlSi1DVXFZMUcyUVQ3bzRjazJZVTBuaU9DQnhnT2c1b3NleHpBTmJiMkt2U1V0QTVfdzFrZnVPb3BILTlPdnpwRVBqdVk0ZEpxRV93dGduOFJFNkFwUjhFbXo1dXdHMFlwRi1kWm51UEtNclFFR1lHandhUkR6V29RalZnT05MMk1IUUIzNDZhTXhB?oc=5",
+   "data": "2026-11-18T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "g7o4yz",
    "titulo": "AMD conclui compra da World Labs e descreve plano para equipe",
@@ -1752,91 +1836,6 @@
    "score": 9,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "42c8te",
-   "titulo": "Ex-CEO da Nvidia pede desculpas por erros pessoais e diz que aceitaria voltar ao comando: 'Assumo meus erros'",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSF94aTNYcU9BOUkwTTVBWlZPc0tuSV95WS0tUmEzeGMteGVlRWV3SVZYOHc5NU5zbDRtUlBHYjg0NUJ5MXVxWE8tUEpoY1RidlU5bnNtZmcwbzAtUG9NR3dyVG8wQnM0MllZUGJrNFhjcWVsZVhldFJ3dVFVSDlnX2F3WGQwS2VJNWd2cjRMbXJacFdEekl3NE5pQW1qMnJ3VnFvTzVPc9IBtgFBVV95cUxPb0R1T2ZNRVZHbGNYdm43WEQ4QWdnMlBNNzBPVFp3YWdjQjZYX1VMMU9jVXlJNlV6YTFVUjhXSXBwNzNlZnVrbVpMOXFfa3dIYnhCQnBCZ2ZKMWlmYWNiRTgzamZsRUZSZDVvY1kzdXh2aVpYcGQ3TGdPTm9vODBmdU5GR3pLVXI4TENmalNORDZqdzR6TlppRUxjd2pRdUNjZ0JTT2w0SzJMV3FNMHMwRWJTRndCdw?oc=5",
-   "data": "2026-11-17T16:45:04.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dc469c",
-   "titulo": "'Cometi erros graves na vida pessoal': ex-CEO da Nvidia diz que aceitaria voltar após apelos de funcionários e investidores",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0R1T2ZNRVZHbGNYdm43WEQ4QWdnMlBNNzBPVFp3YWdjQjZYX1VMMU9jVXlJNlV6YTFVUjhXSXBwNzNlZnVrbVpMOXFfa3dIYnhCQnBCZ2ZKMWlmYWNiRTgzamZsRUZSZDVvY1kzdXh2aVpYcGQ3TGdPTm9vODBmdU5GR3pLVXI4TENmalNORDZqdzR6TlppRUxjd2pRdUNjZ0JTT2w0SzJMV3FNMHMwRWJTRndCd9IBtgFBVV95cUxPb0R1T2ZNRVZHbGNYdm43WEQ4QWdnMlBNNzBPVFp3YWdjQjZYX1VMMU9jVXlJNlV6YTFVUjhXSXBwNzNlZnVrbVpMOXFfa3dIYnhCQnBCZ2ZKMWlmYWNiRTgzamZsRUZSZDVvY1kzdXh2aVpYcGQ3TGdPTm9vODBmdU5GR3pLVXI4TENmalNORDZqdzR6TlppRUxjd2pRdUNjZ0JTT2w0SzJMV3FNMHMwRWJTRndCdw?oc=5",
-   "data": "2026-11-17T16:45:04.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ar1v86",
-   "titulo": "Após renúncia por escândalo, Jensen Huang abre porta para retorno à Nvidia",
-   "fonte": "Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1ViZHNoa2x4djJIeXNpc2swTHIzR0oxZ0V0eFhQZTdGVVE2cUxKZVl5ckdQcG1QaE00d0tIVHVSeVFlMlJFNW5mdFFsS21zUGlrdW1GY2lTaFVOYUFkTzE0bll2d01DMUI1clIzb0prUURFZnlMMEhoNW1wc0d0VE9BMkNGSDlMaGtISHRSWmtWR2F1M0xMNGc5SUhQUnQ0Y1lCcGlmaWNGSHBSdklhc2hwdXpJRklfUXFF?oc=5",
-   "data": "2026-11-17T16:44:29.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "oh1bpl",
-   "titulo": "Anthropic orienta preço de IPO para o limite superior da faixa ou acima dele",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQanNyWnBxNXNtcmoxTDZRV1JpSzBsZVE2RmdZMndKY3FLUE1zSXlvbUQtazUzdDRhSGNmS0ppQlg4V3duMnpWOTRjdmxhTnJ2U1NBWFFOTGpwX2kxTVlUREQ0YjI0LV9tVUxrbE9uREktOXJxSWM3REpoWlFmdWRtWjNfd2VjOW82cWJxVHlrb0YwdkpCWDBLYjlVcUdleUVEbzY4M1FyVk1OelRXelc1bnFRRDFYeHF5MzJlOTJfY2d6LUNBWVIxUXNfalh2a0dBbmxMelc4cmNiemEwNnc?oc=5",
-   "data": "2026-11-17T16:42:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "10rx5p3",
-   "titulo": "B3 lança BDR da Anthropic com investimento abaixo de R$ 100",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdkNPeWVwV0llVU1aQUQyVk9KY09fQ2VEQUpZNWlXbEM1Q19ISUI3dzR0ZkJ4WFFFbldKTWx5b2doRzRpQlVUUEJtUHVtdEpVRExsbnZqZW1qSHpqU0dJd1dOS3hRWTZYRUtlM0EwWEpiSjNZeEFYOXl5ZXhrM0xaenZPSzhTMHQtQ1dsTkRmYzVEUUpP?oc=5",
-   "data": "2026-11-17T16:41:53.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "f1vnjs",
-   "titulo": "Anthropic mira IPO no topo ou acima da faixa indicativa, diz agência",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZzY0MG1OX0RQUzhZVU52VzlUbjlwOVV1QlEyamgtb3lMVDZGa05WazBQQW9JbHptSEdfNXdnbW9iSmdrVjZxdGMwU2o2NHhXbWQ0eTFreHRCNkdhbWhPaXpZQ3Z1MFg0SktIVjlGZ0tydXpkVGtZanJHRlNMSmJOX3QwM2FZN3B0eHlINzNPNnJfUUlyRzZ0Szh4NHAxV3FMTmdTQVhmLWE3Qmp4RE9iTC1DSWM4d2pNU1dQRUdYRm1ndlkwbmZCc1J1Znh2dDQwRTZzT1dBYnVKeFJxSWpGQVZTc2ViclBvNUlmUDJheDHSAf8BQVVfeXFMT3RkX3Z3aFBtbUtwLU9hYzFTMXMxSmk0S3F1b1hvSUd5OWNfbldLbGhPWmNxRm5XZ0ZpdXVXckVpbFBnbEI2dXBmUzgwYjNlNjNtNjNfZ0tNSUE4MUpENFhRaG5oZjVxMnRQYUs1MmNQUnpGZXpUYzZVWDZXR3dBSmRObDFKSlhOX0Y0YTJFVVpseUxzR2ExcElkT0RpUUhDMm5RV1ByZGlRQWdrNmlUSVh1WEQ4UFlZMEl0UElZaUlaeDBvREZ5RHZ5LUJteS1XazNPTlRjelFPbU8wSk9aaVNZYzNLa3U1NnE5R0VERkJfLWxGTE5MTzBYektGSVVF?oc=5",
-   "data": "2026-11-17T16:39:32.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "6ygysu",
-   "titulo": "Ex-CEO da Nvidia emite primeira declaração após renúncia ao cargo e investigações",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekE1MGx4eTRlT2Z1X01aTEtsc2FUN21ycEd3aDdHZ2psRUF1WnhKWnEyN1BocnhzR0g0QTF5Q2J0dGJsZE1GRWxSQUY0cE9VUTBQN3d1WGlwQXJvbnIteXVOdVlIc1NaNVpsTUVETnNzcjhxckV0ZEh4ejlzanhCLU9jSzhhT2U4d213ZVo3dWJqVGRqNm91aFo5TWc2MDU5Z0RRUDlYcjI1MHJZTDgxQlcybFhxUFFX0gG-AUFVX3lxTE5jYjdPRXJXVGNnRlFlR3NWVURTeVJ6RC16OUluTnVnVS14NnRicDZxbHdCOER6Q29oTXZLa2lQQ3MtWVdBak5sY1lwdGdPbHZiZlVKTERDcjVsSzlUVXFmQ2g1VkJaRktvLXhWWHNtb3BpNE1CWEpRR2MtaWxSajhFQ0pKdnNiczVoMGlIWXBDclE5Ty1GaEhoNHBzTXdGWDZxRHZQZm5kQ3k2ZVpkZTdQbC11T1hmQllTdXBramc?oc=5",
-   "data": "2026-11-17T16:33:22.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "avisado": true,
-   "marco": true,
-   "avisadoEm": 1794946650326
   }
  ]
 }
