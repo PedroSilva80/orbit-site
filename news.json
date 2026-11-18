@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T03:00:30.136Z",
+ "atualizado": "2026-11-18T03:30:24.464Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -25,6 +25,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1c78tgp",
+   "titulo": "Nvidia salta 4% pós-balanço enquanto fracas esperanças de retorno de Jensen Huang limitam valuation, altas do Fed trazem risco de queda para US$ 100",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFA5dWQ1dzFFTkJEZ2VncldzZTAxMTU5WG05a2pxaHQwUUZMYVpwWnJhTGRUR295ZnU3Um00bUU4TXdnVHNtSjFkTUhhWjNtc0psX3N3VmF6bFcyZzJKYTU3WVR1d2N2RUp3U01McUg5eHdIS2ZPblBsR08wYmhQUW4waWZ6dWxKcGRkcFVGc0VWQXhRNFFDQjBUWlBQNWxjdjlzREVGTjVxNV83WmFiYTBjQlpJelJueVE?oc=5",
+   "data": "2026-11-18T03:22:03.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tfhgkt",
+   "titulo": "Anthropic define hoje preço de oferta histórica de ações: veja 5 pontos a observar no IPO da empresa de IA",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNZm5aVWhmZmVVTlNxYmx1czFwc1hZZmVZckpOMFlwNnZWU3VMQnUwblhTNWV4RnJ5OUZXMHFaNTNUUDcyLVlOYVhNcHc2dktxVllhV0V6Y0xmLU9zRVVHTzhHbVVvcEhsUTBBd2V2WVJmUnFBSlBMRFNSWFRGQmhWcmdLR0dTOHVKZlhIU29qR09BdTFPaHZiUHl2MDJpWDVvVXJLSTc0WEVBbkk5aDJyeXpxR09ibG5zRHNQc3JkUTFINFBoeTNTR1lDa2hOTXVEaXU5c1oxa3NFTDRCUUtzYmZxMjdtdHlVRnlrUHdya29scHk2emlFN056U1kyUncyT2dGMkxB0gGUAkFVX3lxTE5LT3JiVUs3WWVxWTZFR0V5cGtSeG1WSHVNRVBhWmk0R3V4ZnB3RV9xakdab2I0NXA1VlF3OG91T0FoRVpEbjR1alF4OXBGanlZQmpmd2dqVHgxZlZfZTBkOHBZdlAxaTl0UVVwTVdmZW1PbzRfNENPdnAwYWlNdjY4c2RCSG1TeG5pc3hob2dRNFhOTndCVGI1OENZcUhrSkNwU0hEYnRHX2NYdXZTb29YZ1p5b25lSllXbC1UTF9CLVJVWDJ2RDR3SUFSNk9RZ1VVRWVfS28zUDZNc0l5ZV9NbWpxZnllb3hjZlBKYU1rLV9GdDY4a2YyU1hwSW1IUjdvNkh4d2lLZnpRbDlidC04Tk9JZw?oc=5",
+   "data": "2026-11-18T03:01:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1jiu87a",
    "titulo": "Goldman Sachs reitera recomendação de compra da NVIDIA com guidance elevado para 2027",
@@ -1806,30 +1830,6 @@
    "score": 6,
    "avisado": false,
    "marco": true
-  },
-  {
-   "id": "o79swl",
-   "titulo": "Quer investir na Anthropic (ANTH34)? B3 lança BDR por menos de R$ 100",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM1U4Q3AyNEdHMldpdzF6cElYemsxTmJUQkRNaEN3Q3ZXajZDaVlrVURNdjJZdmJ5SjI4T0RnUnhSYkdBcEFaR0pRcU1UY2ExZ1pxYkgyM2tHcDd5bXAxcGE3d3pjMXBtQ3RFQVdLdXNlZTFDQmJGNk16aldCVmJjM2NRRDBVUkh1cEx0QUVsZVFoMkVlQmJBdFlVeDk0V2VoWGNJR1N5S3dBS29jM3QzT28xVXpGTXdadWNvQms3Nkl0UGl6alJvc2xNRTNDeUd4YUZr0gHTAUFVX3lxTFAzVThDcDI0R0cyV2l3MXpwSVh6azFOYlRCRE1oQ3dDdldqNkNpWWtVRE12Mll2YnlKMjhPRGdSeFJiR0FwQVpHSlFxTVRjYTFnWnFiSDIza0dwN3ltcDFwYTd3emMxcG1DdEVBV0t1c2VlMUNCYkY2TXpqV0JWYmMzY1FEMFVSSHVwTHRBRWxlUWgyRWVCYkF0WVV4OTRXZWhYY0lHU3lLd0FLb2MzdDNPbzFVekZNd1p1Y29Cazc2SXRQaXpqUm9zbE1FM0N5R3hhRms?oc=5",
-   "data": "2026-11-17T15:58:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "Anthropic",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "p3cud6",
-   "titulo": "A filha de Jensen Huang ajudou a orientar a resposta da Nvidia às investigações sobre a Megaspeed, segundo reportagem do FT",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hVHdSeC1RSFA4NTlZeUg2dEtlRW5iV29GM3NfeTZudnJQR3FjNVlxel9vc0R1M3p6NlowbnJJckpUclJsWHY3cXhuV3c2R3FKbzU1dll3VUlwZC15b3ZCOUpaZWQ2RkdsSWhRdUpEV204em1TNDFj?oc=5",
-   "data": "2026-11-17T15:56:53.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
