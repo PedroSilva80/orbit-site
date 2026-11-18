@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-18T02:00:31.079Z",
- "agendaCal": "2026-11-17T20:17:30.326Z",
+ "atualizado": "2026-11-18T02:30:27.472Z",
+ "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "knbdis",
+   "titulo": "GTA VI: saiba o horário e dia de lançamento do jogo no Brasil e também onde jogar",
+   "fonte": "Blog do Anthony Medeiros",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNczZhejZTbndtdE9UZ0VFQ1FqRGJIanI3SzJYZWk3YlZBdXR3ZFphTG5KSTRYdmRvRUtNX3lLLVM5ZUFIMTlaeTRDXzFULWxtLThqRndlQldpYzJ5OTN0MW91ZlZwTW9ReHVraVk4X01BcUVBNnUzTF9YNUJHLTNXSEdwOXZSSTV3VFJzb2ZSeUJCRW1FYTM1UVhoNXdEeXNBMHdfLUkzVHBRdVd2Q1U5elVockpFaHliT3c?oc=5",
+   "data": "2026-11-18T01:52:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1tjmfqj",
+   "titulo": "Kiki Serafim anuncia live especial de GTA VI e movimenta fãs",
+   "fonte": "Sopa Cultural",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaS1KRlYwZWhNUWluRzBORlNEem0wODdqdDZ1Z2NCaEMtb0JEb2ZOalBaa21ET2k3YTY4aG5RNWN3Q3EwcmFyaVBpamZ6LVNtMWNLUUpxMl9lNDdEeFhxQjU1R2hYczM0RVlmVHYzbVRYdzZjLUdveDh2SjByUTFwemc4RU4xbnotQUxQMm11MA?oc=5",
+   "data": "2026-11-18T01:16:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1bpfv6v",
    "titulo": "Anthropic busca US$ 64 bi na maior abertura de capital já vista",
@@ -1830,30 +1854,6 @@
    "score": 6,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "9rwit8",
-   "titulo": "Dona do Claude chega à bolsa brasileira abaixo de R$ 100 no mesmo dia do IPO",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWXJ4bUJ6dzQwblh4NnRpZ3liN2E2WmliNlUybEhUa3BzUkFTSzdtZGF2Mlk5RmdZUjBpVkpucGdqY3RvWFFENU83RXhKcmdaNG0xb2VTX1UzYmJaTmRDNFdBQnkwMzNUQnhaRy1SQjBZcFdxYUhyZ0h4eDRESWd5Y0J2VFRQOU9HSllZUkVsZjlJSmlmQlVHZXpxTFhXbmU4STQtOW80VnVfQnZMOUsw?oc=5",
-   "data": "2026-11-17T15:40:13.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1hh4r31",
-   "titulo": "Lucro da Walt Disney dispara e acionistas garantem dividendos maiores com avanço do streaming",
-   "fonte": "Fato Paulista",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPb2FMMG53VElTVEN5T1A0VWRTeHBtaVVOc05JeGczckN5d053VmRMbzVFQkRyZkd3cW9ocENCMVR4djk5NjEyckozc2tXeldfN2F3Z05OSDllOFlrYnc4ekl1TUJBVExSZW84ckxqaERBYm1abE01SE1EaUZnTlgwb3A0RWNBbnJNVTRDNVhTT0UxTkZDaVpYb1lVR215a28?oc=5",
-   "data": "2026-11-17T15:29:26.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
