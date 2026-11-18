@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T10:00:28.930Z",
+ "atualizado": "2026-11-18T10:30:27.453Z",
  "agendaCal": "2026-11-18T09:00:31.327Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -43,6 +43,54 @@
  ],
  "itens": [
   {
+   "id": "12khrvc",
+   "titulo": "The Game Awards 2026: GTA VI disputa Jogo do Ano e Brasil tem Cellbit e LOUD",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NRWJtVUk5S3JzOThCbldOczE1c1hEemVKQlFFWWQ2YVg4UWJpZEJOLUlZUkpTTW5xbUtfQVVaQWRoUXBlTVVCWDY5VV9oX3k4Wm1raDhOS3hZakpiTWt3a1NOckFOb0xEdVB1WTA3SXdmdnh1RkVCTFZGeEw?oc=5",
+   "data": "2026-11-18T10:09:11.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "prorb6",
+   "titulo": "Grandes IPO na tecnologia vão deixar mercado (ainda mais) concentrado",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbjEzb1hXWGpCcmVhOGRESUhCcVI4MDBSZWhROTdiOTQ2YjJ1YV96ZlRPN0h2MFU4aktkd3Q0UFNhX0ZDWjVqQ3phZENvUm4xLVZmMDczbllLbEVsQzV4VWJLR0lEQUhGN1B2ek5RNjJlZEVyQ2FOSHpWSkRDWjhvMTFEOEI4U3BObmlHdklFV0NQNC1JSkdHQ3hnajFEdHB3V1hSOXZKSExmeDBNcmNHSEppckxvMFJYMGdZVGx2OA?oc=5",
+   "data": "2026-11-18T10:00:57.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1sfl3n4",
+   "titulo": "GTA VI: Gerente investe R$ 20 mil e 2 anos para o lançamento",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1dkN1gxZUpHdWo2bExNMWNISVVUU2p6ZjRFdkthSjAwejZIQnlwSHhfa3NfSUc2ZW5zN2JHOGhoakpGTVF2RUdVM3hvZjNQYmYybmdrQzRlTlpyMGM5UjloSlY0TGpZZ2lwcmZBR3BfY05fZ1ZJWnpnQjZRNjJ4eGhkbHdVc2JrVkUxbFc3T3lmRXN2ZjNEWm05aWdtUy1Lb1pCcFEzNm5EUXVBSTZpVWRWUW1YVWlfaV9VTGFvYXhjR0FYeWVJVDlKZHBnZmhvMnVSLTktMmlta0QyVDhPX3hxY2NERTgteGIxaXdEZWFYVms?oc=5",
+   "data": "2026-11-18T10:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1swx4ao",
+   "titulo": "GTA VI: confira alguns dos carros presentes no jogo",
+   "fonte": "Vrum",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVnZ5bzNGNGs3TmIyLVJ0anZSNkd4ZmZvVktyV3NXOVY5WDF6NHd4YUlPeDdESThxeFhkVU5MWUhGRE1FQXJVZHFQZnhib2lhaVJaaEdPTHZsXzhRcEpHUHEtMGgwVTRiaGhmdFFJRDYtb0JMSGlvQzRCZDFEMmhrLWtYeXlyZTBZcXFSQmVFanNsamJiWHQ3OE1xWFhCSndaWWlMbkdqUzB3Zw?oc=5",
+   "data": "2026-11-18T10:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1h9lghy",
    "titulo": "Binance Wallet abre venda de tokens do IPO da Anthropic de US$ 500 mi, sem ações",
    "fonte": "Bitcoin News",
@@ -64,7 +112,8 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794997827453
   },
   {
    "id": "1m85pld",
@@ -1797,54 +1846,6 @@
    "score": 6,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "223ayv",
-   "titulo": "Amazon derrete preço do Galaxy S25 Ultra antes da Black Friday",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmRIaWxBYzFtWVQ2YjVkeVJBSTZPZEdsYlk0Q2hLaHN4ako2SUphN19jVGlKRFpWSWlmWW0yRGltQzdoMzhtTmh4Q0VNSUd2LUk3NHM4aTlVai05dExvZFVvTnBVbVBVNFJsYlpfVjNkRXFzNkQwTGlSTzlWUzFIS3JXbjNPMmFkZEZBTnIzQVFPT3V1VE5QaU5RVk50NVM1?oc=5",
-   "data": "2026-11-17T17:57:49.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13w1xt8",
-   "titulo": "B3 lança BDR da Anthropic simultaneamente à estreia da empresa na Nasdaq",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWpyZWhmam1TNERjN0U2VVMxb0FmVkZSc0thQWRrTGtYT0tpdTFra3F3dVlJdjVxRGJ6b3FEbXQxQmxmMV9UZVVpX0xPVThVRndZT05WRlhEbDhSSTVTdnBMQV9BbHJLZkxTMjdpcUVPSnN0ekI0RFhxSlRHS25IOGNBaWlyV1NtTFJ6cUppWVJ1WHZ3ZHRQOV84dC1qd0pCQkphNTYzclh3QTVE?oc=5",
-   "data": "2026-11-17T17:57:37.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "t3ck02",
-   "titulo": "Ex-CEO da Nvidia admite \"erros sérios\" e diz que aceitaria voltar ao comando da empresa",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ1NTNzUzaVlQb203VDl3UktVQjg1QnNOS0xXNnhzaUNWSERfQkV1RFVKYmg2VFktWEpKMnNqYTV2dW9YTEJIVlU2RnZwNjlEVERFUXFDUVZVX1pNdEpCa21ZYk93b0h1ajYxbE5ueTM4UHNhNTBSWVFZUHpDNV9KOWlpVUJwdWIzUU5MLUZPUTB5cW1PSUlaU1U3UzdGMXc1YVpFVV9PZll6N19jaXQtQWZRWXZNNm8?oc=5",
-   "data": "2026-11-17T17:56:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sgekhb",
-   "titulo": "Ex-CEO da Nvidia aceita depor no Congresso dos EUA sobre suposto acesso chinês a chips da empresa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ0JKUWdla0J5bkM2VXBRRllURU9pRmgxZmotOURhb3BMT2xzN1o1aEFSbHF3TzU0OFFMRDFLRThpVTRhYnVpSGIxQ2dBNHN2UV9NQUlWS2hOWllzc3hKMlZWMDhub3lVdm5KSW1ZUHVGU3F5WnlYaWloUzdUOUNOaV9ZSU82dXdKWjZZOTJ1S3V1TkpEaXFCVEx5NDJiaG5pQ003VjlDamlwUjYwS255YUk2WlNtVVNCQ3NHVHZpcEpVRjNBTlM5WTg1MklWajRacU01c9IB2gFBVV95cUxQbTB6ZzJBTFg4R2dBaThJN1Y1UWtmalROZWVwVWRXVFViZlhLMmRxejVUOTFJQ0pDRXY0SW1ERmU0UzlNZWxtM0FWRER6SVU4c0RialZRcUt2UGhhcEIxckhtYld6RlRMXzBrLXpmNTRSZC1tOG5HOF9BWkd0eERqNzVZbkdHekkzS0diVUJQVE53TW1QWnZ1eks1azZHZlNhc3F3cmViY180S0F1N1NyTFpYaXFxTzFtSzRCX0QxNWpNdk5SLVBiY29HTThFazcyeFgxNmJOWUszUQ?oc=5",
-   "data": "2026-11-17T17:53:38.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
