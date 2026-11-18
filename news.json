@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T03:30:24.464Z",
+ "atualizado": "2026-11-18T04:00:28.850Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -25,6 +25,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "15nkuvr",
+   "titulo": "Avenue projeta IPO da Anthropic na Nasdaq com valuation de US$ 1,4 trilhão e analisa impactos macroeconômicos",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTlhJakpRdDRXeUNNSzVKY2NsaFFhT3g3V0R1bkVGalRjWkJCdVl6U3VQaV9UQTJXa2hDdzdyazZrU3V2Rkp2YVZ2aGR0cWYySi1DZWJkQVhRRTlyUnhNbHpBMW9taGhPbW1zaTg4d25oanIxRkR4cGRMU0djcHZqekdrTGI0aFFCNDZsYVZaNkhUZE53Nk11dWtxX1pzNDlJN0RxRFl3WkZWdUlJT0ZiWW9ycGtCTGJJUXZ4U2FZelVXZW1JRjUyZTZvVkY2eFEybms5OQ?oc=5",
+   "data": "2026-11-18T03:35:05.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1c78tgp",
    "titulo": "Nvidia salta 4% pós-balanço enquanto fracas esperanças de retorno de Jensen Huang limitam valuation, altas do Fed trazem risco de queda para US$ 100",
@@ -1818,18 +1830,6 @@
    "score": 7,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1g4bur",
-   "titulo": "GTA VI: fãs tentam prever nota no Metacritic antes da estreia",
-   "fonte": "Legião dos Heróis",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMm9YYU5yTjhiUEI5a1o4Z0tsUG5oU3FxVmNueDlkbG1Sd1p5d0hTVXJxSWhzNHBCTTdLNFdvUUlyTW1sczJLQXRWZGhTbkgzdXFsSVpiX0JaNkJQU09ZTGd3QjNSUFJLakJJXy1NUFFnU0lOQ05nWG1pQzlaZU9mMkE5RXpaX3lVZ0dFRnJLVzQxb2lERkd6X1RLc21Cb1IzODVYeFRtLWc?oc=5",
-   "data": "2026-11-17T15:59:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": true
   }
  ]
 }
