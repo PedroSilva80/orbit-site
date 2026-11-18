@@ -1,10 +1,11 @@
 {
- "atualizado": "2026-11-18T09:30:30.307Z",
+ "atualizado": "2026-11-18T10:00:28.930Z",
  "agendaCal": "2026-11-18T09:00:31.327Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
-  "dig|2026-11-17": 1794946650326
+  "dig|2026-11-17": 1794946650326,
+  "dig|2026-11-18": 1794996028930
  },
  "agenda": [
   {
@@ -30,9 +31,53 @@
    "origem": "G1",
    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hpblktWVVlZWVTWm43OFBXSUNVYTctakVmUE9neHVJZlo1b01WQ3ZhZkNQTzlaalI4eHdhT3pteE1CbUVMcVh2Y3FWNDRQVVYyN0Z1aS1SUmFJTy1SMVlaeXJJbVRNVU9KbXFaNHFpbXdTRWRaX3RuZy1zSWY4YW1WOUdGdk4xNGYwUVkxS2M0TEI4SEpIa2plbHB0ZWxjdmdtby1kZHMyOXRrR2hmSnBtT1VTQ0dnd1hOckRYVlYyb1g50gHTAUFVX3lxTE1FcXRkTG9qSnlrNE84VTJIMmVHU1RNd2dMLVRBUDFFTE53QmsxWU1jWDNsbFRIb2lEcU5iWC13YTFQcHgxeHlpcEVqOEhBT1owSmdFMlk0S2IxeXJya1V5VUpNUG02SVp6cmhTNnRmUU9HRVhJR1BodGVOTTdGb0xXTWNYUF8weGRFeXoxUElwekZGSmEwVDBDMmlxeUxpUC1CQ1hiUHhmdHJ4Zk5NRXk1eW1UV0VGQmVWWVdCc2lVTmR5TktlWkJNaDBaRnBtVTFNRzg?oc=5",
    "manchete": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo"
+  },
+  {
+   "data": "2026-11-19",
+   "tipo": "Estreia na bolsa",
+   "empresa": "Anthropic",
+   "origem": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNks4d1BlRGk4d29RemV4TTdiQXNiU0htUzdxTXlUa3I3b1Y0bTl1RHJqcGs4NWduWmYtZ1laeVlxeVQxMUxsSk9YSGtTeXFheGhRQjk2cmZoMnk0eHhlam94RXhQNzBjRlhlcFg3S0o3N3E3MkZrRFludnM4cDE1YjNCSEtqNHNfZTBYV1NpTHBBRVBBeEswNG92ZGFaNEpKU1dCa1RkbXFJcmMtS1MwdVpHeGdIMHdQUFVaNzA0anE1eWx5YWlaQWlOOWpWekZNdmtKVnNDYw?oc=5",
+   "manchete": "IPO da Anthropic em 19 de novembro: o que os investidores precisam saber antes da estreia na Nasdaq?"
   }
  ],
  "itens": [
+  {
+   "id": "1h9lghy",
+   "titulo": "Binance Wallet abre venda de tokens do IPO da Anthropic de US$ 500 mi, sem ações",
+   "fonte": "Bitcoin News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQT1FjdFd0UHhqaS1HR1hwR0hPaUNBV05RNTVLZVpuNWVQRktNR0FOa1VBYkxmQ1dLeUF1THpoUFc4eUtPYmR0YzBDWkF1U1dueFl1aHdBMmMtajF5U3FwdE9Sb3o4VjBBSjhCaXpxeTNWYjE2SmpQRGQta05WNDNlaFVwblU4TV9kYVBFa1VBYXo4dGc5Uk9pb1NpcUwzSTRBcXlJaVFlTnZOWlR0YnJoY2NUQm9hd3RR?oc=5",
+   "data": "2026-11-18T09:51:07.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5kzto7",
+   "titulo": "IPO da Anthropic em 19 de novembro: o que os investidores precisam saber antes da estreia na Nasdaq?",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNks4d1BlRGk4d29RemV4TTdiQXNiU0htUzdxTXlUa3I3b1Y0bTl1RHJqcGs4NWduWmYtZ1laeVlxeVQxMUxsSk9YSGtTeXFheGhRQjk2cmZoMnk0eHhlam94RXhQNzBjRlhlcFg3S0o3N3E3MkZrRFludnM4cDE1YjNCSEtqNHNfZTBYV1NpTHBBRVBBeEswNG92ZGFaNEpKU1dCa1RkbXFJcmMtS1MwdVpHeGdIMHdQUFVaNzA0anE1eWx5YWlaQWlOOWpWekZNdmtKVnNDYw?oc=5",
+   "data": "2026-11-18T09:50:57.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1m85pld",
+   "titulo": "Ações da CoreWeave disparam após resultados da NVIDIA Corporation",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdlRZN0l4ZU5XLVpNUGpoWUUyVGtteHNUU3VCTE5MTWR6VTRzSnMtRVMyX0dUWlliR0dvNjJzRVU5VEZkeVFDclhlVHFIbmRyQ29IUHZZc1F0bDNnTXpvdUdoeWZsSnQtX3p6a2xuck5leE1HTmt0RTNOOWl3QjJRR05ZZWpEN2FuY1czSmJ2ZUpyc2FKQlA3aWo0aGRzOWpmbElmNW5TRjhtbmRZdFFydE12b2NQMzVaNG93b3NJUUdka1pj?oc=5",
+   "data": "2026-11-18T09:37:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "6zcm8v",
    "titulo": "Bolsas da Ásia fecham sem direção única após balanço e projeções da Nvidia",
@@ -211,7 +256,8 @@
    "empresa": "Nvidia",
    "score": 10,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794996028930
   },
   {
    "id": "14lfzdo",
@@ -1174,6 +1220,18 @@
    "avisado": false
   },
   {
+   "id": "m58lim",
+   "titulo": "Compra da Vero pela Vivo é avaliada em 1 bilhão de euros",
+   "fonte": "Portal IPNews",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjltZEZwb3kwazNLbTRaQUlWTVNLVlFOOC13NjdxSXY5T29EdDdBUVdTdWt0ejRDbnljczlLNDhzaFdVTndsMFZsR1ZuXzNGWmR2dlRqcWlLdUh2eVZoYldEUDQ1ZnhxWGRJQ29WamN4TU1YeDdMQXJfandvX0s0RmtieWtFUdIBhgFBVV95cUxNQjltZEZwb3kwazNLbTRaQUlWTVNLVlFOOC13NjdxSXY5T29EdDdBUVdTdWt0ejRDbnljczlLNDhzaFdVTndsMFZsR1ZuXzNGWmR2dlRqcWlLdUh2eVZoYldEUDQ1ZnhxWGRJQ29WamN4TU1YeDdMQXJfandvX0s0RmtieWtFUQ?oc=5",
+   "data": "2026-11-17T20:22:15.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1h68viz",
    "titulo": "Meta lança novo aplicativo de mensagens que funciona sem conta no Instagram",
    "fonte": "A Crítica de Campo Grande",
@@ -1786,54 +1844,6 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lzs5of",
-   "titulo": "Autoridades dos EUA entrevistaram Alice Huang em investigação sobre chips",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUHRrY01MQmdHek9RYXVZRG12VV9qSnFRVTZGV3JaRU1sQzRuX0hKQ2Zwam15amxzcXp3YzVRWHdJM3pUVkRlRDIxS1RDZWkyNUptbWQ5V19WYUZsQ3IzanUwa09NWXAtY05INXBYNDdlTlY5aUt3TEt5RDdNTW9pcVMzNU1sTV9pMm9FVU1iZms1MERrWlBweThqRVJEWjQ0Q2pxZno4M2lOZjJScW5ubEtYOFpsSDRJ?oc=5",
-   "data": "2026-11-17T17:52:59.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "hokxco",
-   "titulo": "Kid Cudi prepara cinebiografia sobre Basquiat enquanto Netflix lança documentário",
-   "fonte": "ArteQueAcontece",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMzRzQXdCcUNCREFXTUhFaG5UYmlNbTBmXzc1VWRja1ZEX2w0bFBzQWI4c3dXczBVUUNsZFpROWdCSmY0OG5LMzEtandqNUdDa1c5S1Qtc1R6S2tBSHJzNTZPTDI3Q2dzYlVWX3hMY2lZUXNUVnI4UmFOVkd3VzU4cS1WUmpNcHdTXzdmUVp0YVhMYXZTcEswTDh5Z3Fvelozdi1tMDJGNkM4YUJzcUowOEVhbw?oc=5",
-   "data": "2026-11-17T17:46:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12fz41v",
-   "titulo": "Ex-CEO da Nvidia diz que voltaria ao cargo: \"recebi pedidos\"",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQS0xILUlOX2l0WWlJU0dtbUxUT3BBMkUyelRFUU9TUmlVWHUycndydFZuZXU0Nmlsd3N5d1JsTjlwUHZQMkRSdWFPZk9EamwxZGpUN1BXcHpqeFEzcmVuRDcwT055ck1DME13U1JwaExVeFBsZVRPOUQ2Sk52ak9XaVZtTklUYjZucUcwT3BUSmRyZ3dJSUVBZVU3T3FELW8?oc=5",
-   "data": "2026-11-17T17:46:17.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xl4o68",
-   "titulo": "Claude na bolsa: B3 lança BDR da Anthropic no mesmo dia da estreia nos EUA",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNcTd0MzhvblZGVmpzZWJLUVVGeFpGTHpQbDV1cmtIU1VrZGtXTFROU2VteU1LY3pIeWxnX081dng5N1NDNHc4QndJdzF3WVlVd24yakNfWXJaOEdXTkdDcTdtMnAzQm5ic05QdUpwdVRoQ2JvVGRCN29BakQzbGRHQXlSWHRiV05KQjU0UW96YldIQ2Mwa2VSOHRpREctU1ZjWm5KMEhSX3NMWHdJWG1OZWpHZlMwSlNiUHluNUN1cTkzMUdqNUhET2UyYjkyVUIzb2ZwVkNoTFUtR3BlN2hYcDlOWmJjdHRYbDhfbGdQcFQ2Z1VmMHB1Ymt2alBKZ1lmd2tmbdIBhAJBVV95cUxNcTd0MzhvblZGVmpzZWJLUVVGeFpGTHpQbDV1cmtIU1VrZGtXTFROU2VteU1LY3pIeWxnX081dng5N1NDNHc4QndJdzF3WVlVd24yakNfWXJaOEdXTkdDcTdtMnAzQm5ic05QdUpwdVRoQ2JvVGRCN29BakQzbGRHQXlSWHRiV05KQjU0UW96YldIQ2Mwa2VSOHRpREctU1ZjWm5KMEhSX3NMWHdJWG1OZWpHZlMwSlNiUHluNUN1cTkzMUdqNUhET2UyYjkyVUIzb2ZwVkNoTFUtR3BlN2hYcDlOWmJjdHRYbDhfbGdQcFQ2Z1VmMHB1Ymt2alBKZ1lmd2tmbQ?oc=5",
-   "data": "2026-11-17T17:45:25.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
-   "marco": true,
    "avisado": false
   }
  ]
