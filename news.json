@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T10:30:27.453Z",
+ "atualizado": "2026-11-18T11:00:32.748Z",
  "agendaCal": "2026-11-18T09:00:31.327Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -43,6 +43,114 @@
  ],
  "itens": [
   {
+   "id": "fdjgss",
+   "titulo": "GTA VI causa lentidão em toda a internet",
+   "fonte": "GameFoxHub",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdjIwOW9LYS1vUXB2Z0Q4VzhaRWVzc0lheC1SYUE0azVUekVuS19UTDgzdTZIck5oSUV6VnFJMDhBNmh2NkRqNS1wOEVlcFNYWVBsSmdXZW5UaDROcUIzWjMxbnRXcnZKaVUwdW9qQWpzUVowRkdFVUctdmFkWXV5RnNhY0lOOEJlMnJUUVhHOFcxc0pEWWZBZDNkTQ?oc=5",
+   "data": "2026-11-18T10:58:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1h5r9np",
+   "titulo": "Nvidia sobe mais de 3% no pré-mercado após resultados e guidance do 3T superarem expectativas, Wall Street otimista com crescimento, mas cautelosa com múltiplos riscos",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWVBrM0JodFlWOXZVOWVyUE9uRU5EeVNzaEZPOVZnOWw3VmJsNV9YcHFtaGVaeThPOTdRRU1nVW1rRzhVWUNYcXB6VmJWVHJMbXdJZjFiYXBwODdaMklROTBOaEtZUDJNYjJZRVdZLXJkV1BKV3JFUUI5bGJpZFVKeTZqNjlpSmtJQ1YwdWEyVzBhUGp2bzRmdTBVcEZUNDh1eUFGTlBfLU15QklCSE9DdU8wQU9DRnJfUVQyWW4wUzVGQm5aX1RxWWt2aTZVcUJrT3RrX2ZVYWpHZw?oc=5",
+   "data": "2026-11-18T10:49:25.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uojcsq",
+   "titulo": "Não é o fim do mundo: mercado reage a ajuste fiscal, fim da escala 6×1, ata do Fed, desemprego e crise na IA após balanço da Nvidia",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNDVaRUxmb2pwUkRIcUtTcExacXRTMGQ3a1EyT2J5Vkg3NW1oeUxUX0tXMklENnlaUVQ4OU85Qm5MdHVnVTNVWUtCREZRYXpQbnlsb1lOVXN2OEdrVE5vVEpHU3JNV3hGN2ZmMUFsdGw1TzhRZXZZNjZZdmhKNEdwMjZpMlhTLTdhbm4zNlRTalFucG9hZjktT1NWMkZTUzNfd1F5RjRURVViRDU4MVJLUElsNThMWWRYN2Y5YnYxbHczaTZZWGRSa0tKb2ZWdUJRb0dIRTZ2Y1p4enhjR2c0VUxR?oc=5",
+   "data": "2026-11-18T10:48:51.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pvqnji",
+   "titulo": "Ações do mercado emergente sobem ligeiramente após os resultados da Nvidia; ativos sul-africanos caem após os dados da inflação",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9fcnljLUtheTcxcG52QzVjRlo3QmpaVHlWR0taRW1BWVY5d1phTjR4WUVpaDhEdHBwYkFIZW50aWN5ZnZGbDFsanVSYzNWVzZMYlFrdHZkNE9pbVZSS3NoTVpWMllCakY5UVFFaS1RLXo3dTc5eFlV?oc=5",
+   "data": "2026-11-18T10:47:52.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "38zpf5",
+   "titulo": "Futuros do índice Nasdaq disparam com previsões da Nvidia",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QbnJ2U1dmVHM3b29NdFM0SGhzX0xrVW8xMFBZVWJaOEJqMXpVUHpxcnJiWHdpaFgtRS1aMVZBM3BaUXVEUGNITGhXbUIxM0htWUZld0ZKdC00TjI0T0poVExuTl80SG9qdG5FX2dxVWxra1I0Q2hF?oc=5",
+   "data": "2026-11-18T10:39:25.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "g4iga0",
+   "titulo": "Bolsas europeias estabilizam com balanço da Nvidia e inflação no Reino Unido",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaWEwbWRQbEZIWmR0VjBYQjFwVkNnWGtPYXZvMkI5aHhlWjJvV1FXeXhYNktzLVRBUnFFMlpiR1hvWmxIZjMyRldhdUR1X2JPbGp3bmZ5Y1RxZmZUUGM5SG44akx2UC1EcGJpY0VlWVNLRXpsTnJXakdRakFsNC1JbjYxZHNsS1NRc21UQmFjbTFGSkhLSWZTZndXY2RxODVKcnc?oc=5",
+   "data": "2026-11-18T10:33:11.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "59baem",
+   "titulo": "Bolsas globais sobem impulsionadas por balanço da Nvidia e reação da IA",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQeXREbzloa25sQ00ybVpaOGtVUHRIQ21uQ096Q1lYWDJhbGEtT2IwWGVJSVFoVTZMTEZMQ0tFS0JPZHZYNFFiZGlMX2laX2JCWDVLNjJfUmhSZ05raU9tVUdsZFozdWZhb2hLQTdaTWZqSk9PUHczVklYdElpOWNNTVpmUlotOUdabGhZb0hDM0tEWmZOXzBoVk5OT2dzLW9WcGN1Q21sVXVLUmx4?oc=5",
+   "data": "2026-11-18T10:30:36.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1d5pqle",
+   "titulo": "Futuros da Nasdaq disparam com previsão da Nvidia impulsionando ações de IA antes da precificação da Anthropic",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZNTlpYjFDTkw3d0lfMExIVEhMM2xkb0lxNEJqTXNkWmdqeVNkVlRGbXk4cGZId2xMd1hTOHJkQVAzZEtQNnRSMTNzVjFxRk1LbmwwcllQZV9RcXZyTEdSUUMyNWh2TVRTUEhCclRNZXZEM3QyaWc4?oc=5",
+   "data": "2026-11-18T10:27:28.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1n405qk",
+   "titulo": "Ata do Fed, ajuste fiscal e Nvidia são destaques do mercado hoje",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNT2piVE01UUQxaHY2Q3l1MjVMTGdLUDdDS1B3bF84RnctY29DWGFiU1JmMWgwQ2NLbE1qd3BkZFpBM1dBZHFsenpMYlhtNEl0RzM2UGYwbl92bjRhTkhjSElLZUN4OTVqYjJGWklpZi12UVloS3JWRFZtWXY3TXliX0dlLXh3VWNadVlVMTFSN0VFRmduc21wb2Z5QXA0QkJMU0Q5cHBDbnhZaElrYjBZdWtNRnozSUdHQW9HSGJWWWhMRVE1Vm0wMnBwejd0RVFMTzJrUV9YOENudEFnU2xiczQ3cE1tRF8xUV9B?oc=5",
+   "data": "2026-11-18T10:17:52.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "12khrvc",
    "titulo": "The Game Awards 2026: GTA VI disputa Jogo do Ano e Brasil tem Cellbit e LOUD",
    "fonte": "Espaço do Povo",
@@ -51,6 +159,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1x2jwbc",
+   "titulo": "Day Trade hoje (18): Ibovespa segue pressionado; FOMC e dólar entram no radar",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWR3Nlc0UTd6djB1SGlSd2pfd21rcnhmR2hCejkza0dJNEJBRXZZbE9rLXpGMUZ6b0M2eVQ4N05OekRBN1Izdzl4OVIwZVlOV3M0X2FxTXEzVjFGVnp1dU8xWTNLOWwwUEZBa0ViSl9pcmx1LTYwbERBekx5QmI3TTVqS1IzcHZR0gGOAUFVX3lxTFBlaUdnS2x5Z2lfUGpsMzQ2TEt1M281c1J2MjJ2Q2FaSDZhR1FKRUxFVTZ6NkFoaGRzZ2JFam51dUdtYi1sLS04Zi03ZGxNM19fUWMtV1FfWFVpRWJZb0l2S0lKM18tb29qRDJyUUs5c0hhWGFWSXJybXVhRV9qTXdsTmRNSDJJY1g4MTMzX1E?oc=5",
+   "data": "2026-11-18T10:03:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -87,6 +207,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14xvfey",
+   "titulo": "Gerente de posto de combustíveis passa 2 anos se preparando para jogar GTA VI: ‘Investi R$ 20 mil’",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQc1dkN1gxZUpHdWo2bExNMWNISVVUU2p6ZjRFdkthSjAwejZIQnlwSHhfa3NfSUc2ZW5zN2JHOGhoakpGTVF2RUdVM3hvZjNQYmYybmdrQzRlTlpyMGM5UjloSlY0TGpZZ2lwcmZBR3BfY05fZ1ZJWnpnQjZRNjJ4eGhkbHdVc2JrVkUxbFc3T3lmRXN2ZjNEWm05aWdtUy1Lb1pCcFEzNm5EUXVBSTZpVWRWUW1YVWlfaV9VTGFvYXhjR0FYeWVJVDlKZHBnZmhvMnVSLTktMmlta0QyVDhPX3hxY2NERTgteGIxaXdEZWFYVms?oc=5",
+   "data": "2026-11-18T10:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -269,7 +401,8 @@
    "empresa": "",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794999632748
   },
   {
    "id": "18hdf3e",
@@ -1005,6 +1138,18 @@
    "avisado": false
   },
   {
+   "id": "13tlo1s",
+   "titulo": "Ex-CEO da Nvidia pede desculpas e diz que aceitaria voltar ao comando da empresa",
+   "fonte": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWXZZY1Q3RzJKN1lVNDJfdUtnbTJrVEo4MFpnR1ZzNzZ5djRNR3RPd3lXRVA2S0VWWlAtWDM2M0V0ZW1CM2JFZk95SkQwMlRmd1pRMXFtQ2JaQUpGYkxFWGlDeG43ampsUDJyY05QbVk5WWxVYlJZRDN1d2lHTUh5VFdhR1BaNEpkTW1mMkk1ZTJOZmdiMDA5bjJpUmNZNmtidXJJZmVlX2xwa1hLZjNBdVBHdGhKZ0nSAbcBQVVfeXFMT1l2WWNUN0cySjdZVTQyX3VLZ20ya1RKODBaZ0dWczc2eXY0TUd0T3d5V0VQNktFVlpQLVgzNjNFdGVtQjNiRWZPeUpEMDJUZndaUTFxbUNiWkFKRmJMRVhpQ3huN2pqbFAycmNOUG1ZOVlsVWJSWUQzdXdpR01IeVRXYUdQWjRKZE1tZjJJNWUyTmZnYjAwOW4yaVJjWTZrYnVySWZlZV9scGtYS2YzQXVQR3RoSmdJ?oc=5",
+   "data": "2026-11-17T21:18:05.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "t0ot3a",
    "titulo": "Bolsas de NY fecham em queda com bancos pressionados e techs em foco antes de balanço da Nvidia",
    "fonte": "UOL Economia",
@@ -1701,151 +1846,6 @@
    "score": 6,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1n7hmtn",
-   "titulo": "B3 lança BDR da Anthropic com negociação simultânea ao IPO na Nasdaq",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOY2lZY3Zhc1dEZjZfQWpwT2ZDQmJRZTN4NWRyazVCSFk1U3JUQlJ2MC1BcURVS3pXUG43X0pDdk8wY0lDdDhKcURtb1ItUDdmcDZtSnk1RUY1U2ZsVTFqU1dFbC0yRU82cmhUY29KYm11QzdSeDh1b1BpQ0c2d185THFHVEJFVXZTbHNWeHlyeU5hOThXTVVJSXNuRGI3aHFPekJfdVBLcw?oc=5",
-   "data": "2026-11-17T18:26:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1a4g4gd",
-   "titulo": "Hapvida salta 15% e lidera ganhos do Ibovespa após balanço; veja maiores altas e baixas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXpOUndpdndRTjRHWWhlZDdaOEcxbkZOcmx2M3pSU1dyS0FNaE1uYUpWOXFLbHZqQWtGODVzMDAwQWQtVVRjOUdhLTNMUUprbEFxZFMwZXBCS2RBakFKdzlxdVlWVVo4Nms2MmtRNERLbW8zS2ZBay1SOG9DeWt0VUtGbVpWcGVWQUhWM0VPaGRfaGVvUWpncmtfaTAxTGZ2eFFUWDN4d3h2Nmktc0prdXlEU25wS1ExQzNON3pnVUo4RU9EUmlqaXJtbm94YlFfS3N6Q2VR?oc=5",
-   "data": "2026-11-17T18:20:50.000Z",
-   "cat": "Resultado",
-   "empresa": "Ibovespa",
-   "score": 9,
-   "avisado": true,
-   "marco": false,
-   "avisadoEm": 1794949233206
-  },
-  {
-   "id": "let4v5",
-   "titulo": "Musk planeja fusão entre Tesla e SpaceX para ampliar concentração de negócios",
-   "fonte": "Opera Mundi",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQa2s5bXpPM21JMHdSUmVDM3BxYm9rUHN2bzZJZ2VHd3NZTVMzdjkyc3FxU2hiVXVZeHVJU0dkSEFxeGc2azZKM2lhSXJTMWdvbEM3WHpNVEViNHAtOFlfZXNuUjY2RDJ0ejdwX2Nwc0JXOThFWkFiZXk1dE9MZkVPaU5OWE9iT3J6X05ucVJB?oc=5",
-   "data": "2026-11-17T18:20:26.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1nz93m3",
-   "titulo": "Ex-CEO da Nvidia Irá Ao Congresso dos EUA em Dezembro",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFJMNnNXV3c4Uk1yY0gwZnoxeGFYWlRXUjNEQUNvY0FvVXNwU1k5NDlMNUdKWHV5V21EQkQ1M3QtRV90a3c3MGdfajRDLTRYWHRnWDVHUGJpdUpLQ1lyejd2Z3N1Y2ZCWGljWHpnZEtLZnZJSXFzZ3dWLWNXNC1QcGpqdUxSQnRROUt4WUtRaURUSHRrcDQ4TDQ2OEY?oc=5",
-   "data": "2026-11-17T18:18:35.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dy0b03",
-   "titulo": "GTA VI: KaBuM! confirma evento de lançamento na Avenida Paulista",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fZURiQkF1eG1qTHJMQko3aFFmeGhGelFEWUUwYU4wSlYwd2lJalFUelVCellqTXhKTFRMbzBlem1VdlhrWjZzcWpOd0lYOWtYbi1UWkpoX2p0dU9ucVFYUGJaSjBRdGs1SloxVEdLNWNjUkJndXp0emNwRGo?oc=5",
-   "data": "2026-11-17T18:17:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "13kh29o",
-   "titulo": "Análise: Defesa de Trump ao ex-CEO da Nvidia revela mudança na geopolítica",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3cxeFZFQ2VRNzNKZl8yMHhmNzJzcGtEbFFialBBLUoxbFk0ckdZRGVxMVZiUTFIUUdKTXBTU045U3hQZ3FRNDJ1bXVhMUpGZ0Y1ZDlKXzJYUE96N19jY2RvcTY5NDllQkljeU96MHVZOTBQTlMxWDl6ZWlWS1Rqd1pxdzF6RDFwejNTdWplZ3BEN2t6bC05NWhQcjdiOF9uOUhkMUlXNno1cnVELW0wTEVhcnhoWm1x?oc=5",
-   "data": "2026-11-17T18:17:20.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fhmh7e",
-   "titulo": "Petróleo na Foz do Amazonas: o que está em jogo com a nova aposta da Petrobras",
-   "fonte": "Superinteressante",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTU1UT2ZGdGdrUDI4eEtVVDNOX3dyZEFYb0pyQXl3NFJwXzZIM3dqRnVmUWY3TFFyYjNkc3laaWtVcDRNS3dVMDdTYUV6QVE3dFhGVkFWSDd3N3dfVkZjMktzdF9oTm1BaE1BSkU4RjJsX1NlcHJoYml2eS1wMGdhWHlTNnJ1RWh5dXc5Nk1qZXd6YlRWSEFXUldnSXhoLVFJN2c4VGJZSXZxMi1FRHRsbUp1Zw?oc=5",
-   "data": "2026-11-17T18:11:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1jb71lz",
-   "titulo": "NVIDIA contrata empresa de recrutamento para buscar novo CEO",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOY1NCS1RaMU1YTnlHaV9Qejh4ckdESnh1Mk4wT1BOcmZRZUF0clZObmY2Z2pxRGx2SlBmMkhYV3YyaXpOaEpkUVlZS3RRWDdnNFZIUjRURUtXQUlHS3ZhSTV1V0h0QTRUTThvYUlPVm5Bc2tfY2pLTGtJbjZNaU5uMU9EWHVYbzRnV0Q1bzB2Q1VNbzNrUVdHdjZyREZjOUl0b1YwSUt3Y0Zha01sWFNxbUxqN2FIaXM?oc=5",
-   "data": "2026-11-17T18:11:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "8orte",
-   "titulo": "Anthropic deve definir preço de IPO acima da faixa atual de US$ 70 a US$ 78, dizem fontes à CNBC",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaDdRR2ZHNFZYUzF5NFhsMnNnVlBwd0owbm1JdlNBWDk3OGhtOURZVjk3UE5KS3FrUk1xcGY2Y1lrbzNoMDNHNVFjZG1CcWVISG1oem5zWWZ5eENFVk1ZZ0htRVBDZmszZ2RGVFZuZXJqeEN2Y1p4MHRvOFNwZ3NyeEtQaXFGWF85X2xYR09SWG9pTjJFOXh4WUJoLTBvZw?oc=5",
-   "data": "2026-11-17T18:09:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "s5ddnv",
-   "titulo": "Hacker que vazou GTA 6 usou Fire TV Stick para invadir a Rockstar",
-   "fonte": "Tecnoblog",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV3FaZG9ldktPSHVLX0ZSRk9LQ1ZacjJTWlVCZW9GTW9zQzBhWmp6NnJxQkFhVnVEUWZxeXBuS3hVdm9jTGs2UzZGNHk1elJWXzBlRmd4cndDallrRmVLanR5TG1pQ2dxZ1c1MTBXenZRdFY4bHVGYmpoUFhnSkRIUjVTdk1sUjFRMEdZRjNGai0xUmRlU1FxUC1hQUtYZw?oc=5",
-   "data": "2026-11-17T18:08:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1y83ykk",
-   "titulo": "'Será uma honra voltar ao cargo': ex-CEO da Nvidia se pronuncia pela 1ª vez desde renúncia após escândalos",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa2NBb3U2V2lfS0NtSGxFWHNrQjhHbmhlX3BwRV9hNmFtQWJrOVNkUmYtc0FVdnFkaUstTWlIZ0Y1X2Zhc3J0NEdMQlRJY205RU1OVVlDdjRUNXl0RW5mQXk3TFNTZ2hRbC1IbUZpR1o1a0ZsVDlPT004WVJCS29YT21UYlZOazVfcEllQjZkQnh0RWVHWG9Ha1lsZE12UTF1RG5lbGtRQ2xoZXF6czVMdnowcGF3TFJrMWlkaGpWU3Yzdnd0QXV4NjR1MlJyLU02UjhFUg?oc=5",
-   "data": "2026-11-17T18:04:54.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "1mn7yh8",
-   "titulo": "GTA 6 demorou 13 anos porque Rockstar não queria fazer mais do mesmo",
-   "fonte": "Combo Infinito",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaS1GSUpRMlRta3QzMlVVNFJkajZsNzgxc0VfMFg4TVNxUnFNLVVxRllYYTVJdXM3VTNDWnRMTEI3QzRxSnhZSFU1NTB1alUwdmRCLVdrQmRUZDVVa1JpT1ZFM1lSQU16Q3FFVDBaNHQ3U3AtdWttdE0tVkJYQy1Qd1NsTzR4VVV3MEFNTE5sTDdST2tPNVVya2VDaFZTZw?oc=5",
-   "data": "2026-11-17T18:02:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
