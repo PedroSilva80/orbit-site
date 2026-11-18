@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T13:23:55.811Z",
+ "atualizado": "2026-11-18T13:30:28.563Z",
  "agendaCal": "2026-11-18T09:00:31.327Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ydpqyu",
+   "titulo": "GTA 6: Rockstar quebra o silêncio e explica por que o jogo roda a 30 FPS",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdWpvZElzcndVUlQ1TWN2eHJuV2ZTaERKXzBJSHNJbW92UHNyMmFIVGwwTDFtQUF5R196R3U4WUFhZmc2RXBscDk4dXFETlRKdU15ZURXbzNYOTNuZVpUWWI4Sm9Dc253QWJNdWZwVU8yeTlHcVVnVHVfVTROWlYzNzhqa3BVd1VLMWRIcmRsMjRlYWx4NHkyVmd1S2t3VHRwVG9fZA?oc=5",
+   "data": "2026-11-18T13:29:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "xoi99w",
    "titulo": "GTA VI: cinco carros do jogo e os modelos que serviram de inspiração na vida real",
@@ -1840,18 +1852,6 @@
    "data": "2026-11-17T22:21:22.000Z",
    "cat": "Lançamento",
    "empresa": "Microsoft",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1k2t80b",
-   "titulo": "Ibovespa perde embalo após adiamento de votação do pacote fiscal",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObm92dnJJZm56Nm9LZmdLVGpWN1BGc3FOUGxSeDNkQzZjY2toMWJuVEg0dm9rTkgxYW1UVmRNS1JFYTFZaGNzcU45WjFSZUlqR1A0SGU5RjlCSlI0TEFVLTRscHN4OFNXSVJ1VUY0NmRMVjNXdVRKUUduY0ZKZllzbzNBSWM5dVB5Q2xsOFpHRlhwbHhORmFrUmZzOW1Ma0I0RXBDU3RoazBLM1FMTEpTdFBVRWIyN2NS?oc=5",
-   "data": "2026-11-17T22:15:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
