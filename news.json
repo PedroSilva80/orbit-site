@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T00:30:24.719Z",
+ "atualizado": "2026-11-18T01:00:31.739Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "j6fjqn",
+   "titulo": "Anthropic, o maior IPO da história",
+   "fonte": "Brazil Journal",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkelhMMGE4QTUyTVBzZHd2a2U1OHluOGNMSk9XUXM4M1hwSnQ4S0xPdGFobGd4YnNIUmIwbDRBa2JlNzBRTE1tUnlsZDZXTzBnTFo1ZVVobXp1WmM5Y29EMHJlT3Vfdi15am1N?oc=5",
+   "data": "2026-11-18T00:53:27.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "aq5vv4",
+   "titulo": "Conselho da Nvidia descarta retorno de Jensen Huang ao cargo de CEO",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOU0ZEYjd6R0F3LWo1ZWNFNENPeW1CeGxUUXZReWZXVEprdmhrakpoRm9wa0tkWHZSWnJPQ2VPZjFQel9zWWdRYWpuLVNFSlVfUU1HalVqaFlyeUFWN3hWZkF3WDJwOEdCQXpUX2tEaVJpMkVoMFEyX204SlJ3WGFwQ2hsMGtuV1FhQWI2NlZnSWNwNTVxMWdFTW53R05aNjI2Nk5iQlRhWVF0bGUwbHhBaXA3a1Q0d1piWjIyMGZn?oc=5",
+   "data": "2026-11-18T00:40:50.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qudcfz",
+   "titulo": "Agronegócio rebate Banco do Brasil sobre lucro e inadimplência no campo",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRVRGMW1hd285LU0taDVfakczZnJOajNkeVhSMDVBWF9jTGVKYTRSRVpoZDlMRDExNDdHeXpBbFRCamdaTkJDUzVLZDkxYXpFcVc0dEdiNWdnMnc1NjNZX0E0eFFtMjlTWUhKM2NHN09UM0pZX0N1YVVEYzZQX05TOHJoaVkwYW1yZFVFM29UNXI3b0szYjd4eU53Y2NWZlVTY3FKU1NYM29HX1pTbUdnQ211aGttakNhd0RmSmNYQ1NMVmM?oc=5",
+   "data": "2026-11-18T00:37:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bbggtp",
+   "titulo": "Ibovespa B3 avança 0,31% aos 169.816 pontos sob cautela fiscal no Senado e expectativa pelo balanço da Nvidia",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ2hPTlozV3ViaVB2Q3c4b0xZQ2RUU0ZWSVpNMEFqOXd4djY2VkQ5TnNzdWtLTklEWUIwZnJ0NUVsRmxtRmw4Um5qMkR1S2djc09TZjFuZk9qay14Sjg3V3BTTVJ0dlNZb0k1aUVzaUZtX0JCMzBUR1daaE8xbDB2aUhqemdsOGp0a2dQSmR5Ymx3QUVWQktvQWFvNVJ1ME12M2d0X2dfdE9raFc3YmlXQzlEU0xKZGgxMVlWTjlYUTB5c0x0MUlBcGRBZmJIVmRwNnFMZg?oc=5",
+   "data": "2026-11-18T00:32:24.000Z",
+   "cat": "Resultado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14k984p",
+   "titulo": "Ex-chefe da Nvidia diz que gostaria de voltar ao comando da empresa",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdFdhemlMcmpEcWhwQTk2U3czTHpFNU16bV9pNi02cFNuZzc0UktIckozcU1YSFMxT3REc3BERkQ3UnhtTDR2OFRqcExTWDFoVkFZR05yeTc1SWotd3FoaUJmVkY3emxNU0JTOWJvekxVSHVVVm55aGc2RTJTWmNSVFFDTkgwQU5IdVJRdEJEMzJLbVRGQ0J5OC1hNnMtVG93Y2JvN0NBSnZqRzRnRUJwYXFyOVQteWp5TXZVd2V4WGtKOVXSAdIBQVVfeXFMUFhyWGFXb0Y3RjBFYjMzZzhTUFlnQWpLS1dkT2U3VWY3T2lTZXZTdGgxRnhvbnlSaU9jREFocjV0akNLR0ZoOUNiUGEwU1BNdEZQSjU0cXhpbDBPYmdfcTFsbFozZmJnOWxhVE85VkZFS01odGFoNWxYV2tVbmVNZlNYeG04SnNiWG9TNE13SGVCeDg0N2ZsRDZIVTB1QUNQQ0RkVU1iVmFvMU9Od0tKMmQ1NEhBV2NJZW44ZkFvNjlLOGdEajI0eklndUwtN2N5Uk1R?oc=5",
+   "data": "2026-11-18T00:18:59.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "mfah7y",
    "titulo": "Banco do Brasil contesta alegações de que haveria fraude no crédito rural",
@@ -671,7 +731,8 @@
    "empresa": "Anthropic",
    "score": 11,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1794963631739
   },
   {
    "id": "1cowzju",
@@ -1433,6 +1494,18 @@
    "avisado": false
   },
   {
+   "id": "dc469c",
+   "titulo": "'Cometi erros graves na vida pessoal': ex-CEO da Nvidia diz que aceitaria voltar após apelos de funcionários e investidores",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb0R1T2ZNRVZHbGNYdm43WEQ4QWdnMlBNNzBPVFp3YWdjQjZYX1VMMU9jVXlJNlV6YTFVUjhXSXBwNzNlZnVrbVpMOXFfa3dIYnhCQnBCZ2ZKMWlmYWNiRTgzamZsRUZSZDVvY1kzdXh2aVpYcGQ3TGdPTm9vODBmdU5GR3pLVXI4TENmalNORDZqdzR6TlppRUxjd2pRdUNjZ0JTT2w0SzJMV3FNMHMwRWJTRndCd9IBtgFBVV95cUxPb0R1T2ZNRVZHbGNYdm43WEQ4QWdnMlBNNzBPVFp3YWdjQjZYX1VMMU9jVXlJNlV6YTFVUjhXSXBwNzNlZnVrbVpMOXFfa3dIYnhCQnBCZ2ZKMWlmYWNiRTgzamZsRUZSZDVvY1kzdXh2aVpYcGQ3TGdPTm9vODBmdU5GR3pLVXI4TENmalNORDZqdzR6TlppRUxjd2pRdUNjZ0JTT2w0SzJMV3FNMHMwRWJTRndCdw?oc=5",
+   "data": "2026-11-17T16:45:04.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ar1v86",
    "titulo": "Após renúncia por escândalo, Jensen Huang abre porta para retorno à Nvidia",
    "fonte": "Plantão Brasil",
@@ -1781,79 +1854,6 @@
    "score": 9,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "15guaob",
-   "titulo": "GTA VI: saiba o horário de lançamento no Brasil e onde jogar",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOR3JrejFHQVZZcGtOcXJRRFJSWjFyalpoWDRCRkRpS2xiV2FOQjVOSEdyamp6N28yRVBVUHZVbUVyNUdVazBzR0lmWlNnRUJmMWdnRTNTUmJSR3poLVpqMWxUNkZlcGVtUWNmR1BNRXJOV0sydVV4a3hHcURLSk9oSHFTX2RSRDBENlNKRERvMy1ZbUdwRmVhd1BaQ1NUUQ?oc=5",
-   "data": "2026-11-17T15:08:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "q524cd",
-   "titulo": "Amazon Ads lança novos formatos de publicidade interativa na Twitch",
-   "fonte": "Acontecendo Aqui",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHNkYTV4WHpnczdpMmF0UUpJUVNEaTQwQ1Y0c0pfT0V6TkxkVHZzV3Q4NXowZXhMbXctYlM5bmwzVGZiYm13d3gzeVF3bFNIRFczSlF5Uy1MNlVXVkhZTTBlSkRDTHhRWXEyd1ZVT0V1MWxmUzlSREt5NmwyaURFVlo0cVMxZ1FkU1VqbDhEZnVuRV9zaWh0NGxRX1JyejRfcDdEQWlQUGtTM003S2lF?oc=5",
-   "data": "2026-11-17T15:06:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "g6sce8",
-   "titulo": "IPO da Anthropic deve ser precificada acima da faixa preliminar",
-   "fonte": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNEhWOVlRenh0VFhnejl0SFhnYUZ4eGQ4RHRrVXkzWmdlTGhnUzU3YTlvWlFSa25uMEptTGxJWHBUTnlmRzItcHpFbzVDUDE2dHRLRW0zSmx6S0JtVlpWanQzOFBibGE2Ui03RVlHd1hkb09kaDNIRzB2dW8tOU90TzZpelZVOEE?oc=5",
-   "data": "2026-11-17T15:00:02.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "1st6m39",
-   "titulo": "Apple pode ser multada por dificultar Pix por aproximação no iPhone? Entenda investigação",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQV3BhaVZiZUVBN3JVVDVTZkJRVm1qSnJNU2dldDdlMWdHc0ZqQU1aRUxSRldORldVUjhheUI4ZjMxMFJyaGNOU3JVTUF1UDRtSnNTREg4bnVnX19yRWxaWHJUR3BYa1hqYTBOVEdsMk8xZHB5c1dwOEFBQ3pWLWtoQzg2UGNHUVo5eWFpdzF0SU1uUDI2RUpwVTZ2dFQ5aDBzbjZjcHlESVJXaUVKM1o4NHJYTlYxaTIxa1NxM2V3LVhwelBWYTMzbEhLa0FSS3Jh0gHWAUFVX3lxTE1meXlsc3JoV3pFYjdZbjZfNVZMQTdkcjJIU3cxRndfZ1p6UGRTRFp1bXBRWTg4VnEzLXhITGlJWmxfblY5aGtKcG13SHJxWVc2My1IMUNPdUlGbFZlbUtDa0xxWFZfZDVJZXBOc20yNlBNdVRHSFVObnV5ZE5EU3lBRjBhQ2hLUy13bGRDNVEwOUhhR0V0UVdaZU02LVV0M3RSZFJzdEh0blRGb1Ezbkc4ZFE5Q18xYk5XVHhWUHdTS0RsdGtaUUVmUVVVaFhaeWdwMVJuZ3c?oc=5",
-   "data": "2026-11-17T15:00:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Apple",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "trftmr",
-   "titulo": "Wall Street recua à espera de balanço da Nvidia, enquanto tensão no Oriente Médio faz petróleo subir",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9peVVBSnNpZ0Fza2JXelloY2hCc2tjenlFdlYzb2stX2ZFOFRyYThpTzREYThoUGxadGhoN1YyZDgtVEJGUkxjWnFqRXZEV3hPUDdIRmdvdDF0RTd3UjhxZ1l4OVFQaFpQQzV5aTJBX185bmhWRkhmNWNkVFgtVWR4MFM3VFVxNUpvQVBscFVPYVJ1akpzMGwwTG9QXzlDM3oyZXB6MFdWOFVoSEw1cnBnTGRQU1ZHWnc2a0d3ZTVYa203c3Budm5ZWVZlOEhPbW1Ba0FYWGtGU3fSAeABQVVfeXFMT0FiUlRycWdlekJXM1BWXzRXTmJmWW0tZnpqaXBRTEk3MWZPb20xN0lZQkxvR2lJN3VCUXZ2UEkwSG13THJIVnhNQ3BEcHRlZlNKM0MtV01RSGdoTzRMSjN1SHpsdnRXYTZGcmpWV2JXU0xPTkpDaXVTZkNDTl9MNDZ6c0syTjlBV2ZrWFVtcE5wUjRnYmttLVFVMTFEaVJkZTRkMVJ5TFJvR3NjM2FpZmN4RC16UlZVdkRZYWxHc3phWTM4azZ3RVlkbnN1eG1MV1ViME5BdndEcnB2SWhWR0k?oc=5",
-   "data": "2026-11-17T14:59:06.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "tc5zdt",
-   "titulo": "Anthropic deve receber múltiplos pedidos de US$ 10 bilhões ou mais em IPO",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOTWJFeV9DZjRwWmZUWktEV3A1RDdzUUxIakZ1Y0RSdjdzajdkbW1hclB4RVNsUlpCT2FyM183N3V6anFNQTZ5MnhqcWhQTWp6QXpUUzN6bFdEMHRyd1FsSmRSdGtlN3FEaDVFOHVxbUhSWXk5cDdTX3hWdk8wb2tJUlpiU0JRUnE0SUNwUVBNR1pWb05vRTItQVZkWWJuUU5XTi1vcG9TZzJ6OEl3dTZKSFZkSngxTWcyUjdhTWpiTEtaTjlQYUhWLUxvdWE2NVU?oc=5",
-   "data": "2026-11-17T14:57:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": true,
-   "avisadoEm": 1794933027150,
-   "marco": false
   }
  ]
 }
