@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T07:00:27.642Z",
+ "atualizado": "2026-11-18T07:30:25.721Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "4nshx6",
+   "titulo": "Horário previsto de GTA VI no Xbox Cloud: 3h no Brasil",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNN2cycy1nUlRYeGFuMmRESG9GNmtsYzBjNlJCMl9TQ2xucXc5X2pDNGkwaFJHTzJERW1kUnBzbzJ0a3RDeFZfN0JWUWY1R0VVVzhMRnJYNV9OVGQ3V3EyWlBDNm8wWmUxVmVVb2ZCc0lESk9mUXRHeThfemdZaGE5S0F1cDkzMFUtWkNB?oc=5",
+   "data": "2026-11-18T07:25:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "zycjp9",
    "titulo": "IPO da Anthropic e 4 outras coisas que precisa de saber para começar o dia",
@@ -960,6 +972,18 @@
    "avisadoEm": 1794947427843
   },
   {
+   "id": "mzcrz1",
+   "titulo": "O IPO do século XXI: A\\",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9hVnh6NEpCUGhYTGdZeUpsNldnY0JLbHpHRlR2T09jZEtNTHhERmNpbkhmTnVaeW1xbVd6NWkxWVdwRnE0ZF9qMzhQQ0M2ZmVFV1FGbkZZOTE2YVdEaDhB?oc=5",
+   "data": "2026-11-17T20:01:23.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10a5xlw",
    "titulo": "Credor da Lavoro vê irregularidades e pede afastamento de gestores na recuperação judicial",
    "fonte": "Estadão",
@@ -1441,6 +1465,18 @@
    "avisado": false
   },
   {
+   "id": "13w1xt8",
+   "titulo": "B3 lança BDR da Anthropic simultaneamente à estreia da empresa na Nasdaq",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYWpyZWhmam1TNERjN0U2VVMxb0FmVkZSc0thQWRrTGtYT0tpdTFra3F3dVlJdjVxRGJ6b3FEbXQxQmxmMV9UZVVpX0xPVThVRndZT05WRlhEbDhSSTVTdnBMQV9BbHJLZkxTMjdpcUVPSnN0ekI0RFhxSlRHS25IOGNBaWlyV1NtTFJ6cUppWVJ1WHZ3ZHRQOV84dC1qd0pCQkphNTYzclh3QTVE?oc=5",
+   "data": "2026-11-17T17:57:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "t3ck02",
    "titulo": "Ex-CEO da Nvidia admite \"erros sérios\" e diz que aceitaria voltar ao comando da empresa",
    "fonte": "Money Times",
@@ -1801,42 +1837,6 @@
    "score": 6,
    "avisado": false,
    "marco": true
-  },
-  {
-   "id": "r6vszx",
-   "titulo": "M. Dias Branco celebra 20 anos na B3 com lançamento da primeira Carta de Governança Corporativa",
-   "fonte": "Portal IN - Pompeu Vasconcelos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd0ZiSy12WHkwVG5zOWpfTmtNOWVHMndIQkpwd1V2d3BHUERsTURidFFtNC1OLThzSndNX2VRTnotRFZmbHlIUVdBQ01fclZENzdQRnBDa0YxWGRKYzFxY1VvTk9qa0w5QnpNT0ZxX0pONm9ZVERjSmF4ai1BMFpBMGtyWWRZN3FBVDJVZFdXdnBnWlM3Um10T284a3JnWjhWUUtJNU1yVEc3RHhrcEZGTm41NjFiZ3JMT0xWTEVEa2lwT2NGVHBB?oc=5",
-   "data": "2026-11-17T16:24:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "qr700c",
-   "titulo": "Do preço ao horário. Sete coisas que precisa de saber sobre o IPO da Anthropic",
-   "fonte": "Jornal de Negócios",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm1oQ0JxSkVlYTFpVG00YjN6ZDVGY3BvZjBaLUZlTGtUbm5tZHZMbl95M24tN0lWdndkSTRobEZRaTByanptMUx3MmxIWVNoWGYyN1M5OC0zU3FicXRITUdaMlI3TFlLeEN5c2p3czNDRWJYaUFPRVk1alo1U3R0dXdxeEdpekU0a0VpWkJZV0JBUTFDN2trWWNuNkdhbjhwbGFXUnVkd3ZQZ0J3ZVR2U0cyWkN1Zmt3NXg0X2wyMDF1dmlBUXRobUppNFY?oc=5",
-   "data": "2026-11-17T16:20:50.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1mpkh2w",
-   "titulo": "Funcionários da Rockstar começam a votar sindicalização antes da chegada de GTA 6; entenda",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQam5tVm51LVFRa3R6N0d2dFRsTzEzYXFtMlpPNjNpVUtYNXZyMjBsc3pqY2Z0c0xZMXdiR21tR1BQVl93MXdsR01sV01seXdQbnlLdy1OcFlOenNoMXBFUmxOS3g5YjV6ejVvNGlKcHB2UWgtVzlmZW1wN1hfMnNQQmpuX2FnTEN4YlR6NVBPUmxxT1dERzI4RVBaWUZwUXZ6bEtDZHczZUhVbjBaTGNMaFgxMG1ocXRFYmFZWlY5YmcxQUdCcWNsN2Z6YTlyRjZpX1k3UnhiME0?oc=5",
-   "data": "2026-11-17T16:19:27.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
