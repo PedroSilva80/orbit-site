@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T02:30:27.472Z",
+ "atualizado": "2026-11-18T03:00:30.136Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -7,30 +7,6 @@
   "dig|2026-11-17": 1794946650326
  },
  "agenda": [
-  {
-   "data": "2026-11-17",
-   "tipo": "Balanço",
-   "empresa": "Nvidia",
-   "origem": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX1BGOGd5dTE2SmVOVnhGNmVWMnpFMVotdEJOYmFZQk96VlFSVWtZNnF3eHVKcEdLTHZGbXpkUWc0Q01DNkVEWWZhTW04ZUZWZDRNeDdPRlA5SFU?oc=5",
-   "manchete": "Nvidia (NVDC34) divulga resultados nesta terça; o que está em jogo para as ações?"
-  },
-  {
-   "data": "2026-11-17",
-   "tipo": "Balanço",
-   "empresa": "Nvidia (NVDC34)",
-   "hora": "após o fechamento dos EUA",
-   "origem": "calendário Nasdaq",
-   "link": "https://www.nasdaq.com/market-activity/earnings"
-  },
-  {
-   "data": "2026-11-17",
-   "tipo": "Balanço",
-   "empresa": "Disney (DISB34)",
-   "hora": "antes da abertura dos EUA",
-   "origem": "calendário Nasdaq",
-   "link": "https://www.nasdaq.com/market-activity/earnings"
-  },
   {
    "data": "2026-11-19",
    "tipo": "Balanço",
@@ -49,6 +25,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1jiu87a",
+   "titulo": "Goldman Sachs reitera recomendação de compra da NVIDIA com guidance elevado para 2027",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMlZBZl9EbkdqXzl6dklEak5rRFBHR0podzRqcnhQTENMcFdRdk4wRk05Sm95dzh2MlgzMFhYdF9HUS0xblYtSUdVZG1OSXdpeVVSbkdNdUFBWi1xZnpvNlpqUlhqbTFLeHNiWi1SX2hEa3Q4WUlsaldOTno0OUlIelN4RlhBMnlJbFQ0WWh4WG9DRGU1TUoyUTdVUkxNT093bksweDlNN2tRTDdhTkQ1WjV6NE1YTVN6c3l4dkdFVkotR3VZTnEzajFjbzhGM3YteEJJYjZMejgwSnNY?oc=5",
+   "data": "2026-11-18T02:18:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "knbdis",
    "titulo": "GTA VI: saiba o horário e dia de lançamento do jogo no Brasil e também onde jogar",
@@ -778,6 +766,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1h68viz",
+   "titulo": "Meta lança novo aplicativo de mensagens que funciona sem conta no Instagram",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DTUd3MkhycFlEUXJHV1NEc0ZZdFBsem9nU2V3d2wzWTlZOXBsZklEbWlVMDBHZ2NKbmE0RmNKbFBOc2xtaGtTMFRmOVY2anBLaG1scnM4T1BGVUtCaDNwdXBXekwxRjFmbmc?oc=5",
+   "data": "2026-11-17T20:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1828,30 +1828,6 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "ylnixz",
-   "titulo": "Anthropic mira IPO no topo ou acima da faixa, dizem fontes",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOaHBaa0xHTXhrWFdBWHRJZktPV3dhbWVwSUlLX05WSEpfTHM4MXNZeC1ZbFlKRlJrWmk5cjFKQkRzY01oNmhLdTE0VmVsY1J2anRLamNTS1NMNkt2RDVOaF9lMGRsMXd6TFNJX1pPMXNicVFSS2J5YWw5cTNoVjgxc0RuZllEOGREQ1d3NEpCNF9zOGtKVGdQcldXNTZ0azBQVWVRamd4b3VBeWtLSmRmZlVmZnR3d9IBxAFBVV95cUxNWUxZOXdLSVJOUEN1dkd1Z2dXc1FhS0lUVGplUmxqTzl2WFl2RUg3SGlnYVlEWmNqWnVPUzV5TUJNZzR1bk15UUNnRFZESDJ6U2lPM3RNblpSNkpCd1dlajJXb2Q3Q1VBUzVTaTBybFhtcHoyVGlxRXEwU1d1VW9FMGdULS04aVB6SDB1a0IxYVI0a0Jqa081RHlXTGVwYnVERHRWR0lrS3lyamh1RHpqdlppU1Z5MldmQnRsUjBaZ29GdTdP?oc=5",
-   "data": "2026-11-17T15:45:57.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1ayoiae",
-   "titulo": "Havan reduz preço do PlayStation 5 em R$ 1 mil e inclui dois jogos em oferta na semana de lançamento do GTA VI",
-   "fonte": "Gazeta de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQUFZNN0hySjdCUGdkRlBiSGxDc1BwZ2dvaWw4NjltcUswdmRlaERjX0Foa2VuQUk0LW5fRlRJRDZHemtscVFIU2xHZGFHS3lkLW90TkRCbURHc3hmdjg5dWpBUTBsb1RBYkFrWmtKRllyRXFjN3JmZXktMjFjQnl6TFpUN2pLWEExbkl0TzhfVDZGX3VMWks3eUkzX3hvZl9PRUFBQllWR1NTRm8yekNPYWxxMG8xMHAyQW04bHpTWERQNjVKQi1sTjljc1hYR1E2TEw5VGVKT1Z1aUFhZFE?oc=5",
-   "data": "2026-11-17T15:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "avisado": false,
    "marco": false
   }
