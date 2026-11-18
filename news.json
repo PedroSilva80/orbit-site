@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T00:00:29.957Z",
+ "atualizado": "2026-11-18T00:30:24.719Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,14 @@
    "hora": "antes da abertura dos EUA",
    "origem": "calendário Nasdaq",
    "link": "https://www.nasdaq.com/market-activity/earnings"
+  },
+  {
+   "data": "2026-11-19",
+   "tipo": "Lançamento",
+   "empresa": "Anthropic",
+   "origem": "melhorinvestimento.net",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTZyZDl1Q3VmNGdkaTZscjN5ME9RQXM4RHFVMnJGZURfWndpMWYtUUFpSS0zRXlBZUJMUi0yLS1jeGFRY3JEZkhlcEJVY1JhUXNJUi0xLVRaMko4bmd2dG1CRzRqWFUyeWZCZVFTRExFSFdEenoxRDBXd1RoN1Zpejk2OA?oc=5",
+   "manchete": "BDR da Anthropic chega à B3 nesta quinta (19), junto com estreia na Nasdaq"
   }
  ],
  "itens": [
@@ -470,6 +478,18 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ii4el",
+   "titulo": "Nvidia vira página de escândalo com Jensen Huang após lucro bilionário e projeção recorde de vendas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOTlFmemZBbzBFSV81ZFJlaC1tOHB1aTNEaC1tblVXMlJtUEZQWmwxcjY0YzVlaUpxbzdhdGhRblk4VUtfalpjNG5TZ3ozWllIUjNnakY2RGFkbTVJek5ZZ2t3Rmg2VXp2WEJ6SE4xUmZ1dVhxQ1IyaTRXaW5ub19Ib1BkaGNSVkVGNEVCUUJwOENxYXl5WHBlaVNwVUVaU3d0S2lWYzZOUi10RGg5S1FOQ1JKRE05RXRqb2ItOWJBS2VSUVl6U2drOFhVRWt1Mm5oX1BvZ1NJdG9vekwxRllYMGJFS3h2b1FHVHdaT3c4RTR2d1N40gH0AUFVX3lxTE5OUWZ6ZkFvMEVJXzVkUmVoLW04cHVpM0RoLW1uVVcyUm1QRlBabDFyNjRjNWVpSnFvN2F0aFFuWThVS19qWmM0blNnejNaWUhSM2dqRjZEYWRtNUl6Tllna3dGaDZVenZYQnpITjFSZnV1WHFDUjJpNFdpbm5vX0hvUGRoY1JWRUY0RUJRQnA4Q3FheXlYcGVpU3BVRVpTd3RLaVZjNk5SLXREaDlLUU5DUkpETTlFdGpvYi05YkFLZVJRWXpTZ2s4WFVFa3UybmhfUG9nU0l0b296TDFGWVgwYkVLeHZvUUdUd1pPdzhFNHZ3U3g?oc=5",
+   "data": "2026-11-17T21:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1833,18 +1853,6 @@
    "score": 10,
    "avisado": true,
    "avisadoEm": 1794933027150,
-   "marco": false
-  },
-  {
-   "id": "1htkdnp",
-   "titulo": "Ajuste fiscal no Brasil e balanço da Nvidia pautam o mercado financeiro nesta terça-feira",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMWVlTExrYmxnWjRVZ0V0SEM4eXV1emRfTWpyaHh5YVJtcGZDQUNqS0FnVkhRbFQ2SGRNMFRXYk5saHMxVFNSSjh2cTY3WWxISjF5S0ZCY1hQckp4bWNOUHo5MFNiLTZQTHN4dE93ZUMtQ1kxMTJ6VTQyTXR6cnVUZGdCRHdkRkotYTVwQ3l4Mm0zdHh3N1JVTXZ2aHozODY5ZDgwUElfVl96MzR1Y3l2M3RPUlRaT1YyU2dKMA?oc=5",
-   "data": "2026-11-17T14:52:50.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "avisado": false,
    "marco": false
   }
  ]
