@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T05:00:27.336Z",
+ "atualizado": "2026-11-18T05:30:25.546Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -22,9 +22,29 @@
    "origem": "melhorinvestimento.net",
    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTZyZDl1Q3VmNGdkaTZscjN5ME9RQXM4RHFVMnJGZURfWndpMWYtUUFpSS0zRXlBZUJMUi0yLS1jeGFRY3JEZkhlcEJVY1JhUXNJUi0xLVRaMko4bmd2dG1CRzRqWFUyeWZCZVFTRExFSFdEenoxRDBXd1RoN1Zpejk2OA?oc=5",
    "manchete": "BDR da Anthropic chega à B3 nesta quinta (19), junto com estreia na Nasdaq"
+  },
+  {
+   "data": "2026-11-19",
+   "tipo": "Lançamento",
+   "empresa": "GTA VI",
+   "origem": "G1",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hpblktWVVlZWVTWm43OFBXSUNVYTctakVmUE9neHVJZlo1b01WQ3ZhZkNQTzlaalI4eHdhT3pteE1CbUVMcVh2Y3FWNDRQVVYyN0Z1aS1SUmFJTy1SMVlaeXJJbVRNVU9KbXFaNHFpbXdTRWRaX3RuZy1zSWY4YW1WOUdGdk4xNGYwUVkxS2M0TEI4SEpIa2plbHB0ZWxjdmdtby1kZHMyOXRrR2hmSnBtT1VTQ0dnd1hOckRYVlYyb1g50gHTAUFVX3lxTE1FcXRkTG9qSnlrNE84VTJIMmVHU1RNd2dMLVRBUDFFTE53QmsxWU1jWDNsbFRIb2lEcU5iWC13YTFQcHgxeHlpcEVqOEhBT1owSmdFMlk0S2IxeXJya1V5VUpNUG02SVp6cmhTNnRmUU9HRVhJR1BodGVOTTdGb0xXTWNYUF8weGRFeXoxUElwekZGSmEwVDBDMmlxeUxpUC1CQ1hiUHhmdHJ4Zk5NRXk1eW1UV0VGQmVWWVdCc2lVTmR5TktlWkJNaDBaRnBtVTFNRzg?oc=5",
+   "manchete": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo"
   }
  ],
  "itens": [
+  {
+   "id": "1lqaw7u",
+   "titulo": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hpblktWVVlZWVTWm43OFBXSUNVYTctakVmUE9neHVJZlo1b01WQ3ZhZkNQTzlaalI4eHdhT3pteE1CbUVMcVh2Y3FWNDRQVVYyN0Z1aS1SUmFJTy1SMVlaeXJJbVRNVU9KbXFaNHFpbXdTRWRaX3RuZy1zSWY4YW1WOUdGdk4xNGYwUVkxS2M0TEI4SEpIa2plbHB0ZWxjdmdtby1kZHMyOXRrR2hmSnBtT1VTQ0dnd1hOckRYVlYyb1g50gHTAUFVX3lxTE1FcXRkTG9qSnlrNE84VTJIMmVHU1RNd2dMLVRBUDFFTE53QmsxWU1jWDNsbFRIb2lEcU5iWC13YTFQcHgxeHlpcEVqOEhBT1owSmdFMlk0S2IxeXJya1V5VUpNUG02SVp6cmhTNnRmUU9HRVhJR1BodGVOTTdGb0xXTWNYUF8weGRFeXoxUElwekZGSmEwVDBDMmlxeUxpUC1CQ1hiUHhmdHJ4Zk5NRXk1eW1UV0VGQmVWWVdCc2lVTmR5TktlWkJNaDBaRnBtVTFNRzg?oc=5",
+   "data": "2026-11-18T05:00:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1yia3rm",
    "titulo": "Kick oferece GTA VI de graça; saiba como participar da promoção",
@@ -1816,18 +1836,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 10,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "fg0wgt",
-   "titulo": "GTA VI impressiona com novas imagens e sistema climático que promete surpreender jogadores",
-   "fonte": "Combo Infinito",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcG5QVlhMUGptRUFBMFBIZHBaeXZ1UC03c0x3SXEyX2lQcDQ2VXZNZWt5VnpXbjBxZ0hxbndYcVc5ZnplZ0tybDc1cHV5V0VvcjNPSlFUekFQczZLaU9JdHp3LTdHX2JtbHUyQ3htelJtLUtONzQtNVg4Nk5BTnRrbjNaMmQ2Zml4R3FCS3B2VzVyck1SeHphSnJaYTg?oc=5",
-   "data": "2026-11-17T16:11:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "avisado": false,
    "marco": false
   }
