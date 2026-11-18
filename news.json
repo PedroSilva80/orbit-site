@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T04:00:28.850Z",
+ "atualizado": "2026-11-18T04:12:31.385Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -58,6 +58,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yhrd2o",
+   "titulo": "Quanto GTA VI exige de espaço de armazenamento no PlayStation 5 e no Xbox?",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVUlUUFVSRjFjYTdGcDFnd200bVpydEtWNDctWEJrNHVSTENXTmdhOW1tWDREVE0xc3JBSmNHVmVGeGRoWmdyVlZuTk5xeDd1OUhSNW1YLTBBRzFNVk1odWpCRk1MTV9aNlJiNUQwWGUzRHNjYnduX0dZeGhPMWNESE5ZcHR2elVCR21nU3RGYldmdWM1MVYtblFWaU10dF9adUpzaXpwS25XdlR2bHVUZWtoLWpZRXBDMkIwR1BadHZmUTRiVXBn0gHWAUFVX3lxTFB3eldKZDFsVkNYY0otSzRyQ2lCUUdNNHVzbmYxUXVGeG1Qdl9ObHRLWVBkRGI2eTZQcEVGSk9kWXZBb25XbVFON2t0Unk2RktSSWF0Q0lhS2YweHJrc2NJUDM1eGNDSFJBaVU4UlJ2RFA2Qm9oalBUZVdsNWhIRU9GMUQ2ZnFiSjBFaFpnVEFwS2toRkhCeUV4ZUozRGZYYVotR0ZxcDViVE9FdDZ5TGctbXdISW53TndFSmR4UHZudlV1SG53VXozRk9IX1VhRFdpN0F3VEE?oc=5",
+   "data": "2026-11-18T03:00:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1818,18 +1830,6 @@
    "score": 8,
    "avisado": false,
    "marco": false
-  },
-  {
-   "id": "l3qmjd",
-   "titulo": "Wall Street recua antes da divulgação de balanço da Nvidia e oferta pública inicial da Anthropic",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPS1Bjb0ZuSzNLXzE0Q0VDcGowOExwbm94YTBwZ3Y2ckJteXpVSEVkSFJsX2lQN0R4M2swREszSjhWS0g3N2xMVERabm5UTXQ4aEswWlVKRTQyRElXa2lLVF9UT1J2WWJaeUM5QVBYVElNQ0lBVkxUbG5DRmRObTlLWnpic0tUX2k3ZjJjY1U0cXdnSUxGT28wY2w1VnJLWnVUNWpHMnpfZF9xazlER255Y1ZXNldaeWdTZjR0Y0kwbUJOaVRXMlZ5UVJ3cm9vd3pCSWVkUmpfRWZNcHdIOG42SU1XbmdTdUVON0ZtS3pxZEN2NTlvUDhtWWM0cWJSWkJWYW9MYnZuMA?oc=5",
-   "data": "2026-11-17T16:05:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
