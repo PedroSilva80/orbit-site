@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T01:00:31.739Z",
+ "atualizado": "2026-11-18T01:30:32.930Z",
  "agendaCal": "2026-11-17T20:17:30.326Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "rap8d8",
+   "titulo": "Após tentativa de compra da Amil, Advent e Bain avaliam ativos da Hapvida",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWHpCd2NfOG1QVE81czJpU2dSeTctOXg4YnZzVVhYZjFtSnFlVmNGZkFVY0tLaGVGaEZrYzQ0T2hHUkJzWlBiTlBFWFZhb1djelh6WjA2UmFOVWE1QlJnT2NOamZfeTk4TXppSm1PckhWYkQ0S2d5MXpKNG1PRjhSRC1uWEhQSjlGeTRvNGhNeGZtN1ZsYTNUNXpLclZaNTB0WS13X1dTWl9qeXFZYTZRajdrc0FyOEtYMHJHUEJuMm5vWGvSAcgBQVVfeXFMTW5ScmRRQTh3blJlcENCQ1duTE42UTRFNlA2UlVmZU1GUDdJRjBybzZZSVpZQ3VtZ09VYzZPWkdZRnEyWVk4YU1mbzhlSmFYSU1PaktKUm82el92Wnh0Z0w2V3hQR1JZZG9rLXEwSlpaS0tPLTRyNXVmTXR0cVFZY3BaX0J5ZDJ6N2ttRGFFTWI1RjJma3JoZVZWUUxNT2tCVjlZbThJU0F0c3FId05DYVp2ZzdlN0poQXp6eE4yaEhBbWxzMm5SRVE?oc=5",
+   "data": "2026-11-18T01:00:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "j6fjqn",
    "titulo": "Anthropic, o maior IPO da história",
@@ -940,6 +952,18 @@
    "marco": false
   },
   {
+   "id": "9ofiax",
+   "titulo": "Amazon prepara Black Friday recorde com IA e expansão logística",
+   "fonte": "Money Report",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMjltLVA2TDYxckVwcmZXeUhLZm5ibVI1cll4TWMxTENiQWhUbE15ekxJbmJJTFVBdi1mbFRDMDRjNkVHejJ5cC1tUjBfTWlYQklCSDZKNFBZd1BQdDFwYjhzdm9nT2NaeDhEV1pPVHZES0EwTUR3UjJPUklFV0VidlFvZ01VUXVTVGtIZEJRRG9JMUhTN2NZdWpUUUh1eHV3OGpYbHNvVQ?oc=5",
+   "data": "2026-11-17T19:04:46.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2p2g2l",
    "titulo": "Quem é Manni L. Perez? Conheça a atriz que interpreta Lucia em GTA VI",
    "fonte": "Poltrona Nerd",
@@ -1828,30 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qwjhoz",
-   "titulo": "Invicta, Bia Mesquita dispara no ranking Meta após brilhar no UFC 334",
-   "fonte": "BOL",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQm1sc0J1NTQtYlZFV1dmdXVDSVg4VENfVVhTdXp1MVZKRG9jNWVwYjlRSFlyeXNEREJwbG12OW5tT3lRckJ0UXA1VFVGNW1QYkNpZVo0dk1icW5KNDZ4alk0NWJxNTQxeDlpaFRtdjl5N0FkVHFCZkszT3lkWkFHOXRQYmlzODVrbnhaRXB4QTN6VTMtc1E5WmlCZ0p6RnZRZUdWUXdMMXRIVDdycnRVd2g2SWxuMzI2UmfSAb8BQVVfeXFMTWFEZWJJb1N2eHZaWHVhN1pHV0I0TGFkUlNYbVNFTUVzX0J2ZE5HZXdZM1RMMi1vdVdIdjJNWlJGNXYtM0ZtVFJaRElhT3FwaFVCNUc5d1lJT252SFY1c1lwYW9KRDYzNmFRU3hWNXFtYkJqbTItTXJBZFpCUFNUa3N2MWlNaEQtSnRLQklCb3RSSVQtVXFhVXpDNlkwS2JrbUQxYkJSb0xsa1lTS21wZV9TT0E5NXBZUTF5cl9HQ0U?oc=5",
-   "data": "2026-11-17T15:10:43.000Z",
-   "cat": "Movimento",
-   "empresa": "Meta",
-   "score": 5,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1hyhx3u",
-   "titulo": "Jensen Huang, ex-CEO da Nvidia, vai depor no Congresso dos EUA após caso com suposta espiã chinesa",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPRjZKQ1NiMGVtVXhNc3FocHh0Zkg0NGVxQ2pOY1czNFl0aFMwcEpaa1htZ2owVmRmNW1ROEdEVGtNa0ppM1F1YkJWaTBSYUN6WFBfeXRXM0lhZ0VaenNUMXVDclgzUk11dEN5LXNGSnNiNDNuczlfclUyZkxCLXlDdEVpUDVsM0NiZ3lmTXZ1UjR0WEJQTEp5VVg1NktHWDEzaWxuNjhfc2xyTHpaNVd0Wk5kOURiT21HWUlPYkU5OUpfcmRlbnNfeFNTME1KR1ljTlktbDM5NElmMU1sdE5yRXRaYldUREg2ZlFrYlhSRdIB_gFBVV95cUxOTlpobF9nWnFmQXlHaXhmZmNfb21qd01KMktzSWhTakdSWXBFT3JhejhyRWtZVm0tV3ZTTFpFYmxhR3k0OFhtTkp2Mkl1Vi0yam44aG85dHZRcWFNMlRVYTRJWXA3c1c4N0szRDlBYUJuU1haWjhQVlA5Tm5pMi13Y1RVNlFyM2VYTDI1SXdtaFp4dDhoZnJGb21DS3JpdU1BeWRJSm12Zm45QkFvay1EQ0ZTcnIyWjE2OVBOT0ZwMmdmSWNVMzNQSy1JRncwY05NeEZ0d0VWVmw3UlN5THYxcnlVajlSWGZVancxY2pZSTNVelhVR2cyV1FLM0F1QQ?oc=5",
-   "data": "2026-11-17T15:09:50.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
