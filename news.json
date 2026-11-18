@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T18:00:33.896Z",
+ "atualizado": "2026-11-18T18:30:34.766Z",
  "agendaCal": "2026-11-18T15:00:34.522Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,67 @@
   }
  ],
  "itens": [
+  {
+   "id": "1bw8vl9",
+   "titulo": "Twitch terá recompensas especiais para fãs de GTA VI",
+   "fonte": "Portal ABC do ABC",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByY0N1UFRqVHhjR3BGLWx2dEo4WFl4VGFSNlkzTEdHeHBzLTc0NEdUVjZoZXZDOGtZeUtPa1hFc1Z4WG43bGZpNWV5bDhXRVpZMFpiZ0pTR0RqaW1Ta2E3aTVaSG1IRlR0WTVNd2ZDUFNjdnUzWWVmWXF2cw?oc=5",
+   "data": "2026-11-18T18:26:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "itsy87",
+   "titulo": "Microsoft lança defesa cibernética com agentes de IA",
+   "fonte": "TeleSíntese",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXNHNzRRTEk4Z1lmaWRpcHFWR1NQeXQtN2M1OS1YU3c0UVZVZVhnQ1l0eEJHWkFGOHoyLW5UQkI4a1pEekFnNHA5NHMyMk1MaEZGbl9QSDNlY2x1eml0SGZxck1WRkNnZS1DYkQ4QXhjb2duU196Mng1R243RzRrSUtVd1N3cFU?oc=5",
+   "data": "2026-11-18T18:23:49.000Z",
+   "cat": "Lançamento",
+   "empresa": "Microsoft",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1fw1nag",
+   "titulo": "GTA 6 já vale US$ 1,65 bilhão para a Take-Two antes mesmo de ser lançado no Brasil; ações saltam",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVnV1VzZKQlV6UlJYZzRPYVIyNGV6TUUyb1FyalRTNkFoS2ROb0UzY21wMUt0RU1zX3BlSktvNmx2LWZ2YnBUZXZsMmI3VUM1a0g4Q2xkR1NXdGJrX05GYUIzRFRrWFVkckI2WHRUWkVyN3ZNX3U4RnJjcjl2UlNxT212dmZSeTlkLVNDQjJ0eWtpOUxEWjRjTnBaeG0wOEp1ajVKaEhXSm9tV3ptREFJOUJMRjkyNTJTYWlBT1pqa3M2VUs1UUkxNg?oc=5",
+   "data": "2026-11-18T18:18:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Vale",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795026634766
+  },
+  {
+   "id": "2xzwja",
+   "titulo": "Prévia do IPO da Anthropic: Subscrição aquecida não equivale a ponto de compra de ações de tecnologia já que o Nasdaq 100 teve desempenho inferior ao S&P 500 60 dias após a listagem da SpaceX",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNeHU0TF84VWZua1NENUQyRFBZUlFGUk9pT2szNVgzVF94dmQzR0JLT0FTZGVoUlpuZFdwcnZnWGdhMGpoTUdSUUMxVnVUNTMxcVNQd2JVT0lRSWpJc21Fb2VYdmsyMk1TTjQxTF8za3dyakVvYnZXNlhPUWY5UlVXQ0JWZEZGdVFXOTZEU3FqNU5NV19ERjVqN293UW4zU3U1TDRwcFIxYnZ4elJJTnhSZXY5Z3I4SDB4S3k3ZkRNM3RpU3FCemttRUw5VG14S2F2ZjQweVpPUFRmakxt?oc=5",
+   "data": "2026-11-18T18:12:47.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dtlev3",
+   "titulo": "GTA VI | TIM reúne Gaules, Malena e outros creators em lives especiais de lançamento",
+   "fonte": "www.jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM0JqWGVHZzNZeE4zNDV2dTgzMzhueVNoRUVkZEN1bW9sUFMzTzVYRlhwdlBjZkd6N0RuSTlfSjFoQ1Y1ZmtGTUhOQzdlN2tNd21UTER5Qzg0M0p2V2V4TmFObWhLNFpwNGRfM01vd2NuRUpDdXhzMGs4cVg3NUhhSXNYZWdUWmM1Z3FscW1UZ2dmNTlrdWhQSTlFeFJtTEFIU0k0SnNXSm80SkNvMFlpUUFETm5jUQ?oc=5",
+   "data": "2026-11-18T17:52:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1evhehl",
    "titulo": "GTA VI: a inspiração em um casal do crime que marcou os EUA",
@@ -123,6 +184,18 @@
    "avisado": false
   },
   {
+   "id": "1ep979i",
+   "titulo": "O agro é calote?",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SmVacDVmQlVWRUFwd1FHZ1ROY1hhMG9IMG1FcGtncWxuWDJrUU9idV9MYXVnX1ctcGdmTTB3LWFGcXZJN1FFWTVZNWJpMUx1X0ppcWdTSVVGYnM1SmRUWFBXZzZhcnNZ?oc=5",
+   "data": "2026-11-18T17:29:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1mr4xrm",
    "titulo": "Agência de Comunicação - Ondo Stocks lançará a ANTon com operações de emissão e resgate 24 horas por dia, 7 dias por semana, já disponíveis no dia do IPO",
    "fonte": "Estadão Blue Studio",
@@ -165,6 +238,18 @@
    "fonte": "Pizza Fria",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2loZlE0X0x3ZnJONHZWWlZwVzlJTjE1WVFha0FTT251OGNTM25DQmJYMWZrRFZnUXFNWldnajliYjAwTUJsamhoNWpWMm9BWVFrQ3lBbXo3VXdrZEFXdDZmV0lMU0xucDBPS0xVcWZVckc2Y3BVaVhwUGZhcnNsXw?oc=5",
    "data": "2026-11-18T17:25:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bwahk0",
+   "titulo": "Como chegamos ao GTA VI?: Veja outros sucessos da série que marcaram época no mundo dos games",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0I5ZHMwU3BNRzZWMzFZRDV6M045SEFDaVQ4RUZYZEcxd3ZNekFkRC1EYUlDUVdmSlhyaTBvUlFMNTdUemtVM3NnYkJJRzkyOW1NQWw1WDVmbUFRdVQ2N3Z6TVZVWGR0Qm9pajNaVVFiTmJzZkYyUEN2X1hET00zZE5rdkRnaHo4TVE3TnZ4bkhtcS03Ql9qaWh1ejB0eXNGd2o0N0J1VmlweEw1MWRxWi1MUGt3YUtQRVhlaVl1dWdaM2N2dnlIUm0xQnAzSjhUd0NXM1BZdngybHpOdEFZ0gHuAUFVX3lxTE1rZmc3ZnJrNjEyT0ZFV09TSWVEUW9DbGc2cVNJR09UVGtjSndCUm5vUHk4MnQzOVl0b1owZG1MRlh4SUE5M0VWMm1iV1ZpYzh0ZlV2WDdCQXNGUHJkQkFfZWxXaGdic291aFNIaUk1VjREcU5BSHI2S0J1NHZSMDJrMVNGS1dOT1E4UTNiTHJYQk5WWFpqUnUwR1h3Sm1RdGxFNm8yWXN4alcwWWRWVGMyOTF4Y3dJa25mbXVvN25uNWgyUHQyRVVGU0JnaTRUSjVZVDNwY0ZWMTFCanR3OWF3VlpocGdOYXhkSGJlVmc?oc=5",
+   "data": "2026-11-18T17:23:34.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -215,6 +300,18 @@
    "data": "2026-11-18T17:16:00.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1q6bobp",
+   "titulo": "GTA VI chega nesta quinta-feira e promete entrar para a história dos videogames",
+   "fonte": "RRMAIS",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFJNN09JTzJEUjJRb19Uekd1OGdDSmN0SzRicS1xSy02QXRtTUxvT25hM01OeWp4QWZkTFJCenhoZ21tRGtRZVc5NFgwUGE0dXZFcUxHVDhfdDVzckFza1F2c295SUtzdVBuVVZiT1BmdEFONkdESWxDNXNWVUg3WjBHNHFmWGhid0ZsYWE2VmVuTzJOXzE4WUl1R3RJRGVYUWY4YVRJNDBRczg3QmNTb1FlMWpTWUg5V2ZDMmtoUW1WWnNsLTFEcjREUWQ3ZUpwX1o0?oc=5",
+   "data": "2026-11-18T17:14:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -325,6 +422,18 @@
    "empresa": "GTA VI",
    "score": 7,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "46224f",
+   "titulo": "Com a estrela de Guerra Fria, a minissérie da Netflix que conquistou 100% de críticas positivas",
+   "fonte": "Revista Bula",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBndEs4eHlEdjZuRGVnS25aTkhyQjlfM2g1akRPbm5oNkpUUkhqc3hLcWhpM1hWTnk1eVcyVS1vYllTbTRCakExSG1LYUF5VlZvSEtqekx2cXZFMlpOem82QWdzb2dXUFNraGFVVXNsRDZpNDltNXNHcA?oc=5",
+   "data": "2026-11-18T16:39:15.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
    "avisado": false
   },
   {
@@ -1040,6 +1149,18 @@
    "avisado": false
   },
   {
+   "id": "1d52hq5",
+   "titulo": "Ações europeias caem com fraco desempenho de mineradoras e cautela antes de IPO da Anthropic",
+   "fonte": "Portal do Holanda",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRDMtV2RBUVozemR2cFRzU2wxc29xb0NJS0hobWZYcnpMcnBJTm5hUjFtbmhIZ1dIOWFMMy1xb3BvLWphdlRHdmtfdV95UU9BdHJtTzIxZDZQamU5QkZERE5sRDBBMTBkN1l3UXlGNWxnMWVONTBUMVp0VktnYy1Dc18zVXkwVU0yWEgwRnpBNlBWMnkxVEt1MGpnVVFEWjZnYjd2X2FnNVlrbFVDaXJLcUJvZUc5WW94N08wOWpjTGk2M01MSEN1M3FXNkh6UnZrdVE?oc=5",
+   "data": "2026-11-18T14:26:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1h9lghy",
    "titulo": "Binance Wallet abre venda de tokens do IPO da Anthropic de US$ 500 mi, sem ações",
    "fonte": "Bitcoin News",
@@ -1193,6 +1314,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1azkyrv",
+   "titulo": "Onda de mega-IPO é “prenúncio de queda” das bolsas, avisa o BCE",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONG1lTFZTUHFNRWpVdzdXLWNnZmRoNHF5clFjd0xIWUpFLV94aEg1NWwyUndmNDZtNmlPRmY5ZUJiLXdtLWhkWFRMRUVGeWg4YzhsZmEwRHJFN1NlbG16eTZ4RDByTGFFUGVaa3k5Si1KazFvV1Z5am1idnM3b28xLU1sbW4xOFJOR3Bic1M5N3Z2enI1MjdsQjZSN2xzSEQxOVlTNnhVT3RTcFRkMFEzcUdVRzJDZw?oc=5",
+   "data": "2026-11-18T14:05:38.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
    "avisado": false
   },
   {
@@ -1720,139 +1853,6 @@
    "cat": "Lançamento",
    "empresa": "Vale",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lnjzcr",
-   "titulo": "Nvidia surpreende e lucro dobra para US$ 65,3 bilhões no 3º trimestre",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOYlZpVmpwTTByN3hOZHp2cDRaQWFXQ1YwRnJqMXI3c3RjVFBYcld2WmhOSWM5amhrbk9jRzg1dFJiaVFNXzZYeW9rczhjeHRNUV9jc3F0bS13bXBhU2lxRUZ0T3pVVFI2bVI3Zk4xVkV3QmxuYmRZUjVaZDhwTHI4a3Q0al9ITU5mcEJUN19tcXI4Q3AwajkzYlEzUllTQ1lvQzM3QmhPLWw4WUFWUTZsN1RXR3N6c2lDTnRuTUo5VGgyYWEycER5aWQtQnprb3JKbFE2Mm1NaW5MRHc?oc=5",
-   "data": "2026-11-18T12:20:04.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "s8wq64",
-   "titulo": "Tempo real: Ibovespa acompanha ajuste fiscal e repercussão do balanço da Nvidia",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VT3hqVHp1SnlpSV8tRGRCckFpeEtFdFU4aGgzU0ZFQjlTd21vWDlBZkY0WWFFQW5ZRzZnTnI3c2FNLXZMa1JRTEZOaVMycXRyaVlVR3BJdENDWFlzWndFMDFKNTBYcWJK?oc=5",
-   "data": "2026-11-18T12:17:30.000Z",
-   "cat": "Resultado",
-   "empresa": "Ibovespa",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795006829874
-  },
-  {
-   "id": "898e8c",
-   "titulo": "IPO da Anthropic mira US$ 1,4 tri e mobiliza Wall Street com novos ETFs de IA",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSVZ3eVZEbXI3WGZEUkRCblQ1RHlhZzZjaTNMNXN6TGQzbGxoQ1pHYlZoUHAtMjVIdnZ3WFFxYnZGYVQzdW9xSTlhU2c4bGppc3hGRzlyNXo0MWRUanZzeW8ybEJwR3dPVUlCbHg1V0QycTdmem45d25JbzB4Y0d1OVFJbEVJZDFYQmFQUGlGT0hlTmVFWVRF?oc=5",
-   "data": "2026-11-18T12:15:27.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1bkvpxy",
-   "titulo": "GTA VI é lançado com nota 99 de 100 liderando ranking de jogos mais bem avaliados de todos os tempos",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNTWZQRExHVG93NkRCLXVmWFZKWFNDYkRDWEZ1NmNVbURxd25LRGU2WXJGbGhZSmtJZndTb09vcHk5ZWJSY2pvd3QzTG5rcnl6dFQ4M3U5eEpMVHNQQlFSWkJSMjFLSlVKQXJRbDhnaXVjaVZMY1ZjdXZoYzR5XzhNM0RRenYwejJLUUdXU2lrLUgzRm9IdEdISnFSV2l6SEpJUDUtUW5OYWplUU5jeHlCN2RJZUpBLXlwNXUyVzdvdDlDSjVfVzFkejNSbEJrRW5nNzVNdkNjcEx5T2hwN05mS3NZNUdsWjZXSkRnX3pBNNIB_gFBVV95cUxQWlp0cFYxSHVRWUZjMnEyaHJ6MjBtbDFPVk9jYlF4bGY5UHJyWFJnYjlIYWR1Um1FWFlOTDVKd2YwX3hsb1Yzajg1bWs5M3V0ZG9IRll1SnNGUW1HMS0xUDFmYU1Nc25WY3ZwTHVsY1luSnNpX3YwMXVtQU9jeldMc0NfV1RjY0pxRmJyYXRfRVRXYV9YTDVUVndsLXFoVHhsM2NTMWtfLVJiYXhqU19tSTMzWnhkTV93Y1RzaUY1SUhRVFB6X3ZiQmdNNVdpczY1UTNmYWhoblVlMGtva2JoUnJ5azd2ZkMyNHBNM21EOG5Ic1IwQ3hteTFnQUdkUQ?oc=5",
-   "data": "2026-11-18T12:14:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "hylyxy",
-   "titulo": "Nvidia dispara com perspectivas de IA; Lowe’s recua no pré-mercado",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUNqUU9VRHlxOWNLV25fNThUVVRjYUxnd1ZER1Fvb3pWQWVhV0dUYlRVZlFBdHJ0X085MlpsX3c0aGRmZ0NkVG5ZM1p4NUFTQVJHNGJweF9OOHpvQ3VCTi1TNnR5Y3NOb295Tjlwb1Q2ajVCbml3OU1tMjhpb2JZM3ctZURfQkxnWllNa0tUVHFvUXhBN21ZWGhlTFlJVEg1MG5vZGRRTTUzZ1draEF0YXBVZFdHSWtoX3Ew?oc=5",
-   "data": "2026-11-18T12:13:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16qciq0",
-   "titulo": "GTA soma 900 bilhões de visualizações antes da chegada de GTA 6",
-   "fonte": "Alternativa Nerd",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdm5GOGdfYzllSW9mVlhFNUp2bDRPOFhzRFpfb1c5VVJRZHZQUkYzM2doRm5GVGpaNlJOWGhtTUVyMHVlSHRPd1p2bWtjZHBHLTl3Um1EXzBCREUyb0dPaHBQUk1TTDYzMktPOUd3VHZoc0txU1pmbzMxZTRmOGVZWHNsZHB6ZGFSNWRiUmxvb1pYU01nRmRSRndQUTV6NE96RlJr?oc=5",
-   "data": "2026-11-18T12:11:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sf6vz2",
-   "titulo": "GTA 6 usa AMD FSR 4 na Xbox Series S e com ray tracing",
-   "fonte": "Eurogamer.pt",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUlAtSnZUUTBKanhXX3Q4ejJRdU1jVjBpeE83ZGx3SEtXMDlWWW5EQjFFdWxfN0stWF9LOU9fWTN3TzItRlhzQnR4dGtSQU9PWkxILTFGVFB1VTJadWpsNUVEZl9Hckk1YWdQMTdnMUlBLW0wOXRMM082bXF1V2FMRnJCQUdFUQ?oc=5",
-   "data": "2026-11-18T12:10:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "AMD",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "s8wx1n",
-   "titulo": "Ibovespa Futuro cai com pacote fiscal no radar após adiamento da votação no Senado",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbm4xMnVuMm4tYnpHWHNLRTVRX3A3dy1ZcVdNNXJvSFdqdjREY3hmYy1YMFJ0ZW9UNXlZeFhmdS1xM254ZXFlNUQzdmhlUDJ6YUZYZzhwdExheF9xbXlBLWxPZFVzN1ljSTZid1BwWlU2UnFGajRtTWh2emt5eWpiUTIwUE9CUkdWdV9Fc1BGTmNnNDQ0dHJPWFl6c2J0N1dIVXh1N2ZjVGI2eEpmWlNWVGxVbXlVdWhxNUNTQ19n0gHDAUFVX3lxTE9QR2VFUE9HWkc4VGsxREFKQVpuSDJSR2pNRHRKNGdmQUE1ZGtFbmVsY2NqaFNoY2d1a3hpeWhDWEtkdktnd25zNW5EejR3MUsxUFJNZzVTTWZ6WFhTWEdHU2lTNjVocUQwY0J0eE5WUXJZbHVrdFVtZC1aMlF0dUl2R0U3RlpnM3BsZnFqcnVySUEtcFNsbXBtcXMwSzNxU0l1WThaQnh4dkIzNHBpS3pHWkk3Wkt6VmZPZEtyd3ZnZE1mWQ?oc=5",
-   "data": "2026-11-18T12:09:51.000Z",
-   "cat": "Lançamento",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fco24w",
-   "titulo": "Por que as ações da Take-Two Interactive estão disparando hoje?",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM0xpb0U4bkliSWgwcTlwT3VNZVJyWWlVajhDZkNfbkNBaFhILUdFanJzcS1sT19ON0F0V2xaTlFmSlN1NU9INE5RZjBkS3I1UFo5aGJpdmRUNnR0WWVRT2FfTUFFcFhOU3BZYXVFcVoxZEI3c2RsSjlrWG4wMlUyeWViS0hTbkxvNUNTQ3NFSm5NaEoxU204SUZPeU1GdHIxQzRrcVBkcUt4MUlsTEhkR1dNLTFhNTRFY0c2VHg0UQ?oc=5",
-   "data": "2026-11-18T12:06:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Take-Two",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11h26zb",
-   "titulo": "Mizuho reitera avaliação da NVIDIA Corporation com base em forte guidance e demanda por IA",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxONkRmTmszLVdPcmUxRGNqRE1ZN3d2a1dDcTVNWUFCTVpFNmxKVVQ3bWd4MEUzak5qd3k2QXhyMHF0dTRsTkVFNkxyX0RPc05Kem0yMmRybFNMV19LSHJDaVRSZDRwZXE3VS13eFdKcEF1bGNMb0xXWEw5N1g1N1dSay1wV0tRU2pOZERqdVNBV1djalNfZGV5NVJmWmJGaGgwZlYwQmJFcF9JYXNtN3Q2MVRaV1Z0RzItSHBUTHN0OVJWOGcyWUh2UlBPS2R1cGQ1MThRV1FkM3lWcFpyQjI5MjNGZw?oc=5",
-   "data": "2026-11-18T12:06:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nwhln6",
-   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
-   "data": "2026-11-18T12:05:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
