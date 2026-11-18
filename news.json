@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T04:12:31.385Z",
+ "atualizado": "2026-11-18T05:00:27.336Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -25,6 +25,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1yia3rm",
+   "titulo": "Kick oferece GTA VI de graça; saiba como participar da promoção",
+   "fonte": "arenaesports.com.br",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVl95ckhrWkZMT2VjN0REVGlaelEwSy1VdjRyQkRSZkx4WFlmTzVyYUFHdmZ0Y1E4OEpGVndoQW1wZ0czclRmWGltTlJTNmJ5UXRGQ0xKYzBZY0dMcnNfQ242VFM2Z0FIMmJfNkd5Ukp2SGpLdXM0X2EyYV9KSEhYbXlWaDgwNmxRQVdBampGRk41b2pLMmhrWVhUbkZtSWZu?oc=5",
+   "data": "2026-11-18T04:46:06.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "15nkuvr",
    "titulo": "Avenue projeta IPO da Anthropic na Nasdaq com valuation de US$ 1,4 trilhão e analisa impactos macroeconômicos",
@@ -1816,18 +1828,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1s0yo7h",
-   "titulo": "Wall Street cai à espera de balanço da Nvidia e em meio a falha em rede de segurança dos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONF9peVVBSnNpZ0Fza2JXelloY2hCc2tjenlFdlYzb2stX2ZFOFRyYThpTzREYThoUGxadGhoN1YyZDgtVEJGUkxjWnFqRXZEV3hPUDdIRmdvdDF0RTd3UjhxZ1l4OVFQaFpQQzV5aTJBX185bmhWRkhmNWNkVFgtVWR4MFM3VFVxNUpvQVBscFVPYVJ1akpzMGwwTG9QXzlDM3oyZXB6MFdWOFVoSEw1cnBnTGRQU1ZHWnc2a0d3ZTVYa203c3Budm5ZWVZlOEhPbW1Ba0FYWGtGU3fSAeABQVVfeXFMT0FiUlRycWdlekJXM1BWXzRXTmJmWW0tZnpqaXBRTEk3MWZPb20xN0lZQkxvR2lJN3VCUXZ2UEkwSG13THJIVnhNQ3BEcHRlZlNKM0MtV01RSGdoTzRMSjN1SHpsdnRXYTZGcmpWV2JXU0xPTkpDaXVTZkNDTl9MNDZ6c0syTjlBV2ZrWFVtcE5wUjRnYmttLVFVMTFEaVJkZTRkMVJ5TFJvR3NjM2FpZmN4RC16UlZVdkRZYWxHc3phWTM4azZ3RVlkbnN1eG1MV1ViME5BdndEcnB2SWhWR0k?oc=5",
-   "data": "2026-11-17T16:05:59.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
    "avisado": false,
    "marco": false
   }
