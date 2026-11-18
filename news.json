@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T22:30:31.537Z",
+ "atualizado": "2026-11-18T23:00:32.804Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -58,6 +58,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "xvj2bz",
+   "titulo": "Preço do IPO da Anthropic fixado em 83 dólares, acima do previsto",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPOTY4VGF4WVkwUlVMMHRKcEhiZVdmeGFrTVEwWnc2Z09qU2ltOW1uQjVRNGpSa3cyaTlMeTFscU8yZjlsYXI5T2M4SktwS1JyNHlkN2pXN2xfV3pyMm9pejYyNmx1bmFBQ1JxZV9ENi1Pb1lKS0k0RXVDT3VPMkxnRm5QaFpEWHhmTWRpbGV2dU1JeFNhbThOR3QwalJKakNTRGJCV3h6YVVHVUV0VlVvak1XOF9fZGowLThr?oc=5",
+   "data": "2026-11-18T22:39:08.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xjlvc9",
+   "titulo": "Anthropic estreia na bolsa com valuation de US$ 1,49 tri",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9wcjZDemxIUk5tZHZrV0lkOXcxTHFEZEVaOWNWbDMtOEplNE5LYXVTQVFQa2V5TWtJOGlsWGk4QV8tRDdYRXIyYWEtU3BUb2RlQWltOGs2QllaZjEwMWFYMFByM000OFdDS3Rsek1qQUZEUGs2bUd1OXVSYw?oc=5",
+   "data": "2026-11-18T22:38:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "5fabp5",
+   "titulo": "Anthropic faz maior IPO da história e transforma seus sete fundadores em multibilionários",
+   "fonte": "NeoFeed",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOW5VUlBZcTZzRHd1Wmp2UHhqSlAyR2FRU2Z0RVM5NWVJSFhTQkNhWUlhOHBJRmxlcENaOElfMTdCcTh4dzk0QTlOV2doV2p1d19WMVBaNThueG5jdG9rMExXcks0aWFNTHlhWDNCM0dlaFl6bGRXVmlfclZIUnNwS0FHaXZJQ1hpeHphNEh0ZnlUSExheTBQUGQwTTBGY0FlMG5yV3JHVmd2MDNVWkZtN3ZGNFdUX1ZDdFlURUI5NA?oc=5",
+   "data": "2026-11-18T22:33:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "yidx0w",
    "titulo": "Anthropic chega à Bolsa com prejuízo de US$ 104 bilhões, quase todo contábil",
@@ -371,6 +407,18 @@
    "avisado": false
   },
   {
+   "id": "m1gr11",
+   "titulo": "Ibovespa tem novo dia de baixa ampla e dólar dispara mais uma vez, a R$ 5,86",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVE05ZDljM2M1OXV5NVFIUjZwLV9qRFNpZWtHSDdGNlBrLUhGQ2NaWGFoc2JraThoNmYxb1hOdU9iS2hVMmlIZGlSaHlpMVlsREhmTDVCNWNWV0EweTlvNi1oWjhpTWZxeXFnT29tb3lqaFE0aVpkVEU2cGpaa2h2V2dpLXliQ1BObEs5V0lsRQ?oc=5",
+   "data": "2026-11-18T21:22:37.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10z2ehm",
    "titulo": "Banco do Brasil identifica vazamento de dados de clientes; veja como não cair em golpes",
    "fonte": "Exame",
@@ -428,6 +476,18 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lagvfh",
+   "titulo": "Ata do Fed e queda da Nvidia penalizam Dow Jones hoje; mercado monitora IPO da Anthropic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNRkd3dko5M1ZPdGhycnNOdm5FYXhSQUtmOFYzZVpQajZobEF0Yy1lZUdCdHJsb0hDc1pWNUNhYmczRG83TEFTZUxPUWtIdWpnc0ZPbVJWM2xJUWpHbnZuTkxvYV9QQ3VjT0VHYzMzOVNQX2VtbXpWcVZfSGdBWGlRVmN2Mkh2V1dzTmNqMm9wd2ZUYWVjdkZseFVIdU5HdUdWRFplMTJGVTI5Rk9VSEVOUjRWeWs1dU9wWFZVaXJoaUZuVWRoa0w5NEkzQmhwVnQ2SnN0SzEzNk0yOWxoVkRGak9XR2ZvZTBuVHc0VWpWWdIB9AFBVV95cUxNYldvbmVRQVZaWVY4dGIzdXFxZWRrdWlVOW1aLVd5MThHZ25kekU3b21jNWQ2bnBxOXpfdG1GT284R01yXzR5NzlVTkFCRHlJTC1LMk1Oc1B1anJwTzIyZ2JITEhYckRtWV9SOTJsd3FjOUV4bGxrd3JqUlF1emJENWFQQ3lVb1JrNUpBdTl1Z0lCVkZsSlFNRTlRMF9GNS11NE9TZzhOa25lMzhMbzRXWVZpbUlidFBCZUlWWjJWbGhLTnRjeEtSc05uLW9EaDJUNFozMExDVklGdXZTRWZFNVpHb0lYbWxFcHJ2Rm0wTVFwc0R4?oc=5",
+   "data": "2026-11-18T21:12:31.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1103,6 +1163,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "anq94x",
+   "titulo": "Empresa concede 'game day', dia de folga para funcionários aproveitarem lançamento do GTA VI",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZE9zekNtR282UTl2MFZfOUdqSmNQSzBMc202QWxTblJ4OGxhMmRZYjNYcmJ2MmJyRTNNM0V4cl82YzVsSnJGMW9wdFZ2NlE2SGRMRUdRVTYtUFBtXzJKR01sX3M4eU9Pc3NsNFFGbWN4NnJJSFYyZHEwQ2ZPbVV3SVF5ZmZiMFVhRnRLNzFiWHlmZlRoaVp1QXZKUnBFOGJXMFRNcHZLM3BvMFZpOXhka0hadE4tTHVIdmVxaVdCdG91Ylp6bEEzX1RBdjZxWnhRVG9ObDd6X19POEd1YkhFNHFZY3BCRksxV3BaQlktS1XSAf8BQVVfeXFMTmNiVlJ0dUlLckl3bjdBTm1ydHFZUTFzRkZyQ250V2ctZkNfbG1VTzh5clRkVnVrQmtacFFaUWR2VHJYSFMzY1lsY2Q2UmpiQkt3WWxvRGlwaC1kME83ZG5Zbmt6V01kVjFrZE9IN3k3c1lBLXl2MmN2eXN2dzVUVnZGVkZGb2VKSmY1TXNDTXdQNzc2T0tPSmJ2OXplNWFTNnFoQ0c4UVZfSVpoSjYwaFpubEtvN1hjb0RpdmtnTUtOYy1WMDNzWWEzelplOHp1WFJVXzZrbWlvdHR6cmtYa0d1TzByc2VjU2g1bHk4bjFOWllOMUd2Tzc2YzZJNTFR?oc=5",
+   "data": "2026-11-18T18:49:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1789,78 +1861,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "vbgtf7",
-   "titulo": "Meta lança Achados, aplicativo que reúne anúncios do Facebook e Instagram",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdFhyZmwyQjZHTUJLWUFnRmNjUWNOblQxMmZ3RjN5aWtxc0JCWXFINHdFUkJmQnd1by1icXE5dEJQTVVMUmc1dEl3MUtjNVlMSnl0cEpIMUxIbHNfMlJkY2JxSm93aDFJWHZXb2E2WXBWY1JMbVZrUGRmZDhPNXdKZUVCX1lYdXk3X05oYkIwSnR2c2dYR1lOcTRlUHl4N1VHZ3l0eVRWQ0tWWTFL?oc=5",
-   "data": "2026-11-18T16:18:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yycndg",
-   "titulo": "GTA 6 tem quantos troféus e conquistas? Veja a lista completa",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnVqOGljLVpwTmI1RlFFcVJpYXhQZUhsQ1c5T0tDRnA3Z3VVcElJalBmTm53RTVnRHNZSTFhX1A3a3ZYaHVCNjhSTUZCQWtvdEhUbWhZNUNialY3VkNQNnh3SVN1Wk1pYTZYVzhmUnFsZWxBNkJEVno5QUpXOGtWcndFTzhRaERQYkNNOGdQZGItUE5Za2xZcmV5ekZqV1pSNnZaZnpB0gGrAUFVX3lxTE83M1dULTB3YlB1OFU2am4tX0hENVc0ZlF4SEJja2trWHZhdDhhMURfVjI4VXgyWFhuNXBzWFVYSlFpNTZrN2JXazRHa2ktakpyQzZsZ3cyZURWZ2RMeGpDbkFWREdXSDV4SzZRY05CWHB6T0lKLUZKRnBBQlU5UHJxTTlqbXduREhTU01KTFhrbXp4RGwzNkhvUEo5dHNlZ25JcnFIZW8ybkRXZw?oc=5",
-   "data": "2026-11-18T16:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t7e27u",
-   "titulo": "Resultados do 3T da Nvidia aliviam preocupações com a demanda por chips de IA, mas empresa ainda enfrenta três grandes riscos: escrutínio sobre exportações, financiamento de clientes e sucessão do CEO",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd243bjFKSGRGSmgzd0NlZUhVYVBNdk9IeTlYTFNZcmtneUlQemxBV0libzF5LWJ4REVNb294OU1Md1B6Ujg3aVQ4Z0NEaUdYc1hCMGl0clpsNzVydXEzZGY3RENvNUU4SVZ0R0dEOGphNndDd1psTHhZdGpScWhSUFQtRGNRbkVOWkZndV9fOWlYYWRRMTkwd3FrbjJyZDJGbFo1Zk5BU1Z0d2luVXhzVXhpM0JqNHU0bDl3OE1IUlZnRGxlX2lPak83Tjludw?oc=5",
-   "data": "2026-11-18T16:13:47.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ut1w0m",
-   "titulo": "US$ 400 bilhões em interesse institucional levam a Anthropic a considerar uma captação em IPO",
-   "fonte": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSEh3X2ZJT2RNWFVQcmFOM0tGaW1JRXpUY2o4SjJxMHBXSkRNYVFUd0x2UGNIR1ZDaGxLbUlWOVdRUmRWRHJuMGhVZHIyMHBQRXk1U29OR0NvVnN0Tl9meXdKdU80dTdBSHNaT2FxMkxLQzdBZDN6RFJDNC02QVBIR1NXcDZNRFo1STVnbzBrSkZuNEJBVG5qMWlR?oc=5",
-   "data": "2026-11-18T16:07:01.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ocvuvh",
-   "titulo": "AMD conclui aquisição da World Labs e nomeia Fei-Fei Li como cientista-chefe",
-   "fonte": "www.jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQTlsR3MyV3M5TEprOTY1UTdZaFh4Y2IwNmZxLUprNTljSW1Ea240NFVBSDR1M3gyTGpKTlFzLVBSMTl3MVRtQkxNUkxhalNFVEhyVnZSMTRBeVdVTE9PV0U2WGw1VTY3dU9KazRYeFI5LU9iYWVvbTJHYXNLY0ZBRjYtZ3BONWhzQkVMZ3hQUUNETWdWLUZOV1B4TFR0SUVBVzdEbGZRdWlpX0lBMEdr?oc=5",
-   "data": "2026-11-18T16:03:17.000Z",
-   "cat": "Corporativo",
-   "empresa": "AMD",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1189gy1",
-   "titulo": "IPO da Anthropic: quem são os 7 fundadores que vão ficar com US$ 18 bilhões cada",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVUgzaXBvM2J3OUx0ekxQdUVmUmk4LWxyVURYblV4UnlORFR2TlRLbEVzbllUVUJmdGxDZzZNV01kUjFyRzN5UjlSaVVfZGlrS0tVYktMWDJNQ3RWc29xZXpKS2VadlUzaXJmUm9oQ3prazRyRnh3UEpnVnN0RC02S1VndUFwSHVldWJkVklrbTMtM1dZdlRmVm54NlpEclNFOUdEY0FLOHRuRnBBRzBaendRVDc5a3J6TUxfeG9GZy11WHpYU294Y09JZjQ5QlJhYXpJ?oc=5",
-   "data": "2026-11-18T16:03:03.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
    "marco": false,
    "avisado": false
   }
