@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T18:30:34.766Z",
+ "atualizado": "2026-11-18T19:00:29.603Z",
  "agendaCal": "2026-11-18T15:00:34.522Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,66 @@
  ],
  "itens": [
   {
+   "id": "15a2m6x",
+   "titulo": "Anitta no GTA VI: cantora está na trilha e terá personagem",
+   "fonte": "Meio e Mensagem",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNERWOTdrNEpFNDN4Q1hWTVNUUV84UjB5Ukdla2lWbWVhdU1lRGVjM1RlalktOWs5SjgwOTJhaFFYLUQ2WThYUVFKdUduQlhKZFE5eGUyTzJvcmZjRVFCeGVvVVl1cjdfVWFRR21Qa3lXeTc5NzE4NGdwbVNEMkUxcFVWSE5VRENsVm9qLW9tcmhjbUh2RWVvbGZMSzdnWGZUX2c?oc=5",
+   "data": "2026-11-18T18:55:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1tflgv6",
+   "titulo": "Frenesi do GTA VI destaca possíveis riscos de seguro que se escondem na infraestrutura digital",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5xaUlkZmpDblpvZGI0X1NsWElHaWpQdzM3Y2xsODN6RFRnaS1IMnBSa2s4NE9hNEJQXzltSVE2QkRscEVDclF2b3VkZE0tYXltX3J6RC0wOEhFbUJENjZuNGZhcEo2VnQzU3VGWWZPNVFUMDYwZUtZ?oc=5",
+   "data": "2026-11-18T18:41:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wsv768",
+   "titulo": "Agro tem 2ª maior alta no lucro, mas 3ª pior queda operacional entre 17 setores na B3, aponta XP",
+   "fonte": "AgFeed",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXRSdGRycTdlejMzczFOeW9MVkY4UEtxcUIzLTlHdEZxUzVLN0pXSkZzSDFGR1BvQ0doY082YU5HcEF1cDhGWkFpR25KVGpzWFVKVnBGLWwtcS0yaFB6WmJnTnExZi1TUXFWdGR2cGZDblliNGpQNUd1ZWVZOFpWOVdJTWtPa2xYZldmVlI1bF9MLUxhX0pnUTVobWJnS1hFaDB6YmtNNlZpSG9WTE9aR0kxc25tM1ZHME5helpKSm41cUpL?oc=5",
+   "data": "2026-11-18T18:33:00.000Z",
+   "cat": "Resultado",
+   "empresa": "B3",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7mt0t",
+   "titulo": "TIM reúne creators para jogar GTA VI em primeira mão à meia-noite",
+   "fonte": "A Crítica",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVhCNkl2aXh3TFpabm5JaUZkMk5wdTRRMldfVGJkbmY0MUF0NTRXSVFtb190bDltZ0hDYXVwRUplejJBTE1zQmFXQk0wZXg5WTNSajdyLVA4M25TUWFya2lpemEyelRVTWQtOHgzaThPZWlsS3BuR1A3MFB0YUp6SDlMMk9RbXJDSUZ5MHBNQld4YXUxcldKemhXTldxb1h0Uk9uc1RtRjludw?oc=5",
+   "data": "2026-11-18T18:28:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1s5awl3",
+   "titulo": "Durigan descarta recessão econômica e defende ajuste fiscal e reforma do Judiciário",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWlhTkdlWFNYdkRKcnJMZkViREdmcWtTMVFhZlFFVXpLN0V1bWlyZTJXZ3ZxdDlXa2pjRjNoY0kxRXY4Xy05LTVNUFBxOWo1SWRTcnFEOHZvREZhNWNqTloyZHFwY3c2SDgwNm5uTVpEcjRoZzBrQnV0QU1yT0RlMVRqX3dHbUFiQnVLdVhIOFBKRXNFeXEzVVpVN19mcjBMeHEyQnpHWEhtMjNrYmZyZ0cyWnZDSmRrdzQ5d0dMTENzQU5oZlBGOERLQUlvblA2?oc=5",
+   "data": "2026-11-18T18:28:00.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1bw8vl9",
    "titulo": "Twitch terá recompensas especiais para fãs de GTA VI",
    "fonte": "Portal ABC do ABC",
@@ -63,6 +123,18 @@
    "avisado": false
   },
   {
+   "id": "75o8ro",
+   "titulo": "Anthropic se aproxima da etapa final do que deve ser o maior IPO de todos os tempos",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOUpsT2xhOURlMV8xVkVwcGJTRTMxdjFQWWJYODloWUlWUnF2SENNcjJnWUt0aGFCTnRXbV92TXFZVWQzWURFdTlZM1Jvb1JNZnA1R3d2R0ctbngwb09UTUR5WXZuX3hlVnh6bGt2dWFEM2Y5ZlNaOXdUS2IyLVFMQXZ5ck9JM3BER0N1UDE0SGFGYWZQSkRkVWoycGI3OEh2STA1Si0yTmNyYzI2cFZYT1ktdlk2RU5xQUlwZGd2cjFTalV2WWg0SFNvc2Vmbkpjcjc4OVFLQTI2VW5DN0HSAewBQVVfeXFMT2UxTHRwcU1ma3JkYnZXUWJYLVNzc1o3QkNIeGlEM3hGMmxGeEZJT2swaG0wMnRhXzVNN0lkSG43aWRTcXozLVg1X1VVcUpRZHNPTmtTU081eVR5OFM4eW9EdUZ3TDBVSzVxbUwzZUNpTVlYM0VnNkowMmxnNnFNZjFuQW9IeGRKOExMSUpwaTJDMzBYZFpzMl90TjdaMEZneXFKZDdrNUlGazZSUXVXOWF6T0pUTlA5NlhScWQzcGFfSU5KMm13YlhIVW9iV0dKZHlzU3NwanJUVl9laTE5Mk1QZk9FSUVTM2VDbkY?oc=5",
+   "data": "2026-11-18T18:24:41.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "itsy87",
    "titulo": "Microsoft lança defesa cibernética com agentes de IA",
    "fonte": "TeleSíntese",
@@ -71,6 +143,18 @@
    "cat": "Lançamento",
    "empresa": "Microsoft",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15cnibf",
+   "titulo": "Chega ao fim a espera de mais de uma década, jogadores descobrem superprodução GTA VI",
+   "fonte": "Folha PE",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUXNuNFpkNXJyVk03WG13NjljYW1MbUI3aDFhTUY1MnZUTnRkbHQwNHBrc1dUVG5ZQlZ0S0Z0djkwcnM4X0FRTEN5Z2xfVm5MX2FrR3hpVGZiRkZOLVZ6UnBkVkNFYTJzNXlJMEdCX091b1pjbFp4T0luN3RxRUQzblVmVTBIVWxiY1l3WVVSQVZ5aWlRbG9neXM5U1N3bF9kS2N2SlhkQUIxS3pFem55Y0lGV0JfdG5EMGxUVzBiUHRGUTBHc0VkMnltYU01cndFb2NuUENmeUlyakotX0xBLTNn?oc=5",
+   "data": "2026-11-18T18:20:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -96,6 +180,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1oezqro",
+   "titulo": "Seu Xbox One pode jogar GTA VI; entenda como",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1dqamVzZkpPT2xhWkk2WjJ6V3l4WWxjbExiRXNjNEVoMmJTQUE2WDNJMXVhODJOM1Q4ZldhWnNsN2R0aEhjcW9yYWVCZDRDbElnVk5adkNCSV9sV1dncENJa09kQUhvWGtVb0pPZnBGRHg1UWRLNFpvTUtXZVlHNXRCbDhqWndUYWJDU3oySW91UQ?oc=5",
+   "data": "2026-11-18T17:59:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -136,6 +232,18 @@
    "avisado": false
   },
   {
+   "id": "yjydl9",
+   "titulo": "Como o XBOX Series S roda GTA 6? Rockstar usa AMD FSR 4 inédito e mantém Ray Tracing",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMXhtQ1pJTkJxSkxTYU1YVkJzUDc3UlJyemp2VWo5ZDUwUEJUaUtLRGRrMHBxSlhEMzBsbXNwRFMzMkZuNXJLN1VTeDNDYnBoRjV6TURJS1JLNlFOb0NZMjZDQ1hvUjRoTW9Jc1ZzUTdFQi16VDg3N1FjQkxoa0c0X0JVQXRMWVpmeV9yc0ZxQkZIRDl3SW1OODRma2pZWmhlTFBabUZOb2tYZ0haY19YQ3ZwOUhjdw?oc=5",
+   "data": "2026-11-18T17:41:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "13zjb8p",
    "titulo": "Nuuvem dará cópia de GTA VI a 86 funcionários da equipe",
    "fonte": "Portal ABC do ABC",
@@ -143,6 +251,18 @@
    "data": "2026-11-18T17:39:09.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ti0ifl",
+   "titulo": "Investo Lança ETF Que Replica índice De Empresas Do Setor Elétrico Da B3",
+   "fonte": "Cenário Energia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY1FTVHJzTi1lenNQMy1OMy1xU0EydXJ0el83c3Y1dkN5Q2FCbkdyZHdwbm5iMHN0c0RKLWU4c0JlQXF5dkRGVE9JeXJpSXF5RmctU2YtYXdMZEk4U0UxdnUtQjRYX1BnUE9HNDRPbURXSUw2b25INVl3UU5Vb3JMRG5wd3l1Q1JFY3FUMm5NdVd5SmlvN0M3ekdDZ3RucjVmWlZGRmk4UUUwU1NIRUdFRkJRaUY?oc=5",
+   "data": "2026-11-18T17:38:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -180,6 +300,18 @@
    "cat": "Movimento",
    "empresa": "Apple",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "sq53d7",
+   "titulo": "GTA VI alcança US$ 1,65 bilhão em receita antes mesmo do lançamento",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMnkwdVJfX0hXYmY2MUdfNVJSRnYyVHJGWDRpc2NqLVFQZ0Utd2lRNkM0WkV6clNqR1BmajdrWDMyTEsxQlBMYS1pclc5aVNJLXFXQnVoOWJKeFZLdzUwdzVXcFhFbno3Y0tlRWRtZmJXRDBXdThzR0RwRWFJOGVXUUFkSkI2ZnhsOGNfcUZodXMxQjc5NlA5ZVVWMzAydFhGTTBXTWFNSV8?oc=5",
+   "data": "2026-11-18T17:32:17.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1720,138 +1852,6 @@
    "data": "2026-11-18T12:54:09.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xn9zru",
-   "titulo": "GTA VI chega após 13 anos de espera",
-   "fonte": "www.n3news.com.br",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kc1VUbGZEYWFxdnEtZFhGN1MxOHM1RVh3UXBaNmRGT0JFMlBybXZ1NXBfUXZrUXIyWDByUGJzUDdBLVRkWkdWQnROYU0tRi13bnpac05sdFdDS0xoSzM3ZXJWWkZ2dGlScEoyNjFlUEtIUEVXSUpmag?oc=5",
-   "data": "2026-11-18T12:50:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5qv2f3",
-   "titulo": "Ações da Take-Two disparam com críticas elogiosas ao GTA VI antes do lançamento",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdHFuWXFlWE1DNVpnQnhVRjhIaFNGRWU2WUtHcWgwM0tjdnpmM1Z4YVBCNmFBRVpQaEJMdmZ1VnJKQ2VUaUUyZExKdndlaW5Ed1E1SzRRd2ZUUXBjQTEyblh0a1VIQy10YzRsQzFFTmViMXcwRW54TzdWTEFTT0pSZEhDSmRXbkxyQmNFRFlCTk5wWXZGbVJIOThLTDlIOEc5TWM5MGVoREJBUDRvLVM3djB4SlNKWDY5ZEItZUJuOE5NX3hBYUx2ZjdOOTRXcTg?oc=5",
-   "data": "2026-11-18T12:44:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1g1karr",
-   "titulo": "GTA VI alcança aclamação universal e estreia com média histórica de 99 no Metacritic",
-   "fonte": "TV Guararapes",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPS1pMdE1qNWZmRWpoYk96bGpNbkk1SmhaTHd4QTFIS0xlb08zMW5WMWRIVzhiYzNuZlRIekpzRVZKcm9UeF9LT1oyVTVneXRRaFhxTmxCR0dwakx3ZXFaRkRYSnNUaWl4aENiLS1FY3BzS1ppZlU0QjhSYzV6d2VENjJfcGwyUk5EMUJtV05GVy1QMWtDbFVUZS1qYUplcHlKem5IckJqQm9yeGFpNU4xYS0xS2FNU3RNTnF5bUdBVmRYaU96Y0NjdjV1U3BiVk1PZ1NXVVBXU29lMlk?oc=5",
-   "data": "2026-11-18T12:42:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1xmkv1q",
-   "titulo": "Resumão diário #2235: Fachin recebe relatório da PF sobre ministros do STF no caso Master; Sai o gabarito oficial do Enem; Expectativa pelo lançamento do GTA VI; A reta final do Brasileirão",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxPSEF3VU4zRXo1V0YySFYyMVhVbkRjVjcxUkZuZjFyb1oxeEJtdzQxVE54SkdObmUwWjVWVk8wa2ZSNkZGWTUyY3E2RDZ3VUNsbEJ3VjZvcHJZRXljTjFWYlVOcDFEYVJacWd0djR3U0dxeFdLTGUyVDNEcFd1aVBfZzhNWjdVakJSX2NybHFPdDhnR091N2dSemgtQzlfeWxvUVlpVjdLdlBKd3ExMnNVS3NoLXhRVmpycXYybWhvMUlueEpUTmR0eEhCN3dqZ01OdGRFVFRjX0FaSVVMZTMxM3V3dGRXTnQycHhLb2R3X2ZZUi1tZ05rdFJpY2NUdVpkNTh3T3pIMVZvSjdEMXBkX21uSnRBemd1VzhVdDVCTGhxU2Q0WHh4QzhPZEhwWV9WRTNNeTZoRUdEcXpqa1Vqc2g0WFFqSkRaUWxCMEpFWkw0MVJ6Vm9kTUMtZllzM1lVbmN6WEpZUGJTV25jWGfSAfwCQVVfeXFMUG9LSWFvY1FGSFpHMzlsR1Y1b2Z6WGNETDBtbVlQX19tZjFwMDctaDFiM1RiZGFfR3BhbmZGd0s4ekZFQmZ4cGhaNDJlRGNzdXNzWlJUREFSeklEU1JkdzhZRHdBQzE1RFo3eFUyMTR1S1FkQTFRSzV1QVg4Ynd5WVpmYnJQWGlXVVhaTkxHRTRfSTVHNUJENmp5VFhNMXRWLVZ0MTVhcXl5VnpjY25MbmExaTFHTk1vcFNudlJEY3BCUzhsT2VNeVhobVBCajQ1TWxJMnBPMmYtcTE5NmJYX1N2TURXZ3lQT1ZNUU1uNWw1NDg1SDBHd3FUUkdhaUMwalNQeXV0RnNTZVVKS2NodDhpRW55Z0ttbmlPZ0dTV3RwZmloQ1NhWFRiS0Nyc3BMLXdscnl5MV9SX1ZhM0VOXy1iRlI3Qi0tX3lkWjZhNGF3QXhWZFJXT1V5ZjcxYlhtSmN1MVdvLUxnbnpHNHZFTk0zQ2JLUzYtS1VhM2M?oc=5",
-   "data": "2026-11-18T12:41:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "u8o71k",
-   "titulo": "【Pré-Mercado dos EUA】Resultados da Nvidia impulsionam ações de IA, precificação do IPO da Anthropic e ata do Fed no radar, ouro cai abaixo de US$ 3.800",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQang3TTltQWNIWFdZSWs3UjdwTTNkV2RlN2pocHdudjRtc2dFZnd2S210OEwxZGx2YnVCb0FOZUhlTEZET1FRMnROM0Nhc1F5dEkyQmpTLXpDb2w3MWlYdnp2bTFoVHpPU0ZIeGQ4RjdXTjVzaUZFTU9YTFVPN1FrWjJVbHE4M3MzeE02X1BzMlhxYUwtbi1SUzBnak0tb3M1Mk1hYTRIeFI?oc=5",
-   "data": "2026-11-18T12:41:43.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "186s0yo",
-   "titulo": "GTA VI é lançado na Nova Zelândia e bate recorde histórico na crítica",
-   "fonte": "Jovem Pan",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSWVzWnlJTms4RXU3bl9qLVVzaUQwSUpjYWFpemxod3JwTEtFRFFRUEs5SDhsVURWUFRJZlBYUmFOaWdZYXVIdlk5bHI5dnpXeVBlV1FpRUJsX3IyaTZvN3JGek5lWmxfaC1vMlkwR3VVcHlGVTh2bVQtOWw5V09oX2g2akFZSWZqTkt4Y1gxRURmNk9CNWN4TkRBeU9acTBKX3ZZb2s1MWJQOXI3eXc?oc=5",
-   "data": "2026-11-18T12:29:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15fxm9d",
-   "titulo": "IPO da Anthropic: dona do Claude define preço hoje; veja o impacto no mercado",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWNlaDVuZmEzbS1ZT1FJaFBjZzZ1X1hPLTFxMmgtdHVFaWk3cUlWU21mV1hEODhzMVMwZHV0U1VaZVJ5QlA4NmlCN0FfSDMyZ0JmZUtQNWZ6THhpT2M3WGloUURROFFrOWEyNGRDalRneTl0NmsyajBLOWkzTTFNMHQ0ZE1sV0EwaVk3SEdJd3ItTmJ5c0NKY1pob2RoemNIOW9yZWMzUGFxcUhiVUE?oc=5",
-   "data": "2026-11-18T12:26:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "jgfrco",
-   "titulo": "Nuuvem presenteia funcionários com GTA VI",
-   "fonte": "Alternativa Nerd",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYjRPOVdDNkhucDdCRmdER21FMmNZVDZoLTJXckozUFI4cHBTWmN6b09GNXVGb0RRSFZja3JjR0s5U0hLdmhVM0EzMzA5ekRxT0M5Y0JCblE0Q0xRQ1J1SkREODBJd3RvSXQyTFR6U2pBTXJrTHJiZFVxS292aV8xLTk0a1F3Zw?oc=5",
-   "data": "2026-11-18T12:26:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ojneij",
-   "titulo": "Culpar o IPO da Anthropic pela queda no preço do bitcoin (BTC) é \"fácil de acreditar\", mas apresenta falhas",
-   "fonte": "CoinDesk",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPOXBhUEpNbVdEQUhnd2lJdkNhZk93ZDhkaGg1WFo2UjRUblhDZHVvWmJKMGhMdFJyV1pMTU9MYndoOHJmVTEzaTBCbmhvSm9kcENZb200clJDbGNtSW1MaWx4b3p1WFdsWGU3MHg4aGlyU0ZTeEdDOTdmelZpYXNFdWJ6bkFkeHExRnBnZFJfM3VmdUtMaW1kUDFRM1NQSUk2aVd5UWZDd2VWSUUzcjdNYUlkQW9wcl9tV18teVpaYWxXU1FqemMySURNbG45MDZRbFJLNW93?oc=5",
-   "data": "2026-11-18T12:22:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18ik794",
-   "titulo": "GTA VI vai testar os limites das redes e da capacidade de armazenamento",
-   "fonte": "Tek Notícias",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcnJkWXlaN0h6VFJoUjhxREhCUXBpcFlWeUNTOHM4SGQzcUI5SVVZUUQ4N3dGaWJRMnZqazBhcVhZNzBULXBpaXJfUl9NcFBSazFlSGd0RjN6XzNkSGx1Z2kyM1dnVnY2QXRLeVp6bTczekhRT01ET0s2SXlHTTNuN3RFV2c5UEJ0RXZVdHRyMEw3ZEpWcVVRSW1oTTN5Z3NNaVE5eUQ3QmNRZzVkWnhqUA?oc=5",
-   "data": "2026-11-18T12:21:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1d8ra4j",
-   "titulo": "ACESLO lança campanha Natal Premiado 2026 com R$ 50 mil em descontos e R$ 15 mil em vale-compras",
-   "fonte": "Rádio Independência",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPLXZMOXBMNGhfT0dtZmxtdy1vSXRjd21yTFd6c2RnX3FIb2xObkFPazJIMXFfYUs3WkNjQkwtMHhBMGVKdFNpSTVDZ0Y2aHM5am4wOFk3bFo2OHVjcTFVa0daOGdINjdJNEY0Q19qOWZUN3RIQVQ1bG1YalZHVXFQUWdIaWUyOVJxVGF4UjBUQzBtb1h3bEZWenZkcTdYMjdwZWF5d1BIWlZhY0w4eVRXcGg3cmpHZ0lQUU91TENYMlRVNm9nY0FwSmdQa01SUHVWRndySHNic0ljQ1E?oc=5",
-   "data": "2026-11-18T12:20:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "Vale",
    "score": 6,
    "marco": false,
    "avisado": false
