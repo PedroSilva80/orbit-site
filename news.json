@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T07:30:25.721Z",
+ "atualizado": "2026-11-18T08:00:30.090Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "g7o4yz",
+   "titulo": "AMD conclui compra da World Labs e descreve plano para equipe",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmh6ZkQ3WTV5T0wtb0tEbEFiOHIySXB4cXBuelExdXlnZFNTb0VYTlpYYWEzT2xGczNfU3J0dlVHa0pvOVBEeE8yVVJ5Ums2bmo0VGZjejdueUxNRm9MeDRKOEJfQ3gzaXNpZEk5MkRfbVBPNVUzYnBjZUl0R0FsaXdYeFM2TVJBaFlOclM2ZlY?oc=5",
+   "data": "2026-11-18T07:48:02.000Z",
+   "cat": "Corporativo",
+   "empresa": "AMD",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "4nshx6",
    "titulo": "Horário previsto de GTA VI no Xbox Cloud: 3h no Brasil",
@@ -90,6 +102,18 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1d31g0i",
+   "titulo": "IPO da Anthropic pode impulsionar o preço do Bitcoin, diz Arthur Hayes",
+   "fonte": "CoinMarketCap",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVc1OEdpUGhNdUxCSHg0QVhDV2NVOUVYTlFJaVQxbFRpd2x2clozbGZVSXFlYktqZzF2X19NVkhhQ2ZRelVZXzE0b05MWFhnNWp0NXpBZW1hWnRyMzNxa2RpRHc5ZGJiREM1ajQzdUZUWVNvdUFtbm5EUlpaOTM1M3JLSVI?oc=5",
+   "data": "2026-11-18T05:46:16.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1813,30 +1837,6 @@
    "avisado": true,
    "marco": true,
    "avisadoEm": 1794946650326
-  },
-  {
-   "id": "1nskhyw",
-   "titulo": "'Se o conselho decidir por meu retorno, será uma honra voltar ao cargo', diz ex-CEO da Nvidia na 1ª declaração pública desde que renunciou",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMjVXWmVVejNRdGthN19pQjhONXZRMVZDOGJDM1gwR3MwTVktNGVVclZibXRYWmpLVnlvNmpDRWRuaXlwVzcxUThweTRHejBLNnFFT081QzBzUTliUnhuT2ZuZ01YY1R3LWtSVFNNYndlU2Zvdmo4V0dQakZzLU1FcGZQZ1BFMEhlNUZ1RHp4RnJLR18wZUFhdldFZHhzM1dfZm83eEpxMEVHZE9ickFoT1ZVenR5bVNpZTJtakt3NWluQ2lMQ242cElxQ09rajF4T3fSAeABQVVfeXFMT1BFeVpZamJYYUdfMjhHSTJJYnhuUEF5WGxvQ3EyN0N5RmhEbTNabnVzZXR5UlN0cGJIV0pob3ZFaGhOVnZwZl9UQjkwaXBaOHRWNi1jeTZOR0dSOGl1eHlLdEoycW5QODJZM3dzWENkUWdGSUJ0MUN1UGxlSlE4ZmtPVHFqWV8xZnE2QWcwWDhRSWd2ckUtUEIwT1EzZjVYUzV5TjR4T0RmRFRFdmpnTmhvMEQyTHRmam9SNkhFcjNRNnVGczZPRjd1VGdsTFRoYllZUENpXzFDeTU1eC1BV2w?oc=5",
-   "data": "2026-11-17T16:27:34.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "1x4jyxx",
-   "titulo": "B3 lança BDR da Anthropic com estreia simultânea ao IPO e preço unitário abaixo de R$ 100",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSk43d2dnUlgyLTF0djZScWgtMmVTbl83QmJRbVZtUWRCekFpakwwWTR3WF95OGJnTmdoVFdod0FKdWhvOE4yOHVIYXBRZkhCR3R5UHk4YjJfZjM4QXBCaVJxczRjZERyb2phd0VabXF3U0VyOHFBV3lmaUxEMTc4UzNvU2YzNVJKMGZOOHdSbw?oc=5",
-   "data": "2026-11-17T16:24:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "avisado": false,
-   "marco": true
   }
  ]
 }
