@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T09:00:31.327Z",
+ "atualizado": "2026-11-18T09:30:30.307Z",
  "agendaCal": "2026-11-18T09:00:31.327Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,30 @@
  ],
  "itens": [
   {
+   "id": "6zcm8v",
+   "titulo": "Bolsas da Ásia fecham sem direção única após balanço e projeções da Nvidia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbHBwMllYWjBvVHczbGhVNjdlSGZTZkZhUjRGMTdYT2RxZTJwQ2hZTFAwMG1ieTUwYU9XSnBlajJ6Vzg3cVhQRWtsT0s3VzlrV0pkeTlFT3NtdEhQTWlGVkptOWQ4LVlWSXdEQ2tDSDFnbGRabFhHa3NvZ3N6VWF5WUNVVmZmX05iM0UyakVOa1F3cVhkanRvb3lmNWVTZlhzSm42X2UyYUxsR1ZzeVd3bkhjWFZqc0IyTWRaUEVsQ293T2hreXBNWXlpZEpCSGplVGZNN2R2blc?oc=5",
+   "data": "2026-11-18T09:26:48.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2lpfw9",
+   "titulo": "Tempo real: Ibovespa acompanha divulgação da ata do Fomc e do fluxo cambial do Brasil",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9VT3hqVHp1SnlpSV8tRGRCckFpeEtFdFU4aGgzU0ZFQjlTd21vWDlBZkY0WWFFQW5ZRzZnTnI3c2FNLXZMa1JRTEZOaVMycXRyaVlVR3BJdENDWFlzWndFMDFKNTBYcWJK?oc=5",
+   "data": "2026-11-18T09:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1i79rtl",
    "titulo": "Investigada por envio de chips à China, empresa ligada a amante de ex-CEO da Nvidia tem escritórios vazios em Singapura",
    "fonte": "O GLOBO",
@@ -66,6 +90,18 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1el73pk",
+   "titulo": "Ele largou a CLT para jogar GTA VI: 'Não tenho dinheiro pro próximo mês'",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9RMXVoTHk2djRXbTlvZTl6RkJtOVhYSllULUEzNU1mVG56aUpDTVNuYW5YLXFvYVRFQzVoT1g2MnRVUzl5OU1RbDJacW55ZW5wTWlnekNuN1VOVUxYRGVPT1p3ZGtTRnM?oc=5",
+   "data": "2026-11-18T08:32:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -214,6 +250,18 @@
    "avisado": false
   },
   {
+   "id": "swjkli",
+   "titulo": "Rockstar promove GTA VI na China, apesar de não ter aprovação para venda",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1XdDNSOExpdElxYklseVQzdWdyYWNxTjk1dnJzV0JncVJORlV2b0NHY0J4LWYyVzR2VVBkMjVJdzZROXZTWkh3cGhKei10aVdzdEFzSldEUnF6WXprdVltNHdDdmpxRFpTZ2VyOFhPRFcza3djTzJJ?oc=5",
+   "data": "2026-11-18T07:52:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "g7o4yz",
    "titulo": "AMD conclui compra da World Labs e descreve plano para equipe",
    "fonte": "NeoTeo",
@@ -234,6 +282,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oyhg11",
+   "titulo": "Sem planos para ir ao IPO? Anthropic pode ‘chegar’ à sua carteira ainda antes do Natal",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWU3UkJ2c2hzaGVuNDNtWnRjdDBjZ3dyVzhEeGRUbTNOWmxlbXdmYjZYaU5IRFF4dmtiTEh0SlhrSkJvOHE1UDdSblFNUHBibFZmaE1KMmpLUDF3ajhmWU1Nanl0ZVozQTRZSjBlSzNlSVpWZVRwdnNNVDhxb1p1S1Y1REdvLV8wbm1NaW9MYnhaV3BydFdWdXlKSHNFeEtLdktGbGVEV1Uzc0VzcVNMRmRlMVVsUQ?oc=5",
+   "data": "2026-11-18T07:11:44.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1404,6 +1464,18 @@
    "marco": false
   },
   {
+   "id": "13f35el",
+   "titulo": "Jensen Huang pode voltar ao comando da Nvidia",
+   "fonte": "SempreUpdate",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSckhrdEVLWEI0NlJHMXFTcEpTbVB1aFdLSHIwWnhWN2lxcXUzNDZjdXFKRUotaW1mcXRnMjJSN3Zad0d2cktGaXYyUnZMR01vREZHR2N4blpWXzRyWUFBY1lkMGduZ196WWhpTzZUTmtFMFZX?oc=5",
+   "data": "2026-11-17T19:00:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "4g5mfg",
    "titulo": "GTA 6 transforma estreia em evento — e mira US$ 3,25 bilhões na primeira semana",
    "fonte": "InfoMoney",
@@ -1763,78 +1835,6 @@
    "score": 7,
    "marco": true,
    "avisado": false
-  },
-  {
-   "id": "11rqx8g",
-   "titulo": "Meta lança Achados, app para comprar e vender itens no Brasil",
-   "fonte": "Tecnoblog",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR3FmdVNHNnlZMWhGTm41eGNaNWJjUVEydjZ0SGZ0MmhxMk03MEhMNWRydmpTZWw4X1Zfc0hzRW5Hd3pjNE9tX3Z2LTJRSFB3UjgwZEh4ZWtLQ1ZDSHhyZ2RodWlyWFIzM0V1MmQ3cGw1QzdKdFVvc3dKWEx2YXZFN2hPREgweWh6QTREa005RzVycEMxMlRZ?oc=5",
-   "data": "2026-11-17T17:44:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sje3ia",
-   "titulo": "FII dispara 3% na B3 ao propor compra de torre de escritórios no Rio de Janeiro",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTml4TFdSUWhLQ3JDX3Jnb2pDazZnUXJqS2tvZ29IVUhOQ2o4UFVQN1RTblFlMTdUU1lvQnppTEJhYmRsMENGY2pmc2ZIWFk2SVVJQmhIVTdYbEdlaGR0QWxzZkxIMmxKWnNYWDI4Tlh3YVFuTFAzMVJVMVZQYTZDaTY1T0dYeEpvQW1xZFZfOVhZYkVSQnduR2hfXzVUZWd5X1V6cEpKTnRBSHRIa1c0ZW9uWDVPYXBIajF0SmNLSmPSAcYBQVVfeXFMTVByLWZkYzNUNC16VXJXOGRhM01OcTZwRG1MYU10ejNaZzYtT1UyQ2Z4X2FuWDRETFlpbVo3MDhHUmcycDhfSkJOM2hNS2ZOQU9fYXJfZWFIZkhYU0NXVkNlN2tnc3MwbXEtYTJLWERqSUN4Z2g4dWNSb2ZZMXdVcDVKalgwNWdCd0JqOGQ3VWxVZVNGNld6MXFtd0YweWgwVnpKXzFaMXZPMkQxZlJtTWxsMFhxb2tuLXRrRHVXVjY5Z3l0VE1R?oc=5",
-   "data": "2026-11-17T17:44:00.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 5,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "m58lim",
-   "titulo": "Compra da Vero pela Vivo é avaliada em 1 bilhão de euros",
-   "fonte": "Portal IPNews",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNlNFRHZzbnhvYnZkT01tUldHU05GUm8tM2JhM2hqRERVRk00QmNQQVRNTERXQWdsbGJ0QVMtT1YyQmdLbXRMbkpQWGJOWE1mU0xyME0wajNINzJtLUdkZ2t6WExUSnM1M3k4TjVJQjhYYTRpZUU3RnhYRWFBQ0xqcTQ4MENhTVlqUnJsUmN30gGOAUFVX3lxTE82U0VEdnNueG9idmRPTW1SV0dTTkZSby0zYmEzaGpERFVGTTRCY1BBVE1MRFdBZ2xsYnRBUy1PVjJCZ0ttdExuSlBYYk5YTWZTTHIwTTBqM0g3Mm0tR2Rna3pYTFRKczUzeThONUlCOFhhNGllRTdGeFhFYUFDTGpxNDgwQ2FNWWpScmxSY3c?oc=5",
-   "data": "2026-11-17T17:39:22.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mr0k76",
-   "titulo": "Disney supera expectativas com receita de US$ 25,95 bilhões e lucro de US$ 1,77 por ação",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbkxLbTd0ZzBYOXNGMldJZnhram5KRWEzV0tFVVRsOU55d21UQ1N1RjUwQnlQcW9ST3c2eXZ1ZkdSWXZXLVV6dlg0eDNRY3IwMm1GcHJvOGt4WnJVU2JLMGx3R1JBN3JDV1B0M0JOSGJWMjJvMV9tU3JLWWp0SzgyMXNZLVFrYVRFMkxlYm9KSjdsSm91T3htS09NOTgzb2liNnNDZDVvUVpaYmFINEE?oc=5",
-   "data": "2026-11-17T17:37:32.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rusgwq",
-   "titulo": "Ações caem com a Nvidia em destaque; petróleo registra alta",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5mbkJ3V1N2VkVzU3MxWDI4czJpU09sNEFvZlJYUjNPNUtKOHN5V2tQb1hocDRjNmtrT1hqa2dMNEpyeUQxUEJSZzhMNUxXc2UyZW9WRHBfZ0YwRTNkNGczcVdHQ1Z1R3RIWExNX2lPdWE2QVZBNnpv?oc=5",
-   "data": "2026-11-17T17:36:59.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "17snls0",
-   "titulo": "10 carros icônicos do GTA para relembrar antes do GTA VI",
-   "fonte": "Motor1.com Brasil",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52UTZWbV9VdU9hTWdISkM1RjRnVXVURHU1cVZaWm1sSnc5WklXckctSzBDeDhmOFlsWU9qVnlCc040YmJtT0RXMXEtVkdiZV84TTdlZ3FsQm5iYjNld281SklkV1RENzdLeUxYbFJBb0VoQm1XTEE?oc=5",
-   "data": "2026-11-17T17:36:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
   }
  ]
 }
