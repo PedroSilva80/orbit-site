@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T05:30:25.546Z",
+ "atualizado": "2026-11-18T07:00:27.642Z",
  "agendaCal": "2026-11-18T02:30:27.472Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "zycjp9",
+   "titulo": "IPO da Anthropic e 4 outras coisas que precisa de saber para começar o dia",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOemN1RzV4UGRxR3VRVWNwN3hTZWhKVmhNZW93dG9RMUJySVhJMEh1UmJxMGN4TFhtNElOQlp1WEdYUUdaZTlCZnVSTlByc3oxMHVBU0pVa251eG9JZHNzWmQ3c2tPb0lkY3E1b3I3cXBOZkcxaWZoZE1SRHR0ZDJxUjlUZHoyZHRfU0FxdGN3Tk1YQWo0MHhwV1lhUjBJaVdhLXRuR1JBVGIwb1hTSGRtVzdvOXZxSERsc3dJRGg2Qnk?oc=5",
+   "data": "2026-11-18T06:45:49.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rfgg2j",
+   "titulo": "Ações da Kinsus disparam quase 7% após Nvidia confirmar investimento de mais de US$ 1 bilhão",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZ1RfSUpBRXZHUngwRmtra3JEQnFnVlo3N3FTM1F2OWlCTk9Gb19XMDJuQ2kxaTN5SEh5ejUwWXpzbk1OMXZ4dTZhLTltRHhCRVNHdUN6enR4eXZ3bjNLWGwzZEp1MjAwS2VLajdNY05IUkJOM0I4QTBYZ0kwWmEyR0NuNnRkYWVnRmpwQUJCRU5Ud1JnN2kxbDhxV3FJb2dmdGZ0Z1JKbjJZb3FrNXZ3c3BFTENjVlRRRm0wblBFRWNTLWNvNHdGWVZ4Qmg3ZDZ5bjJMdnR3VUhLOEFpQTUw?oc=5",
+   "data": "2026-11-18T06:40:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1i35f8b",
+   "titulo": "Ações da CoreWeave disparam 9%, miram resistência de US$ 60 enquanto Nvidia promete apoio contínuo ao financiamento de IA",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVhXT1FMd1pHWUozd2Z5cmVrSHFEZFppdENQVnlZY2pVX1c2c3llZDZ6WUwwSkJuVHdkc3BueGlOeEpieGJOOGRWSkxtbXl4LTNVVnZkSzNwSV9sampja01KWW9aOHc2V1hpMkU3cDdnYldiZ3hZcFdDaTFEbU9LUGlNdUNTcm9fY2lyeEdOMzliTFZ3U3c0YW1ZdmNTQ3JxQjZEM2lybVhtcERLeWFLMl9POG9PV3RXSHBDLVlod1l0ZXFNQ3c2RzAzb3I?oc=5",
+   "data": "2026-11-18T06:31:09.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14wegvd",
+   "titulo": "Ações da Samsung Electro-Mechanics disparam com expansão de acordo com a Nvidia",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUmRkWmlNVF93LWhlSjBaUzBwX0RjUlRaemhMR1prOTg2T0txcnRDY25iaFFLTzh4aUR6UEw1YnpUS2lXckw2NjBVTU5GeWpCMDVYOWw1UExmTjhFc2R0QnJuT00zQlpBMUdNSzhuQUZ5T3ByTkFvdHEwMHBTV3hkWXRQNnFwYzhnemdkOEVoaWMyQ2pFVWdlMjJTUlA5MUFnNHdZdVU1TWNjelV0VFB3a2Z0Y3AxWEVPSmdST0xzY3N2NTlJUGo2NnBSZ1lJODA?oc=5",
+   "data": "2026-11-18T06:27:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1lqaw7u",
    "titulo": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo",
@@ -1787,55 +1835,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 7,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "c4iqjp",
-   "titulo": "PS5 recebe atualização obrigatória às vésperas do lançamento de GTA VI",
-   "fonte": "Combo Infinito",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQWRCaVhtNTE3bTlkSkt4a0ZmNzBUNFF0X0FaYkdMM1VfdFAwb1R2NE9TbV9Hc2ZKZ0ZXYWMyWkxSR1BiZkFRaGtmMm9lWE1sNmRQNXZlaTd5SWdxcnVNOUVTSmxzODVKd29UbGlCbmYwQTZWUjJaLU9rMHA1blhtS3gtSi1fZUE4c2hnRll1c0V6LV9JSF9kLQ?oc=5",
-   "data": "2026-11-17T16:19:26.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "avisado": false,
-   "marco": false
-  },
-  {
-   "id": "1ym0283",
-   "titulo": "Ex-CEO da Nvidia, Jensen Huang se pronuncia pela primeira vez desde sua renúncia",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNU9qT3oyVjFtX3EtbHBIcXh4eHVvNFFVcnFaT0ZxZHNjcllfbmoxY0gzNVVOUlVaVE5NVW12UkFGcG4tN1RCN3FjbHFvWm8ycm1vSHluelBkd2EwdmNjU04wLVB6UXk0NnlyRXhxell0M216VHhkcE0wMjd4UF9DaHlhVnIyZTRTWkFDem5LQlhLc0dHd2lzNXZVb01RcmRpNjBKSFhtcXVaTzh2al9Fdy1fblpqVENCeng5VXVfdjMtdw?oc=5",
-   "data": "2026-11-17T16:18:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "avisado": false,
-   "marco": true
-  },
-  {
-   "id": "1q924zx",
-   "titulo": "B3 lança BDR da Anthropic simultaneamente ao IPO",
-   "fonte": "financenews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLXh4dUJqWFU4dERkNlczR2FTRTJHeE50QkpYRGYweXpKVDNmcXZrMnFRMmV3Uk50RDBlNDd4MmlzaVlic2kzM1BsNEZ3TUlXYTc0R1JadlIxQmJjU2g2a29JZmxBbWxrTTJQaFJicG52ZHhOTnM5UVdwOWxUUFItQjJxZU9ibkRZMUhOcA?oc=5",
-   "data": "2026-11-17T16:17:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "avisado": true,
-   "avisadoEm": 1794933027150,
-   "marco": false
-  },
-  {
-   "id": "bayb5l",
-   "titulo": "Jensen Huang diz que seria 'uma honra' voltar ao comando da Nvidia, horas antes do balanço",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQS2h4emJ6UWpkS3BHeXpOcTFTU09xOUk2MG0yUUVYRDdNSXB0SWZxb2xDV04tTS1YaVRraXpNNm8tN1RENk53dXFlUUNPejBJVlgxVjlEaVlhQ2MwejJHTUdmOEJaY091UGR3blNLalhWSlR3WVZXMTEtcVlqekFJU2FKaG05YlFpMWpGSUVROGtuS3Fsdk96U3AwNHF1SVdxZWVMU1lFOUdTV1dVN1VaZHFodE15R0Y1?oc=5",
-   "data": "2026-11-17T16:16:57.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
    "avisado": false,
    "marco": false
   }
