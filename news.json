@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T02:48:21.356Z",
+ "atualizado": "2026-11-19T03:00:28.441Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -8,14 +8,6 @@
   "dig|2026-11-18": 1794996028930
  },
  "agenda": [
-  {
-   "data": "2026-11-18",
-   "tipo": "Estreia na bolsa",
-   "empresa": "Anthropic",
-   "origem": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNyUVBwU09NNWlJbGJsREtLeW8zV3lha0pwWWdxYTJkbkh6OV9wd1kzSThfRGZnRVh3Rzl5OWN5dVF2dC1QZERXa3dLeGRZU2k1dG5SVWNzRU5xMDVIZERXVU1uU0VuZVItZ3A2WTJ3NVh3RmxvNVdOLXR1clh3Z08yYjlrbXJmaTN4VEpHRGlVMllSODhQYTl1NXI2cmlRQU0yRDZmeFk2VjZhRzNvbkhPaHpJdzcwZlpDZGt4ODM?oc=5",
-   "manchete": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão"
-  },
   {
    "data": "2026-11-19",
    "tipo": "Balanço",
@@ -58,6 +50,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "bsc1yh",
+   "titulo": "Google lança Gemini 4 Neon com desempenho avançado e velocidade da linha Flash",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYlBZaUtLWUc3NDkteUNqaGp0WTBObEJwU2lpcU1zZER6MUhWQTJZeUw3TnZfY211eDZSX2pTZ1ZiUERxd2Y4SURtcVd3d2JNNmRSNHAyeFpCYkM3NW8xNGZ5aTZzTVpQdzFmdllHa0FaQXRpRklNTUhBbjVuSkFJZW5Qc0ZRZi1CekVBVkg1ZkUyN09NZGxMa1FzOWdpSVJZM2owRFBLMkg?oc=5",
+   "data": "2026-11-19T02:47:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "18v2ajv",
    "titulo": "Gigante de IA Anthropic tem listagem precificada em US$ 83 enquanto negociações OTC disparam 18% para US$ 98",
@@ -162,6 +166,18 @@
    "data": "2026-11-19T01:16:02.000Z",
    "cat": "Liderança",
    "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vxswj6",
+   "titulo": "Lucro do Banco do Brasil (BBAS3) despenca -40% no 4T25",
+   "fonte": "Nord Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObEJDbmMyMmFkb1ktTjJhdjJDeG1ReVAtYlJDSWsxZlI2blJRdVlieWstdzZaM3NEMTVoM3V1aEplajQySFpwanU0UVRDRVFTN3VVRVh2WFdLSmlrSFFKSXBiS3VPakZWa3NjRVNPNE9ISUc1TlpacHBZLVRsWmw3endtSjdUbU3SAYwBQVVfeXFMTlV0aHJhdjczQ2xpcWNfUTVKRFN1cVNsSVdJa1NPRklUQWFOQ3IwRHlwRnFPQ2FfdkpxT0czbE45N3hHUjZiWVR5dmtmbWdXZ0RJcTFSSGh6OUtja0NUQWF5QlMtWU5haFVUREZIY3FUZ0pXMnhkWmlxYlVTSGxmdDQ5c3BQVlFDV2FOYjE?oc=5",
+   "data": "2026-11-19T01:14:47.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
    "score": 8,
    "marco": false,
    "avisado": false
@@ -828,6 +844,18 @@
    "avisado": false
   },
   {
+   "id": "1j1og2s",
+   "titulo": "GTA VI e o adulto que pediu folga para brincar",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQamZiSjlOY0h4Rm9seUFGVlZkb1oyeExuYVZXSFJta0FFY2g1ZVBidzhhSnVVS2FXUWo5blB4UGViTVR0a0h0UkNKSHY4cTBSeVRGaGhNYVZIbWtTUC1PODBLc3gxWHJTaS1VUlRyRjJzbnpJRlRpMWVEemZ4Y3VQNmV1ZVI2SDY4ellTLTgxUVVERzFiRG04WHYyc184c1hJVjVfQk5XNjdGcWNMSlNacWJPRGx4ZkpUdFhsc2c1Q1FoWXlxdHdoMzdyRC1ydGJwMXlrZHJOVjV6N0dzdlVLOUl1UXNBZw?oc=5",
+   "data": "2026-11-18T21:33:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "zmmj52",
    "titulo": "Anthropic supera expectativa em IPO e chega a mercado com ‘valuation’ de US$ 1,49 tri",
    "fonte": "Globo",
@@ -1089,6 +1117,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "jwslgr",
+   "titulo": "IPO da Anthropic é precificado a US$ 83 por ação, avaliando empresa em US$ 1,5 trilhão",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOTFLQlFFUF9YNk1yWTVFYm5ldXBGb21FTDBhRnQ1NHNublFJSlBQbzg1V2ptTWk0SmRXMEhpQnBra3g4bHd5d2lpN3liTFZjY1A0VUd5OEhWZ1BuQnJMYjNSbmV1c0ZQWmo4c0Z0VHQtRy1xWUg2cXZ4bXJIdjYzNFFxNGQyTHI1ZDB3YzVKN09MTjhLYVRaR0w5YUxwQ3YtT2hQcXBEU2d2UUxqNzMyMzRVeE9WZTVYZDFZ?oc=5",
+   "data": "2026-11-18T20:55:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": true,
    "avisado": false
   },
@@ -1812,54 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wdg4a0",
-   "titulo": "GTA VI: como conseguir o Clonador de Chaves",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VUHlyTXNzeGxBa3ZwY08tVkttSGEyWHFkbkZYbm1rZndBQVJEa3NWTXVuNjhXcjloMGtFUlhhU0ZBWmVvU2dTT0Z1QXFlQnk1djNZTmVYQ281SHRsR2kwNURqM1RxSVNFWk1oblRnWmVabHBTV2ZucQ?oc=5",
-   "data": "2026-11-18T18:33:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wsv768",
-   "titulo": "Agro tem 2ª maior alta no lucro, mas 3ª pior queda operacional entre 17 setores na B3, aponta XP",
-   "fonte": "AgFeed",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZXRSdGRycTdlejMzczFOeW9MVkY4UEtxcUIzLTlHdEZxUzVLN0pXSkZzSDFGR1BvQ0doY082YU5HcEF1cDhGWkFpR25KVGpzWFVKVnBGLWwtcS0yaFB6WmJnTnExZi1TUXFWdGR2cGZDblliNGpQNUd1ZWVZOFpWOVdJTWtPa2xYZldmVlI1bF9MLUxhX0pnUTVobWJnS1hFaDB6YmtNNlZpSG9WTE9aR0kxc25tM1ZHME5helpKSm41cUpL?oc=5",
-   "data": "2026-11-18T18:33:00.000Z",
-   "cat": "Resultado",
-   "empresa": "B3",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7mt0t",
-   "titulo": "TIM reúne creators para jogar GTA VI em primeira mão à meia-noite",
-   "fonte": "A Crítica",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWVhCNkl2aXh3TFpabm5JaUZkMk5wdTRRMldfVGJkbmY0MUF0NTRXSVFtb190bDltZ0hDYXVwRUplejJBTE1zQmFXQk0wZXg5WTNSajdyLVA4M25TUWFya2lpemEyelRVTWQtOHgzaThPZWlsS3BuR1A3MFB0YUp6SDlMMk9RbXJDSUZ5MHBNQld4YXUxcldKemhXTldxb1h0Uk9uc1RtRjludw?oc=5",
-   "data": "2026-11-18T18:28:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s5awl3",
-   "titulo": "Durigan descarta recessão econômica e defende ajuste fiscal e reforma do Judiciário",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNUWlhTkdlWFNYdkRKcnJMZkViREdmcWtTMVFhZlFFVXpLN0V1bWlyZTJXZ3ZxdDlXa2pjRjNoY0kxRXY4Xy05LTVNUFBxOWo1SWRTcnFEOHZvREZhNWNqTloyZHFwY3c2SDgwNm5uTVpEcjRoZzBrQnV0QU1yT0RlMVRqX3dHbUFiQnVLdVhIOFBKRXNFeXEzVVpVN19mcjBMeHEyQnpHWEhtMjNrYmZyZ0cyWnZDSmRrdzQ5d0dMTENzQU5oZlBGOERLQUlvblA2?oc=5",
-   "data": "2026-11-18T18:28:00.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
