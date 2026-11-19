@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T08:00:27.460Z",
+ "atualizado": "2026-11-19T08:30:33.702Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "8fbl9a",
+   "titulo": "McBride adia meta de recuperação de margens e reduz perspectiva de lucro",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZjFRMWgwd0otOTJrUXlPbFVPTGpxcmtvNW9QTG9TUHpfNlp4UzNKNzNIcjgtMFdyeWF2MmNIU3pkLUoyMlM3MlE4QlExZ0FkdGNvR240RXBXTGkxSzY0ZllMMHgxWXZ1N1FWQTFlU1lrakJ5XzVLQWhOdDZjemxaWUVyejQ1ZFE2bFR2bnpKTEI3X2NaZFROWHNuNTZ1Zlc3S2JzTnhWUU1UQWljU1I3Z19UU3pTeU1SbEZzbzV4a0E2dnlCYzBVX19YZDZZZw?oc=5",
+   "data": "2026-11-19T08:10:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ga1ttj",
+   "titulo": "O Claude vai ficar mais caro? O que muda para o consumidor depois do IPO da Anthropic",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQ2xCdDJ3V2ZLYmIxeWpwamd3V2JqXzA4a2NUcktsejVjTlVnYWc4OE85Ti1kVHNwR20wWTFsZjI4UmNsT0QtekdNN2ZHV0o0X0FBeEE1T0xlLTFCUE9PXy0wY3BPZENObjJtVFd1R01lX0hTZVhaTy0zM1k0SW12WmRtYzJ6RXEyckE2aA?oc=5",
+   "data": "2026-11-19T08:02:49.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "4wzta4",
    "titulo": "O IPO da Anthropic, segundo o Claude",
@@ -204,6 +228,18 @@
    "empresa": "AMD",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "153pqft",
+   "titulo": "Anthropic estreia-se em bolsa com recorde de 83 dólares por ação, Nvidia na pior fase desde 2008",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV1VyS3h3Yi1wTjFzaHp4alBxZTBzVFUxME5DNlJZNkdqbGY0NWF1MF81SEpLeXo5V25PaVNYV1NtUmJCSmJvekVINWJ4cFFmM0ROOHlLbWxmQlBQRUN5OU5VQmh3Y1FLS2daSktac1QzSDhOOTJ1M1FNdVlUU01WeVZySklUbWpoLU5qX0lreDl0TENDczlpcUd5WmduQUJQU0dWY0hVMFp1S2JnRUNIYm53dXNsVS1DeTVVS3o1RGVPUQ?oc=5",
+   "data": "2026-11-19T05:32:20.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 5,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1813,42 +1849,6 @@
    "data": "2026-11-18T19:57:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "cy2ujm",
-   "titulo": "Quem está por trás do GTA 6? Conheça a história da Rockstar Games",
-   "fonte": "Pequenas Empresas & Grandes Negócios",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNY01TY1F6amJWTWQtTUtCVDhmLVVkR3NoWkxTd2xoYjlmZ0QyT1BIZG5OMWdwS1JnM2xJZ0h3aUlrbjZXYzlqVnVrR0dCeEpvVEtUbFQ0ZHZmcS1uZHROdm1xVFBjb3o2MkJyVGhiVlBYbUgzNHYtcUNqaVBEUWszUXJoZGlHX3JEQWNxVkp4endaWEdnc3hMZ0oxQ0sweHE4TWhNOW1YNG5wbzdsMktxdzNzYjJOdzhQRGNWQUZZQTJfYTjSAdIBQVVfeXFMUHNWZGg4NUJuTkJzUEpzSG03QjBmY2d0ZThaLUZTejd2RTFyNWg2cFZZejVhWDlyMXBRXzNlOEJUazV5NFBCMkRuQmxVTEJkUWJxbGVjZmxEOUhuYXYtODJURTUtSEhDR1ZiRGprOWlhdHpIVThIeDQ0U1JYRzk1bzZTYktRWXVjZjlHd3ZNeFhLUU9NTVlGTGI1V1l6NVMyYjcxVUJLRXNqTWo2ZEpoQmQ0U0ZXSk9FSmE1M1pRYTZWZlM1Y2ZsbUxSOW13YklYY3B3?oc=5",
-   "data": "2026-11-18T19:55:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1t3pfuz",
-   "titulo": "PlayStation Network (PSN) apresenta falhas durante lançamento de GTA VI",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUW9CMDFjLW9jLXlKVjAyWkdEbVA2S21PTlQtakhwZ0tlbERUbnVNOGtHZHRCTkZlODRkOUFZc3lyRzc5OGd6cmRZaHFiT2ROM2tlQ2xhSWFTQkUxVUI4YjFhOTA2QnBHSWk3My00NFVhOHIwQW5UQUdKT2VDS0pnZ3JMcjhRUXoyNUN0bFI3LXJkMjN6Y0ZiQjZUX2tuQ0dlT2tJMUFBSHpSSDA?oc=5",
-   "data": "2026-11-18T19:53:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j3mp8z",
-   "titulo": "“Procuramos criar uma experiência que supere suas expectativas”: presidente da Rockstar, Sam Houser faz rara declaração para comemorar lançamento de GTA 6",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQYmZqblc1RVBpQTBuTk4wYVdoTlBoRU5ZTzlBWmt6dHZ0TmVmdzdsRWpUbkFvZXljZy1FNlVpeXJIRzVPb1pZcjgzaW1semY1a1h1cU5BTXNlUndlY0hiVDFUTUlmSVlMS19INnBqLXNvaXRyeWdkTGxVd2ZFcnFzZUFyS0Z6b2wwazlXLWhtNzZrWXJ2MTdvRkktUWFzSGtpb3BYWVU1ZUhpS3NvWldkWXZjQ1hEdWVLUTYzam11bzBTUzhQZjJ3UmtRb2Z6eElGdkMwQ3BvUmJvMW12N2c?oc=5",
-   "data": "2026-11-18T19:50:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
