@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T19:30:27.085Z",
+ "atualizado": "2026-11-19T19:37:18.633Z",
  "agendaCal": "2026-11-19T16:00:30.214Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -165,6 +165,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "id778g",
+   "titulo": "GTA 6 traz referência de GTA San Andreas; entenda o easter egg",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblNYSGpSS0U0TUo2ZHRIR3ZKbWVKR2IyNVNIX1JGbDVJYUg0cmN0clJiYnk2V0lLaFo5WmFkaVNmcjZNazlvMVFNelpXWjBfamdJTGlGZDk1eWtPdlQwbnR1TDZEdThoNmhXVDMwWTc4dHhtNHdaNXJ5dlQ2MDNVOUtNWmZub3AtdThQTDl6bGVLbUlvR2h6WlprYTBwVnE3UFVraUJVTdIBrAFBVV95cUxPYUJTdDlZMlI2eENMMDdVbmxfTVgweG1PVzRjaWZWU3RyUWFqYUtXVmk3VnZSRVFoR1QxYjBxS0NKN2QyazRVc21wUjlQU1NKNXpkZ3BfYktvXzRTUDl1UFhYblk3Y2dEUVFpWVJIUnFHbVJNQ0FPbE14RVRRVHQ4aExoZVdBdGw2RlhUMnhGTUQwenZOTUpyQTlqajlvOUs4d09wanJ0Z0FvYTFj?oc=5",
+   "data": "2026-11-19T18:34:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1851,18 +1863,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15hvv7d",
-   "titulo": "Estreia de GTA VI ameaça tempo dedicado a streaming, redes sociais e outros jogos no Brasil",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSlJhNXA0ZkNnVEdKN2w4MFQtdU16WVpWMUNNYmQ5cUZNNGstZHlXTkZaSzBwUTN6NEhxZzk0emd5TzNScUdmZC1obUZrVkMtY0prR0puSU1xWUpsTzB0dUZWRUgzckdPLVB4UW4xaW5mVHl6QzVTVFlNS2hEQWpuYms4eUMzM1VkLS14UVY0QjdKQnlab3VWcjlEdDI3S3hIXzR1V0IyTFpqMUtxR3UxM1lmRGpULVRrakdacWFIbnprX0hPdFJB?oc=5",
-   "data": "2026-11-19T13:45:27.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
