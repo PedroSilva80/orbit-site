@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T00:30:29.626Z",
+ "atualizado": "2026-11-19T01:00:30.678Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -59,6 +59,78 @@
  ],
  "itens": [
   {
+   "id": "16wk8j1",
+   "titulo": "Saiba quem é quem na Anthropic, gigante da IA que lança IPO nesta quinta",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdEp0OFBfSXRQZmltbzNGWUx2Rm81RjAtcUltSlFzV1laUm5FUzhQR05jemtlMmVfWllpa1BYM1RLdHZUeENZZ09wR0NqMFhQQ19pSFhCemJqWnNqRWl6WldvZUxUR0JxT1psRjc2MzAtb0JySzRQN0RNSFh2SjBCck4yUUpzaC1HQ1puWlUzOG1HQ1lTVFU4M2lwSmZjTjRtek9tYWJGR1lpLURXVHl3aElLTDdEdFhoWFl3alpUQ3l0UVk?oc=5",
+   "data": "2026-11-19T00:54:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ftcgh2",
+   "titulo": "Acontece que a Rockstar já dava pistas sobre GTA 6 em 2021 com o relançamento de GTA San Andreas",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNVjJKbVBUckttbmpaWWNKN2c0ckdtQVdpZ1NzeWw5VVMwb1dfYnZtWF93R05wNlNxXzNlWHJnSndVY19OZFJkbjV0QThhdFpWMXFHYmNfYjBUYzNKNE9xenVxb19naTg1NHlGZ1hqaUdRU3hsckpoZTdNR2FxbUVuQVZqeC1DSWlDaGZxbHNGaGdxNm9RRlViT2JOQTBzajBZTF9aWE16UFBQR0s3MGdudkNQVjV0c2ZxejZjVlFKR0NwYUx6bEEzWHg4Wmt2MkpUN1loWWFnLXRaQQ?oc=5",
+   "data": "2026-11-19T00:43:36.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v5unne",
+   "titulo": "Rockstar promove GTA 6 na China apesar de o jogo não ter aprovação oficial",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZyV2ZQVXRaYzYxTUxfbmUtREM5WmNkbnlRT1hkSUdGd0lEZ0RIWE9MVDc2ZDhLd0xHUWdMT216QzM1d3RCeVFCT2N1NWc2ZVBpNVYxaHdZaVJ4YXg5UUhxTU9nQi1mQ0g4S0prUkY3SWlHbzJhdC1fd0FfeHp4OXl2N2oxelgwQnVyX0ZWZjJPbnp5bm03S0NMSVFxZHQ4QXczSURnZ24tLXdrWWtKbXg3SEFyZnpTU1hMUQ?oc=5",
+   "data": "2026-11-19T00:43:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qmif6a",
+   "titulo": "A Anthropic definiu o preço final de seu IPO em US$ 83 por ação, arrecadando um montante recorde de capital.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWk90b3pQQlRnSnRBNHRVNHNQekVINjUwRDI0cEVmdW9UeHQ2a3VHVnZacnA5NDVSQjhhRFYtWTVWZXljcU5HR2dLTUk3M3dITEJKRF9JUkdkcFZYYkh1bnRJNXpaU2lPMlpaMjkxX3JPZ3U3djVRenhIWEZDRnRVd2VoQXdBWnBEUXNaMnItSDk4T0hw?oc=5",
+   "data": "2026-11-19T00:43:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4qq2yr",
+   "titulo": "GTA VI: 10 dicas essenciais para dominar Leonida",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCRjRIdXVObXB1blN6aWFXSzlLTWY1ZXlsN0Nnay1PNElzQmxDUWVwX1I0c0NSUlJpZFVLRG5lcFMzX2ZLRUtzR1RqM1RiVGN0T1VDT0F5Zm5QUUQzWVJHUGpDVzctQzBOOEsxeHNnTQ?oc=5",
+   "data": "2026-11-19T00:38:35.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15ez94p",
+   "titulo": "Trump diz que não discutiu a situação do ex-CEO da Nvidia com Xi Jinping",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWWZWOHRtdGdqMno5MmZwb2NLTmtsVjJNa095ZEJ5WXFvaWpfZXJnWG9wUXkxRjVsZjV1X0l5MEdpNWlYQ2JoQWpVeVBraUNxN0dJV0FVOG96SFktMzNBOWZ0S1lUa1dJdUxBZTlBMFl5WFoxZGRfeng2WlNnYnRGZ3lkVHZRYlo3eExST1hJZXpIQUxXc2EwOGZteVN5SjlSLWNvTWxYN0FSeWxKXzJMRUpyNGE1c2Q3QWJN0gHKAUFVX3lxTFBnQ0tDQXgyQl9WQlFTYllLakd4dGs0Zm1HTXBxMVRaOGdqMExMNkZVR2ZNZGJNazloMU9pcG50MktFaTlwVks1QmlYWFY2VWdNcTBscnEzU0lzMzllTEFLcU1jU2pFYkVsWHFaWU5PaXJIaTU3RWpCUDRfbGR0VUV6YWsya2xrMUhYallqdGZ1VGNjOVl0aEVpSGtLRXhEYmJRV19mUVJTZGgtR0x2Q0hHUWlyVUZFR0lUYWcyeDZ4eG1GMVA2a3U0d2c?oc=5",
+   "data": "2026-11-19T00:34:25.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "gc9qdo",
    "titulo": "Netflix estreia minissérie de 8 episódios sobre fraude de criptomoedas",
    "fonte": "Home - Observo",
@@ -68,7 +140,8 @@
    "empresa": "Netflix",
    "score": 8,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795050030678
   },
   {
    "id": "t2o0w5",
@@ -580,6 +653,18 @@
    "fonte": "TradeMap",
    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9jVHpvSjlLQW9IQmVYQ3p4cXdRNlIwekhjcFFVY01iNnFtcmRmdmFxaWtUaTNwYlY3bGRqWE9IdXZPdDlYejZtM3JtN2lfYV9JR1ZSbmJpNFo?oc=5",
    "data": "2026-11-18T21:30:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11li0sc",
+   "titulo": "Fechamento (18/11) | Ibovespa acompanha recuo do petróleo e perde 1,34%, aos 167.537 pontos",
+   "fonte": "InvesTalk",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE41OUlSdmpFY3Z4M1JPNXRXb01JTERSZFk5RkRaVUNnX0xGQVJSUm5vWUhXeFQ3UzdjZTNoTWZCaVVWbXhyR3NFa2hnNUFDanNGakdNcDI4cjFSbUFjUGt3M3FfQTE0ZWdvX2RJS0ZxUlRheHlUbEE?oc=5",
+   "data": "2026-11-18T21:28:00.000Z",
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 6,
@@ -1431,6 +1516,18 @@
    "avisado": false
   },
   {
+   "id": "1odh41y",
+   "titulo": "O jogo do ano chegou! Veja onde comprar GTA VI com o menor preço",
+   "fonte": "Melhores Cartões",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1tUVdIR1NadTRrdlBGcE5xNk5HeHE3UHRWLXYydkFfV0JhMUxHWkxHYTJqT2RrdkJTenNvRldxSVJwbUpldWxCSmoyR1E4eHBPTE41Y0VtTUc4WkplOExzTEl3eFFLQU1lOWxKZjFjaUhrT21ZWjREcw?oc=5",
+   "data": "2026-11-18T18:44:27.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1tflgv6",
    "titulo": "Frenesi do GTA VI destaca possíveis riscos de seguro que se escondem na infraestrutura digital",
    "fonte": "TradingView",
@@ -1438,6 +1535,18 @@
    "data": "2026-11-18T18:41:21.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "c0phma",
+   "titulo": "Por que GTA 6 não roda a 60 FPS? Rockstar explica",
+   "fonte": "Pichau Arena",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBuaHJZYWx2R2YwZ2RUNG4tX0xhRUZneFBIQUYyaHZsd2stZkRMUGJqNFpqazZxZUpuemIxRktPenY3MVNnQlg5Wk5sc1BGSTJMZExMb0xZM0xpV2JQVEItUU5DeE5KZVg3bkNTUkRSVklFRzBnTllvaTZfb3hjQQ?oc=5",
+   "data": "2026-11-18T18:34:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1750,115 +1859,6 @@
    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54SmVacDVmQlVWRUFwd1FHZ1ROY1hhMG9IMG1FcGtncWxuWDJrUU9idV9MYXVnX1ctcGdmTTB3LWFGcXZJN1FFWTVZNWJpMUx1X0ppcWdTSVVGYnM1SmRUWFBXZzZhcnNZ?oc=5",
    "data": "2026-11-18T17:29:00.000Z",
    "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mr4xrm",
-   "titulo": "Agência de Comunicação - Ondo Stocks lançará a ANTon com operações de emissão e resgate 24 horas por dia, 7 dias por semana, já disponíveis no dia do IPO",
-   "fonte": "Estadão Blue Studio",
-   "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPTHMyQ3NvZ2VwZHFFRkdRUXEzMUJzdEVXOExwaDhJbnZ5SGJjaUxRV3pDTWxJZkRtYnNfX2VOdFJfYnFfY08tRzFKMVhtSlZVb2NPRUxyM3gyTC0tbWJYTW5RV3ZRdTR4cXprYzRrOEVtSDhnVzNLUTNKa1FxSFhiY1NIZWZYZzlnOFp5eEN4SGxTZ0daYzE3WU13dDZTTEF3R3djZzZaQzFydTZWRkpoaGlJQWFzZXNybjdTdFljeTE1T25SS3NRMUtVb2pTcWlSSlZmWFpJcWE5ZDF4bFh3TEs1cGU2OHd4YzB0aFJUcmtGSTRwTHh3TjFHbEc3VDdsa0l1c1ladGlEQjZCWGlvS1NkUUpEQU85WVBiUThKT1c?oc=5",
-   "data": "2026-11-18T17:27:42.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6bpwbj",
-   "titulo": "Anthropic: confira o que se sabe até agora sobre o IPO da dona do Claude",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXVkM3JHVjlqZ3RZYlJzUUdaYTVKaGEwbjBTWkNWc29VSVJibTI0Mm93bVVJUGYyVFMxeTI0ZTV1SkhHZ0NxdFlKc29aTTlMMmx5RVc0dXBPRzBZYUlVQ2twMnItWWFPNEctR2ZJdGVYVFdWVzR0WF9VanJNM3NiX2wwYmZSQ3hubzU3SjBxTjdJTF9fd3pfT1lWQ0tyclhvSEhLVkx3MGtoTEp1dGh0d19zQlhFeGRSUHdxQkdR?oc=5",
-   "data": "2026-11-18T17:27:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "113eat",
-   "titulo": "Disney amplia lucro e vê receita da ESPN chegar a US$ 4,6 bilhões em meio a cortes",
-   "fonte": "Máquina do Esporte",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdkdTS05lb1J5OTFETV9QRHdzX2Y2M3FiRjVFeDA5aG9WT1ZOZkJjMDRjOHhyM3dJb3l5NVVCeFB4MkIxSGJOai00Wk1laVZ1eVpuU01CQ3FSam44YmowaS1oNmhBcEZtcVZjVVNtQVZMVHZQbVNseXpPWEZTOTlXb2l4UVBlYjR4eHRGV1N1WEhTWVhoa0xSUHVpNEwxQ2x3blg4dndsdkM0MHVrQzBpVTJIckVqX3NvVnQw?oc=5",
-   "data": "2026-11-18T17:26:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795024833896
-  },
-  {
-   "id": "eedx1l",
-   "titulo": "GTA VI: todos os 80 desafios e como completar cada um",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY2loZlE0X0x3ZnJONHZWWlZwVzlJTjE1WVFha0FTT251OGNTM25DQmJYMWZrRFZnUXFNWldnajliYjAwTUJsamhoNWpWMm9BWVFrQ3lBbXo3VXdrZEFXdDZmV0lMU0xucDBPS0xVcWZVckc2Y3BVaVhwUGZhcnNsXw?oc=5",
-   "data": "2026-11-18T17:25:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bwahk0",
-   "titulo": "Como chegamos ao GTA VI?: Veja outros sucessos da série que marcaram época no mundo dos games",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0I5ZHMwU3BNRzZWMzFZRDV6M045SEFDaVQ4RUZYZEcxd3ZNekFkRC1EYUlDUVdmSlhyaTBvUlFMNTdUemtVM3NnYkJJRzkyOW1NQWw1WDVmbUFRdVQ2N3Z6TVZVWGR0Qm9pajNaVVFiTmJzZkYyUEN2X1hET00zZE5rdkRnaHo4TVE3TnZ4bkhtcS03Ql9qaWh1ejB0eXNGd2o0N0J1VmlweEw1MWRxWi1MUGt3YUtQRVhlaVl1dWdaM2N2dnlIUm0xQnAzSjhUd0NXM1BZdngybHpOdEFZ0gHuAUFVX3lxTE1rZmc3ZnJrNjEyT0ZFV09TSWVEUW9DbGc2cVNJR09UVGtjSndCUm5vUHk4MnQzOVl0b1owZG1MRlh4SUE5M0VWMm1iV1ZpYzh0ZlV2WDdCQXNGUHJkQkFfZWxXaGdic291aFNIaUk1VjREcU5BSHI2S0J1NHZSMDJrMVNGS1dOT1E4UTNiTHJYQk5WWFpqUnUwR1h3Sm1RdGxFNm8yWXN4alcwWWRWVGMyOTF4Y3dJa25mbXVvN25uNWgyUHQyRVVGU0JnaTRUSjVZVDNwY0ZWMTFCanR3OWF3VlpocGdOYXhkSGJlVmc?oc=5",
-   "data": "2026-11-18T17:23:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "20uf9",
-   "titulo": "O que é a noite Vice City do Heat com o GTA VI",
-   "fonte": "Hoop78",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVk1lTnE3OGo1b1BCQS1NUFZGWkFXM1o2YXhGYm55eDhzLUFqVjFNY1hMWmF4bnZfOHZKU0xYcFdiVW42aTI5VkRNUnhSTHNLNW80OWloZlhVdHhYVVpuOUhma01VOEFwUWs3NXJ6Ml9FUUh3T2FPWV9pQWNQQjc5ZUxodw?oc=5",
-   "data": "2026-11-18T17:23:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ya4yuq",
-   "titulo": "Ações da Take-Two sobem com nota 99 de GTA VI antes de lançamento global",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRzZIQk5HRUdacVA1T1NUWFJFbEtYSE9EdXU0YThodnJuR3FNX0RDZUNyay1oakNUTU5xeHBvZE5NbHE4M2VFUmltQXpvQ3FqUTQzbDBQWlVENGY0SFdib19zYjFSRXdIeXlselF6QnRwTEY2X0hidGJqTEQyVEhPTmwzekhtZWFmZGZIM1NuWWVhM3M?oc=5",
-   "data": "2026-11-18T17:21:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1x706t2",
-   "titulo": "Google lança ‘tópicos temporários’ para conversas anônimas no Modo IA da busca",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVMtbER6Z3A4eV9RNFh3VldNQ1k4aWNwMzZaMm43R1B4Z3VCREIzYnMxSktRZm5YWVdjU1ZvUEs5aWVXV1VydzQzUmQzb3R3QUVnOXBfR0swYmpuYkt3SFRzRHU5U3pOMHBFV0dLX3RpRXo5NFl0Tmp4bWhTZnBaQ21wS1VoaG5QeVk4VWFLQ2hNMERzT2xENHRrX2QxRmkxcTBHTmdqeXZBOTdzSC1xb2tpRW5DcVhSa0NsMWM0X1ZBUE01YVNfNzFaX0R4czVFMWZYdQ?oc=5",
-   "data": "2026-11-18T17:21:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2llr5f",
-   "titulo": "OPA da Cielo movimentou R$ 4,29 bilhões; BB relembra operações desde 2021",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeGQ4dHRHMUI1cVRVVVJKNXc2eDhaTUh4dUJudkVSVjl6U3R5U29SX3lQQWlKdlhUWTNrODRHMXk3dHFoZlRCaURDaUJkVjRvd3B4RS01czh2YVI5RV83c21USUdia3dhd2QxQk4wU1I2MUZ0R1k4UEhDekNocWUwWjJFXzZSX1RiTTFwRmhXejNDUHVJb25DS2R2aUM4aVhmSEVmUzNHVGctX09MTDhGS1NnU0c3X1hGOVE?oc=5",
-   "data": "2026-11-18T17:18:00.000Z",
-   "cat": "Corporativo",
    "empresa": "",
    "score": 5,
    "marco": false,
