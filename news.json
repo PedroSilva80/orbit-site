@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T07:00:29.778Z",
+ "atualizado": "2026-11-19T07:30:25.510Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "5p0kzu",
+   "titulo": "De Ashton Kutcher ao ex-CEO do Google, conheça os grandes vencedores do IPO da Anthropic",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUGVFSmg0ZDNyZlFVdVNESldVSHU5Q1Qwc1hfeTZpSDdHVmUzVnZTYmFETUtONGNoQllLNUJBQnBTbnVRUG9QajVscGVQd21kZmNTTHVqMUhuQXZDdXRCb3RWbDctckJ5MTRRdUZrQ3FhYTl5X3g0ZmxZaWRjRzJsRFZlNFRLWnF2VHM5WEowTWtETWJBM0NSYWVxbHE0dlk1MzlRMXNNZ2tGdGNZV1BFQmk3WFl1OGx4d1hhWVlRaVkwbm1OelJkWm5wZkxuQVllMW5SVGlxVHF1bGlacFBZYTdoVUxtbmZpVlpJZVJ30gH8AUFVX3lxTE1SM0ZYSjBmblFsc0tudmZ6cjFINlhQTGlVUnBVdUVMQm9oN0gtTWlDendZNlJlWUNwTlRFaWVnUmgzQWI2UzRyR3g3RXN5TUMxck9MbFN4Y0QySFZxdGVUdWlSbG5JdFkzSm9oR3A4a1lubWdGY3QyMGZoSGRHZmNmTHNVVVlacWNnanJCVVlBRjN6bnktWW1zLUN6c0V1M1ZaemJhOWItOFFyd0pxUzNic1BmVGhUQmpRTWhZS3JmMzZ1alBkd1hvbW1aa2JBbVllekM1UmtRYlpSYUNGRlZqVWVFb0tpTDZrbThtOWNSOWxZOGxZRWV6V3ZuSQ?oc=5",
+   "data": "2026-11-19T07:00:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Google",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1tuvxgb",
+   "titulo": "'GTA VI' é emocionante, mas 'Donkey Kong' também pode ser: como a onda nostálgica do 'retrogaming' cresce no Brasil",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObUR6Qzd3eXVaLS1jRVgwdzQyeWh0YVNqUEI0YjhsbURLbGdqOGZMbTk5RzNHOGJoVHNCT2N5ejlBd21iSHJKMjF5dFhucTlBSnloZXd3enc5d1ZxWEZYaGhwOXgwTVJNV21NeXM4N044SFpjRlRYbEprRDBpUGJiU2MzLTRMTkxNZXBpZ3UtQ195LV9CbFZVRTdtT2VCQXZCcHVnM21QUkEzbFVtMy1MUFFJN0UyRndSODdlWnVCU1h1N094eUdrX2kweEU2UjVodW5aZHFJZUVjQkNyNHJWUnhtcGtia1FhUGxqU3kyWm9SZzdWaE9pSdIBhwJBVV95cUxPdFhKaVF5QVpwNnNPTjAzWExtM3lKSzA5NWhQR1RiQnZkMGlsdkd4czZtTHBVb3RyNTdBNGNJaVdvZHdhYk5KdjMyX19OZmJwOVZnTGQzeHZyWUhWd1Y0MV8zY0xqcGUybWNJaHU5Y1pwbS1OMUZNbWctMUJWX045NGJHaEtDSEk5WVBrdlZkUGc0UDhiUS1IWDFTSmJPTmdhc3lMaTJ5SXF5SFlTSUttaENCT0FKeEg3dXQxTjdOTTlWejZFZFVaUlRsV0VOREdjbG5wbnczZ3h1REZ3bUlFWEdfSlVlWF8zQnBBN21SMXY3OFJEeUxnM1ZDaC00eGVQcXVETjVpbw?oc=5",
+   "data": "2026-11-19T07:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13nlsl2",
+   "titulo": "'Cinematográfico!' e 'surreal': Fãs celebram lançamento de GTA VI",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTXVJamxaNk1nSGF6cVRNNlU4NldOUkRWdFRacWhJQUdFU0JuWTVMZjg1TE81ZXBEYkw2VzMzS3Ezb2Zlc3dnUW1QZDY1VnJpUXFVNXZLTWNxS25qOVp2WlU4SDRpb1pEN2dqWTZ4NkpKdXJpNUgyOGJiNVhzNGgtTnU0N1pFa2lxTVU2cGtkdF9UVVhpX09qLXRNM3lqT2tFN0NNcHF4SUtZWEx6ZkNTZms0d0xlTy1BM1HSAcgBQVVfeXFMTnJRSlM1YlZDS0EwYk5GWDNEMlp0VkpYWUo1dTNzcnNBZmRxM3Fqc0o1NmZ3RlEtM0UyYVp4NVVZVE5IX3VCcmo1VTFreG1nTnI1U0RmVEdTSWlKQnpCR2J2MmZFVXdQTDFjaDZsZUNTQVFMdzdvWHUtM19PMFlQaE56Z01pSUVPOXdNOExSWXBrUmRJWFVvLVFpWnhDQXlpTlRReXVRNFJFVHRYMHFFRGV1Y0h5d29jcFl5RkxNMGtwWV9ERGN4dnE?oc=5",
+   "data": "2026-11-19T06:57:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1rtf57t",
    "titulo": "GTA VI dispara em redes de e-commerce no Brasil e puxa vendas de consoles",
@@ -1301,6 +1337,18 @@
    "avisado": false
   },
   {
+   "id": "1lgyevz",
+   "titulo": "Atenção, clientes do Banco do Brasil: BB identifica vazamento de dados e alerta para risco de novos golpes",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRzFYVFFXYkc5YTBiQzdPek8tb0dqMzNzbGdSSmoxQVlRamJIcDV3VGxMSzdpUTA0SGVNV1FOZUx4MFRoSTljV2pwQmZ6VGt4bXp6QkVENnh1MkU3QVFzYXBmbFhyMHItMmo4bXU3eGhfbmU3amE1eVlKQ1Zzam92ZWRhTzZheEEwbGhvWThUTFdVM0htYWFQcnk2Ri1YeWxldWZ6THhCRXk2cE9SN0ZWaEhwTkp6Z1BWcEFoUHpSRnc2ZV9SSzZDVVh2QU1fTTNWaExKSkdIUllFc21tR0E?oc=5",
+   "data": "2026-11-18T21:13:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1lagvfh",
    "titulo": "Ata do Fed e queda da Nvidia penalizam Dow Jones hoje; mercado monitora IPO da Anthropic",
    "fonte": "Estadão",
@@ -1802,56 +1850,6 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a1ljdw",
-   "titulo": "Sabotagem? EUA descartam ataque hacker após falhas que atingiram Microsoft, NSA e tráfego aéreo",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZ2sxVmFmYkFzZTc0NGtnY0k4NlI1MVdFa3pxLTFLb0tRb1A3UmRQYi1XMVdFTlUwbVV4QWhfTkFZV09IRXJKd0Zxa3ZDSWZJWjVxMWt5cTk3OEYzM3pQUGRYeERSTFhjZTF0RnFwSEtqWnVkaWE0VVktYkhZVGI4ODVoaEpfOEVYWE5JcUVvaEg0YTA2VEtlR09EMVVJWnlLY0pLc2t1NU9vTmEtOGYtOHY1LWZacEZ5WThYeHcwRktNc2c5VTR5RS1YdEVFbVFOYXAxVXVEclk1Y3AzN0VmU2pEM3RIY1Z1ZlNscGtB?oc=5",
-   "data": "2026-11-18T19:40:45.000Z",
-   "cat": "Risco grave",
-   "empresa": "Microsoft",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795035630503
-  },
-  {
-   "id": "1uj7m8m",
-   "titulo": "'GTA 6': Anitta interpreta médica que comanda podcast sobre sexo no jogo",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOU0x0d2JGamg5b2RubXIzdGJNTTZSRFhzZTd2c2d3Rm9YamtxMEpsblhRRDRQNHA4M3dCS1p3aVRNZWJrN01OMGJ4TjUzcHFESzZ5UkJHYVpMdUNOTGYzanpGcW5vcnVJREtSQlVBbU56aDdjdzVLQTFFNlpqRGVkaUd6QWtiR2NDajlHREVlTjVPVmZUNDBRZUNYQkNFOVNJb2s1YVJoeHo3aVZLM3VBRXJCelQ3eHlJeUhZM2NuNktQQndDWEp2XzhR0gHYAUFVX3lxTE5Cd0YwdzA3WGprc3NTaXZDMWFXNkhaenp1V1N2N1liVkpleHVJZldUOFlYRUdTbmlYaGpmN2prMTAxZHV4c0xIMDNaVmtPMF84cE5wTW10RElKcEczZUhvcllidlh5RzRwMzN3Y1g0aTZxY0YwMHY3dExjWGJoUWllUnZKdGdnRXVUaENVTFJpN1hnbmJpZkF1WHNzN0xFNk9uc2xHQ1FzcXZtZ2U2THNYbGNRcXFnbzR6WE5yNXFaU1l0OF9xX0I1Nm1hMlNJRU9OSE9kanlyMw?oc=5",
-   "data": "2026-11-18T19:37:21.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ihuptf",
-   "titulo": "Anthropic define preço do IPO nesta quarta; estreia pode avaliar empresa em até US$ 1,4 trilhão",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzNyUVBwU09NNWlJbGJsREtLeW8zV3lha0pwWWdxYTJkbkh6OV9wd1kzSThfRGZnRVh3Rzl5OWN5dVF2dC1QZERXa3dLeGRZU2k1dG5SVWNzRU5xMDVIZERXVU1uU0VuZVItZ3A2WTJ3NVh3RmxvNVdOLXR1clh3Z08yYjlrbXJmaTN4VEpHRGlVMllSODhQYTl1NXI2cmlRQU0yRDZmeFk2VjZhRzNvbkhPaHpJdzcwZlpDZGt4ODM?oc=5",
-   "data": "2026-11-18T19:37:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795037670085
-  },
-  {
-   "id": "3mogqr",
-   "titulo": "GTA VI arrecada mais de US$ 1,5 bilhão antes mesmo de ser lançado",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNkhCcTZrS0R5ZVdPcWRwZm5lT0NiNXF1akJuNU5jVHM3Rk5EdTB0ZGhvOVZTN2doeGZPYnp5eEwwUW53MXhmLTdGT3dIWUZtSy1oNDBjcnJwUzdVMWRtSjJaTmRhRmFZaWU5ckNtejBPdE0yMVBCZUExZnJ6NmpwVWhLdFczVVJ5LUdMYUxfS3BwUUVBSDZiZ296dzZ5VmtNZk04ZndiWGJoeVpUWFo5ZXFJdk1EZDdv?oc=5",
-   "data": "2026-11-18T19:34:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
