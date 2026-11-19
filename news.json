@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T05:30:26.065Z",
+ "atualizado": "2026-11-19T06:00:29.664Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ogh0n6",
+   "titulo": "Supermicro lança servidores de armazenamento all-flash com PCIe Gen 6 equipados com processadores AMD EPYC!",
+   "fonte": "www.tmgm.com",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQ05IcHBKVEFIc09HYzNWaEU5Zktkc3F5ckJUOHFBdTRrdEpOVGlySnhWaDBGZ0thYTM2T2d6M3RhWW9MSHdsQW5lZThMekhCM18tbkFsR2x5RGhZNjF6ZkswU0ctV0gzN3c1RF9aVjR0YXlQbzctdFJ1R25oeHRscmt3?oc=5",
+   "data": "2026-11-19T05:33:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "AMD",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1owzg9d",
+   "titulo": "Vasco posta imagem da estátua de Dinamite no estilo GTA VI",
+   "fonte": "NETVASCO",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONUdVNS1DYi1uZEVabTFUdElYbnVFUDBkbmNDdzhzM3JmaHcyNDY0S0FxdmJmNVAyYmoxRjI0X0VoZzJjUGlWcnU5WTNaeVp3UlRydERfWjZnT0ZHRzh4clVtWXl1OUVzMU1zY2VCeGFnSlpwbnJ0UmcxOWNTLUVuY1hVWkRxLUJQSDBUQ3lraHJWdmVsZVVLaGFCUQ?oc=5",
+   "data": "2026-11-19T05:23:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "lkyam9",
    "titulo": "GTA VI chega ao lançamento com pré-vendas estimadas em US$1,45 bilhão",
@@ -135,6 +159,18 @@
    "avisado": false
   },
   {
+   "id": "1ng4n1t",
+   "titulo": "GTA 6: 6 acessórios do jogo da Rockstar que vão enfeitar o seu setup gamer",
+   "fonte": "TechTudo",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPb1lZaTNGVEJnUjRlUllCaXc3VVY1Z2RsdHFMNC1td01tWGRtOHVfLWZfSmxfNDB0VVpTWktGQVR5STVFTFdjTDFQeGQzZkdBOHFuVDlxb0x3dUZKdVFRSjdNc3hKeHoxS1lJSG9pLUZLWWRSak5MSkZaOVNuM09fanUxYThjbHRtYktiZldpOVJrNW51UEpCQ09lSnZkMHhVR3o3OGRSZXJwZnBuUGFnN0tFbTctUGxrNmxrcktOU2FZdVN0dGdyZ205c0pqX2xCWTY4S9IB4wFBVV95cUxOYmJjWkVxUjJyVm93aVptdUlhMmh1QkQ1RGdPWENtTEtuWUkyY29JZ3hLdThKWnRQVF85VncxV3ZaZWh3bEtQT19EUE5XaTVCanl1bVNxY1k1Yk0ybDFUbXRJSlpYSnZzVTlNRmE1QVlrV3RZelBYbk5feUQtNkMza2x4NHN3U1psbHdWcU1hMUx0aVNzZ1hmMzhIT1F6Y0F1aFhHMkJ5UnhDQll3RU1sbWhDR0drTTNuWjdNRUY0YmZhOTE5cC1QVHNFOVJqVGRZR0hBRGVoVDhwM0Q5TDlqMWQ5VQ?oc=5",
+   "data": "2026-11-19T03:00:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1wgycv0",
    "titulo": "GTA VI chega hoje às lojas após pré-venda de US$ 1,65 bi; veja empresa que deu folga para jogar",
    "fonte": "O GLOBO",
@@ -179,6 +215,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1o2ajj9",
+   "titulo": "GTA VI estreia de olho na lista de jogos mais vendidos de todos os tempos; veja o top 10 atual",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU2hvV3U5VjlocHJEMExyQzhJUzlKVUdDTzJnWDJUd2RhdEJ3eU9UdHV6WTlBdF9tNDgzQ0JWeUdqeHBheERFOHlZeG5BWWhtZjdRcnlrcXFOSmdYUzh2bHA2U0NtTDQtYUtNMGtEN1hvVFlfdUF0dXdjcWxYMTVWbXYybHk3Y00xUHg1YVB6RXZrakEtRmRHMWwwaWJnWHlfZGMzdG51MUtjcHZfdHNLVUQ3WDFtNl9Nd0Z3UGlfSVFqSjA2dEhBMFBZUVVZYWR3X2YzTTVWUi1vZ1Z1ZmJXcUVn0gHwAUFVX3lxTE1TY1BoQ3o0aWU0djY3Z0lPZFMxWENGUzdvNFlDcFFnc0pSUUtmREc3MWxLWXFndDVYeThzbWRPZHlNVTZ5SGVMV0hiclA0RFJyUTQtLXBVbkhWcDA5SnpaeUFsSndCTWpGZWZKMzdCYVVzem5SNHdGOU5OOWI0aVQyLXhZZTRjTVZGMXRuOFRTcldrTFQ4c2xPU19VTk91NWxPektoRVhxb3A3ZW9KS0dsZDROTURjeWF2WG1yRjF4Vy1GTC1mekVQYmx6RHZMejAzNjNramtYbnRKTUhLMnBEdFFNa19aRS1JUDFRaWEwTg?oc=5",
+   "data": "2026-11-19T03:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": true,
    "avisado": false
   },
@@ -815,6 +863,18 @@
    "data": "2026-11-18T22:01:53.000Z",
    "cat": "Corporativo",
    "empresa": "AMD",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "s8nd95",
+   "titulo": "GTA VI chega após 13 anos, vende 17 milhões e iguala recorde de Zelda",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNjREQ1pWUWdVVjV4ZTZVbHhVRXpiTHlfLVN3RmludjJIRjZXNWRRM2VYVDlCcUgyeDRxWWYwN0FjQ29kOTZUVjVpZkVMN2IxWEtoY1FiT2FmTUl6ZmNlUTRoNWZYTXdUY3NSSE5SdEZzTzIyekg4RmRNZDQySFVlQUp5dk5tSU83OERjRUt5NmVOR0MyM0h2Z0hBdW81NTBPdXVrVjFja1Jyck13VUE0?oc=5",
+   "data": "2026-11-18T22:00:06.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 7,
    "marco": false,
    "avisado": false
@@ -1792,66 +1852,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ezbr4z",
-   "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMEJYVUlYUUVBMjhobVJFR0txVkJ1LXBRSDdETHFfMmY2WVJHN0h6amhoZEhvbll0Z3ZXRi1zQzMtdFFPcUZ4emdMRVh0VFBmR3hYMGVpZlNaaHpRaUx0cGlnVEtObzNBLVJOSWl6WmNfZW8wX2lGSUE1Ty01N3NwQ3RpbHF6STdFbkhIc3lPMWZhRDl6TE05LWNqbmQ2TU5LRDBIQXdxOFpLQTJxcHlXQV9raXlKQWJXNTM4?oc=5",
-   "data": "2026-11-18T19:27:00.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s56cn0",
-   "titulo": "‘Achados’: Meta lança aplicativo de compra e venda de produtos usados",
-   "fonte": "AJN1",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeVJheFZvN0tuVnRxOGVRTVJwRV9ybmFaMmtQcm9zZXVuTEQwcWNIa0FWZTc5T3E3TXdUamVBNC02WHFCbmo4VnlXZlhlZDNQRUNpMmdfZ2h0TmRpZTF1RHNYamhua01FcWdlRWkzQkZxdGlnOFZXMFVTUWZOWmI2WkZkMmc4TTBlTFJ3NEVacGc?oc=5",
-   "data": "2026-11-18T19:20:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bj87uh",
-   "titulo": "Banco do Brasil e Fluxo W7M lançam ação de live commerce em lançamento de GTA VI",
-   "fonte": "Máquina do Esporte",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVotRE4zYXlueFR3bXcxUURQbmRLejVqTGdmS2JENGpPX0NtTnZHTERReS1ubDY3WThlNmE4VGFFQW81Z0w2WnBBa1pNV3IxQk9CVzB4ekMwNV9xOUZUaU50US1ZOFBRSHV6SGQxVVk2RjNlT2UyTVRGaEpfX2FNZ0N3c00wVVFHMDhTaGdCS1JuS3NQNnNuLXdqNFV0Tl9BS2ZYOGE0ZjZreHpHdHFSQldNYTd5QlFvS3pVX0NB?oc=5",
-   "data": "2026-11-18T19:20:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Banco do Brasil",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bqmuzk",
-   "titulo": "Anthropic desafia queda do Nasdaq e mira IPO recorde",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa0JQMEFWeFJqem1PSzgtaGJrNUg0VGVZeVRXNVZfVEExcGNfeVpWUEl5SDNLU0Z5WFZwSXNNQnk2QWFHRHN4YXBTWWNmOTZ3dktuRExfVTNVaVRkNlQ1M01rSE93UVZDWGFtcjdLQ01uc1FNeXAwRWhOQldjV2tsQ2V3OXlsd1lSYm1tMGViZ0xaOFBXZU5MalJXYXU?oc=5",
-   "data": "2026-11-18T19:19:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ramu4j",
-   "titulo": "A empresa que deu folga aos funcionários para jogar GTA VI com chope e salgadinhos",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMFdlZEhsQ3RSNkVLSE1jNGMwUkRWVE5mUjVxU2tmZFE3Y3h0NG9LUXdiQlVWV3B3MkVLcU0tTk9USnhtUkpldGtCekhmVFJCLW9RakNpU2l4NjNDUVVIUGt1dWVpWkVQdGVjQmdIUlpCeTJEcUVrR1RVQkxIUlBtQ2E2eldXR2hqX0lmVDFoYkZ3S1JNbW5ORlU1dFcwR2FUejNnS1BHa0txUnZDak5lSkhGOWloZU1oQ0E?oc=5",
-   "data": "2026-11-18T19:17:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
