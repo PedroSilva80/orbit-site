@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T06:30:27.331Z",
+ "atualizado": "2026-11-19T07:00:29.778Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,18 @@
  ],
  "itens": [
   {
+   "id": "1rtf57t",
+   "titulo": "GTA VI dispara em redes de e-commerce no Brasil e puxa vendas de consoles",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORzhMaHRmUEg5eVRrN1RRVlFPT090Umw1eHBUX1ctQy0wcEVaczExZkdyQUFSaVVWRUY1U3V1bUZkQXNzS2pFbVc5QTJfSzQ5S2UxZkQxbF9mV1M5MlNxdURnOFo0YzJpRF9wYUcySGpOM2dQQnQzejV0R3I3a2dQOVpWTnpuM2NpbDJqMF9Qbm14VFFRcm0zbGpDNjh2eXE0T2lJWllvWDlLUHdIWmpaNUJ4NHNnOVpseFlfeXNqaXIxNDRMOVE?oc=5",
+   "data": "2026-11-19T06:45:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "yr3qo6",
    "titulo": "Ações da Sony sobem com PS5 dominando vendas do GTA VI",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -60,6 +72,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zg7tom",
+   "titulo": "PSN registra instabilidade mundial às vésperas da estreia de GTA VI",
+   "fonte": "Portal Viu",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNY1Z4MlZYbHJaYTMyOTVGa2FaODdTWHNIUldaNzVWSHVSOU4wR0xMOEVvU09qNDZpMEhPRElMQmVTVTQ4ZUNPeHJMaXlkalFPTnAtQU1VMTVWazREbkxQbjc3QXNOODlQRmJGbzNyUU4ycVJRUXNCdllsQ1lmZ0s5Q2hXUnptY3lsVTBPdThpeDEwT2tZakxuakx1NnluaFVLM3pz?oc=5",
+   "data": "2026-11-19T06:02:25.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1828,30 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14dip2p",
-   "titulo": "GTA VI acumula US$ 1,54 bilhão em vendas e movimenta mercado de games",
-   "fonte": "GPS Brasília",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8ycG1sb0FPOXo5amZRWkthU0FWVl85dTNlTmtuMi1zaXN3SFE0WTYtZDVYRGVkclZseTViUk5LbGNkSE9zdThzZlFiS3lKVDI2ajUxYTJKUkd2bGdlcXI5T1ZYUmJFNTU4SWRjaldVUXZqRGd3dWoyaQ?oc=5",
-   "data": "2026-11-18T19:30:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jdipab",
-   "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais e risco de golpes; veja o que foi exposto",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODlUSlRrYjdXdzh1VDV3dDk5Z3hQS3NIMGVqOEJCYktpZTluU1RGdE1rNktPUjNTdVloSkxwdWFta21lSVpDMmg5WDZmczdWbFF4VlF2cGNMWkZ2UHB6U2VMV0VVelR2cWM4MjVLQTJlaFVDRkRsSmdvb2RyMzhnSF9LNULSAZMBQVVfeXFMTmFqQlI2VnRjMElKd1FjbnJ3dEVtMjFFRkdIb0xGbjg2bnBobjY4cVNWU0J6Q015dEp4b1JvQXJVZEtQMlhaX2J5d1FhcDBoUnRWVjd0MGZjdDdpc2xlc3k2cl80WVdFZ3MzbTcxYkMya1VxN1NZNW1uNFJodTNCSXZnbERQZ0hBZW04djE0VFY3eG1r?oc=5",
-   "data": "2026-11-18T19:30:01.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
