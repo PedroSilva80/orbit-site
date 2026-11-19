@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T02:30:24.284Z",
+ "atualizado": "2026-11-19T02:48:21.356Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -58,6 +58,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "18v2ajv",
+   "titulo": "Gigante de IA Anthropic tem listagem precificada em US$ 83 enquanto negociações OTC disparam 18% para US$ 98",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzMtZHZEQUpGWVhWZzhQdnNVbVc2VWpRZWZLRzY1dHpmWTNHWEtfZ2dSUHN1c0NpSjJ1R21TMlZxWXFkdHJKd3dCMUlrLV9pWURJWjNZeE1yOEdtQVl4SWI0WndvLU40MFl2QkJUaHhBQjR1WW9OQ1BoNThhMlRrQS1NZzRoVnNzeUxWd2k4MW1QaW1CUUNuUkk2TEdqNEVBbUlKd1JHNzZpcUYzZW1pMjgtNDhCMEZxY2VnWQ?oc=5",
+   "data": "2026-11-19T02:31:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 5,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "13hq6cn",
    "titulo": "A Anthropic arrecada um valor recorde de mais de US$ 81 bilhões em sua oferta pública inicial (IPO).",
@@ -1848,18 +1860,6 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1bw8vl9",
-   "titulo": "Twitch terá recompensas especiais para fãs de GTA VI",
-   "fonte": "Portal ABC do ABC",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFByY0N1UFRqVHhjR3BGLWx2dEo4WFl4VGFSNlkzTEdHeHBzLTc0NEdUVjZoZXZDOGtZeUtPa1hFc1Z4WG43bGZpNWV5bDhXRVpZMFpiZ0pTR0RqaW1Ta2E3aTVaSG1IRlR0WTVNd2ZDUFNjdnUzWWVmWXF2cw?oc=5",
-   "data": "2026-11-18T18:26:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
