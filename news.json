@@ -1,11 +1,12 @@
 {
- "atualizado": "2026-11-19T09:30:35.332Z",
+ "atualizado": "2026-11-19T10:00:34.933Z",
  "agendaCal": "2026-11-19T09:30:35.332Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
   "dig|2026-11-17": 1794946650326,
-  "dig|2026-11-18": 1794996028930
+  "dig|2026-11-18": 1794996028930,
+  "dig|2026-11-19": 1795082434933
  },
  "agenda": [
   {
@@ -188,7 +189,8 @@
    "empresa": "Anthropic",
    "score": 12,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795082434933
   },
   {
    "id": "8hqy9s",
