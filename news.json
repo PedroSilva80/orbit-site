@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-18T23:30:27.907Z",
+ "atualizado": "2026-11-19T00:00:29.843Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -58,6 +58,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1keikx3",
+   "titulo": "'Estamos vivendo em um mundo onde os bandidos são aplaudidos': após sucesso mundial de documentário sobre Suzane von Richthofen e suposto cachê de R$ 500 mil, Rico Melquiades faz desabafo revoltado contra a Netflix",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQaE03TW1GdVBYX2E0Sng2OXlMSl9nRXBiUWptSWhPYzE2azQxWTVyTWhfUHlBaF9WdGhXSlVkYnVWOUVHNUVNRHBGMzlvdldUQXZLOFQwZU9XbXFOeTlBcVZwS3hfQm1OeDlhZnNwUmhJQTZsZW10YkZTNFJtVTBZcjlpdXBkeS1QcEF0TTh4Yk83QnZyRXNBWng5RXVsWGpzYkNEUm53TUp5bTBHcEIxNThSU1RsQ3NMdkVlaUotZmRja0NabkFOeGhYcjN1NmN3UVF2Tnc1NEZVcjk2ZlhvRTh6ZFIyTjNYS0Vablc4YmRrN3hkLU14QjlLSURwNnRsZ0JsUWdfMGdYeWhOSkhZTUlBOW9uMVhsYkZuc2lEMlpXUVFHakw4dWpaREZlN0JsRkg2Z3MzenRnRGhzdHNKZG5OUDJQMzNiOF9ITVR2ekVZbXR1TFZsSURJbUtHaHdESExlTmVNRVpIcEk5ZDZSbkVRVEtwalB0a3FiUXFNLTRYMURWNHdfNFU2eVdQUHY5MTdJdEw1N19WY242UlpTVHA0VUpsUQ?oc=5",
+   "data": "2026-11-18T23:52:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vyai2m",
+   "titulo": "GTA VI deve mudar rotina de brasileiros, que planejam folgas e até faltar ao trabalho, aponta AtlasIntel",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQmtiSHQ5cHlFVmpNa2VMNlhHdjNFU0R4S1o1NlZQZmlzcHlkTk52R2JzVzJ4SjNzVVFHQ0NFekppM1h4THFpWlpUWFZQeVRoaFFySGtFb0o0cEJXcDRjUE9odW9FakNaSmwteUxHbTZUVE5FeFFadEdTaVB5ZGZzUklRWndjVDRIXzBRNTVBUkd5R28yX2VMd1hLZGVudE1XeDBRN0FNM3dGclFieVJkbFUwNzJWUHRXT0ItaVRwSW5OLTcyQ1NYc2RqeXBJd1lYeWlobVFCX2M1djdnSlE?oc=5",
+   "data": "2026-11-18T23:37:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1a3fmh8",
    "titulo": "Nvidia dobra lucro no 3º trimestre para US$ 65 bi após crise com ex-CEO",
@@ -439,6 +463,18 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zmmj52",
+   "titulo": "Anthropic supera expectativa em IPO e chega a mercado com ‘valuation’ de US$ 1,49 tri",
+   "fonte": "Globo",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeTBkbXVVRHludEtvQlcxSlJYVmNXWnMydWRLOFM4ckRyWUhoYnd5emNXYThEQUVjajRzM3loWWowWnA0eGpQdVRiMnFLSWpGaFNKY1hlTjMyck0zM3JFblNJLUJaMGZWTXdNc0EzVTIyZVBLcUkxS1VqUXdtREQxYlg2TDNiZFFlUFN3dDdyRWlKVFJmNkNUaHlTZ1lmQjlodW1pa0tzUldiQTlzRGFpeFBZWUtPd9IBxAFBVV95cUxPM0JIRm8wUDc3Q2lRNDZlcTdpemw1dFpxZjI1RjJzZmFWWlJpWkJqTFpFd3ZSRExKYlRZYlZBMWxPYVY5RGN1aXJOcEZDV3hQNTZpOEZ1NE1SZVMySWRWQUk0WHJNeVBOb3pWdUlqaUJJUlZvWU1RNXYyNUdRLU0zak41ZG5KekR3eEljUEdNWkJQejdfSF9EcVB6S0xKSTNld2xoVmNCeDdxU0c5WjgtRFc1YTc1eXM2ZXBPalhEd2l2UndG?oc=5",
+   "data": "2026-11-18T21:33:38.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1215,6 +1251,18 @@
    "avisado": false
   },
   {
+   "id": "g7mlmm",
+   "titulo": "Durigan diz que governo não discute mudança na meta de inflação",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamRVY0d3eTNacjM1dnRZRU9DbXJ2aWFhWHA4RUVzMnpVdWprdlY3azMyN1ozVlRMcUFYSk5YYmxmM0Q1QTA2LUREWWY1dFBSTXlISWtuT29ST1FpY0w3V0djc1h0aHJLck5zVnVLNnYwb3liLUZpbndGYk9oQ2QzMHlHeHdIb3M4TXpBSGdhdk9VTFZVUGtPVjh5aTZ4SklScHRJTGtLRHJwUDVZcUU4a2M2XzlSTFZvb2FCM0hNYw?oc=5",
+   "data": "2026-11-18T19:00:38.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "180n8t",
    "titulo": "Anthropic desafia recorde da SpaceX: os números do possível maior IPO da história",
    "fonte": "InfoMoney",
@@ -1812,54 +1860,6 @@
    "data": "2026-11-18T17:00:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19bppcm",
-   "titulo": "Nuuvem presenteia colaboradores com GTA VI após jogo bater recorde global de vendas antecipadas",
-   "fonte": "ACidade ON",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNb2RhdmtkZEN5elVqVTR5aXpld1lRTUpVTzNZUEpvZVFhNDJJaXhkM05GTHZxcDlIcklNNXZxU2Y2aGtkQ0txQUpDekp1V1EzTE1Sb1phVlFMTXNkQW5mMlNzbEVOVHhuVHlESURZNXVDdzhyWWRscXdfeVJ4UUFwdGZfVGVDcTdjUFdDcDA3Y3lwOGlTcWd5MFFKSEtaSGc0eks3OVQtMTdUenk4MnZXZFRXakxfeDdxTUVqX2hUQ2stWW5TUTlrNVp1Zk5RSmduWUZsSEdXYVlHOUdKbEhr?oc=5",
-   "data": "2026-11-18T16:53:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qa4hnd",
-   "titulo": "Twitch lança ativações especiais para celebrar a chegada de GTA VI",
-   "fonte": "Portal Making Of",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQW96emlKNGp1UVlPLVlsaFFrRVlmS3c5ZFF4RWxYY01RQk5DZE1TdjA3a0pOdFdkT1pTaUU3WGhtcTVFQ0Y1aldET1paVzFfNHpGZ3FBbXRraXdXVnN5eFYyMkU1Qnd5azhEeG9FZzE3TUJBQVJqZElwR3BNOW5ZVHlaaVV3RkEwZThNYkRiek5OcjNvdk9rZFdXY3JMQQ?oc=5",
-   "data": "2026-11-18T16:51:59.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wjqflt",
-   "titulo": "Investo lança POWR11, primeiro ETF do índice de elétricas da B3",
-   "fonte": "Funds Society",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeG9lRU1aU1dKenZiX1Z0YndxVmdFOE4zX013dW1oZzY5TW0wLUt1ZGpVallyZDlsNllwaG9WUzJRdHBtd0RYVUNSXzNPRU8xZFVaaGthUVY1LTg0S2dFX1d0NWNhcW0xWUUyR0pOMWJqZDdNdTcwMENaYTVlUlNTYko1U1BKU3ZXQ1VZQnQzR0JkeF91Z3hzdmZ6dF95UXVRZmc?oc=5",
-   "data": "2026-11-18T16:50:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5fuu2h",
-   "titulo": "Rockstar revela novas imagens de GTA 6 em parceria com The Weather Channel e mostra tempestades, neblina e chuvas que mudam conforme a região do mapa de Leonida",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxNcGVIUzhvMUFxNkFCcUp3dlpScDNMQ01Tcjh0UGQ2YzJDU0NqaV9Vb1BLbUFJM2xIMWMzVGF2Z01CY010QmZwUllLaFJpWkxGaHZqT2VfYlIzNkMzajBhckxXUldaTW9uczBsdldEWkI1OThBZFlycXJSblVGaGF3czYwWjhjQ3FhRDdPU1FURlRlNGNNbUU2WDdNNDcybFQ5Um4yVTNxdk9WXy1BODFkczZKc2hNMGVoZDR5SjRQaHJYZFJYbENXZTlfQzdEcW84ZHMwWmI1QUZET0dLU2kzZURENkZyUFZzX2pvaVpIVDFtemd3TGFMSGtfUno3YjFWRFVPRTFtRFlMUGtpcXBueGNLVndBWUlnOHhXOXpCemNBek5GNTlYbXpJUVVDRkRsaGgyeXVPLXVOemd4TURlMU5kR1Yxa1hVTlRuVEMweXpNYVJXWElXamlWaw?oc=5",
-   "data": "2026-11-18T16:49:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
