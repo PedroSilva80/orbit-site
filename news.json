@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T06:00:29.664Z",
+ "atualizado": "2026-11-19T06:30:27.331Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "yr3qo6",
+   "titulo": "Ações da Sony sobem com PS5 dominando vendas do GTA VI",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZWU0b3JmcHgyZVhpMko3eTdDNnpUN2tSLWpkMmN1djFNaGdUTGRPWG1ENXJ0Q3Jua3lEaDJfM3VlNkZXVmJiUmZ4Z1U1TEdCR1ZfVkdXMWZZVjFWZGxxWFJlVEd6VjlrRXdmTC1KeHl1VnozUXZ0Y3lHMEU1bFZDUnY4cHFzdzRqOHpkTGhTMXFfZ1pBWnk2WlBxMDJQUDZ1dENia2tDVVJ1SmNZcUpz?oc=5",
+   "data": "2026-11-19T06:07:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ogh0n6",
    "titulo": "Supermicro lança servidores de armazenamento all-flash com PCIe Gen 6 equipados com processadores AMD EPYC!",
@@ -1840,18 +1852,6 @@
    "cat": "Risco grave",
    "empresa": "Banco do Brasil",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ectqp0",
-   "titulo": "Resumo da noite: Demanda por IPO da Anthropic dispara; ouro e petróleo caem",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHQ0liM0xyUXVHN3k1Nzd1bWR5Q2gwdDV1NnlWUmhpTWwtblpxdEhTajNnY2hTVWVQajNCUUQ4OUh2Y1NFS24zQmNJWnBhTjl5bHFUZ0FFRWhfdWNiR1BCUW83VFNLUQ?oc=5",
-   "data": "2026-11-18T19:28:41.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
    "marco": false,
    "avisado": false
   }
