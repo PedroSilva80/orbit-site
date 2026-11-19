@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T00:00:29.843Z",
+ "atualizado": "2026-11-19T00:30:29.626Z",
  "agendaCal": "2026-11-18T21:30:27.133Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -59,6 +59,54 @@
  ],
  "itens": [
   {
+   "id": "gc9qdo",
+   "titulo": "Netflix estreia minissérie de 8 episódios sobre fraude de criptomoedas",
+   "fonte": "Home - Observo",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRldPelk1X1ViMTVwTTR1Zm1QUFdEOTlsMk9DMzBmMTFqYVJ5Rjk5aEpBc3JEamlHYjR6dFFFT1JBZGJiQjJOcWRZXzBXTTBoUFF1Rng5ZUR6SU5Gd3JNa1lhZENuVzRwb2g0dXlEZTFnUFlnajRTdmVNT1NWNjlMcHhlN0xITUxaSkJHVEc3MjlCZ04zR0V6T0hYTkZzUQ?oc=5",
+   "data": "2026-11-19T00:17:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Netflix",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "t2o0w5",
+   "titulo": "Anthropic arrecada US$ 79,4 bilhões em IPO e supera recorde da SpaceX",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1ZaclNGYWVLczcxNG1vbFVrVXFMSEVXdkFCVU04U1RZVU1qZUVzeGRjWGVCY1RtZXVhenpVWGRPZ1gzY2QxakhhSUxiZkRXT0JOZjJUVWRHd1psZEJwV1luaHFmT3lHcFFqX2k3WW1mMXJWclo2aG0wV0RvSmNwNGdtS3VmV3JuZFNzQ3FDUHVJVTdyaGlmVXNlVnVOVW9qNm8zNk5ab3hRRDQwSGkzUW5MQ1RIMjZtV1RvNlFSR0ZxQW1LVW9xbjJYSQ?oc=5",
+   "data": "2026-11-19T00:06:04.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "337c6b",
+   "titulo": "GTA VI: todos os estandes de tiro e como ter as 42 medalhas de ouro",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMXVYWElxR0VqZjFtY0hwclROZG5PYkh1aFpQb3ZFbkdUUlpIMnEzYzRoc3lHa05zdGpMVGpfeGdWcGRlc2dIMFJnblIxZUxOb1I0M3FMUU9BYU9WVGhTTlo2cWFvR3ptOW9wdF9wcGhTU2ljVUVEQXBRLTRMZ2JQZg?oc=5",
+   "data": "2026-11-19T00:01:06.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1472sy1",
+   "titulo": "GTA 6: Rockstar explica por que removeu mecânica de 2001",
+   "fonte": "Última Ficha",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCN3ZnNlJMQmVhbHJlMmtaMEZ4eE5xMmF6SHNuUzFtUlh1LVQ0ZmVvc3FvejlZdEJpQnJWUEFUOTNSdHRSVjJYMHAySC1aLUw1WG1WX3ozMWJLc0NTc3FTRnB3?oc=5",
+   "data": "2026-11-18T23:56:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1keikx3",
    "titulo": "'Estamos vivendo em um mundo onde os bandidos são aplaudidos': após sucesso mundial de documentário sobre Suzane von Richthofen e suposto cachê de R$ 500 mil, Rico Melquiades faz desabafo revoltado contra a Netflix",
    "fonte": "Terra",
@@ -67,6 +115,18 @@
    "cat": "Movimento",
    "empresa": "Netflix",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1kfqss9",
+   "titulo": "GTA VI: todos os 22 bancos, localizações e como assaltar os cofres",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2dRM2phSmUzRGExcWRiOU56R19UUmRZakZQTHEyOWJBc0NUd0gzc25jeTJOS05TYjZTbGxVYzZ6SlNTWlVESVlUa3dRS1ZkdzJvVUdnTWZoX3ZJR3ZKNTh2cmJHWXUxcUR2YzBJY2E5cXV6c2NOQXZlbGtSdG95eA?oc=5",
+   "data": "2026-11-18T23:50:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1443,6 +1503,18 @@
    "avisado": false
   },
   {
+   "id": "1d52hq5",
+   "titulo": "Ações europeias caem com fraco desempenho de mineradoras e cautela antes de IPO da Anthropic",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xYWpYMFVpYTBQRHRNcER6YXhaejhYTlRBVjRaaDU4eFkxQkFldElYS0lTZkVMbENnR1BBVXh1bHJIMGJwaWpPdW9ISnVZN0hXREEtSjV4Z1RybHkwcHQtdmdHZUpQdlhkcVEtYkRmYjMzemtXZVJn?oc=5",
+   "data": "2026-11-18T18:24:59.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "75o8ro",
    "titulo": "Anthropic se aproxima da etapa final do que deve ser o maior IPO de todos os tempos",
    "fonte": "Valor Econômico",
@@ -1789,78 +1861,6 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "127f059",
-   "titulo": "Rockstar confirma que não é possível contratar prostitutas em GTA 6",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNa0h4dGU1VVl6YnhIUFdZbGRqWElPUUQ4UTFmQmVjY3NZU0JzQ1hXYjJoSkk0WXB6dzBSenJ6VlJOd2FUYUVfMkhKTm9kWktqZ2pKSXUtSkliNktKN0lQLTBZQmNVTGRUQ2JZQms1M0VnRGVNVlBjRDdpNXcyb0FoOG9Na3NqR3ljUHljU2RIRXQ3azQwTEl3MU1wRUdER3JXaXBuRTVDUDFhR013RTBUSnpvWHJRRmtzdGx2VjZqcTdJTUs2NkNzVFg1cS0ybkdPT0R4ZW01VnMzaU5sT01TREJPWUtUZ3d5T1MxX1EyaWtzVGx4ckxjZmZCbzc?oc=5",
-   "data": "2026-11-18T17:16:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q6bobp",
-   "titulo": "GTA VI chega nesta quinta-feira e promete entrar para a história dos videogames",
-   "fonte": "RRMAIS",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaFJNN09JTzJEUjJRb19Uekd1OGdDSmN0SzRicS1xSy02QXRtTUxvT25hM01OeWp4QWZkTFJCenhoZ21tRGtRZVc5NFgwUGE0dXZFcUxHVDhfdDVzckFza1F2c295SUtzdVBuVVZiT1BmdEFONkdESWxDNXNWVUg3WjBHNHFmWGhid0ZsYWE2VmVuTzJOXzE4WUl1R3RJRGVYUWY4YVRJNDBRczg3QmNTb1FlMWpTWUg5V2ZDMmtoUW1WWnNsLTFEcjREUWQ3ZUpwX1o0?oc=5",
-   "data": "2026-11-18T17:14:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "henwsc",
-   "titulo": "Anitta dubla médica em podcast no GTA VI; relembre outras participações da cantora em games",
-   "fonte": "Extra online",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQ2gzQ2pYV3N6b1VmeEh1WHM2emJBSVp0eEZSM3h1WWJ3Vno5RUFZcGdPMXduc1hYT0IycHlhRjQ3NFZNRWZDZUhMb1Q0bjJUVWVrTllqTzlBMjhwOUFMUGV5cEUxaHNaWmhDM1JRNTdGX3NiMEw3ejhLYm15eS1qcVN2N1lrZ19RMGxiRS1FYVJEbEE5cmc4ai0wZlpnSzNfNFU1RWNUVGw5X0ptUnRNeWtTcWNUNExjeTc5WlB1ZHF1UUFaVFpQMUNQMnNBODUtYUE2RDFtN3Bsemp3WGRNRXQzdXBScHZoLVd0N3NrTUt3RE5T0gGDAkFVX3lxTE9KQWlTcXllTHFZTTlEejRRS2JhZk5jbEVUb01YNWFsMlVfdjJsQUxWeVhQeFM3THN6RGpYZEhBanlWSjN6QmpYY0ZIUTE0eXo1eWxRbXVGZFlHcEtxcFNBb2lyc0loXzJHSXd5TGFSRDJzWGswamV5X3pCQ2ZCa1JfajNqWktEaEVyb2ZYcHZVcV9Yb3daSlhWQTVRYzI2OXkwVFFPOHJ1bmtOcTFYNlA1Q3lTN3VQVzBUckM2WjhGM0xNdnEzU241SlJ2VGltMXdHY3h1LUliOWVGdVljM3g0M0pDclFBYUFLMW1taDlkOFJqY3pEbjZmbGcwZVdtOEtMWUk?oc=5",
-   "data": "2026-11-18T17:10:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5mnovn",
-   "titulo": "IPO da Anthropic: veja como investir na criadora do Claude por meio de BDRs no Brasil",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd1A1T0xXSUVKNnlhZUsyQnJ5X0JabmRLeV9EZmVXODV0aWxkYkhOUGtWS3RYOWRyNE05VHFrQWktZkkxSFJ0Q0dxXzZjNURmbElnTVpwSzZIWG5tdkZleXlSdkVVYVVNUVR5QjZpZDdHLU5BNTJqd1MtTWw1OURqOXg5SmdkZ1laN0k4UEQwX2x5bVF5MWVyRXpaSXdYVENybkHSAbABQVVfeXFMTlJyekRnMHRZWS12RHI4aG1tRTdvclhxcUJtTV85YzAyemt6c1VCcUU2U2xmVjJ6b1RmaGFDV3pqQ3dMMlpJbW5YNGlJRHFqX1ZUSVlVU1pHQV9BbTB5WU5uN1NydHI2OXRMd3pNM1JPYWpPYzJWWTk1S2NZX0xEWlctaFlySXZCemdSeTNSNFp2eVVJM1J5LXowamtPazdpRmQyT0R1dnBWYnpzRWxpUHI?oc=5",
-   "data": "2026-11-18T17:08:39.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jhnajc",
-   "titulo": "Xbox Series S roda GTA 6? Veja o que a Rockstar confirmou",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOTQ3ZjNCYlgwU003ZU9pMk1kUUpQVzdoZTBBc1lRRF90bEh5QlFzMWU0enlmTENOeE9sOGVselh6Qmp2dlVFTW4zTFktcjh3MFZXZmFielZzeVN5VU54OGRpUTlCOHZ4QTFpVk1RcE9RbFg4cEJtMk5TNWdaazNST0FrbHZnRTNKTUJXMTM1RDlqWEhrMGN2RHhIZU1JaFFvNUJIRERVdmRkeW1ibG1JLVBTbDIwbVZZ?oc=5",
-   "data": "2026-11-18T17:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2nios7",
-   "titulo": "O que GTA VI ensina sobre capital cultural e atenção simultânea",
-   "fonte": "Meio e Mensagem",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ19zazF3b3VOajBaMVJxcXhiVHMwem9fb0otNDYySXUtd3E2NWlOS3RnWUNFak9ZRFdRQlZLT211d1dYYzg0MDdYQVpmZjIzUG9lQ21nOUE0MUZtSmlfaGxXbC03LXBzTE9vQV9tdFVvd2VMaENhWlpUNDRQOUZmR0toUlpYVllETEpvV01FVURPY201bzdIeWxkbDF3OVEtYVRuU3dNOA?oc=5",
-   "data": "2026-11-18T17:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
