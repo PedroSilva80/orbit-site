@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T05:00:28.767Z",
+ "atualizado": "2026-11-19T05:30:26.065Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "lkyam9",
+   "titulo": "GTA VI chega ao lançamento com pré-vendas estimadas em US$1,45 bilhão",
+   "fonte": "Diário Causa Operária",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYkZmQWFYQjk4ZVZ5SnFuMFJ0YVpRU1BGN29NOS1naFJqREdLZmtlVFVLa3gwTjFBX2JHZkRWNHZ4dVBjdDZOdHUyaFMyZ0ozWHYtc0hXVHFxLWRkSC1qVHhLQlNuRG8xejhZSC11ekY2WlRFdXZSUW9JSDBLb0FyanJ5eGkyRlcyQ1lOSmwwWU5IRFNhRFZpbGFQVlBGQ3RCMURfeg?oc=5",
+   "data": "2026-11-19T05:01:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hmqv3n",
+   "titulo": "Entidade acusa Sony de omitir trava que pode impedir acesso ao GTA VI",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW9aXzk2UjFrd25HMEdodGMycEg0RWI1NEFERTA3aVdHN1hMQnFnXy1kX1QxbVFERkp1Y3A4T0FCTXFIVy1aZ1psRjQ5TXU2NnZITEF1ODhEdEtJbk5EUmd4MmRBYVZST1N2QXAxeTlESWU5ZENVVWNYZldTLUg5Nmd5SWdwbHVJakhKeHA0SjgxdDVWNThneG91NlJkMUxlemRpU0x4dEYzem5jQ2plMnRadGUtOHFCNmVya3VSYw?oc=5",
+   "data": "2026-11-19T05:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ryftd7",
+   "titulo": "GTA VI: como era o mundo do esporte no último lançamento da franquia",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQWNPVHFrN3NrRzJ4aU15RzhLeTc3TEpVUHI5Z2ZpeW5XdTlXVktkel9rZVU3SGhUaUVhSjE4enRXS01XSVM2ZkMwVjV1YVQwM3VwajVhQkVPd01VTmJuM2Yya3ZCQWZtQTIwQ0RxbnpOajhkSHFSTWZZanpTZjM3S0trc2dHOG90RXQwNDlYSUdxT0RWY0drc3hkb3ZDSFdRYXVJS0hR?oc=5",
+   "data": "2026-11-19T05:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1xp03u4",
    "titulo": "Anthropic estreia na bolsa dos EUA com US$ 107 bi",
@@ -431,6 +467,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12ok2qa",
+   "titulo": "VÍDEO F1 - Hamilton admite ansiedade por lançamento de GTA VI: \"Vou voltar cedo pro hotel\"",
+   "fonte": "Motorsport.com - Fórmula 1, NASCAR, MotoGP, Fórmula Indy",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQjBYSF9NakZqSG1wVTU0dWpMbGVLZFFMc0JiZnZOVF9HdFhuRUp4b1FPcXFXQ0E2dy1vanNQWUZfQVFMV0tLMjdqQ19XMkxGQkg1dF9xelExU1hDNGZNTVB4aEJiYVFIZFc1M3RTTHE1eXU0YU52aXBVcC1idWE3clQtdmtNVG85Vl9tb1JVNDVCOEZnc213ZlNELWpJMUwtdWo4V1BWYXNfNXB6WF9lZWFYM0l6QlRFaWtYaGZyTGU5NDBKZ3dTeFJIaEVTdw?oc=5",
+   "data": "2026-11-19T00:19:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1804,54 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16jtygv",
-   "titulo": "IPO da Anthropic está derrubando o Bitcoin? Analistas debatem teoria sobre queda do BTC",
-   "fonte": "Portal do Bitcoin",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUUZVVm1MYjh3SDBGc2xiXzBvdWFIZzg5WGM4R2ZYaXphVU9uZzJCUVY2V0dLeDBYYVpyQmNWN2FpVnlxT2d4RVhrVzJKUzQ3NGlCQnJnTFFVQnJjMi1OWE1jOWJIQnBYcTJrMHNnUXkyNVdOYzhDR3NmMGR3cTB1djEtY185R2Q3QlBRYWxKZFZNQ01JamstY18yQ1FQazhoZXRYU2gwYVlwTHBka29HbmRtVzJyUlFjaHMzdVBic9IBxAFBVV95cUxPODczNklSVWN6WDRkN2tiOWZXNlhCRFNpM1pobHdSSDF4dGpOclNCeW53eHVNRU0zQjlDLWJLNWFaMzU2ZTE4c1VUek93QzZ0WmZ1UUNFLTdtNGpNR1dSYjFGcE5RTzZveTNWVE9abmpoOFVuN0tYQkZRNF9WUExkNjhON05iSU1PajNzNy1CREFzRHZ1ZG9fMVFNbjhHU3BwU3RxQ1ZXQ042S3N3VlFNa2ttUkpOcDRpWFZwUzYtVS0wUXY0?oc=5",
-   "data": "2026-11-18T19:17:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qa4hnd",
-   "titulo": "Twitch lança ativações especiais para celebrar a chegada de GTA VI",
-   "fonte": "RADAR DIGITAL BRASÍLIA",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPX0M3R0FDQUdRTExzemVGcVRpcllvNXdjcjhlLU82eHNIbVB1NlZteElDR3k2dzRYMlpxT1RXOW9NUHRITi1JZ0NlUkYzT2tTbU5ZZ3NIbHpTd1huczhhWjBCTmg5NU50R0txWEVsY2twQ0w1aUhPXzNxN2JhbE9QMUFyMjJ5dHJuMFVmZXlTYWM2UnpMWk9Ja2JfQUFsRGhYWGRWZnVvNlEtaEFxTmlfMmVCYldfUQ?oc=5",
-   "data": "2026-11-18T19:09:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x92qkf",
-   "titulo": "Anthropic desafia a turbulência do mercado e se aproxima do maior IPO da história",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbWhtRWVXNldqeGQ1a3YwdmZQR3d4Ri1XV0R5UGxmQnh6cjNkZTZHTVkyTHJwdExDX3BNQnk2QmZzU1o5QkhfTThQd0VWdVltd3p3TGdaQlgycDlHX2ZrUFBKSUhHVF9xOVVIMmJkbWZISE8zMlRZVV9qc2w3OF9WUEJnZmJYaThqblVFVnRTdGJGaHNjSXhjMDlhUmNEakRSSTNIRGk0VHlwSlh6M3JwOE16cTB0LXBhWGNlStIBwgFBVV95cUxNeHU5cGV0YWtoeExFTGszTExFNUg5dC1pVUdLZm4yd09qbWdXNmlaS3hSUG9UNUhTQUJvcEZKR3U0cV9EMS12NV9KeHlVdWE3OFBnMC1sdEk5TkxxRzcxdjZ2ZG90VUVJT2t1UW9iY1pvSS1RYXU5S010WlFCangyU3FaTUlESFF4LXZhbWtmclBzVVhFRlNjOUdCSnhHN3NtWTUzR2lKVldoa1ZmbnozNGxuVUpzcHJ1ZjJCV2VzZWRzUQ?oc=5",
-   "data": "2026-11-18T19:07:13.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "g7mlmm",
-   "titulo": "Durigan diz que governo não discute mudança na meta de inflação",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQamRVY0d3eTNacjM1dnRZRU9DbXJ2aWFhWHA4RUVzMnpVdWprdlY3azMyN1ozVlRMcUFYSk5YYmxmM0Q1QTA2LUREWWY1dFBSTXlISWtuT29ST1FpY0w3V0djc1h0aHJLck5zVnVLNnYwb3liLUZpbndGYk9oQ2QzMHlHeHdIb3M4TXpBSGdhdk9VTFZVUGtPVjh5aTZ4SklScHRJTGtLRHJwUDVZcUU4a2M2XzlSTFZvb2FCM0hNYw?oc=5",
-   "data": "2026-11-18T19:00:38.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
