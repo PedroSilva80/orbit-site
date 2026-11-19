@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T23:00:32.608Z",
+ "atualizado": "2026-11-19T23:30:26.631Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -67,6 +67,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1yygksf",
+   "titulo": "GTA VI: que horas sai o álbum oficial e onde ouvir",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDFtYzZ1WXZmYXlPR29pUHBuTGVCWUN6YWY0RGtZbXo5bmlmaXlQbzhBMGxnNGMxNGxGWkhibGlFejhtUGRzTzdad19obXk0dTBGTW9nRldhcHFaM09pWTFvQ3Q2NHQzRmV2UVhQYV9SaVpjM2p0ZnJDOWNvT0lFeENBUXUtbm5ZbnR4WnJpYjhhaGFaYUFxaGNB?oc=5",
+   "data": "2026-11-19T23:04:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n8vae8",
+   "titulo": "GTA VI: tudo o que você precisa saber sobre o lançamento",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMnlMMEZ1VFBDWk5YQ2xJMV9xdG4zTC1iR2J5REFTWDQ3SmNvTWtqbm5OQ3BSY3ZtdjU1TzFsMlVvZy11Rl9iY09xVXBQWlNBb3BvNGVIdl94c2RPVWhFSTkzTnNzb3pXTUxoOTJtVE1tRDNRTkxtM0Z4RDVvcllVdVNaWTNLVXR2X3BtZ084VWsySWRacnctSTI5LTNRbjlVZHlhV2NsTHpmZVdHNDVMOQ?oc=5",
+   "data": "2026-11-19T22:59:43.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dqa3ik",
+   "titulo": "Lei Felca tira loja da Rockstar no Brasil, mas venda de GTA VI segue normal",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeWp4VjZpZkZPMGhDSmVpXzdMN01QWERDV2w5WHFVWmQ1LWE3ZjdYcjc4ZnZ3RXhQWU1yeWZKanlQTHYtVWFFR2Nlckg4U21DRklzWURkd1BpWHNqSlBtaHZnMkZVNGlsdG5SSlktVWNvcm1oZ1FlTzZ3OWU1V1doVHFVSzBka3hISjUwaWk0UzB3UmNpMWlfTVFXc05nbUFHSWNuR2dBSENIbHRTNHEtdVJTVGRyTGl2RnItOW5nT1RiaWs?oc=5",
+   "data": "2026-11-19T22:59:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15r4bu4",
+   "titulo": "E se GTA VI fosse em Manaus? Engenheiro usa IA para criar versão amazonense do jogo; ASSISTA",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVp1M2xMemdkdGVlOUY3QnAzcU5UbHRlUlJmTUpDMDFQVFdQZWoyeEU3eUVwMXNSTDdHeTFra3BmTGVpaWlrYVI1emZ6TFZac0o3Z3JKcVRmbFJSb3lxZzVHOEpFZk15ZnN5ZEtrQVd5V0k4VVVqOTBDc0p2UEdMTjFrRnZXaXVGRDRzbHFpWG9TRGkxVGQ0WWt5clUySGdoU25ZU3JlYU9PMW5ocFZvRnBTVHh4eTRnejBHX2x6Snd1QXpnS0VyY05xVWpZMzJ4N3JFTENBbXIwODREWElNd1hB0gHwAUFVX3lxTFBnc28xbFBZSTZDLS1VdDMwVlBfeHFfcnJZYXlfaHB1WjI4TEhkZGhyUzByZUcxR3NCdGdxTkVuUjZMajFmaDR2R1Q3VEZmLUgxY2FXZzRUUXpSRHJTQ3JQYmtKUGpTcVBaRGg2WmJ5S1p5LVZkZkx5b0RiU0paNFd3RUpEb0tZX0ZuYlpTYjNTS09ja2ZtMjRZSnhlVDNqMVVhQ3RQUjFTM3RpSjkzRDQxRlFtTElWaG1yTVdKbnR2ZW9CaGpkM3Y2c0xvSm5sT1RPeHMzOTlMNVU0MXpIdTBoSVhHZkk5M2liZlNuTEVfSQ?oc=5",
+   "data": "2026-11-19T22:54:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "yualiz",
    "titulo": "GTA VI: Lançamento quebra recordes de trafégo de internet, entenda;",
@@ -304,6 +352,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "s6n4v5",
+   "titulo": "Anthropic fixa preço de IPO em US$ 83 por ação, diz fonte",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHJlRnFJaVZyTEJTRUp0WTc3d3JDWlhrWG1DSjVTMERla2d3VDVTcVJvZmtUaHN1Zkw5SnZFZFFQZUZDdFh6cnZqcVdGV0tZYS0yZW5KVnRUS3B6NFQ5Tm9Da1NLelRSY3ctTlhwN1YxNXBXTVBqLWRfMFBYd1E2dVhGUm1ROUVZbFhCWlNucVcwc1luOTBtTDBIa2l0WHVxLWxXMU9CUExhdWJWdVZNREFQOXBhMkRlaUFjeDBTeDU1WFNzazNwX2dXNA?oc=5",
+   "data": "2026-11-19T21:33:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1428,6 +1488,18 @@
    "avisado": false
   },
   {
+   "id": "exo54g",
+   "titulo": "IPO da Anthropic impulsiona Nasdaq, que sobe 1,9% nesta quinta-feira",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS044Zk03Ti1mejU2VmZvU2ZWYnZwRHk5UFJNaDkta1BRbVpUbmZNb2RDc1dkc1ZTT0dCNUtqMEdPSWV2NHlDYnVRelVOMTA3V0xzUndjakV3ZUZvR1JZUGxpQnpGRXp5MXVwdHU5cFFpWldQNXNN?oc=5",
+   "data": "2026-11-19T17:22:21.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "lz1qdp",
    "titulo": "Como acumular milhas e pontos na compra do GTA VI",
    "fonte": "Passageiro de Primeira",
@@ -1797,78 +1869,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mwprno",
-   "titulo": "Com custo bilionário, GTA VI supera Hollywood como maior lançamento do ano",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTZ2R0VrN0c5NVBkTHFpMGliR3Z6Z0dSc0xMSlo3SDFEa3oyaVFTUUx1bkNJYnQ1S3ZLMlBVZDJVbTgtSjNqZFlJMmdpYi1oc2xWNjFyWE1OQXQzalZ5QUpJTFd2Y2kwYXFvV0ItLTVPV0dmRi1GTXVNM3BxR24zMDlMeFU0ZFJEUGN5U0hZRTZrMlNVaXg4RzVibjQwUmFYMFVvU1d6V3VxTWhRcjd4N0EtQTBQc0trWW1hNG9oTjVaMnhMd1E?oc=5",
-   "data": "2026-11-19T16:41:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j2q3p8",
-   "titulo": "GTA 6 custa mais caro em Israel do que no Brasil; veja onde o jogo é mais barato",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcWp3WEd6VUxod3FxaGN5Z0NNQ1RDbmdHRUFoX19mNEFablFHc1RJTHR0SDVYMzVKUWdxeEoxOUJvU0Vld3FiallCYUJYM3ZGQ1BmOGZtWkJESFhreUt4dFdwaVJDQ2M1WkZkZmQ2dzVISUd1dHBQUi1IQS0wT21zN1RqNGdsbXNOUmhmSmJ6UGxFaWRqdklnNkxXdXUtZ21JWlpLTnBkd0NTOW9lTU9JRjFOQzJCdw?oc=5",
-   "data": "2026-11-19T16:40:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "n48dz1",
-   "titulo": "Técnico do Borussia diz que espera que atletas não joguem tanto GTA VI: \"Não troquem dia pela noite\"",
-   "fonte": "ge",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPQVBQTzR4dGMyd3pMX1lCdXlHVW9hYUpkYkRBSS1JSXlnM1lOM2dQXzhmVVNaaWprdi1wYmlWY016UGhJWFVjRzNOM0VabG9UbUtKSDJMVzJfRExrNkg1eWllXzJETTFRcFlrSVhYVERhblgxbXEzQy1kTE5WYzlOZkVQNWdET0o5bUhkOEpuRGFFX09va1ZOVlFveVBJYXdiMTRJbEhobXFpOFg1YlY2TXpHN1hNdXJvNnZCdzFZbVZ2Z09pZkFtVGlyT1lPVkUwVkNUakROREtLTEdhVzRFYXQ5MW5UQnlWUHZVaVE0NG9MMkgxMDl2V3ZpeDlxa2RnUV80MjYydXZuSktNdDc5OHpGYjNEalHSAaYCQVVfeXFMTWxQdG9Uc3YzMlpsN0tmcUFJSHdubXI3ckdrYi03U3EyNEFjZllVTGszNUg1ZndQeFZjNE9heDktN1lOR2ZrWW43MlA5WTJzYzBaOS1xcFBTZkpZYlhHMUN4UmhqMXVSTjRWZ1JOZkF1UGoxeGo0a2tmZWRTaVFSQ2pGcnJJMW5BNV9UTlNmS2xjYlNTcEVxNzlvQWtTN2lzZjhPN3BkTkgySFh5U1hxTE9NeV9USDRING8tVGJPeWVTS1ZVdERaeHZnbEVQc3R6MkxjY1V5d3k0aDdwZjZRSGZwdkpYZGw3QVBxbldsSjJQTVQxSVM2MDYxVGNqX21aSE1lLUQyaE5ldk05WDNkUTBsVmJ6VVpxRzBFak9NMExHRjBiMHB3?oc=5",
-   "data": "2026-11-19T16:38:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8hrzd7",
-   "titulo": "Sub-20: Vasco posta fotos dos jogadores comparando as épocas do GTA V e GTA VI",
-   "fonte": "NETVASCO",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa2hkWUxrQXJIdllwQW1feW41Z2JjaGRmczNidEpJTmJtcHNfN2R6WFZLLUNBYjdPUVJ1VC1XaFJORUZOVWhqY3daNmpCSjM5RHhOLVNjMGloVDIwSVEzRXVsZGdHamtFZENGX05jR1RuUUozZ0dNN2VnSFB1bElDd2RWN2hmR252NU1EcEJ3UEo3aWRiWWE5akhQZ2RwSER3M3NrSExUUmlEOW42Wmh2aUM4Yi0?oc=5",
-   "data": "2026-11-19T16:38:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jyib3f",
-   "titulo": "MARA capta US$ 185 mi com aquisição de energia de US$ 1,5 bi perto do fim",
-   "fonte": "Bitcoin News",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMlVOZF9ZNW1XNGRheGJqb2o1Wlp5U1lTcF9xalJ1Q0VMenA2QXBlUm1FYzk3Wkd2cUczOTV2ZHR1dVZQNzZkSnFaVzE5a0VmZnBNN0dGVVAtQzJsS3FZVldMUGVLQktTVzdQUTZoTmlaODdUb09RWUhGZ3ZIZUotVVZMaEZLTG96SHRKdTIycl9mLXg0dHZieDZaLVU3TWhVMmx0Sm9mckxrdU0?oc=5",
-   "data": "2026-11-19T16:34:34.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xjudp9",
-   "titulo": "Ações da Anthropic devem abrir 26,5% acima do preço de US$ 83 do IPO",
-   "fonte": "cointelegraph.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcnBYMS1yRzNzaUx1N2cwbWpTNUZGOW5hRjJIV05iQXhSUlRzeUx5NHpDZEVNbHMxTzVfQXNaS2NpRTdkNGNwNDBRUEhPWkZhZmdnUHRJMEFpY0VwajlNWWdKXzVCSkRFcGhtd3ltZG10bnkwZHFhMnZCQ09LUjhVa0pDaF9rbEJEZVB4TndpeW1xTGs?oc=5",
-   "data": "2026-11-19T16:14:36.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
