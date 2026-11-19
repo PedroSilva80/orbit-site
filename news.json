@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T03:30:30.371Z",
+ "atualizado": "2026-11-19T04:00:29.437Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1xp03u4",
+   "titulo": "Anthropic estreia na bolsa dos EUA com US$ 107 bi",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcVVWRHBfWnU2dzEwa1ZhQmdzY3g5WjhxSXg3S2R6OUViRTNWcFJ6X2I1YjV0NDltazNMRGhLSXlCNWttOGIyVHRJVzNWWUJvWlBCR2sxdzN1V2g4OEsyNW5obGV2U05hYmJjcnoxXzB0VGpOekxCU3I3eUFwNzNYM0NPLWlpblJzTGN0NzNvV2lTckVrNHNpeg?oc=5",
+   "data": "2026-11-19T03:39:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "1q8mkwn",
    "titulo": "Veja a arte de divulgação de Vasco x Internacional no estilo GTA VI",
@@ -1840,18 +1852,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "aphshr",
-   "titulo": "GTA VI chega dia 19 de novembro após 13 anos de espera",
-   "fonte": "Administradores",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMDQyd1NjZXh2SVdGOHhGNjVzVkhwTmJTcjBWS3RsWV9mMVNVU05iR0t3dS1jS3RLaDVORVhKdWwxTUxtTTdnNktqZ09GelB5azJTVkJMSFJaQU9WWk1hZm5KaXNPdXhnaVB5R3Eybng5Vkt4U0I5QUVpdjZrTTJzNTB6UG5RNUFDX3RCMmNzLVBfZmlYZVUzektSZlZGZw?oc=5",
-   "data": "2026-11-18T18:54:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
