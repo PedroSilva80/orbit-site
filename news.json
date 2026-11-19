@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T04:00:29.437Z",
+ "atualizado": "2026-11-19T04:30:25.224Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -60,6 +60,18 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "nkwomp",
+   "titulo": "Após 13 anos, GTA VI é lançado repleto de novidades e expectativas",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZk1rb25DNjNEalFtbXM1d19rd01WOWVIdEMzSEowOXBvRUxmZHFjdnJ2VkwzTTF3MFRtekw2MWlodXNRQkNZRTdhZF9Lc0ZiZjFMMFYwOTBCSlpSOXZkTVZUdUxzR1V5M3lmRTB6TVhUS1BFT3JiZzhwNDFhYVY4YU1WcWo4RDFnbDNwTm5JWXRDVXB4b25FZ280T1Q0VUVUZEt6R1dpTnVBVXRJSUdHeFFqNFZMcTR6TElndnFNNWc2UQ?oc=5",
+   "data": "2026-11-19T03:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
    "avisado": false
   },
   {
@@ -203,6 +215,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lrfnog",
+   "titulo": "A Claude, empresa controladora de inteligência artificial, arrecadou um valor recorde de US$ 81,3 bilhões em sua oferta pública inicial (IPO), avaliando a empresa em mais de US$ 1,4 trilhão.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbmtOc1FRVWwwZFliUzBHN0dWck5RQnhhRVJkekVudmRhVjh6aUVvTDVITXlNdGVhR0k5UGNGRDd4aUlhN1BnXy16emtVNEpzTnNKYmprLS1GS1JobjhPSlRqU1BzSlBzZVFGQ2k0Q0V1WUlkYXhlUHVKVWpKWjR3WjBVNC01MlhKSVhhNkR0QjlJVTMtemVfRE5Oc3dKMzdoYjBtUm1HanBBZFBG?oc=5",
+   "data": "2026-11-19T01:49:40.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1828,30 +1852,6 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15a2m6x",
-   "titulo": "Anitta no GTA VI: cantora está na trilha e terá personagem",
-   "fonte": "Meio e Mensagem",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNERWOTdrNEpFNDN4Q1hWTVNUUV84UjB5Ukdla2lWbWVhdU1lRGVjM1RlalktOWs5SjgwOTJhaFFYLUQ2WThYUVFKdUduQlhKZFE5eGUyTzJvcmZjRVFCeGVvVVl1cjdfVWFRR21Qa3lXeTc5NzE4NGdwbVNEMkUxcFVWSE5VRENsVm9qLW9tcmhjbUh2RWVvbGZMSzdnWGZUX2c?oc=5",
-   "data": "2026-11-18T18:55:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14swwag",
-   "titulo": "Para vencer a corrida pelo IPO, Anthropic conquistou primeiro os gastos das empresas",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVkxQQktjSUFUME1wUU1YMTBTeVJ6R3R2bWtPVXA4TjVsUUxDWTRBRk5WNEpHSzc3ckNsQ1Y1QVVDaXF5VHJFdmk5bE1POVNzWklXY0dKc2Z2NWhWQmNYVHg4Ulh0NFpzdUlVeXJLNlItOVQxejhJeUlRNDBuX045Qjh5YVlkQzNxaUZLV0M1YWtjdWJHd1JhQnZWWDMwaVhKd1R2NU4tRlZ5Yy1ZbG5YbUVHYjFzNWRsWDRlUndSSEFMajZ6Vm5YeGNnZUpFU2Z2bHpuR1pyQWLSAecBQVVfeXFMUE9JSmlJVkVUbHNTbW5JYjVFdENCOFJkTnV1bzlWOF9iVjdsSmJFMmoySU83LTR2Q0twY0Jia3R5M1MyZDdfeTllNmIzTnVabm9uemRmcXNoNUFkUmRBdzVQOXhkNU9IZkh5UGhBLTBtLVNDVktYN0dRbTdqT29vVm9aZ19lSkprMWNTZ0JucHNQeUh3SkxZajRmTkstb2JSLXFwTjJMT2lEWnVWVERvNmdzYkhQZmpQY3phajNybmNQTG9xUmFVVXJ5OC1OanFOWVVfd1ZLaTItWlU2Q2VsNGxmMXdnV3lF?oc=5",
-   "data": "2026-11-18T18:54:22.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
