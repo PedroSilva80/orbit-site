@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T22:30:26.559Z",
+ "atualizado": "2026-11-19T23:00:32.608Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -67,6 +67,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "yualiz",
+   "titulo": "GTA VI: Lançamento quebra recordes de trafégo de internet, entenda;",
+   "fonte": "Pichau Arena",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvY283eHFKX0RqNVJxMFFjeGdOMlNRMHd3YTNid3I4RUN4RENlNG43RnduVjhjOXctbXEtcGNYXzYzeFlET1EweGJ1eEJDd0stZWFneXhUREFsQVVCUXNIODA3TWxfb1ZVZEdTZ3RB?oc=5",
+   "data": "2026-11-19T22:48:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6vk0ld",
+   "titulo": "Wall Street fecha no vermelho apesar de IPO da Anthropic",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMl94UUdFTm9wdEREZkNadmpYMHhaTXhLa1BpTERNZmlTOTNVM2pJMW9uYWwxNDV5WkRrYTNrZnhIbVhfX3VFT3V2bWt5clpDelhzQ0FTSkhYS3gxSXBuNzB3TkxIZkVjNmp1WTVmRklqa3dnTnNIaWpKbG4xZFFGT2IxbWJ0clZXN3cwSGNEMXZOUlQwWmV2UVFXcVFwUzlfMVNLdTRZV0R6VFNMQy1DVXhGX1M3ZWt1VnN1cw?oc=5",
+   "data": "2026-11-19T22:45:14.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1b09l8g",
+   "titulo": "GTA VI estreia com nota 99 no Metacritic e empata recorde de 1998",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOHlxaXpaTW5xOVJvdUZwTnBWcDJmcEZCX0NiRUxRRVJtYlZER0tMUEdIMTZyWTIzaGh5WlVqN29JdmF4T3owRVR1M3RiYUVMMUVrVkgxVGNzS0s1dExVd1BibnFfQ0Y2SVljdm0wc05qUkY0OU44dWhKa2JtNHVEMktxM1hPUGdmZk1kY0ZIVzcxakdnTUU4UDhGMTU0TkZyNkpxN0hzYXdKdXh2N0hyTGI4c2ZmMmRWR1E?oc=5",
+   "data": "2026-11-19T22:44:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "tzimxm",
+   "titulo": "GTA VI bate recorde de audiência com 7,91 milhões ao vivo",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNenhUVjQwVzhNV3cxLS1CeE1aVkI1dm94aFZvdzRhdTJwaFJnMEtJV2FYd3dIb3BlRHhWbThlbDVNdmRBeHlibkV6QlRMX2cySVZRM3YxMW5RcjJwNkZRWTZ4STZMLUdUZDd6RXQ3NTlzdUFZQ2s5c21ZWDFYLXZLdHh4amFfZ0FJbHhMdFFvZ2M1ZkJQSG5QRTV5QUdKSlR2bzhFRzVUS2EwVlV0YlNqUEVrWU0?oc=5",
+   "data": "2026-11-19T22:44:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1bfx0zd",
+   "titulo": "IPO da Anthropic testa confiança de Wall Street na expansão da IA",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPX0wxWGRwU09vbzd0Z1h1MnM2MUd6RlYyQ0R1Rm9mcGdQMHQtSDVEdlVXcFdIeGlaZ3Uwbnh0bTBvbVJZcmVNZV9mNUdUYmRPb1BWaXpGNUpxdV9aVmlZVXpLT3FjcUN0Zk1ySDQ0N0pKbVkzdUI0c2tkbWJIVmdCSFNPcUY3TllWQnVIOEpCZDBGdlFYbWJoczBadXI0Sjl5MVp4amNMRXNVU0VaWDJNd0xhbDBOQUdXTlQ1VDlVRG5zREduYWt3NFFPSzg?oc=5",
+   "data": "2026-11-19T22:41:50.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zuigb1",
+   "titulo": "Dólar dispara a R$ 5,93 e Ibovespa acumula queda de 3,53% na semana",
+   "fonte": "brazileconomy.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1lyT1FpOEJ0SUR1bnNXSXdPVWs4UzFwY25PNFBNb3lRX3Bpa292YW1sWVg2N3hXS2p6NU1pWk50TjIxR21zQWtiQnZIRWpuWEZfMTNqcUhXMTR5NUVQX05CdExSYXZQRWVfb3dCZTJNQzN4c1hRUDhidUhoeGU4THRwTkE0cE1oYmdxM25KUGVSZnBtS2xqVURTNmNQNFhoVFRtdVRyQzZkZF83TjJz?oc=5",
+   "data": "2026-11-19T22:37:18.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ovnmy3",
+   "titulo": "Anthropic dispara 17% em seu primeiro dia na bolsa de NY; AMD perde 7,7%",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQYXJqZE83aXo1b2RpR1RHWk9YeDA3RTFTOVVDRGw4WE5xWUlNV2hMT05VLUlCLUdYM1ZrRGEzRVRHdjQycmU1UF9fZ1FPcW01ZXJWREYxNTk2cVA5SkVDaWxiV3NWY2VSRjNfMUpsa2xWY0ppcVE3ZzdiOXU3VnZmek5KaDZGdzBSUDJJQXE4YzFsOG1zaHVEclYxbzQ3YkE1QlBaTWUyOGc5WlYyaTl0ZUR4aGRObzB3Z3FCM24zS1BoM2h2UjItWWtkUkxqTGdrSUNqMW54Z9IB5gFBVV95cUxOakd6ZUMwaThhMC1VR2hrdzEta3E2Qmo4bFBsdGNYbG1KTVNhUlJyRWFTVEZjY2ZQMlZwM25aeDRtZGF1dWdtNGdZZTFJQmtGNkVJc3NkbzhfTlYyLTZRVEkwdkI5VTlmdDV4elR5QnRod3pBU2lkREt6Znl5NlNTY1hkYlNVN3gxam5iSzJ6WjVMYTEyREJ5b0Q2SDljZ0JOeURqeEQ3Z250VjNkeHhEYnRJWUFuNEprWi0tSnZYM0JLT0VNTWphelBQMTZDRUZsVVM4NXZaVGdSa1Q3aTB3YjB4RXBWUQ?oc=5",
+   "data": "2026-11-19T22:28:03.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1rbm3cb",
    "titulo": "Pedro Ernesto Denardin e Giane Guerra participam do Mentes Brilhantes no Vale do Sinos",
@@ -255,6 +339,18 @@
    "data": "2026-11-19T21:21:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "uvma4u",
+   "titulo": "Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21JcVpKdTE1VllmY05QQ25IaHVfOGNEZGhUU0V2OXhlS0s4Z1BWcC1TeWgtNkpPdG1uM1AtajNtYWpqVzFZZEVISFBWSWUtVjFyNFc1QjBFSUZGT1FPWXhYNFRFMWEyYU1mRjVXMkxFS3VPOGU4NFFEajEwWGxEYVUxb3JCN3Nfdm5VWkNBQQ?oc=5",
+   "data": "2026-11-19T21:20:56.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -815,6 +911,18 @@
    "avisado": false
   },
   {
+   "id": "rp0v7v",
+   "titulo": "IPO da Anthropic, dona do Claude, pode criar 2.800 milionários entre seus funcionários",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTI3V01UcHdlQm8tTE1Ec2FyOTVXS19ubzExbWp1VnE4d3Z5b193amF1Y0FEVDZ0ZXktYzNDcFZScFZlZ3plSVJnMHhpS3JrQVI4eUFudTctWDZnSGlweW05LURvd0J6ZVFnUUo4VVlRb0RkcVJjbDRoNUFmQmkwdzVaWXdXdk9fNXAxaXJUZmQzVDlZMkRtdDE2djBHVTZQN25Ua0VoWXhkUFJWeklYVmYwUk5yV1ZjNklkSm1FS0doUDhoWmp6VDRiSXN3Z9IBzgFBVV95cUxQMTI3V01UcHdlQm8tTE1Ec2FyOTVXS19ubzExbWp1VnE4d3Z5b193amF1Y0FEVDZ0ZXktYzNDcFZScFZlZ3plSVJnMHhpS3JrQVI4eUFudTctWDZnSGlweW05LURvd0J6ZVFnUUo4VVlRb0RkcVJjbDRoNUFmQmkwdzVaWXdXdk9fNXAxaXJUZmQzVDlZMkRtdDE2djBHVTZQN25Ua0VoWXhkUFJWeklYVmYwUk5yV1ZjNklkSm1FS0doUDhoWmp6VDRiSXN3Zw?oc=5",
+   "data": "2026-11-19T18:47:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1wj29w0",
    "titulo": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA?",
    "fonte": "BBC",
@@ -824,7 +932,8 @@
    "empresa": "Anthropic",
    "score": 12,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795129232608
   },
   {
    "id": "1nhj3pc",
@@ -1158,6 +1267,18 @@
    "data": "2026-11-19T17:55:06.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xgenqv",
+   "titulo": "Take-Two deve quebrar recordes de vendas com \"GTA VI\"",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHhhY2JoYUkxX1lBQTZYNXptai1nbVphbEo5elgtaTR6a1B3Q0dQRjJnUzZoQ3hmdXU2bFUwLWdKVU1yRU9sSXZBYUhCSWVZSS1Kd0NFTlhhTVZqLUdFTnlPLTBzdnNOM3k2X0ZkUEp4OWFXcU1rMDBmYk5oWk9GY2ZWSjdNRzlxNmlJM2pTVG9jUmdBOFZteHUwVFBmT1Y2akwwbC1YMXpIakFzdE8zcA?oc=5",
+   "data": "2026-11-19T17:53:35.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1749,127 +1870,6 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "969vii",
-   "titulo": "O que o IPO da Anthropic muda para o mercado e para o Brasil",
-   "fonte": "Folha de Alphaville",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcHliVjhtYnJQcVk2YmFnbmhOSlMxUGlfVENSWU96cVgwTk1iYWhXTm05bm4tbUZCdnF0enpKdUdJMTFsazczXzlLYU9mMFZySGJzRk9PN1Q5TE81UE85UTNkVTRhYmNlTFpCUFZselRPTHhrN1BveGtfZFA4LWxPSE9CZ2lRTnhucUF5OExfU0NUYkRLc2FxM3VIQkJzSFJPMW1YYWpRVHRFbC1VZ1F1cHMwSjRHUWItY3c?oc=5",
-   "data": "2026-11-19T16:12:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16tcrmd",
-   "titulo": "Analista vende todas as ações da carteira pessoal no dia do IPO da Anthropic",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hSXZjRlNwNVhoa0ZERnRqUU80TnI1c1RVUG9wWXVMZGppTU9ZZXZJZXNvRVlzQXMyelo0SzVYdzQ0WkNVMDM5MEpLVVRCMlIyU2FlRlN5QTFpMWxMTEktVkhvSFhnZw?oc=5",
-   "data": "2026-11-19T16:09:41.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x6hl4g",
-   "titulo": "GTA VI: a inteligência artificial que dá vida a uma cidade inteira",
-   "fonte": "A Crítica",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa0tjVjAtWkRhY1JaU0Y3clNzWk1nNHJyTFp6MUtINlJyV2htM0xycXlsRS1zeHZPZkxOanlkX1ZfMDd3TTVZY1ZRZXJzeVgwYUtuaUdlMHpOOTZhRE1jSV9CM2YyVk9iTnk0RktWMDVEd1lLN3I4UFk0a3Q3WnN1enR6ckZtWkZhQmVTMWxaQ3VwUHhLRW53UUE1bko0dHpW?oc=5",
-   "data": "2026-11-19T16:08:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lwocvg",
-   "titulo": "Do GTA V ao GTA VI: veja o que mudou na sala de troféus dos principais clubes brasileiros",
-   "fonte": "ge",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNGRHanh5VUtCVjd1b282N2NfMDFYb2k1MlI4eTFfSGF3OU12MWNtNFktODR0WVphY1loVTVvd2xCNkp1S2xBaDl4THRBSFE1YU1WUkxQTWQ1WkpfS1FWRUhNZTdWRzR4OVZjTDVsZER4QzBBNUFSeVpDbXBSU2xFQXpDbENlX1Iwb3RIQlppWk9lRWxROWdnVEhsaTJ1R3dxSnV5QTNMcXRmdHVQTkVrb0lzUlJlNnYwSWtlNnFGSllaa2QycGxsemNONDJDSHdKTW9CdTdIdVgwejBQMHfSAewBQVVfeXFMT2VYMjZGSDZCZlJsRk5BR0FTRU1wQURUb2hhYXhoVmJYM2VLMm1JbktSTkl6RW83QngyUTZ2elE3NmNrdEVEaFdKSDlxdC16V2lIZHBTVHdRX1k4TEladkF3a1pDRjNGMlo2SW54TlAwNjc4VV9uamdXUFowSVJ6azY3dFRXMHdXM3J6NThEUEJJempqZnJkOHBxOUdSVW5jc0RGZUt2UVRrUWN2NEFkN1N1WDBlYVdOYTQ1ek04V3RfM0dfNGZoM0VKbHNNYXlLd2dBdGVsakdmMUtWWk1nWDcwcnp2SkZic2lNVC0?oc=5",
-   "data": "2026-11-19T16:03:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kuar8q",
-   "titulo": "Anthropic capta US$ 81 bilhões e estabelece recorde em IPO",
-   "fonte": "Acontecendo Aqui",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZEtfSlh5M2tHeXJnOUJuNHJ2cm1VejZtbG90VHJid2ZIRmZndlkwTkJ6Rnp5UjBjbTJHd3JMVkFrUjNVWnZaRjE3RUtfZkZfd0RLZkl6ekswNTJPMVRfQkVlUlJkdkpPVUhMN0VoRVZoZWl3aS01ZVdtbmZfRXFhRGM0bzc4akFOZHcwb3VrOUY2elhtQ2JmS193?oc=5",
-   "data": "2026-11-19T16:02:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qwwrrx",
-   "titulo": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRGUwUlo0R1dCZzR2VWNjb3E3SDdTZ3N1M1pubHh6NFZ4RUFCLVY5VXNYcHBBQWdBS19PTk9sa09jSkpTY0tzN2RzRFN0UzVLLXQtQ0hibHJiQzR6QkZabUJUODNDY050NS1HQmR1OTkzcG4yQ295NUgwWXltbG5QamZpdUh0QnZ3ZGJ4SW10ZXJsNDFQalVTMTZMR3FEZGdHVENtY0RLbFp4dGdoS0FZbDhkQzBZcHJXWlJkblU2eTJkdlFNNUkzSGNRUdIB2gFBVV95cUxNaWF3aDBYVVpYWGFkWnBlVjYyX0FmYzFxOElPdU5OZHVQVUtiSkJ0NXFIMDRkWTVOZnpxRzVBNVcxSHpQbVZKcHdWSEFNQklJYnl4ZHZvTEJ3SUM1TW11RjQxX0R0WXJDQlpYNFhSNi14eXBOeXhqaVktNjMwb1cwOG1GWll3eHlvWnpMbEpzMF9zRk1hdFJtNXpzU2diM1BTMUtZMzlhRVk4OXFIUGowYmozc3BoTV9WTlFFUTdfek9ZaEcyYURRaU5MLUdIZVlXSVpWOHZIUEduQQ?oc=5",
-   "data": "2026-11-19T16:02:12.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 12,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795114829786
-  },
-  {
-   "id": "z4fbkj",
-   "titulo": "Arma falha duas vezes ao ser disparada contra policial, e funcionário do Walmart impede tragédia nos EUA",
-   "fonte": "Caderno de Notícias",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObjVQQ0Z1T1U4ekF0bjYxTS04WTRsNmd6WGYzeVV4YzBhLU15SzE4MHNaU3R2SnN5UXdyVmVsRmNlR2d2a1hHZU1WanR2ay1vcmVCVFFra1BZbTNtOGg1ejdnYXhpLVpzV3Ntb01kMXN1eXpEeWRMbHhGQWhQZ0lBclJIbjlCNzVoeW1hLU82WTJrUWlqaEN1Vkh5SWhtZ1pObE9EZDBNTkN3R3daWjQ3UFg5ZHE2VGhYbTNkSHN4aU1HdFFCMWNjRzBpWnFneUx2cXlpT2xKckRHcURZbTJ3?oc=5",
-   "data": "2026-11-19T16:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Walmart",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4jsi9a",
-   "titulo": "IPO da Anthropic: Quanto a ação ANT pode subir na abertura?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9aY0g5VVNjc0l1eG5sajFyeEZWeDcxbHN3OUlrX3pYUDJCWWNBS2pTRDZlSlAzd1ZIYXlJdmpjVWNjS2N1Yzc4a2JQdXFKOGJoaUtNZndwbzVxQndCaEFPeXJ5VHVhdw?oc=5",
-   "data": "2026-11-19T15:58:37.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1obfu5y",
-   "titulo": "Do GTA V ao GTA VI: veja os clubes que mais conquistaram títulos no futebol brasileiro",
-   "fonte": "ge",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSHQzLVI4MTlKTXloLXNyT3l1T0xDWHMwNkZGYmxZLXlWNi1uRUFuUXlrcHJKNE5DV0Zla2RtWDFFdWVodUhsMmNUYkt6OGgzbGVxcTBEY3RJYkJXUVBpVjJGU1M1R3BPUVIyREpiNS13eUxGZG9ZTDViWlhjRUd1Wm50N1VNNFJzUzVWQ3ZvNUhKWEtmRjZ2dHhINkJOTmNGd2VUNnhqbkc5YzkwcnplekEtTVphYm9qMllKR3l2UWpoeEhUQnfSAdQBQVVfeXFMTnJOUnRiVTVHaVVta2FNeVBzT0h6Q21fX0RPYTNpcXFWcUxRS2FUcmVzRG9Sc2cxNWo4UnV0ckt2OXdET0FDWjlhTWhydEhrWS1GdkhETnZWNF8xOFVJYk5fRElqX2VrUS1jZE5VMTJFN0hQY3YxeUpvRzNXRWVxR2swcnl6ZWNQQkt1QXRacGlMeF9LMXprbXl4X3o3SFNWOTdGc2hHcVljZmhLNVZCZTJTVC1RMUJic3dud1hZdHROWnpWX0tfNUp0cnNTSWJMeUFZbnE?oc=5",
-   "data": "2026-11-19T15:55:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v6rc1d",
-   "titulo": "Anthropic estreia na B3 com BDRs de cerca de R$ 60 após IPO recorde nos EUA",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbkc0SXVDTDhCMGJEUVEtbnFlNjZ2WmdISlpBNHhHemFGYW5ucTk5UlY2cVVORmFHOUZXa3BsNmlOUk1uZFNTWFB1aXpVZjYzV1hncnZHU3FHVjJ6YUs1LUlQamUzdWZkSzBCZ1hoSXExSW1oX254bThadFlxUHFVaEFQaUxaOTZ6LUM1QzVqTFJOZkpScDlIZTlCZm9SSktVT3Z3UnV6ZlNYX2JCaS00?oc=5",
-   "data": "2026-11-19T15:53:05.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 5,
-   "marco": true,
    "avisado": false
   }
  ]
