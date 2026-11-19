@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-19T04:30:25.224Z",
+ "atualizado": "2026-11-19T05:00:28.767Z",
  "agendaCal": "2026-11-19T03:30:30.371Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -492,6 +492,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2de2sc",
+   "titulo": "Kit da ‘maldade’ usa GTA 6 para hackear computadores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3VYZHN4MUJLOFJ0SEE5clpTaGdEaFB1VVlYaE1iMXV2amNTVjZzOGZSdWl2NXplVG5ZN2RhenNIZ0ZIY0w5QXVzeE9lbVN4RUpsMWxUOERoTHdBMk5sa0pzOVVJaHVHLWs2c3hVN3REQUlobHhQUm5GdzJpdTlYaTFCQUdHbTY1bkZQMlFhODRFem9JUjJaMnQ4YmNEZkx0ZW5lMktMZy3SAa4BQVVfeXFMUHNjTjFvcmgweXM2QUkxQ2s5eVdTVmFjUnpTcGNLb1JiTmFIUWxsbUllVUtpcHBPMU1wQVhtNXdjcEVlRGtBYVh3TzJEbzZNTnl1ZGtPN2dkT3N1MktSWFVVLWk2MXlCaXloLVI5WUdvX1N0TTZzZm92NnRwd0tGOUMxODhvRllrOGdOSU1jQjEyOFp4WnhVT0RtN0VBSWZ5MlFXbk9HMEs1cUFCcjB3?oc=5",
+   "data": "2026-11-19T00:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1724,6 +1736,18 @@
    "avisado": false
   },
   {
+   "id": "ectqp0",
+   "titulo": "Resumo da noite: Demanda por IPO da Anthropic dispara; ouro e petróleo caem",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBHQ0liM0xyUXVHN3k1Nzd1bWR5Q2gwdDV1NnlWUmhpTWwtblpxdEhTajNnY2hTVWVQajNCUUQ4OUh2Y1NFS24zQmNJWnBhTjl5bHFUZ0FFRWhfdWNiR1BCUW83VFNLUQ?oc=5",
+   "data": "2026-11-18T19:28:41.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ezbr4z",
    "titulo": "Ata do Fed: comitê considera alta de juros superior a 0,25 ponto em dezembro; veja detalhes",
    "fonte": "Money Times",
@@ -1828,30 +1852,6 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "180n8t",
-   "titulo": "Anthropic desafia recorde da SpaceX: os números do possível maior IPO da história",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGpjYnlXZTkxRjR6M1pSNDlnWXJCRHdlajdtR19hV3o2b09ZdnBmd3VHaV9Kd2ZJZ0FxSG44RXNoMGx2UHFqMjhIQ1Foc3FuSkxiZjViXzZmS0huZEpBa3pSRkF5N2hWZFlNbHRaOW91dG85MlU0cElmZjdvUzhxRmRnNEl0ejV4dm9wRi1CbG1zaEt2VE9hOGljZ2JtUGYxSWdZTGQ1WmluQ1hSdDFFNFltVzR1ek1rYk130gHAAUFVX3lxTE5mX2tMa0Q5VjFwMm9ubm1CNHdyUVd6Y2czZFRPRE5HVjZfT2tuUmJTYlplc0wyOG1kRkd2Ui15aDBqRDRpVXNvYlRrcDhFajJPMmNzaFZMd0ZaOUl0TEktazFkQzJHLW5CREN4ZHFPbndFc1VVbEF4TkVORUJLZGtYeml1UXhtTEZzZUJTOWJ6d3lGVHEyd3dDQXB6TG00WDlnT19Zak1GVmxSV0hYVDc2aFBIa2Y0dFNjTm13VVJNdQ?oc=5",
-   "data": "2026-11-18T18:58:01.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sl7qzy",
-   "titulo": "Diretor do Fed diz crer ser apropriado subir ainda mais juros para alcançar meta de inflação",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPYmhPVUFEd1pXc2pkSUdkZVUtd3B5aENUOFNpSG1IZ0xLMVppNzFVWTJSMkhWMldselZuRE55a0NXWFYtTWJubmRudWdDd3VqeVFGWTVPZXJvcFZhbE9EQVpfZi1EOGxUWG55dHNLWG1tc3VmUUY5RVNXLWFfZ1N5alo2OTdIQVNoalVFTlZpVWZSblVHTTJWYUlYSDZGQUlJZkNVLTluYkoyeTlUUmVHU0g1VDd3MzRjMjVZQUhCTk0yNWN4Wi13LVZzcUtVVl8yTkRxeThIUjhZanVhbkdPVThJOEVVbVg2bUlRZThJbV94T2M?oc=5",
-   "data": "2026-11-18T18:58:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
