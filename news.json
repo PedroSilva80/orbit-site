@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T05:30:26.687Z",
+ "atualizado": "2026-11-20T06:00:29.437Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -223,6 +223,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1m4tjzz",
+   "titulo": "GTA VI: 5 pontos que marcas devem levar em conta ao aproveitar o hype",
+   "fonte": "Propmark",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmVfUy1GR0I4d0tjZ2hqZHozMl9yMDV1V0hmUXo3NDI4cGFYeGVuM29ZRE96UVlMYzZ2UVUzbnFXcmZYVG9MTXZseHdmMXRfQmVla3pqc09vVjI4Vllmd1FMczNjcmZQblUxSnhnTGgyMk9xeGR1NTJGdldiSUFCTFB4SzhyekF6S20xZU84WjJ0QlU4NEttcGo0Z08tWmZBa2pn?oc=5",
+   "data": "2026-11-19T23:42:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1800,18 +1812,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "2h76z2",
-   "titulo": "Conta de luz por horário? Tarifa Hora Certa pode mudar quando vale a pena consumir energia",
-   "fonte": "Portal Solar",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQNzk3VW8xVFQzS2pTTEFlM3k0V1JFRDZBY3RiUkFtYjZndjkwNFlYUXdlWENueVdnQ2lXTWJWTXZxMEVoS3Q1VzJUNjBYVVpmS19RQzdZZGgtQWhjM0hzOGxPMC1tMWtnS0ZXT0Fld3p5ZUprRnFjMGc0N2RZSk1iS2twSVQxa3ljZkdNR2d1ZUFPalVrNUZZQ0QtbTlIVHlpa0trdHVfMkdWM3B4VXkyMWR1YnpuUjNTa1JYUmt0aXRDajMzOE5RSFg2VkVSYVN6bjM2dTNQbF9nTWNlcmZfbE53?oc=5",
-   "data": "2026-11-19T17:29:18.000Z",
-   "cat": "Regulação",
-   "empresa": "Vale",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
