@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-20T10:00:29.696Z",
- "agendaCal": "2026-11-20T04:30:23.900Z",
+ "atualizado": "2026-11-20T10:30:29.348Z",
+ "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "gkz2a7",
+   "titulo": "“Mais que um jogo”: como o lançamento de GTA VI impulsiona uma economia bilionária de conteúdo",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWlNMWHlRbnJPM3BVYW94T1VMbEQ5SFZudDUybnZZSkozQmF3SUhtcUF0cFZGWG1ENko5OUdBaG5ZMXFicDVfbklxNDNyRUtYMXBvZnhYY3NmOXBCczZ5RHVWeGlpYXRydTRMdGVfdUxwZndGWG1RUkNzNXFGME9uODBzQ2h5WTlZSS12SFVGWS1QVEplaF9KU0pRVFRnQVpUdl9aSUVpeWRkRlJZdHhBWFU1Skp6UC03UGZBdVkxWFczekRJYm82bW1NVHBOeU0?oc=5",
+   "data": "2026-11-20T10:05:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lw3xbv",
+   "titulo": "GTA VI faz vendas de consoles de videogame passarem de R$ 500 milhões",
+   "fonte": "Pipeline",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbG52QVkxR3Rsd1dXVk1ra3V5VDh0U1k4cGVXWFdXclV4X1dhT3JZbHpicy02U2E1eVNyc0ZTay05ZnNEUHUwM1NyVjN6TENMT0NyNkxFSVp2bHhvbDR2dHdnUWllSl9Yc3R6RnNEZGFkTjlCZEd0dnlEQzFPbDBJVFNkV0V4aWxMUEVwY2VoejBmWmM5M3oxcEdqRmhnZEt1MTVTVlVTS1dQaTJRaHo3RUluZWZLMTZxZHfSAcgBQVVfeXFMTU1EYjh6QTNoLVpFY3VQeHpYbE5tbWNlaGZJZGFWbUZwRDdGVlhfT0JsLWQ3MXFScFRqX0R2ZnZ5U2trc1NpRjdndWRUNnNkc1pobm5Jc1pSVHZxSXZETUxDS1dTV0FFZGNsdDQ5UmJKR1NHTU1yLW9CNF9JX3J5cHZlZHVtcGxzenVQN1A3MjBWaXlVV2tqbktOa2lXREN3T2xRb2xhRXQ1NHpLT0J6dW1IZkljc0lIRG05SnRqMWlJTzhORWhHWUw?oc=5",
+   "data": "2026-11-20T10:02:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1weq5tn",
    "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
@@ -42,7 +66,8 @@
    "empresa": "Meta",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795170629348
   },
   {
    "id": "18wbgpf",
@@ -450,6 +475,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dt3s4x",
+   "titulo": "GTA VI é lançado mundialmente e chega ao PlayStation 5 e Xbox Series X|S",
+   "fonte": "Zelo - Portal de Noticias",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHdaSFgwVjdBNWVIdGc4WGVDNHNjM3RFbXBTY1JOVE5NSFlXOUdGN3h4WGZyWVpHNlEwVF9tSGJsYnZxejh2eFJRMkFuTzBCaVlnZzdrSG9DZUVEUlplODJYRGwxSm01SGVZRTJObzlKaEY0cW92VEttamJQMm9SUjhQeld4eGNRYVFBNVRnaGNmYkk1T3pLVFIzcUxvWFQz?oc=5",
+   "data": "2026-11-19T23:59:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1786,42 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6931o9",
-   "titulo": "GTA 6 no cinema? Chefão da Rockstar impõe condição para levar franquia às telas",
-   "fonte": "Notícias da TV",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNTlVxVGxXTW00ZEFHU0JfYnRIQ3ZvNFUzcWVuQkl0cjlMenF0TDdvSmhuVk5WRmVwNTM5OWdSSi00TndOeUFjR2tZaGFqRDZvNHlPQjI4MV82cVVFYkp2a01jWGR2YXBUY2F5cXVLeGx0NTVtMHRlVFh2cDZqVzhmbXdsZ0pDM1RGUXhUbi13TWFUQVh1VHk4RUZfbjZjQ25UdjlpNkcwdDUwLU9xTThFQ2U4cGRSeDJ2clRQVU95SVpLdlhReWdITUdDSEIwSWpXaVlFddIB4wFBVV95cUxNRHZJaldMejc0UEJ5VXkybTJYS1R2SXBkMUxzXzBaZlJiQnR2eHFDT1VaUnJvQlpxM1pjYk9pbWlMbHhoV0h1dDlzWllubW1fOFJzU2lLT09LaFZGdGRxZjNMMmg5NjdWR1pzOThjVU45Tnp1dkpBNi1yTm5WVlgtNkFURVNBQkZzRUVhclBmS1BQckFob1NFQVpZaDI3MWpra3czTlhiX1ZhUnJPbkhfMV9DNjN6elQ4Z1dXSkljaFpCa283ODEyUzVPcUZULWtlUnZ2QnVNVFpJWldZUFJXX0txdw?oc=5",
-   "data": "2026-11-19T18:10:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bynvz0",
-   "titulo": "Os Altruístas: Netflix lança série sobre Sam Bankman-Fried, fundador da FTX, e Caroline Ellison",
-   "fonte": "Livecoins",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNklMeUtLVkg1c2duQksyUHVVbVpOV29WLVd4a0p0REtqZ0hKVFJQUk5tSDJwRk12YTRUb0h5a0dsbmExUW9qWjV5bHZ1dFRMdHFfZGRMMlpJMS1yZW9kOTN6RkpYWGM3eU94V094Uzd2d2R4OTNRN2xGMndiVGpaMmRUNFdDOVkwY01rQUFlcmoyTXU1cjhSVl9FcFFxeDh1Y1VkS2ZlU0hTWmt5UDR3WXZOVXhwSUVLd0HSAb8BQVVfeXFMTVhCOHBLc1RRY05GekU5T3drclN3Rk9mT2hCT3RhVHl5d2o2Z2dfb0ljTEl0R3ZadHQ2eU10bzYwRWx0bDJjVmZsa0s5dHRxSjBDc3BPWHZnZ1V2elhMSUZwaWtmQ0wxSURiYlNMVzVYNHEzMVlFRk12T0JNWElQNXNwM3BMVExfdDByMlFEbGVCcW9yS2luaGMzc014eHVGdTRnZHJlZE4tT2xKZWw0dmg2Vm82QUk4Qno3THVMNGs?oc=5",
-   "data": "2026-11-19T18:08:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "r7r2k1",
-   "titulo": "Echo Dot despenca de preço na Black da Amazon com modelos a partir de R$ 289",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQldXMElfQmdYdENhcW9ycEUxVER5NDRfZnlxMUtBMWxiV1ljcTRzcXNlLW1NTkpHdmM2MWZZdzF6ZV9aUEdyb2w0R0lMVlZ2cmEtSzNCSjRuU2xFRGgweUdCVm5WLS1Eb2ExcHJTZG5qUk5reW9jNklZUmMtTS13U0t5YWpDV253VmROX2o1clhpdm5kWHdzaVFMN1Y5T2huVEppYTlKUUVIUFNBQ3JwXw?oc=5",
-   "data": "2026-11-19T18:06:06.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
