@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T20:00:29.783Z",
+ "atualizado": "2026-11-20T20:30:26.438Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ktxow1",
+   "titulo": "GTA VI movimenta US$ 3,79 bilhões em 24 horas e supera maior bilheteria da história dos cinemas",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2xqZ3hGSkUzbWpQVUVtamFyS3RuWktDU0hscllvVFZhVTkxTldHUU5FcmNzQ3FHSExzNW9KWlFDSC1Vc0cwZGxmNV9UaDA4RHJ5bGNaSGtxY2c3YjFTYkdPNTNFOUpvWkYzRU93NzJidDVfcm1DellfaGtaYTZGeUNFZGJ4bEVWay1MdWdYUFhDcmdqSmR4ajZWWnJ3Q1dCRkdTaDhEZWdwcVlqYmJCaUM5NWhGR2hacWE5dmlVMGJNWWZtVGVzeFV5aTNMbk8wNlE?oc=5",
+   "data": "2026-11-20T20:24:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "187d6yu",
+   "titulo": "‘GTA VI’ Generates $3.79 Billion in “Day One” Sales",
+   "fonte": "IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUTlWYUdNblBWeWFuaWkydWZwd0k1X1cyUnlNMjRQV2I4NDJ2bGlENl9FVnBCcmNZaE9nMEhJUENxcEtYeFJ3SmdoUVZsaVFSYW1XREM0UWRHQW91SE1iQWsyNWVVc1U3eEE?oc=5",
+   "data": "2026-11-20T20:23:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1a0fvjq",
+   "titulo": "GTA 6 | Mil funcionários que trabalharam no jogo estavam na Rockstar há 10 anos",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXlHSnozUDZtVEU2SnlLd0plMUVqT21JWGQ5aWdOLVE4Yk9lczNtbzZ3YUJNZFVUSzJGU0VjSExNdFJyOXF2RGVleDNhODhvcks3WDRZaFpldjBaWHBfZzNpS2VRSEFkbm9GOTd3Sk85M3JidFotbEducHJqM3kyRGFfWmVLd0oybFZmMmxFOHRvTFVGYjRWbHU2cU9EVDFwblVFeFJKT3hmUQ?oc=5",
+   "data": "2026-11-20T20:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18e63xo",
+   "titulo": "GTA VI bate recorde com US$ 3,79 bilhões em vendas na estreia",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDFRNEtqWFcxWHg5bmlBek5QYU5UdnhTcV93LTdjMHJDWmJFa3R4Vk1xbGp1SXI0ekZkdVFwUmZTMEhsS1IyTUNoMy11ZDVFQTNvRHVhRHVUV0FmVzBIeUNQQng4YlF4VHprdHp5M2dBQlNXd1hUUE1HZVdLekZRLVhaal9DXzllYjFVUjk1RVJZMmFsLUkwRkhtR3NjMzBWbHdzWWZjVQ?oc=5",
+   "data": "2026-11-20T19:58:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "l7pvqw",
    "titulo": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
@@ -1189,6 +1237,18 @@
    "avisado": false
   },
   {
+   "id": "1hzr7l7",
+   "titulo": "IPO da Anthropic: lucro precisa sustentar valuation de US$ 1,5 tri",
+   "fonte": "Sala da Notícia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekpiZWVGUFFfOWZpdVNmSkJ4d3BSdEQ4c0lEeGRqTW1DcjJuN3FsX0hCcmk3S3BYb3dMcFE4NzJSbVo5ZzZidExmdzlHWGR0Nk0zWUJLMk5tVWNlU0RVck8xdVVnbjdlc2wwZVo5NWdLMFBuSFk3clpkYVYtN3lJQ3AzYzVOS1ZfUDNVOFF0NTlzUmdCLVJZYmVLMkpERzZra1V2NmxDYTRleFRZLUpXUzRWMS0?oc=5",
+   "data": "2026-11-20T11:10:28.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10aay4p",
    "titulo": "Doja Cat diz que Rockstar partiu seu coração por ficar fora da trilha de GTA 6",
    "fonte": "gamepad.com.br",
@@ -1671,6 +1731,18 @@
    "avisado": false
   },
   {
+   "id": "1q02rru",
+   "titulo": "Bolsas asiáticas afundam apesar do sucesso da IPO da Anthropic",
+   "fonte": "Notícias ao Minuto",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMFF0OXE4UF9QUVFLT3AyMFNia3laa3d5bjJrNUZnY2k3eDh2N09Ib3cxOGZpNVBIWW9sR2lRV3A0d05hY3ZOd3RNSWRmQXJ4UVN0ZjZFNkVINy11NmNhWU5IQThiakJvb2c5UDkyVzQ1dFl3My1JTXFPN1l0TE5xQTluLVd4YVVlZ29vQ0ZIZzZEdk1OT05FR3hNdkU5SWtndFVJQTFyRklsVWc1?oc=5",
+   "data": "2026-11-20T04:49:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "od50ur",
    "titulo": "A Anthropic estabelece um recorde em seu IPO, criando centenas de milionários em dólares.",
    "fonte": "Vietnam.vn",
@@ -1751,78 +1823,6 @@
    "cat": "Lançamento",
    "empresa": "Itaú",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1azc8v1",
-   "titulo": "GTA VI supera US$ 2,36 bi e tem maior estreia do entretenimento",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlVEa0VIOV91Qm0tUGZVeUY3d21oQnNMZmU5MGwzWkRfLWhXZTRWQXZwY3ZMeEpxZkZLZ29HRmJ1U1JSb2pORE42elBrWnBjc2Y4MllPUnJSaWpiSWhLemEzQnFlYTZIS2NxVHp1VUs0eUcxaVhGMDhPUmpIQWZ6VWFHallyNFB4VVFGSVplTmtDNWhYSlo4czJnWTdXMnR4TEpOZ3RCYV9SdG9QaWN3b2NLeWdjWWs?oc=5",
-   "data": "2026-11-20T02:30:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "6yia1o",
-   "titulo": "Banco do Brasil vazamento de dados e outros destaques",
-   "fonte": "Acia Araçatuba",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zWkM4VHhQQ05WWk1hVUJTSlpoODZQWEM1UHAzendIRVh0SGRPc2w5Nm1NVzZTTlNKR1VSR3pFZDlXZENIM2Q5OTZTTmgtYnN5azRvX0VQZXBVUzk4eE9UOHVabnloQjVkS1hzQzcwN3FOYnNNMm9BYXY4LVdMVFU?oc=5",
-   "data": "2026-11-20T02:06:06.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ktcavb",
-   "titulo": "GTA VI vende cerca de 19 milhões de cópias e pode ter faturado US$ 1,8 bilhão no primeiro dia",
-   "fonte": "www.diariodenoticias.com.br",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTHE2TkVCSHFKUC1KVEJnR0dxWVpld1F1bDdTOEhQVWQ5VHpmN2pXdl9IaXF3bEVHV2xpRFBmQXMzb3o4eUU3RUxmRWxYd1QzSFZ3clNlUTRDVmR0RTFIaGVCZ1BXUGFITzMxbFZxYjdpX3J5V21ieTVuTnlHRXZabUdrNFVDeHpBX2gtdlQzZTlVT2p2Q2c?oc=5",
-   "data": "2026-11-20T01:52:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9wi1h3",
-   "titulo": "“Comunista-socialista” é usado em GTA VI como ofensa no jogo",
-   "fonte": "Pleno.News",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm01WTU2OTB0bTlLMW9ZLVRkeWx2QlRXY0E2RmZMUXd3WEZ1eUYzSVhXMkUtbktKRlhCYXpjMl9RQ2xRRHp0bmFYM2dLVUV6dHhIM3cwazhNZXU4RzJqbnA3cHp2cVU2bGpwUTJpcjlld29ocEtNcEJ3cE9ybU1EZVRqS1dpNFJuaUdjdkJFNS00Q0xzYVd4dXgxWmVSZjB0?oc=5",
-   "data": "2026-11-20T01:42:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6l8qu2",
-   "titulo": "Quais foram os 10 maiores IPOs da história? Veja o ranking",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2RUMzJ2eHROLVh1X2JpLVhpWXhiMWJON0k3ZUVRVm52VVVCbFJ2b3E0WDY3X1o5a0NsR1dWVGdFTTUwaC02SlhsLTRWQjkxMlNnaGMwRmVrcWIwd2VmbjV4Y0VYQkhFWDZ1RTNuQ3JMMlBPSWYwUnBvdEJtb1d2U3JOTUJ2eG9nX2p1cVJ2RVRSdUhI?oc=5",
-   "data": "2026-11-20T01:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3s083",
-   "titulo": "Dólar dispara a R$ 5,93, apesar de intervenção do BC; Ibovespa recua",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnRZcEE3clJYLVRyNjRudnlFOWh3bkZqVi1sSGhSU21aUUJJS0EyLWJ6eXpzMzF2WEtnNWx5akZnYW1YcVJEc21KcTdwN0VfdG1GV2RkRGZPa016SDRnWkFxckxpYlNGUVAwRF9KcVRqMUltY0s3OTU1T09sWnJ3SW9oU2VPbWZSczZFUC15VXI5WjBDNTZhdzR6WHpwZkt2TEJkY18tcW5mZ3hJV3BMNDgwUWtJQWpjTExKZVpGcC1YSDdCWnFuMnRsVVlHQQ?oc=5",
-   "data": "2026-11-20T01:11:46.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
