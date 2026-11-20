@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-20T03:30:24.721Z",
- "agendaCal": "2026-11-19T22:00:39.877Z",
+ "atualizado": "2026-11-20T04:30:23.900Z",
+ "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -55,6 +55,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6l8qu2",
+   "titulo": "Quais foram os 10 maiores IPOs da história? Veja o ranking",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS2RUMzJ2eHROLVh1X2JpLVhpWXhiMWJON0k3ZUVRVm52VVVCbFJ2b3E0WDY3X1o5a0NsR1dWVGdFTTUwaC02SlhsLTRWQjkxMlNnaGMwRmVrcWIwd2VmbjV4Y0VYQkhFWDZ1RTNuQ3JMMlBPSWYwUnBvdEJtb1d2U3JOTUJ2eG9nX2p1cVJ2RVRSdUhI?oc=5",
+   "data": "2026-11-20T01:30:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -548,6 +560,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1k84zvy",
+   "titulo": "Anthropic movimenta mercado em estreia na Nasdaq; veja como foi o primeiro dia",
+   "fonte": "Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbno2OTlyUl9pdk1URnd6Z2VrTnNIeUsxNFRpNTg0eWk2WDdBb1RBaFN5RzJhZ1liQnJxQU5TY2NHOXo5YWpxZmpoUFU0eFF3aWhSWnZUalBCUVU0dHFxTW5KSnBPVTNCVEg4dThnZERBaHExMGJVQ3VSaG9vTDU5bG5xMUkwbXFIeFVfNXVzTkpidmFDWXQ0Y3ZPTVplMHp1OVRpQmVIdDBpQnNZUTZpVVlsOF80cklGWlVuNnBR?oc=5",
+   "data": "2026-11-19T21:39:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1789,31 +1813,6 @@
    "score": 9,
    "marco": true,
    "avisado": false
-  },
-  {
-   "id": "exo54g",
-   "titulo": "IPO da Anthropic impulsiona Nasdaq, que sobe 1,9% nesta quinta-feira",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS044Zk03Ti1mejU2VmZvU2ZWYnZwRHk5UFJNaDkta1BRbVpUbmZNb2RDc1dkc1ZTT0dCNUtqMEdPSWV2NHlDYnVRelVOMTA3V0xzUndjakV3ZUZvR1JZUGxpQnpGRXp5MXVwdHU5cFFpWldQNXNN?oc=5",
-   "data": "2026-11-19T17:22:21.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lz1qdp",
-   "titulo": "Como acumular milhas e pontos na compra do GTA VI",
-   "fonte": "Passageiro de Primeira",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaEhPMUVHUzRuejBIQWdkVVZYY0xhMjVHWXp0UUtFZURCaDBYSHJPT1VBNUR2QmtXTmFQY2JhcERBcTBINXdUVXJSWHdoSkw5aGFTYVlEX3dxaW03YjBkWk1TUFllZnJtaGVxcHpFWG1HdkRUWnZqREh3YUxkWVYwdXdWWG1lT2stZzJF?oc=5",
-   "data": "2026-11-19T17:20:49.000Z",
-   "cat": "Corporativo",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795111230260
   }
  ]
 }
