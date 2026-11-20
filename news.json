@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T06:00:29.437Z",
+ "atualizado": "2026-11-20T07:30:24.464Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -10,6 +10,18 @@
  },
  "agenda": [],
  "itens": [
+  {
+   "id": "dm0w78",
+   "titulo": "Grand Theft Dortmund! Niko Kovac admite não entender de PlayStation enquanto astros do BVB enlouquecem com o novo GTA VI",
+   "fonte": "Goal.com",
+   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFp4QUtHTGMzUTVSdE9NLWJNNDRCSnhMamMxY0ZxcG1pUzVEWlNndUtxT3BkTThmblU5WEhWN0NFOHo5cElBemFmUmIzREN3dkdpd3RaU3o1ZmlQTFQyWEZqYmowNzNkQzF6VVlYQXUwTEVsdGlVaDlubFc4ZzM0NUZKeGdYNm1XVlhCalBXNHlkcm9xRGQzbmxRZkwyS21fLWRzdjQ2NHVnR0tnenBNazF4c2pQblNHYUxWVTU3MHhxaHJHVDl4QVdWeDZpN3ZJZEtVTF9rT3FJMnFpd2FUVWtLMmRrUGo3TjNSUUdzYjlqQllmeFVnMHdlbGlDb2t4cVhyX0M1ZEU?oc=5",
+   "data": "2026-11-20T07:15:03.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "kwl44p",
    "titulo": "Califórnia intima Nvidia em investigação sobre acesso da China a chips",
@@ -1800,18 +1812,6 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7x6z9v",
-   "titulo": "GTA VI: o jogo adiado mais uma vez... Vê o novo trailer!",
-   "fonte": "Sortir à Paris",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSW03YkNkUXdQUVAwbFdfT1ZiUUJKOEMxMXJKb2hfUVFDSXVaN0NzU19TQldIenpHemZnNHZGU2ZRZ0tBc1BCRndaOU8wN2VRdV9ZcVo0SDNLc29vRzdJSXJvM2xTd3hOa1BJaGU3QzF4R041YXBWRE4wVERxeWU0N1pxT2ZfY3hIaTU3cDJWeUt3TjYxZTNZMVBValBZSEdTd2x0eWptWnRZS2t0M0E?oc=5",
-   "data": "2026-11-19T17:33:28.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
