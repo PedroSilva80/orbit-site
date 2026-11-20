@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T12:30:29.203Z",
+ "atualizado": "2026-11-20T13:00:31.783Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1hu2lpf",
+   "titulo": "Ações da Anthropic caem com choque de realidade após IPO recorde",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXdmaTRkYzhZVjBrVkdyckNrU3poZWZLNTByM3IzTURDdzZGTWFDaThsUzZvZUZBeFJnUTFTUW5aQmZKQjhFTk5WUzJ2cDUwZmtJT1FWeUlZaE41ZnNNd01tTVNvYTlqenJLLVJ4NkU2d3fSAXhBVV95cUxPa2lzR0k0OVBZNU53QjduY2Z6SGFWNXdKUXhTdnU3NTgxdG5aVWJ1eFplLTlQa1EwUGtxaG9uZFBxenRSM0RDU1lLQVZYcGZja2VDeVpZRmQ2TU5XSmREYUFYdEZ5cm1PT2hzdW1SWEJZb3d3SlFGNWo?oc=5",
+   "data": "2026-11-20T12:47:49.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tain11",
+   "titulo": "‘GTA VI’: álbum chega às plataformas com 34 faixas",
+   "fonte": "Billboard Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmEtVmYtMHVrV3N1TW1DM3NyNE1LcV9SU3I3blRVOENORGhJZnNma0RLdVUyWVEtTF9tMi01UFgzTFh0ZGwtb0xLdkNkc3Z2b29UalFpX0VSQlpm?oc=5",
+   "data": "2026-11-20T12:34:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1kb05wk",
    "titulo": "AMD conclui compra da World Labs e incorpora Fei-Fei Li",
@@ -419,6 +443,18 @@
    "avisado": false
   },
   {
+   "id": "1g56kou",
+   "titulo": "Anthropic estreia na bolsa e acirra disputa com a OpenAI",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5Ob1FSeGtBWG0wUWtQTmZTMGZrMXM5RkQ4bGNOcDJmT2hSV2ZOVE95NEhMZWJlcmZSZklVejlwTGxpNEJhZS1QS1ktUGFyWWJXb3NWdUVGdHhtWmlzbkJEV3hweXJhVGRJeXFoRmdldE5qa1UxaGZMczRR?oc=5",
+   "data": "2026-11-20T06:37:31.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1exrg1r",
    "titulo": "IPO de US$ 81 bilhões da Anthropic supera o da SpaceX, mas ganhos na estreia ficam atrás",
    "fonte": "Cointelegraph Brasil",
@@ -715,6 +751,18 @@
    "data": "2026-11-19T23:42:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "nopynz",
+   "titulo": "Rockstar explica por que GTA 6 não tem uma paródia da Disney World, apesar de Vice City ter dado pistas sobre Fun World",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS3dTYXl4T1BSRU10VnAzRmVTQkY5Z0pISlllWFlHdlR2TDZSWHhXeEd6MW5ScTR0SlJLRE5oaXYtbVpoTkxyQzRibzA5X1UxdDE4MGFMVG9JXzZqcGNVQlJtc2pMSUN5WTNaSmNsMHBNSkc0NE1iejJyeWNlczNDN3pGUXRscWtzbzh1RTBIQmVMNnY5a2dLNU1ldXUzSktGQkZ0WHp2YUdyTzhQUXVlWU1HWVNabGd5LWxzV1JDc196dFFYcllJT0ZNelUwbEZqMnhWYXRZYUszY28zWkRtejVEcE05Vi1iUkFMN09ZNkczbU5WS2FR?oc=5",
+   "data": "2026-11-19T23:35:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1775,54 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ok4ysv",
-   "titulo": "Anthropic estreia na bolsa: o que muda para as empresas que usam Claude",
-   "fonte": "StartSe",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNEtucFVKaWttVEdKMVNiNVRNLWNOb0I0RWwwLWNybVBpZGZicE0xeUlMYVVKWGZhOTh4SDFpS00ycXZVbVpvQS1ESXZDWnp2X2dUdW9MQVpzZTBSaWEteFRtR3pzMGgtcjBXdkhLZkNhbW5UVWUyYVluTVQwdkdwSkFyaG1sTmRoQzN5bXNHS01PZ3RoUmROVk1RN2dKOFBGT1BWMW5zZmk?oc=5",
-   "data": "2026-11-19T19:08:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "t57khs",
-   "titulo": "Ações da Anthropic, lançadas em IPO a US$ 83, chegam a US$ 111, mas recuam para US$ 95",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT2lZaGlCU01CSFBzZVRJN3pUUnRzcVc2RzhNcG5JeWVZXzNIak5Ka01BNHp4NjVhLUdWVkpxOVozeHEyQUlxN1hoaGRLXzY1cTRYWEx3M19hTFIyZXNoZ05BdHBTSG1MOFpFZUE2enBXZW1obl83VFphR2ozbWJYVVZuUU9VYk5KX3A2VzJiQjNjYlJJbWtLSDl6NjVwb0VjUnVFVWtFbFctTnoyRWpN?oc=5",
-   "data": "2026-11-19T19:07:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "84zs82",
-   "titulo": "IPO da Anthropic: ação estreia 34% acima do preço e empresa chega a US$ 2 trilhões",
-   "fonte": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaHdXX1QtZ3dfNHZxa1JOM2J0SFZyX2s0akFicV9ITEFuLUVqZnZnckdMTzA1MWxVaGFjSnB4QlRfZzFzUXlJbVFrWkFUV0dLUTdWanYwRmQ4b3VRSjZvTHg2Z2I?oc=5",
-   "data": "2026-11-19T19:00:08.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1by7uur",
-   "titulo": "Tráfego de dados atinge recorde de 33,01 Tbps com GTA VI",
-   "fonte": "TELETIME News",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9DNldJUGRhT0VJaEpuVE1TejNlaFlxV3VnYWtNN2hTeV9iYVBpd0toRWliNGxnSmF5ZDQ2S3NROEwtQWduaml1OG51RFVEVUhrQUZTWXF2QWlUMTZHWDFZWWZIMUd0NDdZTnR1bUJvUVpKQQ?oc=5",
-   "data": "2026-11-19T18:57:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
