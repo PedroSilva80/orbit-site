@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T02:00:28.428Z",
+ "atualizado": "2026-11-20T02:30:26.567Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -67,6 +67,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "6yia1o",
+   "titulo": "Banco do Brasil vazamento de dados e outros destaques",
+   "fonte": "Acia Araçatuba",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zWkM4VHhQQ05WWk1hVUJTSlpoODZQWEM1UHAzendIRVh0SGRPc2w5Nm1NVzZTTlNKR1VSR3pFZDlXZENIM2Q5OTZTTmgtYnN5azRvX0VQZXBVUzk4eE9UOHVabnloQjVkS1hzQzcwN3FOYnNNMm9BYXY4LVdMVFU?oc=5",
+   "data": "2026-11-20T02:06:06.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ktcavb",
    "titulo": "GTA VI vende cerca de 19 milhões de cópias e pode ter faturado US$ 1,8 bilhão no primeiro dia",
@@ -233,6 +245,18 @@
    "empresa": "GTA VI",
    "score": 7,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "47868b",
+   "titulo": "Anthropic capta US$ 81,34 bilhões em IPO; ações encerram estreia em alta de 17% após forte disparada",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmdHTWZOVjFlbUpXeHBPanFwaWt0M1RMRjBfZEROMEJLdVNDNUs5RGJaV0owMzZjXzB2YWNpaDJSUXhEbWdDTHZhcXdkcUhYVklPckQ1QW1aZmIxNXNWX0tsOS1iSkUzMVNSQTRGS0g2QV9CZ3VaNDBhNFNqVlNqODBHbG9ickViUDg5djZiOVJzQWQzWWtz?oc=5",
+   "data": "2026-11-19T23:11:03.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1175,6 +1199,18 @@
    "avisado": false
   },
   {
+   "id": "84zs82",
+   "titulo": "IPO da Anthropic: ação estreia 34% acima do preço e empresa chega a US$ 2 trilhões",
+   "fonte": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1jaHdXX1QtZ3dfNHZxa1JOM2J0SFZyX2s0akFicV9ITEFuLUVqZnZnckdMTzA1MWxVaGFjSnB4QlRfZzFzUXlJbVFrWkFUV0dLUTdWanYwRmQ4b3VRSjZvTHg2Z2I?oc=5",
+   "data": "2026-11-19T19:00:08.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1by7uur",
    "titulo": "Tráfego de dados atinge recorde de 33,01 Tbps com GTA VI",
    "fonte": "TELETIME News",
@@ -1834,42 +1870,6 @@
    "empresa": "Anthropic",
    "score": 7,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "21euhz",
-   "titulo": "Ações da Anthropic disparam 34% em estreia na Bolsa e empresa já vale US$ 2 trilhões",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPa0VINFEyM3lsbVdBeW1vYVJtS1BmYzZzalRZdnAtQkdCVFNDeDNTd0w1U1BhNW9pT1ZjSG5WX01QS1p1aGtpbDlwZURIdmgwSmZIckJFMXhLRUhhamFQQWlTUEc0OUpXcTBZRnpCLW90MnA2QUFwYXZlSk9GQTRmOURhc0dSZEQ0Y3V1TjI2anhpR1FRZDU2bDhQdFZUQ2xtVWcxUVVJTDh1VUxRaTFCbzhSN1lKZnVKNEFsaGEyT203UHV3eXZpN1VtRndQNERDZmRhdno3bVNHb2l5Vmd0MdIB7wFBVV95cUxOM1NwNlFwN3ZQa0N1V21hQ0twVEl2ckdrVHpRWE5id3gtX3ZIV3JEcm5oX29jeTMtcV9jUHZ6bTd6YXhxbmU0bEQ5NVllYWo1SU1HZFRQUVBxMUZPaWxfWk1fdE9xUzJHZUQ2ZVdQVEI4dnVtdmZJNm9Od2piRzJjak5pLWNIYTFiV054aWhFMHJwb3ZuTVNMaUR4MW95aDBJRmt0QzVVemhnLTFLT3R6TjJlbUFENG5fQXF5QkN5Y05EblBUcGVzTFBXdU1SOWh4bk5OTHBfNEVfLUk0dHMxeTJFNWtOYlhoZW9KSFdoSQ?oc=5",
-   "data": "2026-11-19T17:12:36.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 7,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "rztbo3",
-   "titulo": "Lançamento global de GTA VI impulsiona ações da Sony, mas franquia tem dificuldade de atrair público japonês",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxObW1CODk0UjZhZE56M1UtZnZKQnYyamdVcGJfMGptQ0szQU4tcWxQWWlZNGsyV19Lc09WMGY4cjQxb0g4OVUxMk5IMmgwRWRfZHA1dVUzMTQ2b1lrUnl4ZDYwb2Y5blQwNmhxSmU1MWYwMjlpZGVxRGJVVGlpQm53UFI3S2RncjBCSVV2QjZuNGpkbllrd1haMTJSV29UMFIzcjdzTlJOU0dQY2NzMWsycGZRM0YtNk52RG1xRXp4RldPVS16V1J0TjNtTWlxZkpMZlpZdkdEYW5RZkR2VkxpVEdpYnhfbV9sbldkRUlwZWtVUzRYcnFSVdIBhwJBVV95cUxPVkYwNnN6Z3hWNTJ5QTh4UnU3YTVfZDdTTmJBdTVtYUhhRTc5RGZWbGFyNXZpNl9DMEx6cndCTk5hTUlsa2IwMXZuWHd0MFBFTHBBRUEyRkhvdWR3MU5ZZ0ZiaTR0Wl9LNjU1YTRGREpUencxR3o3ZnZSLWo1a2pVazZscXI0dUpraElyakljaVZoNnRWTmRIV0ZyN2ZjQldjbU1NRE5wMEZ2ZEs0V1R0NEZlV2xKS2VCOXhaWXc0aU43emZkWThkU0RaemRweGhaT21HdlZORjJUcWp0Z2hmWUpWVFo3ckV0dFhabE5iMVZ4NGRvZUxWQ2tMQlFlS2U3MVQ3Q1IxOA?oc=5",
-   "data": "2026-11-19T17:12:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "115crwq",
-   "titulo": "ANTH34: BDR da Anthropic dispara em estreia na B3 junto com ação na Nasdaq",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPME9LaENRMjk3aGJmSTNQZGs3NW1faFY4RThOX0xia1M5RGRYUjBJVGxoYXFLNDBZTW55ZkVZX2tRQUdZMXJuMUtwT3NGUUNhOTFOVDdEVjM4S0Q5c2dWeXh6UWk1MU9KcDdsRVlFSFBOM0JUWG5FaEJBeHhzOVRtMkVxc0ZjS0U1WmQ4bTFZU1ZoVXRWVC1VejhLNUVrcDBmNWUxTXFIR1RGbWVlZzNkZ2Rmdm9pOURfVkdGelVPdFltb0VTbkt0bWJn0gHPAUFVX3lxTE91dTZHT1lqb2xHYVJWRWtLMlFNU3RwY2cwdHF2cmNEOHpITEk2TnZQT25sMi03YWJBR2dOUHNSREJqMlJ1eFhzbFdoakZ1QjZyWDFIZ0RPTTlPUEMxWHJWenpiZjdNeDhoZlBEUGdYajJmM0RvTVRmU291ZG1ITFQ0cGwtTjRMc2dxVzM1TXF6RW51eHRMVE9NYkcwUW1oVWVhWEV4V2NaMWRIZ0ktQWtjMGFrdnEwcW4zZlNCVFZITWViTHJkQVNVd1dXN0psWQ?oc=5",
-   "data": "2026-11-19T17:08:50.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
