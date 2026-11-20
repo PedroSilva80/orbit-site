@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T08:00:28.375Z",
+ "atualizado": "2026-11-20T08:30:26.019Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -8,8 +8,65 @@
   "dig|2026-11-18": 1794996028930,
   "dig|2026-11-19": 1795082434933
  },
- "agenda": [],
+ "agenda": [
+  {
+   "data": "2026-11-24",
+   "tipo": "Balanço",
+   "empresa": "Nvidia",
+   "origem": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX1BGOGd5dTE2SmVOVnhGNmVWMnpFMVotdEJOYmFZQk96VlFSVWtZNnF3eHVKcEdLTHZGbXpkUWc0Q01DNkVEWWZhTW04ZUZWZDRNeDdPRlA5SFU?oc=5",
+   "manchete": "Nvidia (NVDC34) divulga resultados nesta terça; o que está em jogo para as ações?"
+  }
+ ],
  "itens": [
+  {
+   "id": "1ules6z",
+   "titulo": "Changpeng Zhao faz uma sugestão enquanto IPO da Anthropic cria milhares de milionários",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9FeVlXWGhwd0wzeXdOV3dNREJXS0RLQzFyOTZBZEZfdUVSU29TMk5JcndhMU9hSWZkbmpybTJUTXAzTjREazdPdXlWdkNGRzJ1TWc5MDlhYXVQM2NNbjQ4NFU1RDh2UTNXZjhQWWhOY3ZNR25lWTM2V1NXZlo?oc=5",
+   "data": "2026-11-20T08:14:36.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rvf6lg",
+   "titulo": "Anthropic levanta US$ 81 bilhões e bate recorde histórico de IPO",
+   "fonte": "Correio Braziliense",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTFBpWDVPNUVHNnV6ODUtM1I4SFo4Ry15SmlMcF9EeFp3R0JzaTJnZ0J3S1Fac2JJbzd2V2RtR3J6WGJUZTVkbzliU1ZSZUpKQzNCUU1PaXFiZTJXLVg1dUczbURVTUNJOVpCUkRGcmxkSFMwck5WdVdnUjJLc1FKSnpaSmpXdHRpQkdIR2xrTzBSNnFSX0xxVGVReVBDSlZuWUlKUkd4QnIxWjZhQks2M3dWZ0VLLVdGeXA5cHM2US1Hb2dxbnpJMzYzZEzSAdIBQVVfeXFMTXBxU0lZUnZuRUpjUVlaQkJaNUtwcTRXMHp2Q1lodm9xdmxUalZ5WEM5TDdZWS1jOXVKWFZ3V2NVbzByVzliRnEwZXdjbEdOTFBFMUEwSlN6MjVLdkFKUzNjY21LRUNHc1BOdGpxMHdQSHg2VFI3MnFmZmVnQXgwVTNFS3drNEVOVGNoQzlkdTVORUxqa3dOR0llTlVQTVdaNkxZY1RTcU02Rzl1TjVaeXBrVXUyQ183cldrR29xWG9WX2lQVklGYjN5cUYzYlA1NTNn?oc=5",
+   "data": "2026-11-20T08:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "93rk1s",
+   "titulo": "Os Bilionários Que Mais Ganharam com o IPO da Anthropic",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSVBqMjE2dGJSVnYtckhQWktwTVcxc3NtUDVnaTEtQS1sdEQyNGNLQXNhU3NIUlRKdGdITTVETDdmTGhsb3FpSWFCaHVzYk9KSkd0eWdxbVFEVndVLWtMa3dSWWswMEkzNE1Ib0g2UUpsMFlLeEZpS0drR2NZQ205Nml5blRlMHJ2UzZaNzg2NUI5WXhfaVpFSDBQWGc1cm9J?oc=5",
+   "data": "2026-11-20T08:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12h51gy",
+   "titulo": "Lançamento de GTA VI eleva tráfego global da DE-CIX ao recorde de 33 terabits por segundo",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ0VBY2hMTzI4SzJPVmw1Vk1yMFQ0M01MNUp4dVV6Q1UyYndiNkJUcEhNYkNlM1NFUk9iN3FSQ2EweTBkakNXN25nZFRpU2J0SVlfQ3NpVGpIUlp3VjFaX1NkeEhnTmphQURsbFE5SWNxSkgtVFIzTTRudEdYNS1BSTdFY2FCNGlOZUJiTThTODI1TGxZdUpNQlhTNTFUbmNTNzNtY2U2RVZ4LTBScjRrN0ttMV9GbEZHSWVQQQ?oc=5",
+   "data": "2026-11-20T07:55:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "chxjod",
    "titulo": "HSBC eleva recomendação da Tesla Inc com potencial de aquisição e preço-alvo a US$ 359",
@@ -107,6 +164,18 @@
    "avisado": false
   },
   {
+   "id": "5z8v7o",
+   "titulo": "Itaú Empresas lança “Toda Empresa é um Feito”",
+   "fonte": "Creativosbr",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16emc0Q3lhb1VLdnJhMEJoeFBtY1RGcVM5eTUza3JINVFad2N1THVJeU9YSm1lMWI0RDQyUlJNR1JkXzdrUDJ3NVE1aUR2RzFFM0hmWWhHSEtEVVFJakMyNHYxdXV4TGxpM0lHX0V3b3RRWnZfSS1lOWlBRQ?oc=5",
+   "data": "2026-11-20T02:40:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "Itaú",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1azc8v1",
    "titulo": "GTA VI supera US$ 2,36 bi e tem maior estreia do entretenimento",
    "fonte": "UOL",
@@ -139,6 +208,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9wi1h3",
+   "titulo": "“Comunista-socialista” é usado em GTA VI como ofensa no jogo",
+   "fonte": "Pleno.News",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQm01WTU2OTB0bTlLMW9ZLVRkeWx2QlRXY0E2RmZMUXd3WEZ1eUYzSVhXMkUtbktKRlhCYXpjMl9RQ2xRRHp0bmFYM2dLVUV6dHhIM3cwazhNZXU4RzJqbnA3cHp2cVU2bGpwUTJpcjlld29ocEtNcEJ3cE9ybU1EZVRqS1dpNFJuaUdjdkJFNS00Q0xzYVd4dXgxWmVSZjB0?oc=5",
+   "data": "2026-11-20T01:42:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1740,78 +1821,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3dn5oh",
-   "titulo": "Anthropic estreia na Nasdaq com IPO recorde e ações sobem mais de 30% de largada",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeWRkM3JvSElEdjl3U0JDanF1WExscl9BOUZFNWRIWW4zUUFBZEVfUzlNNG92YkQ3WDl2M2ZtYV9ER1NPOE56NFNaQ1BjRHM2VXZxNXZTUUFMb2p5ZHFxaUVaN0NObGdFb1JuMll6LVp4OEZLZk1lb1dHc1ZGYWZYU2VOMm0xNTlUSmxPZV94R0szb21ZQ25BVDVGYjFpZFh5eS1OQ1dkNnVIY0RCQmhFTW5ULXU3WWN5aXgtcDk0b0ZlZmhRbjFsbzR3eEpTd9IB3AFBVV95cUxQemxTNVQtVTZuYXFzUG1xcUNFd0U4MWVnaHltYVlsRVZ4TmpyOS12eWZqTXBuaUNmRzNMaTdsU1V3eE5YamEyYmJKYkFRVUhWVV9hODM5ZmtHUlJTVjBpaXU4bXV5bzhMN1Y2ZW1EQUZfT3Y3WE1QcDdaWmdZa1dnUkdpYUZiYUlFcU4zTU5CclVqTEtUUEEzek5jSGxoYklZeHZBNGRmUy1BVXhGNUFnc0VadUdhdVFZYzhqT2x3elEyeFk5aFVlVWZJa2dFNGJ4S0VvYmFycDhRRlVB?oc=5",
-   "data": "2026-11-19T17:58:03.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1n0sj5s",
-   "titulo": "GTA VI chega com nota 99, 17 milhões de cópias vendidas e US$ 1,65 bi em receita",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUUlFZkl0Ry1idFBDOTFlR0h4MGU4TGk2MnNJMVVYN0FCbGFBNExBV2w1STY2WXJibkoxRnBCLUI4SHk3dmRKRFVEWU40RkZjMlpvSGtIdV94anJRYjY2SnZWc0NtdWFfOTdHbktfLUpCVXBibzVGM0RQX1dnTnpJN2NBemZkbDN1V1VyZDE5bXpzVFByU08wdXhpZ2JSbmZ5SXpoMm5COG44end0UVJ1LWkyUU85SEJDb3E4dVJVTl_SAcYBQVVfeXFMTW4wa21iM0NVUWRHM2Fnd29FMldjZzAwUXRPS0xKMDR4NXEwQzRJZC1SWTIzTUNWUGlfcmRTOGlBRXoyUURpaUVoT19PVDREdHUtbm9yWG5zQXV2WTdhVldQOVBXaVh1bUo1aTI0X2d3X1BjTl9femozdkNMVHllNWNBQm9VX0JtdzFJcVRYTjlyXzJKUENCSnlVaGc0N0lZWGp3MjRpUmRKV2JDajJtSTNyY1UwVzc5QnpqOXVJVF9iVUdqYm93?oc=5",
-   "data": "2026-11-19T17:55:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xgenqv",
-   "titulo": "Take-Two deve quebrar recordes de vendas com \"GTA VI\"",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMHhhY2JoYUkxX1lBQTZYNXptai1nbVphbEo5elgtaTR6a1B3Q0dQRjJnUzZoQ3hmdXU2bFUwLWdKVU1yRU9sSXZBYUhCSWVZSS1Kd0NFTlhhTVZqLUdFTnlPLTBzdnNOM3k2X0ZkUEp4OWFXcU1rMDBmYk5oWk9GY2ZWSjdNRzlxNmlJM2pTVG9jUmdBOFZteHUwVFBmT1Y2akwwbC1YMXpIakFzdE8zcA?oc=5",
-   "data": "2026-11-19T17:53:35.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "123oqqr",
-   "titulo": "Deputado cobra Banco do Brasil por suspeitas de fraude em esquema das fazendas fantasmas",
-   "fonte": "Diário do Poder",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZEt5MnJzM2Rvb19neGVhWW55RnRFSE1PQzlBTG1wSmR3cEhvR0RENXBQSXl0bmhJT1A0d2Q1d2NtSnhDX0t1STg0Mm9qdGJUcHFjU09wSGN1QXUwa05Tb3RON05JckUteXZqRFRESVZpQWVvYmxPMWhuTXdrQTd1ZFF4aE5VeS1yREo0QmpPS1hheW1QaG1kNTdnZlpWYklWSDFBdlRTNzFlVXIxUUE4ZGI5Z012SjJUd3pjV2QtcGdhbjAzNTNpU0FOMk5CMFpQdWE1MVln0gHbAUFVX3lxTE9sN29CVVFaakpMSVY4QVRmWWlsczlOOXpuSGttZXdOTzVRTmpCbDBYNEZiTnNOak5UaldqZWoxTENIYmxGbHNHZURvRUlMd0dNaEtCRl9IQW5CMUdWVUxDUVRkSU9pQ1l2Q1FNUmNrWEppVEhKeG9ITGJ2MjZhdG9DRzNfdHh4LUI5VnNNQmViY2RadGtGeVZyYnBqY01uRjBQaGNkWjVObkczVktpc3hQTl9fZjE2TklyUXhzY3EwM0lNQ2c2Q1NidHlTXzlDUjgtN001Vlp3U3Y3UQ?oc=5",
-   "data": "2026-11-19T17:50:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1f6hib0",
-   "titulo": "Agência de Comunicação - BingX adiciona trading spot e de futuros perpétuos da Anthropic após estreia na Nasdaq",
-   "fonte": "Estadão Blue Studio",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNNC1XRlpJZ25SVTFjT25SMDJFcTlpcHZPbFdFSkl4MkluYy14bUZ5UktpM09VSVBCbFFnYkdXeTd4cnlJa1dsYWdpTXd6TDVXWUp5dk1qR21kUzRSWlozVUlBdV9waE5MRmJxV1R2M2IyS3RfbnRZSUM5emtQLXFjYkFpS053SUgzWkZpcF9DSlJMT0tfVHB4aWp1NEYxVEhzaE9TVDh3WWZ1NU9rRWdKM3MzSDlhY3Jlakd0dkFER2IzYXlaamdkcFJWT19xX0ZrMlpNdnNlYUx5Yi1pUUY4NnQ4RzB3ZW1wQmJj?oc=5",
-   "data": "2026-11-19T17:49:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "puy6fl",
-   "titulo": "BDR da Anthropic estreia na B3 e Buena Vista lança ETFs focados na economia brasileira",
-   "fonte": "Money Report",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNWM3bVhrS1BWdk5fZzhXcTBhLUZJdkJPUlBRZzZ0X3VlYUhKZG1QWjkwSHoxTEJtaHNhT1ZYZko3REJ4SkNka0YzOWx1ZHNDeXZ1cE5JY3pac2FwWUpWZU15V2JZTk1BQ09NLTNjLXBLSTRXVXg2RjBnTE5GX1RyTEZ2dDNnUmFabXVlaC1pbGkzNnVsYld2NmlnQ2ZhaHdBcS13bHFaTjh3VHhwR2hCWmlVWWhhQmdna1A3Qzc5aUdubTJYQ0V0SQ?oc=5",
-   "data": "2026-11-19T17:49:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Anthropic",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
