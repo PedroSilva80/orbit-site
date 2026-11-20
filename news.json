@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T01:00:31.687Z",
+ "atualizado": "2026-11-20T01:30:30.450Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -67,6 +67,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "3p7j3h",
+   "titulo": "'GTA VI' tem previsão de faturar R$ 11,5 bilhões no primeiro dia",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMWh1OTNsZWREYkxLdU4ta3RWTVZYWW81OU8yczNHTmlnYnB2c3d1YUd6dHpqQ1A1cGN5MWY3UG40VG5wajZkN2JYSXU3LS03RkNCNTBXNUxkTURZQTZ5VzZ5UzhzMXhQYjloTWRwcW91d0tib0FJeUo5bkxSdElJanFTSFNuQ1cySDZ0ZlR4dEgwUzVuNEJhWC0yUFVZQmlkcFpSbExtdzBjTXlmSXprQWVka0F2Mkk2TUtyVDdn0gHMAUFVX3lxTE81NkNWdG5fRl9yNWt6c3NVR3l6VmduY3lUazNneVhESTE5cVUtLWVMUkhyYmJXNUF2aE82OUpIaG5SZUhHa0d5cVRwRUgyRlIwS09Xc0djWG9DZ0VRazhfWHBvaHNkU0xTVjNkNHl0bGNwaEFaNDdqTWdkV0dpVEZwUjdKQ2xjMnVnNWpjQXpqOVV0OTFaVzk2ckFTRzM2UTdzNDMySGdWQ2NUY3JFaHNnc2JOSVk5TXdZaUFEVGt6ZW9XVEhYTDMtaXEzRg?oc=5",
+   "data": "2026-11-20T01:11:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1hzr7l7",
+   "titulo": "IPO da Anthropic: lucro precisa sustentar valuation de US$ 1,5 tri",
+   "fonte": "jornaltribuna.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT0NiT2tJSHVlS1FHcG1VZ1ZXRVRPRV85ZjFkVVAweXlmOWl0OVE1WWtnWHhnalpPT3ZXZndwdDJrYkVnNjlMSmhWeGJ0U0VYbzBNUTY5MC1BX3JqN19RcXAtbE1NbzNjajNZWGpvdGMtZ2hteFlVQWItbUVNa2lBVm5kdGVLdjZNS0o0aUI0cmJpZ2xhT2NrTFZ4X1VvZVluT3I4LXJiaw?oc=5",
+   "data": "2026-11-20T01:10:46.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1raedkk",
    "titulo": "Disney Dreamlight Valley lança expansão com transformação em sereia, navio pirata e Jack Sparrow",
@@ -1837,38 +1861,14 @@
    "avisado": false
   },
   {
-   "id": "7u4ieq",
-   "titulo": "IPO da Anthropic reforça confiança na IA, mas exige cautela",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN19ZeHNTQmltNGdpOXlyMzExd1Ftd0gxWDg1SzFIc1U3VHNBOTk1dzdIbFVMLUFfVlMweG1PclBDZGl2VE9ZdmZpdUFnQ1BPSjRBU3A4ZVpNbG5pQkNJTkYtazBwWk1jRUJiOTZ3SnZxMVVQWW5ja0I4c0plZlpucS1OdmRvWUNWX3pzN1NvbGd2QTYz?oc=5",
-   "data": "2026-11-19T17:01:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1g6csa8",
-   "titulo": "Dow Jones hoje recua enquanto Anthropic estreia na Nasdaq com salto de mais de 29%",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZ9IB6AFBVV95cUxPRzhNUXc2cDJqbndSN0NOMHV5d1g1dGtieGkyazlPOXVydEZiamxpbmtkMk94aWN1c3JicnZVV1U1QmM0NnFrNG90VmlzZUtjbkdvRFBZbUFCYl9wMm1MZTR6TzNOZ2RKUG0tSUtYdWVzNHdsUGRaUVdWSHlNR0JwMlNwbWRuSVBqMmxhOHlpaFNOYTVHMWM4ME9kZEJUa0l4NzlwS1duNkZxNV9PZzVWdXYtemVZeUt5RExHb1ZvZVZiMm41TUV2REg1bVZFU0lPNEFSUXdBTkRVOVgyaEtfbVFJRFloMHJm?oc=5",
-   "data": "2026-11-19T17:01:31.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1ssgh33",
-   "titulo": "BNDES registra lucro líquido de R$ 20,3 bi de janeiro a setembro, alta de 18% ante 2025",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMmpXY0dwM0hlS2hhdFBQdlEwUXZ3SmFiUS1OdVhvVDJMZUdHVnpLejBFVXltcS0yNTNGd1RBTFQ5dUhCRkFaR0VBMlEyNUdoQ3dfc29JWEhOUTZwd0dVazJLY0Ffa0FLbVo2bVBRSm14cGlJdk1NYXpTU3pRSEpkOHZQWVhJcE95ZDVmMjdWRXlFd29iV1o2RGJ6Z0l3b21pU2szN2QtZkVyaU16ZlBwUtIBtAFBVV95cUxOX1A4djFua0E0QVJwSEFIa3pxeS1PNWhXbUNEXzhrQW4zVWJhNS1lNFgxaWJUN1JDQy1BOVlpdzdXSWpIVlBqZThKZk5CRFBueE01T29DTVRrRUdEME13VEFHeFhFUk9tcEZaMGlVYm9MYm9wRVlrazVQQ0lJdDlSSENORTV5dWU1SUE3LWwxS2xYOV95eGFFdHhBZGtYemkyMWNaa0s4WHVxR08tOVhXS2sxMko?oc=5",
-   "data": "2026-11-19T17:00:00.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 5,
+   "id": "1v44c6i",
+   "titulo": "Rockstar divulga elenco de ‘GTA 6’; confira",
+   "fonte": "Rolling Stone Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkk5cWlmVmNOTTU4MTZtb3M1djFLNlBMOGpCUDFYT0IwUlVyTEtJbk1nY0c0N2g1YW9OcVJMX194SVZNcFFvc3FoY0dsNE1tRVFsdEMyUDVjcGZ3RXZoaE9wc3EwTjREcndreUtUNVA1OXNDdE9CVE9TUFo1X3pyVGpQT3hZQQ?oc=5",
+   "data": "2026-11-19T17:05:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   }
