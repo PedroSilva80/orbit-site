@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T04:30:23.900Z",
+ "atualizado": "2026-11-20T05:30:26.687Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -10,6 +10,18 @@
  },
  "agenda": [],
  "itens": [
+  {
+   "id": "kwl44p",
+   "titulo": "Califórnia intima Nvidia em investigação sobre acesso da China a chips",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVmlYWUxEckluNnA2aHlGOEhOVDBFNzJ4VExFTkltMS1reVNncWFzYmRKbVR0dTJpaGF3TnJJZDlQR25iRDU0SkZQYzVjSHRuUE9zS2ZwZXNpenlsUEZ0SlEwc21wdlAySm43TEtlQUNtUFR2QUpnOXA3VFQwRm9KZ2NhWUZqNlZCWWU1RVdFLWJvelYwbXRaWFpnWGFfZGhmY0p1NXR1Q2ZCWXBKM2hYNDJod2hhbF84Wm9KSDhKNEl0YlRaMzFzSldHWmNocFpiQXZuMGxmVFI1UlpkNFE?oc=5",
+   "data": "2026-11-20T05:20:47.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "91tfps",
    "titulo": "GiroPop: IZA lança disco reggae e GTA VI ganha trilha com músicas novas de Dua Lipa e Zara Larsson",
@@ -259,6 +271,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "41ekwi",
+   "titulo": "Gefron localiza 404 tabletes de entorpecentes em caminhão frigorífico e causa prejuízo de R$ 5,2 milhões às facções criminosas",
+   "fonte": "passandoalimpomt.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNWVFTamROSkdWcXFCWHhiQUlLNHAySFVnMFByYTVuNC1ITldFUzV5UVI1MmFneThkTlM0ZGN4bklVc2RJSTZHaVRUeVRzX2xwenBkdXJSal9YUDBfbGNBZE9EYkx4cnhrcFY4QmpZYkN1NXh3bTQ0RVBBRlhLSEEybFdERDlYTDBMRXVtQ0ZkUU9oQXFFY1R3V0tXNUZuMzBLMHpjXzZscE5MV0dhZElBQW5wSzVmRnZUQmxOX2QyT2dscEM4U2FNMVpSMmhqcHFEN014U0R5eE9wWS1VSXgwLTA5VmZHS2x3UFpQeHcyNFdVTTlzWkd3cXZub2pEZw?oc=5",
+   "data": "2026-11-19T23:02:32.000Z",
+   "cat": "Resultado",
+   "empresa": "Localiza",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1788,30 +1812,6 @@
    "empresa": "Vale",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1igcrkc",
-   "titulo": "Anthropic define preço de ações e estreia na bolsa nesta quinta-feira (19)",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRE5DLVRmVDd6YWViZDV4OTl6SVE4c1NsSG5fcjdsckFBZjBEcnZPSmlvTll3VjF2VWFsVkRYeFRQbGxlS1YybWxKdjRXQm5qV2E2X2VmWWRkQUttdS00YmxQR3otMGN1WFRrVjktTUw0WjNZMWdyMGdGLWh1SkJMODZiNWtkWXJQbWlGeGxFY1JxcUJQN2k3dXdMclhJd28?oc=5",
-   "data": "2026-11-19T17:27:57.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1jumtqu",
-   "titulo": "IPO da Anthropic: Nasdaq sobe 1,9% antes da estreia",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GS044Zk03Ti1mejU2VmZvU2ZWYnZwRHk5UFJNaDkta1BRbVpUbmZNb2RDc1dkc1ZTT0dCNUtqMEdPSWV2NHlDYnVRelVOMTA3V0xzUndjakV3ZUZvR1JZUGxpQnpGRXp5MXVwdHU5cFFpWldQNXNN?oc=5",
-   "data": "2026-11-19T17:22:21.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
    "avisado": false
   }
  ]
