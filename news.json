@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T15:30:29.694Z",
+ "atualizado": "2026-11-20T16:00:30.930Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "w83p3b",
+   "titulo": "Rockstar diz que os cassinos fechados e as áreas não utilizadas do mapa de GTA 6 deixam \"opções em aberto para o futuro\"",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNkFIV016UkZGN3FJUTkxLWt0aHVMVnNVTHJSaGJ5TFJsT2k0Uk1PSFZTaXFPd0VCaGMwZWo2NHRfRWhuSHQySHBKMHY1ejNxRE5KenU2U091bHdPdWpORURabDJod0pQQTdndEQtcEJtOUhLaTBKbHA1OFhiQ0k4N2VIN2hBOGZJWnhKekw3MWtUYWRVbnd2eC1yNVFNdHhyR2Y0M0NfdlIwRTNMMEtBY2JKdG50aW5qdUNSN1VDRUl0TDlCX28tQ29YOVNjOGpNdVFsVVBwdXI3dHBzQmlRZjlpUlkyMXQzY1Q0SUVkdE1uX3NHUUVR?oc=5",
+   "data": "2026-11-20T15:35:36.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "i2jkhj",
    "titulo": "GTA VI: 5 segredos e referências que os jogadores encontraram",
@@ -311,6 +323,18 @@
    "avisado": false
   },
   {
+   "id": "al1sdq",
+   "titulo": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb01wZmlvdHY4UlNCUGZlSDZNUVVvWFk2cUhUMFZWcE5YODZlQ0JNVDFIUDdVOFdKaEhDVkFsQy0yTHhHT2xja0E0MWNfZ2hlY1RyMkNXdEZBUTAzTkNtcWJYZ0hWUHVYSVFBWXpGb1ZoUXZyUlR3bE9rQjAxZDdrNER6bERtVUh3N0h6RFdOZ1IzNjVCbVp4MW1Mbm5TcjhocU96OUpRNVRrZzVyUTFMclA4dmtuNUJ1TXlnU2NNUVh0WEEtWlRNaTRMQXNJdw?oc=5",
+   "data": "2026-11-20T13:19:14.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1jiexis",
    "titulo": "Algum personagem da franquia GTA está de volta em GTA 6? Após a Rockstar divulgar lista de créditos, rumores apontam para retorno de ex-protagonista",
    "fonte": "IGN Brasil",
@@ -383,6 +407,18 @@
    "avisado": false
   },
   {
+   "id": "1sk3h2u",
+   "titulo": "Franquia GTA ultrapassa 900 bilhões de visualizações no YouTube antes da chegada de GTA VI",
+   "fonte": "Portal Nosso Meio",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWxfVU8tdEV2T3ZnNnJQSEtmc1c0NVJkdFBibXFvXzVHRG1hU1lVU000REwtME5KbV93MEVadURmYjRpN2hMZVl3TE0xZElpSFU5TG42VG9xWEp2RUx2d1dQYms0cWJPWGMybTRLcldNbXVKM1BLSVNxdlpORjJWTUFSeWJTNDBNQ0NWMDlSTmFNMTNybk9lRXhuVERKMG1kZHFmN09DVkdPak9waThwbzM1bmxCd3c?oc=5",
+   "data": "2026-11-20T13:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1hu2lpf",
    "titulo": "Ações da Anthropic caem com choque de realidade após IPO recorde",
    "fonte": "InvestNews",
@@ -444,6 +480,30 @@
    "avisado": false
   },
   {
+   "id": "1pa7vlj",
+   "titulo": "Dona do Claude faz maior IPO da história e abre nova fase para a IA",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxONzRpU0VxdlZQbWlGbDRJbFZyek9tcnFNay1EYldIQTRsYjVQY2VoZ2xQZXFZZ25hOUVoUzdWQXVyOThvVGh3UnJQaGdoRDlCb2pOSDBHMTVtaEJGU0ppY0lweDhVSWlYOUtVNlB6czU2WVRTMUhYVXN5cmM2TTFZMHR1Z19EM2dXa29MalFfUjBMcVBnSmJUUlducm5POHdsMDVzb203TEh1Z0EwVkRoTDhHdmJhMTJRVDNJY3lQazJRQlF2UjFCYjNDRWh6bmxJZ2JpRGtDYjQ0b1ppcExBSUI4Q01LUlQyVl9MLWZaWkh2U0FXdFJ4SFRwblRubDNndlE?oc=5",
+   "data": "2026-11-20T12:24:24.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tiv7y9",
+   "titulo": "Lu do Magalu invade a Avenida Paulista em vídeo inspirado em GTA VI",
+   "fonte": "jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZVdMVjBNS1VQQVhFWnh2bkdRaHUyZGNKWDFmaGlSX0VjMmhuMFpjc3dpS0xmeTR1QkFTRmZvV2Z2dGh5TTdiN2lfMlItX3pyWXlBdmZWN1ZwQU84VlZiUmg1dzJmT0g5YjJ1TDZldU1YYlJCdEwyUktseW5EaGNXVlhRbzZQWEpkN1ZZRnY2b0VKMFAwRU9mTFVRdzNiVEwtZjYw?oc=5",
+   "data": "2026-11-20T12:13:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "fijpyi",
    "titulo": "Bitcoin cai abaixo de US$ 62 mil após IPO da Anthropic",
    "fonte": "Webitcoin",
@@ -465,6 +525,18 @@
    "empresa": "B3",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12v8w3t",
+   "titulo": "Anthropic estreia na Nasdaq avaliada em US$ 1,8 trilhão",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3VVa3QzSWVBaEJUaE9DWkdWZkxPT1BaaWV2TkdBWEJ3YUdoQTNITjQ0cE9jRlo3dno0Vy1UYm03WDVxenRISVQ3YURhMGd3VFRfRUhHVkdncEVickNYQjFOc0NjNk4wZ3hqQWlWenZnUVVtLURyZE5LeldVRWF4ZzQ3WXhlYnh0YXRiNGNCa0wxdWtuY3lwMWdqRWpIRWVuVWFSYQ?oc=5",
+   "data": "2026-11-20T11:49:01.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1752,78 +1824,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1g8ndvf",
-   "titulo": "Dow Jones hoje avança; Nasdaq lidera ganhos com IPO da Anthropic",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZw?oc=5",
-   "data": "2026-11-19T21:19:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ifi1xs",
-   "titulo": "Nasdaq cai 2,2%, Anthropic recua e fecha a US$ 97 após abertura em alta; ações de tecnologia despencam com queda de mais de 7% da AMD",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOc3hLZ2JUVjFmNVJ2QWxQTHNYeThhbFRHTkVmWnhCU1BrM2RpcFR2Rk5SbVpZczJjbHN4dHNNUk1aajBsYnY4QnVxbUZDbVlXLVZDVDlwMC12VGx6TnYzX3ZOcFlUWnZ2OURHSUpKUTYxT0RKVEhmS3dJLVp1ejRjcWZKTWhOUm9TYXVXYks5dmdPZ2diTC1TenNNZTRZN2tKMGxLRWEzN3p3OGV6VWlJeUF6TXlaeF9OQkd3VVRpcFBpWWwtM2J4akFKc25ocmVa?oc=5",
-   "data": "2026-11-19T21:19:02.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ssuvft",
-   "titulo": "Banco digital Inter converte expectativa pelo lançamento de GTA VI em estratégia de aquisição e cashback gamificado",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUGp3Ui1veFNTdmZUc3pHaUhjS3hjbHR6V1ZlTlVqYklxVThreF9yTnNTMmVNZGExRjJkTEhwZHRGNzU0TFl2Q1hkS0MtTGVHZ29mTXRmaW4wenQtekNXNzNoRUFHX3dzR1lBalVtVFVLdDB0NjRHNDA3RGVZOFppSjRJX0hlX3MyYmZ0cGFBZV9JYVlMRmZlTTNGdld5aXRHOWdXRlJ6LW8zVF9va3FXeEs3QmtWLWE3Y0VMZEkyWXNBZGRrRTNqb2pQR1UwVk1EamdEd1lla2xkVU01MVg0?oc=5",
-   "data": "2026-11-19T21:18:26.000Z",
-   "cat": "Corporativo",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "hthxex",
-   "titulo": "Anthropic fecha em alta de 17%, longe da máxima, em estreia na bolsa",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdTJ6RVFKNHZIRml0WDg1MmMzT1p4V2pYaDJFSmpDdWlBbGJBQnpyN21Ta1o3WHFiYmFKQjJVcUg3TklzakRVSHJoQnNVc2Yyb1VUcFBBUGdCeHZSajFIRFRJcGkwUUZuTEhGeGYwckFnUFhnSmNjUXhVUk90ZGYyQ1dhVjRXNVdzWkk0QVc2X2dDcW45QWxpbFRSakd3enhRbGc?oc=5",
-   "data": "2026-11-19T21:15:45.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "ehxyyl",
-   "titulo": "Bolsas de NY despencam após o IPO da Anthropic, com liquidação generalizada de posições",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVnhnanlYRHRXNVdPaHFHT29wdUFYNVlza092RmtBM0ZFT1FaTkJTdTBveTN1ejRNaUlrT1JianB5a0E5WkJyU1FPLTcyTWdSSFBSNmdabGdpOGxqV0NZY19zSEhKSF9xVk5vdzZTMkgyak4wZng3NWhvdGswQkJSeXllTFQ1aEpoTG5Gd2tNOG95SURaRmpyenB5X0RKVUN5cUxyaWtFaHZkb2lfeGxDNGN5OG9aRUpvNV9Rc3RtQlR2RWpkNnVvOUllMGd0NmtBRjhYLWVyQ2k1bzBz0gHrAUFVX3lxTFBPeWp1c2ZwWUpNY1VCTlFqYWRVaG54bEF3UTdpNFI1NV9Ga2ROWTlpWnl5WnNlS3doN3EtZGE3SUQ5NGZBaTZRTWk4Y1NGd3RoSi1jLWFZYWZiVnBLX2xhQ29uaUNoQ1ZDNGNpU0hlSGZCcklPQzl6RFVvQWJ1T05id2lReF9VbW9NNVBoZ2F5MlBZNjRqdU5lNnhjM1l1aXNwUGVrTzF4amVJMHlGZFBKaGV3QW5jRmVSYS1HRm0zOURBcXZkS19FNUNxM3Q4MWNvNmlCNHJmblpFUndibmFfcUctb2NHYV9PUHM?oc=5",
-   "data": "2026-11-19T21:13:33.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fv9tlh",
-   "titulo": "IPO da Anthropic cria o jornalista mais rico do mundo: fortuna de US$ 19,8 bilhões",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmhWQTkxOWRsVi02X3lKb2Z2ZTZ4Q2U2Vm91eUFaNmg1THhHNjhycU9teXhFMmw4RHZ5dzZXMnlkYlFEeHpqNF84U1FDeGpFY3podEJqMDc1bE43VnNkeElFM0JEYUJZN0dram9zVTYwSHMwUTB1VmxodTRSdDVTS3B3aG1PLUx5RUJRUHRHaGpkX3BUUzJGT2VlZGYyU2FEdHczWEZsSjJLSmUyV0ZsVmZEZU5TNGNZRWNtSUZsNGx4aWlGdWR1emNPR2tMd1R2WGVJ0gHiAUFVX3lxTE9CTlIzTENzRWpyZzVSY18taWowaTk4UGswYXo4SEFWUHYzM3g4d2RpbU9udVp2cEJkMVlhM2p5X3FmVTByRjRoZmFQSE5rMTlVYTVhelI4NGVmTmM2d3o5MlNEMExBQjFPaGFMN09uY05CaXlxZTZpT001c1M4Y19wZ1JOalFCb2hkOTF0NHoxaU9fUGIwdWJqYUZuU0dsUngzOFFDZUdSOWJVenBfVTRfMktOaG1IREI4SWVvSXJ6TGk3S0JIRTZNSVdycjZhY0hKNVN2aUxqbGhHWDRrcWdOQmc?oc=5",
-   "data": "2026-11-19T21:13:06.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
    "avisado": false
   }
  ]
