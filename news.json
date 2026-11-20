@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T21:30:26.470Z",
+ "atualizado": "2026-11-20T22:00:29.709Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1v6lph1",
+   "titulo": "GTA VI ganha álbum estrelado com Lana Del Rey e Dua Lipa",
+   "fonte": "Alternativa Nerd",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQejhEQjh0TkU5Ul9xX0hhSGJvSEMwVGVuVWZGZnpvX2thN1Z5RENXWjl5OFItT0YtRmRTZHVpakF4bEdMMG96dW9NdC1uZnJNeE1DZjQwZHk0S3ZfWHNyOFhDWnNKZ2NlSVRkemFxNjVKVjRMdWZRWGg4d2I4Ymp4Q25qbUtFNElWWEJzdngyR2Y5STVMa3NoY2ln?oc=5",
+   "data": "2026-11-20T21:52:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8643ky",
+   "titulo": "A Anthropic conclui uma oferta pública inicial ampliada de US$ 93,5 bilhões e uma colocação privada de US$ 26 bilhões",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQazBXR2xxOHZyRkFGVER1enBxWUl5Smwwc2w0V1J5TG81R2pCNlZTeEwxYjJnWUV4VGllNk44ZDRSZDlCLUFGUkNrMFBZaWlmaWxXdll2SnJCcHlGV053aXk3VzV1WlBHQUFrWmtYc0w2RllWLW1MTGFoNEFHbC05ak8yelJoMjNtYUhObmhzTQ?oc=5",
+   "data": "2026-11-20T21:42:01.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "whr4o0",
+   "titulo": "GTA 6 vende 32,5 milhões de cópias, fatura US$ 3,79 bilhões e se torna maior lançamento da história - e o jogo só está começando",
+   "fonte": "Jornal dos Jogos | Substack",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNM2dwV3F5M0E4cVBUcHBTSmJSQmR4NFlIU3BKNWsybXR3VUVadnN4YThZRDJacUI1V0NLYkw1UlM1YVlCeVpUX0NLMDFXaE5HbG5Dby16dVFyOEFRQ19oOE5xcWVyemxZZlVvMGI1cmtWRGRUdGJLekRpVzNWUkplTDZn?oc=5",
+   "data": "2026-11-20T21:35:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "pijktj",
    "titulo": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
@@ -69,6 +105,18 @@
    "avisado": false
   },
   {
+   "id": "lwyow4",
+   "titulo": "Ação da Nvidia desaba 14% após notícia sobre investigação e têm 7ª semana de queda",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdmpiMi05MmIzX1VzcVVQMy1QUkMtdHp2UGxxOFc5TUpjZHZteDhGbTdiNWFrbXdXZGVoSGxoV2IxanNCbHRNd3F3TG12VEIyeHNvQnYxTmtiRU1Od2Ixcm00U3NhQU5EQW5icDFXV1NwVUFUMTBDdi00MTV6dm03QW1rWFQtMlliVHJpUWFDbmxqQTJESE5raGtVQkNGRElUU1QtOTdMRVlDYWZoSUc3WFZ30gG3AUFVX3lxTE1QZE5MY191STI4aXJURFlVd1hTNGJ5Nk8zYlgwSU0zM01TX1ktcWdnN1BvcWlKUWwtRXNvSmV1WHp3MjBOSDR0MjFzNkdyX0xhMkRfSGU1TDk5bXFPZ1d1cXZ0YU9KRkYtZ3htZEtJME0wU1pPcVpoTjV3eFozS2NVT21CV056cnF3R0d4MTRWRGRtYnNhb3FQcDZjcEFqOG5tbkJUMk1zbW9WYkg0b2ZVaERUNzZLMA?oc=5",
+   "data": "2026-11-20T21:11:11.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1mi6n36",
    "titulo": "Grand Theft Auto VI | Jogo da Rockstar Games torna-se no maior lançamento de sempre na indústria do entretenimento",
    "fonte": "Squared Potato",
@@ -77,6 +125,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1m4d80z",
+   "titulo": "Sem Jensen Huang ou espiã chinesa, Nvidia (NVDC34) tomba 14% com investigação contábil",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmtJNnUtSENpR1BMOE1CQ2JzMjg2cng3M3llRDZPQ2ZuQUwyc0MwR1ZKdDdxNWFpNUZtRkFTZ3p5blN0eHZreHJMeXhkU21PLW9UdC1BbVV3NkhiM2ZoZm1Eb3dON29fdkRWanNxTW9ZOEFIV0ViNG85ZnhFT3dsWHJCLUE0RXl3clVSOGtuV3MyOGk2RnltZFpxSFJiWlBsRTZYZElrU2FJUTJwU0M3Y0xmOTNGcGtIWjdBWTdfUlpxeXdsYWfSAcsBQVVfeXFMTnJMdzNCME9hRkVScUpXSFVkNlBjczRMTTFjZFFqVTZ3Ql9zU2dvZ0RjMmFXRG02VXp4cEVjNVhQOXNIVEdzTE5WbUIwLWUxY3JtRHFxMHAyQlc0a19pSTczYWFyNDR3Q2lYNHowSjZYQ0tUa3Q0ZFpfRFp0dExfMlJ6RDJpd21YSzFCTlZ6RVI2MG15RldlQldzR1d1Yms2V3lYeGRFM0I4aHhBbjJseWtaNkZab1FiU2pHUjRJMUIxSkFzYVBaWW5udms?oc=5",
+   "data": "2026-11-20T21:08:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1393,6 +1453,18 @@
    "avisado": false
   },
   {
+   "id": "1dky5wu",
+   "titulo": "Bitcoin oscila perto de US$61,8 mil enquanto ETFs registram saídas e mercado reage ao IPO da Anthropic",
+   "fonte": "boca.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zdDdORkpGTGlzSW9hQVROdHVDbFVSejN1OUo5WUs3WHVhRkxQdFYtVEtQSDNZTnBrLU80eTdGX0YzWnBPTFI3VGN3Q3NNZVpHUmZTMHNvdTJfRldJQXhWaUpiU1FjbnRlZXNySFp5NkRUNWJVc2ZmRjl3?oc=5",
+   "data": "2026-11-20T11:24:47.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1hzr7l7",
    "titulo": "IPO da Anthropic: lucro precisa sustentar valuation de US$ 1,5 tri",
    "fonte": "Sala da Notícia",
@@ -1751,78 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "chxjod",
-   "titulo": "HSBC eleva recomendação da Tesla Inc com potencial de aquisição e preço-alvo a US$ 359",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGYtbnpSRGZwRjNXVnVrMEdvNm5NREVOMGJLTTJzREtBREtmSjRPb0hTMlBBVmljV0JJV1I4WkZBcV82UGUyNzhTdzFnNF90TEtaUkFZSTdIbXVKMU1xbkw0elVMMGtfOS1HTzhDRDAtS0xKaUtYNjFvSTJtQ1FfSUxLbE84UmFlcDJ1WWp3bklPR0JQUU1JRGUwNHpjbTBEWG9BQUpyZWVjZFZBeEJ3d0U2cEJnYUVrdUNnOWFIdVk2a2ZfMk42Y2x1OGk5eXRMX0VWbVRnMWdZQVk?oc=5",
-   "data": "2026-11-20T07:34:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wv9rfm",
-   "titulo": "Anthropic faz maior IPO da história e dispara na Bolsa",
-   "fonte": "Correio do Povo Penedo",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhwMlJIdkJzS3JpT2k0ZU50Z1B3LVU3V2VmMl9IYnhoN29vVjZncFpuRHNzaXpmUU1Nbkk5cEJnQWM2XzZUR2cwYXl2bndQSjZDd1hlaHBQNzd6bF9tcy05NEQwYzV0UDV5bVl1Mi1iUGVBMVptdDh4ZnVnTGFweVlOMEU5cjl2VVFmLUFmSlpCS3lISExIZDFpM1FVMWwzazJYamw5YWs?oc=5",
-   "data": "2026-11-20T07:23:05.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2nmu28",
-   "titulo": "Bolsas da Ásia fecham em direções diversas; IPO da Anthropic levanta US$ 81 bilhões",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NlJOamU2anBmdVl5Xzd5UlpSV0hIR2VKSXRCWFlWU0FtSWtrUjdWTTRVYmNSOU02b0NiV2pxdVdXQmtMM2U1N2xEaEdCMno2cmNZMk5lbzZMNUo5NzlCMlROLVJ1dw?oc=5",
-   "data": "2026-11-20T07:17:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dm0w78",
-   "titulo": "Grand Theft Dortmund! Niko Kovac admite não entender de PlayStation enquanto astros do BVB enlouquecem com o novo GTA VI",
-   "fonte": "Goal.com",
-   "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNSFp4QUtHTGMzUTVSdE9NLWJNNDRCSnhMamMxY0ZxcG1pUzVEWlNndUtxT3BkTThmblU5WEhWN0NFOHo5cElBemFmUmIzREN3dkdpd3RaU3o1ZmlQTFQyWEZqYmowNzNkQzF6VVlYQXUwTEVsdGlVaDlubFc4ZzM0NUZKeGdYNm1XVlhCalBXNHlkcm9xRGQzbmxRZkwyS21fLWRzdjQ2NHVnR0tnenBNazF4c2pQblNHYUxWVTU3MHhxaHJHVDl4QVdWeDZpN3ZJZEtVTF9rT3FJMnFpd2FUVWtLMmRrUGo3TjNSUUdzYjlqQllmeFVnMHdlbGlDb2t4cVhyX0M1ZEU?oc=5",
-   "data": "2026-11-20T07:15:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wd1h2d",
-   "titulo": "Maior IPO da história reacende rivalidade entre Anthropic e OpenAI",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV244bENwVklDc0pPMEtiVUxVUmVxNVVDeEdYTk1SX0wxejlSTlpJemFGa2FfWXUzLUZTdU1xYkRlckRqQlNrZUF6MG5abGRlTWRGTnFLNk5hZTZzVWlBaGJJVGY2Z3ZMbEExei1SNGVFLUx3MWVpNktPdm1zVHdkV2VsRDllaXl6WDlCUFZ0bXo0cjRlYUtvMFRyZW5EVGNTTnN6LUtVMjRaYWJKdVBHc0VpN1ROLThCVkQ0?oc=5",
-   "data": "2026-11-20T07:05:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w9zq90",
-   "titulo": "Anthropic salta 17% em estreia de IPO: por que a ANT não conseguiu impulsionar ações de IA, o valuation de US$ 1,77 trilhão pode se sustentar?",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGVKS3lCWjVMcy1WcC1yeHhHamFoNmlKbmRuT3B6ZUJhbm4xX3pXNGtmb2dVTnBiNVJaSmVSZkpIWk9XV3FZS2FabnQ2V3dVTGJzY2JrNmttdmVKaDFPOW9NR1Vna0tEbWl6SWZYYldqRnhUazBUaERoRzVocDFTblNaY3FWOXNTSnJ6d3lTR2hPUmJUekFUMUdYOGtsa05ic2IzM1Yzam9yZ1hWbHBEX3d4Zk1EZHoydXRRZnFzNktyWURXSXViNzA4WFlYcF8teVIySkREaTRHbHd2b3hTbWh5WQ?oc=5",
-   "data": "2026-11-20T07:01:17.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
    "marco": true,
    "avisado": false
   }
