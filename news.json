@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T14:30:29.728Z",
+ "atualizado": "2026-11-20T15:00:33.247Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1jc2vt7",
+   "titulo": "Dados do Google Trends mostram que interesse em torno de GTA 6 explodiu e gerou dúvidas práticas de consumo no Brasil",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1A3S1pyLWl1TllMdnhLUS1mZVZwcnB2bFFXcmtEYjhMRGd6Skh5NUQwakdKVTF6Z29xWGozX2puTEN6WU1qbW0xMWFaWTNneFd4RzNoWldLbkVhaU9xVmZvNkNROElVazUweGdQOVVlV1AyMFJ3Sy1VNDEwa0VzN19NYUViaGVjQU1LcjlyVkJKNmVvVHlMMTZ1ZU05MjdrWHBNbE5QRDNJLUJZcG43MjctdUp3VHlZalpYQWhoNUpPeFRQajlGZk9OOHRfRnN1Uno2MHU4bHRoYTBRWEE?oc=5",
+   "data": "2026-11-20T14:51:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mkegpr",
+   "titulo": "Subway lança sanduíches com Doritos e Ruffles por R$ 19,90 em campanha de GTA VI",
+   "fonte": "jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkp4U04wUkVwc1ZILUFwczhGMWVnQnFKYUJfcGUzd0lJd21FRC1YN0tURTdmODVlaFdqb1JJTmp2WERpMTNNSkpjVjM4MzR2cnlITGw3ZlpuUDdxMFJoYVZobkRxNXNqR20yajJNRlFnb0QweldvQW5tX09xcTVPanJQSlF3b1VtSDBNSE1OdzE5TnJ6Z3pXU2N5UGhJMUdvaTdOMnBLSzFJa25reDlGSHNB?oc=5",
+   "data": "2026-11-20T14:30:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "96pa98",
    "titulo": "Entrevista: Gamerhut, a loja que disse não pro GTA VI",
@@ -263,6 +287,18 @@
    "avisado": false
   },
   {
+   "id": "fijpyi",
+   "titulo": "Bitcoin cai abaixo de US$ 62 mil após IPO da Anthropic",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNT3JZb3MzQThSOFVRZnB4NlM3Mmp0Q01ScHRna2RyN1h5VDJ4MGJ3QkUxbkJ6REdYNmoxMDhzbDM2dE81ZmFFNExwMndpeHdJbjZNSFJMR2RRbWFOdWJ2VUdyem9oaGMxS1VxVFR1RWFmampBQzBtTi1Za3k5dDYtYjZtQTdXQQ?oc=5",
+   "data": "2026-11-20T12:06:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1m0vlyc",
    "titulo": "Investo lança primeiro ETF da B3 atrelado ao Índice de Energia Elétrica",
    "fonte": "Suno - Investimentos Inteligentes",
@@ -469,6 +505,18 @@
    "avisado": false
   },
   {
+   "id": "1ltwnst",
+   "titulo": "Previsão de preço das ações da Anthropic: ANT corre o risco de cair abaixo do preço de IPO de US$ 83 com ações despencando mais de 6% no pré-mercado",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTjFzRHduNmZ6WEVNdDdOV3czWmFGOEpoMWZ1T3M3aENOVTBYRk16RlRfLW1XTXRrVm9Ma2t5RUNLaUFpeFZEVXhoUlp4TjlJVHZlS3V4S1NQbmRWUFZUYnN3MTZJOFc5SENkRFlQbjBwSzhwWUFIZHJVUmd5Y3hTd3hVc2NLeURoRjFuUWFTdG1nN2VtLXpNX21vcEx6NmNnMld2MTAtT2RQeDM1ZHlmUVh3TQ?oc=5",
+   "data": "2026-11-20T08:49:45.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "18wbgpf",
    "titulo": "Só mais uma missão\": lançamento de GTA VI acende o alerta entre hobby e exagero; saiba identificar os sinais",
    "fonte": "Sala da Notícia",
@@ -610,6 +658,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "w9zq90",
+   "titulo": "Anthropic salta 17% em estreia de IPO: por que a ANT não conseguiu impulsionar ações de IA, o valuation de US$ 1,77 trilhão pode se sustentar?",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSGVKS3lCWjVMcy1WcC1yeHhHamFoNmlKbmRuT3B6ZUJhbm4xX3pXNGtmb2dVTnBiNVJaSmVSZkpIWk9XV3FZS2FabnQ2V3dVTGJzY2JrNmttdmVKaDFPOW9NR1Vna0tEbWl6SWZYYldqRnhUazBUaERoRzVocDFTblNaY3FWOXNTSnJ6d3lTR2hPUmJUekFUMUdYOGtsa05ic2IzM1Yzam9yZ1hWbHBEX3d4Zk1EZHoydXRRZnFzNktyWURXSXViNzA4WFlYcF8teVIySkREaTRHbHd2b3hTbWh5WQ?oc=5",
+   "data": "2026-11-20T07:01:17.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1647,6 +1707,18 @@
    "avisado": false
   },
   {
+   "id": "t57khs",
+   "titulo": "Ações da Anthropic, lançadas em IPO a US$ 83, chegam a US$ 111, mas recuam para US$ 95",
+   "fonte": "Prensa Mercosur",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeVJBWTE1UElMN0puTDgwTlY0Uk84YjFGUWZ2QnlRbjMwWXBHRGxuVDNvQmVsaWNqaGlBUmVuSWRlS2hkTFZNOGNMNk1BMmpDTzZpdEZRaHNXakgzUWNxTkpzdmZRWDJjMzMzVmV5QTVFODlDODQ1QUZzWjJXZGdFNUhfMFpzYmVxQ0p1LTNXcHh6cW43VVJhX2ExOWNHaE1vTjlDWXRNR2JxRTZBdThRZ1ZHWE5vVHd3RXZj?oc=5",
+   "data": "2026-11-19T20:31:45.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "tzhrbo",
    "titulo": "GTA VI: o elo brasileiro na estreia de US$ 1,5 bilhão do GTA 6 em Miami",
    "fonte": "Gazeta da Semana",
@@ -1751,78 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3s083",
-   "titulo": "Dólar dispara a R$ 5,93, apesar de intervenção do BC; Ibovespa recua",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUnRZcEE3clJYLVRyNjRudnlFOWh3bkZqVi1sSGhSU21aUUJJS0EyLWJ6eXpzMzF2WEtnNWx5akZnYW1YcVJEc21KcTdwN0VfdG1GV2RkRGZPa016SDRnWkFxckxpYlNGUVAwRF9KcVRqMUltY0s3OTU1T09sWnJ3SW9oU2VPbWZSczZFUC15VXI5WjBDNTZhdzR6WHpwZkt2TEJkY18tcW5mZ3hJV3BMNDgwUWtJQWpjTExKZVpGcC1YSDdCWnFuMnRsVVlHQQ?oc=5",
-   "data": "2026-11-19T20:11:46.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zareqc",
-   "titulo": "Pré-vendas de GTA VI passam de US$ 1,5 bilhão, estima a Sensor Tower, no dia da estreia",
-   "fonte": "Agora RN",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbGdiM1FBSndvcHJTOUJZOFRqQWp5RkNOWVpERGNkck9vZzVMTmM3bWVFbndFZWE1eGRLLXV1UE04MHFkUkw0dDBpYl9Nc29lT3FpQlJBSmxvNV9lQm1KNTJKbkpmZ0l3RDRRWA?oc=5",
-   "data": "2026-11-19T20:07:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "18a53zf",
-   "titulo": "Anthropic supera SpaceX e chega a R$ 11 trilhões após IPO",
-   "fonte": "iG Economia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUjV2NHN4MHJCbEx6UzBSdlN4RDVxQTNWSGoxd3pIcnV5QkpwaTlXUTFwRmEtd21sS2dnaEJERGltdVBtcGRyZUoyeDlKTk16V3M4QURWdGctbDR5akFiUE1KWktYOXhNME5HTUFMcUlEZlVVYUtDVWM0MjJnYWZCYVdER2czc1hVdDRKSG5hd1ZGQ3VoU1VlaW83OWFOd9IBowFBVV95cUxPMWkyYWZ6RXF0MmxmamFGTV9wb0ltaTE5NTYzQVpwZndvZTdtN2tVMFItRlA0LUNEZV9YYXktZTROb2dLTS1jT3BoZkxIUThLdXRWdlozeGgwd2xza3o1ZWZuZXRzcTVIMDEwaE14ZEFaZHBTZmVVaWVTNzNrRFVxLUJGRE52RkV1NlIycFlkZUs3cDZaeFpRamlyc05La2otS05Z?oc=5",
-   "data": "2026-11-19T20:07:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1uqamfj",
-   "titulo": "GTA VI pode gerar US$ 1,84 bi em vendas à Take-Two no dia de estreia",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQenNGRjJMa2lwV2FYNE9wOEM1STFIc3QzQXllRFVYamhrNWtzYlJjN0ZkaVNkTlNfODB1bzJEUFNsZEVwLUV1b2lNZWh2dUhrMllQM3U3aXFRekk0QkMyZU0zd0ZfOXFIb2U4M2w3dE5pNENMM2xoUk90X1FUTWFuNzcwX1AyTUt2bkJ2YVFjdnpFM1lDNnc?oc=5",
-   "data": "2026-11-19T20:04:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "tpx6n5",
-   "titulo": "Kovac: \"He oído que algunos están realmente enganchados al GTA VI\"",
-   "fonte": "OneFootball",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNX3hMRlVGWkx1OU5RS0RGRVoxZU1WNkQ0b01KYjhjYTlWNGVHZjRuQVh1QXpSUWVRUm1NSDNJMVNzU3F1cWNuR3ZYd0dzUGZNM1REMlJRcGZFT2xDS0NEaTJzTnlvYzZEWHFTSVIyc3ZZdVNyTW5BU0tQN3RSUTcwOV9zaHVKMk5LTVhjM2Y5czVPMjRHekRqVDlCSDIyYmgyd1Y4VkZkcHVOaW82?oc=5",
-   "data": "2026-11-19T20:04:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2m4ay5",
-   "titulo": "Rockstar ignorou abaixo assinado para ter Agostinho Carrara em GTA 6; entenda",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFBwVXFzdlhBMkNmSHJGMHJydldadHA2V0VOWUZnT002ZVFrREFwYWRTbTBKSjlDY2pwOENueVBuUkpENHNQNE1WMC0wNDVCOHJES3JTVm9Yem04Vlpzd2lkcVIzU0V3SGRnOWpnYklLMmc5NlZYWTZETW9uSU1Yd2xJQjV4Y1lYQmk2VldVV3FvRkZ1a0g3ZloyXzlnZTEtdEFKaFBmZXdTcUZsUVV2Sw?oc=5",
-   "data": "2026-11-19T20:03:51.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
