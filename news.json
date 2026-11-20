@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-20T16:30:27.271Z",
- "agendaCal": "2026-11-20T10:30:29.348Z",
+ "atualizado": "2026-11-20T17:00:33.872Z",
+ "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "lhyhbb",
+   "titulo": "GTA VI vende 24,5 milhões de cópias em 24 horas e passa de US$ 2,3 bilhões",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZDM5UlpyQkxEeXJsbUtCZUtXMkVXOXVMSlRWaHBndElWcTVxak8tc2VQSThzSEZBblJHQnJfSHN4TGtQUFY1UnNsRm1jcTdXVTFKSm02dkJDWHZ1TU1kRkRoSnEwYVc2M2RvOHcyUEhmMXg5?oc=5",
+   "data": "2026-11-20T16:49:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gwvfqt",
+   "titulo": "Dá para jogar GTA VI pela internet da operadora?",
+   "fonte": "Minha Operadora",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1hnUElZMGF1aDVQYXJ5UnR0aS1CU1VPTEdMOXlNWVBXcnhnM2lMb3p2Y0lHRTNaNFlTV1owWnpqYkhzLVRsd01jZmhacmoxYUJXSGlON1ZlVjhveEc0U3VCYmt0RUJvbWF4YmN4SDI3VlpDbEtPaUF1MDE3Q19BRlhYcnVjenJWMkRETVdvd3pHT2dSZVZ4LTJB?oc=5",
+   "data": "2026-11-20T16:43:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "23ta9s",
    "titulo": "Alckmin e ministro do Turismo cumprem agenda no Vale para lançamento de concessões turísticas",
@@ -65,6 +89,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v2dzcc",
+   "titulo": "Anthropic na Nasdaq: o valor criado antes do IPO",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnd1bUlvNldJbGJBOWpJVlM1bFVfcjBBLXhhVVFKWWJGX0ZYZnBFa29MZmFMaFRFNkRIc1BOLXFGZm1qQVVBU2FGdURsa29oMGlSUzBhREozbWQzMTQxR3B0TTdBeU9WNEptOEpiWGoySlRkdG8tMHBqbHU2LUx4czZXakJvY1Bqa01ZdEl4bFVvcmE4M0lmcHY2QQ?oc=5",
+   "data": "2026-11-20T15:33:31.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -911,6 +947,18 @@
    "empresa": "PRIO",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8azz63",
+   "titulo": "Estreia do IPO da Anthropic: Ações disparam acima de US$ 100 enquanto papéis de IA enfrentam um choque de realidade",
+   "fonte": "VT Markets",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPS05vV1ZwaHpFQURxZ3hKdVFMUGYwWEd6VGQ4NVhfWUNvQktHd1k3ZXNTZU9JanlRWXRGT1JBNjNVakM0RWIwQjgtMTA5Yi1nZVpqX2dGTTRKdnFrdEM4Y0hUXzhjOVdJdHpUQl9jaHZMdWJzMnV5MFR6MzBxMWhHRjZmcVBUOXBsT2xERVNyODcyNUpsc0pzT1FjMEgxc0dCdGhOMUFrSnFWVUp1aDVLUk9uNnpUU1FCYm1HOVVONVVhQUk?oc=5",
+   "data": "2026-11-20T07:43:35.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1776,54 +1824,6 @@
    "empresa": "Anthropic",
    "score": 6,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "13djc32",
-   "titulo": "Arquivo que promete download de GTA VI esconde malware que rouba dados dos usuários",
-   "fonte": "TI INSIDE Online",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMEVuWGxyYUZrNXpfVGdCTGdCVHNjUzBoRFNUNjE1aEpsUXBJZk9nV08yNmZWZnNUbzZMNVlqTFlTNE1raUVsWTc5OVRxTTl2eTd3WHE1UTROd0xrZG1PNklDb0plTm02TlA0Ym00UDFNOVRRV096XzBMamtPZHgtLWVGMG5Wb1FwV05VbGxneERsYnZ6N2VyWlpDTEh5ME5RWm1VenVTWWh2aW9NY2FCOEdRdU00RXFpLXNr?oc=5",
-   "data": "2026-11-19T21:39:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1k84zvy",
-   "titulo": "Anthropic movimenta mercado em estreia na Nasdaq; veja como foi o primeiro dia",
-   "fonte": "Olhar Digital",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbno2OTlyUl9pdk1URnd6Z2VrTnNIeUsxNFRpNTg0eWk2WDdBb1RBaFN5RzJhZ1liQnJxQU5TY2NHOXo5YWpxZmpoUFU0eFF3aWhSWnZUalBCUVU0dHFxTW5KSnBPVTNCVEg4dThnZERBaHExMGJVQ3VSaG9vTDU5bG5xMUkwbXFIeFVfNXVzTkpidmFDWXQ0Y3ZPTVplMHp1OVRpQmVIdDBpQnNZUTZpVVlsOF80cklGWlVuNnBR?oc=5",
-   "data": "2026-11-19T21:39:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "s6n4v5",
-   "titulo": "Anthropic fixa preço de IPO em US$ 83 por ação, diz fonte",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbHJlRnFJaVZyTEJTRUp0WTc3d3JDWlhrWG1DSjVTMERla2d3VDVTcVJvZmtUaHN1Zkw5SnZFZFFQZUZDdFh6cnZqcVdGV0tZYS0yZW5KVnRUS3B6NFQ5Tm9Da1NLelRSY3ctTlhwN1YxNXBXTVBqLWRfMFBYd1E2dVhGUm1ROUVZbFhCWlNucVcwc1luOTBtTDBIa2l0WHVxLWxXMU9CUExhdWJWdVZNREFQOXBhMkRlaUFjeDBTeDU1WFNzazNwX2dXNA?oc=5",
-   "data": "2026-11-19T21:33:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19a0akv",
-   "titulo": "Indiferença japonesa a GTA 6 expõe ponto cego bilionário da Rockstar e acende alerta na Sony",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdC1kQnNRNGpLbzZkdWNEdXpKbjZxM1ZfYUdVV29XVzlWcjlXdW9nLVVwYzRua3VxOGtnZFpFYjhjcERtVU9GNzFZOTZ6YmdqOXZxWDM5eUhTM0lrSjJYTjl5eXI0UDY2dWRrd2dLcXc3aFFR?oc=5",
-   "data": "2026-11-19T21:28:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
