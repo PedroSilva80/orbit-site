@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T19:00:30.603Z",
+ "atualizado": "2026-11-20T19:30:29.133Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "2pe9xb",
+   "titulo": "Trump diz que \"adoraria\" se ex-CEO da Nvidia tivesse uma segunda chance",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzVxTW41SE94ZGluY0E2TURycWpOV0Q1c2laQTFNSWcxZkotcDBWbHVDSEtCRmdPajZHSnRRZ1ZORTF2U3h1NXRIMm8wWktvaFdTT2JDNzFzeUIwUUVpMWFCS3cyUnNBajJQVzFmMkZURk5MZnRocm1GQ2tsVWJTSmxkUmMwdWFPUzJUX2MwRUM3dXdEc18zNmp1Uk10XzV6RmtkRk54RVRXd3g3N2Mxam1xcw?oc=5",
+   "data": "2026-11-20T19:17:26.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mti2dw",
+   "titulo": "GTA VI: Trilha sonora tem nomes de peso como Dua Lipa e Travis Scott",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazZvaE8tLXlVc3NJM1oxQkRTZm9Kd21CYk5ndHdFVVZ4Y0o0RzhBRDc5ZUFEbU1na3U5cUdGdDVTeEwtcW0zNW42ZWJfZHdWc3BsWktqQXAyZFRjYlFKSVhCM050aHRVRmlQcUxXVHJGQ1FRZlJ1QlFUUnZvQVlSSXJyaG9iZGZoZXpLdU5HYnpRLVB4Y2Rxa1I0SGpVNDE0bFhEV1J4ZXdySWhyd2hBdQ?oc=5",
+   "data": "2026-11-20T19:15:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fenkvm",
+   "titulo": "Investigação da SEC dos EUA sobre a Nvidia analisa possíveis irregularidades contábeis, segundo fontes",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSEtkajR4SHFyNDRvbUtFS01SY2lGaFUxQVZVMXlCREFOdEcteTBmWjVjSmtNZDdsV2hZTldZbXI1VEwyejJnbGpJajNQQXhkZDZSTDFlU09yU1Mwbmw0azZxWUNCZHQzZzBXbXlzVG1iekg4V21B?oc=5",
+   "data": "2026-11-20T19:10:32.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1y9r0oj",
    "titulo": "O que as marcas podem aprender com o GTA VI?",
@@ -64,6 +100,18 @@
    "data": "2026-11-20T18:32:08.000Z",
    "cat": "Mercado",
    "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "63dg20",
+   "titulo": "GTA VI fatura mais de R$ 14 bilhões em seu primeiro dia de vendas",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkZPNFdBR2JBaGJFVHdnbGdlVnV4NXYzT05EdFA2MUU0ZDc4NzByRExjQmNsOV9SNmNvUVJiWGduNXVrZ255aXUzX3RnazFxRjlhcEZSaWtNY1p3clIwU25xMGhxNW9XTVB0cEx2RWZhY21Mc25rY2djTDh3dDd2aG9JUXQzcW5XbjVJcVdHQkNqY2haVkwyb0NZejBBMTlpSjZWUVRNVEg3OEN5ZHdZ?oc=5",
+   "data": "2026-11-20T18:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 7,
    "marco": false,
    "avisado": false
@@ -1526,6 +1574,18 @@
    "avisado": false
   },
   {
+   "id": "1b86vzc",
+   "titulo": "Governança do IPO da Anthropic: missão e votos",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXl0TGdKSjhuWGo5dGF2eDJtRGFaU2FYS2tVaHNaT1JGYXJkTU83RTJURUswSkpCUnhjWldYalVxdy00OUVacDJEa0IwaDd1cm1YRFllaUpDNExGbDlqSVBTZWVtTWUyWS15MUsxZzZVbmpoNEpndjJmX18yRkFMSk0waVdXUQ?oc=5",
+   "data": "2026-11-20T03:00:14.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "c7lvgm",
    "titulo": "GTA 6 custou US$ 1 bilhão para ser feito; compare com os maiores blockbusters já produzidos",
    "fonte": "O GLOBO",
@@ -1760,66 +1820,6 @@
    "fonte": "Zelo - Portal de Noticias",
    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbHdaSFgwVjdBNWVIdGc4WGVDNHNjM3RFbXBTY1JOVE5NSFlXOUdGN3h4WGZyWVpHNlEwVF9tSGJsYnZxejh2eFJRMkFuTzBCaVlnZzdrSG9DZUVEUlplODJYRGwxSm01SGVZRTJObzlKaEY0cW92VEttamJQMm9SUjhQeld4eGNRYVFBNVRnaGNmYkk1T3pLVFIzcUxvWFQz?oc=5",
    "data": "2026-11-19T23:59:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "c7c6hv",
-   "titulo": "Anthropic estreia na Nasdaq, no maior IPO da história, em alta de mais de 30%",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXVLOUw2TE5IZnFEUE16b1o2WmJBa2VweFhVY3NiMW84M2xvZ1k5VVJpT2JKY1VNNGhIRlhrcHlSYkFKZGVJTHlLWC1pNzVmZFdhQ2FDbWpCZmNQeUttLVl0eGJhQmhEbzE4aFoxbi0yMjZCc0t5M3ZFcjBWRDRqeFd3cVpEWUhrQm1LMlJja3FPZnpnX0NHNmpTVEs5Q1h2R0hybi1uTElMOWJtWVE?oc=5",
-   "data": "2026-11-19T23:52:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1p5gdm2",
-   "titulo": "Anthropic faz IPO histórico apesar de turbulências no setor de IA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10TXl1NUk2RE4yZFJlZGxFcjVGRGg5Y1VrQ3hpOGJfTXprV0RISjMxcm9JZ3ZZX2taLW9vbnZIWC1GNXp4Ujl3YlhPYjdPLV9UeGJqREZDM1BBX3p3LU1ma19n?oc=5",
-   "data": "2026-11-19T23:46:29.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gihcmc",
-   "titulo": "IPO da Anthropic é alvo de protestos por questões de segurança da IA e saúde",
-   "fonte": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFRLR0RJTG15QUlzUG1QOERScEVhNXVITk1FWDV2MFZ0bkhqbXpoanBwbmlwWjFKblo3TTZIblpncTFPQmFkanh6Z0xMWHJxaGtJRmlVUTN1VnEzTjFwUEZ6NDc3SWUtNjV1cmtGT2Z6VURZUlBMLXEtTVFNOHZKVmRFcGstc1l0aUhR?oc=5",
-   "data": "2026-11-19T23:46:02.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13nok3e",
-   "titulo": "Lançamento de GTA VI mobiliza milhões de fãs nesta quinta-feira",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPV01QV2tVRkoyZ09JdmV4a3o1LW5RbHhDZTdnZVhxWnpraFMtRU9Vb25neGt3bDVxNzkzTE5LNk9GaHEzLUQwOXIwQXBoWTY3WkFLbXhDazNFY2Z2YXpuQWV6cTZGalQ1TVFkMkxjbUdwc0RfQl8xcDhPeVVYb3paaFR6bzBCR3dhMXRXcUdlLTNfZ1pmUGpacDFEY2lZVXFtZHQyQ0NnME56LTRDQmhzV2xTellVQjJKM25sc0xB0gHMAUFVX3lxTE5HNk05YVlzTzVWdkdhVzVVVEtGUDd1SllGZ2RLVm96NG1ZTENrbkxzZjVVdXMtdi1qZUE1YnJkWlRmUnVuS3d5VzE0d1paRnVzeld6OXF1V2l0SW5lcDJsOXdqdmFlMXNJZGpuVnBtdl91QU5PMjhnTmhDaWh5SFdnWWZqSlJVQkd3eElGaVk0UkxqOE5PSDFjQmtucG8wVTlCV3RDQ3cyMmN3VjFQanhRdjRzODNKa2Z1MHVpenplMUNzUTN3TUZnMFBiOA?oc=5",
-   "data": "2026-11-19T23:44:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1m4tjzz",
-   "titulo": "GTA VI: 5 pontos que marcas devem levar em conta ao aproveitar o hype",
-   "fonte": "Propmark",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRmVfUy1GR0I4d0tjZ2hqZHozMl9yMDV1V0hmUXo3NDI4cGFYeGVuM29ZRE96UVlMYzZ2UVUzbnFXcmZYVG9MTXZseHdmMXRfQmVla3pqc09vVjI4Vllmd1FMczNjcmZQblUxSnhnTGgyMk9xeGR1NTJGdldiSUFCTFB4SzhyekF6S20xZU84WjJ0QlU4NEttcGo0Z08tWmZBa2pn?oc=5",
-   "data": "2026-11-19T23:42:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
