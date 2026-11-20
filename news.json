@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T03:00:33.300Z",
+ "atualizado": "2026-11-20T03:30:24.721Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -10,6 +10,18 @@
  },
  "agenda": [],
  "itens": [
+  {
+   "id": "91tfps",
+   "titulo": "GiroPop: IZA lança disco reggae e GTA VI ganha trilha com músicas novas de Dua Lipa e Zara Larsson",
+   "fonte": "Gshow",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd3JtTEg2TEdpcDZLbnU2OTlSNVpmOERGYzgxVFphTUdMU1JiNUFtd2N2cVJQLXFkTUxGUjJHSUJaQm02R1BWYnR2cHU3Smd2TTFjNzFYMkFGd21kbnlqc3c4REdEOXF2cWNGVjFJX1dBSWNfbkVYSUFFN00wQktMLV9Ud2FGX0lRT1pQY1h3UkgxdUxJdmtSNS1KVTV4MWdhbXpLOGl3RktTRm1VWVpKSkhMWHFTY3JHUzhCM3FzYkZ0WmJVQTlZNnFiNmV0c09qdmxpczc3LWNQRGJRdXgybtIB7wFBVV95cUxPUHVUUmhsZl9TcURKd3dnT1Ezblg2OFVkaTBVU0J1YTY3cEdlTFphWllaeWo0NnVjWjg1OS10eXdaeU1lWlZTWnZpdWk2NVpESTBxS3lEdHg2N2xibW5zR215aDJ0MFF2d2JvZEJwcVE3RW1RUU5sQUxPQl9DempOUGdycFdORF90N0gyTU85Zm9WSGNld2F3cko3X1ZSVjJkVHdlS1dEdC1OY09Eb2gzMndjcG1rQjZ3cjVPR2pYRWVvTHRFa3dqU1NMdnZtb2NibUduTzdKSnNxZ3BiQ1U1cjFsaVY2dWF2TWd2bVc3cw?oc=5",
+   "data": "2026-11-20T03:05:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1azc8v1",
    "titulo": "GTA VI supera US$ 2,36 bi e tem maior estreia do entretenimento",
@@ -112,6 +124,18 @@
    "fonte": "Xboxers",
    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdEtFemNKQm5rTHNBSWlLLTlFeWhwdExJVURKZlB5cTlsR2hTZ0dsaGhqQWlVYktUeWlILWhwTHM5cXFRbnhCTFdfZDRncWVvWU16ZE5nT1c4UHAtMV9INEhoeEpFenFER0I2clBVOTJialZGZFczYlQzb09zWXM5aV9PaTNURW9mSERYUS05QmNOQWM4dVdTdGFINTZpQWc?oc=5",
    "data": "2026-11-20T00:28:11.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ix2sd2",
+   "titulo": "Nuuvem presenteia todos os seus 86 funcionários com GTA VI para celebrar o lançamento",
+   "fonte": "jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUDRwTTk5VGZtTXZpY28wOFlrRDZuVnQ2eE00RU1OcGlwVmwtUzdhVVo3NzZMdmphdkJCMkU5cGg5VFh6WUZzei14Z0VES29idmY5ZkpoRmpOMTgyQi1acy1RLWZ6RzliY0NXZDdnbUR4NVlKNkotOUdCRXJ2SDhGNC1wcHNZN3U0Nl9DaDN2WFdwNVhDNHlXUS1GX0gxT0oyN2R0TmEycHI4dV9UZWJ6Tkl5QWtLN1owRTlj?oc=5",
+   "data": "2026-11-20T00:27:44.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -668,6 +692,18 @@
    "empresa": "Anthropic",
    "score": 11,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uaq3ij",
+   "titulo": "Ações da Anthropic fecham em alta de 17% na estreia na Nasdaq após o maior IPO da história",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9HM0pZcHBSN3JYMnhuTDJRcGFyRG42QmttQTUyOERvanFUN1lBS203ZVRFTVQzZExydW83YVRiaTloWW9QNnhpamZXcUpBYTYtaWxndGxfbWM?oc=5",
+   "data": "2026-11-19T21:13:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1778,42 +1814,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795111230260
-  },
-  {
-   "id": "15jlb9a",
-   "titulo": "GTA VI em números: conheça o fenômeno lançado após 13 anos de espera",
-   "fonte": "GPS Brasília Portal de Notícias do DF",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZkxFTXNaR0hNS1laSXhYTTJRME1rdW9faHA1cGFhZ3ZEaGdWdFAycFJpTUJlaklITVphSFhYNHk3czV5aW9kMVZiclZYWDBjZ0R6cVljaUFpX0VuTEpDTl9PQXkyWndHc3dBX0dUa0NlWmRfdy1nOHFjU2F0aGVUTg?oc=5",
-   "data": "2026-11-19T17:20:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8cnt27",
-   "titulo": "Apesar da estreia das ações da Anthropic acima do preço do IPO, Nasdaq cai",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb244Y0hkZmoweExXZ3hjZVZBR19CU3cydURyS0JSX0F4VE9EVGJVSzVhVWxyVHEwWk9EM1NIVFRHeXE5N0JrZXFBbVBveVJQRWtGVW1FdDJrNEkyZHRzeDRIenNpcUpaRk1jS0YyZlFhMnAyM1ZDZEFZN0poLXM5SkEtckFyT01Ma0xqc0YyX044dkF1ZkNPZF9PcGFxenhWMUM4QmRoaDdBYUFyeEE?oc=5",
-   "data": "2026-11-19T17:17:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1s7w0tr",
-   "titulo": "IPO da Anthropic: avaliação de US$1,5 trilhão explicada",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU3JGVXVlcUtKUzBpMFNnYTFNbEpfbHBVRHJzZGF0Uy1zQloxSEdUM2dTbHl3NTF1SE0zZV9WR0VOZXJnSnpPUUVkOHVZcjZ1bUNCSHFfR3RoQXV0VTQ0STFhVVpZaDRDaGZlNGxPVXgwdWwwNWNGVjc2dlMza2lQdHNwekx5MDMzbUdPY3lhVkhHRFF3NUplUVlKZW1ac3lZN3BpOGVuM2p6Vlg2Y1pZbksxWjhZdw?oc=5",
-   "data": "2026-11-19T17:16:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
