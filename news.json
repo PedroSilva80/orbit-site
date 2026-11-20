@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T17:00:33.872Z",
+ "atualizado": "2026-11-20T17:30:28.334Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -21,6 +21,42 @@
  ],
  "itens": [
   {
+   "id": "19kjcng",
+   "titulo": "Atacante do Manchester United causa polêmica após jogar GTA VI de madrugada",
+   "fonte": "LANCE!",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1lYTWdWdXBtMEtXeGNIZXNPVWVvVzEyaXBKbTlRbHlaR0RYajdXQXNRUWRHc05xczl0cURYMW5sZzdteVdwNnhuQ0dKZXYwcmRDOGJhbEJHM3N6aXRjeXRUc25GdGFXUVh0WlhPSmhoSGRlQmpwUC1EMTlHZnVIZ2tBZU5vcmd3cUt2ZWtUak5uWExsbEpPTTd4ZnE4dHlQMHlXTk5oam91UDRvWHZuTVFLbWwxTHl3M3JaajI1VENtSnNXZ2c?oc=5",
+   "data": "2026-11-20T17:16:39.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10drc9x",
+   "titulo": "A decisão do banco responsável pela oferta pública inicial (IPO) da Anthropic de encerrar a posição, com o objetivo de estabilizar as ações, eliminou uma fonte de apoio",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92dUk2bDIxd0tScWJ5bVdsczdmckhjN0pSRkJTSnBHVFdOdEpSa2dkcE1JTVoyUHpsRmFJQzRlWDRHd0tOT0NCYU5SRF9PVGh5aVVaVVpJVTlJNkNOdzgxTENrMWJsN1l2YVlrR3NkQ2g2TUtlTzBN?oc=5",
+   "data": "2026-11-20T17:08:25.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vlc0b7",
+   "titulo": "Como o GTA 6 furou a bolha gamer e virou fenômeno de moda e música",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUhPYlU2X2x5UFp6Vy03WDM0ODQ5STlpODVSaVUzaGZoa2x0R2daZFVXVVNxOHhEaTBQbWc0aElCZmRqOWcwaEJmRjRyRFpseGw1dGF1RXBlLXhwY2hGT0VFejYxcGRsUDRZSmF0NFdGR2EwdVdKQ2otUFdoekN2S1NGYzFFczJ6TXB2N1ZqTi10eWdla1phR01fRkxCVDRxazNteDRwWWJJa1c2RWI4?oc=5",
+   "data": "2026-11-20T17:05:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "lhyhbb",
    "titulo": "GTA VI vende 24,5 milhões de cópias em 24 horas e passa de US$ 2,3 bilhões",
    "fonte": "Espaço do Povo",
@@ -41,6 +77,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1fiwt8u",
+   "titulo": "'Um mal necessário': como a Anthropic conseguiu realizar seu IPO",
+   "fonte": "Repórter PB",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3FqRG9RS2xUZHRCNFBESU5jUlBJS1lxbm5DMGdmdkFmTUhaRlhONWxoQjN5VnhmSmk4ZU10OTF1QTlsdjJOUTNLeTVVMllxRjVuYUFvTnJUbmZFRC1NTHVWWHozcWhoMHRvUF9CUWNPbHBLaWxydnV3Z0ZmRjZCdmdTYmRab3NPaWhtZGx5ay12aUZmblNuTWhmREI0a2p2N3NhNUFWcnlRTnlndHJ4V01RTE1pX0R1MFgtWFhmRWFEb181ZXlR?oc=5",
+   "data": "2026-11-20T16:15:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -200,6 +248,18 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795188629694
+  },
+  {
+   "id": "1elyc5s",
+   "titulo": "Captação de IPO da Anthropic atinge $93.5B: comprar ANT no recuo?",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pUTZ1VGxSMkViYU9RQXk4UloxYmNlbmc2LVdycFBsSmtRRHVISUlrTndTa01MYVpNZ3dTZFg3LXZlNVNMdEFBTnRpOUN6cjhETVZ1S21WX3BHdUlEd2Z0NnpyQnkwUQ?oc=5",
+   "data": "2026-11-20T14:53:32.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "ln0cz0",
@@ -395,6 +455,18 @@
    "avisado": false
   },
   {
+   "id": "1pjak81",
+   "titulo": "Trump demite diretor de cibersegurança da Casa Branca após falhas tecnológicas",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVI0N1Znc0hnTVFXcjY5SzY4NlE5VVhIUTk4ZHJFcjlpREhOc0dzLVJDVDFQS3dIVlRqa20xelRjYk9laVN1LTZQN2ppRDVSWDFSRG96QzhmdFdIOThHMGg0eGpTNGtCRzFKdmw1ZFFtNkNSU3V2MjVob1dpUk5TUTVMYlFxaXM3SDdJTTJaWWQ1Rlh3b2N0aVdjRDc2QVdmMFRkQnRYbFN5Nlc2UzVPT0dqazlJbklVeGMxcUdpSFlxa2owZmFPVmpfVHJoaHdCX2Z6RzNwREjSAdgBQVVfeXFMTk1SNDdWZ3NIZ01RV3I2OUs2ODZROVVYSFE5OGRyRXI5aURITnNHcy1SQ1QxUEt3SFZUamttMXpUY2JPZWlTdS02UDdqaUQ1UlgxUkRvekM4ZnRXSDk4RzBoNHhqUzRrQkcxSnZsNWRRbTZDUlN1djI1aG9XaVJOU1E1TGJRcWlzN0g3SU0yWllkNUZYd29jdGlXY0Q3NkFXZjBUZEJ0WGxTeTZXNlM1T09Hams5SW5JVXhjMXFHaUhZcWtqMGZhT1ZqX1RyaGh3Ql9mekczcERI?oc=5",
+   "data": "2026-11-20T13:20:18.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "al1sdq",
    "titulo": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
    "fonte": "Expressão Rondônia",
@@ -416,6 +488,18 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "k6rrcv",
+   "titulo": "IPO da Anthropic: ANT fechou estreia com alta de 17,1%",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUpTRmVkR21tVGN1SUtsN1ZUdThDSUpZUm1IaExsTXowTDBmeldDaHZBdjNEQ0VRXzRXSGF4MWpXVTNEMWQ3NFVJYVRRS25TVl92R2xXQ2pzY3BfOHFfWkMwSnRjRWNUc1hmTmVCczB5cnhjLThNZTRDV2ZiUWtSeUV3MVVvMmYtZDBNVktR?oc=5",
+   "data": "2026-11-20T13:10:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -588,6 +672,18 @@
    "avisado": false
   },
   {
+   "id": "119mupi",
+   "titulo": "Pressão legal sobre a Nvidia cresce após investigações do Procurador da Califórnia e democratas",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWkkwQ1dsNUczOUxVbFRQclZRUWdOWElCY0ZhSEFxWGZCbWRiOFFBZGVDb3VhS2MwazRqdnZBVkdJVkNUTzB0eWtCUDFocUNCYk84ZXMzWXVUSFBMMWpXczl0Tk5iZw?oc=5",
+   "data": "2026-11-20T12:01:34.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1m0vlyc",
    "titulo": "Investo lança primeiro ETF da B3 atrelado ao Índice de Energia Elétrica",
    "fonte": "Suno - Investimentos Inteligentes",
@@ -596,6 +692,18 @@
    "cat": "Lançamento",
    "empresa": "B3",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cjjqri",
+   "titulo": "Lana Del Rey resgata música inédita de mais de uma década em trilha sonora de “GTA VI”",
+   "fonte": "89 A Rádio Rock",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaVVRVmlPVEVTNlUxTUtOREROa0Z6aWhscm4yMGZlTjA3WEZfWTFKTWVnaVkwVDhJN3A1TlVEcjVQMXloSFVhWldBcnZmZ192U1FzZUVPUTg2cnItZkhuU0o1bTF4eXZSNVJzVElYRDdjQThYRl9vZmhfa0N3UQ?oc=5",
+   "data": "2026-11-20T12:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -697,6 +805,18 @@
    "avisadoEm": 1795177829203
   },
   {
+   "id": "1vkb0ss",
+   "titulo": "GTA VI: tudo sobre a trilha sonora do jogo, que inclui música de Anitta",
+   "fonte": "Assine Abril",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVFAxcWlmamdMQ01waTdhVTNrNkVjVWE4ZmswRVlTYVdoQk5sendoaEVGdWdzYUhMeVM2a3NLamhXaHRjQnpaWFhhbVdKeTNJSGhZNFYyRXRBSUVFVFY1QlNNSFBMc1F3XzFKUzM3RFVDRTZsb3c?oc=5",
+   "data": "2026-11-20T11:00:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "kxbdry",
    "titulo": "De Lula 4 ao maior IPO da história: o que movimentou os mercados na semana",
    "fonte": "Estadão",
@@ -776,6 +896,18 @@
    "data": "2026-11-20T10:02:23.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19a0akv",
+   "titulo": "Indiferença japonesa a GTA 6 expõe ponto cego bilionário da Rockstar e acende alerta na Sony",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdC1kQnNRNGpLbzZkdWNEdXpKbjZxM1ZfYUdVV29XVzlWcjlXdW9nLVVwYzRua3VxOGtnZFpFYjhjcERtVU9GNzFZOTZ6YmdqOXZxWDM5eUhTM0lrSjJYTjl5eXI0UDY2dWRrd2dLcXc3aFFR?oc=5",
+   "data": "2026-11-20T09:43:39.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1371,11 +1503,35 @@
    "avisado": false
   },
   {
+   "id": "c7c6hv",
+   "titulo": "Anthropic estreia na Nasdaq, no maior IPO da história, em alta de mais de 30%",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbXVLOUw2TE5IZnFEUE16b1o2WmJBa2VweFhVY3NiMW84M2xvZ1k5VVJpT2JKY1VNNGhIRlhrcHlSYkFKZGVJTHlLWC1pNzVmZFdhQ2FDbWpCZmNQeUttLVl0eGJhQmhEbzE4aFoxbi0yMjZCc0t5M3ZFcjBWRDRqeFd3cVpEWUhrQm1LMlJja3FPZnpnX0NHNmpTVEs5Q1h2R0hybi1uTElMOWJtWVE?oc=5",
+   "data": "2026-11-19T23:52:16.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1p5gdm2",
    "titulo": "Anthropic faz IPO histórico apesar de turbulências no setor de IA",
    "fonte": "TradingView",
    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE10TXl1NUk2RE4yZFJlZGxFcjVGRGg5Y1VrQ3hpOGJfTXprV0RISjMxcm9JZ3ZZX2taLW9vbnZIWC1GNXp4Ujl3YlhPYjdPLV9UeGJqREZDM1BBX3p3LU1ma19n?oc=5",
    "data": "2026-11-19T23:46:29.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gihcmc",
+   "titulo": "IPO da Anthropic é alvo de protestos por questões de segurança da IA e saúde",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPRFRLR0RJTG15QUlzUG1QOERScEVhNXVITk1FWDV2MFZ0bkhqbXpoanBwbmlwWjFKblo3TTZIblpncTFPQmFkanh6Z0xMWHJxaGtJRmlVUTN1VnEzTjFwUEZ6NDc3SWUtNjV1cmtGT2Z6VURZUlBMLXEtTVFNOHZKVmRFcGstc1l0aUhR?oc=5",
+   "data": "2026-11-19T23:46:02.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
@@ -1667,162 +1823,6 @@
    "cat": "Lançamento",
    "empresa": "Google",
    "score": 7,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "twhbmn",
-   "titulo": "Ibovespa perde 3,53% na semana e dólar dispara; Vale (VALE3) cai pela 8ª vez",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE80UXlsUE5WcGNyZm5vOUpiRFdDVlJrNHFWZUVmUDFuaFNBVHJtcGZHOVYyMU5JZFNrTzhCRjhTejlhWmVDT2xQUGxLMV85NTZrVjYwYll2TDd5UmEwellFQnJaOEVPbGREUW5sa1locUVNSFluV1R30gF8QVVfeXFMUG82dmcyNG9pSkFNSmRTdWxKVzVTaW9zLTJmT3VDQ2JmS2pHYVE1MVp2SjhEZ2szMWswNTZFTTRaanR6T3B5VnlzVUVhQlR1amEwM0s5SFB0ZEZpcVFCOC1ISFhFWC1pY19fSmxRX3l5WkwxeUFYNUtTTmR0Nw?oc=5",
-   "data": "2026-11-19T22:12:23.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-19T22:07:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tr0evy",
-   "titulo": "Rockstar espera faturar US$ 5,2 bi na 1ª semana de GTA 6; veja números",
-   "fonte": "www.band.com.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZFU0S3hHd0pXSHZlOWpnclQtc0NPbG1MdklDaEpXNF9RMUdZanlVem9yS0s4ZTdOd2kzdlJWX253V0dqbC01ZlJHQm1ldjBseVREREZyRmJlQTRQY3R6V2h1SGo1WS05SEU5QkEyeW00T3JLM3prM1UxNWRJRWpVSHVHZHdtc3BRcTgxYWNaRmxpR1RmYnNVTXZaaHZDSEgwZ0pjZFVxYXhUc1JJbXRuY3ozZ2p4SkxiQm5Hejc4dw?oc=5",
-   "data": "2026-11-19T22:05:49.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1erzwlu",
-   "titulo": "Ibovespa amarga nova queda, enquanto dólar dispara para o maior nível em sete meses",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOMUFDYUpMYnJVM1UybDVvQUZVeGtqUWdReTBuVExaSVNPY2pucDRhWG1wM2RqTnJSZWJoekI3TWp2MDRvaEdoQXBZNG5Fa3J4ZzZrZ2xTMXBuTnVyLXFzN0VESVBQdGVNMVdfV05MTWlDSmVfZVFBbU9SYTdIVXFJeGZGbTBHckFkSUFVNnpXOFpqUHZYRE5BaXEybWRhVDVHSHJYbEZOcUExT0k4dGlhTUozdG90bXFnX2NSYmd6ck9CM1VsWUpVQ3dIcG01M1ky?oc=5",
-   "data": "2026-11-19T22:03:52.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "74sz29",
-   "titulo": "CALOU GERAL! GTA VI TEM FSR 4 E RAY TRACING NO SERIES S E O GRÁFICO TÁ INSANO!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPME0yY1pNX3k4a2xZYzJHZGRBSllxakVIX0hZQUlReEdqNXR4aGJPOUNNNWNRU09ucXlZXzA2VmdZbHV0SFM4VzhLc1AwdEJTVGY2SnNpY1VDYkVSb3Q3Z05mRU5naGMzdGVfMmZucFFGVkhEWDlZTmZmZHpnQ3ZlZG0tWUFVNnRBcnh1Z0Rick53aU5VTDhqWVM5S2FWZFE5VlE?oc=5",
-   "data": "2026-11-19T22:01:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17qm6gt",
-   "titulo": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzU0Z3A2MnN1T2lUNDhVcmxsOW1SaTRoRFF0ZnczUEZGSDYzOGZ5RjZGWDBtVjlFeHhCMWpHRkZGeE1HVjBpcFQtS0RlRHVrU2FMdERvVFZQcHRwR1p2RW9zUWNKWTZySFpJSEptMlBBR2cwOTVDX0xjYjBtVnp2c2xGQ2J0S2U3M29QNnhZMVJjODMxUWgwVjYtS1FGYkdWRjBCUVVQWjdFWjhYX1R1V3ozdlk3Y2pnaGlfYTR1NzEyTFd4Z3VIWWduVnZUUE1vX3ladVZkejdYd0NhZkUzOE9n?oc=5",
-   "data": "2026-11-19T21:59:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1x9ridc",
-   "titulo": "GTA VI | UP2Tech prepara operação logística para enviar mais de 20 mil unidades no Brasil até domingo",
-   "fonte": "www.jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcG1YR1VhQXJJZWs1SnpxR0FnMzMzajRxQUpOQ2VhRGkwTktMYjM2TEhRRUNYT19UTURINUx6Q0hfLUZZZVp1RDZlYjhSUzBFMnZ0bTdRZmFLaDlUOThHVUFWTnFDalpUcG16Z2FtcXFlVHUxV1ZSX0YxNm04NUhlZTVENkNDc0s2TFpWWklsZUY4MU1HYzdVWW5RenNzWFotYndlNXRyaVFMcXZTbXdqRDRvelowUjZRMXFiU0VHUmh5TndSNW5JVVlMbDIyZw?oc=5",
-   "data": "2026-11-19T21:56:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fiidvg",
-   "titulo": "EUA: Bolsas despencam mesmo após IPO recorde da Anthropic",
-   "fonte": "Monitor do Mercado",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDRmQ0pPdG9KRFhoc1RNOGlPYWt2M1JuMUw4TTJJTmhhWUxTeHVpY1Fkbm1fQU13OFkyUUdpdl93VE9HOC11NENCTDRnT25NcG1mR21aMm9xaEphbk1aQTJkNkRyb182UzZtaWlHeDdmdDdPVks4ZmdTSEQ4OFowQkx4d1p6c0tsWk1HbUtYQmlhOGxEY25qUDdvMTA5dWhyd1hNNlFIZUM?oc=5",
-   "data": "2026-11-19T21:51:30.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1f56ap0",
-   "titulo": "Pafos FC lança camisa com inspiração em GTA VI",
-   "fonte": "Mantos do Futebol",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeV9KLV80RV9JVUtoblZPck9iMG40WUYwM1dZNDRDMGdhZ1ZudWRfeTBKQ3VJTDJJaWp3OVRfNHlGZXQySWhkWXA4S1VmLUotMmhibWtrRjQ5VmJUOGtNM1dnNmRtSDFHaS1KdDFkc2NDNnlZZFZKZDBKbUUtUQ?oc=5",
-   "data": "2026-11-19T21:48:28.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17pj94v",
-   "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSFlmZEh1RW9xM0lDOWNxSVptQ1ZQcnI3b1BVSmRiemRWNjdZZWNveUJ0WWdYLWgzN1VsdUdyWjRIS1YzUmROWmEtcUFaNk9qLWg5VlgxTFhXWWtkMGFBNEUzLXhfT3IyV2c2elVYSFhFbHdQZU1XR3liMGxRRUhiSlljTXBDWWZES1ptV2M0MFpyT3Y5ankzVnNYeV9tS1lFdkx1bGxfSi16Q29TZnhNTjluUnNRTjJKbnczYkY1UQ?oc=5",
-   "data": "2026-11-19T21:48:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "d753ln",
-   "titulo": "O Guia Completo do GTA VI, confira;",
-   "fonte": "Pichau Arena",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Zcm8xbTlWRG1sX2lRVlE5Tk52NDc0Q1BxdnRHUkhxU3c4Q1FJMl84Q09oWG5YSzhQWFBTOVRZbFVzMXYtd0xhTmhqdllCcDg3RDhkbDZ2NWpzLXpPOE44ZzVJc1pYZw?oc=5",
-   "data": "2026-11-19T21:45:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "q8i02h",
-   "titulo": "Ibovespa hoje cai 0,69% e acumula perda de 3,53% na semana; Nova York despenca",
-   "fonte": "EuQueroInvestir",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTM1N0tHczRNSUlYZDc4VnZoUHZDQXkxRXB2Y3lYTGgzUVhWNTFsc1JyMEt3M2F2Y2xrZmtEYUhTS0VzSGJnZF9HbUpwLXFGbFB2cHpBTVhRY3VjWkNGbmNKb0tMQk9QTnFRMmdWMU1TbnZOSXA4MlNodlIwZTVFR3lJNWhKVzFVUnZtSThHcGxfcjQtRlFRZ1NqODVXMkZReDdnYUV6NERMYms?oc=5",
-   "data": "2026-11-19T21:42:54.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nixvo6",
-   "titulo": "ANTH34: BDR da Anthropic dispara quase 19% em estreia na B3 junto com ação na Nasdaq",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPME9LaENRMjk3aGJmSTNQZGs3NW1faFY4RThOX0xia1M5RGRYUjBJVGxoYXFLNDBZTW55ZkVZX2tRQUdZMXJuMUtwT3NGUUNhOTFOVDdEVjM4S0Q5c2dWeXh6UWk1MU9KcDdsRVlFSFBOM0JUWG5FaEJBeHhzOVRtMkVxc0ZjS0U1WmQ4bTFZU1ZoVXRWVC1VejhLNUVrcDBmNWUxTXFIR1RGbWVlZzNkZ2Rmdm9pOURfVkdGelVPdFltb0VTbkt0bWJn0gHPAUFVX3lxTE91dTZHT1lqb2xHYVJWRWtLMlFNU3RwY2cwdHF2cmNEOHpITEk2TnZQT25sMi03YWJBR2dOUHNSREJqMlJ1eFhzbFdoakZ1QjZyWDFIZ0RPTTlPUEMxWHJWenpiZjdNeDhoZlBEUGdYajJmM0RvTVRmU291ZG1ITFQ0cGwtTjRMc2dxVzM1TXF6RW51eHRMVE9NYkcwUW1oVWVhWEV4V2NaMWRIZ0ktQWtjMGFrdnEwcW4zZlNCVFZITWViTHJkQVNVd1dXN0psWQ?oc=5",
-   "data": "2026-11-19T21:39:23.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 6,
    "marco": true,
    "avisado": false
   }
