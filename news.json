@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T16:00:30.930Z",
+ "atualizado": "2026-11-20T16:30:27.271Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "23ta9s",
+   "titulo": "Alckmin e ministro do Turismo cumprem agenda no Vale para lançamento de concessões turísticas",
+   "fonte": "CBN São José dos Campos e Vale",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEdhOW43RC1VNUtINjVEZGJHRFFyNWhqS2xLa2R0Mk5KYVRMYURjWkdFQWNNcnZTa0c5MjgwODg5QW12UkVrZXR6eDR2YmdQUldBdTlGNW1WWmUycG1yMjhxVXdTNHlfRjNUYkkzMk5kVnBrMTk0Ukc4dXFxM0g4WDFvbkNiWnk3aGkxdFpWVjRkWkZjQWpjZEo4aVF1akh3NEpEUjRicC1HbzYxSnBKRThvU1VSbUxaUXJrM1RR?oc=5",
+   "data": "2026-11-20T16:09:56.000Z",
+   "cat": "Lançamento",
+   "empresa": "Vale",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ysx6jf",
+   "titulo": "CALOU GERAL! GTA VI AO VIVO NO XBOX SERIES S COM FSR 4.1!",
+   "fonte": "Xboxers",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVM1aEdwcTdhcnJiZW9oQ2xBcmtIaHByUWFrR1VITEI5Sm5LWmMwSEE2Q0p0Yy1RdnVmV29JQnhJYXN4Q2haUTZRckxoNHFzU1BaTlNnclRPYWFweXVLd2dVZnVhLVBKakJDTUltUUd6U01VQzNYUWlhSHNuck9SVDNrejNjQQ?oc=5",
+   "data": "2026-11-20T16:08:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "wx1ho8",
+   "titulo": "Escola proíbe faltas para jogar GTA VI, enquanto pesquisa aponta aumento de 32% nos pedidos de folga de trabalhadores no lançamento",
+   "fonte": "Midiamax",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNb3V6MWhDNlRnSmE2dm9ZM3Y1RVlrZS1nZ1hoSUp3ZmhhQlJyY01Vc3JUZ1lUVmlqQU1fbmVzRE1ZeWRJeEs3RFNzb003TWdzMFNNMTBvVXc5dWFNV2dTZkZfWlc0QTZHM0NQWFRTam94RDZrWG9UclBlNE1aUFpJaGJydU5YM0Yyd0g4X3cwdTFhdDFsOFVCVWNCaHQ3WElWemRWc21CaHFEREh4RW5PeUFBRFFDQTNXRWgxaGZybWQyNU1nTEk0Tkt6YWhoS0dEVENoOUd5YzNrcGIyZjhCNzhZLUR6THFSRG05enRwODMtOEFzejFLczJ5bmJzVkptS3c?oc=5",
+   "data": "2026-11-20T16:05:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "w83p3b",
    "titulo": "Rockstar diz que os cassinos fechados e as áreas não utilizadas do mapa de GTA 6 deixam \"opções em aberto para o futuro\"",
@@ -926,6 +962,18 @@
    "avisado": false
   },
   {
+   "id": "wd1h2d",
+   "titulo": "Maior IPO da história reacende rivalidade entre Anthropic e OpenAI",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV244bENwVklDc0pPMEtiVUxVUmVxNVVDeEdYTk1SX0wxejlSTlpJemFGa2FfWXUzLUZTdU1xYkRlckRqQlNrZUF6MG5abGRlTWRGTnFLNk5hZTZzVWlBaGJJVGY2Z3ZMbEExei1SNGVFLUx3MWVpNktPdm1zVHdkV2VsRDllaXl6WDlCUFZ0bXo0cjRlYUtvMFRyZW5EVGNTTnN6LUtVMjRaYWJKdVBHc0VpN1ROLThCVkQ0?oc=5",
+   "data": "2026-11-20T07:05:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "w9zq90",
    "titulo": "Anthropic salta 17% em estreia de IPO: por que a ANT não conseguiu impulsionar ações de IA, o valuation de US$ 1,77 trilhão pode se sustentar?",
    "fonte": "TradingKey",
@@ -1776,54 +1824,6 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wj19da",
-   "titulo": "Anthropic salta 17% na Nasdaq após realizar maior IPO da história; veja como foi o pregão de estreia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObnkwbXhybDNMMFhhLXJlOXVrQkxNaktjbDc2cUp2bUhjZUtpblIwVkROOWpicUhDTzdkQmN6RkZzelRTNEhrcGpHRDhVeW1wSU13b3ZoOTFFVkM3bTZ6LVIwYkhNYzVuejBVMGlYRXJnRHVmbWVNZUgzdDZDMjhfRDV1NzlfbkZieU1DbjlZMFpPeVhGYzNzWTRKcllGVzhFV2ZQRWdvV2Z3dXJoaHZB0gG0AUFVX3lxTE83TnZJNlB3Ykp4SXhzOFdTLU0tMUYwaFMwel8wMXNhRkN3RmpDQ3lEckMtOVVLeV9kSjNVTTJvQl9wcW14UXlIbWJxMFZnUk9XSEtXMXVyT1d5ZEstcGdkR3lpOTZIUVE1X1NQTTd4dUlEbWljMEJXS3c3ZlpIVHhNNFhGLTY4RmNqNVBoNGhwUnViV3EwYjd5UUkySXVLTzZmbVhJei1YNVJxSE1vY3E4ekhURQ?oc=5",
-   "data": "2026-11-19T21:23:32.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "xdwxs6",
-   "titulo": "Antimatéria debate lançamento de GTA VI e o retorno a Vice City nesta quinta (19)",
-   "fonte": "TV Cultura",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNLXc3dm1ZMkpFUlpBdHVRQkJEOXgybUh5eEozbHgta3g5dTdTVExOWWJ2czJNS3VZWTlvUm5XQVZpaVNKMGVNa0tDcWktdG9YQmNEVlA2ZVVJdlNRa0V5cEY3QUg5enZkRWtoRnVqenVZdXk4YmZTNEN2Z1U1YmF4cHR1Ymo5ZDAxTjdwRVA0Vmg1czk1LVdBUWpzV1o4SnBCa2JwdzdpeVVDd2R0RkJIODZGVjVLM1BpVk9PVVU2eEV5dG82eWZ2Zlg1d1pzVTZ3ei1oQnR1eXozQzNmT3ViYkI3cFBOOGczQzlhWUYyRDVXbXhNMmRieW5fX3UzdU44LUdj?oc=5",
-   "data": "2026-11-19T21:21:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "uvma4u",
-   "titulo": "Ibovespa encerra com nova baixa e semana termina negativa; dólar dispara a R$ 5,9",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR21JcVpKdTE1VllmY05QQ25IaHVfOGNEZGhUU0V2OXhlS0s4Z1BWcC1TeWgtNkpPdG1uM1AtajNtYWpqVzFZZEVISFBWSWUtVjFyNFc1QjBFSUZGT1FPWXhYNFRFMWEyYU1mRjVXMkxFS3VPOGU4NFFEajEwWGxEYVUxb3JCN3Nfdm5VWkNBQQ?oc=5",
-   "data": "2026-11-19T21:20:56.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j3meap",
-   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOUGptdmxXZG1aY3J6dURQQUc1bTJURVVDOWNtTFNEV0JmMl94c2tmOG10RlA5ZVB4dzVhSDlUY08yZ2RWYXM2QVJxc3BheV9TQnkxWHk1aGtKT1QyX3FJWXlDNkpqcVBMOXdyQUItbnFuTU9EdmJvbU1Ra1U2Z1pYVzF4NXQ4WFZPTGhEbUtmeEdybWJ0WldMSVNlQVIxSHBVYkFSOEJZV2NCTGN1REp0TEcxT3owakZOWVNIbDFEZm5VUS1VQVBNSGNEUmdScWtIZDlDa09pVXpIWUZzT05VQl9RZ9IB6AFBVV95cUxPRzhNUXc2cDJqbndSN0NOMHV5d1g1dGtieGkyazlPOXVydEZiamxpbmtkMk94aWN1c3JicnZVV1U1QmM0NnFrNG90VmlzZUtjbkdvRFBZbUFCYl9wMm1MZTR6TzNOZ2RKUG0tSUtYdWVzNHdsUGRaUVdWSHlNR0JwMlNwbWRuSVBqMmxhOHlpaFNOYTVHMWM4ME9kZEJUa0l4NzlwS1duNkZxNV9PZzVWdXYtemVZeUt5RExHb1ZvZVZiMm41TUV2REg1bVZFU0lPNEFSUXdBTkRVOVgyaEtfbVFJRFloMHJm?oc=5",
-   "data": "2026-11-19T21:19:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
    "avisado": false
   }
  ]
