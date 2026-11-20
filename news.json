@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T18:30:27.086Z",
+ "atualizado": "2026-11-20T19:00:30.603Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1y9r0oj",
+   "titulo": "O que as marcas podem aprender com o GTA VI?",
+   "fonte": "Fast Company Brasil",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFZPSU9sUEhnRkZ4ZkFxb2E4cVd2bGd2OWFxSUpzd0k1U3BZQmxGZlU5Qi1MbVd2ZmZ5QXdkYUpMV3hXLV9GQUNCN0dpcnZFRnpzd0c3ZVlSc2g1WFlrNG1Na241ZndyOWFSeGk0ci13b2M4UUNmMk10S1BUSzZ5Q2d4QV9oZw?oc=5",
+   "data": "2026-11-20T18:58:04.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "j02mzw",
+   "titulo": "GTA VI pode ser jogado por crianças? Entenda a classificação indicativa do jogo",
+   "fonte": "Diário do Nordeste",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUNJa3Q3clF2bHlEVlpLTkVwT1JBczVfQjdNaTJlSWZFcUdzRjM4ZHUzZWp3ZHJseHRQQzFQbHNrQjIybUdTRGlrd2NxTWVqZGRzMnhrcUg0dHpzU1dhbmNiR1R1eGtTTVpiUjF5YnpXTWI0Rl9PUGV3TlVNZm40bDZ4OEpvWk1XN1lNU2NBMW1iN1N0aGVzZ1dKbzFMWXYyekhGSHQxTU40VVk3bjFSUnRSaXctZnIxb2JiZlF6cTJNV2NPRnQzY0VPRGNWZUdSVm5BT3VQb0tUaldENGVNRUg0bHp4X0k?oc=5",
+   "data": "2026-11-20T18:50:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "uv37pf",
+   "titulo": "Trump pede segunda chance para Jensen Huang após renúncia à Nvidia",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDdUSnhlc19tZng5U1BEQWIxa0NsZzIwWlVfekpiT2Z4U1VvcDhjOC1EVEpJRjVsZ2xidExNSnVUR0pIcFpnNDhMZzZmT0pxWi1zRXFRc0M3cVhRUmViNUQtZDE2WUs1VTNhWG5WbWx1STAwTm1ZSGgzZDFVQ29BRE9tcHBwOVp6VjlDVVRmdGpWLU1pWEpmS0lPWExsMjllTDg1Zjl4TFVCYnp6SF95ZG5SNHNHQTdQa1NiMUNsR3BTc3VBdTN1enRSYmdYX3pNNHZRYg?oc=5",
+   "data": "2026-11-20T18:41:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1ojbtr",
+   "titulo": "Cook, do Fed, defende ‘senso de urgência’ com inflação acima da meta há mais de 5 anos nos EUA",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYy03T1U1dnFUNkxfQ05waVJwUkp4U0JQUW1scWhubjdSeDktQmxTbU1IN0xkRFZqVnJtbXJfYWZKWkZvalE2VjZkSnVuQkRPcEk5VHVrenJWZk1tcXM4RjlJUmlrSnBxcFhxS3drczdlWldzMEs4ejdrWUNxblNnQ0pRVE8tRnlFbzQzTXV2Ym80VWFOOHJHWmhqWEZxOGhvU28ydDRHdjlsV3pFM01XOVVpMXV4aXVHZV9HM01rMUlzNGV3aWRBWHhqUVdVa2YzSTNDVE9QVnEtbndG?oc=5",
+   "data": "2026-11-20T18:32:08.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "7rsot7",
    "titulo": "GTA 6 acabou de sair, mas já perguntam ao CEO da Take-Two quando chega GTA 7",
@@ -113,6 +161,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v969cg",
+   "titulo": "3 ações essenciais para quem perdeu o IPO da Anthropic",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LRjJHSWQ3Y0NWV2FZOXRmNUtqbmNwLXRpcnpXdmIxTmJGVE5lWXdXQ1hJUUVDdW01bzFwUXdpSldocEs4VDF1TnNMbGZYSXpvWnpYMDZ0SFl3dm5tWl9CWWVKNlExZw?oc=5",
+   "data": "2026-11-20T17:12:23.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1764,66 +1824,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "nopynz",
-   "titulo": "Rockstar explica por que GTA 6 não tem uma paródia da Disney World, apesar de Vice City ter dado pistas sobre Fun World",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS3dTYXl4T1BSRU10VnAzRmVTQkY5Z0pISlllWFlHdlR2TDZSWHhXeEd6MW5ScTR0SlJLRE5oaXYtbVpoTkxyQzRibzA5X1UxdDE4MGFMVG9JXzZqcGNVQlJtc2pMSUN5WTNaSmNsMHBNSkc0NE1iejJyeWNlczNDN3pGUXRscWtzbzh1RTBIQmVMNnY5a2dLNU1ldXUzSktGQkZ0WHp2YUdyTzhQUXVlWU1HWVNabGd5LWxzV1JDc196dFFYcllJT0ZNelUwbEZqMnhWYXRZYUszY28zWkRtejVEcE05Vi1iUkFMN09ZNkczbU5WS2FR?oc=5",
-   "data": "2026-11-19T23:35:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wk0zqn",
-   "titulo": "Anthropic encerra estreia na bolsa com avaliação de US$ 1,76 trilhão",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQjVFSzdnS0hYMzZ2cFlnajZUSkRaa1I0RTZ2TlVuSWhkSGlrcUNQUnROOTZuSzduVl90YTdWZUtqT3dVUXQxU0pRLUJEck82RlQwRG9wel95RXNjcFE0dTVVLTdGTk5mczdXaERLWHJseGtqend4ZzdvcFJnMHdvWjdzdnRLbzFyNDBzT29XOWxRTVk0c1BEU2FLNE1Ub3VaQTBtRHFjUlVKZ1VESEZXaFZEYzk1bGcwcTQw?oc=5",
-   "data": "2026-11-19T23:27:43.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "9fsktf",
-   "titulo": "IPO da Anthropic reescreve regras do jogo do capital de risco",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxMUZ3aUotUWhpV09mcThrMnRfRkt0QndCa1hhZXVkd19GT2FQUHVzdjNiaUdfNXRZZ2c5MUdYSERjZHlCSlJqakMwU3o4bVZjcERBSTNoWG9pU2JqZ0JDZnE2UkFVTkNnYXVTT2RveWd2V2lNbWVz?oc=5",
-   "data": "2026-11-19T23:26:36.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mwprno",
-   "titulo": "Com custo bilionário, GTA VI supera Hollywood como maior lançamento do ano",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcTZ2R0VrN0c5NVBkTHFpMGliR3Z6Z0dSc0xMSlo3SDFEa3oyaVFTUUx1bkNJYnQ1S3ZLMlBVZDJVbTgtSjNqZFlJMmdpYi1oc2xWNjFyWE1OQXQzalZ5QUpJTFd2Y2kwYXFvV0ItLTVPV0dmRi1GTXVNM3BxR24zMDlMeFU0ZFJEUGN5U0hZRTZrMlNVaXg4RzVibjQwUmFYMFVvU1d6V3VxTWhRcjd4N0EtQTBQc0trWW1hNG9oTjVaMnhMd1E?oc=5",
-   "data": "2026-11-19T23:21:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "47868b",
-   "titulo": "Anthropic capta US$ 81,34 bilhões em IPO; ações encerram estreia em alta de 17% após forte disparada",
-   "fonte": "Unite.AI",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPMmdHTWZOVjFlbUpXeHBPanFwaWt0M1RMRjBfZEROMEJLdVNDNUs5RGJaV0owMzZjXzB2YWNpaDJSUXhEbWdDTHZhcXdkcUhYVklPckQ1QW1aZmIxNXNWX0tsOS1iSkUzMVNSQTRGS0g2QV9CZ3VaNDBhNFNqVlNqODBHbG9ickViUDg5djZiOVJzQWQzWWtz?oc=5",
-   "data": "2026-11-19T23:11:03.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
    "avisado": false
   }
  ]
