@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T09:00:32.329Z",
+ "atualizado": "2026-11-20T09:30:24.974Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -19,6 +19,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1weq5tn",
+   "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVR4Wkx0YUpxSUxSWERjS0NyUkhxbDRZYWk4SWtSYjBwVjgtZ3NpaGdMaFJ1ajFQeFJzR01ST1JWM21WZUJqd2lBamJGWHJ1N0NjZU1GaEFBRVlqVEtZR3Z6SHJRRnRVeU9yQXYtVEpEQzZSRG5kOGRraVZJZ3hOWk9NYmFNXzZjdjF1RUliM3NTT0w3Qmt4bURPZVQ5LWZDbU9DVEsxdU44alhMa0hTTlVVenR1WWF4VUI5OGpyTkc?oc=5",
+   "data": "2026-11-20T09:00:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rr886z",
+   "titulo": "Redes sociais podem decidir uma eleição? TSE investiga Meta e X por possível favorecimento de candidaturas",
+   "fonte": "Santa Catarina em Pauta",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN1N0aGVhZ1FHcmg2NGh3cmU2eHg2S3FWZlJtbEU3QkxrVzVPVHVIajJFUXd1UW1LT3pwRDh0TURxb04tVTVjLXhjQW5FUEJYeURSTWJNNVk4SEpjMlhUazBMUUZNUWVoeVNFNm1QRUx0T2lUTzlaRjIyV1JSLV9BWkprVnpGTkxWUVh6VmdCdER5MjZpRGxqZ085ejZEVXVMU2k2SHVMdUtZaWwtVWJQVmVPSmxnekNPWTNidkNqcWV5SEh1MlBKWXpqX3k0N1g3alpnUWx3YVVzRFZYUTVwOGlQWVU1M1RxWUZwblZR?oc=5",
+   "data": "2026-11-20T09:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Meta",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "18wbgpf",
    "titulo": "Só mais uma missão\": lançamento de GTA VI acende o alerta entre hobby e exagero; saiba identificar os sinais",
@@ -97,6 +121,18 @@
    "fonte": "Correio do Povo Penedo",
    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObWhwMlJIdkJzS3JpT2k0ZU50Z1B3LVU3V2VmMl9IYnhoN29vVjZncFpuRHNzaXpmUU1Nbkk5cEJnQWM2XzZUR2cwYXl2bndQSjZDd1hlaHBQNzd6bF9tcy05NEQwYzV0UDV5bVl1Mi1iUGVBMVptdDh4ZnVnTGFweVlOMEU5cjl2VVFmLUFmSlpCS3lISExIZDFpM1FVMWwzazJYamw5YWs?oc=5",
    "data": "2026-11-20T07:23:05.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2nmu28",
+   "titulo": "Bolsas da Ásia fecham em direções diversas; IPO da Anthropic levanta US$ 81 bilhões",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95NlJOamU2anBmdVl5Xzd5UlpSV0hIR2VKSXRCWFlWU0FtSWtrUjdWTTRVYmNSOU02b0NiV2pxdVdXQmtMM2U1N2xEaEdCMno2cmNZMk5lbzZMNUo5NzlCMlROLVJ1dw?oc=5",
+   "data": "2026-11-20T07:17:00.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
@@ -1784,42 +1820,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rwpgu2",
-   "titulo": "Meta lança Achados, aplicativo que reúne vendas do Facebook e Instagram",
-   "fonte": "Diario de Cuiabá",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPSV9Jd1FmOHRxVndpVURZZlhUWi10UGVUNHlfVjZ5S2ZhYm13bFZiX1VaVzl6S3hoMV8zUGJFc2hpa1ZlcWtHdV9rSEVJek85UVpkLUJTQWw5X2s5TjlhTmhhQXdlODRWX1VZa2tFZnh5WDFkZDZkX3NOUlF4dHFnTGg4Q0l0bkxGNG5ScmkwcnZES2xmYkthMFBPUjk5SjAyMUJqeTJ1VUlZNEl3OEEwMlY4VzY1ZDJsYXc?oc=5",
-   "data": "2026-11-19T18:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2dar6m",
-   "titulo": "Bolsas da Europa caem em dia de IPO da Anthropic e pressão em NY",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa1FQRnhhR0dIdGRlaFZmOUdCSkpUb0NQVFFod2ZZYXZEUVV1bWFKMkZMcFVsRnpTT1JWMXRLMkwtMWZFdU1TVXBzeWMyLXZPZEpVTW5IUnZOTEdyX2hZTG1rZkxlU3gzbUZ2REJtdHJJZzFuSXF4cE5tMUZwQkZ0UlZrZzZTY00wVlN1QWxac2JGTEpNdWZNclpfYzRSc2Z2dGVwdS11MlpGNG45Q3BxaGF0eFlVdWkt?oc=5",
-   "data": "2026-11-19T17:59:09.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1o49o3e",
-   "titulo": "Investo lança ETF dedicado Índice de Energia Elétrica da B3",
-   "fonte": "Editora Brasil Energia",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaHdfTnA2MFc2ZnlOSDhSZUZYak9UVHQ0M2wwUWcta01fNmEtZEdBWDFXRTl4d3hmdHhkd19KTW5oSDR0dE1HTDdrNUVxZDZZemphTk52Z0Q0Z3RFeDAtSUJjTFB0TGdRblhBNElpSURKSTNvS3NJeGNQdHNWREE1RTY4NmtlQWhKdUJfeWxYQmdoTS1hY2hPcDFiMVJTN1hROWZXZmxGaEY?oc=5",
-   "data": "2026-11-19T17:58:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
