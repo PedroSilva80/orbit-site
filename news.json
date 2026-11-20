@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T01:30:30.450Z",
+ "atualizado": "2026-11-20T01:45:32.416Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -88,6 +88,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v7hvel",
+   "titulo": "O uso de IA do Sparky, da Walmart, salta 129% com a elevação das perspectivas anuais",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNmVDZjZoS2JseWlNUlVrcVc0ZGNGdVFzUDhmQk9lYkxuWnJpUTBrd1RRenZmVmtMdk1tMXB1bHp1NVBlNHhiV3hlYnJUWndUSVZ0NjFWeEV3SGdLRUY1YXNiWWZTLVRSUUtQSHhZN2N5MHBJVGVWYVpIdzQ4RUh4UHlCZ0laSkRiWUZZ?oc=5",
+   "data": "2026-11-20T01:02:03.000Z",
+   "cat": "Movimento",
+   "empresa": "Walmart",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -452,6 +464,18 @@
    "avisado": false
   },
   {
+   "id": "1f56ap0",
+   "titulo": "Pafos FC lança camisa com inspiração em GTA VI",
+   "fonte": "Mantos do Futebol",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeV9KLV80RV9JVUtoblZPck9iMG40WUYwM1dZNDRDMGdhZ1ZudWRfeTBKQ3VJTDJJaWp3OVRfNHlGZXQySWhkWXA4S1VmLUotMmhibWtrRjQ5VmJUOGtNM1dnNmRtSDFHaS1KdDFkc2NDNnlZZFZKZDBKbUUtUQ?oc=5",
+   "data": "2026-11-19T21:48:28.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "17pj94v",
    "titulo": "IPO da Anthropic não conseguiu animar Wall Street, e bolsas de NY fecham em forte queda",
    "fonte": "Money Times",
@@ -785,6 +809,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ccwfir",
+   "titulo": "Operação mira quadrilha investigada por fraude em concurso do Banco do Brasil em Pernambuco",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWVRnandsLW5qYVVxeDZOYlViS19uT1BFdWF2SU1vTkFvZFJ6SXA2MUlrRTNPWVlhWURBXy1iMDZCQlhhYWhtWmI4N1RsMnZVR0k3TllDOFVHMmVEb3VrY0V4XzhiczlSYnpTd04zcDVMNGh0SUg4enlmaXZNcXFHVzdkS0Ftc1NwenpDb05FYjcyVXJXZmhJeklLQ3JraVJrX3BJTmpEakRZbDZ1dktRZUJpY0Z2SHFUVE5jdWp4cnJsNDZERUhzRGRqRGFBekN6SFYwUFBNSXZvWURHaEtPWkxZbUNlMmNqX09LNlN0a9IB7wFBVV95cUxNWVRnandsLW5qYVVxeDZOYlViS19uT1BFdWF2SU1vTkFvZFJ6SXA2MUlrRTNPWVlhWURBXy1iMDZCQlhhYWhtWmI4N1RsMnZVR0k3TllDOFVHMmVEb3VrY0V4XzhiczlSYnpTd04zcDVMNGh0SUg4enlmaXZNcXFHVzdkS0Ftc1NwenpDb05FYjcyVXJXZmhJeklLQ3JraVJrX3BJTmpEakRZbDZ1dktRZUJpY0Z2SHFUVE5jdWp4cnJsNDZERUhzRGRqRGFBekN6SFYwUFBNSXZvWURHaEtPWkxZbUNlMmNqX09LNlN0aw?oc=5",
+   "data": "2026-11-19T20:18:17.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1833,42 +1869,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l132vd",
-   "titulo": "AMD lança Adrenalin 26.11.2 com correção para erro no SSD",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOM2lfVjlwVkJIdWlpSzBkaHFZd1dxZG9IcFI3ak5oeGFlRndvMU1pNmxXbjRId0h1NEFyMkRnN3FsUXlKUlhyWnU4THhZM1Vac0RPUEkwejZtZi1Qd3BrcmgyODZaY0syVkEtYVNnaFZydmU3a3FkcXlCTTh6VEhhTFZZRlpPRWM?oc=5",
-   "data": "2026-11-19T17:06:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "AMD",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7zmbu2",
-   "titulo": "Anthropic desbanca SpaceX como maior IPO da história e estreia na Nasdaq com US$ 81 bilhões",
-   "fonte": "TI INSIDE Online",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVlNaaXVwY2JpMEQ4RElxTFpkNTAzSnFBUEhxdWxoQnpVLUl3ckpiM1RWNi1yZkMtczdKa3hlcUZUYXFiLXhaSElJSVl1SlF2WE5YckZuTFRVX3pPellZR0Zsd2d5SzY4M00xOU5oQ0pBTWlraTZMUkxNU1dIc3prZFRyZ0NhVmp5WUZJb0JxQ19YMDdCWERuYkZIdHlXV3BEUUtSaFRFWWRRQ2VkZmROVy1fcmVQWk1NNWZqQTVQdE5LNl9C?oc=5",
-   "data": "2026-11-19T17:05:22.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1v44c6i",
-   "titulo": "Rockstar divulga elenco de ‘GTA 6’; confira",
-   "fonte": "Rolling Stone Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdkk5cWlmVmNOTTU4MTZtb3M1djFLNlBMOGpCUDFYT0IwUlVyTEtJbk1nY0c0N2g1YW9OcVJMX194SVZNcFFvc3FoY0dsNE1tRVFsdEMyUDVjcGZ3RXZoaE9wc3EwTjREcndreUtUNVA1OXNDdE9CVE9TUFo1X3pyVGpQT3hZQQ?oc=5",
-   "data": "2026-11-19T17:05:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
