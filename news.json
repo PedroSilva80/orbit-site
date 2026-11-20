@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T11:30:29.531Z",
+ "atualizado": "2026-11-20T12:00:31.752Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -21,6 +21,42 @@
  ],
  "itens": [
   {
+   "id": "18wzkdd",
+   "titulo": "HSBC eleva Tesla e mais que dobra preço-alvo com potencial fusão com SpaceX",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3NMZTVmaFBkdnVRamVtek5YRlNaRjROTUxDOWxUd1drdjhNYkdrbHd5LUlzbDl3QmYzNzR5Z3FaQktxZXNJa2VyYmttVE5HeUtNOUV1Q1UyWVZJS3FSLTJCQXRlc3MycDluWmZtNkp5WjBzUXY2S011NnlsQ2lGNV9GQ3NmWnEtQWw3MnMzcnpqV2Zrb2R3cjRLT2ZaWEJ3Mm1pekNEZGNZeHM2c1dtcFdBR013NlJ0czdqRlBhSWlPbGx6TWZIeEZn?oc=5",
+   "data": "2026-11-20T11:40:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x5wfdk",
+   "titulo": "Vivo Pay transforma dinheiro de GTA Online em reais em ação para celebrar GTA VI",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNU2ZxYWlkaExjNUZBbzNUSlBteXFpZk9tNU9tWXctVW00bVRKZ0hXeUp0c3JoaDJsZmh1NTBGcDF5b01VSUdxbTNQZzFZdGJTLVB3MVNCV205N3BZdGljSDNUb2ZOLS1ubWZSVjJMUnU1d1BYVGZOaUJuSHlneU9YLWoxOV9UVTYxMWVpejhwNmpmSDVRQXJQU1ktUjU2ZjVYekpJRXRVZ0lHbElNQXloR1cxdVdzN0VqNkxuUnMzVUVnZ1lXalhzS1JaendWZFpTTzY5U1BBMFNCaXFnY3BHWTJPc3pXSnRKdG9mZEM5dw?oc=5",
+   "data": "2026-11-20T11:36:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8hsaj1",
+   "titulo": "Brava Energia conclui aquisição de 65% do Polo Pescada da Petrobras e assume operação sob o ticker BRAV3",
+   "fonte": "Clube FII News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPMThKRnp5QVh1NERPbGJrRHhXUF90VTFveDgwQm5ETnc1cDBlRDhDVU9vOXhINnJTMmo0NVRJa3BMVk5rY3A4UkktVlRab2NHS09meXVXR2htTVVhemRIWGZyNXlBOXhET3JnaVNxV25PWjNBcG5fMTVZU2xTTTVpVk9USm9qYUdHcVRwZ3lCYVZydktJS0JtWFJBeGVJR3lpUWc?oc=5",
+   "data": "2026-11-20T11:30:04.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10aay4p",
    "titulo": "Doja Cat diz que Rockstar partiu seu coração por ficar fora da trilha de GTA 6",
    "fonte": "gamepad.com.br",
@@ -29,6 +65,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6p19wd",
+   "titulo": "Homem é preso por posse ilegal de arma durante investigação em Suzano",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVUNPTWFMWnEtZHlXU0pLT05aYzdhMGVtakl1di1JQmVqbGh6STlHQnhTY0Y3Z0dQcHdoZmFPMUhaN3JJejluZXRlb0xsMkpxTHlrNHk1QktheDlQaFVTT1JtUDlSb19NWkRDU3lfZ0pVZjB1UmxQOEJ1ekdNeHprWk1rVm50RlI2Qk9VRW1pVHQ1bEhmN1FoM1N0cUxzWGxmSFFsR1JNQlFMSW94LW1HekVaTG10TWRYSzhGQzVxRFQ2U2ViQndjZWN5TlE1YnZOWjRaRnFKSXVaQUNDa18xbUlVLUNYT0s3dmg4U2JuYVM1aG56aHfSAYQCQVVfeXFMTnIwOXdQQmVYcGtvcE9kbm9EUGxNU0RPVGtEVE1iVnN6ZUI2OGdieDVjempUZ2pSaUJ2MkRRbHlKTDZ4bjlyaFl3eGhoSnZOUld4Q2s4bEhtejdvbk1fQ2JFaXd3bVMycGRURElKQU9RR213Q3paWDNuVUNXZ0hIVldIVk95blNpck1RVUNUQXZQOEhXejUxYTBtQ0RBTVh5TTVMdG82YmZXZ1RWbzBIQ0FaQXlKSWYzSUlxUW5FSUdMV214b1F6cTFyX1JWU05Qb2dzR0FYc2VqQ0JIbG5NWjBOWWl4ZUpPTVdGYTlXVjhscGZDdVo2WjdqOXV0Y1RkQ1dTbFY?oc=5",
+   "data": "2026-11-20T11:06:21.000Z",
+   "cat": "Risco grave",
+   "empresa": "Suzano",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -847,6 +895,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-19T22:07:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1763,66 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1tyt4na",
-   "titulo": "AMD Zen 6: Lançamento de novos chips é previsto para 2027",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nV05XVk9leHNudGMtYjVvNmMtSGVJM1FiNU0yR082ZHcxMWU1blZTcmdMUC1DTDNCY2R4V25fRGxSSzJqLVZDWXVUN2lyRFB6OVQ4TFdnc1JhSGZPM25jNzVJRThDSEM0QlVIVnF3?oc=5",
-   "data": "2026-11-19T18:36:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "AMD",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19916de",
-   "titulo": "IPO da Anthropic expõe a fragilidade do rali de IA em Wall Street",
-   "fonte": "BlockTrends",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3JRYUd1a3BtQThIY042aGlkTDFFN2t4X0dZZEJ6QVU4cEZsS2hfb3dMbzhReFRsVTJQR1RJbFR3VEl3anpaWlBVaDd1MjQ0akxVTWZ2X2pWNlh2Wjd4Z0psM1Bwb0UydUVIUU5kS1dBMXFJYlYtX2xicFZJa0NHakpsLVlZa19PQW5wdndzWQ?oc=5",
-   "data": "2026-11-19T18:35:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "id778g",
-   "titulo": "GTA 6 traz referência de GTA San Andreas; entenda o easter egg",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNblNYSGpSS0U0TUo2ZHRIR3ZKbWVKR2IyNVNIX1JGbDVJYUg0cmN0clJiYnk2V0lLaFo5WmFkaVNmcjZNazlvMVFNelpXWjBfamdJTGlGZDk1eWtPdlQwbnR1TDZEdThoNmhXVDMwWTc4dHhtNHdaNXJ5dlQ2MDNVOUtNWmZub3AtdThQTDl6bGVLbUlvR2h6WlprYTBwVnE3UFVraUJVTdIBrAFBVV95cUxPYUJTdDlZMlI2eENMMDdVbmxfTVgweG1PVzRjaWZWU3RyUWFqYUtXVmk3VnZSRVFoR1QxYjBxS0NKN2QyazRVc21wUjlQU1NKNXpkZ3BfYktvXzRTUDl1UFhYblk3Y2dEUVFpWVJIUnFHbVJNQ0FPbE14RVRRVHQ4aExoZVdBdGw2RlhUMnhGTUQwenZOTUpyQTlqajlvOUs4d09wanJ0Z0FvYTFj?oc=5",
-   "data": "2026-11-19T18:34:51.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gsnrmm",
-   "titulo": "O que faz a Anthropic e quem são os jovens fundadores por trás do IPO histórico",
-   "fonte": "www.band.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaEZBSkdadFh1YVJ5R0w4TGowNmRlUkNzNl9DeUcyU3VGbkNHYmpERjU0LWl4MExna25IWHJxWTZPYjRkRUFZdEF2S1BkWmRPbWxxcHBhNnVPWTNVUFZPMy1xcXlBSGEtVFNDX2JIZS1zMlcwM000dGt0UUVoUXA5TDJFSS1IZXZhMDl2bGRVRmpJekhHWDJEeGJaYkhvcG5ORm5DSlFSSnhOM3RhNENNdXBB?oc=5",
-   "data": "2026-11-19T18:32:20.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bg1w4l",
-   "titulo": "Lançamento de GTA VI impulsiona vendas de consoles no Brasil em 69%",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSk9LTWlUUVl3Yl9TVk1fNldva3pJcXNwR3UweEpLUUdKbUFQVkIxaWtWc0VmcmNVWGFJSWhkZWY4S3oyM3dBUElaUmxtb2t3RFN3dzBwS0o3aU9RNzhYaFBQU3E4SUllUlhSeWhlaUZsaDJlWldldDNrYml5dE9fbDBKblZ4YVhpOW16VUdmdUdxM3hiNl92OHUwMzQ0bXFtSGNvd2ZRSGJBNHJNRVE?oc=5",
-   "data": "2026-11-19T18:31:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
