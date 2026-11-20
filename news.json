@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T09:30:24.974Z",
+ "atualizado": "2026-11-20T09:56:53.950Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -88,6 +88,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hddeam",
+   "titulo": "GTA VI: estudantes de Salvador fazem fila para jogar lançamento de R$ 550 de graça",
+   "fonte": "Jornal Correio",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOdjlfMHRMWTVZbTNyT0lpbl91aHBPdmZTWEF5M0FMT0QzSURJT2VMRUtTNENKNnh5a3V0bGtPamctWnRNbnZRVmdsREZFek5YTzBLQ2UzOFpoX0NIdHVlNTFGdEc3di00VjlCTFJNQ01OWFdtckMxaDZFWWc0N1pqLUV5UklNejNlaWNtcUY4bzZGMFRfMk5aaTRVYW8wS0JydVREcFMySnZycUx6d2J6WHNGZ0lhYVRzVFpKSEl3NFZmdnNlb0djOTFn?oc=5",
+   "data": "2026-11-20T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -200,6 +212,18 @@
    "avisado": false
   },
   {
+   "id": "fiyqhi",
+   "titulo": "Dan Ives chama queda das big techs de momento de pânico, mas IPO da Anthropic mostra demanda",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTWGZNczJoWGt1cS12Q0xRMUd0eWhMNGFzMnNfQ1F6QlE2dmczcWpKUXl0dnhHcFNKai1fNXF0bnRNNkRKVGtrS243YjBQSDFWNFFlSWpVYXVYV1RyZldlLVo5YWNRb3pCc0V3VFhlcnJvOVMw?oc=5",
+   "data": "2026-11-20T04:09:20.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "91tfps",
    "titulo": "GiroPop: IZA lança disco reggae e GTA VI ganha trilha com músicas novas de Dua Lipa e Zara Larsson",
    "fonte": "Gshow",
@@ -208,6 +232,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "c7lvgm",
+   "titulo": "GTA 6 custou US$ 1 bilhão para ser feito; compare com os maiores blockbusters já produzidos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjZpUlJMTlZndFFveWlXV0VwSkprcmw5S1BKM3dhMS1XNV9jSDVwMTN2cWh1Sk91c1VJZmNLSnZuMm1IbUZIRmxSbzNPVEFOeXFkb0h1ZkplaUtlVk8xbE5JYTRIdjI3Y0NaTXJXR2ZSMDJtX09RQXY5cGhLZ3BwSTVhOWJaOTB1LUFTbF9ZeGpITnp4U0tIaFQwRElGNVZxUXZqa08tb0hkX0VvSGZNSWNaVXhxYjVBZzR3R25jc3pXUGFwS0xxZ0ZwVmw0YTlpQU1JUFZuV3RIWnRTYmRLR2ZDVEtTMjl3VWMtVk8xUdIB7wFBVV95cUxNZjZpUlJMTlZndFFveWlXV0VwSkprcmw5S1BKM3dhMS1XNV9jSDVwMTN2cWh1Sk91c1VJZmNLSnZuMm1IbUZIRmxSbzNPVEFOeXFkb0h1ZkplaUtlVk8xbE5JYTRIdjI3Y0NaTXJXR2ZSMDJtX09RQXY5cGhLZ3BwSTVhOWJaOTB1LUFTbF9ZeGpITnp4U0tIaFQwRElGNVZxUXZqa08tb0hkX0VvSGZNSWNaVXhxYjVBZzR3R25jc3pXUGFwS0xxZ0ZwVmw0YTlpQU1JUFZuV3RIWnRTYmRLR2ZDVEtTMjl3VWMtVk8xUQ?oc=5",
+   "data": "2026-11-20T03:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1029,6 +1065,18 @@
    "avisado": false
   },
   {
+   "id": "d8fzu6",
+   "titulo": "Ações da Anthropic sobem 34% na estreia na Nasdaq e perdem força; veja a conta do BDR ANTH34",
+   "fonte": "melhorinvestimento.net",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB6VGw0cnlFeFZzY2RnRVlXeDhCbC0xSl9WMFY5U1QyZlZicEJBS3RtYVdaQ1YxX1BKc0w5TWRDeWVvb0lHdmp6Vnd1YkZJVG1fUGstNTB3Qi1VOXg0d3B3RmQzUWhJcHBUal9ZOF9nc0hpdFNVRy1pN3VUUGRpZw?oc=5",
+   "data": "2026-11-19T20:50:55.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "5rglaq",
    "titulo": "Ações da AMD despencam até 11% após fundo revelar aposta na queda da fabricante de chips",
    "fonte": "BPMoney",
@@ -1772,54 +1820,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zqelii",
-   "titulo": "Quanto a Rockstar já faturou com o lançamento de GTA 6",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcndHNFpxYUI3RVJYQjZER0o1YjFpaWU3LW9XSDQ3VGRxSmpON1JrcDFZcUZmMzZsZXNjYmVLSUtjcUlyTzJuTks2WEVEbVlZVzJBTHRNVzkxVmlVbXQtamtFNVpMc0hwMmdoRktNVVBXQnQ3OGhQc0NGcmNaSm0tdTlocHB4cnpkaFVPQnhqZ1FhX29TMWpZ?oc=5",
-   "data": "2026-11-19T18:04:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15hdklf",
-   "titulo": "IPO da Anthropic movimenta US$ 107 bilhões e supera recorde da SpaceX",
-   "fonte": "Portal IPNews",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcW9VYmgySkJUdng4WUxtMjRaRXgwYTh2V1FoNlhJM19kSWY5N2JGdEd6elp4bTRRMHNxOVRTYWo5U3JuR0FudjlFVGM5WDh3S0JvQU9FY183N05zaVQ4Y0dLQmI4a3VJQmFrbXg4a3BGQURFR1NySW9UWEVaRHFvS3FISmdBaFBwNE1WcnBCdjl2c0lTZkHSAZYBQVVfeXFMUHFvVWJoMkpCVHZ4OFlMbTI0WkV4MGE4dldRaDZYSTNfZElmOTdiRnRHenpaeG00UTBzcTlUU2FqOVNybkdBbnY5RVRjOVg4d0tCb0FPRWNfNzdOc2lUOGNHS0JiOGt1SUJha214OGtwRkFERUdTcklvVFhFWkRxb0txSEpnQWhQcDRNVnJwQnY5dnNJU2ZB?oc=5",
-   "data": "2026-11-19T18:03:52.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ujp6mr",
-   "titulo": "GTA VI ultrapassa 50 milhões de horas assistidas na Twitch",
-   "fonte": "RADAR DIGITAL BRASÍLIA",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NoRDg4cnlpdFdOMk5abDc5eVRkcFRWb01oT2VWbVBpSkk4RTdUZnNrTnROUzFpQ3hVODlWWE5yWExFc2wxT09qN2ZZN0R1STUtSHJRWHhveEg3SmZmbWpoWnVUYXlnUDUyZ09vd3dxTjFGazIyTjJrYWNCaUF0OEdkaG51YjBXZzUyOWh5cjhhWkdzQXJMWmI1MjFZMTREODRMcU9NamxZV0k?oc=5",
-   "data": "2026-11-19T18:02:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ek8kvb",
-   "titulo": "GTA VI arrecada mais de US$ 1,7 bilhão apenas na pré-venda",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdVcyc0ZIQlREMG5DV3dsdlBrRHRSU0NMVG1IWmE4NElYakhuYUNVZzBtUDRSNmV0Q2Y4MGJLdXdjN1hiRUJnSFlnbDdqazZ2NXFnbXMxNGlxdWV5ODRKd0FMX0N1QUVQSW9jZHZyd19EcGkxRkR1SVRQaUdWYkh0dnR2cnRyUzdoU0hBZmRTdjN1MUlESUFqQVVCTl9JUkZpWjduVlNJaGNHOUx0eUJB0gG-AUFVX3lxTE9qMFprVGVtbW5IRFdERmxlS1J1dkhzRnhsNGhEUWlMNlYxcXJDMVFxZWN0NEVLSVpPSFJWNEluRk52RUo0cTVsMEJ4bnJjUVBSWEFPaDkwWEV4THU4aWdiemZsRUE0VVl5ZnBtYUdMRi13NDNEdUo5dVF5RzI2NEM2cDlFN1EweHM2dDJHa281Qm5BQVYxYmVqQkpQWHc4bHFKelR6SHJFLV81eDhvb3h1YUtkaWJzZmpHdkR6V2c?oc=5",
-   "data": "2026-11-19T18:02:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
