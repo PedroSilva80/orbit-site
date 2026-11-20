@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T02:30:26.567Z",
+ "atualizado": "2026-11-20T03:00:33.300Z",
  "agendaCal": "2026-11-19T22:00:39.877Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -8,65 +8,20 @@
   "dig|2026-11-18": 1794996028930,
   "dig|2026-11-19": 1795082434933
  },
- "agenda": [
-  {
-   "data": "2026-11-19",
-   "tipo": "Balanço",
-   "empresa": "Walmart (WALM34)",
-   "hora": "antes da abertura dos EUA",
-   "origem": "calendário Nasdaq",
-   "link": "https://www.nasdaq.com/market-activity/earnings"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Lançamento",
-   "empresa": "Anthropic",
-   "origem": "melhorinvestimento.net",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLTZyZDl1Q3VmNGdkaTZscjN5ME9RQXM4RHFVMnJGZURfWndpMWYtUUFpSS0zRXlBZUJMUi0yLS1jeGFRY3JEZkhlcEJVY1JhUXNJUi0xLVRaMko4bmd2dG1CRzRqWFUyeWZCZVFTRExFSFdEenoxRDBXd1RoN1Zpejk2OA?oc=5",
-   "manchete": "BDR da Anthropic chega à B3 nesta quinta (19), junto com estreia na Nasdaq"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Lançamento",
-   "empresa": "GTA VI",
-   "origem": "G1",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ0hpblktWVVlZWVTWm43OFBXSUNVYTctakVmUE9neHVJZlo1b01WQ3ZhZkNQTzlaalI4eHdhT3pteE1CbUVMcVh2Y3FWNDRQVVYyN0Z1aS1SUmFJTy1SMVlaeXJJbVRNVU9KbXFaNHFpbXdTRWRaX3RuZy1zSWY4YW1WOUdGdk4xNGYwUVkxS2M0TEI4SEpIa2plbHB0ZWxjdmdtby1kZHMyOXRrR2hmSnBtT1VTQ0dnd1hOckRYVlYyb1g50gHTAUFVX3lxTE1FcXRkTG9qSnlrNE84VTJIMmVHU1RNd2dMLVRBUDFFTE53QmsxWU1jWDNsbFRIb2lEcU5iWC13YTFQcHgxeHlpcEVqOEhBT1owSmdFMlk0S2IxeXJya1V5VUpNUG02SVp6cmhTNnRmUU9HRVhJR1BodGVOTTdGb0xXTWNYUF8weGRFeXoxUElwekZGSmEwVDBDMmlxeUxpUC1CQ1hiUHhmdHJ4Zk5NRXk1eW1UV0VGQmVWWVdCc2lVTmR5TktlWkJNaDBaRnBtVTFNRzg?oc=5",
-   "manchete": "GTA VI chega amanhã: veja tudo que você precisa saber sobre o jogo"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Estreia na bolsa",
-   "empresa": "Anthropic",
-   "origem": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNks4d1BlRGk4d29RemV4TTdiQXNiU0htUzdxTXlUa3I3b1Y0bTl1RHJqcGs4NWduWmYtZ1laeVlxeVQxMUxsSk9YSGtTeXFheGhRQjk2cmZoMnk0eHhlam94RXhQNzBjRlhlcFg3S0o3N3E3MkZrRFludnM4cDE1YjNCSEtqNHNfZTBYV1NpTHBBRVBBeEswNG92ZGFaNEpKU1dCa1RkbXFJcmMtS1MwdVpHeGdIMHdQUFVaNzA0anE1eWx5YWlaQWlOOWpWekZNdmtKVnNDYw?oc=5",
-   "manchete": "IPO da Anthropic em 19 de novembro: o que os investidores precisam saber antes da estreia na Nasdaq?"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Lançamento",
-   "empresa": "Vale",
-   "origem": "Tribuna de Petrópolis",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPNm4xU0dWVUVuNnBDZ21YaXVpSDFzTUdRTEItTHZOemp1eXZQdjFRQU9tUndKV3FrQ2xhamZfN3ZDTU51cmFIazRvV3AzRTJEWUhTZHVSZzFucldZblJWMmlYUFdLZ2tMS21VeUh1dFVTZUxTMHFzNFpjQW1oT2ZFNGJZcTZiRlJSZV9ScTRobm53MDNZdWoxQTRSNGtjUTVFbllrUGlrUDEyUGRXbTFZcTBRaVl2UnJCcnpvTnVIQldyV1FOek5LdnJDR08yb2RzNE1NSWpOUkRGQnUzZTFlYUpheHNhQ0hjNVZxQTc1OGE2OEtMcG9nWQ?oc=5",
-   "manchete": "Vale Encantado estreia nesta quinta em Petrópolis com espetáculo de luzes, neve artificial e atrações para toda a família"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Lançamento",
-   "empresa": "Ibovespa",
-   "origem": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5EcVBycVMwTTJhYlBKN0syZkU5ZmdZdnhPVFU4VmdFc2xYZGIybmlxV09qTGR0eVkwamVlb0FOc1g1ME1OZ29ZVU4tdFI5LTRrMmhxZWQ2N01jeEZSRXR5cHhyQXJnVEtfOWJZ?oc=5",
-   "manchete": "Ibovespa hoje acompanha estreia da Anthropic na Nasdaq e cúpula de Trump, Putin e Xi"
-  },
-  {
-   "data": "2026-11-19",
-   "tipo": "Lançamento",
-   "empresa": "Google",
-   "origem": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
-   "manchete": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais"
-  }
- ],
+ "agenda": [],
  "itens": [
+  {
+   "id": "1azc8v1",
+   "titulo": "GTA VI supera US$ 2,36 bi e tem maior estreia do entretenimento",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRlVEa0VIOV91Qm0tUGZVeUY3d21oQnNMZmU5MGwzWkRfLWhXZTRWQXZwY3ZMeEpxZkZLZ29HRmJ1U1JSb2pORE42elBrWnBjc2Y4MllPUnJSaWpiSWhLemEzQnFlYTZIS2NxVHp1VUs0eUcxaVhGMDhPUmpIQWZ6VWFHallyNFB4VVFGSVplTmtDNWhYSlo4czJnWTdXMnR4TEpOZ3RCYV9SdG9QaWN3b2NLeWdjWWs?oc=5",
+   "data": "2026-11-20T02:30:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "6yia1o",
    "titulo": "Banco do Brasil vazamento de dados e outros destaques",
@@ -545,6 +500,18 @@
    "empresa": "Ibovespa",
    "score": 5,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1nixvo6",
+   "titulo": "ANTH34: BDR da Anthropic dispara quase 19% em estreia na B3 junto com ação na Nasdaq",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPME9LaENRMjk3aGJmSTNQZGs3NW1faFY4RThOX0xia1M5RGRYUjBJVGxoYXFLNDBZTW55ZkVZX2tRQUdZMXJuMUtwT3NGUUNhOTFOVDdEVjM4S0Q5c2dWeXh6UWk1MU9KcDdsRVlFSFBOM0JUWG5FaEJBeHhzOVRtMkVxc0ZjS0U1WmQ4bTFZU1ZoVXRWVC1VejhLNUVrcDBmNWUxTXFIR1RGbWVlZzNkZ2Rmdm9pOURfVkdGelVPdFltb0VTbkt0bWJn0gHPAUFVX3lxTE91dTZHT1lqb2xHYVJWRWtLMlFNU3RwY2cwdHF2cmNEOHpITEk2TnZQT25sMi03YWJBR2dOUHNSREJqMlJ1eFhzbFdoakZ1QjZyWDFIZ0RPTTlPUEMxWHJWenpiZjdNeDhoZlBEUGdYajJmM0RvTVRmU291ZG1ITFQ0cGwtTjRMc2dxVzM1TXF6RW51eHRMVE9NYkcwUW1oVWVhWEV4V2NaMWRIZ0ktQWtjMGFrdnEwcW4zZlNCVFZITWViTHJkQVNVd1dXN0psWQ?oc=5",
+   "data": "2026-11-19T21:39:23.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 6,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1284,6 +1251,18 @@
    "avisado": false
   },
   {
+   "id": "j6o8f6",
+   "titulo": "IPO da Anthropic deixa em evidência rápido crescimento de custos Por Reuters",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTdWa2FKU2lyOVlTbXJNQnNBQ1FwaHViUjV4aXRYUWFlaGNoV0lJekZpSm1ObXB0S0pWa0VKaGxoTVRlbDZneTNmT2x4NXpwZzRnY2hpTUFpUHpDcDNocHh6MWdpQWUxelhYUm9aeWltdm02aDlvNjBBT0NVa3cyc0M2eHdSbF9oRFFzd18wX1VOZFozODJDVlpONkppV2xDMHNCLXBYNDJWWjAyUldJWXJXZw?oc=5",
+   "data": "2026-11-19T18:41:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1tyt4na",
    "titulo": "AMD Zen 6: Lançamento de novos chips é previsto para 2027",
    "fonte": "Última Ficha",
@@ -1833,42 +1812,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "nv4kc0",
-   "titulo": "Avaliada em US$ 2 trilhões após IPO, Anthropic entra para grupo das empresas mais valiosas do mundo; veja ranking",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNllzU3JhQXlGY2NMcjZGOXdKRm1VSDd1Z2x1dl9qaVMyV1IyNzA2VXRYZkRnRy00ZXJobWZ3WlJlc3V2WjlKZ1hlOHpFZ05iQXJMSkw0SzR5U1VXdTBIOURsdTZmMjRRMUdaSmU5NnU1Rlh0Sm1mMWdCYjRVUUNFWjVITXNGQ1FE0gGXAUFVX3lxTE1XMTRiQU13NmFrNmFPMkliMHgyTFRDMElBSU90cUVLWGJnTTdMVUJSLWRJbzhoeHpTRUNma0F1TUU4emhtMW9yRW8yN2l5M0J2Q2t6WFc3SkVacndQXy1UZHVSQk9qRXR1Q19ub0poVEJjNHREZlBudzNGaURaNlR5dEZoVERaZFJFOTE2d3NrTEliNGhnUUE?oc=5",
-   "data": "2026-11-19T17:16:05.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7cqrj8",
-   "titulo": "Na Anthropic, IPO de US$ 1,5 trilhão vai colocar US$ 100 milhões (ou mais) no bolso de 600 funcionários",
-   "fonte": "NeoFeed",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3JmMFJJLW1nVG9RcWhneEpUWkpsc1BKWWFCNklWamlac2xoaHJKUjZJQW50TDJuUS1ENG44TlU3dEZQV2Zta3hJYllYQnd4Y1NCS0Qwci1xTEVselRUZk5hdzlyZHNSenVSUE9Pa3dMeE03dUpvU2R6aWpGZE9lVXVmTmZiUHZGV2M1TFpHT3pPTk02RGZlNjQ3d1czYzVkcHQ5WFlaNm42UnV3cWhkb3FzSXh2ZTNtSjhPQmk1cktVNHozMV9xR2xB?oc=5",
-   "data": "2026-11-19T17:14:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q208o0",
-   "titulo": "Ações da Anthropic sobem 34% após IPO bater recorde. Empresa vale US$ 2 trilhões",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZUpkYmhRVkF3NFhDWFJjV2FWa0xJdF9RQWxWYjExb3dMYV9PbkItNGdockxWSExOek9jaldhTDRjS1J6eFhIeEFCeHVHdElIYzRtdjdQcm1ham01eW5jRWZmdnRkVDBQUV9uRHZmclgtT01xTEF6ZUlnWFhnbFhtVU5VLW1vb2NYNU4zRVBteDBuTTJvdG9WUERSQ01zNU82LU1MbVlMTUNjVWdrT0x5VTFHc9IBuAFBVV95cUxQQWVfQXBDTEF3UWZaV0ctQTBmQVZhSF9BYmFoQmpZVXlZcGZ0WFdEQjVBeHFzZ2tUMTlUS0dpSDZQUUdMV3RlbDhiOGxaN1NrVF90Q1VYaGdMeHlLTHVLam5hZ3JKejVIcTctMjc3WTkzUEVzaG5SclBDQ09HYWNxYXRxQlplalhMYUNfUERXT0VmdGNmY0R4QS1UaXpySVNhZjQ1ckpXRmpZdElSaEJjNmllVzF3STBP?oc=5",
-   "data": "2026-11-19T17:13:20.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
