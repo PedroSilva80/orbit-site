@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T12:00:31.752Z",
+ "atualizado": "2026-11-20T12:30:29.203Z",
  "agendaCal": "2026-11-20T10:30:29.348Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -21,6 +21,54 @@
  ],
  "itens": [
   {
+   "id": "1kb05wk",
+   "titulo": "AMD conclui compra da World Labs e incorpora Fei-Fei Li",
+   "fonte": "Revista Empreende",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRktJdUxPXzlOR1JjcmxWMWNwS2VJU05pT01qMEVhZWtHcnl5V3cxS3RqbWR5Y1lPd2g1WDBYVm00U2FVZU5CSFpMWEpLVEw3aEVXTzJhZDk3OUkta0NNcEloamtiYWhMNWZ5Q1Z6c1ZlcnZCU2FrNkQ0Z2FqUVotXy13?oc=5",
+   "data": "2026-11-20T12:25:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "AMD",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wkifgt",
+   "titulo": "Ator de Hollywood e muito mais: quem ficou milionário com o IPO da Anthropic",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZlJ4Nkk1OVRyck5IZ3hlZkwyTk8tSnFfdXBFWDRvQWl0UmVsdFZSajZrc3BzQXRuWWZXR0liQTJSQ2xOZHNOTEs3R09lTmhJM1RCb2xDa2pNS0VNSnZrNnRYaXhNaklNbDdTX3FCbHRzY25yejQwUGJtTlJzZ0x0VzRIaUN6RlhLOXJBNEdYU29Vblg4RkFESWxkUlluNF82OGpCT1NiX0l0aGs0MXg3cA?oc=5",
+   "data": "2026-11-20T12:24:28.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1m0vlyc",
+   "titulo": "Investo lança primeiro ETF da B3 atrelado ao Índice de Energia Elétrica",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nc2x6R2YyeTlMakVvU1BOc0QwTzYxWXpsdWZqaU9MZldvbmV2LUFNd0lRdzBFZHU5M251ejhhOW1MMVp6allsY3lvVURwRTJzR292eFA1T1JoMG1Pb0RzdUF5bE51WnprcGfSAW9BVV95cUxPc293NUNrc2N1WHZVS1NiUzFyWHI4MkNVRk1oZFQwMXJQVXBwMnI4MlZOajE0WW9mSVV4YlNGTm8zOWhEUGloQllKZlFsSjJJTHM3OHVyTG5qVElXWUpoSTlVOUVWQllZOElHLThobnc?oc=5",
+   "data": "2026-11-20T12:00:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lidavd",
+   "titulo": "Ações da Anthropic caem no pré-mercado após IPO histórico",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVW5aWG4zUFpyUW5mdEtOQk9FYkdWUUxuMnZzOXhiUF9jdmNLbHZTeXV4eTliZkZOcm9jLWRrTld3bUtFaDFUV0lnSWVHQUh6TmJQV011UGkwN2pKajFQRTlubzRsOHJ5TW10QUJ4Vk5pV0VrT0FDdjRfWXk2U09PQ3hTMllpMnhsOTVPTF85QWw?oc=5",
+   "data": "2026-11-20T11:48:20.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "18wzkdd",
    "titulo": "HSBC eleva Tesla e mais que dobra preço-alvo com potencial fusão com SpaceX",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -29,6 +77,18 @@
    "cat": "Corporativo",
    "empresa": "Tesla",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ifdsd3",
+   "titulo": "Futuros dos EUA recuam com queda da Anthropic após IPO recorde",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb0h2U0RqbnQtUUNXMFQ0T21oNVA3U3FESzk4WVpKRXlLRFZ6dTdQLTFmSUg3Y0gwZG9mWmNJMTlYejVHb045a0IzX1JHU1VGdUtOekVTNWZBaWtCaWVtX0RLTTZNNEZzZkxNZ3lLRnNnLVdBU1JVSXhvbkRyQldwSUNiMmtaNjh3NlU4ZU1wemM?oc=5",
+   "data": "2026-11-20T11:37:30.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -78,7 +138,8 @@
    "empresa": "Suzano",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795177829203
   },
   {
    "id": "kxbdry",
@@ -835,6 +896,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14jm0o1",
+   "titulo": "IPO recorde da Anthropic não evita queda de 2% em NY",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQanlNZHUyQ1RrWm8wQ29tNHQtQVFuUzc4STN3bHc5eEh3QnR1U0dqU3ZidW8wcnl5elRjdFpCRUVwcmJZMUhNRkxJOXVkdlJ3UnhYMlJWYUo1bnl0SDFFYWZsQkFOZ3VsU0x0LUZadUgxYkU4WHpBODVtRWVXLUxhWEYzTF9fcG1leTJVaVpn?oc=5",
+   "data": "2026-11-19T22:33:16.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1750,79 +1823,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lrsz8v",
-   "titulo": "BB lança cartão Altus World Legend Mastercard com até 7 pontos por dólar",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOdGZaaGdmdjU0R3hRbU9fWVV4QXRJN2paeWxOVXJxUlNlZGlwLTB1YUx4SWhGUW5lckNucGNwZl9paTFMLUVkYm9oNG5aV0NiaW5LRUc0QVVOT0VPTURWeGxHVWpTRkFESXpEaEhzYXhhUnRXOFlXR25YeHAzZkw5ei1pekRjNzdvcjJtcW5fcEhKVnUwcG1jeG00aDR2YnozQTVDcG1wT2FkVXFTM2gzNmFVeFYzckZVdHpKcmhtUXowYWhrTjhvM2U2akZydkstMVJHZlBzdE9pWkZzV1c2VjFoaWxNbjRqXzFMYnBKUm1TQ09ja1HSAfYBQVVfeXFMTnRmWmhnZnY1NEd4UW1PX1lVeEF0STdqWnlsTlVycVJTZWRpcC0wdWFMeEloRlFuZXJDbnBjcGZfaWkxTC1FZGJvaDRuWldDYmluS0VHNEFVTk9FT01EVnhsR1VqU0ZBREl6RGhIc2F4YVJ0VzhZV0duWHhwM2ZMOXotaXpEYzc3b3IybXFuX3BISlZ1MHBtY3htNGg0dmJ6M0E1Q3BtcE9hZFVxUzNoMzZhVXhWM3JGVXR6SnJobVF6MGFoa044bzNlNmpGcnZLLTFSR2ZQc3RPaVpGc1dXNlYxaGlsTW40al8xTGJwSlJtU0NPY2tR?oc=5",
-   "data": "2026-11-19T18:56:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13fbdsu",
-   "titulo": "Rockstar explica por que razão GTA 6 não tem uma paródia da Disney World",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlgybS0zc3JjYUJOWUJpYjZ2TnUzVFA4UGZ0Vm04b0pTU3N3RnJCNnctWV9wcUNIRVVnV3pzXzBKS3BfVzdwcHJrMVp3RXJrbHZXZnZCYTl0LUZQZ0JvZkJ3aVJmTU40TlVZZGdQdVBYWmFiN25Da0RoRkZBVU9nYlJoX2Q4bzV1TzdSVGR6bW5Wdjl0LTlqamgzNXVGQ0pKbDdFNEVfZVpxZzFCalFBZ2tpcTM1LWlUN1E?oc=5",
-   "data": "2026-11-19T18:51:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rp0v7v",
-   "titulo": "IPO da Anthropic, dona do Claude, pode criar 2.800 milionários entre seus funcionários",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMTI3V01UcHdlQm8tTE1Ec2FyOTVXS19ubzExbWp1VnE4d3Z5b193amF1Y0FEVDZ0ZXktYzNDcFZScFZlZ3plSVJnMHhpS3JrQVI4eUFudTctWDZnSGlweW05LURvd0J6ZVFnUUo4VVlRb0RkcVJjbDRoNUFmQmkwdzVaWXdXdk9fNXAxaXJUZmQzVDlZMkRtdDE2djBHVTZQN25Ua0VoWXhkUFJWeklYVmYwUk5yV1ZjNklkSm1FS0doUDhoWmp6VDRiSXN3Z9IBzgFBVV95cUxQMTI3V01UcHdlQm8tTE1Ec2FyOTVXS19ubzExbWp1VnE4d3Z5b193amF1Y0FEVDZ0ZXktYzNDcFZScFZlZ3plSVJnMHhpS3JrQVI4eUFudTctWDZnSGlweW05LURvd0J6ZVFnUUo4VVlRb0RkcVJjbDRoNUFmQmkwdzVaWXdXdk9fNXAxaXJUZmQzVDlZMkRtdDE2djBHVTZQN25Ua0VoWXhkUFJWeklYVmYwUk5yV1ZjNklkSm1FS0doUDhoWmp6VDRiSXN3Zw?oc=5",
-   "data": "2026-11-19T18:47:02.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wj29w0",
-   "titulo": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA?",
-   "fonte": "BBC",
-   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQVU2a2NnNkU4cEdNUzlraVRNMFluRjBreWdFb3BHcHlqdWxJRzNBWmNOQXA2ZHFsUHh4eEk0RmNTcDNhZVhsMnBhT1lBSzZTM0dMa253QnpfYnpjQXRjdGF2SdIBaEFVX3lxTE13a1BheTZnUDNqaGNqTjNwdm51N1lCRHhtRkhoemhNV0h5RXlzUzl0ZEQ1bFBrc0Z4VFFOcDR2NVlxOGlwa1RieDRqVVhoOEptd2cyVmI0blpreU9PVThQQ24xaEJIU1BL?oc=5",
-   "data": "2026-11-19T18:42:49.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 12,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795129232608
-  },
-  {
-   "id": "1nhj3pc",
-   "titulo": "GTA VI já está disponível? Confira!",
-   "fonte": "Pichau Arena",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IY25ESnpkZGxkWndfQjVORlpoOGEtRXZHcHlxcHhQTXNuc2l1bGd6LURaQzlOX19wVFI1dFQtZndQY1BCMVJXNjFWNUJmLUZrTEJrZTE2WEFMSVRDWE5nTHZiOHRIQ1h1dTdlYmZNX0gtWVlHOTk4Z0FfMA?oc=5",
-   "data": "2026-11-19T18:42:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j6o8f6",
-   "titulo": "IPO da Anthropic deixa em evidência rápido crescimento de custos Por Reuters",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWTdWa2FKU2lyOVlTbXJNQnNBQ1FwaHViUjV4aXRYUWFlaGNoV0lJekZpSm1ObXB0S0pWa0VKaGxoTVRlbDZneTNmT2x4NXpwZzRnY2hpTUFpUHpDcDNocHh6MWdpQWUxelhYUm9aeWltdm02aDlvNjBBT0NVa3cyc0M2eHdSbF9oRFFzd18wX1VOZFozODJDVlpONkppV2xDMHNCLXBYNDJWWjAyUldJWXJXZw?oc=5",
-   "data": "2026-11-19T18:41:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
