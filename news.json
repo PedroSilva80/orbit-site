@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-20T23:00:32.475Z",
- "agendaCal": "2026-11-20T17:00:33.872Z",
+ "atualizado": "2026-11-20T23:30:24.804Z",
+ "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1xiqg7x",
+   "titulo": "GTA VI: quanto tempo leva para zerar a campanha e fazer 100%",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sVlFpOWJGOV8yYUFpMGpyREFTUTZyXzE3alNESGxkVUR1aFdiVEk0SEFBMFRUVHV3b2Z1SkVMQXNoTHV1Y1EzalM2VWw2Q0xSX21jSnhuZjBaTHU4SlVjWmpNVE5HbWlNdWdEVVVtRzZwcjRnTmlEdkxYMA?oc=5",
+   "data": "2026-11-20T22:57:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1igb0zg",
+   "titulo": "GTA VI: onde encontrar todas as referências da série Dexter",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GVUpLWFdzUGhpWVpqVC0wTVlxS0cyQ2phc3hERWl4UlJMeWhwNUdjZkZjUUU3alpLUFc5bGZrYnFpN2lRRVdKeWQxTFo0OS1wYks5Tld3RzFzd01ocWpRMHltaFJqYzFId2FHcXc3R2h6VG9VX1NzemhBZXlUaVU?oc=5",
+   "data": "2026-11-20T22:49:46.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1szf8ms",
    "titulo": "GTA VI arrecada US$ 3,8 bilhões no dia de seu lançamento",
@@ -41,6 +65,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1fumsvw",
+   "titulo": "GTA VI: o último grande blockbuster?",
+   "fonte": "B9",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LaUpITXNNX3V1N3c5cDMwR2ZmclNQX0loZEh2NXotdGpILVljSkZUMkx0M0lqSDFIYS11Z05uYlRHbnVZN1dyU3JBNHhiRXV3WnFaT0RyeGJYS1ZDUk8wRG0xdUVJT3dkSHdPck5Rc2h1MDduREE?oc=5",
+   "data": "2026-11-20T22:33:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -306,7 +342,8 @@
    "empresa": "Banco do Brasil",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795217424804
   },
   {
    "id": "15siue3",
@@ -822,6 +859,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gx71da",
+   "titulo": "Anthropic ruma ao preço do IPO em meio à busca por hedge",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnBqaU9oZ3ctWjVWcUxoT3JwbWFzdDN1aEVpalRpekNrX0hHSnJKWFRKSlB3cE1ZNVFDTktCYTRjam9hdlF2eThzRjRnVXJYR0Z5SVhVb3E3czNLNWJtNnBOSWwwdlhyRDI4RlV1MDE3SFJyLU82M3N3VmNKemk5ZG03THhMWEY2X3c?oc=5",
+   "data": "2026-11-20T15:49:20.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1776,55 +1825,6 @@
    "score": 4,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1s1dwy8",
-   "titulo": "Anthropic estreia 17% acima do preço do IPO",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0VXZHRkJ0TDZJeXdmeXpNd1ZWLS1GU0JlNndNNk1FZEpXQVdyYXRlTUJNVGJwN1pNb3FLQTE1LUs3bmc3VXdnTDFQTy1XUW52bVZrX295T3pJWG5uREhhTk5PbFRKWk1jV3Atdm1zMWQtcVdweXVZ?oc=5",
-   "data": "2026-11-20T09:06:04.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "4qyzkz",
-   "titulo": "Anthropic estreia na Nasdaq com alta de 17% e capta US$ 107 bilhões",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQeEExZHk0elhfblNtamc3NEJvd3dYV0FUdk5FWjdfRm56UFQxbmFkTEhPQTQzRGNxXzBzZXZHeGl4blQyVnpKR1B0RnFrRzhZWkItS2VKWGZvaVM0UGVXZDYxenQxSzRJdkJrYVNPZ093ZUtfLVZ6ZzBXTEZYSEdWeE4wT0hGODFOeWdQNlZNeG9zOU1ISnB0UVh0RjJsUQ?oc=5",
-   "data": "2026-11-20T09:04:53.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1weq5tn",
-   "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVR4Wkx0YUpxSUxSWERjS0NyUkhxbDRZYWk4SWtSYjBwVjgtZ3NpaGdMaFJ1ajFQeFJzR01ST1JWM21WZUJqd2lBamJGWHJ1N0NjZU1GaEFBRVlqVEtZR3Z6SHJRRnRVeU9yQXYtVEpEQzZSRG5kOGRraVZJZ3hOWk9NYmFNXzZjdjF1RUliM3NTT0w3Qmt4bURPZVQ5LWZDbU9DVEsxdU44alhMa0hTTlVVenR1WWF4VUI5OGpyTkc?oc=5",
-   "data": "2026-11-20T09:00:12.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rr886z",
-   "titulo": "Redes sociais podem decidir uma eleição? TSE investiga Meta e X por possível favorecimento de candidaturas",
-   "fonte": "Santa Catarina em Pauta",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNN1N0aGVhZ1FHcmg2NGh3cmU2eHg2S3FWZlJtbEU3QkxrVzVPVHVIajJFUXd1UW1LT3pwRDh0TURxb04tVTVjLXhjQW5FUEJYeURSTWJNNVk4SEpjMlhUazBMUUZNUWVoeVNFNm1QRUx0T2lUTzlaRjIyV1JSLV9BWkprVnpGTkxWUVh6VmdCdER5MjZpRGxqZ085ejZEVXVMU2k2SHVMdUtZaWwtVWJQVmVPSmxnekNPWTNidkNqcWV5SEh1MlBKWXpqX3k0N1g3alpnUWx3YVVzRFZYUTVwOGlQWVU1M1RxWUZwblZR?oc=5",
-   "data": "2026-11-20T09:00:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Meta",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795170629348
   }
  ]
 }
