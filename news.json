@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T20:30:26.438Z",
+ "atualizado": "2026-11-20T21:00:36.270Z",
  "agendaCal": "2026-11-20T17:00:33.872Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "z4w196",
+   "titulo": "'GTA 6' arrecada R$ 22,5 bilhões no 1º dia de vendas e bate recordes",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUQ1R0lpZzdlMkNkc1h2TTNLakxmZWRWZ0ptQ1NQYVJiOF9VNFFCTW9STzJXZ1JneF82T3V2U0d5U2FvV3VhVjFJcXp3VXJfVVA5c001ZWF4V3lfMTVFYTdPWVFWSXhwcS1OVHZxd3dCdDVnU2FJUmhnX0xuUXVrRXBkM2FubXdaZG1nZDR0b0k4NnVXSGQzSjZjNUxhZnhhVW94Rmk3bkNLV185ZUJSejMyVExsYUhO?oc=5",
+   "data": "2026-11-20T20:48:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "e8thxp",
+   "titulo": "GTA VI vendeu 32,5 milhões de unidades durante a pré-venda",
+   "fonte": "GameFoxHub",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2otN0NzTTlQeXFFU1pscUpmT0dnNTB2UzgyUFB6ZHBLODI5UlJTdWxNVWRBZ19JTnNERzdIY3prd0xFR0k1aUtwUFN3VkNtZl9BYmxIUHMxWWFsdEViUzd5SXY3MDRqU25ucG9HRlB3c3R3dGNkZWVUN0NlajgxckREbDRVeXJYMERRQkdEaGZmcmtSZlVYbndPeVR1TzZocHBQZ09VbE5Gc01Nek9r?oc=5",
+   "data": "2026-11-20T20:37:27.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "cp99t4",
+   "titulo": "GTA VI fatura US$ 3,8 bilhões no maior lançamento da história do entretenimento",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HaThfTEVHNFBfOG5iWnNOMFEtdTUwSXpwblY5M0tuY3dVdnhPR3F0SUxRZWZkRlJqSjFfSTN5SHhLSmlUREpKYjg5LVA4RVRWdThYNkFLNDlnR0lVYWhlMmZ6b0trSEt4RFM5VTNpODZTa2pLVEtn0gF8QVVfeXFMTTZtUGFsMFdGMm5MRENWYUlTVGtyN0lmcVZXYTVUUVBzYUkwM1V6blNJMThoYXk3WUJQM3FUVW9EaHBmcVREdEE5WDBkRDk2ZDFXT043RmNzWmx1dG5vZkRxTUVGdEc4SFBDeGJVOEhGMHU1UGJXUW9rcy12SQ?oc=5",
+   "data": "2026-11-20T20:36:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15siue3",
+   "titulo": "Nvidia em crise: regulador dos EUA investiga a contabilidade da empresa",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QeUExdVU3a0txdUNZcGQ3THkwTVVLZVpBbUNjemx5YjNraE5BN1NoVXQ0Unk0WGFvUm9DSEVHQWpBekdsTlNsVTJqc1JhY2pUX19TbGlvVDQ0Um90Q0NraUd0Q3lHSUlHVXBrOFVUZ1pzaXBY0gF6QVVfeXFMT3oyNjhLZ01GRG5HZmtYUXprYkxiR0dlQzVsdDdWQmlLNHFVT05RQVlmS3ItRmhDdEVfczcxMlJlajk1ZjRPZ3E5UTdRRnJ2dHFLN0pLaG45N2tmU3dnRmZXcm00a0NQa1o2NGxfdTA3alhtSHJxS0Zwc2c?oc=5",
+   "data": "2026-11-20T20:26:55.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ktxow1",
    "titulo": "GTA VI movimenta US$ 3,79 bilhões em 24 horas e supera maior bilheteria da história dos cinemas",
@@ -1382,6 +1430,18 @@
    "avisado": false
   },
   {
+   "id": "c8rjwq",
+   "titulo": "Das comissões da banca às fortunas dos fundadores, os números do mega-IPO da Anthropic",
+   "fonte": "Jornal de Negócios",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNamE3NVpKVm15SFg2Y2F2VlM5RThFODh2Z09jbjJWbV9LWWtGdzBoV1l0a09LTHMyY2VFUHVCNVlpdXBWd2FnaXBIVGlZVzgyOURiNHVDbkVuSG9pc1NRSHVCTWFxWTJaS1V1c2JHLWtWNDd6b2tMQ2Z5cWNNY3oyYTZfTC1fcllyVmdUa0lKNTFMdXh6Z2dweUxxM0lobHdDSmphV1hMTjRlN0YtdHVjbDlUZUhkWFJaS0ZpSDYwX205SGtpQ29sZlJtbjl0T1ctX1ROWTgxRQ?oc=5",
+   "data": "2026-11-20T10:00:52.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "19a0akv",
    "titulo": "Indiferença japonesa a GTA 6 expõe ponto cego bilionário da Rockstar e acende alerta na Sony",
    "fonte": "Rádio Geek",
@@ -1763,66 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "91tfps",
-   "titulo": "GiroPop: IZA lança disco reggae e GTA VI ganha trilha com músicas novas de Dua Lipa e Zara Larsson",
-   "fonte": "Gshow",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNd3JtTEg2TEdpcDZLbnU2OTlSNVpmOERGYzgxVFphTUdMU1JiNUFtd2N2cVJQLXFkTUxGUjJHSUJaQm02R1BWYnR2cHU3Smd2TTFjNzFYMkFGd21kbnlqc3c4REdEOXF2cWNGVjFJX1dBSWNfbkVYSUFFN00wQktMLV9Ud2FGX0lRT1pQY1h3UkgxdUxJdmtSNS1KVTV4MWdhbXpLOGl3RktTRm1VWVpKSkhMWHFTY3JHUzhCM3FzYkZ0WmJVQTlZNnFiNmV0c09qdmxpczc3LWNQRGJRdXgybtIB7wFBVV95cUxPUHVUUmhsZl9TcURKd3dnT1Ezblg2OFVkaTBVU0J1YTY3cEdlTFphWllaeWo0NnVjWjg1OS10eXdaeU1lWlZTWnZpdWk2NVpESTBxS3lEdHg2N2xibW5zR215aDJ0MFF2d2JvZEJwcVE3RW1RUU5sQUxPQl9DempOUGdycFdORF90N0gyTU85Zm9WSGNld2F3cko3X1ZSVjJkVHdlS1dEdC1OY09Eb2gzMndjcG1rQjZ3cjVPR2pYRWVvTHRFa3dqU1NMdnZtb2NibUduTzdKSnNxZ3BiQ1U1cjFsaVY2dWF2TWd2bVc3cw?oc=5",
-   "data": "2026-11-20T03:05:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1i665xk",
-   "titulo": "O dólar americano caminha para sua quarta semana consecutiva de valorização após o IPO da Anthropic.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3ZxTDJBMXNLckJ4V1JhRzV6SGw2SHRicXpneTBkYkFuUll0VWFlSEIyejlWbGpvM1BDTHFzZ2pVSjZUWjA2ZFFOdllNQTZvMEJhUEU4OXJqbnlBV2JTTkRHNHpiajFJWE1RVnBfR0dZYVRaOUJMYWRXN2VYUmhlQTFqMlRpdWRUb2wyMHQtVEFkUGg1Z1oxNg?oc=5",
-   "data": "2026-11-20T03:03:32.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1b86vzc",
-   "titulo": "Governança do IPO da Anthropic: missão e votos",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXl0TGdKSjhuWGo5dGF2eDJtRGFaU2FYS2tVaHNaT1JGYXJkTU83RTJURUswSkpCUnhjWldYalVxdy00OUVacDJEa0IwaDd1cm1YRFllaUpDNExGbDlqSVBTZWVtTWUyWS15MUsxZzZVbmpoNEpndjJmX18yRkFMSk0waVdXUQ?oc=5",
-   "data": "2026-11-20T03:00:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "c7lvgm",
-   "titulo": "GTA 6 custou US$ 1 bilhão para ser feito; compare com os maiores blockbusters já produzidos",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZjZpUlJMTlZndFFveWlXV0VwSkprcmw5S1BKM3dhMS1XNV9jSDVwMTN2cWh1Sk91c1VJZmNLSnZuMm1IbUZIRmxSbzNPVEFOeXFkb0h1ZkplaUtlVk8xbE5JYTRIdjI3Y0NaTXJXR2ZSMDJtX09RQXY5cGhLZ3BwSTVhOWJaOTB1LUFTbF9ZeGpITnp4U0tIaFQwRElGNVZxUXZqa08tb0hkX0VvSGZNSWNaVXhxYjVBZzR3R25jc3pXUGFwS0xxZ0ZwVmw0YTlpQU1JUFZuV3RIWnRTYmRLR2ZDVEtTMjl3VWMtVk8xUdIB7wFBVV95cUxNZjZpUlJMTlZndFFveWlXV0VwSkprcmw5S1BKM3dhMS1XNV9jSDVwMTN2cWh1Sk91c1VJZmNLSnZuMm1IbUZIRmxSbzNPVEFOeXFkb0h1ZkplaUtlVk8xbE5JYTRIdjI3Y0NaTXJXR2ZSMDJtX09RQXY5cGhLZ3BwSTVhOWJaOTB1LUFTbF9ZeGpITnp4U0tIaFQwRElGNVZxUXZqa08tb0hkX0VvSGZNSWNaVXhxYjVBZzR3R25jc3pXUGFwS0xxZ0ZwVmw0YTlpQU1JUFZuV3RIWnRTYmRLR2ZDVEtTMjl3VWMtVk8xUQ?oc=5",
-   "data": "2026-11-20T03:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5z8v7o",
-   "titulo": "Itaú Empresas lança “Toda Empresa é um Feito”",
-   "fonte": "Creativosbr",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE16emc0Q3lhb1VLdnJhMEJoeFBtY1RGcVM5eTUza3JINVFad2N1THVJeU9YSm1lMWI0RDQyUlJNR1JkXzdrUDJ3NVE1aUR2RzFFM0hmWWhHSEtEVVFJakMyNHYxdXV4TGxpM0lHX0V3b3RRWnZfSS1lOWlBRQ?oc=5",
-   "data": "2026-11-20T02:40:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "Itaú",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
