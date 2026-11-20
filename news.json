@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-20T08:30:26.019Z",
+ "atualizado": "2026-11-20T09:00:32.329Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -19,6 +19,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "18wbgpf",
+   "titulo": "Só mais uma missão\": lançamento de GTA VI acende o alerta entre hobby e exagero; saiba identificar os sinais",
+   "fonte": "Sala da Notícia",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPU2M3VzhXb3Q0VkphMF9rSzgwQjAzSE5XUU1qUktBc3RndFZqSnc1WXJOeE1LR1RpdEh5a3lLUzIyY2xGYjJzekkxem5KQ19Yb3JBaF9nTS1HM1ljSXUwTmY3QzNCUlhCU2ltZDlQZGhwTTY5NzB0UFZJY3QtenNkOEdwekgzNGpfLXE3d2VyRVpuRVdyUXhoZ19tM2hvTTFGZGt2UlVndkpqajNzRVBUekNhTUVwRzNTTElOc3U2ZHdMbkVZckIyWjA1c2tnQkJXMzY1NUxkYUpYcVAwd3NGWGtEMkE0VGZWcVh3?oc=5",
+   "data": "2026-11-20T08:41:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ules6z",
    "titulo": "Changpeng Zhao faz uma sugestão enquanto IPO da Anthropic cria milhares de milionários",
@@ -1807,18 +1819,6 @@
    "data": "2026-11-19T17:58:09.000Z",
    "cat": "Lançamento",
    "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qlyxdj",
-   "titulo": "GTA VI impulsiona vendas de videogames no Brasil, que chegam a R$ 563 milhões em um mês",
-   "fonte": "OpiniãoCE",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWVd1SUhCWW9OWUVKRzRwdzBVOHdDbGJFWmQ0U01CeUg3dkw4ckJodU1qWFM2MVVocUp3cW9mQWp6dW50Yk1sY3pScmhZaFBmTmhNSzdSTkxFWV8wby1rRU1UWVV6ekgwaFNDMUx0dnlPMmNHdWFweW1xRW15cTBSUXQ4QVFQN1Z0RVFGUlBrbndXbmNNTHVlN2lYM3dBTVgzVDliSHJROTFjeU9MdGhTa3dLWkdtMnV1MVFXb3VOQVNtNTc1WHNMY3RXdnBySzdH?oc=5",
-   "data": "2026-11-19T17:58:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
