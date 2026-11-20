@@ -1,12 +1,13 @@
 {
- "atualizado": "2026-11-20T09:56:53.950Z",
+ "atualizado": "2026-11-20T10:00:29.696Z",
  "agendaCal": "2026-11-20T04:30:23.900Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
   "dig|2026-11-17": 1794946650326,
   "dig|2026-11-18": 1794996028930,
-  "dig|2026-11-19": 1795082434933
+  "dig|2026-11-19": 1795082434933,
+  "dig|2026-11-20": 1795168829696
  },
  "agenda": [
   {
@@ -112,6 +113,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lved1l",
+   "titulo": "PETR4 e PRIO: nova recomendação projeta valorização bem acima da Selic",
+   "fonte": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPWkpuUzFmVVVFRXB6QXM1YXJlbFpPTk55R1ZpWUNxTmlQRWxicEdlNFRzaDJsMFhGS1pWSlNjdVJ1Q1I4QV9oajduSHNBUl9WZ1Z2Nmk1WjVaQ1Z0bnhHSnhmcmx4S3Axa1pnLWZnMi11R3I2WjdCZ1ItUklQZ19kRkRWRnJhajIyemN5RUNsRnZuWTR2RDdTSzBaZw?oc=5",
+   "data": "2026-11-20T07:54:18.000Z",
+   "cat": "Mercado",
+   "empresa": "PRIO",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -413,7 +426,8 @@
    "empresa": "Anthropic",
    "score": 11,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795168829696
   },
   {
    "id": "olk22j",
@@ -1808,18 +1822,6 @@
    "cat": "Movimento",
    "empresa": "Amazon",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cek3cd",
-   "titulo": "GTA VI finalmente chega às lojas com a trilha sonora mais pesada da história da franquia",
-   "fonte": "Mundo Metal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTFREZC1SMlNzNjg3TklLSFBlZmRRWGdxR2hhLUt6QXdOTE4yX3VJcV9LTGVjS3dzQUxNaElMTFN3aFpvNkU0N1RPNE9jNTA1OXBPQkxybHZYcU82WDFLSmZPb0hyUjdnMmNUNThpMk5lT3NiWHlJSFN3NllxMTN6c3hxVDNFYUk3Nk9nTzJYMzQySE1wOGJaMUE4TkZKZUtwYTg3SWVEbXNnT2M2blBVMGhZTEdPbkY5emfSAboBQVVfeXFMTkxURGQtUjJTczY4N05JS0hQZWZkUVhncUdoYS1LekF3TkxOMl91SXFfS0xlY0t3c0FMTWhJTExTd2habzZFNDdUTzRPYzUwNTlwT0JMcmx2WHFPNlgxS0pmT29IclI3ZzJjVDU4aTJOZU9zYlh5SUhTdzZZcTEzenN4cVQzRWFJNzZPZ08yWDM0MkhNcDhiWjFBOE5GSmVLcGE4N0llRG1zZ09jNm5QVTBoWUxHT25GOXpn?oc=5",
-   "data": "2026-11-19T18:05:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
