@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T10:30:25.654Z",
+ "atualizado": "2026-11-21T11:00:30.358Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -11,6 +11,14 @@
   "dig|2026-11-21": 1795255227115
  },
  "agenda": [
+  {
+   "data": "2026-11-21",
+   "tipo": "Lançamento",
+   "empresa": "Anthropic",
+   "origem": "iMasters",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xWVo0TVc3MHZNc2xLWnVZZVFUS3IwXzdKUWZCb0NHMGRTbHhLMDhfQlFsTkd3TmNjSUVPRTdQc0dLSXZ4TDNnaHc0VElBYWsxZW5iSnA2VExRdkdleTNZZVV6dllUZw?oc=5",
+   "manchete": "Anthropic, dona do Claude, estreia hoje na Nasdaq valendo US$ 1,5 trilhão"
+  },
   {
    "data": "2026-11-24",
    "tipo": "Balanço",
@@ -50,6 +58,18 @@
    "cat": "Movimento",
    "empresa": "Netflix",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v3x1uq",
+   "titulo": "Banco do Brasil estrutura nova frente para alta renda com lançamento do cartão Altus World Legend Mastercard",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXd5WGZQeFdIb2dfTFNjX1FBYnc0UGtSTUxqRXZfTXZUMU1QdnhPdGZnVXVBeWl3ckFOcnRvYjRMQVplak5lVk52RkZmcWw3WDFIU1VNbEVKWFRRNUpxRVFBempQR1hQUVc0SUhTbXd3NWZTNmlZcjYwdTVmekNkcTd5bFhLbGJFWGtlSVZFNUxndkZWc1luZm1iaEtQSnluZnczZTNnMWFKVFB5YkVHUHBmVHJoMEdzbTdIQVZ2aEltM01RQXM4VmxFTVgzVWhVSnQ1WS1R?oc=5",
+   "data": "2026-11-21T09:55:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "Banco do Brasil",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -243,6 +263,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1c67fml",
+   "titulo": "Fundadores da Anthropic resgatam quase US$ 2 bi, mas mantêm controle em IPO recorde",
+   "fonte": "Cryptopolitan",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2dPS3FiZUdnRVBpaTIzclR3SnJGRFQyZU50eXZTWWF4by16WExIa0ZuOFlHZWd3MUt4bEF2Z1dqVXRfb05KUWxfeUhrNElCZnNNZTA0OTYta0JHMWY3ZWdzWmVzNy1oMGdGWFBqRVppdHA2bURXLTRyTFdrY1pwdl9hWmNZTHRnZ0FWNHU3U0liZ0lIYlJrbWFXUXAxeVJ1cUktSEs4dw?oc=5",
+   "data": "2026-11-21T02:37:54.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1041,6 +1073,18 @@
    "avisado": false
   },
   {
+   "id": "c642br",
+   "titulo": "Anthropic entra em seis ETFs da ARK, de genômica a espaço, no dia do IPO",
+   "fonte": "Cryptopolitan",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlQ1a2k3aHByZzhwNjYyWGZyemVpRl9wN3k1Z0ZKM2liUWJmeE50dEZYYzVuM2R4eHY3QmxMSzNnVDJTWURHOHFlb0Mwd2tkRFZ5VGFhMldwT094cDd5eERTejdrakVQZVFGaXRtMENRZkFuWl9oaTVVRE9kOHAwdw?oc=5",
+   "data": "2026-11-20T19:15:22.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1v2zcyx",
    "titulo": "Transmissões de GTA VI na Twitch superam 50 milhões de horas assistidas e redefinem métricas do streaming",
    "fonte": "Brasil Inovador",
@@ -1415,6 +1459,18 @@
    "avisado": false
   },
   {
+   "id": "1lnmv4r",
+   "titulo": "IPO da Anthropic: trade de short via CFDs?",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4dzNwV25xTWtwNjE5a2VHTEVzcEZsbFFBemRMQXRuZGZ4OGUzUHlwcnFNbUFkblJwbTU2NzJ3OG9kSG1FUjBFTlNtLWt6dzdZWEtlSUp3V2R4ZXBtQUxtVGFmbXlpNFFNR05Ha2tORkZPTm9YZGFV?oc=5",
+   "data": "2026-11-20T16:30:09.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1bx2ijb",
    "titulo": "Ação da Anthropic cai mais de 9% após estreia recorde na bolsa de Nova York",
    "fonte": "BOL",
@@ -1643,6 +1699,18 @@
    "avisado": false
   },
   {
+   "id": "iner5l",
+   "titulo": "Anthropic, dona do Claude, estreia na Nasdaq com IPO de cerca de US$ 81 bilhões e fecha o primeiro dia em alta de 17%, a US$ 97,17 por ação",
+   "fonte": "CPG Click Petróleo e Gás",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS05sdE5hVTRxaXZRRkJ4a05QVGtQaDFNaElxX3hqcnY4cVZZVF9oTmZ3SVAzYnZHT0p3RnI1MzZvTWpUTlV5cEZxdS0xdzNpNWlWcG01YUZnR3p2eDZOb01IVGFHVGx5cmE5UTdhYWRFUHJaWjhnbVdUSGZRVU1ybExVZm9lTHFPdEk1eTBVUlFOX21HMWNVOEMtRTRjQVNjYmdLc0pGME1JSTE2OUxEYjJzQ2l4YnJjaVRtNGZxMDdLQW1YbGRQb3dpOVItQVpaRm5fWnlCLWJadFcwdXoxOTBkTEkyN2NDXy1MR25fb0NiSVZVX2ZQRTBzWVdVZ2d4N2dF?oc=5",
+   "data": "2026-11-20T15:04:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "12jai35",
    "titulo": "ANT recua no pré-mercado após IPO recorde da Anthropic",
    "fonte": "Webitcoin",
@@ -1772,66 +1840,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mkegpr",
-   "titulo": "Subway lança sanduíches com Doritos e Ruffles por R$ 19,90 em campanha de GTA VI",
-   "fonte": "jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWkp4U04wUkVwc1ZILUFwczhGMWVnQnFKYUJfcGUzd0lJd21FRC1YN0tURTdmODVlaFdqb1JJTmp2WERpMTNNSkpjVjM4MzR2cnlITGw3ZlpuUDdxMFJoYVZobkRxNXNqR20yajJNRlFnb0QweldvQW5tX09xcTVPanJQSlF3b1VtSDBNSE1OdzE5TnJ6Z3pXU2N5UGhJMUdvaTdOMnBLSzFJa25reDlGSHNB?oc=5",
-   "data": "2026-11-20T14:30:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ln7nq5",
-   "titulo": "Ação da Anthropic dispara na estreia em bolsa. Ainda vale a pena investir?",
-   "fonte": "DECO PROteste",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbjNwMGZKaGROanRseWk1eHZZWTE0X1RURXBhQUhLaGtDV1piX09ZMlBNVUFaQkpwbUdJMGUyRE1MSW9hWmVYVUY1Wk9ab2V3b1pfOVNJeERNdWlSQzlidTc3ZkhJcjQtUm1vSmo5ckpxYW1IVEFzSXZJdEVEU2g0WDc3UDBxUElMTXE0dDdsVjZ2OVE?oc=5",
-   "data": "2026-11-20T14:23:58.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 5,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "2aa0z",
-   "titulo": "IPO da Anthropic: Análise da estreia em bolsa",
-   "fonte": "XTB.com",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFctZGxqLXByMmt2ZnVrTXhBdzhlZXAwa1R6Zy1PbmJzOXdCTlhscXhZVDNnOEJyZEttQS1wNzFLaVg5NHQ2NDYwbmhCVFpGc2lOeVlxZmVQTi1EcGcxQWFDLXRrVEZfOGFQdU9HM2pENkRSeW5FMVdRQUVXbVkxM09QR1ExdDVnTGlGUENnNGtmMWlNYTkzdUxVclVhVVB0Q0NGVjRpV2l2bVlZZFVsMmlUVlVveVd6UDd3M3kyRzVvcFVqZ18yWEUzRy0tVVhKQ3MtR29aRQ?oc=5",
-   "data": "2026-11-20T14:08:30.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "tqwipj",
-   "titulo": "Corrida da IA: Anthropic supera OpenAI com IPO recorde e acirra disputa entre gigantes",
-   "fonte": "Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0tqaDlrMzZaTWEyT0QtdGFxYi1HdG1ES0lYdTFaVlUwR3ROQm1uUUYxT2Z0ckFXUDc3LTR3bFg5anM2NlpnWmExQnZ2OWNvd3FvQ2NPZ0tMUnZobTFiWTVuVFl0WjRIZFc3VVhFSnJmalZKWVNrMUx2NC1ra0duUE5VaTlNYjRKWC1iaGFfMGZLa2RPRnF1UXhFelZjdHBqVkpGckpILVlaLVl0TWRtM2NjbGEyYWMxNTF6TE5hRHFRREdCRTRuNV9yZw?oc=5",
-   "data": "2026-11-20T13:54:42.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gj9xvq",
-   "titulo": "BNDES registra lucro de R$ 20,3 bilhões até setembro, puxado por venda de ações da Petrobras",
-   "fonte": "O Tempo",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSUFmeWRfdkdpaEk1R2F0MGVSQjBfcmlZcGpCemUzNl9pejRlUlo0ZjVQWlpsTjFNU0tKQkJSNk02OUp3cklkSkU0Vmw2Z28zcUJUWERnZG1ZaGJzS09UYnpGQ1dNNktCX3RuQ1UzS2ZxendvMER3ODhVV2dsVHJhVzQ5c292MEYyR3hadHc5S2RfMVE0NWJ4M0NBc0R3ckVweHIwN05NbU1GMUhhbUl1LXJIVmQ1SU9HY1FmUFhTNDlzcWRuazJsSTBDbTRJMFo4cHc?oc=5",
-   "data": "2026-11-20T13:53:37.000Z",
-   "cat": "Resultado",
-   "empresa": "Petrobras",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
