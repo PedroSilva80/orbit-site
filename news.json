@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T04:30:31.120Z",
+ "atualizado": "2026-11-21T05:00:28.594Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "m06xhz",
+   "titulo": "EBC Lança CFD de Pré-IPO da Anthropic no MT5, Antecipando a Esperada Estreia na Nasdaq",
+   "fonte": "realnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb29kVFNnbnZSNDd0OUxTaWtnOFBINE9CYUplMmVHS0ZNNGVTTHNaS2VlbUg4dGN6Q192RWZheFRKMHJjLUVaRDlwWnBpcnVQYTkydDZIcGh2a1lqV0tONDUzNlFzV1FnNDdOMk5yVmU2ZnNQWi1QY1hGdjU4Y1Q5RnVic19GWWlfOVZkQ0lxQmM4SE9waWFDQkVjTnRabENEZFo1S3Q5S3J3QWhEUk5sdUNzMTgzWE5z?oc=5",
+   "data": "2026-11-21T04:55:17.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1ow9rs2",
+   "titulo": "Bill Maher Gets Big Laughs With Hunter Biden Jab During GTA VI Discussion",
+   "fonte": "IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rREZkT01OSFB3TGFyNUQ3YlVQQk0xeEhXUWtVd3BOTkROOS15SnZwNGl5R3YwakFiOEI2M2V1RjJ5WHh4YmVEZi16T0pwSVZlbGdoM2tYZzBPVDlEd0FoWE05LTJ5ZTdkc0E?oc=5",
+   "data": "2026-11-21T04:31:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "v2h160",
    "titulo": "GTA VI alcançou a pontuação de 99/100 no Metacritic no dia do seu lançamento, tornando-se o jogo com a maior pontuação da história.",
@@ -389,6 +413,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "e5ngoy",
+   "titulo": "Ações da Anthropic caem 8,5% no 2º dia depois de IPO recorde",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTk9DNjBmazFYUmxDS2ZFeW5sTGxiTUJhRzZ4NGJrWkU0VnB5QjUwRHZvSnFsSTJ5cm50RFFabVg4REh5WWdLeVp1NkhrclJsVTdrendOWkNCSlFnY3pGVzl0M2RSUWlIUEptTm1YUnhrZ3A5X0xiMWQyV0xoZUpWRmNaNjZGOHpIN0xvOEdBek04dkhmelNmb1NUYXVPSzRmV1lKbA?oc=5",
+   "data": "2026-11-20T21:49:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1787,42 +1823,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "yk7i45",
-   "titulo": "FT: Como se concretizou o IPO estrondoso da Anthropic",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0FFUTFqUE9PbTJ3RWVRM3p3VWI2WEZaV25zU21xUmFZbXlYZ1BuWGdiTjNvQ1F0dElPckhuZElzU0FmT0duNVBXNkpOTEEtQUk4MEdoRjlJc1F4Y1plZGJMenIwVzl6OFVlMi1oWTBWdV9mX19yM3BJTHl0QlQzdWl0TkZ4enBIczk1a0Y5Sml4YjMxMjlINGZKRHpZeDRmdTFxekRCdG9FWk1acU4w0gG-AUFVX3lxTE8xX0xQRXdwSURHd1VwTldUbzYyQ211UnJLQ1ZQTXJrX0FGUzZPMlREOGFWNGlBaFZ0RXJPVTFyQk9tWlViQXpoWTZGb0hwVk90bTU3MFNRQ3NwSjZGMzVydllod3Y5RlhRMWtSd2hXTUhUVGxrenF6amZMLThkb2N4X0dvZ2lxR1FQMzVram94Zl9JdG9yVUdDWjVJMTZENGsyZGF3b3pBSF93WEp2NXlzVkJ0ZWNfVTlETGRPd1E?oc=5",
-   "data": "2026-11-20T13:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sk3h2u",
-   "titulo": "Franquia GTA ultrapassa 900 bilhões de visualizações no YouTube antes da chegada de GTA VI",
-   "fonte": "Portal Nosso Meio",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOWxfVU8tdEV2T3ZnNnJQSEtmc1c0NVJkdFBibXFvXzVHRG1hU1lVU000REwtME5KbV93MEVadURmYjRpN2hMZVl3TE0xZElpSFU5TG42VG9xWEp2RUx2d1dQYms0cWJPWGMybTRLcldNbXVKM1BLSVNxdlpORjJWTUFSeWJTNDBNQ0NWMDlSTmFNMTNybk9lRXhuVERKMG1kZHFmN09DVkdPak9waThwbzM1bmxCd3c?oc=5",
-   "data": "2026-11-20T13:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kljq96",
-   "titulo": "Cathie Wood compra US$ 90,8 milhões em Anthropic após IPO",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2ZxYm5wcEdPWFFSS3l0aG9RMUlsUlYtU0ZNaktqSEpxOFVuT0FjeW13TkwtTVIwWl94UHVITFh2dGZ5VTVPM2VrSTZNRWNfZmVvUDFCLUtNRDBqcjVrSU9QUy1KMUV6UWgxckpaT1FXaFFVVFZfejFjVlR3dmtSUjN6RGJ1dVdxQUxVRm9LMThfamd1eERQNWdR?oc=5",
-   "data": "2026-11-20T12:49:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
    "avisado": false
   }
  ]
