@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T21:00:29.830Z",
+ "atualizado": "2026-11-21T21:30:26.107Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,18 @@
  ],
  "itens": [
   {
+   "id": "1qcusbd",
+   "titulo": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHlNOFdLYmlZWi1jVnlpMXdfMnpLdVA2M3R0cFJZeVdDdE00ZE5OYkZjUVhVcmNLYVNHVkVXV1luSDlzVlNGeU4tamxVTkVsWXR6b2x4dU92T25aNlJaU0FGVFVPdUxRck1yeDJybGltSzJWQXZjeWpNX3BnZ096Z0Eyc2s1Wll1QjNYT045UTk1Ui1VZF9ZSmlfVTFkMEl3SlI4TEplRjlsRWxtYUZpZ1NCUkU4NFpNQlpWYzNDV3dkNGdkV3c00gHMAUFVX3lxTE5tRjM0anZGdFBmaEx1YldNdEw2MTR4UUtDNGNNc3VpWGJ6Z0NJWXV1X08wczFWNXFHMGVpRVZ1UUhHR2NqSWlxcDM1ekxiSHRocTAwTHpDc3BFbGg2QWs0cm44TGdZSEZ4V3J3REZoR3E3VTU3U3FkSkx2WmNuZThoMHBNYmljZEVtSkZSUUw4REYyS0lhbXNnTWpjaEtqRGZyd1lNT3ltcWlZVmRic2pTc1JaWWhNbUI2Y0x0UF9wb25ETWFOejBzMXlLMA?oc=5",
+   "data": "2026-11-21T21:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "l7j94y",
    "titulo": "Amazon negocia compra da startup Decart em acordo bilionário para ganhar eficiência em IA",
    "fonte": "Folha de S.Paulo",
@@ -47,7 +59,8 @@
    "empresa": "Amazon",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795296626107
   },
   {
    "id": "tiwj1b",
@@ -286,6 +299,18 @@
    "cat": "Lançamento",
    "empresa": "Google",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "z7stzj",
+   "titulo": "O tempo que passou entre 'GTA V' e 'GTA VI', sob a perspectiva de um fã da Apple e da Rockstar",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTy02dU5kTDV0ZmVYMDRtcmRGUmZmN09SQ2tFMFpPaU1ZelFhSjdyX1NmTW9GRkI1bWxvQTVpMlZCcjNpTXdKTWFsMU1wSTIxVF83YTlKSWUxeW9FWFMwREwtN3ZuN2hhUjA2UkFwUEgyTXF5RnlROEg0bUc0WEo3bWRTQ2pSaEF6THAtYlVBalFkZWlGWktjOTc2bWFqbVJ2bUYxSnVnS3pHSFRiaTJzeHVHSUw3MEdfdFJrVnhqQkZ5WnppeE50U0pWcHNTQ0YtUkJoal9YTXlWd1ZqTTVTajd0SDMtS2ZJMm5BQmgxMzd5NmRHbzNReQ?oc=5",
+   "data": "2026-11-21T16:11:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -614,6 +639,30 @@
    "marco": true,
    "avisado": true,
    "avisadoEm": 1795276830569
+  },
+  {
+   "id": "1j3u7uv",
+   "titulo": "KaBuM! aponta alta de 567% em vendas físicas com evento temático de GTA VI na Avenida Paulista",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTU9mMThYczdBSHdhOXNLZlo0Zk9VaTNYRVc0eGtwQWdrSzZlbFFUUVB6UnU2T1lUWjVRa241aDBwVVF2bXVMaE5SN0RQNjAyM2daWjBGY01jU3VwMVZxM21wd2V6aE16T1lmeUd3bWVmd1R6U3N3S011cmk3Q1FPWmNBY2dpcUVWX0tlZDVBSV9LYnJYOEplMURKRlREWEZsUGlGcGdHaXNiNFZ5cFlvMmVrM1hzZWlGQTFVZVdNdDA?oc=5",
+   "data": "2026-11-21T13:15:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rlvirg",
+   "titulo": "'GTA VI' é o maior jogo da história. A questão é se ele também será uma boa base para os que estão por vir",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMXhydTNpTmt2cEUtOTNSa2JCNDhxVXZFUUVGMlVCV0Y4TnlaeFhOMWlBc3lUQVhNNHFCeFQ0dUx2WE1Xa1JBVjVBRl9FVDQ2SzJoSXVBbHBnVGJFS09HYVN4ZjA3cVdHX1lycC1iNE14d0JVaUU4djlOUks0WEF4U1BHRUFmNEpic0c4dkU4alRPbUpYWHZfTTVzSzJYdmV3dWx5QnlmSFpPSUs4OFVtVzIyQmZ4YlRNVE5oQ2h4Slp3VS1ERHNRVHRaMlAyellMS0dJU0tXY1cyQ0o1SGZ6Q2FRLWxGaTlUdGtMaTA4N0ppeUxvTWFZdzZBRkN6WmN2NlVQLUREcmVUQmc?oc=5",
+   "data": "2026-11-21T13:08:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "a4t23b",
@@ -1190,6 +1239,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17j5xrt",
+   "titulo": "SpaceX e Grok construíram um IPO de 1,77 trilhão de dólares - o próximo pode ser Stargate, já que ETH e Hyperliquid parecem mortos",
+   "fonte": "The Portugal News",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcEg3NENpc1p5NEtfdlIzc0FQbEtVRC1XMHlwQ1lYOTRRc0liMlQ3X3M0R2VHZTE5TlZ2MlpjQWY3WmV6ZTIweHROWlVHcDhTT0dFREpQX04xNnFaZlRYUlMzeThhMnRTOXFQWFp1MWVaaXBFd0tkYlZtWFltbjNGVk5LRVZlcktoYkE2ellZMG1aRTN6ekthdE1yYjJ6aDI5bGVyMVJwTUdXMmxiekxRUVJ5Z2VfRFpQaWRaeUo4MFdId3dnUE9tcC1JVTZjTkVJNk1zbTVjTTJOM01ITzkxRm8xSXZUTVRuY1RobGVhenF2NnVmR2pQU0hUaUtTSHk2YmJQSzZCXzJjR3drRVpGMS1TVTE0MmdV?oc=5",
+   "data": "2026-11-21T01:32:01.000Z",
+   "cat": "IPO",
+   "empresa": "SpaceX",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1776,67 +1837,6 @@
    "fonte": "GameFoxHub",
    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2otN0NzTTlQeXFFU1pscUpmT0dnNTB2UzgyUFB6ZHBLODI5UlJTdWxNVWRBZ19JTnNERzdIY3prd0xFR0k1aUtwUFN3VkNtZl9BYmxIUHMxWWFsdEViUzd5SXY3MDRqU25ucG9HRlB3c3R3dGNkZWVUN0NlajgxckREbDRVeXJYMERRQkdEaGZmcmtSZlVYbndPeVR1TzZocHBQZ09VbE5Gc01Nek9r?oc=5",
    "data": "2026-11-20T20:37:27.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "cp99t4",
-   "titulo": "GTA VI fatura US$ 3,8 bilhões no maior lançamento da história do entretenimento",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HaThfTEVHNFBfOG5iWnNOMFEtdTUwSXpwblY5M0tuY3dVdnhPR3F0SUxRZWZkRlJqSjFfSTN5SHhLSmlUREpKYjg5LVA4RVRWdThYNkFLNDlnR0lVYWhlMmZ6b0trSEt4RFM5VTNpODZTa2pLVEtn0gF8QVVfeXFMTTZtUGFsMFdGMm5MRENWYUlTVGtyN0lmcVZXYTVUUVBzYUkwM1V6blNJMThoYXk3WUJQM3FUVW9EaHBmcVREdEE5WDBkRDk2ZDFXT043RmNzWmx1dG5vZkRxTUVGdEc4SFBDeGJVOEhGMHU1UGJXUW9rcy12SQ?oc=5",
-   "data": "2026-11-20T20:36:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8n10o2",
-   "titulo": "Banco do Brasil nega invasão, mas alerta clientes sobre vazamento de dados",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkRBd3RtWC1YeERzWWFXMzljbXJldE1XdllvcXZzd0dlakpnb3ZOaVItd2xvU29WTUN0MXQxcDBxLTFVdUR1X0NuYUZiT1RiSDl2aXFvSHFnVmJwbUNhRDhjbTh6Ty0zdFNQc19RdTJidl9ZSkdRVllnbm02dnRHQlgwaXY0THRvbW15ZFR3UTVZQjdtZ0pEMUZvZF82TGt2N3RrLTRJX1BJYjMzMGMwU2Zqc2VXT1RXb2Q1T05zeVIwOXh4YVhxb2hXUk04dw?oc=5",
-   "data": "2026-11-20T20:34:10.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795217424804
-  },
-  {
-   "id": "15siue3",
-   "titulo": "Nvidia em crise: regulador dos EUA investiga a contabilidade da empresa",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QeUExdVU3a0txdUNZcGQ3THkwTVVLZVpBbUNjemx5YjNraE5BN1NoVXQ0Unk0WGFvUm9DSEVHQWpBekdsTlNsVTJqc1JhY2pUX19TbGlvVDQ0Um90Q0NraUd0Q3lHSUlHVXBrOFVUZ1pzaXBY0gF6QVVfeXFMT3oyNjhLZ01GRG5HZmtYUXprYkxiR0dlQzVsdDdWQmlLNHFVT05RQVlmS3ItRmhDdEVfczcxMlJlajk1ZjRPZ3E5UTdRRnJ2dHFLN0pLaG45N2tmU3dnRmZXcm00a0NQa1o2NGxfdTA3alhtSHJxS0Zwc2c?oc=5",
-   "data": "2026-11-20T20:26:55.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ktxow1",
-   "titulo": "GTA VI movimenta US$ 3,79 bilhões em 24 horas e supera maior bilheteria da história dos cinemas",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQc2xqZ3hGSkUzbWpQVUVtamFyS3RuWktDU0hscllvVFZhVTkxTldHUU5FcmNzQ3FHSExzNW9KWlFDSC1Vc0cwZGxmNV9UaDA4RHJ5bGNaSGtxY2c3YjFTYkdPNTNFOUpvWkYzRU93NzJidDVfcm1DellfaGtaYTZGeUNFZGJ4bEVWay1MdWdYUFhDcmdqSmR4ajZWWnJ3Q1dCRkdTaDhEZWdwcVlqYmJCaUM5NWhGR2hacWE5dmlVMGJNWWZtVGVzeFV5aTNMbk8wNlE?oc=5",
-   "data": "2026-11-20T20:24:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "187d6yu",
-   "titulo": "‘GTA VI’ Generates $3.79 Billion in “Day One” Sales",
-   "fonte": "IMDb",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUTlWYUdNblBWeWFuaWkydWZwd0k1X1cyUnlNMjRQV2I4NDJ2bGlENl9FVnBCcmNZaE9nMEhJUENxcEtYeFJ3SmdoUVZsaVFSYW1XREM0UWRHQW91SE1iQWsyNWVVc1U3eEE?oc=5",
-   "data": "2026-11-20T20:23:34.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
