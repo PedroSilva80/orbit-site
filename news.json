@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T21:30:26.107Z",
+ "atualizado": "2026-11-21T21:38:11.717Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "8l51z5",
+   "titulo": "Amazon e Decart: por que US$ 7,5 bi revelam a guerra contra a Nvidia",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVRBOVd0NGFuMFVQMHJmcjZkZ3FIT3FRbHU2eWYyNVdEWUNjREFab1Vpa0ZKSnVlQ2ZBcndjUFkzS3RYR3JaZU5oMFkzX3Nmb3F3b1pURFl3QTdTQXNXLVFVaUZYTE9kUERLSXVIbkFNckRLUVhySDlIcGpvYTByalNvQWVaN0E?oc=5",
+   "data": "2026-11-21T21:35:27.000Z",
+   "cat": "Mercado",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1qcusbd",
    "titulo": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
@@ -131,6 +143,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8n10o2",
+   "titulo": "Banco do Brasil nega invasão, mas alerta clientes sobre vazamento de dados",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkRBd3RtWC1YeERzWWFXMzljbXJldE1XdllvcXZzd0dlakpnb3ZOaVItd2xvU29WTUN0MXQxcDBxLTFVdUR1X0NuYUZiT1RiSDl2aXFvSHFnVmJwbUNhRDhjbTh6Ty0zdFNQc19RdTJidl9ZSkdRVllnbm02dnRHQlgwaXY0THRvbW15ZFR3UTVZQjdtZ0pEMUZvZF82TGt2N3RrLTRJX1BJYjMzMGMwU2Zqc2VXT1RXb2Q1T05zeVIwOXh4YVhxb2hXUk04dw?oc=5",
+   "data": "2026-11-21T19:11:52.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -628,6 +652,18 @@
    "avisado": false
   },
   {
+   "id": "15odxyq",
+   "titulo": "‘GTA 6’ se torna o “maior lançamento da história do entretenimento” com quase US$ 4 bilhões em vendas",
+   "fonte": "Rolling Stone Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZDZlQXRWS0tNM1NFUXlsUEpiSXVxRkRSMGwyd29PYTZseG9oTzFuRzFrNEdpa1ktamFCZzFtZUdIeWhrMzBYODJTai1lalo2Y0txYTBUTE5wTm16bl9zTTZkSko5Zzk1RU9aZGs1d3ZrQmNEVjhVQS1fZ0QzQkNjWTR1dFlNWHZ5ck9VM0NiYkctWnZJb3A0akE1TmRWUFdzUG8xcFdxSkhocDhvdW1sVGV1UFkwSG5ubUxyWnNZeVBuYWhKNVpuaDIxVVNDaklp?oc=5",
+   "data": "2026-11-21T13:20:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "j3meap",
    "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
    "fonte": "Estadão",
@@ -733,6 +769,18 @@
    "cat": "Lançamento",
    "empresa": "B3",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ouw62u",
+   "titulo": "Batalha do cronômetro: como a minutagem de Coven Academy virou cabo-de-guerra entre Disney+ e seu criador",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTNzdDMtV0NSM2pEekVyZU1MaFgzTklBU3lra3NjMklVbXlOTDVrcjBvVEdubXRaaEdkLWRaTFhaX0ptOS1lX09zeGx5N25hdWFGWWV3YkU3UWZjZDQxWFRnMlg5NFk5Rzl0WjA4ZkpidnF1Sm9JRFkxT0htYTFqeHk2UQ?oc=5",
+   "data": "2026-11-21T12:43:56.000Z",
+   "cat": "Mercado",
+   "empresa": "Disney",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1792,54 +1840,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ejbjng",
-   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
-   "data": "2026-11-20T20:58:35.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1p1oyfo",
-   "titulo": "Atriz criou programa de rádio para entrar em GTA VI: 'Sonho realizado'",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTMxbXUzbmV3NUhTLUQ0T1gxWjMza3ltTFh4Ym1IUFA5QXVVLUhUU3BaOEc1Yjh5ODR6VFlBaFVkS0pUTWg4THJoRHdIcm40RkppQ3NFZEpJdGV0M3IweEdWa2ZVTVBSQ2M3SFNEZG5xanRwcDQtUk1iUGpIZmdhd2Q1aUI1MXpRcnVickF0dmJtckxPbkJQTjQ1MGplXzY3YV9rbzFaV25jMHJ6bkVMcHVJakVWblV1a29pTFJSSQ?oc=5",
-   "data": "2026-11-20T20:55:24.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z4w196",
-   "titulo": "'GTA 6' arrecada R$ 22,5 bilhões no 1º dia de vendas e bate recordes",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOUQ1R0lpZzdlMkNkc1h2TTNLakxmZWRWZ0ptQ1NQYVJiOF9VNFFCTW9STzJXZ1JneF82T3V2U0d5U2FvV3VhVjFJcXp3VXJfVVA5c001ZWF4V3lfMTVFYTdPWVFWSXhwcS1OVHZxd3dCdDVnU2FJUmhnX0xuUXVrRXBkM2FubXdaZG1nZDR0b0k4NnVXSGQzSjZjNUxhZnhhVW94Rmk3bkNLV185ZUJSejMyVExsYUhO?oc=5",
-   "data": "2026-11-20T20:48:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "e8thxp",
-   "titulo": "GTA VI vendeu 32,5 milhões de unidades durante a pré-venda",
-   "fonte": "GameFoxHub",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNd2otN0NzTTlQeXFFU1pscUpmT0dnNTB2UzgyUFB6ZHBLODI5UlJTdWxNVWRBZ19JTnNERzdIY3prd0xFR0k1aUtwUFN3VkNtZl9BYmxIUHMxWWFsdEViUzd5SXY3MDRqU25ucG9HRlB3c3R3dGNkZWVUN0NlajgxckREbDRVeXJYMERRQkdEaGZmcmtSZlVYbndPeVR1TzZocHBQZ09VbE5Gc01Nek9r?oc=5",
-   "data": "2026-11-20T20:37:27.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
