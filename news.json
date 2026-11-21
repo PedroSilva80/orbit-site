@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T18:30:24.730Z",
+ "atualizado": "2026-11-21T19:00:34.850Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "pat748",
+   "titulo": "GTA VI arrecadou US$ 3,79 bilhões em suas primeiras 24 horas, e as ações da Take-Two reverteram a tendência e voltaram a subir em meio a uma forte queda no setor de tecnologia.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkNZRlRvSmQyMjVhN0N3N0R2M3pZTjJJaXdURGh6MGhCWGV1UXVrUkdlSXprZUJTQjdMLUhHazNtV09qN3FfUFU2MjRUNjFfUTZ1a1hNWUxfdEdtR1VQZzBjMlRpSk9BaVdkVmFkQUN0SzBQWFhLTmJ5VzJId0NqU2xxZWJidTl5ZmswRGFNbWZ4Q0RmU0ZqOUhmb20tZUh1OVZudE05V21OME5DV3dtNVIyNDAtZ0hVRzE3RDNfQ3RQU0lqZG14TUNncGlGbVFCQUdvSHUwWDJLQWM?oc=5",
+   "data": "2026-11-21T18:57:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "51n104",
    "titulo": "Órgão regulador dos EUA investiga possíveis irregularidades na Nvidia",
@@ -95,6 +107,18 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "crp9j",
+   "titulo": "Netflix lança primeiro especial nacional de comédia cristã com estreia marcada para 16 de dezembro",
+   "fonte": "www.radio96fmns.com.br",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUl2OU1lb2o0SnBteXVPX3Q1RmRQTEZhdnNBdGNxQXU5TUV2YWlTeFY2d3ZSWVQ4alNzUk0wUFFtVmhpZmkwTXE4dVdKRFlKbk9kVzhQbTRtd0ZrcXpjU3NTaHpfcDk2cHBtVHN1Zm04WktsSkppVGdsSHdBYnRxcUVuVnZ5UXh5OVJSUnlya2pYN18zeDhjaGZVczB2ZVVuY0lTejJOd082TVZBWHBIVEYwQ2pTLVpaeUhmSHVDS0diaTh6M2c?oc=5",
+   "data": "2026-11-21T17:04:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1815,30 +1839,6 @@
    "data": "2026-11-20T19:24:00.000Z",
    "cat": "Risco grave",
    "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2pe9xb",
-   "titulo": "Trump diz que \"adoraria\" se ex-CEO da Nvidia tivesse uma segunda chance",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNNzVxTW41SE94ZGluY0E2TURycWpOV0Q1c2laQTFNSWcxZkotcDBWbHVDSEtCRmdPajZHSnRRZ1ZORTF2U3h1NXRIMm8wWktvaFdTT2JDNzFzeUIwUUVpMWFCS3cyUnNBajJQVzFmMkZURk5MZnRocm1GQ2tsVWJTSmxkUmMwdWFPUzJUX2MwRUM3dXdEc18zNmp1Uk10XzV6RmtkRk54RVRXd3g3N2Mxam1xcw?oc=5",
-   "data": "2026-11-20T19:17:26.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mti2dw",
-   "titulo": "GTA VI: Trilha sonora tem nomes de peso como Dua Lipa e Travis Scott",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNazZvaE8tLXlVc3NJM1oxQkRTZm9Kd21CYk5ndHdFVVZ4Y0o0RzhBRDc5ZUFEbU1na3U5cUdGdDVTeEwtcW0zNW42ZWJfZHdWc3BsWktqQXAyZFRjYlFKSVhCM050aHRVRmlQcUxXVHJGQ1FRZlJ1QlFUUnZvQVlSSXJyaG9iZGZoZXpLdU5HYnpRLVB4Y2Rxa1I0SGpVNDE0bFhEV1J4ZXdySWhyd2hBdQ?oc=5",
-   "data": "2026-11-20T19:15:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 8,
    "marco": false,
    "avisado": false
