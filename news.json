@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-21T05:00:28.594Z",
- "agendaCal": "2026-11-20T23:30:24.804Z",
+ "atualizado": "2026-11-21T05:30:25.269Z",
+ "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -76,6 +76,18 @@
    "data": "2026-11-21T03:00:01.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-21T02:46:53.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -329,6 +341,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bh3dao",
+   "titulo": "Nvidia despenca 13% após SEC divulgar que está investigando práticas contábeis suspeitas da empresa",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQUG8wUFNkaDhtYmRRdmZNVEJ1a08zY3M1VTBvb0pCeDZ0NkRZczhYZzhUeHUxVFA1VVdUQ0RFS2w0cjN1cTdpV2xpT2l4SWtfRlM1dTRBcDFPWFMxVmt2d0VtRkF6YmRhSGQ2eldsOUxHSDllSndhSmdxQ1E0Q29WTEdlRQ?oc=5",
+   "data": "2026-11-20T22:30:59.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -678,6 +702,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "24f5a",
+   "titulo": "GTA 6 atinge marca histórica de R$ 22 bilhões em vendas",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVNINEdKdDVld3J6VmxYdWNCT3EtM0tGTWFQWW5fRVJOdFdpRzN5b3k5bzlhZjJkQ1p1VEQwYXk1aVRwRFZQR2U3Tjd3eHl0M1VRdkJraWhpeXN0V2JUcnBwYjQ2bTNJc1hpY0lDX3JBLUxIbmxJZV83LW84LUVMQ1dIOVRCQkdLU0h2eEZrN0I5VUpGYjNkTTgyMUl4TURKSTd5R3l2Ym5HZw?oc=5",
+   "data": "2026-11-20T20:08:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1787,42 +1823,6 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "genv1o",
-   "titulo": "Por que o IPO da Anthropic não impulsionou o trade de IA e o que vem a seguir?",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU0QtRlMzbDNmUmVJRmVvSmQwY3VNOHVJQ1Z2SUpIZnFUUGR3YVV3T0dUbnR6TmE0LUR3Z095Sk1YVVNJR1U1bnZvY1BNOGZPcEQwcEZOSlR6OHljUDRuUGdCWUUxQVRuWFNnVzFWZzhwMUVhMEpLcjVfUXVOaHU5YzhPMlNrUDhPWDFEcnFGdnVmMWliT3dLS0E3ZXNOTnJJZHVESHByOHMxRGxsQTB0MHZZY3Jfdk9OMHVxeg?oc=5",
-   "data": "2026-11-20T13:05:52.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vemelh",
-   "titulo": "Novo easter egg de Red Dead Redemption em GTA 6 sugere fortemente que ambas franquias da Rockstar se passam no mesmo universo",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRWtYQ0JXcDZabGtaMTdzU05qU1VnaElnOHYxenk2UlFDVENqWURJbUNRZW0tYjNBVVBUUTRSR2gxTVpqUUdNX25GTjFBWDd4R1dXQnZlRzhDc3d6alh6aVBERS1keGlYSlRSOGpMTWh6U1hyel9YV1pSUFBzdEVqeE5FTlY5aExNb2V6MEhURmh6VWc1eUJhQUZOekFaamhZbzNkY1hubU81SV9IelFUVXZwUXlTLXpKaDFRUWdFUHF4TmpjZjRudmZUcDRZWURENEdrbkxYMTRkajRPeE5J?oc=5",
-   "data": "2026-11-20T13:01:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cw9i83",
-   "titulo": "Anthropic (ANTH34) estreia com recorde: veja quais foram os maiores IPOs de 2026",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zSTdOT1NsaVJZN3d1Q0xQSWxudHo4eUFvZVZFN3AxZ2FMRTdKUEw2UWllZXEtVXVfM1gxNUhVaUF0REdfak5vZmN3bEszYUd5bEE?oc=5",
-   "data": "2026-11-20T13:00:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
    "avisado": false
   }
  ]
