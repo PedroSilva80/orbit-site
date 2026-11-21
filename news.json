@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T00:11:17.769Z",
+ "atualizado": "2026-11-21T01:00:31.316Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "s63ulk",
+   "titulo": "Investigação A Influência da Petrobrás na COP30: Como a indústria de combustíveis fósseis coopta a COP",
+   "fonte": "Esquerda Diário",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUZVLVRKWERMTFUzV0NOX1FNOFkyd1dEclZuSHFMTU9pcUh3bVMxcVpyU1RaVlBuaExCOHlGa2pzaFhBcGpmQnpQRnVVTnljTE1LMjYxV2FySXpQaFVFT09pQ0xhbWxHd24wM1U1T1F1T1NjLVNQS09DbWlRUnJTNU4yTEtXY1h6RV9UZ1JYRHREeDFwSzFRMzc5VEh4NlRTWHRfWlg4ZnVOWWtLUGNJVERQTlVScVNvc0tZZURSWQ?oc=5",
+   "data": "2026-11-21T00:24:57.000Z",
+   "cat": "Risco grave",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uhdmtv",
+   "titulo": "O que a oferta pública recorde da Anthropic diz do mercado de IA",
+   "fonte": "Nexo Jornal",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa09KV0tNdjYyY3FuMFpGbmlUTjRucEJBWGZuaTZ4QWh1VkhZamlldmpGLXl6eFJOSFFtNmhOWFhJS0VWVUtRb3hVQm5xbjNtMzBXdWprc3JackN5RktOaEhteGpXMm5JQ3FfQ1l2NjZxMU90cTZwVmxzdDZOWE1md01DSFhIYjlPLTA1Qmhwbjc4MmdZX3BPaEdqY19LZFNN?oc=5",
+   "data": "2026-11-21T00:19:29.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "36llct",
+   "titulo": "Nvidia | Ex-CEO humilhava funcionários para fazê-los trabalhar após ficarem ricos com o boom da IA generativa",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHVpU0tQWkdub3l3MHJkdDEyN3llZnVjQlVHN0JMc1JQNlhpa1puWGRUN19sOXo0SmJzS1dBMVNFRVA0OVpqU2UwYnpKUGVqTDJvNXptX3lXeno0X2g3bWRUWE5Yd2x1eU1iQUR6UEh6Zk44RUxmXy03MGd4Uzk3ZllNLUdBNVZuWE5QV3JhNkswNFVaNGZfQlYxdDAxcC1UMTl2a0NrZl9oUFJPRnhNQTB5am5ab1dhVldTWnE1bXloYUIzWldTQw?oc=5",
+   "data": "2026-11-21T00:08:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8w59g3",
    "titulo": "GTA VI: como encontrar o Pé-Grande e completar Em Busca do Pé-Grande",
@@ -316,6 +352,18 @@
    "data": "2026-11-20T21:10:45.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fgrpcc",
+   "titulo": "“GTA VI” ganha álbum oficial com Dua Lipa, Cardi B, Jennie e mais; confira",
+   "fonte": "Tracklist",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObHRwb09iRGF3c0tLbFpaU1JZQS1HRXhScWZYbEZabTM5NnFzNVVZOG00MTlZVmt6VHRzcVQwOEd3M21TaHA2elFmdi1oQUFpZU15LXItUVFuYjcxR3BmRGdrSkZfMEtWRWVsd1VyeXU0R3BhNURIanotaFFJSm1VaWVEYWJ2UkVVY1k0MGYtbDdGUjRadWJGMUhINA?oc=5",
+   "data": "2026-11-20T21:08:17.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -787,7 +835,8 @@
    "empresa": "Microsoft",
    "score": 9,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795222831316
   },
   {
    "id": "z7stzj",
@@ -1208,6 +1257,18 @@
    "cat": "Movimento",
    "empresa": "Anthropic",
    "score": 5,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "2aa0z",
+   "titulo": "IPO da Anthropic: Análise da estreia em bolsa",
+   "fonte": "XTB.com",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSFctZGxqLXByMmt2ZnVrTXhBdzhlZXAwa1R6Zy1PbmJzOXdCTlhscXhZVDNnOEJyZEttQS1wNzFLaVg5NHQ2NDYwbmhCVFpGc2lOeVlxZmVQTi1EcGcxQWFDLXRrVEZfOGFQdU9HM2pENkRSeW5FMVdRQUVXbVkxM09QR1ExdDVnTGlGUENnNGtmMWlNYTkzdUxVclVhVVB0Q0NGVjRpV2l2bVlZZFVsMmlUVlVveVd6UDd3M3kyRzVvcFVqZ18yWEUzRy0tVVhKQ3MtR29aRQ?oc=5",
+   "data": "2026-11-20T14:08:30.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": true,
    "avisado": false
   },
@@ -1764,67 +1825,6 @@
    "score": 7,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "h5hvjp",
-   "titulo": "Bitcoin recua para US$ 61.944 com resgates de US$ 582 mi em ETFs e IPO da Anthropic",
-   "fonte": "BitNotícias",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSzlJNnBRSHhkYk9vUnh6ZmdUS3dLTldFU0w5TXFxWFVlbFNneFhYNExNVllqNjdYaFlCY1VoX2FTOTNHNDdyTXZJZVhtUENtdnJvOWFzQVJqSXBJSnZsRGZ2NUVkMWhIemNXRkFMSFY1enBObGs0RDdoanc5M3EtbQ?oc=5",
-   "data": "2026-11-20T11:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dky5wu",
-   "titulo": "Bitcoin oscila perto de US$61,8 mil enquanto ETFs registram saídas e mercado reage ao IPO da Anthropic",
-   "fonte": "boca.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zdDdORkpGTGlzSW9hQVROdHVDbFVSejN1OUo5WUs3WHVhRkxQdFYtVEtQSDNZTnBrLU80eTdGX0YzWnBPTFI3VGN3Q3NNZVpHUmZTMHNvdTJfRldJQXhWaUpiU1FjbnRlZXNySFp5NkRUNWJVc2ZmRjl3?oc=5",
-   "data": "2026-11-20T11:24:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hzr7l7",
-   "titulo": "IPO da Anthropic: lucro precisa sustentar valuation de US$ 1,5 tri",
-   "fonte": "Sala da Notícia",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekpiZWVGUFFfOWZpdVNmSkJ4d3BSdEQ4c0lEeGRqTW1DcjJuN3FsX0hCcmk3S3BYb3dMcFE4NzJSbVo5ZzZidExmdzlHWGR0Nk0zWUJLMk5tVWNlU0RVck8xdVVnbjdlc2wwZVo5NWdLMFBuSFk3clpkYVYtN3lJQ3AzYzVOS1ZfUDNVOFF0NTlzUmdCLVJZYmVLMkpERzZra1V2NmxDYTRleFRZLUpXUzRWMS0?oc=5",
-   "data": "2026-11-20T11:10:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10aay4p",
-   "titulo": "Doja Cat diz que Rockstar partiu seu coração por ficar fora da trilha de GTA 6",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9XbmlienIzSTZWaDVxMjFZNml4amprU1k5VDNXY1E1bDc4RzgyeGl3dTdMbmxkNGZCOXFxeUxBUWdmekpuTFE?oc=5",
-   "data": "2026-11-20T11:10:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6p19wd",
-   "titulo": "Homem é preso por posse ilegal de arma durante investigação em Suzano",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQVUNPTWFMWnEtZHlXU0pLT05aYzdhMGVtakl1di1JQmVqbGh6STlHQnhTY0Y3Z0dQcHdoZmFPMUhaN3JJejluZXRlb0xsMkpxTHlrNHk1QktheDlQaFVTT1JtUDlSb19NWkRDU3lfZ0pVZjB1UmxQOEJ1ekdNeHprWk1rVm50RlI2Qk9VRW1pVHQ1bEhmN1FoM1N0cUxzWGxmSFFsR1JNQlFMSW94LW1HekVaTG10TWRYSzhGQzVxRFQ2U2ViQndjZWN5TlE1YnZOWjRaRnFKSXVaQUNDa18xbUlVLUNYT0s3dmg4U2JuYVM1aG56aHfSAYQCQVVfeXFMTnIwOXdQQmVYcGtvcE9kbm9EUGxNU0RPVGtEVE1iVnN6ZUI2OGdieDVjempUZ2pSaUJ2MkRRbHlKTDZ4bjlyaFl3eGhoSnZOUld4Q2s4bEhtejdvbk1fQ2JFaXd3bVMycGRURElKQU9RR213Q3paWDNuVUNXZ0hIVldIVk95blNpck1RVUNUQXZQOEhXejUxYTBtQ0RBTVh5TTVMdG82YmZXZ1RWbzBIQ0FaQXlKSWYzSUlxUW5FSUdMV214b1F6cTFyX1JWU05Qb2dzR0FYc2VqQ0JIbG5NWjBOWWl4ZUpPTVdGYTlXVjhscGZDdVo2WjdqOXV0Y1RkQ1dTbFY?oc=5",
-   "data": "2026-11-20T11:06:21.000Z",
-   "cat": "Risco grave",
-   "empresa": "Suzano",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795177829203
   }
  ]
 }
