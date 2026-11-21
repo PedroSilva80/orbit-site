@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T20:00:29.240Z",
+ "atualizado": "2026-11-21T20:30:26.633Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "tiwj1b",
+   "titulo": "Nvidia tirou Singapura do balanço, e agora SEC mira sua contabilidade, diz agência",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMV9NNFhqa3lwWmsweUludTk0WFNwUnpkbUpKeGFnUDVhQ0xtbU91X24yM1NjcXFIS29hbEJTMlJWYk1CaGNOUHk5cXI5UzNFM1RhbHYycEhsNUpleVJfVmRfLUxyTHFJWVB1Sjg0QlhfQmVTVndRbkU4WVotLUhiT2cwb1FaZ3FMLXZVVHN6ZXFYRmtDV2RaQTVRYUE2bkJuMVJEWkxmLUl2YVJBWVVZeVZibmhOdw?oc=5",
+   "data": "2026-11-21T20:19:36.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1hq4vpi",
+   "titulo": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0hmdWdmdi1oYldrM3hreVFsTGRiQUlvZ09BQkJsWGNlelV0YVpGMVFkenh3RkVOSXJPZW94dUZ1WG5lZ01vZ285djBRcmluNF9hcW9Ib3ZQaTZVZWk3Q28wNkhzWHlRNkw0aDN1SVRlTnpCNGQtN2xxbE1CLVhGYWdmV3NLM1lSd01RWWNuZU1kV0xSak9CZzd1V3lqZ2c0RTRiSDc5QWhXdDRaLWJ6X0xmSGZMeDdiYUpLWmo0bHVfbjdtYnpMLVVPaWNhTTdjbkR5eWUydTBBcW5pUHEwckxR?oc=5",
+   "data": "2026-11-21T20:16:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "p165fn",
+   "titulo": "Guerra das plataformas de streaming está apenas começando, diz co-CEO da Netflix",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTEteHAwd1pWR1QwM2RkNkExZFpLQXY0V1hyV2w3V0ZNVXBZSkQzdV9nV2RtQUNGS3Z6ZmQzVEJTNTJjS05ScnZ4OENJUW9Wb0dOWElBMU9ITTJ0eExKUGdJT3VsdGVILUJkdjJRdTg4VlpGamRMazFfb2w1U0lSbC16Y1ExUzZtemthcE5VUFg0S2lXTVBBclg1OWdzbDBZYmtIdzZXazhrbU5jbVlJamVnUnF6ei1pVXFMQXFZZzBtUVlZSDhDdNIB3AFBVV95cUxORFQ2eWlvWXlpSmh3M204TUVTT3ZXYkRTRGY2MmtYUEx6cnlsdXduWjhqeFdyTU55b29lOWh3b0xldmhYODVqUDktalE4aVFuWXFWMndOWi01aWhQN3JkN1pPU1JoQ1hNRkRxbElsckd1U01tZU9MMWd0X0dxNG4tNERTbjhJUWdkMXVhd3pHX3dmckFxMXlUVFlRQmNnT09LYU8xZmNxb25nZ1VMeWQ5MXhJMzd2MzU3VFFqYUk3RkJVXzV4QnV6Z0xqUHIzTUtJOGlWckJsRGFORXp3?oc=5",
+   "data": "2026-11-21T20:13:05.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7zkii4",
+   "titulo": "GTA 6 soma US$ 3,79 bilhões em vendas no 1º dia e 32,5 milhões de pré-vendas",
+   "fonte": "Diario de Pernambuco",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV3RtZ3NwMG5zVVlfVDR3ekVxTlF3aEhzM29UYnhqQm85SlJZb3J0RGRjRC1VcTRXanZieWlMenNTeF9wR293cWVPRWtYOS1wOVhSOERWalljRlhlV011QW1fUHdNT0JEdmpIU1NiT19WZFBNLTZOV3RvVDl1Qmx6NlJ2MXRYX0tqeVVSNXpnQmpuUVAycE9DczZaVFpKOVBuVEYyZGtDOG43UmI4d0UzdVY1bEJMbE9MbWl3Yjg4UkFWV1g5X1JycG9laU11UzVBRTRjQXpfMTRZRFJ1?oc=5",
+   "data": "2026-11-21T20:04:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12zkcqt",
+   "titulo": "SEC investiga possíveis irregularidades contábeis na Nvidia",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTUk2LTRUYS1pdzg2V3ZQTlN3TWptbWRtdVhBZnM5bFFlMWY4LWdZbEk2YTVyV3BoNTZwaGplNTJlRWdhczR6a3RpM2NyXzRub0RYdGlyN2lXWlhoR2xycWdtN2h6R2NOU3VpcnYwcFhMTW44dFdzVDVtVmQzR2Jod0YyWVpveFF6dEFUMUVBZklVTXdrbXFVR1Z3?oc=5",
+   "data": "2026-11-21T20:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1dbun2h",
    "titulo": "GTA VI | confira 10 easter eggs e referências escondidas no novo jogo da franquia",
@@ -398,6 +458,18 @@
    "avisado": false
   },
   {
+   "id": "1r4cecl",
+   "titulo": "GTA VI: todas as armas lendárias e onde encontrá-las",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jSkdNSUluY0t3Sm9sU2l0d0ludWEzRkR5NGVMRTZMbzFmVEdQTHBVM2xOal91Ykk0VU9wd1BlUk1hVnA4R1Q1RTRhYW55WGdsZFZPMm02dS1sX3hSc0Ewa0dWQzlBOG91enp2MV94SXdkNVJ6dG9ERlBMMG5xd28?oc=5",
+   "data": "2026-11-21T14:04:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "fjkr7l",
    "titulo": "Rockstar criou uma moto italiana só para o GTA 6",
    "fonte": "AutoPapo",
@@ -503,6 +575,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uoqtlj",
+   "titulo": "Por que os jogadores não podem trair a namorada no GTA 6, segundo a Rockstar",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPS2VRYlQwZjE0TTh4cDNQaG43NjJSRTlVZVRzcDB1Zl9tTGdsM3FCaFUyRE9LQ3V5WGJ4VzJXUVNWSnNrS1piX01fbTd0M2kyTjc5dzYtaUFQeF9GRkQwRWNnUnNOTV9SSzhBSzZZeHI4TWFMWTNRaURXdHBUcExVQkZBdXlndkVOMXVGOTZBYWN1LWZWZGx0NFZpUndvSmdtZmpXZHZXaFBiWWF2SlktRkxLSUFGcTByRi0yUlRn?oc=5",
+   "data": "2026-11-21T13:23:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1756,90 +1840,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "24f5a",
-   "titulo": "GTA 6 atinge marca histórica de R$ 22 bilhões em vendas",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcVNINEdKdDVld3J6VmxYdWNCT3EtM0tGTWFQWW5fRVJOdFdpRzN5b3k5bzlhZjJkQ1p1VEQwYXk1aVRwRFZQR2U3Tjd3eHl0M1VRdkJraWhpeXN0V2JUcnBwYjQ2bTNJc1hpY0lDX3JBLUxIbmxJZV83LW84LUVMQ1dIOVRCQkdLU0h2eEZrN0I5VUpGYjNkTTgyMUl4TURKSTd5R3l2Ym5HZw?oc=5",
-   "data": "2026-11-20T20:08:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1a0fvjq",
-   "titulo": "GTA 6 | Mil funcionários que trabalharam no jogo estavam na Rockstar há 10 anos",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQXlHSnozUDZtVEU2SnlLd0plMUVqT21JWGQ5aWdOLVE4Yk9lczNtbzZ3YUJNZFVUSzJGU0VjSExNdFJyOXF2RGVleDNhODhvcks3WDRZaFpldjBaWHBfZzNpS2VRSEFkbm9GOTd3Sk85M3JidFotbEducHJqM3kyRGFfWmVLd0oybFZmMmxFOHRvTFVGYjRWbHU2cU9EVDFwblVFeFJKT3hmUQ?oc=5",
-   "data": "2026-11-20T20:06:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "172fpai",
-   "titulo": "Ações da Anthropic caem 6% no pré-mercado após estreia em Nova York",
-   "fonte": "Jornal Opinião",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQekM4by1DU0FEUkRaUzROYW41djZodUppbEdnVXVsN053QThGd2VNRG5NdUw5emVrNVBic3R3SGZ2VXo4SW9Jd1VVeUE4NENjejlUcGlMQUNSVnJhRWZmVFpQcWlHMFc2V2I3RVEtMU9QQjFzbl9vMEhWWVU2MC1SbDhncnE1bEFpMi1oVTVaelh5dGt6RXQ0Yg?oc=5",
-   "data": "2026-11-20T20:00:40.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "18e63xo",
-   "titulo": "GTA VI bate recorde com US$ 3,79 bilhões em vendas na estreia",
-   "fonte": "Legião dos Heróis",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSDFRNEtqWFcxWHg5bmlBek5QYU5UdnhTcV93LTdjMHJDWmJFa3R4Vk1xbGp1SXI0ekZkdVFwUmZTMEhsS1IyTUNoMy11ZDVFQTNvRHVhRHVUV0FmVzBIeUNQQng4YlF4VHprdHp5M2dBQlNXd1hUUE1HZVdLekZRLVhaal9DXzllYjFVUjk1RVJZMmFsLUkwRkhtR3NjMzBWbHdzWWZjVQ?oc=5",
-   "data": "2026-11-20T19:58:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "l7pvqw",
-   "titulo": "SEC investiga contabilidade da Nvidia em meio a crise envolvendo ex-CEO, dizem fontes",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMTVnZGRYTHhubnVudWxoSFplblRPSFV4VGhqWW9jYzNxbVRYaFQ4YUtDRDJNVnpoWTlTVTRlVWVhdTJVQWhWejJ6VGc5SHd5Y1RRdTl4Wk5ONmhMSUh5OERHMU1zMWF5Wl85QTByMVN1dEFLR2lfNXh1VWF3ZHlJWGllaEU4VDdNWkZUbE5weEJMU0w3bVZVVHctVEdPcUxOcXZDMVk5Y2F2Y2NvTE9LY0IzYlRTWE01R1I1ZGh4TzNGNTlnc2JUUDlTbERHSmlhNm1YaDBmSnZXQdIB6AFBVV95cUxNanN5R1IzNGdVNHF4TG1BSElQSTU0d2hmbDFOQWJIak5wOUNORDFSRE1PdmNJOGM1WjdEV21DcVRNLXRlZFNtTWpXUm1XLUJkOWpRMklsYXdRTUhIMHVQVVM5eWVjYnN1ckxaRGFic1FUdTVvQUFNaGFoT1pPc3dReWRYbXh4dlk2ZUtDeEdyUG9iTXJJMDRaU25FYV9FQjdKQVpLaTIwQ2F6LTlZejFvYzlYQ3d4Tmh5VmU5YkZWTXRLbWk5WkRzcW1Id1czdzlJajFnLUs3NVRiOHE4eHkxYk5pR0VFY1oy?oc=5",
-   "data": "2026-11-20T19:47:16.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1oscy5k",
-   "titulo": "GTA VI registra venda recorde de US$3,79 bilhões no primeiro dia de lançamento Por Reuters",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQWpvMU1KUkFwWlBlTkQ3eC11VGI3LWh4dlpic2VtaS1SQjcwQk9UdmNyeERESTI1R1lPYWpGWEZnT09NT1U2WmpJNlhTUi1CYnJtRW9BYWN6ZEdpQTdVbGVkOW5jMGVYRWU5dzRoUTRmdWh4aU9MaUQzTUUtaHhLVWJUZnQ4OVRWZlJYT2JoQ2I0Sl9Sc3JYMkc2WjNUQmkxTTRkVXQxTS0xQXd5ZlJpYmhMa2taQ25lQkdwS0NneEN5c1EyVmtlbEFmbXo?oc=5",
-   "data": "2026-11-20T19:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w4liu3",
-   "titulo": "GTA 6 vende 32,5 milhões de cópias e arrecada US$ 3,79 bilhões na estreia, diz Take-Two",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzRxM2hVdzNHRmlXejRDSnMwMHVuV0lsQnZZV1pBTnhQTTcwRS0ySXc0TGpvc3JUWDlYUW1CRkd6WEZ3bi1UT0poaHdWcEhQLVBadng2Mjg5SENzX3RGZ2taLW5BWExsblVPSUJmc2FGMkZqQTF4MWw1bGVsa0NxQndtd2x4QURCSWZHSV9uTFhiN29xb0dBbTE2b0E1V1d3b2pTNTNoaC11NzRfMlRmd3JR0gG3AUFVX3lxTFBtM1lDYzRsVFJhem1QcjhDUU1SUlBKNlU0REpLTzhtRURNcWxWLTZYbmVzcDRwR2VUdW9yeFk1bmo2RmJvb3ZnaDJhZ1ptY3NqMlE4eXF2RXAtUTV1NTRsN2FLQ1JHMThyWnJKSzcyXzV0dk9LNHotRVgzeHpoSUQxYTAzT3NxbFZZUlUzU19GOXVLNldXN3l6dDU1Uk5YOTBkWVFkRXVWTkcyYXEzRDY5RVlyNm9HWQ?oc=5",
-   "data": "2026-11-20T19:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 8,
    "marco": true,
    "avisado": false
   }
