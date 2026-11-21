@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T20:30:26.633Z",
+ "atualizado": "2026-11-21T21:00:29.830Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "l7j94y",
+   "titulo": "Amazon negocia compra da startup Decart em acordo bilionário para ganhar eficiência em IA",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1M4enBicUJJZjNRSExlRnFxS1YwaHBfMzdDMEFQS0FZZTBrTUpvanZIVDhWbDJNNVpyQjh6d1pPYnZjeUlCcnU2bEhqUGhGU3QtYVZodjZ6Ymw5WFpCVi12dzRKM0w3a29nUkRheWxQcXhaRVZyMmhZVkVGdmlDY0lIaXpEaWl5a05GYnZPOHltaXM4bWs4amx3SmhkdFp5NkMxeVFTQWJ4d3A4TEZucWl1THVoOERoY3VGclgtQ0h0cTh2eGExS1BXQzQ1STYwaUxOTTBrdU4?oc=5",
+   "data": "2026-11-21T20:37:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Amazon",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tiwj1b",
    "titulo": "Nvidia tirou Singapura do balanço, e agora SEC mira sua contabilidade, diz agência",
@@ -1146,6 +1158,18 @@
    "avisado": false
   },
   {
+   "id": "n5dx6p",
+   "titulo": "GTA VI registra venda recorde de US$3,79 bilhões no primeiro dia de lançamento",
+   "fonte": "BOL",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVNaUnh3ZmRHWU5UQ3dLNkloLW1iajNfWFlDMkptM0NGWnFoYXlHT1cwM3NGZEFZclVXMzNIUmRGQUZMRUdwTjZlNkdDdmJtMlFtbDF3cmJPUnRldHozTmxGcTl0YUc5aU5QSjdTQ1RVMzBZMXdZSXZnd0xFa210MExoSzdkMEZvZExkYkZqZTRpejQxMnR2NThobGF4YmlxQjNFWGhnei1RbUJKclFSeXFnN1h1bV9Qd2ttWUhZQTJNTHRXeWl2YdIBzgFBVV95cUxPRW5OeXlRTEVNTC1MNVkxOG1qNUZFdFZZdHNwNkN2TTlHck1vUHZpQmw5LVctTkRRUUZzRlE5SXMwN0pBek96cjNtY0otNUVRd25GSzRNeVJIcDJTMk5EcVl4c1JBMWJiRUVlRHdwTktyRVNSOUR0eFlZTTUzZ3dBSzJaM1JEMXBwVjZFM01QV2gyYXI0LU1fczFmN0tJWkdMR0h3LVBlS0pGeGVLbzQyZ2dWMzZITG45WXpnY3g4Vi1uSVVhSFhtT3VPMlNiUQ?oc=5",
+   "data": "2026-11-21T02:02:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "sb0fmq",
    "titulo": "IPO da Anthropic atrai mais demanda de investidores de varejo do que o da SpaceX",
    "fonte": "Bloomberg Línea Brasil",
@@ -1817,30 +1841,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6ve6m0",
-   "titulo": "Unha gigante cabelo preso e bronzeado: o que a estética de GTA VI diz sobre as mulheres do jogo?",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdXJJS2lWR2RjSTN6U1hha1VXUjVPRVdraC1XS1NLcTJ6Z2lQaG56MWF6amxBRmp6MEpvblppaWl2T2dLNllTSWxVai1mNVJxbndZMVNBRVhiY0tNWlFSRndfRTZhWG8?oc=5",
-   "data": "2026-11-20T20:21:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jyszk2",
-   "titulo": "IPO da Anthropic: ANTH34 já devolveu a alta da estreia?",
-   "fonte": "EBC Financial Group",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzEwUFQzeUFqTlI2bkdxSnhERE9HWHBmMGVSRFFIdXRxYk9jSXR1VmRrclJsQWxyVV96LW1MelVZcHNRWXVvaTJIWFJ4aGRjNjUyUE56Q0dhekNoZlFQaFR6TzJlY2FHdWF0cnNpYThySlpRVGRKRlUwaXVrUDNKUFNldnFXSDFk?oc=5",
-   "data": "2026-11-20T20:14:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
    "avisado": false
   }
  ]
