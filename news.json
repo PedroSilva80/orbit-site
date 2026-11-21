@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-21T11:00:30.358Z",
- "agendaCal": "2026-11-21T05:30:25.269Z",
+ "atualizado": "2026-11-21T11:30:27.530Z",
+ "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -37,6 +37,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1jtjn2b",
+   "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
+   "fonte": "Expresso",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmNRa1pXRENWeTk1ZjExcHdrZVhqcm5tQXJqbzFWTzRmR3FNTEVRT01OZTR4ZDR6d2ZYaUo0NkE3amt2VFN4MWdZWHJFVUdOb1B4aUpTR3NHWV95c19EQS1qdDNkZUVtOWd0bFh4ODNvaUJIVEhPbDhmS0JPRGNpOTZiekxsMjNJaUplUVVuUF9KYzZFUks0dUdpaDZBVk9jaGp0ek5RanE2QlNuU1BJZkFxdFN0N05XNzQ2OXlGQldybHBJelQwVTlNVi1WV2hEQ1E?oc=5",
+   "data": "2026-11-21T11:24:06.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1jh5m9y",
+   "titulo": "GTA VI movimenta R$ 22,5 bilhões em um dia, valor superior ao PIB de países e próximo ao de estados brasileiros",
+   "fonte": "Canal MyNews",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzBSYjI2eGVuN0VzUXpTNWJXMURPVHJybUg1Qlk2clBSQXRFQks3cklmOFI1ZU9FUG9nQlJwcW42OEJEWWpHTEEtMjBqcWhHWUFqWVA2c1pHbmpvcTB6MXN4ZXJPZmJHOFJCd1pnM045YTlzdk1hdFZESWV5MUFBTU14MEdSSklWS056aWFWUWlJU1lEUS1DUVh6U0NoUHVyaUtrdnJqenNpbGwyQkJJbFk5dEJUUlhGY3AweFVRNmIyRy1DSFR5Yjg5SjhHNFcyMkZDODF4SjdHUXJZSW9LOGpsVQ?oc=5",
+   "data": "2026-11-21T11:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "u9pow2",
+   "titulo": "IPO trilionário da Anthropic: como dona do Claude ganha dinheiro e enfrenta corrida da IA",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdENLU2RLX3ZibnNfRmdkcXRLTjlJM09nZGxiRHZEMi00VFppdDhhNFRKcVNyVmp6VmJRZ3BKMFpJY0pyRkR0Z0tUd1JlWUdFUzNxSkZYSThOc0QteTJWcjk3TXlzZTZfelBvUjRKZUhXM2pVdlRycE52NGEwbl9KbktHZU1wVnlPVjlHU1ZFQlhBNzdEc2lJZkpuOA?oc=5",
+   "data": "2026-11-21T11:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "185z5ys",
    "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
@@ -1804,42 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "Google",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "v8uzdb",
-   "titulo": "Ações da Anthropic caem quase 10% após IPO histórico, em dia de onda de vendas de tecnologia",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWlPbC01NHFPMXA5VkhvTEpvV1I5QmVqXzdYVTNsTEtrYno3NW1nQktReW82cTRFbkZGQjl3Qk5SLTdOaVNCemYzOXV5THZCdXJ6R0dhSG9MSFUya1ZOMVNZQkpNUG1WSEl6cWNwb2FsMFNndjVpdUlfNF9Gb1RyYlF3dVFzamRQSldwd0E1bzlTblhDT2NEdEx4NHJEd05LanFzVWhfM1NSdTQ5WUYtTEx30gHAAUFVX3lxTE1FWndjd29fWVhIMlhOMjRZWE5yWXZBMC1wOXB5T204T0tDdXB0cGFDTE9FOFJjUmtmeXc0bnZxTW01ejBxTDFiWnNXLU1sSkVFMVdoYUxBQWFTaTNYYm1jYVdEX1BXcS1QMm9NTmNWQ2pqblBwcFY2ZTd3a29lRTc4dTNLUHIzM2FSd1BJTTk1dEVrY2hpckpIVmZkU2x4bHhXQXlKTWs4VlpKWGMxSmVzd1FnRG1PMklPelpTaXRLNQ?oc=5",
-   "data": "2026-11-20T14:48:57.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "e5crau",
-   "titulo": "Bitcoin repetiu padrão de queda antes de IPOs, aponta CNBC",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN280NEJIaVZPQklxVDBTUlQ1VnBERmI5SXlfZmEwdzBBb3JLeUFkYkJIazlSaUZlMDQ1QVZEckdPNHdtRWVlWjQ3WWJLMDhFSGYzMmVJNG92dnJtNDdidlpnNTFDY3FWOUpZRDdrT3lyTTNXcVExUmVXdEV2QW94bXdCdlNkVEVuVlpHSkQxN1pIMmVvYnJvNldEV1VkOFVK?oc=5",
-   "data": "2026-11-20T14:48:48.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dvcysf",
-   "titulo": "IPO da Anthropic alcança US$ 93,5 bi após bancos exercerem lote suplementar",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVC1KdWFOeHAteVNLMVlUZnl3WkVRT1FZVFFHdHhpNW11SHhxS3U3MllneElMV3ZOWlhIYVFBZmVqaGJhTFRERWpFNGgyazBrSV9HWFVGQ3lyTGtKUEViVkJpSGtHRERvQU80RlEtZXdhWWFnTURzMms3bjk5bDFMY1U0NHZQWUU5N2hYSktSandsVGFrSGxOOGtXRUNZaDdQcy1nZ2NsSmRCYkU3YUZWU29odVFoQ2d6cUI0TUZKR01CS2pTWGxUZGNqeHlYSDlVUnlPSkc4YXI0U2NiOGRRem4tTVU4Zk9C0gH3AUFVX3lxTFBaaF9CMlZ5QXFGejVWUVktNHhFR0xESTFKVDhGak1zNDROZmoza1dsWWtjR0tXeFN3VFJ6TjdFR2h1M09ER1AtUmdhLWJOaWN4aFBrZE9FNGQxUU93LXN6LS1GRlAzdmxvVS0yZzgwNDQ0endBT0VWZW10RlpMTUdQdEFmUE1XX3lmbmF6X3MwZ1kxdXZyS05wSTd3YmZOZkg1bTB0OUMxWTUteHJBNU5wRjMtdkxVaUdfU1RrMUFqQ0xvM2RIR3NuRTFFYUNCeFpqdUhTM3JLTHlMRXBKYWJVU0VMR3lQSjN0eV96UGxmSGVyNG1ibzg?oc=5",
-   "data": "2026-11-20T14:42:52.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
