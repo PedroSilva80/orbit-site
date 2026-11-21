@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T12:30:25.342Z",
+ "atualizado": "2026-11-21T13:00:30.146Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "2o1d4f",
+   "titulo": "Ações da Nvidia despencam 14% e registram sequência de perdas semanais mais longa desde 2008",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSEZRTklQUHl1MVQxN05JSkgyRDBnR3ZFNFU4M3VfeXdoVEJINmVIYlU5YnZYUWFMYjJzQU9DYlQtdDFLTzJ2bjNjZlRCQ0dDQW5zX3ZGOWRjN2h2SERoaU9Jd0o1QnBFaW1QSVU2WlJ4ODVHUFVSN25va3liVEgyQmJnZ0JHa1kya2UydWVockZnVDh6MHNwT2lQUW9LNkpEdmpUTUVDOUFnRFc4bFlkSU1YYl9mc1daNXFIelZlTHZ1YTV4LWNjcEgxRU5SUEF6c3BsMEtRUzNCSU5uc0Y2RnNZVGFONlA5X2lkc3U0TDhCNGM?oc=5",
+   "data": "2026-11-21T12:43:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9q5t6c",
    "titulo": "Nvidia cai 14% após notícia sobre investigação da SEC",
@@ -95,6 +107,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x97k0z",
+   "titulo": "Inadimplência do agro derruba lucro do BB e pressiona ações na Bolsa",
+   "fonte": "Portal Piauí Hoje",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFNSUUNPdEpjVnd3cll1c3g0OVk2REUyUnFwR3lGaVNZYUJfVXhXNkUySk55aHFZTnVHY0Y2NHlJWk1UTDVSQ251UC1mdElESkFKMzZJREFQZWtvUVpzXzR1ek9fN0lpT2pzRXk5Sk9qdVA2S0pmaW5LQ2FyWEN2SXZoQXBIZnpxN0NpV3J2dEhKN1BWVWRla2Z5M3NGcnloTldZTFlsVHAwZUIxZXljVl9xakJlNF8xN01zQdIBwgFBVV95cUxQU1gzOURqalpVRGJfOHVTS0dVNnlGWThWQ2VNUEUyNi1zQm1HRVF0ejc2aFZocExpRHZuTGNVSmdWTmpvbjNrNlNKU3pmRDY0OHd1Z0N6aWRLVGRvaEQ3cVJSTFRfM2pDamhKZFU0Sm02Y2RqU3dVRnVuWXVqd2FCZGR1TzZXcUk0cUZBdFdCdkVDd1M0RlhrZnhHTlhHSFlEMlp6N2Q4UmtZbzB6djVWakNDLVkxMXZOckFXWERrWWotQQ?oc=5",
+   "data": "2026-11-21T11:37:45.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -360,6 +384,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cg40cz",
+   "titulo": "A oferta pública inicial (IPO) da Anthropic supera o recorde da SpaceX.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vTGVTNHc5cVMtR1dUTjEwQmg4SWpHSlgxZDBiTUxmRTJOZXlDLUxhcUVyX3ozbGZ1ek9CbURrYmpHMkJaajBieE10eXFxZ2wydHJCaU5DZVVNNUotdGFKaTJnREhVcU9hWmpyVE1uOVQ5WkJO?oc=5",
+   "data": "2026-11-21T02:57:57.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -913,6 +949,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ejbjng",
+   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
+   "data": "2026-11-20T20:58:35.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1792,54 +1840,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1b2x1ff",
-   "titulo": "\"Estou amargurada, c******\": gamer e rapper, Doja Cat fica xinga e implora para que a Rockstar coloque alguma de suas músicas na rádio de GTA 6",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNR28tYmJ1NTY4cWZkdF9xWWRQVElscVBvRnBUempZNWMyV2U4OExoSVRzMnpCZE9DbWw1MlNmUklvMTIxajBPWW0yanROVGlPX3FFWlNHV0dNS21sbTNrOXhGRUxGYmtITWRIU1pnRHh5WElsOGRDNURHUzVKaTE3M2RWY3pCWm11cTJneWV6TzBOcXU5YnhXbXp3QmlIeEpXQ2I0ZFl4N1o2M0pna1lFZE5UNVFpdGpmUUdzLWsyQXEwQU40bGZ1aTNSMUZ3d1pZMUEzUmxhZnVrSFZrb3BR?oc=5",
-   "data": "2026-11-20T15:06:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rlvirg",
-   "titulo": "'GTA VI' é o maior jogo da história. A questão é se ele também será uma boa base para os que estão por vir",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQMXhydTNpTmt2cEUtOTNSa2JCNDhxVXZFUUVGMlVCV0Y4TnlaeFhOMWlBc3lUQVhNNHFCeFQ0dUx2WE1Xa1JBVjVBRl9FVDQ2SzJoSXVBbHBnVGJFS09HYVN4ZjA3cVdHX1lycC1iNE14d0JVaUU4djlOUks0WEF4U1BHRUFmNEpic0c4dkU4alRPbUpYWHZfTTVzSzJYdmV3dWx5QnlmSFpPSUs4OFVtVzIyQmZ4YlRNVE5oQ2h4Slp3VS1ERHNRVHRaMlAyellMS0dJU0tXY1cyQ0o1SGZ6Q2FRLWxGaTlUdGtMaTA4N0ppeUxvTWFZdzZBRkN6WmN2NlVQLUREcmVUQmc?oc=5",
-   "data": "2026-11-20T15:05:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "iner5l",
-   "titulo": "Anthropic, dona do Claude, estreia na Nasdaq com IPO de cerca de US$ 81 bilhões e fecha o primeiro dia em alta de 17%, a US$ 97,17 por ação",
-   "fonte": "CPG Click Petróleo e Gás",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOS05sdE5hVTRxaXZRRkJ4a05QVGtQaDFNaElxX3hqcnY4cVZZVF9oTmZ3SVAzYnZHT0p3RnI1MzZvTWpUTlV5cEZxdS0xdzNpNWlWcG01YUZnR3p2eDZOb01IVGFHVGx5cmE5UTdhYWRFUHJaWjhnbVdUSGZRVU1ybExVZm9lTHFPdEk1eTBVUlFOX21HMWNVOEMtRTRjQVNjYmdLc0pGME1JSTE2OUxEYjJzQ2l4YnJjaVRtNGZxMDdLQW1YbGRQb3dpOVItQVpaRm5fWnlCLWJadFcwdXoxOTBkTEkyN2NDXy1MR25fb0NiSVZVX2ZQRTBzWVdVZ2d4N2dF?oc=5",
-   "data": "2026-11-20T15:04:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "12jai35",
-   "titulo": "ANT recua no pré-mercado após IPO recorde da Anthropic",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcDAzUk0tSUFweXRkOGMxSlg2MnhWM2JIcnhCamZ2bVFUcXQwNEI0WjNCQTVqZ3BENHdydmpnR2dFdkc2OEtVQ0J0Q2Z0aGNQVXN0ZXFkMWdQZlZHNjBzeWVuanZ6Sl9pMmo0RnRkeDF6cWdQZFlySHFzOUJBenQ1OHRFc0J5Ymc?oc=5",
-   "data": "2026-11-20T15:01:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
