@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T06:30:25.513Z",
+ "atualizado": "2026-11-21T07:00:30.831Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1814,15 +1814,15 @@
    "avisado": false
   },
   {
-   "id": "1ofjq85",
-   "titulo": "Anthropic estreia com recorde e agita IPOs de 2026",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTV9nb0pKLVFrQUNwRzIxV0tpQ0F3UE1xSFRQMVVVeXNJTndueVBxSTNWZHNnVmlvWnVjVHQxSVNSRElxdXp2Y3B5ZVR1ZmJiVnR5THN1OXNURlVsYUpQZGpOM25kazNyQlN2dHY2bmt4c1huOVBXSnJDRVFCNl9UOTZzRXU?oc=5",
-   "data": "2026-11-20T13:07:41.000Z",
+   "id": "1qs1tg2",
+   "titulo": "Anthropic Fecha IPO Recorde de $119.5 Bilhões e Colocação Privada",
+   "fonte": "blockchain.news",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDlMTXlXUkRjMVNWNkVzZFl1WnhRMEl3X1A0ak9mYmM3WnA5WEM2R3lOSl9ZVjg0R09jSmZuUjZqbGJRMmVtWEhhdDM3Sl83Snh2MDV4Y2E1dWRXRWIzTlRHUi00c21BZzdPMmZLMS1aM3lzclVzU2JwemVFTDNFLWpQTnp0Wkk?oc=5",
+   "data": "2026-11-20T13:07:53.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
+   "score": 11,
+   "marco": false,
    "avisado": false
   }
  ]
