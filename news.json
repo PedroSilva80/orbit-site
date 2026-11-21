@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T00:00:32.603Z",
+ "atualizado": "2026-11-21T00:11:17.769Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -550,6 +550,18 @@
    "avisado": false
   },
   {
+   "id": "h151d1",
+   "titulo": "Nvidia sofre pior semana desde 2008 com investigação da SEC e crise de liderança",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkFJQ2tHbVQwMXIzSUNuUThSQWM4MkFxWDBid0N2a1pmekc3eFVuRXVrcUxLcHQ4NGxDMlQzVXJFTjJ0ekg3ZzZUeUFxZEpMdjVVRFRvalFGNW1aVWZoNE5kc181RXpHdTJwYzBaWjZFRnp4R1dWX0x6UGVEX2s3TndvOTN3VWx4WWRzdUdOSnRpa25SSHlqMWFWV2JCTm5PNTAzWU90QlVPM3E5cUpxLXF3?oc=5",
+   "data": "2026-11-20T19:24:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2pe9xb",
    "titulo": "Trump diz que \"adoraria\" se ex-CEO da Nvidia tivesse uma segunda chance",
    "fonte": "CNN Brasil",
@@ -606,6 +618,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6fthkt",
+   "titulo": "Ações da Global Payments disparam com possível aquisição de US$ 50 bi",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemJEbmczbTBTaDNmcjdoWEJWdC1FWmRvTmhrQTE0ajNHYzAtbi1VbXMzbmFGejZETkw5dGFOQkJIYkRmbnF0akdoYlpJVlNBc3RySEFydjJqaWM4a0tuTm9NUDFSbGFoY2prY0hnVEZsa3BuUFZjSzdzMXRmR0oxdDdzRnJTUEZiYzBxZ0J4cjZNRmJ0ZHRZTGVJUkdEbDRsb21GVGdSZWJCellmTFptSjd1cXFucjB4aXNUQTlIVFNIdw?oc=5",
+   "data": "2026-11-20T19:03:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1465,6 +1489,18 @@
    "avisado": false
   },
   {
+   "id": "1kljq96",
+   "titulo": "Cathie Wood compra US$ 90,8 milhões em Anthropic após IPO",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2ZxYm5wcEdPWFFSS3l0aG9RMUlsUlYtU0ZNaktqSEpxOFVuT0FjeW13TkwtTVIwWl94UHVITFh2dGZ5VTVPM2VrSTZNRWNfZmVvUDFCLUtNRDBqcjVrSU9QUy1KMUV6UWgxckpaT1FXaFFVVFZfejFjVlR3dmtSUjN6RGJ1dVdxQUxVRm9LMThfamd1eERQNWdR?oc=5",
+   "data": "2026-11-20T12:49:14.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1hu2lpf",
    "titulo": "Ações da Anthropic caem com choque de realidade após IPO recorde",
    "fonte": "InvestNews",
@@ -1789,42 +1825,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795177829203
-  },
-  {
-   "id": "1vkb0ss",
-   "titulo": "GTA VI: tudo sobre a trilha sonora do jogo, que inclui música de Anitta",
-   "fonte": "Assine Abril",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1uVFAxcWlmamdMQ01waTdhVTNrNkVjVWE4ZmswRVlTYVdoQk5sendoaEVGdWdzYUhMeVM2a3NLamhXaHRjQnpaWFhhbVdKeTNJSGhZNFYyRXRBSUVFVFY1QlNNSFBMc1F3XzFKUzM3RFVDRTZsb3c?oc=5",
-   "data": "2026-11-20T11:00:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kxbdry",
-   "titulo": "De Lula 4 ao maior IPO da história: o que movimentou os mercados na semana",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNT2ZNbmxzRC1KWi1SX0NmN0NFeHVmekJLSzRmdjBCTTN0bzhoRFRDOU55VGhaY01EQmVqVE93Skg4VHBxZ05ZSkhzYWJnT2Rub1otRk1DVnpRZy1nZjUtbEVzYWpRdEhYT3hoZmRZcFZGYmU5VTZnMm5qQ2M3QXBkaUpsZ2tRaVdMdnlvVG9TZzFWRlRJckhFUktjckIyTXJtaGVYbGlKaUxQYXlubHVpQ2xWTDVPN0F3a2ZmN0tsbDM0bjBsV3dQUE5tVVjSAdIBQVVfeXFMTURjenFVUUxteVJ1S3FwODVzUDBuQ3o1bDJMRzAxWHdJVGN6N3o0NEo0Tl9MczU3Zkh2aDJlamlWeVZWMXM2S3V0dGF0eTVkR1lVenZnQUJ3TzVjc1F4VmtHb2lnNDVyZklyVXFoaEQza0UxZ1dhcnVwZDF2MkdvRTVGZDBCcGFUclFmdWJidVF1WTBQbUlXLVFwZjR2b0dVZlhaRHpuVzZHWXludktUbmpFQllaRDRaYlF6U1d6QWRTWlNtYkpjbW1uaFh0V2pVY293?oc=5",
-   "data": "2026-11-20T11:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5soih4",
-   "titulo": "GTA VI arrecada $2.3B no dia de estreia recorde: o que vem para a ação da Take-Two",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45MEZfV3Rvb0ZEWkFCVktNN2Y4TnhaQkNLSV9pSlNGOUE3OXhlMTRFQUpTanppVFpiZXhHc2w0OHJfWFJtSmtaQUdhT1R6MXF3cW55Rzc2eldiQVlQYmJWS2lEbVh6dw?oc=5",
-   "data": "2026-11-20T10:57:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": true,
-   "avisado": false
   }
  ]
 }
