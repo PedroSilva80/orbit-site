@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T13:30:27.161Z",
+ "atualizado": "2026-11-21T14:00:29.913Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1itdkoh",
+   "titulo": "“Achei que fosse um carro”: técnico da Lazio, Gennaro Gattuso dá resposta divertida sobre a febre de GTA VI",
+   "fonte": "Goal.com",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdUNzMU1nb3JiVGVOV3p2VkNQRVFuclExREszQW9HVlVFUmlNX3B5SzVuTW5vZjlqdWpReDkwRHdzQjVnOVQ0V1ZuNTdiclFRN2tubV83VkU4SUNjMGVSaC1wN0MzUGhFMjMtRHZQeU95ejk5cGxtd0JKMXVVQk9VRDN6SF93YmwxLXR2ZjlsNjlNRGpqY28xdkpGRXNMWXpGYnlHb3oxS2FHdHl0c2t4UGxzb3ZkdDNka3dNRjMyYV9rLXY0Ym04WVAyeHZLSGJjSzdDTldlLTRRUkNDY3A5N3BnLTdMYi1oS0swa0JOMnhDWE0?oc=5",
+   "data": "2026-11-21T13:56:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "g5sdf6",
+   "titulo": "Anthropic fixa preço de IPO em US$ 83 por ação e mira maior estreia dos EUA",
+   "fonte": "politiza brasil",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVVdXX1hKbGVOR2FVZHNEWm8zaXMzUE5tT3dJUHNLb1h1d2UyMFlFNmFrYU9GbXNTZENlTFhyMDFxMDVBZGJIYlNLRThYOUNZWTJoaEJ1NDNWSU5kVTBiTTc0WlExNFRCVjdpSkRtREFYYnQ0WDVaalNBd19JbEVJVQ?oc=5",
+   "data": "2026-11-21T13:49:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1s5bxxm",
+   "titulo": "Ubisoft demite 166 funcionários e segue com cortes na empresa",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1FqSklONVNYaktMRnRDMVV3VEpNVzlDUjF2RjhxYWg1OGlUQVpQOW5oSnhaREF3OUZWYVp5dXpzU2tIVFJ6VllzS3V3N0JWSXZZZF91NnBqX0lraEk2TTVmSDZvRDZwWkNYT1VybjJ3NVRzTjNsZXZkRThRdDJuUkxnVkhPc2pmVnZrejRJNGd6amFBZXFzT0hvajlid0FsYlhzT2lpMThRb2JFaVlxQzlCSQ?oc=5",
+   "data": "2026-11-21T13:47:00.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1aa5k7g",
+   "titulo": "GTA VI Gera US$ 1,84 Bilhão e Atrai Netflix, BMW e Grandes Marcas",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcko0YTdROW5CTEZnZVFidWNud1A4S1JWUHk0M3ZDOXk1NHlDNjFYbmFMd3lQSHBQbDNianJIeUttYjlrWjNNT25oOTVabXNDc0RBYk5LTXJHSmFicXN0eHQzSlhpaGVDMXdVb19acWp6YXZzMVZWZXFaMEJjcmtKRHFKTlRKdTFnRGhac2x1OEtROHJSY3RJbVp3b0h0T1RMSnFGa3JwOA?oc=5",
+   "data": "2026-11-21T13:42:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "nbtrcc",
+   "titulo": "Nvidia perde US$ 3 trilhões em valor de mercado em meio a crise de governança e investigação da SEC",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUlNVWFlLamJhaVFvNFZMaUlheWNXZGJKcTF2NUY4c0xNb1VienI5TUtCSXdoa1ZndGFLSDhpVDBGZXMwbkFfemN5MGJWRUE1Ti1kZC1IdU9LakUtYjU2MzhlTThpb1NEcUpjVjlRdWF3V2JOMXlpRmhUM05XZ1B3MjFlWU5jbGduTFB1dVJ0WjlNMEdXcE9ZMFlnU19RcHJTOFluX3owVnZpVTcyWHRCYlhRVVBWcW51MWczRmxpYWFGemlOSkNWWVhrTkFWUXVhTW9JckNBWnA4c1JhQTJuS2l1SjFFdXRkemlqTThfRmhMbGhvWloyVXVIMU1BOFNFTHfSAZACQVVfeXFMTlh2VUlaNzJ3WGowRC1vZlVjVlpmaThDNV8zaFJnUUZ3dHlvdlVCOVd5SkdZV1FZQ1V1OHJCa29rYVNIdE1lSmQxLUtiSFJEUDdVM0ZQNjhURGdtRldTTm5zWlJrSnZQVnZ0QmpmSzI1ai1aeU9aNF92V2R2VzlEU3dhZUZDQjlsUlJHcWpCM2g1NDZEZHZaeGxrS1dmaVltN3QwNFM5UkNsY3VuYllvZGhJemI3aW9wNlFfcWp4Z1pycTZYdC1KX0VERG9PUk4tRm1QLVF0R3RKQnlSVm8xcDQtYk1FSmdTNDJVUmtpcTZiWmgyNjIzUG4zT0NRM1FaRE5OREMxUk15bVRwZmNXdWw?oc=5",
+   "data": "2026-11-21T13:37:53.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "a5hcoa",
    "titulo": "Erika Hilton aparece em transmissão ao vivo jogando GTA VI",
@@ -1362,6 +1422,18 @@
    "avisado": false
   },
   {
+   "id": "ni8owx",
+   "titulo": "Ex-CEO da Nvidia, Jensen Huang ameaçava e humilhava funcionários, diz jornal",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWkVwWUhBS1o4YXlwWEZVQzhqUWlqTnY4UnJGSDFpOF9IemdSMVczRXJiQkhyS3BHVTU1SlhnTjZ6R3hMWmtXSG1Fd25lc3RKYS1oMVkza3I2ekdlTWVSNzMxRDNkUzdZVXQ4TFdCTHpHb3BqbUV1MlM3eExUYTB3LVVobm1xa1p1d212LWozbFlIN2hBRTNoMzdjNU84cTdJRWljZlVsMHFRaFg5djd3V0JwQTRVQlR6V1dvTTdLV1hXaE9yT2hySHVIOXlIZk5yakRWOE1NcUYzQdIB6AFBVV95cUxPeXltOGhkTGUzdHlDd1l5SFZhS042aE40UHdpUVNac2NGaUxGSzA1QW5jY25WTlNXRmJqcEN1RDc3MFl3NFdGSWZ2RlBvTGxoUGdWeWdUcldIZDVZY1NId00wUWJGYTEzZ2RnM0dMd29ObmVrTVN4dUNJUzZHdmFkN3JfMjhabXJJbjR6NHkyU1h0elRNaTJ0SVF6OG9ZcURiSUxyZ2h6clIyUU9EUWgzYUFGM2tQSDljSjVMZVhXNDBnOXFCUVJJMkE0RjRhSTdCQVVHT3F6NWZUcmQ4NUJBUW5CeEFOOV8y?oc=5",
+   "data": "2026-11-20T18:57:50.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "j02mzw",
    "titulo": "GTA VI pode ser jogado por crianças? Entenda a classificação indicativa do jogo",
    "fonte": "Diário do Nordeste",
@@ -1767,78 +1839,6 @@
    "data": "2026-11-20T16:08:22.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "r5t8w8",
-   "titulo": "Gefron localiza 404 tabletes de entorpecentes em caminhão frigorífico e causa prejuízo de R$ 5,2 milhões às facções criminosas | Juína News - A notícia certa, na hora certa",
-   "fonte": "Juína News",
-   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWDhzRVJVeEtHWmV2d2hSRVBScUJHVU16VjJMRzRhYVozVW5RdlRIdnJJLWNiM19Gd0ZLV2V3eHNVODljTkVmQkJ3ZTNUYVVta25vVVY2TE13RFRsTHU5YnRZM1JGa29WZV9CVDBvdTlZbkxQQWxRLURPX3loUGFxU0F0Y0cwMDRVWFpIcXpvQk15WV9RZmpWT0FLM21uaExWLUgxdUR0LUUzeFhLU2pJMksxNzJyTjFrNS1GeFp6MkN6SkxNeFM5OWI1elJvUjdEcFl6anZOV3hlZzB2aXZHYmxCcjNodktQVGRqWlBXemtpdlV5QnYxV2VqSQ?oc=5",
-   "data": "2026-11-20T16:06:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Localiza",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wx1ho8",
-   "titulo": "Escola proíbe faltas para jogar GTA VI, enquanto pesquisa aponta aumento de 32% nos pedidos de folga de trabalhadores no lançamento",
-   "fonte": "Midiamax",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNb3V6MWhDNlRnSmE2dm9ZM3Y1RVlrZS1nZ1hoSUp3ZmhhQlJyY01Vc3JUZ1lUVmlqQU1fbmVzRE1ZeWRJeEs3RFNzb003TWdzMFNNMTBvVXc5dWFNV2dTZkZfWlc0QTZHM0NQWFRTam94RDZrWG9UclBlNE1aUFpJaGJydU5YM0Yyd0g4X3cwdTFhdDFsOFVCVWNCaHQ3WElWemRWc21CaHFEREh4RW5PeUFBRFFDQTNXRWgxaGZybWQyNU1nTEk0Tkt6YWhoS0dEVENoOUd5YzNrcGIyZjhCNzhZLUR6THFSRG05enRwODMtOEFzejFLczJ5bmJzVkptS3c?oc=5",
-   "data": "2026-11-20T16:05:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ik3205",
-   "titulo": "Campanha de Merz inspirada em GTA VI provoca reação da oposição na Alemanha",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ0FscFg4M3JoVENoNmZWZU9XRmpxWG51YmE1Y0gxSl9FZjFOLVE2Sl92emxhcTZKYXRvUnd1Y2RPdGVYUXd1NzkwSEtaVjROR0t6TGpSQ0t2ZlEwQ2VlQUFiZlBuSEpqYll5SloxMlRuV29DekRuOTRiQnRIS0ZfdFFtRV9LY0FPT1Y3V3p3X0NTX2dibE51N3VkRk0wQjhJUzJkQmZqX19fdTZh?oc=5",
-   "data": "2026-11-20T16:04:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1igfezs",
-   "titulo": "Lançamentos da semana: álbuns de \"GTA VI\", Elton John e mais",
-   "fonte": "Tracklist",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzh6QXozd3I5SGRxRllQNEtLY0o3S2lQMGdaaFNJSFBZY0VJb190a0hhZEdjcFVCc1FicC1jeHgyNUVEdzY5SVoxeXN6QjVabFpLV001Rktsd3VGajRxbmVScjlPdHRCb3Axa1lTaGlka1Fpb3l5QWJQaWpXSXNVQkZzSzYzQWxyVGc?oc=5",
-   "data": "2026-11-20T16:03:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gx71da",
-   "titulo": "Anthropic ruma ao preço do IPO em meio à busca por hedge",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnBqaU9oZ3ctWjVWcUxoT3JwbWFzdDN1aEVpalRpekNrX0hHSnJKWFRKSlB3cE1ZNVFDTktCYTRjam9hdlF2eThzRjRnVXJYR0Z5SVhVb3E3czNLNWJtNnBOSWwwdlhyRDI4RlV1MDE3SFJyLU82M3N3VmNKemk5ZG03THhMWEY2X3c?oc=5",
-   "data": "2026-11-20T15:49:20.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w83p3b",
-   "titulo": "Rockstar diz que os cassinos fechados e as áreas não utilizadas do mapa de GTA 6 deixam \"opções em aberto para o futuro\"",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNkFIV016UkZGN3FJUTkxLWt0aHVMVnNVTHJSaGJ5TFJsT2k0Uk1PSFZTaXFPd0VCaGMwZWo2NHRfRWhuSHQySHBKMHY1ejNxRE5KenU2U091bHdPdWpORURabDJod0pQQTdndEQtcEJtOUhLaTBKbHA1OFhiQ0k4N2VIN2hBOGZJWnhKekw3MWtUYWRVbnd2eC1yNVFNdHhyR2Y0M0NfdlIwRTNMMEtBY2JKdG50aW5qdUNSN1VDRUl0TDlCX28tQ29YOVNjOGpNdVFsVVBwdXI3dHBzQmlRZjlpUlkyMXQzY1Q0SUVkdE1uX3NHUUVR?oc=5",
-   "data": "2026-11-20T15:35:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
