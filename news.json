@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T19:00:34.850Z",
+ "atualizado": "2026-11-21T19:30:25.895Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1dbun2h",
+   "titulo": "GTA VI | confira 10 easter eggs e referências escondidas no novo jogo da franquia",
+   "fonte": "ACidade ON",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXRhdlRPMTJHOVRlZXlZai11T3B2VnlaejlrSFEtejBicjVWTURiODhLNG1URDU1YlQzLXppSHlQQUs5OXJzelkxdXQtUnh6UC1QTnFrWk5JRG9ZQ3E3MlEyOHY2RWdXTEhUTVkxMHExUFlHS1M3bXVYUHZmTWs3WnhINDZBcEZVeGFueE5MbTRvT3JpTkFiMDdwdGxIbzlwbW5yVXRKOEMwQnFMakNpN0lkRndpcGNOdEhZMDNFbjU0YnQwekNEVTB3?oc=5",
+   "data": "2026-11-21T19:12:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ptr0fq",
+   "titulo": "Homem que comprou PS5 para jogar GTA VI e perdeu console após raio atingir casa ganha dois videogames novos",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVFJGUmJOM1B2bmF5TGFDVVNvSDhoSWNnbWoxakg3T1VxTGkzSFZ6RzRfYmpwQXNkV0VPLWdjM2JtV2ZsQWpfNnlsNzd1WmtQQktGVHY5WDVXb0R0Snp0NFFsdU55Nm1Oa01pS2wzaWdlMk1IOGxndmtZTzAzc19oMk1wQTAxOTR4aFZfTl82b0dMUzNZWDc5X0pYVE9Bekxld2p6MzRwQlVMN1NndDJOMmpDVE9nUTMtS2RqY2hWSGZ5cVlzNERpLVFCbm1NY1FkWUxEVHE3a0lZNGI4QmhDOWg0QXBnYVdFUkVpNU5fYUkxV3VIcFU4dklGYmt5REdlSlR30gGSAkFVX3lxTE1jOXZNaW9QN21Zc0FQaVFmdXhObC13Z3BvRmV0WktQM3NCVVM2ejVta2N3Q1c2VHd6dUNhdnp2cXNaZzZVM0RjTk95NXpZa083OC1Oall3N1ByUy1rc1p2b3I1U2hhOVFld3k1NWpQMXFMaTV5SUlNU2VQODhwZHNCTmlTNTVWVnhNdmhTNFJ6NGNYUUN0aTY3bHMyYWtJcEZwR3g3V2RnZ3o5M3E0WWMzYk9Ta0VPYVh6WnN3U3JRTzVwdGEwT09vTENWc09OVDg4UVp2Y19iNHVzbGt4djJwTVJENTdrMnFQdV9tYlNfcVpwQjYyM0htYVhyVkdmLWNXMHdLQ1JsRm9LenU3N09nV2c?oc=5",
+   "data": "2026-11-21T19:02:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "pat748",
    "titulo": "GTA VI arrecadou US$ 3,79 bilhões em suas primeiras 24 horas, e as ações da Take-Two reverteram a tendência e voltaram a subir em meio a uma forte queda no setor de tecnologia.",
@@ -1816,30 +1840,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "czhkxd",
-   "titulo": "Ações da Nvidia caem 11,5% com investigação contábil da SEC",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkFJQ2tHbVQwMXIzSUNuUThSQWM4MkFxWDBid0N2a1pmekc3eFVuRXVrcUxLcHQ4NGxDMlQzVXJFTjJ0ekg3ZzZUeUFxZEpMdjVVRFRvalFGNW1aVWZoNE5kc181RXpHdTJwYzBaWjZFRnp4R1dWX0x6UGVEX2s3TndvOTN3VWx4WWRzdUdOSnRpa25SSHlqMWFWV2JCTm5PNTAzWU90QlVPM3E5cUpxLXF3?oc=5",
-   "data": "2026-11-20T19:24:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "h151d1",
-   "titulo": "Nvidia sofre pior semana desde 2008 com investigação da SEC e crise de liderança",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdkFJQ2tHbVQwMXIzSUNuUThSQWM4MkFxWDBid0N2a1pmekc3eFVuRXVrcUxLcHQ4NGxDMlQzVXJFTjJ0ekg3ZzZUeUFxZEpMdjVVRFRvalFGNW1aVWZoNE5kc181RXpHdTJwYzBaWjZFRnp4R1dWX0x6UGVEX2s3TndvOTN3VWx4WWRzdUdOSnRpa25SSHlqMWFWV2JCTm5PNTAzWU90QlVPM3E5cUpxLXF3?oc=5",
-   "data": "2026-11-20T19:24:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
