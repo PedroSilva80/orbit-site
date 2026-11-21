@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T12:00:31.084Z",
+ "atualizado": "2026-11-21T12:30:25.342Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,43 @@
  ],
  "itens": [
   {
+   "id": "9q5t6c",
+   "titulo": "Nvidia cai 14% após notícia sobre investigação da SEC",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMEo1X1ZrekV0X3NlckpmeTNqRjFwNVhtTmNDSnROWUh0NldON2szYjBPOFdqLTZlS2k5bHQ4ekRBZkZNUUkzMmdnZ1RTaWdxMlpobkJvRFJPNkY1dzFQUXl5VEJnOTNxWlRhaGVCT2ZYQQ?oc=5",
+   "data": "2026-11-21T12:27:31.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795264225342
+  },
+  {
+   "id": "1sr7b3m",
+   "titulo": "Governo Lula avalia troca na presidência do Banco do Brasil após queda no lucro",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1BMWGYwT2VEX2JmVVJuVEc4bjgzZ2ZQVWo4QXQtSjJFZlhtOGZkdVRvN1Ffcmo3bHRaQWJiQ2tTRkxPeFhnaWh0blA1NnBwMnM5Mmc2YnU0WF9MdzJCR1pHZ3A2RW1SbTdiRy1YNzNBZXhOTWpOdGFmVDNzcjhCeXlZUWpRWXd2RGlFYkxtZEVBaFE3djZBWkJYeDJJeXVKRUJ2c21FQ2NLd1hTZEtzTDNaYlU?oc=5",
+   "data": "2026-11-21T12:19:12.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9c5uwg",
+   "titulo": "Tesla lança Cybercab para clientes comuns que terão que pagar assinatura",
+   "fonte": "www.autoshow.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGRWb1ZTMVV2QnB2c2RVTzZ0MS1temRLNDZlb3Z5NEd3S3F3WUlDQ3pxU0ZnZ09mWnZ5NHlHeTRZSFFCTHJnVkNFMzVHdEo3MTBNVFVDdVhJM00xTExaWU5zZGZ4eXVSajF4dDVqVHBKamVFcVVsVDhJcXp0M2JDbVhkWDZiTWp5cm50cWxudGhiYi16QUczbm5INjg4ZW40dFd5empGUDJ2dUZPc1A3Z1RtVXo5c1daZjNMZXFpTWJPUEk?oc=5",
+   "data": "2026-11-21T12:12:56.000Z",
+   "cat": "Lançamento",
+   "empresa": "Tesla",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1hurbwe",
    "titulo": "Chuva forte provoca alagamentos, queda de árvores e desabamento Aparecida e Guaratinguetá, no Vale do Paraíba",
    "fonte": "CBN São José dos Campos e Vale",
@@ -70,6 +107,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "m1ufw7",
+   "titulo": "IPO da Anthropic: preço de $83, avaliação e como comprar ANT",
+   "fonte": "Fello AI",
+   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05RExPSW5IS1I1dVp2eUx2c0pqLW1Ud0w4ZzZMVDVEWEZDcE05eDZreUpaV3dsRFlOSmt5ZkR2LXFjZ1VLdC13eVRqcWgxQQ?oc=5",
+   "data": "2026-11-21T11:13:38.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1793,55 +1842,6 @@
    "score": 10,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1hmay4e",
-   "titulo": "A Rockstar explica ausência de mini-jogos em GTA 6",
-   "fonte": "Eurogamer.pt",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNc1hwTmdQSnRIR3FyUUp0NnFpTkd6OFEtTnhJRExIVThtd0g1MUF3cVd5d09IZk1QbXd3eGxVVFBWR0RrWXowOHY3ZjRNa3ZyMVFpRkpKWndFMGhSaEJ2OW1Wc3RjUk5wM0NZWmhRRkstaWxaa01TTTVEdlM2MC1GMQ?oc=5",
-   "data": "2026-11-20T15:00:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "anhdpw",
-   "titulo": "OPINIÃO: IPO da Anthropic mostra que as maiores oportunidades podem surgir antes da Bolsa",
-   "fonte": "Monitor do Mercado",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMHMwaklNZnZFUWdXSjdQVUQzV0pKS21ZN2FhSTJ1NVgzMm9KeVJPTm5qOXJqUGhNcGRrZC1zWHAwUm0xVGd1aWhOcG1FZ2xkZElleG9PNHNicVFMQ2ZSTGFTZHBzTnhjNXZuWHQ5X1E3clJKWGlzTFRIVmo5ZDVaRkR0U3VQVEtSdXFBaGJDS1l1d2QtOUpfcGxuN3lhYUktYlRCbnpFOE1Kanl6NmcyZTdjZmNLQzlUTjJSZzRHZHBtTnZlNGduckJYWWxheDJsUk42WWlwNUVuWm9OTGQ1Nk1DcjB5aFBrcUFF?oc=5",
-   "data": "2026-11-20T15:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ejbjng",
-   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
-   "data": "2026-11-20T14:59:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tonjz0",
-   "titulo": "Ex-CEO da Nvidia, Jensen Huang humilhava e ameaçava funcionários, diz NYT",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa040M0ktZjM2ZG9Pd3VmOF9KWTR3NE1GaDVOMGYtdFZ1aFAwanNwR1hMSThMeU1EN2xFd1NkSmZKRE1meWpvMm82SzVseDFSZkZGaXZOVHFIUUF6ZDhLWUtNa052b3lZcC0waW4xa1JSTlp2SHJGcDd4MzZJd1VKZUZGZERYbnN1ZlVKNVpuUHh4RFNHQWwxT2FUMllETEZSYlRZ0gGoAUFVX3lxTE9ORl95cFloWXZYbkdFd1dsRzFfUlBjRGhVbXlScWNzV3BRRlhVeGpKQ1kzY2pkUVNYZmNxUlJHU1dEZ2oxNldfYVZJM29xR1FaYW93MGdkb3g3Zmp5X1ZCN1p0djlSM19uRDNxRDduVG4yWmFiT0FObVBZQ2lXOG5hTTNRSWZZcVh6WGthakR6WFNqRzRRTzQ3SUwwTUlydFhvVy1ZU250SQ?oc=5",
-   "data": "2026-11-20T14:58:54.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795188629694
   }
  ]
 }
