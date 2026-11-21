@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T07:30:27.268Z",
+ "atualizado": "2026-11-21T08:00:27.930Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "wy0bak",
+   "titulo": "BLACK SABBATH, SEPULTURA, METALLICA e SLAYER entre os destaques da trilha sonora de GTA VI",
+   "fonte": "Roadie Crew",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWNPMDdBTTk1OEtDaHJLRWZ3VFVNV1BjV05CWHFla1h3bWVfajhxM1RYbmphenl4QUhTcS1UcjJCRjdiYzhYUjk1VHFRSEEtS3hyQ1o2bm1BUDJ1S3pQdkpkX3MybU16Wkpoamd5SGdnOFZTLWpDbTJkaG13V2pPRzg2b2NuWFpEYXViSUdhU2pyZzhlcUxWaVJTcldjT0lqNGMwR1hFT0lGNUhHaEJDSnJB?oc=5",
+   "data": "2026-11-21T07:42:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "m06xhz",
    "titulo": "EBC Lança CFD de Pré-IPO da Anthropic no MT5, Antecipando a Esperada Estreia na Nasdaq",
@@ -1135,6 +1147,18 @@
    "avisado": false
   },
   {
+   "id": "1cvj4ry",
+   "titulo": "Fenômeno do mundo dos jogos, GTA 6 já rendeu US$ 1,5 bi à produtora Rockstar",
+   "fonte": "Alô Alô Bahia",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVpuOHdKWXVxZGNROXpKSmZkckxxVXdvQzl5dTFuRWVUUGNXZU51Y1JDOWxuS3hPdjFySnIyMnhmMzF4VC1WZUhSS1ppYUFYSWk0MmdYMUxCZUlpd0w0YmN2Uk1wYlhOcFJpc1I4YkRHQVFfODhqb09wek81RGM2Z1hlcDFOTVVWOGpzLS14N18yOGhBN0RPc2FNNHVsU2t0d2xkYmdWclp0QmxXa1lvMUxxMk80Sml3S2c?oc=5",
+   "data": "2026-11-20T17:17:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "19kjcng",
    "titulo": "Atacante do Manchester United causa polêmica após jogar GTA VI de madrugada",
    "fonte": "LANCE!",
@@ -1806,30 +1830,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1jiexis",
-   "titulo": "Algum personagem da franquia GTA está de volta em GTA 6? Após a Rockstar divulgar lista de créditos, rumores apontam para retorno de ex-protagonista",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOTm9waVNNeUZoLVpUeWF2Qjh4a0RJa0lhdUt0b2QyN0Q1NUhxakhXYkI1ZmdOdFYtRUY1SEpXRnhKd21tS2FYcFNrNFJoTklJeXlhMk42WWdRczd6Wk9MNmd0aTkwX082S0xGOWREanRxdkowT3VXcjU4d2xOZ29zWnEtZjNvX2RUXzByY3U3SkN1WWF6N2hjdWhKOGc0QUwtNGd5ejdmN3JQR1I0Q0JkamplVGpoVHc5TnFqNTVZMS1YYmNrVXY2WGRvVGZYOWVuVjUzQ0J0bGJ4M0tQUEo4?oc=5",
-   "data": "2026-11-20T13:19:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "k6rrcv",
-   "titulo": "IPO da Anthropic: ANT fechou estreia com alta de 17,1%",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObUpTRmVkR21tVGN1SUtsN1ZUdThDSUpZUm1IaExsTXowTDBmeldDaHZBdjNEQ0VRXzRXSGF4MWpXVTNEMWQ3NFVJYVRRS25TVl92R2xXQ2pzY3BfOHFfWkMwSnRjRWNUc1hmTmVCczB5cnhjLThNZTRDV2ZiUWtSeUV3MVVvMmYtZDBNVktR?oc=5",
-   "data": "2026-11-20T13:10:34.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": true,
    "avisado": false
   }
