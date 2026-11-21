@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T14:30:26.078Z",
+ "atualizado": "2026-11-21T15:00:31.237Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,42 @@
  ],
  "itens": [
   {
+   "id": "c7d94q",
+   "titulo": "Sem acesso a 'GTA VI', internautas russos imaginam versão local do jogo",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEE4UVNQSGhjOTYyc2tGUXZzd052WGdUd3J5S0o5NWd2R09BWWY5VVhKbjRYMFpXaTRiYkFhOVZsYnBtMW5UZ1cwZTROS1ZkRWs1aEQtdkN2SFF1RHA0dUM1T0hIQ1ZIVVNJZWg3VnNTc3l4ejAxRmluRkM3dFRsREE5V1RfcnNISDhqS3BJeVZMQnNHdVgySlhBTVh4V1dQMHBJZzdmalJBOHIwaGZ0U0tDMWxZTTZaY3NRWG9SY1VvUUdQMEtjVGduTkhxYlowd1FZYi0zOFBueHFpV1VzelExbndQU0wtelE?oc=5",
+   "data": "2026-11-21T14:56:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1tczjww",
+   "titulo": "GTA VI tem nota 5,5 entre usuários do PS5 e 99 de 100 na crítica do Metacritic",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOa1p5ZGxxOU5MLWFjYUNPQlJYS2xSOHB3VDFma3dlby15NEFHT1hGVWFSVlU2RWVKZXhUVmFpUEd3ZmRtSGJueklkNm1yaU9jZGVwU0wyUEVlaTE1bTBZX1h2VFphWkQ1VVQ1ZzNWYVFpZmlDWTdidVJFakVHd2FnOVV2RTJKVnhaLXI2NnNabjRmRXFIcWlkQ2RweDNJVU9ITV94cS1Cb2owenpnYkhJMDNpRDlJOUxIYnNlT2IyTi1FOFdyeDdaVG5IVmZxV1dBSEdSTXdoSk9DUQ?oc=5",
+   "data": "2026-11-21T14:47:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1awq5bu",
+   "titulo": "Especial GTA VI: guias com dicas sobre armas, dinheiro, desafios e mais!",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwejJUQmVMVUp2TEw4dkloWGpqOEU4NXBaZVJ6OTczTGhmU21CN1Rxb3FQM2NhOU44ejYxcUhKdDNod0xMSmR5ckFpRGFlWTJxbUgwaHRUZEp4WGxadFZBVGo5S3lYYjYyNWZ0X2hBSlBhbng3ai14T0lITQ?oc=5",
+   "data": "2026-11-21T14:39:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2blx3w",
    "titulo": "IPO da Anthropic movimenta US$ 93,5 bilhões e supera SpaceX como maior oferta pública da história",
    "fonte": "Portal Business",
@@ -50,6 +86,18 @@
    "avisado": false
   },
   {
+   "id": "zhtbmo",
+   "titulo": "O \"Little Sam\" de GTA 6 se parece muito com Sam Houser, e a Rockstar está curtindo o mistério",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOY3RPNHU4cE1ycDdQVWRnWkJxUUlMaTh2eU12YWhZQU1jTkNZZUU1VTQ3TjZlcmhCQXNOY1ExNFlQN0N2Tkk5WDBFV0luTTdnd2pEbUJnZTVvY3hKbzhuYXJCaXpUYnY3TWE3ZDRDMG9vQXhDSFVpc1Z2S0NxYy01UmoxdzZSWGNSbWJzV0otT2d6NzRvVDhoeGNfQkZGeWh2bUYzOFJfeS1qcG5nanVIeExtUTdwemxmT3JsRGdWbWRNV1FUUzhQWTZncXg2Ui0td3c?oc=5",
+   "data": "2026-11-21T14:21:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "x0y3zh",
    "titulo": "GTA VI: melhores configurações para jogar",
    "fonte": "Pizza Fria",
@@ -58,6 +106,30 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15g42e6",
+   "titulo": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1BBSEJBMU9pTkMxUmJmVFVxaG05eEZCOXZ0NUhTcVI4MGMwVTJiU0hQNnd6MGptWTJTOE5Sa3o0Vnd2a1ZXdTgzUEY5ZmtRekk5UlZOeHZ6eUhHQ2J4VnNLRjFIcjRaSTl1N2ZtN1pCdk5MMldQTEFuNE9wMHF1THp5VXJUaWc2MmZNSmNIaWVfUzNyQ0FWbnhXdndMaFkySE55cFNybFp5WHNPazlhUnpuM3lKNnNSMFROdg?oc=5",
+   "data": "2026-11-21T14:11:28.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16yqeag",
+   "titulo": "Banco do Brasil enfrenta pressão por troca de comando após queda de lucro",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPb2k0UmhoeTRPOWtLOUFiQ19pTzRsMHY1dlZralM1VHhOUW93TTVwR2dSb1VDWFF4SGR2Y0ZkQjZqRDBTdkRENzRvRXhrRVhjSlNNWFdjOExOQlBUNW5fVnBNRmo2czY4Q3FWeV9CMm1lXzhCSFlrWUNpV3g1al9lWHZFRE1iVENFaUJFUDRnbEZPSGxGVUhSMzN3RUJkYWtsdlZfYnlKN2N2UGN4ekxRRFJlRVZKUHZQaUlCakt30gHDAUFVX3lxTFBKaVFrcy1hYlVCTGk1Q3NNRUNiN2lsRjNrMF9Xa3QyZHNUaTJyLWZaVkFyTnN1Mkt2M0phQkh0ejlCSjhpdE5VaGo4WFVUX0o4T0RudmVRcFNNRk5lNmJKcHN5TlRQZ0UwU2pXX1phX0RIWl9EN0RVeU9fWEdKczNJcHJpUlVtMmYwclNtSVpxTFJiLVdYUmxNYWg5ZzdKeHRsTV9aWWRmTUx1QjBNWXprVnhnM1k3OC16U1c0M2hXVDhHSQ?oc=5",
+   "data": "2026-11-21T14:07:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -119,7 +191,8 @@
    "empresa": "GTA VI",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795273231237
   },
   {
    "id": "nbtrcc",
@@ -131,6 +204,18 @@
    "empresa": "Nvidia",
    "score": 10,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "j3meap",
+   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnA0cEt3ajJBZGE0aWxON2tJODdWQUhYQ29MOTFjbXNzcUlQQ3FJWlh2ZkN0SFRPNmlBT3N3TDl6UEc0d24yWVpSM2ZUTjJQeXY4SjY4akQxRGN1QUlWVXVPY1N0WTZRcmI4Umg1TElmRE9Td2w3LUZXQmhRMDJIRGYzRWxwLV84a2NKNEh2djQwQ25UUWRJMHFBTEktUVRXc1lvN2s4bW1ySHdtUTlKRm15TjlYcDk4MWEzdHJuTmVTU29rMkxMZ1ZTM3JXaVllb0xyX0VxRURnUHlTNWhEcTU0cWx2WHNPTlRFeXBB?oc=5",
+   "data": "2026-11-21T13:17:22.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1752,91 +1837,6 @@
    "fonte": "LANCE!",
    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1lYTWdWdXBtMEtXeGNIZXNPVWVvVzEyaXBKbTlRbHlaR0RYajdXQXNRUWRHc05xczl0cURYMW5sZzdteVdwNnhuQ0dKZXYwcmRDOGJhbEJHM3N6aXRjeXRUc25GdGFXUVh0WlhPSmhoSGRlQmpwUC1EMTlHZnVIZ2tBZU5vcmd3cUt2ZWtUak5uWExsbEpPTTd4ZnE4dHlQMHlXTk5oam91UDRvWHZuTVFLbWwxTHl3M3JaajI1VENtSnNXZ2c?oc=5",
    "data": "2026-11-20T17:16:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v969cg",
-   "titulo": "3 ações essenciais para quem perdeu o IPO da Anthropic",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LRjJHSWQ3Y0NWV2FZOXRmNUtqbmNwLXRpcnpXdmIxTmJGVE5lWXdXQ1hJUUVDdW01bzFwUXdpSldocEs4VDF1TnNMbGZYSXpvWnpYMDZ0SFl3dm5tWl9CWWVKNlExZw?oc=5",
-   "data": "2026-11-20T17:12:23.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ihvpnp",
-   "titulo": "Depois do maior IPO da história, ações da Anthropic despencam 10% no 1º dia cheio na bolsa",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQNi1MNjd6ekNBNE9lek5Cb3FxNG5TUkoyOVgzVVZmMHlPWG45XzB5TFA3VHpqTVRsSm84OV9kc2hNUGc0QjN4Vldtb0xYZ2NPWDlxZlZuWFhzUTJnVm80RnQ1MDRfTkxYYVh2Z1QyWVpMdGx2M1JvWDY2LTZEWUpueWZaZmlBckZ4RWxrYi1zREFpeWxSUWFiUUZMZmFrUXZGMEN6cDJ6c1BiVGJRRUROOXZIY0dFRHJ2VzdobEZfTDJ3MUhFX253dnBYZGswZmRRa0xVOFJ0RU5JR3M0WW9XaXhBRkdTZXNtZFZGbGNlbFJDRTM5T1hxSHZGY1ItOUhxYlcwbDh4ZzMwWkJzWDg1bmJB0gGgAkFVX3lxTE51T011TWs4V21NWUI2XzdwZ0lxSjV3UUJxX3g2eUFXWUJGYlJaSHotN0g2OEdhT1o3c3RwNzNBQVBQWnpUNDhyMkZta05PMmsyZ0JIejJ2MWt6T0dNSjhEdVBUYU5uSVFLd3ZkUUpTMGgyanowcnFlNlVIUHJYeVFvSEpzb0s0d1NhcmdEdU9pNFFpSFNQdHlPUjdmNDNYRjMyNmVHQzI1NXNKWldJWEM5Q3V3dzlTVFhnMkhualpBeE1OQ1hfNGlhY2x2ellVWmV2S0RQelJMUURFV1ZCTVFwdGJTcERzSkRQSkhwNHhDWU8tdllpRkFRa0gwVkhvbE90ZTA1WWtKYk51WlJ0Ul9RMTFyRE85S1g3UFpvM0syVw?oc=5",
-   "data": "2026-11-20T17:11:06.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795204829783
-  },
-  {
-   "id": "10drc9x",
-   "titulo": "A decisão do banco responsável pela oferta pública inicial (IPO) da Anthropic de encerrar a posição, com o objetivo de estabilizar as ações, eliminou uma fonte de apoio",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE92dUk2bDIxd0tScWJ5bVdsczdmckhjN0pSRkJTSnBHVFdOdEpSa2dkcE1JTVoyUHpsRmFJQzRlWDRHd0tOT0NCYU5SRF9PVGh5aVVaVVpJVTlJNkNOdzgxTENrMWJsN1l2YVlrR3NkQ2g2TUtlTzBN?oc=5",
-   "data": "2026-11-20T17:08:25.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vlc0b7",
-   "titulo": "Como o GTA 6 furou a bolha gamer e virou fenômeno de moda e música",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdUhPYlU2X2x5UFp6Vy03WDM0ODQ5STlpODVSaVUzaGZoa2x0R2daZFVXVVNxOHhEaTBQbWc0aElCZmRqOWcwaEJmRjRyRFpseGw1dGF1RXBlLXhwY2hGT0VFejYxcGRsUDRZSmF0NFdGR2EwdVdKQ2otUFdoekN2S1NGYzFFczJ6TXB2N1ZqTi10eWdla1phR01fRkxCVDRxazNteDRwWWJJa1c2RWI4?oc=5",
-   "data": "2026-11-20T17:05:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lhyhbb",
-   "titulo": "GTA VI vende 24,5 milhões de cópias em 24 horas e passa de US$ 2,3 bilhões",
-   "fonte": "Espaço do Povo",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5rZDM5UlpyQkxEeXJsbUtCZUtXMkVXOXVMSlRWaHBndElWcTVxak8tc2VQSThzSEZBblJHQnJfSHN4TGtQUFY1UnNsRm1jcTdXVTFKSm02dkJDWHZ1TU1kRkRoSnEwYVc2M2RvOHcyUEhmMXg5?oc=5",
-   "data": "2026-11-20T16:49:21.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ehvbuz",
-   "titulo": "IPO da Anthropic fecha em $93.5bn após greenshoe total, $119.5bn com colocação",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQ1lrS0xYY3ZRcWtiSmlxZ2NqeHB1UmxtMmpTWERITXdCRUthTktLN1BabUxES0I1U2FUX1lDMGhoSGlwUzhpTVpGTXpvYjdGMEsycno5NEtmQklpWHJFSzhUZUhDTFJENHFkU3BhenZPVGFWd2hNbWJlTUtQZ3YyLVlndGlnQ2o1dWs4RzhrSUtlWUZXajk1bmR1MlFVUjBWZDFlUWZ1THR1NFRPSTJzbmxXTHdZSUtOLXR4VFZobmtyLTBp?oc=5",
-   "data": "2026-11-20T16:44:27.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gwvfqt",
-   "titulo": "Dá para jogar GTA VI pela internet da operadora?",
-   "fonte": "Minha Operadora",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1hnUElZMGF1aDVQYXJ5UnR0aS1CU1VPTEdMOXlNWVBXcnhnM2lMb3p2Y0lHRTNaNFlTV1owWnpqYkhzLVRsd01jZmhacmoxYUJXSGlON1ZlVjhveEc0U3VCYmt0RUJvbWF4YmN4SDI3VlpDbEtPaUF1MDE3Q19BRlhYcnVjenJWMkRETVdvd3pHT2dSZVZ4LTJB?oc=5",
-   "data": "2026-11-20T16:43:01.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
