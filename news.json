@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T10:00:27.115Z",
+ "atualizado": "2026-11-21T10:30:25.654Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -29,6 +29,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "185z5ys",
+   "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWHRGWm1tay02Nkl6SkR2aXFrNlRaOXlkVlhiUUw3cmhvTGdZMm9OYVhidkRST1VPZ2JvZ1YwTHBUOTRCUV95cDlYeHY0MFZ6RHktdC1XRy1lZ2xUUWNma3dYS2F6YklEWk5KeFBPTGhKWEF2UXVfamxn?oc=5",
+   "data": "2026-11-21T10:12:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ailhoh",
+   "titulo": "Astro de Supernatural bate recorde da carreira com novo filme da Netflix",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM29rMDJzZlV2bmdNMUJUNGJoNHowTzZYQVZmLUk4TWNOYWkwWjJMbkN2Qmpsa3lsWUo5RWN4aW44LU05QnBxdFo2X01MT0NmN1BxUDl3aktIemFiYlpRaG9hYzJweXlpTEUtWnZ6d3FVcDB5U1NVeVkwTE9Dc3J5eWZ6TEhQSU1Zdi1aYkhwSzJDQ0JDTm51TkZzN0NkSkIwT2RlT0lBdFJYaEI0Um1xbUc5QjNHYmc?oc=5",
+   "data": "2026-11-21T10:04:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "551exg",
    "titulo": "Grifes cavam oportunidades em torno do lançamento do GTA VI",
@@ -292,7 +316,8 @@
    "empresa": "Petrobras",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795257025654
   },
   {
    "id": "1uhdmtv",
@@ -1807,30 +1832,6 @@
    "cat": "Resultado",
    "empresa": "Petrobras",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "96pa98",
-   "titulo": "Entrevista: Gamerhut, a loja que disse não pro GTA VI",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeHVrRm9YaGhfblJtaG9UQmE2SHJLNEcxUFIxdjU5bTZVMVZfWEk3UGRGbjUxRlVzVUpRdlc5aXpMSl9uQzBYUDMyVkk5LU4wczAyRGlmZ3NDREg2SnN2R2NtbFJzRnpMbEhpMnZiNTdaajBmQndTUFJHeXZKUFlfOHFnT2NKWV8yVUZkTER5LW84dFVXSVZJZDBaRWRRM3oxWmFaMUJhYVBocVloZjFsTzEwR2w4QjNvYTlEbHZpTDAyVEFPcXZWeg?oc=5",
-   "data": "2026-11-20T13:53:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ym9st8",
-   "titulo": "Anthropic realiza o maior IPO da história e alcança uma capitalização de $1,3 trilhões",
-   "fonte": "mobidevices.com",
-   "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LWjYyaUVxOE9fcmpSdWc0ZE04QTBWRXlud0VKR0M3b0g3NEs0TmFSMk9Yb1hydF84aTJoRnJsbDJubjdKSnlVX0U3aldFWW9mRkE?oc=5",
-   "data": "2026-11-20T13:50:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
