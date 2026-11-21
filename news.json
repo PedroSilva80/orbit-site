@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-21T17:00:31.268Z",
- "agendaCal": "2026-11-21T11:30:27.530Z",
+ "atualizado": "2026-11-21T17:30:27.845Z",
+ "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "giscui",
+   "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW9QQkxmSnlNUVVDczdlUmMwWGZVNHo4emVxa2FhWDBYRUlLMDdHNm5YSjIzdHpPTHJWb1JmNDd1REVhN2dZSnpBYjFWNlBLWS0yUWZTZ1dYNDNIMU8zS1RreFpRdnZ5d2J4NFpYMEZsOGxJTTdUR1ZOWThydmM4LXNZOElRTE9LSE91bmVtTE82TS1sQVJrWDFSREx4NXB4Vm1JZVcxQVlFTlJRRjZ1aUhndU83R0ZGTS1BUUNB?oc=5",
+   "data": "2026-11-21T17:22:59.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1lvnawh",
    "titulo": "Anthropic sobe 17% em IPO recorde e desafia tombo tech",
@@ -581,6 +593,18 @@
    "avisado": false
   },
   {
+   "id": "g7a06q",
+   "titulo": "GTA 6 vende 32,5 milhões de cópias antes do lançamento e bate recorde histórico",
+   "fonte": "Xbox Power",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV1lEYmhCel9wZW4zMDhzTDdkOUg4NW5YU3JiczRRR3BlMkhUUTZkWXEwV0QzZWsxa0xyMVdfRHM1MFRGZzhialB0X2VEc01wX1dRRDhpUVpUeWs1R1hBUmx3LVE1M2IwZGtWbkhnVEF3OGRJRUtaeHN6M0dOSzZ3UmFwQWpTZkJ3NXAya2JFSWhwRmNrMS01R0VKWnpYc3ltZGIwT3dEbmdHUnVMRVpYV1J3TE5VaEVyZ21qSVgzcGU4Ulk?oc=5",
+   "data": "2026-11-21T09:54:18.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "551exg",
    "titulo": "Grifes cavam oportunidades em torno do lançamento do GTA VI",
    "fonte": "www.chnews.com.br",
@@ -842,6 +866,18 @@
    "cat": "Movimento",
    "empresa": "Amazon",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gd3ue",
+   "titulo": "GTA VI impulsiona recorde de tráfego global",
+   "fonte": "www.guairanews.com",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13eU5ZcGNSMHhvbFZsXzhiMEpXb1NUOGFOUjNhMVVYOVRDRDg1WnE3OEtlQ3MwRXMyYzMzRVJLUWVRNXJJT1psNDY2Q0Vhc1MxckJKeWFLTmRVZjIyN2tOSkp6enRzUEZUNktoVTRROVlkSGFjejRr?oc=5",
+   "data": "2026-11-21T02:09:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1805,42 +1841,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lagvfh",
-   "titulo": "Ata do Fed e queda da Nvidia penalizam Dow Jones hoje; mercado monitora IPO da Anthropic",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUw5bU94UHRkSmdMbUloM2g4Z09jNGoyN2I1NWkxakJTbzQ3UXEyWFVtVW00OWpyTjk3aTZ1b1ZVaVJydjBScHdpVDJNMWNDbnk1cDVwRHdIQkVNSmVSTmJhQnQyeWMzMjkwSUFPT3FrbmVIVUVGQ3lRNmJaRkM0MVdRc0M4RWktTkVXNUdxU3VNQTJsWjEtbGUwNk0xRlVwcVNjYk01RUNjM1Rxc0lGNy1pWThxdmVYZE0xQl9YVUx5VHk5SlRGc3NTenpUM245N1hYQkNwbWpFTllWN05rV2VmUFNfcGxfS04xSXdoMFBKNG5HZHlkQUlR?oc=5",
-   "data": "2026-11-20T18:47:56.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "830y3t",
-   "titulo": "Como militares da China se aproximaram de chips da Nvidia? Entenda a rede de conexões que passa por 'affair' de ex-CEO e Alibaba",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZklkdHM5cXU1RWg5MXU5U0Z4aHZ4bE5qWDJlQ3llZnpJWE1tcDRHRFV0RTN1a3IyamxMcXNVa0pSb3pWcjVHV0ZkcGtKWVB3M0wwSnVpS2xYdmZFZzhsUldKOUViUFhfT28zc0U2UFcyWTh4Q0VzSGRSLUJHbkdfNWxiU2FKamV5UHFPbDl1Tzc3R3RFdlM4T2FHN05sX2VwX3ZQcVdkOUFENktIMm9XLS1vaUlsaVdHTHVDZm5IM2t0SmZMX0pZZGFmMV9HUjdoM2FtVXNxSVhDeTBq0gHrAUFVX3lxTFAwT29GYzB2Q3VsUzYyVlNKWldwcWRJZE44QVFhYWZ4UHNTOW40ZEJzbV9qOFlwOTVKbWtJSVZrQktndk01SlYzNURqZmhNeHBIN1VmcnEzTjRSeDdqVGZUZnlDbng5aWREWjBETHFxUFBCbnVHVS1OTjQzcFlranFZLTVqakRqMmwxdTdlSFRTNjZkQTVZVlJ0VUQ3RmtNWThXUy1zU0tKMGNqcHJXSE14X0h2WDQ4bXFsU0dtakx5R3VRU25hSElkdFZndWpxSEZuWXotN2Q4ZmtqSW02VWpkYkdIOEtIVE1vRUE?oc=5",
-   "data": "2026-11-20T18:47:33.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "uv37pf",
-   "titulo": "Trump pede segunda chance para Jensen Huang após renúncia à Nvidia",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZDdUSnhlc19tZng5U1BEQWIxa0NsZzIwWlVfekpiT2Z4U1VvcDhjOC1EVEpJRjVsZ2xidExNSnVUR0pIcFpnNDhMZzZmT0pxWi1zRXFRc0M3cVhRUmViNUQtZDE2WUs1VTNhWG5WbWx1STAwTm1ZSGgzZDFVQ29BRE9tcHBwOVp6VjlDVVRmdGpWLU1pWEpmS0lPWExsMjllTDg1Zjl4TFVCYnp6SF95ZG5SNHNHQTdQa1NiMUNsR3BTc3VBdTN1enRSYmdYX3pNNHZRYg?oc=5",
-   "data": "2026-11-20T18:41:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
    "avisado": false
   }
  ]
