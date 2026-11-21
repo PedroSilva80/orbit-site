@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T02:30:25.487Z",
+ "atualizado": "2026-11-21T03:30:25.408Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -100,6 +100,18 @@
    "data": "2026-11-21T00:08:00.000Z",
    "cat": "Liderança",
    "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1voa18b",
+   "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia e bate recorde do entretenimento, diz Take-Two",
+   "fonte": "diariodenoticias.com.br",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajNsalNWTnYzTDhMM1V5RExzcko5ZXZnQkk1bzdoZUxIWF9kd3VUcjhwRVNCVjgzTGRuQWJseVEzdUstNk8wZ05WM2VfNlE4M3I5NVdXQThsak1Pb3EtSHBvamNwYW9QZVBpNlFobDR6Nl9IY00zQThtcGFRbGxiY3pCTzMzUjNRSExXeHhOMlVHZmlkYUNyT1hDMnNYYjBE?oc=5",
+   "data": "2026-11-21T00:01:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 8,
    "marco": false,
    "avisado": false
@@ -1345,6 +1357,18 @@
    "avisado": false
   },
   {
+   "id": "e5crau",
+   "titulo": "Bitcoin repetiu padrão de queda antes de IPOs, aponta CNBC",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN280NEJIaVZPQklxVDBTUlQ1VnBERmI5SXlfZmEwdzBBb3JLeUFkYkJIazlSaUZlMDQ1QVZEckdPNHdtRWVlWjQ3WWJLMDhFSGYzMmVJNG92dnJtNDdidlpnNTFDY3FWOUpZRDdrT3lyTTNXcVExUmVXdEV2QW94bXdCdlNkVEVuVlpHSkQxN1pIMmVvYnJvNldEV1VkOFVK?oc=5",
+   "data": "2026-11-20T14:48:48.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "dvcysf",
    "titulo": "IPO da Anthropic alcança US$ 93,5 bi após bancos exercerem lote suplementar",
    "fonte": "Valor Econômico",
@@ -1598,6 +1622,18 @@
    "avisado": false
   },
   {
+   "id": "1ofjq85",
+   "titulo": "Anthropic estreia com recorde e agita IPOs de 2026",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTV9nb0pKLVFrQUNwRzIxV0tpQ0F3UE1xSFRQMVVVeXNJTndueVBxSTNWZHNnVmlvWnVjVHQxSVNSRElxdXp2Y3B5ZVR1ZmJiVnR5THN1OXNURlVsYUpQZGpOM25kazNyQlN2dHY2bmt4c1huOVBXSnJDRVFCNl9UOTZzRXU?oc=5",
+   "data": "2026-11-20T13:07:41.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1cvj4ry",
    "titulo": "Fenômeno do mundo dos jogos, GTA 6 já rendeu US$ 1,5 bi à produtora Rockstar",
    "fonte": "Alô Alô Bahia",
@@ -1787,42 +1823,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13n9v17",
-   "titulo": "Além de GTA VI | Como os estúdios brasileiros podem ganhar espaço na indústria mundial de games",
-   "fonte": "jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMTdFdzhBTzlTWGtWOTUwRVdoT1lMeFpjaUtWYTNfU19aazhORVVpdWsyUGdIWEk4aGVaZHZzOXFnM0cybnVIbXdSbDJFaUlxMGM1Wk5jWEtET0hURU9tdUx4TmNLSzNmX19zNFNGZW5rSmJ3SUhNdkxfNEZUSXdSbmI3dlZUSld0cTBXTklHMzdDR3dHeHZQWnd0ZWdtWHJZMlM3VXVPWlA3ZlA1czkxSElKb0Z2SDZ0eTBGTUZuY2s5QmhraHc?oc=5",
-   "data": "2026-11-20T12:05:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "119mupi",
-   "titulo": "Pressão legal sobre a Nvidia cresce após investigações do Procurador da Califórnia e democratas",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWWkkwQ1dsNUczOUxVbFRQclZRUWdOWElCY0ZhSEFxWGZCbWRiOFFBZGVDb3VhS2MwazRqdnZBVkdJVkNUTzB0eWtCUDFocUNCYk84ZXMzWXVUSFBMMWpXczl0Tk5iZw?oc=5",
-   "data": "2026-11-20T12:01:34.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1m0vlyc",
-   "titulo": "Investo lança primeiro ETF da B3 atrelado ao Índice de Energia Elétrica",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Nc2x6R2YyeTlMakVvU1BOc0QwTzYxWXpsdWZqaU9MZldvbmV2LUFNd0lRdzBFZHU5M251ejhhOW1MMVp6allsY3lvVURwRTJzR292eFA1T1JoMG1Pb0RzdUF5bE51WnprcGfSAW9BVV95cUxPc293NUNrc2N1WHZVS1NiUzFyWHI4MkNVRk1oZFQwMXJQVXBwMnI4MlZOajE0WW9mSVV4YlNGTm8zOWhEUGloQllKZlFsSjJJTHM3OHVyTG5qVElXWUpoSTlVOUVWQllZOElHLThobnc?oc=5",
-   "data": "2026-11-20T12:00:22.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
