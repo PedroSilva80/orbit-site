@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T08:30:23.505Z",
+ "atualizado": "2026-11-21T09:00:30.338Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1557nad",
+   "titulo": "As ações da Anthropic despencaram após seu IPO.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JT1BULUVRNEdQbTRlZGdyZDZKbkdkdEozUGlZRHBuUzFWTGlPOFBNbVBQVkxySW9hbkFkdU1OTF9LOFhFY0c0ZUZFbDl4UlRNalhpWF9nbzF3c0FpZzBsWU1pQTROVW92Rmw3TzdsOTVuWE5iSzU2MHUyS0s?oc=5",
+   "data": "2026-11-21T08:36:30.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1rvt6z5",
    "titulo": "CrowdStrike negocia a compra da Zscaler, avaliada em US$ 32 bilhões",
@@ -1817,18 +1829,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1b9sff2",
-   "titulo": "Brava Energia (BRAV3) assume polo de petróleo e gás, antes operado pela Petrobras (PETR4)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbzNSdXhQSU1FVmNmQUxaVUdwNlRvbUM3R1dOR1gzMXJYcUlPdzZhSElVdmloRGRZaldvWFROMkk3MmFWazNUaHpPTzAwOTVfTDY3d0hNY2JrcTZMT2Fzai1VNmV0c1o2ZFd3OGdKQnhmUERqUDFCQi1OdFEySEwzMmNEQkVZZkthZU1paU9uYXVYa2M0ZUwySHNkZ2k0UjUtWlMzTmxYdHk3Y21IWS1IMThkM21HZzRlNlJsag?oc=5",
-   "data": "2026-11-20T13:29:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
