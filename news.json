@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T21:38:11.717Z",
+ "atualizado": "2026-11-21T22:00:31.028Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -179,6 +179,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1w8e31f",
+   "titulo": "Senador defende fiscalização sobre queda no lucro do Banco do Brasil e suspeitas em crédito rural",
+   "fonte": "Folha BV",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNV0RoN1dLaVNDam5wOTFCak8wcFRrTFRLTXRiMlF2ejNmbmFQMm41dnpiNC1tZkwtQk9JRDFnbFh5WmNMNEN1ck00VnhfWDNkRnFUX1hGNGMxZ2NBczFMTnlWWGp3bHJDUWp6Z21uaDVfV2hHVDV0N0c0dkFTZk1YVFNld1JVQUNDN2RkRUVOd3F2cEhMX2prVW1ZOXN4ekItcDNqR2pKWS1SbHRhbDdUa1Q4R3FPWFRlNUhyT0NrUkdWWUh0cDZhbDltbnEzaEU?oc=5",
+   "data": "2026-11-21T18:50:41.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1828,18 +1840,6 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "80yz8a",
-   "titulo": "IPO da Anthropic não estanca liquidação das ações de tecnologia nos EUA",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUHJBZm4tZHMtOWJrQ0x2ZG9CZnpnYlVZMlZ0ZTVfbWZHbHc1QnVXQXlPZkdBMkZDencwendwX3V0WGMwN05mTnpMQTlUcXM3N1R1QmRSMHhVbl9fNjZyOGFBbTg3WmdLT3ZlbldHZkZ5ZGdtRjFyOGUxMkhOeXVIM0stWkNyVW1sQW01VDFMQkpXeF92VjhJdlFGdzY2WXZFLW94S0pIZlJ6TmN6c1l0VE4xZUdhUQ?oc=5",
-   "data": "2026-11-20T21:04:04.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
