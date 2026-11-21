@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T05:30:25.269Z",
+ "atualizado": "2026-11-21T06:30:25.513Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -699,6 +699,18 @@
    "fonte": "IMDb",
    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XUTlWYUdNblBWeWFuaWkydWZwd0k1X1cyUnlNMjRQV2I4NDJ2bGlENl9FVnBCcmNZaE9nMEhJUENxcEtYeFJ3SmdoUVZsaVFSYW1XREM0UWRHQW91SE1iQWsyNWVVc1U3eEE?oc=5",
    "data": "2026-11-20T20:23:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6ve6m0",
+   "titulo": "Unha gigante cabelo preso e bronzeado: o que a estética de GTA VI diz sobre as mulheres do jogo?",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1FdXJJS2lWR2RjSTN6U1hha1VXUjVPRVdraC1XS1NLcTJ6Z2lQaG56MWF6amxBRmp6MEpvblppaWl2T2dLNllTSWxVai1mNVJxbndZMVNBRVhiY0tNWlFSRndfRTZhWG8?oc=5",
+   "data": "2026-11-20T20:21:04.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -1811,18 +1823,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1cvj4ry",
-   "titulo": "Fenômeno do mundo dos jogos, GTA 6 já rendeu US$ 1,5 bi à produtora Rockstar",
-   "fonte": "Alô Alô Bahia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVpuOHdKWXVxZGNROXpKSmZkckxxVXdvQzl5dTFuRWVUUGNXZU51Y1JDOWxuS3hPdjFySnIyMnhmMzF4VC1WZUhSS1ppYUFYSWk0MmdYMUxCZUlpd0w0YmN2Uk1wYlhOcFJpc1I4YkRHQVFfODhqb09wek81RGM2Z1hlcDFOTVVWOGpzLS14N18yOGhBN0RPc2FNNHVsU2t0d2xkYmdWclp0QmxXa1lvMUxxMk80Sml3S2c?oc=5",
-   "data": "2026-11-20T13:06:13.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
