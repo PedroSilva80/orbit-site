@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T14:00:29.913Z",
+ "atualizado": "2026-11-21T14:30:26.078Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "2blx3w",
+   "titulo": "IPO da Anthropic movimenta US$ 93,5 bilhões e supera SpaceX como maior oferta pública da história",
+   "fonte": "Portal Business",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPczBRMXBLdGdwbTVDSHMzbzNEOGNHT1FJZTFtRWQ3SV95V0lfckltVjRtWEVkV25nVUR2cjJUWWNJbzhyaFMzTTZQYllndTktTzgyckYyZzMtZElDOW1zUGw3MXQ4TXZXOVRLblVfODBVMW1qaWJnM0FOVXdDLUh3b1VQNVNtZVdjTVo3TnMyaXRZYng2bzVzM3pTOHFmNGV0M1o3TEdRS2lCOTlrRXRTUjNzMXNuS3pPLWZNeVlMT0ZpVXBwS2pLNVhYVWpkVDJrRXVHRQ?oc=5",
+   "data": "2026-11-21T14:22:07.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x0y3zh",
+   "titulo": "GTA VI: melhores configurações para jogar",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5NN0xPcXdkaVkzRFhfSWYwVVBxWnNfckgwNWRyRkxrRUxuRHBIclM1VnR6eXlhV3ZadTJWd2ZQdUl6QVRlSmg4TmZRNm9fdnViM2JNYVFzWERYVERTbWJYR2pRQ3Z4cXVMejRqZjdwdk1XQjRiX0V5NjBNeXg?oc=5",
+   "data": "2026-11-21T14:13:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fjkr7l",
+   "titulo": "Rockstar criou uma moto italiana só para o GTA 6",
+   "fonte": "AutoPapo",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE81b0t4OUtXUzZVakFTUExjV2lxWVpzcFFrcU5FelJfLXZHNHl0WFdoS184X0hWYURpU3dWTkoxVEM5ZVJ0NVZnYl9IZEhUVUs5d1JaekUyZ0xQMGQ3d1BrMlc4UmEwaEZ3Nl9JUUVwZTliUWF2?oc=5",
+   "data": "2026-11-21T14:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1itdkoh",
    "titulo": "“Achei que fosse um carro”: técnico da Lazio, Gennaro Gattuso dá resposta divertida sobre a febre de GTA VI",
@@ -411,6 +447,30 @@
    "avisado": false
   },
   {
+   "id": "1xl7qv1",
+   "titulo": "Golpe sincronizado de Netflix, Disney e Sony derruba AnimeFLV e redesenha guerra do anime na América Latina",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHVieWsxb25lUmtOMzlYTFZnRUNJXzI1TWxJMFdnQlp0T3JvS0ktUTNicWE0cFRSeHlDekRPX0pKVW5FQnlVVFZzUkZVWG8zemNoZVN3Wl84U2FKV0ZLdnVJTlo4NTdtYTItWWxBMHFscWg1enhLTFhFTUQ1QmJoaTItaEt0eW5Gam10TWc1ZXlvTzNoVWFFTC1aMXhaT3MzVmRMTjREcE1NZw?oc=5",
+   "data": "2026-11-21T07:13:50.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yxvy6m",
+   "titulo": "Trailer de Dragon Ball Super bate recorde na Netflix e escancara corrida por janelas de anime",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGF5cGl1Q0lqVGhod1JHYnBjYlJHUXR1dFlYdEJUUzdHSVlxeHBVXzZlb2NiNkZpclYzZDE4ajNNTWdGeFh3VjJLWlBRa2JDdGhGYlMwdkVHNk9QTE5rOWZ4RmhkVWtpRkJ2VGduemFRUUprWXppc3FBbU54Yi1PR0I4ZU54d2pFWTZmN3Jn?oc=5",
+   "data": "2026-11-21T05:43:54.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "m06xhz",
    "titulo": "EBC Lança CFD de Pré-IPO da Anthropic no MT5, Antecipando a Esperada Estreia na Nasdaq",
    "fonte": "realnews.com.br",
@@ -697,6 +757,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "awml9c",
+   "titulo": "Disney supera expectativas de lucro e anuncia investimento de US$ 26 bilhões em conteúdo",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWpSRXM5Q1BLaG9GTTBIYVdZRjEzRVIwUVlralBadGdBYlhjLXR4RlNNUDZLUGVUZDd6QVdPUUZ0SEVRb1BDZkozZ0wzb1UwbV9xajBpWDJXUXhDVVBfbG5wSlJoY3E2NVVVa3FJemt5Rm1jTHJiMmdidllLTDFIZzF1SW4xdmdkSDh5TjRiakNyZ3hfRjhBUENRejROamU4ZVpRT1RaSlVwSF84TjMyeHBxakZsZTJRblp6T0NoQQ?oc=5",
+   "data": "2026-11-20T23:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Disney",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1765,78 +1837,6 @@
    "fonte": "Minha Operadora",
    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS1hnUElZMGF1aDVQYXJ5UnR0aS1CU1VPTEdMOXlNWVBXcnhnM2lMb3p2Y0lHRTNaNFlTV1owWnpqYkhzLVRsd01jZmhacmoxYUJXSGlON1ZlVjhveEc0U3VCYmt0RUJvbWF4YmN4SDI3VlpDbEtPaUF1MDE3Q19BRlhYcnVjenJWMkRETVdvd3pHT2dSZVZ4LTJB?oc=5",
    "data": "2026-11-20T16:43:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qdjoll",
-   "titulo": "Ações da Anthropic: quem ficou rico com o IPO recorde",
-   "fonte": "EBC Financial Group",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaThaaGF6ckNsbVoxX01BS3Q2a2RtUkdnYVVZNkU2V0pXYzNHblN1OHV1MThiandTMEdKMUFraDJQR1VYNGFqWlNic29raGtJWEs3Vk1rdG9DaXBheEtJV1QtQW0yMmZfV3JqTFBaX1l0am01UnVGSTNJSUVuOVVLMUhCeDFwQ2Zw?oc=5",
-   "data": "2026-11-20T16:40:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lnmv4r",
-   "titulo": "IPO da Anthropic: trade de short via CFDs?",
-   "fonte": "FinanceFeeds",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA4dzNwV25xTWtwNjE5a2VHTEVzcEZsbFFBemRMQXRuZGZ4OGUzUHlwcnFNbUFkblJwbTU2NzJ3OG9kSG1FUjBFTlNtLWt6dzdZWEtlSUp3V2R4ZXBtQUxtVGFmbXlpNFFNR05Ha2tORkZPTm9YZGFV?oc=5",
-   "data": "2026-11-20T16:30:09.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1bx2ijb",
-   "titulo": "Ação da Anthropic cai mais de 9% após estreia recorde na bolsa de Nova York",
-   "fonte": "BOL",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFEbWNEVENPQVFPOEstV0tCelFvYWpNbVVNVGVhRWRsVS1JVEFYWkd5N1kzMERVRk8xWjFZbEwtaHRDZjNhcnhGUHIxOWpRWDBRZzF3UWQxU0IyVFFEM202Rmd1bWdpVDQzZUFGczVMaWFHUDVFaDdibm4xVWxxVGZnUUdZSHBpOThsU3lLU0hMUVA1Tm9naGVabHVuckczQTBPRC1JSzlhSm1Q0gGyAUFVX3lxTE83c1dGMGxRZU9NZVZBVFBtZjQ1M0tRQWdvamllZTZ5ZzctX055ZU9nb1R6Z3pFVzdEYXpyNUlPcHEwc1AzTzZ2aFdRVmFSV1hqYldDRVZreGMyYUN6UkRCeno4NUxZd0g0Mzgtd21NRHd6TXo1SEtIZEh0dngzLUI0TWZ5eVZzMW8zR1ZvQlZCTmsxc2QtYUR5N19lVml1SUxweVh1X250MTRUdThQMk02OFE?oc=5",
-   "data": "2026-11-20T16:17:16.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 5,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1fiwt8u",
-   "titulo": "'Um mal necessário': como a Anthropic conseguiu realizar seu IPO",
-   "fonte": "Repórter PB",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNM3FqRG9RS2xUZHRCNFBESU5jUlBJS1lxbm5DMGdmdkFmTUhaRlhONWxoQjN5VnhmSmk4ZU10OTF1QTlsdjJOUTNLeTVVMllxRjVuYUFvTnJUbmZFRC1NTHVWWHozcWhoMHRvUF9CUWNPbHBLaWxydnV3Z0ZmRjZCdmdTYmRab3NPaWhtZGx5ay12aUZmblNuTWhmREI0a2p2N3NhNUFWcnlRTnlndHJ4V01RTE1pX0R1MFgtWFhmRWFEb181ZXlR?oc=5",
-   "data": "2026-11-20T16:15:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "23ta9s",
-   "titulo": "Alckmin e ministro do Turismo cumprem agenda no Vale para lançamento de concessões turísticas",
-   "fonte": "CBN São José dos Campos e Vale",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbEdhOW43RC1VNUtINjVEZGJHRFFyNWhqS2xLa2R0Mk5KYVRMYURjWkdFQWNNcnZTa0c5MjgwODg5QW12UkVrZXR6eDR2YmdQUldBdTlGNW1WWmUycG1yMjhxVXdTNHlfRjNUYkkzMk5kVnBrMTk0Ukc4dXFxM0g4WDFvbkNiWnk3aGkxdFpWVjRkWkZjQWpjZEo4aVF1akh3NEpEUjRicC1HbzYxSnBKRThvU1VSbUxaUXJrM1RR?oc=5",
-   "data": "2026-11-20T16:09:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "Vale",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ysx6jf",
-   "titulo": "CALOU GERAL! GTA VI AO VIVO NO XBOX SERIES S COM FSR 4.1!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdVM1aEdwcTdhcnJiZW9oQ2xBcmtIaHByUWFrR1VITEI5Sm5LWmMwSEE2Q0p0Yy1RdnVmV29JQnhJYXN4Q2haUTZRckxoNHFzU1BaTlNnclRPYWFweXVLd2dVZnVhLVBKakJDTUltUUd6U01VQzNYUWlhSHNuck9SVDNrejNjQQ?oc=5",
-   "data": "2026-11-20T16:08:22.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
