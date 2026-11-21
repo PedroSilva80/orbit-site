@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T15:00:31.237Z",
+ "atualizado": "2026-11-21T15:30:26.734Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "87by7",
+   "titulo": "Além de GTA VI: 10 melhores jogos de mundo aberto para jogar agora",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkI0aGtYaHl2OVNHaWlQSi1IMjJYSzB3RGxyNEZ6Z195akJSUUU5Wk1JMWlCd0N3cnNaMUVjQWZYUGNCbHVnU085UURfY0hmMDAzQmNxSllfX3pfTkZBSG5pam1KRGdvYVJtODRZVzI3b3VXWUNpeGcyYlo2YlMwZUlaUHhmbXpJV1ZsM3BDV0trOWF5enR3c1Rmdw?oc=5",
+   "data": "2026-11-21T15:04:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vnz1f5",
+   "titulo": "“GTA 6” bate recorde e se torna o maior lançamento da história",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0tQaFotS0RMOWRyWFc4NVhaNjduUHFuekFSWVFSa093OXJyb2lIR1JQQVZ5RDhvdC1La01BSWxYbUY3aERvRENXUlA0bng5cEwwd0U2ZnNIRTUzVGNIVWFSdTYzQ2d2My1nTlE5cUtfeGdzb3NLLVp6UklEbnNGbVNTV0pQQTJZNTVCWjR1QmZyYkg4Y2NiV1V3?oc=5",
+   "data": "2026-11-21T15:02:42.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qkxh5c",
+   "titulo": "GTA 6 faturou $3,79 mil milhões no primeiro dia, mas Rockstar enfrenta tensão sindical",
+   "fonte": "Pplware",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3BIaERtVy02dkdfOGxSaVZVX1VUWmtuQ3EyTFJheTQ5X3ZyWGM1OTBfVVIyTVFNRHRGS1BrLW5lanNQak1mejNFYS1NNWtTRWNyS1AyRmhMVWhBWTFyWURDSDVpUG5ZOFdQdW1fWndmazRZeHJVWUxMVVBDX2lPUVNOc3NqbkV0MU54Vkg0MS1ZakhNUEVtbW5lV050TldNTVVZQklHTFducHJsNDlnQlhEcFbSAboBQVVfeXFMT3BUU19MTjJxdnNlQkk3WVFkWWV1WVIwS1c0a0hzbTdtQnRxVXpXcW1oWXVuckZRWWhscGl3YjFsYjNDem9qaUtwLUdDN1dYdUpNUkwxeVRYOEl5RkdIa0JDbS1aczNGYzROWmtBRmsyU0xJNkNlOW5yRHBOVzF3U3NWbkpwMUYxX2Z0aFdVb1Q3ckNUczlWWlB6cXkwWE82MUMzSUVxYTNhcVczbktvQmtzVVRlTVYzR0FB?oc=5",
+   "data": "2026-11-21T15:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "c7d94q",
    "titulo": "Sem acesso a 'GTA VI', internautas russos imaginam versão local do jogo",
@@ -182,6 +218,18 @@
    "avisado": false
   },
   {
+   "id": "1fsm339",
+   "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
+   "data": "2026-11-21T13:42:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1aa5k7g",
    "titulo": "GTA VI Gera US$ 1,84 Bilhão e Atrai Netflix, BMW e Grandes Marcas",
    "fonte": "Forbes Brasil",
@@ -203,6 +251,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "cvd827",
+   "titulo": "GTA 6 sofre ‘review bombing’ no Metacritic, mas recebe avaliações positivas de compradores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSjVKZURaMUFNTUtmNHBpVzRndmlVZ2VwbXl6UDFMbTdVRnRXTmJaSXRraTRiY3lJSzRXLXF1dV9vMGc0VDYycUMzUm5kZVRVWUlRSlI1VkNLZ1hkTFJFS1ZocWd2Uk03MGFlbnphV2Q4NWtNMTROdE45QjdtU2FxcXBVRmlralNSSmkwS1hEeWFwQXBZb0RVOXo2bUFycF81TE5JNS1MQ3RoaVl2UVdYekJmWTJFcG9kWGJZTUVtUnYyeWcyeVFOYUFn0gHPAUFVX3lxTFB4Y3Eya1BkQjh3bnFvWm1qX1U3OFJHV0RDTFF3NzBnbl9XZVNyMGVoZHh5bXBQWWpaeU1vZWdCbWxUSS1JVGEzNWk0OEtLNk9KX3dnYzN2ampmMFVjYnR5Z3BfZ1doSDRMTTNqOWJ1aWFTbGlTZHRIYjROeWl5TkYyOVBpaklCekdSdlBXekdQS3lxd2p2aDlDakJid2N3MUVPNzI4WHpSUmZ5T0F5NnNhSGJpUWJjdGwtdEdNSG1FQTlUTjdQalVWWVNlTjY1QQ?oc=5",
+   "data": "2026-11-21T13:33:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1778,67 +1838,6 @@
    "data": "2026-11-20T17:42:05.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x46dqz",
-   "titulo": "Anthropic capta US$ 81,3 bilhões em IPO recorde",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZbXNaQl9iYWw4RHZIZ195dlFYTm5ibWN0MGdSenljOWNRSGtaYjYxcklHS3ItZ2YtU1oyUEliQWtZaGlSa09fSFRVT3JkWU5HTU1PZjRKSXBWWUZ2ekJOQW5fRVBLd3ZzckYyTVc4T1ZXWWNYb1Z0cEhoZw?oc=5",
-   "data": "2026-11-20T17:41:11.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "24e9n3",
-   "titulo": "Após falhas que afetaram Microsoft e suspenderam voos, Trump demite diretor de segurança cibernética",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb3Y2VlBrQmQyWVpkVWtpSlZWRjIyb0NGc1h5WXJRZlFIUzQzak1nZmlnSkdXdk9PM05RU0V2dXFXM0RGMzg0SE5GTllaT19MSHROdUZnUHhERlA1QXRPN0Y4N2kxU1RrRXAzd2NDbkFNNU8yUDY2MzJCUHJmNGxRcnpVejByLUw5LWNjQUdDWHZNTUFVdlpSY1E3UjBXb3hhRmQ2MlJhb3hkanZ2cGpzTldPZDczSllWZC1Kejh6Tnc5SDA4MGM3ckRQQlB0VFlmblBkWE1ITzd4dkt4NkU4OHVYVC1IUWJVZEhmbdIB-wFBVV95cUxORlVjVGtBcDdacjhHbDRWbHExWktrdDRJSVE1blUzQjkzWlM3X0JUanRybm9VcXRmekFmUDVBbDZrQVlVbnVTeXNfZFBZUkI0NXlIdzUzSDJOZFhXN3dOU1c1ZkUyVkp2ZDA2UTUxNVFSNUtMOE9XaTdySW1iSm1xQTFLb1FfWDRBMTVYd2RLalhiMHEtQW5vQ2lHd0kxSFhRUDI5cUpPQU5zZUxyc3dlcGxrVkdNSGdYTHRwS2l2NjBMU19hREhaOFV1U2U2Ny0tdjJXdE1hYVVxZ0lIVTlKRlhvMFVFaUJIODF1dUd2Y1NvQWR6UFpUT29xNA?oc=5",
-   "data": "2026-11-20T17:36:52.000Z",
-   "cat": "Liderança",
-   "empresa": "Microsoft",
-   "score": 9,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795222831316
-  },
-  {
-   "id": "z7stzj",
-   "titulo": "O tempo que passou entre 'GTA V' e 'GTA VI', sob a perspectiva de um fã da Apple e da Rockstar",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTy02dU5kTDV0ZmVYMDRtcmRGUmZmN09SQ2tFMFpPaU1ZelFhSjdyX1NmTW9GRkI1bWxvQTVpMlZCcjNpTXdKTWFsMU1wSTIxVF83YTlKSWUxeW9FWFMwREwtN3ZuN2hhUjA2UkFwUEgyTXF5RnlROEg0bUc0WEo3bWRTQ2pSaEF6THAtYlVBalFkZWlGWktjOTc2bWFqbVJ2bUYxSnVnS3pHSFRiaTJzeHVHSUw3MEdfdFJrVnhqQkZ5WnppeE50U0pWcHNTQ0YtUkJoal9YTXlWd1ZqTTVTajd0SDMtS2ZJMm5BQmgxMzd5NmRHbzNReQ?oc=5",
-   "data": "2026-11-20T17:34:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cvj4ry",
-   "titulo": "Fenômeno do mundo dos jogos, GTA 6 já rendeu US$ 1,5 bi à produtora Rockstar",
-   "fonte": "Alô Alô Bahia",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNVpuOHdKWXVxZGNROXpKSmZkckxxVXdvQzl5dTFuRWVUUGNXZU51Y1JDOWxuS3hPdjFySnIyMnhmMzF4VC1WZUhSS1ppYUFYSWk0MmdYMUxCZUlpd0w0YmN2Uk1wYlhOcFJpc1I4YkRHQVFfODhqb09wek81RGM2Z1hlcDFOTVVWOGpzLS14N18yOGhBN0RPc2FNNHVsU2t0d2xkYmdWclp0QmxXa1lvMUxxMk80Sml3S2c?oc=5",
-   "data": "2026-11-20T17:17:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19kjcng",
-   "titulo": "Atacante do Manchester United causa polêmica após jogar GTA VI de madrugada",
-   "fonte": "LANCE!",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOU1lYTWdWdXBtMEtXeGNIZXNPVWVvVzEyaXBKbTlRbHlaR0RYajdXQXNRUWRHc05xczl0cURYMW5sZzdteVdwNnhuQ0dKZXYwcmRDOGJhbEJHM3N6aXRjeXRUc25GdGFXUVh0WlhPSmhoSGRlQmpwUC1EMTlHZnVIZ2tBZU5vcmd3cUt2ZWtUak5uWExsbEpPTTd4ZnE4dHlQMHlXTk5oam91UDRvWHZuTVFLbWwxTHl3M3JaajI1VENtSnNXZ2c?oc=5",
-   "data": "2026-11-20T17:16:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
