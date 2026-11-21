@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T08:00:27.930Z",
+ "atualizado": "2026-11-21T08:30:23.505Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1rvt6z5",
+   "titulo": "CrowdStrike negocia a compra da Zscaler, avaliada em US$ 32 bilhões",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDVmWWc2SURScHExNklOcEJVUjNNX0ZmUHA0NS16SXpGQ1hOM2h6Ml9VSmZISkRHSHNEMWpBRmotbDN3anFLUm90RDdqWHFXdm44d011WE9WZ3RlU0dtaUZIc09wVXdSSlgxNUoycktud2FseDMzVUxDUDdFUWx5UE1LWlkwcW9tQlIzcm90amVYcFljdXByZktibmxnejQ?oc=5",
+   "data": "2026-11-21T08:11:06.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "f9gxr1",
+   "titulo": "Despenca a Nvidia 14% e o Nasdaq perde US$ 4 trilhões em uma semana",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS25qeTYxOEFuMmNiS2Z0U3dEbzVDNVlxdmtkeXExS0w2VTRJYmV3LWlnRFZzOFhOcjdhMURRTDFSSUxkeUhpcG1Wel9rS3NjTGFKb21jcExPVXlpRVNveGVfSXVKeEt4NWJZS0VKVFBHOS13UDM4TERVNkxLSWdXajZPUTBJbkRfOUE4SA?oc=5",
+   "data": "2026-11-21T08:11:05.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "47mh9n",
+   "titulo": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ19DbGtVQ0J5Zk1NNGhZNHZRX0V1SDFjcmxyRE5jSWpCSzhEbkRpckl4R0VZbGh4Yk1KTjR6R3c3V01UeHM2MWN0dTdTcllpWDdJVFlkVndoNmtLR0VucVFiZW0xcEFsa1VjU0NudENiNURTc244c2lJU1A1a2lmX3AxcXNkTF8zc2EwZmlXMDd2Z1hTRlR4bExzSHdLMV85T1RyVkktZnp4MGM2c0NYRUF4VjQ1dGtfam52etIBwgFBVV95cUxPeHY2TkotZklGM0NYYnZFcEUzVXpWaVVnZTBwVmFFWjBId3N0RHpEWGNHbkxJc1BDZk9Pa2ZqeFo3WmhNbjNxSFBYQllEdTRoeTg4NkdoX0F5MWZIaXZ5ODd6M3dCZzFtbWx5MHF0RmZGSzRteEN2M044Y1RfRnVWMUIxUE01dlN3Uk9Jc2ljazdGMGpvUnBKTTRKa1RFbWFtd3U0Yk1lcVJyUmlZZXhQM2JKVFpsQlljVnd2eHZRNGNCUQ?oc=5",
+   "data": "2026-11-21T08:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pqgqzg",
+   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
+   "data": "2026-11-21T07:59:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "wy0bak",
    "titulo": "BLACK SABBATH, SEPULTURA, METALLICA e SLAYER entre os destaques da trilha sonora de GTA VI",
@@ -1086,6 +1134,18 @@
    "avisado": false
   },
   {
+   "id": "1nwhln6",
+   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
+   "data": "2026-11-20T18:04:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2aescv",
    "titulo": "GTA 6 traz participações especiais de outros personagens da franquia? Confira",
    "fonte": "Estadão",
@@ -1770,67 +1830,6 @@
    "empresa": "Petrobras",
    "score": 7,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qv9plc",
-   "titulo": "Finalmente, abrir os olhos! na Netflix, uma jornalista investiga a cidade onde passou a infância",
-   "fonte": "Sortir à Paris",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOczRDOUswSUNhdmFKMnlaX1dtanNWU190ZVRFNkcyUVpiVDhfb085SHNFdU9BM1psTU5hZDRMZ1VjMWlpZFNLTGhySG5keGphTnpFLUVRSlY3YXd1V1lLMUppZGV4Y1FkRTVEclNfVFVPM1Z6ay1VbnB4NEp6LXJhTVdsUUtyUTJHLXRHOW9tMVJqN3hIRmw4cDRZQ3FPel9KQ2RlMEdZNXEzSWVNdUpEUE9Mdms1QmloVzhXSHFSWGxYSE9KdWlidDRmaVpZcDBLeGhzb3JwaVppMGxhTVlXQ19DVjkwM2JRM0RhSmFGVmM3Yno4c1NIQ3F5elE?oc=5",
-   "data": "2026-11-20T13:26:46.000Z",
-   "cat": "Risco grave",
-   "empresa": "Netflix",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795185029728
-  },
-  {
-   "id": "v2d1l9",
-   "titulo": "Futuros das ações dos EUA caem, e IPO da Anthropic não consegue restaurar a confiança",
-   "fonte": "Traders Union",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkY4RXNKeFlZZHAtSzRlZnZtUWpsUlZFNmVDRlhsZEhEMktKU1Zzd25meTBCU1h2U1o5ODBmUEdOa050Zzh2QjRWRkZVMlhYZXBNTVhJcFJPU0lWaDV5R2dGa1ptTDFZVUNqRDdjc004Qk85cWZQUEIzUHVYVUhEeVp3?oc=5",
-   "data": "2026-11-20T13:24:52.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qwwrrx",
-   "titulo": "Anthropic: fortunas de fundadores disparam e somam R$ 817,5 bilhões com estreia na bolsa; veja ranking",
-   "fonte": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWGFiZ0RJQ2dybjNJSUZiX0pxR2hEQnVIbUt0Vks3czVzMkMyVXg5b2JIa2hxN3dpMnhlUzRlZ2k5S01pckY0VGxLRng5NkR2cEk1akFuS19CZ01iVWhXeVQxcER0cmhZYTVvY3lyazdobmRmZGpidGdqUnowNlBaZmZfdVZrR0FNYlpwektyUzV3LVB4UjRUYmtpZDNQR2hwTTFkM2hIaDh0cHVocVVyYVB4VFNLYWRybUZqakU0T0RmME44VzdfZVVhbzk?oc=5",
-   "data": "2026-11-20T13:22:58.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1pjak81",
-   "titulo": "Trump demite diretor de cibersegurança da Casa Branca após falhas tecnológicas",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTVI0N1Znc0hnTVFXcjY5SzY4NlE5VVhIUTk4ZHJFcjlpREhOc0dzLVJDVDFQS3dIVlRqa20xelRjYk9laVN1LTZQN2ppRDVSWDFSRG96QzhmdFdIOThHMGg0eGpTNGtCRzFKdmw1ZFFtNkNSU3V2MjVob1dpUk5TUTVMYlFxaXM3SDdJTTJaWWQ1Rlh3b2N0aVdjRDc2QVdmMFRkQnRYbFN5Nlc2UzVPT0dqazlJbklVeGMxcUdpSFlxa2owZmFPVmpfVHJoaHdCX2Z6RzNwREjSAdgBQVVfeXFMTk1SNDdWZ3NIZ01RV3I2OUs2ODZROVVYSFE5OGRyRXI5aURITnNHcy1SQ1QxUEt3SFZUamttMXpUY2JPZWlTdS02UDdqaUQ1UlgxUkRvekM4ZnRXSDk4RzBoNHhqUzRrQkcxSnZsNWRRbTZDUlN1djI1aG9XaVJOU1E1TGJRcWlzN0g3SU0yWllkNUZYd29jdGlXY0Q3NkFXZjBUZEJ0WGxTeTZXNlM1T09Hams5SW5JVXhjMXFHaUhZcWtqMGZhT1ZqX1RyaGh3Ql9mekczcERI?oc=5",
-   "data": "2026-11-20T13:20:18.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "al1sdq",
-   "titulo": "Anthropic estreia na Nasdaq com IPO recorde de US$ 81 bilhões e testa apetite de investidores por IA",
-   "fonte": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPb01wZmlvdHY4UlNCUGZlSDZNUVVvWFk2cUhUMFZWcE5YODZlQ0JNVDFIUDdVOFdKaEhDVkFsQy0yTHhHT2xja0E0MWNfZ2hlY1RyMkNXdEZBUTAzTkNtcWJYZ0hWUHVYSVFBWXpGb1ZoUXZyUlR3bE9rQjAxZDdrNER6bERtVUh3N0h6RFdOZ1IzNjVCbVp4MW1Mbm5TcjhocU96OUpRNVRrZzVyUTFMclA4dmtuNUJ1TXlnU2NNUVh0WEEtWlRNaTRMQXNJdw?oc=5",
-   "data": "2026-11-20T13:19:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
    "avisado": false
   }
  ]
