@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T02:00:29.239Z",
+ "atualizado": "2026-11-21T02:30:25.487Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "lor046",
+   "titulo": "Death Stranding para PS4 e PS5 despenca de preço na Black da Amazon",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWc2NnBQSjJXdGsta29YcEc3TXVyd2lBM3BjNV9WdXRka0kxeTNUOUFvdXV5U0pjN3dSV01VekRlaGYybk9iX3N4aVZoZ2t0Q2lfUG5iRXFsODVkc3J0N01iMDVtMHpUcDVwS0RobTRCZTZWNEp2X1h3VlNtUG91TjFod1ZxcmtFTVA0akp4ZmctNENsSnl0M2ZKeFl3Z3ZadTlCdGZn?oc=5",
+   "data": "2026-11-21T02:25:55.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "sb0fmq",
+   "titulo": "IPO da Anthropic atrai mais demanda de investidores de varejo do que o da SpaceX",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmt6eG5rVHg4UWxfSDNfZTVXZVA5ZzFNNVFQdlVEcjhUZng0eVpPY2MwZTRUMlVhdzdHcF9sVlZneC1qZG92MjFSbGlNejVqR01wRzVuOU92ZUdEWllRbzAtaTEtbUJJRERGX2hnX3V6Zi0tazQtV2p1a0dZVmlGUDYzdmlJYnRkTHZMM0dlOTNWb2hldmpVX0dnRkp3ZjVaMWJkSTAzRUNKNUI1WU9PakRzSVMzaE9yb0N4YWUyT2k5QdIB1gFBVV95cUxOaW5WQVVUQ1NsUjZJY3Q1Smh2Nm1oYktRa1hDYVFETU41VThFeGZud0pyV3VLVFlJbnBRSzZXbGlKZklqZnJiNGQ4TlJTeE04YjE1UXBVal9tUEN2eVJSc1FKekRFYmNjR2VqVWdkcHQ0LTZwLVl4TWNuZzk2ZHNoNmFwUnkxakVqQmxQY3lmRmpac3lOM2Y4WUhzRHdxVDVUeGVCdTNKZXBNU3Fla0l0WGdDck1GUktIb0lOZHl6TmgtSGFGQ3A1QlQyejFrY3BkdHlHeUhR?oc=5",
+   "data": "2026-11-21T02:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "jdbjxa",
    "titulo": "GTA 6 arrecada R$ 22,5 bilhões e supera estimativa inicial de vendas em quase 90%",
@@ -137,6 +161,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11wsjrg",
+   "titulo": "GTA VI provoca recorde histórico de tráfego de dados na internet mundial",
+   "fonte": "Portal Rap Dab",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3VsTkQ4UU5raWJCaloyQkRsendBOUdrdEJVSDZ2VjJqZjNrSndzYnhVVmdxblVheW91RVhnZUEta1RJZEgzNGNuTXd0cjNNQ056c1BfRnUxZjRlbkYzNmlHTXFTNE5rY0FEa3Job082RE9renZTU19mQUtnSnk2My1XdTlVbC140gGIAUFVX3lxTE5TdWxORDhRTmtpYkJqWjJCRGx6d0E5R2t0QlVINnZWMmpmM2tKd3NieFVWZ3FuVWF5b3VFWGdlQS1rVElkSDM0Y25Nd3RyM01DTnpzUF9GdTFmNGVuRjM2aUdNcVM0TmtjQURrcmhvTzZET2t6dlNTX2ZBS2dKeTYzLVd1OVVsLXg?oc=5",
+   "data": "2026-11-20T22:59:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -984,6 +1020,18 @@
    "avisado": false
   },
   {
+   "id": "1bx2ijb",
+   "titulo": "Ação da Anthropic cai mais de 9% após estreia recorde na bolsa de Nova York",
+   "fonte": "BOL",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFEbWNEVENPQVFPOEstV0tCelFvYWpNbVVNVGVhRWRsVS1JVEFYWkd5N1kzMERVRk8xWjFZbEwtaHRDZjNhcnhGUHIxOWpRWDBRZzF3UWQxU0IyVFFEM202Rmd1bWdpVDQzZUFGczVMaWFHUDVFaDdibm4xVWxxVGZnUUdZSHBpOThsU3lLU0hMUVA1Tm9naGVabHVuckczQTBPRC1JSzlhSm1Q0gGyAUFVX3lxTE83c1dGMGxRZU9NZVZBVFBtZjQ1M0tRQWdvamllZTZ5ZzctX055ZU9nb1R6Z3pFVzdEYXpyNUlPcHEwc1AzTzZ2aFdRVmFSV1hqYldDRVZreGMyYUN6UkRCeno4NUxZd0g0Mzgtd21NRHd6TXo1SEtIZEh0dngzLUI0TWZ5eVZzMW8zR1ZvQlZCTmsxc2QtYUR5N19lVml1SUxweVh1X250MTRUdThQMk02OFE?oc=5",
+   "data": "2026-11-20T16:17:16.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 5,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1fiwt8u",
    "titulo": "'Um mal necessário': como a Anthropic conseguiu realizar seu IPO",
    "fonte": "Repórter PB",
@@ -1776,54 +1824,6 @@
    "empresa": "B3",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cjjqri",
-   "titulo": "Lana Del Rey resgata música inédita de mais de uma década em trilha sonora de “GTA VI”",
-   "fonte": "89 A Rádio Rock",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4xaVVRVmlPVEVTNlUxTUtOREROa0Z6aWhscm4yMGZlTjA3WEZfWTFKTWVnaVkwVDhJN3A1TlVEcjVQMXloSFVhWldBcnZmZ192U1FzZUVPUTg2cnItZkhuU0o1bTF4eXZSNVJzVElYRDdjQThYRl9vZmhfa0N3UQ?oc=5",
-   "data": "2026-11-20T12:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1yb4jhv",
-   "titulo": "Jensen Huang pode retornar ao comando da Nvidia? Petição pela volta do ex-CEO passa de 170 mil assinaturas",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbmx3X3dJWUpieE0tOU1rbWhsRnhtRlBoRDVBek1VTDk4cnlvYzd4c2gwMG91dk1WejFfQU9Ubzd0bUd1b01saEIyenJaTmo0MzVBbk5TV3VsZDhsNVl5cGNsbmdpZFJncUJVcFFGNkE4SmhaM0lQcENaUW00U19jcVQ5cDVjTFVDRm9SWV9qTDZtWUEzNnJKZ0NmdlkxR0VTZV9fdWhtRld6UnV4dFk4aDlXZV8zMENXQUtv?oc=5",
-   "data": "2026-11-20T12:00:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dvgzb5",
-   "titulo": "Elev8 lança CFDs da Anthropic após IPO recorde",
-   "fonte": "FinanceFeeds",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE05aGY3UjhfdFc4a0xtckFhZnFNX1BiWUh4RGpXSkJhRDR5RWZjRHBUZURmVGZROGRZd3BFdm9nSHV2RjZ3NlJKNkEza0I4dENVVDhTYzRjTFNyemJFSjJta0U4M0RmSm1qb3hlZ0hORFpCVk4xLTVV?oc=5",
-   "data": "2026-11-20T11:55:09.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12v8w3t",
-   "titulo": "Anthropic estreia na Nasdaq avaliada em US$ 1,8 trilhão",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb3VVa3QzSWVBaEJUaE9DWkdWZkxPT1BaaWV2TkdBWEJ3YUdoQTNITjQ0cE9jRlo3dno0Vy1UYm03WDVxenRISVQ3YURhMGd3VFRfRUhHVkdncEVickNYQjFOc0NjNk4wZ3hqQWlWenZnUVVtLURyZE5LeldVRWF4ZzQ3WXhlYnh0YXRiNGNCa0wxdWtuY3lwMWdqRWpIRWVuVWFSYQ?oc=5",
-   "data": "2026-11-20T11:49:01.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
    "avisado": false
   }
  ]
