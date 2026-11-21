@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T16:00:30.569Z",
+ "atualizado": "2026-11-21T16:06:22.581Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -600,6 +600,18 @@
    "data": "2026-11-21T07:59:10.000Z",
    "cat": "Lançamento",
    "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "skiex2",
+   "titulo": "Pokémon abandona a Netflix e escolhe a Disney+: o que muda na guerra do streaming infantil",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
+   "data": "2026-11-21T07:59:10.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1828,18 +1840,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nwhln6",
-   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
-   "data": "2026-11-20T18:04:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
