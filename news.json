@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T11:30:27.530Z",
+ "atualizado": "2026-11-21T12:00:31.084Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1hurbwe",
+   "titulo": "Chuva forte provoca alagamentos, queda de árvores e desabamento Aparecida e Guaratinguetá, no Vale do Paraíba",
+   "fonte": "CBN São José dos Campos e Vale",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDRPRmVPblM2ZkRoWU1JdXUyZmV5cmdBTjdHSExlVlhPUDdBcDl1S2s0ODNhMkpUTUxUYlpCcEQ2Y2lnTjVJUUtiM21lRXVmNmNwQTRUVG1vOWczVjdVUHJCb3JQMTVRSXFvMHdyNGpxb2xRODB5V0Fqd2JhRGxSOXlNR2VBb0E2azh6aVBOVm56MXhSMlNiTmtkZGlHMHk1bVZ1U19vSVUzSEVPanBXRW1Ka1Mtd3FVN25DZWNLbFBMa1NkWW1TRWRkazdqRTZi?oc=5",
+   "data": "2026-11-21T11:55:31.000Z",
+   "cat": "Movimento",
+   "empresa": "Vale",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "au5zip",
+   "titulo": "Trump defende retorno de Jensen Huang à Nvidia em 2026",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neHRfYzljczBJTlVJV2YtakE5VS1hY1B0YWpOdnFzT3d3dnFrc1VJWEdIcjQ0SDg2OWVRU3ZpQTJjNkxmdEppRU1hRW1jUXNocUpzU3ROZjMyMkZqdlIxVW9EdXFzQUJXT0JlUW9MUUUzVG9DQlZrVkN3?oc=5",
+   "data": "2026-11-21T11:41:41.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1jtjn2b",
    "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
@@ -1495,6 +1519,18 @@
    "avisado": false
   },
   {
+   "id": "1qdjoll",
+   "titulo": "Ações da Anthropic: quem ficou rico com o IPO recorde",
+   "fonte": "EBC Financial Group",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaThaaGF6ckNsbVoxX01BS3Q2a2RtUkdnYVVZNkU2V0pXYzNHblN1OHV1MThiandTMEdKMUFraDJQR1VYNGFqWlNic29raGtJWEs3Vk1rdG9DaXBheEtJV1QtQW0yMmZfV3JqTFBaX1l0am01UnVGSTNJSUVuOVVLMUhCeDFwQ2Zw?oc=5",
+   "data": "2026-11-20T16:40:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1lnmv4r",
    "titulo": "IPO da Anthropic: trade de short via CFDs?",
    "fonte": "FinanceFeeds",
@@ -1806,42 +1842,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795188629694
-  },
-  {
-   "id": "1elyc5s",
-   "titulo": "Captação de IPO da Anthropic atinge $93.5B: comprar ANT no recuo?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pUTZ1VGxSMkViYU9RQXk4UloxYmNlbmc2LVdycFBsSmtRRHVISUlrTndTa01MYVpNZ3dTZFg3LXZlNVNMdEFBTnRpOUN6cjhETVZ1S21WX3BHdUlEd2Z0NnpyQnkwUQ?oc=5",
-   "data": "2026-11-20T14:53:32.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ln0cz0",
-   "titulo": "Bolsas em NY abrem em direções opostas com peso de 'techs' e Anthropic cai 7% após IPO recorde",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPaV9xUllsMTlmYm1va00tOFlzZVp1MXY1TDBZQ0dIUG1rZmpEczB5M3YtVDM2THJDci1ZQmJKZllPbWhCRVBSVmlFdUZma3dRN3Ayak54VkswZVhkLU90Y2JXbHMtODhQZ2sxd3Z1ZjhSOE1LQ3BYdVhvWXpxN21UU0VIVTYyUXFRc2pQSTRvUXZhMXZmWXJxYnNVWXFnbkJmV2Vza0xiU3ZOdmVFZ1IxUXhlT3ZmaTQwNjJheThJeG5yR2pPVnpabVhaQWlUTXY5bTI3MkZFbjZ5bVh0WVB5bzU3bFpPZ2JwNWdWbdIB-wFBVV95cUxON180R3VBWUxvYjFTV1dmSHNJcndRLW5wMXJja0U0UmVTREloSXVpbEkyZmFFZ0NabTRmeHFFbXV5ay1YQk9LMXI3MC1rR0VkQVpjSGgxWGNBT1pvMXlWUWpLZlZfbmVBLUlFd19YNUpTWndTYkpwakVmb2VnN0QwTDAtQmlZLU4zNlVTVEtPSUJaZ3dXY2xMcGRJdTZaQ1hIQUptM0VtXzVKbmxmVTg3NGlEcGYtZkxzSnFNaGN6TnZ2SHNhZHV0MXN6UWpYcmNHMFRZekY5b2lKX2luNTZOUFVSTTZ6XzhYV24xcWZfYloydjFVT0JnZVphQQ?oc=5",
-   "data": "2026-11-20T14:52:04.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jc2vt7",
-   "titulo": "Dados do Google Trends mostram que interesse em torno de GTA 6 explodiu e gerou dúvidas práticas de consumo no Brasil",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPc1A3S1pyLWl1TllMdnhLUS1mZVZwcnB2bFFXcmtEYjhMRGd6Skh5NUQwakdKVTF6Z29xWGozX2puTEN6WU1qbW0xMWFaWTNneFd4RzNoWldLbkVhaU9xVmZvNkNROElVazUweGdQOVVlV1AyMFJ3Sy1VNDEwa0VzN19NYUViaGVjQU1LcjlyVkJKNmVvVHlMMTZ1ZU05MjdrWHBNbE5QRDNJLUJZcG43MjctdUp3VHlZalpYQWhoNUpPeFRQajlGZk9OOHRfRnN1Uno2MHU4bHRoYTBRWEE?oc=5",
-   "data": "2026-11-20T14:51:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
