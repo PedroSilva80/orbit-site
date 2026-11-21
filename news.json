@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T09:30:28.866Z",
+ "atualizado": "2026-11-21T10:00:27.115Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -7,7 +7,8 @@
   "dig|2026-11-17": 1794946650326,
   "dig|2026-11-18": 1794996028930,
   "dig|2026-11-19": 1795082434933,
-  "dig|2026-11-20": 1795168829696
+  "dig|2026-11-20": 1795168829696,
+  "dig|2026-11-21": 1795255227115
  },
  "agenda": [
   {
@@ -49,6 +50,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16vkgrx",
+   "titulo": "WSJ revela investigação da SEC sobre a Nvidia",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVnJVWUx4UllZMzZaaC1HLTNIS1ZMdXUzUXBSY0t4WkxYU0poVzlHa3hRYW1pV21DMzM4aTdNcTR1N2dyTXQybHZTN1NZeFhRclhQR09tQ2c0UFNUUTJwZmNZNUtrd2Y1cXF4clJvbnotR0FJT01vV3Awd2pUWGZjUUZEZGpmNW8taXkxV1A5UEcxS1U?oc=5",
+   "data": "2026-11-21T08:49:41.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -134,7 +147,8 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795255227115
   },
   {
    "id": "otd1st",
@@ -1134,6 +1148,18 @@
    "avisado": false
   },
   {
+   "id": "1j4kctn",
+   "titulo": "Anthropic cai mais de 14% no segundo dia, a apenas US$ 0,10 do preço do IPO de US$ 83",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ1NZZndQRENLSXFFRkhiMUNXbVo0anA5Y1ZiVW9rT0xlV1ZhT3FqQXJ6c09ZZjZ5S2kxeUVVNlg3T3VRSEVhd1l2N1c1eENzejBqcnRXQk91enpIcWFPSlNiaEN4U01DaVNxNXE2bU5YZjZJYkFDdFptVUJLV25UNmt3eGZmREh4QTY4TjlaekpxaWlFa1gybUk3UERWTVRyNElMVDJOVVpYODJEM3E4djRrdVZ6Tl9PLWtsNEs4VGs2NzlZLWdF?oc=5",
+   "data": "2026-11-20T18:29:46.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "7rsot7",
    "titulo": "GTA 6 acabou de sair, mas já perguntam ao CEO da Take-Two quando chega GTA 7",
    "fonte": "IGN Portugal",
@@ -1761,6 +1787,18 @@
    "avisado": false
   },
   {
+   "id": "tqwipj",
+   "titulo": "Corrida da IA: Anthropic supera OpenAI com IPO recorde e acirra disputa entre gigantes",
+   "fonte": "Plantão Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0tqaDlrMzZaTWEyT0QtdGFxYi1HdG1ES0lYdTFaVlUwR3ROQm1uUUYxT2Z0ckFXUDc3LTR3bFg5anM2NlpnWmExQnZ2OWNvd3FvQ2NPZ0tMUnZobTFiWTVuVFl0WjRIZFc3VVhFSnJmalZKWVNrMUx2NC1ra0duUE5VaTlNYjRKWC1iaGFfMGZLa2RPRnF1UXhFelZjdHBqVkpGckpILVlaLVl0TWRtM2NjbGEyYWMxNTF6TE5hRHFRREdCRTRuNV9yZw?oc=5",
+   "data": "2026-11-20T13:54:42.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "gj9xvq",
    "titulo": "BNDES registra lucro de R$ 20,3 bilhões até setembro, puxado por venda de ações da Petrobras",
    "fonte": "O Tempo",
@@ -1793,42 +1831,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ixj8vw",
-   "titulo": "GTA 6 converte 13 anos de espera em US$ 1,65 bilhão antes da estreia",
-   "fonte": "O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORk1vOW9vTFdfaWVHMEEzSGlXMkhmUWx1UWVyZFhjeDI1WWRwZmkwbkZOamZLVklHaW1ENWxQZ1FoYUU5eDAwNmlzckt3S0pHOVFkaWNRMkYtZkQ4RkpRQldGbXJJN1dZZXVzNVFkbkdadzlvSl9udG9KV2NHTlJUMFA2cEFFWjM4SFk2a3JNVlRneXlHYlQ2UVd5bDhmZG53TEFIcUs5TmPSAa4BQVVfeXFMUDdpUjdJemYtbURwTUNpZHUzSmtiOGRNalRtaFV0eC1TTGo5d0RRdTFXS1dzYXVRdWpqYmpmRU0yMG5fbmlMT0VnNzdkN2tUb0hYdTdza1FXRUt2MC1VWHFuQXV3bkgzMzBNVVhnSkhXWWsySHBJVFdmeHNubktsR3pHdzQ4OVVLMFMxQVJ5U0NSZmVMX21tOXBRdGtqd3lYcUtuTHRYXzdTZ29HeXJR?oc=5",
-   "data": "2026-11-20T13:50:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "mvem2j",
-   "titulo": "Ações da Anthropic caem mais de 13% após estreia na Nasdaq e se aproximam do preço do IPO",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxORlctRzBfMjVkMGFzYVFHNEJUMUQ0N2g3akJBNzZJdGFBN2RVbU1KR29GZ3JmaVVCVXA3czhvbXhsSk5xdnNYRG5Eem1EZUE4ZlZzM3RDZk5LWWtITF85ckFYUTZ4NE93UTlBS0hzVnlLbDNOU0h2Tk1VVjdQWUROcm9NWkFVSG8wMkJQbC0xZGI5UEJ2ekpITXBVa0FRZzRwOHRzSnE2ME9NT2d6aU1SWXdkc2FiaGtqRkYwWjNWWHU4ZlEzWGdIekp1dXN5QmNoaVE?oc=5",
-   "data": "2026-11-20T13:48:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1dmsl0s",
-   "titulo": "GTA VI lança estação de rádio dedicada ao metal com integrantes do Slayer como apresentadores",
-   "fonte": "R7 Entretenimento",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQY0lfRVBwV1dyU3VJVkYwMGJUNW5KVEctTWdlWXViT2xxamF2dXI4clFiT2ppLVp5Tk1Ud2NYaExlZWw1NE1mejZIbkw0eS1IeUYyck93c09lTEZnRGlzZEpXTDJjTFZmaklUOVZadk5iVnhBdm5LRlJ6QndRRFhpMHdOLUNPX3UybEpkU2psRlNEWUZ4TkxJTDY2ME81MnZXbTg2bjJGRnEtRmpfb3IwUDZ1WUdhN3ZZeFFmb2JnSmxwTDFDUk5uOUtyOUF2ZUs1M0FXN3hVdUo4XzJ2X29PV1oxdXQ1MXJuWUVicw?oc=5",
-   "data": "2026-11-20T13:46:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
