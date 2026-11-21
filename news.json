@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T22:00:31.028Z",
+ "atualizado": "2026-11-21T22:30:25.015Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "a0qpb4",
+   "titulo": "GTA 6 | Rockstar explica por que cortou parque da Disney",
+   "fonte": "Cabana do Leitor",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUUhuQTFKM3BrMjRoa25CTWNtMnFseDRWdlljU2dRR3FlTnhDOFcyZEhaZXB6UWI1Y29Bc2M2dVBqdGZORXp2X0JvRUtPYmFINWI1aktOVWNSaV93Q1FmWTlSa3ZVTDl4eGRuZ2hZOA?oc=5",
+   "data": "2026-11-21T22:11:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8l51z5",
    "titulo": "Amazon e Decart: por que US$ 7,5 bi revelam a guerra contra a Nvidia",
@@ -1828,18 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1m4d80z",
-   "titulo": "Sem Jensen Huang ou espiã chinesa, Nvidia (NVDC34) tomba 14% com investigação contábil",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMmtJNnUtSENpR1BMOE1CQ2JzMjg2cng3M3llRDZPQ2ZuQUwyc0MwR1ZKdDdxNWFpNUZtRkFTZ3p5blN0eHZreHJMeXhkU21PLW9UdC1BbVV3NkhiM2ZoZm1Eb3dON29fdkRWanNxTW9ZOEFIV0ViNG85ZnhFT3dsWHJCLUE0RXl3clVSOGtuV3MyOGk2RnltZFpxSFJiWlBsRTZYZElrU2FJUTJwU0M3Y0xmOTNGcGtIWjdBWTdfUlpxeXdsYWfSAcsBQVVfeXFMTnJMdzNCME9hRkVScUpXSFVkNlBjczRMTTFjZFFqVTZ3Ql9zU2dvZ0RjMmFXRG02VXp4cEVjNVhQOXNIVEdzTE5WbUIwLWUxY3JtRHFxMHAyQlc0a19pSTczYWFyNDR3Q2lYNHowSjZYQ0tUa3Q0ZFpfRFp0dExfMlJ6RDJpd21YSzFCTlZ6RVI2MG15RldlQldzR1d1Yms2V3lYeGRFM0I4aHhBbjJseWtaNkZab1FiU2pHUjRJMUIxSkFzYVBaWW5udms?oc=5",
-   "data": "2026-11-20T21:08:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
