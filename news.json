@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T17:30:27.845Z",
+ "atualizado": "2026-11-21T18:00:34.238Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,30 @@
  ],
  "itens": [
   {
+   "id": "1jwo76f",
+   "titulo": "GTA VI: Rockstar busca criar laço emocional entre jogadores, Jason e Lucia",
+   "fonte": "GameBlast",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOOUs4NV9EakNkdFJmbFhIb1FXSzJwU09TMkNiZkU4eGhpTFdFN2lkbUVLTlNkSk9LbjhUT1Y1OG1IQmh6S2ZOcTRmbmNZVnZYN3NuX3h5ZTRlV3JOcGRJM2ZPWXdGUzVybUlhTDRjcFc2YS04dXNwc295OWJEd1V5eE1PY3RUaExzaElTV1BlQmNBdE4xWWIzOE9HZnJ1SXktT0x6Y3I2UWNPUEZfN3RKQTFoQ1E?oc=5",
+   "data": "2026-11-21T17:44:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "95evxl",
+   "titulo": "Investigação da Nvidia na Califórnia abrange possíveis violações do direito penal, afirma o procurador-geral — Bloomberg News",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE16Wi10S2IzYmVKa1BtbnhUTkQyb2k1Z1dIaGhUSmNxUXdSSnZxNmlELXdneDZrN3k0bVBYOGV2VmgyT2F0LUJWX3pPR0hmSkZnbzB0OW91X1otOFBFNWZkVEV3Skx5M0I0TXM0RzFiUkdSYTZRbUxN?oc=5",
+   "data": "2026-11-21T17:37:39.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "giscui",
    "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
    "fonte": "Exame",
@@ -46,6 +70,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "u0kinp",
+   "titulo": "GTA 6 quebra recorde histórico com US$ 3,79 bilhões em vendas no primeiro dia",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWlzS3p5YS11NWlhMnhFQm1haHZSVGw4VVJKUTlXQzEzTzBNc3NzcG1hWGl5QS1DX21ybVVtVjkyOVdVY2ZzVnZSQzRQcjNDOGxEU0ZaWWlZRXd4MWZKTGlDb2FaMWhralNkTHdfXzdCTFNobDI3YjhKbnUyUjk1MkJreHVWdU5FWFVvaW1IQVBNakdpNlJIdnhWSG02MXhoQTY5ZzBjQWJfSGNEc01RY3drOEhWRGJlUFB4RUUzcw?oc=5",
+   "data": "2026-11-21T17:01:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -106,6 +142,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rakwdu",
+   "titulo": "Febre do GTA VI? Amorim arranca gargalhadas em conferência (vídeo)",
+   "fonte": "A Bola",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGtoT1J3WFNLS3ZNVGx6RnMwbm9UMHNkM2tlaUNybWFpVUg5ZkJJaXZaNGVySGxSUjJPSHh0VWtVekdvS0RrV2tva1kxNjNyTTEwRktodkJVZVVTbmw5UEQ4V3EyNDlJVFFkUWJkSkdtakl3aHF2VkZ3TWpQdUZwamE5R0ViYnB1c0lYNEpTUlJCYXl6emRnLWF0RjR1bU9PeXpJa01tcGdFb0ZTZ00yaGVZMA?oc=5",
+   "data": "2026-11-21T15:23:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -266,6 +314,18 @@
    "avisado": false
   },
   {
+   "id": "43heil",
+   "titulo": "GTA VI ‘baré’: com uso da IA, engenheiro cria vídeos simulando jogo com elementos conhecidos de Manaus",
+   "fonte": "Portal Amazônia",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zdDNoNEo4bEpJSFZ3MFlpb1k4dEwtbk9IU21nb1J6ZHFNS3JvWHhpSXdyV09pMEI5akQzMm9KUVItdzFwNXJ2QWlzWTV5YW50di12MzNlUDZpd1BNRXBrN2UzSEt4VDh3VG9sanJnTzh5UQ?oc=5",
+   "data": "2026-11-21T14:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1itdkoh",
    "titulo": "“Achei que fosse um carro”: técnico da Lazio, Gennaro Gattuso dá resposta divertida sobre a febre de GTA VI",
    "fonte": "Goal.com",
@@ -362,6 +422,18 @@
    "marco": true,
    "avisado": true,
    "avisadoEm": 1795276830569
+  },
+  {
+   "id": "a4t23b",
+   "titulo": "Com 500 milhões de visualizações, Virgin River conquista recorde inédito na Netflix",
+   "fonte": "TV Pop",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaHNadGF3Um5iRFg2OVpkR1lWNDR1VURpWUJoLWk3NEE4QWVLRE4yYmZZQTVIQTM4MEVSRVF2bFhQdHlwMzF2czBkSXdNQUNQM0l0SVFzNjVsckk0aDVOU3NzV1FHNmY2Y1hsZFZHajUwYmtFTWFtcl9QNlZsQ2pMdW01ckdTbHk3SFdJN05QT1BiRzdCNGsxQTR1YVkzemRBaHpXWUlLVE5RNlZlaU9uZjhBWExSUQ?oc=5",
+   "data": "2026-11-21T13:07:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "a5hcoa",
@@ -1768,78 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fenkvm",
-   "titulo": "Investigação da SEC dos EUA sobre a Nvidia analisa possíveis irregularidades contábeis, segundo fontes",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSEtkajR4SHFyNDRvbUtFS01SY2lGaFUxQVZVMXlCREFOdEcteTBmWjVjSmtNZDdsV2hZTldZbXI1VEwyejJnbGpJajNQQXhkZDZSTDFlU09yU1Mwbmw0azZxWUNCZHQzZzBXbXlzVG1iekg4V21B?oc=5",
-   "data": "2026-11-20T19:10:32.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6fthkt",
-   "titulo": "Ações da Global Payments disparam com possível aquisição de US$ 50 bi",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOemJEbmczbTBTaDNmcjdoWEJWdC1FWmRvTmhrQTE0ajNHYzAtbi1VbXMzbmFGejZETkw5dGFOQkJIYkRmbnF0akdoYlpJVlNBc3RySEFydjJqaWM4a0tuTm9NUDFSbGFoY2prY0hnVEZsa3BuUFZjSzdzMXRmR0oxdDdzRnJTUEZiYzBxZ0J4cjZNRmJ0ZHRZTGVJUkdEbDRsb21GVGdSZWJCellmTFptSjd1cXFucjB4aXNUQTlIVFNIdw?oc=5",
-   "data": "2026-11-20T19:03:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v969cg",
-   "titulo": "3 ações essenciais para quem perdeu o IPO da Anthropic",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZHA5Q3BXTUYzZVdLMWN1cjF3Y09menVuX3NTV0lrMGRMUjhaYURxSXM3VTlQa281QkptaWJvcFRTcXFzc2xLNWtCQnFFMnpPalR5ZXJvdnhsQlF5aHYwR3pGUnRQQlRPaUN2TE1NdFJYbE5OYjdzcmxUUHJxbVZJSVJxSHY5X0RtVjU3Snd0bllKNWJraWxTS2ZzS3pTZw?oc=5",
-   "data": "2026-11-20T19:02:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1y9r0oj",
-   "titulo": "O que as marcas podem aprender com o GTA VI?",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVFZPSU9sUEhnRkZ4ZkFxb2E4cVd2bGd2OWFxSUpzd0k1U3BZQmxGZlU5Qi1MbVd2ZmZ5QXdkYUpMV3hXLV9GQUNCN0dpcnZFRnpzd0c3ZVlSc2g1WFlrNG1Na241ZndyOWFSeGk0ci13b2M4UUNmMk10S1BUSzZ5Q2d4QV9oZw?oc=5",
-   "data": "2026-11-20T18:58:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ni8owx",
-   "titulo": "Ex-CEO da Nvidia, Jensen Huang ameaçava e humilhava funcionários, diz jornal",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWkVwWUhBS1o4YXlwWEZVQzhqUWlqTnY4UnJGSDFpOF9IemdSMVczRXJiQkhyS3BHVTU1SlhnTjZ6R3hMWmtXSG1Fd25lc3RKYS1oMVkza3I2ekdlTWVSNzMxRDNkUzdZVXQ4TFdCTHpHb3BqbUV1MlM3eExUYTB3LVVobm1xa1p1d212LWozbFlIN2hBRTNoMzdjNU84cTdJRWljZlVsMHFRaFg5djd3V0JwQTRVQlR6V1dvTTdLV1hXaE9yT2hySHVIOXlIZk5yakRWOE1NcUYzQdIB6AFBVV95cUxPeXltOGhkTGUzdHlDd1l5SFZhS042aE40UHdpUVNac2NGaUxGSzA1QW5jY25WTlNXRmJqcEN1RDc3MFl3NFdGSWZ2RlBvTGxoUGdWeWdUcldIZDVZY1NId00wUWJGYTEzZ2RnM0dMd29ObmVrTVN4dUNJUzZHdmFkN3JfMjhabXJJbjR6NHkyU1h0elRNaTJ0SVF6OG9ZcURiSUxyZ2h6clIyUU9EUWgzYUFGM2tQSDljSjVMZVhXNDBnOXFCUVJJMkE0RjRhSTdCQVVHT3F6NWZUcmQ4NUJBUW5CeEFOOV8y?oc=5",
-   "data": "2026-11-20T18:57:50.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j02mzw",
-   "titulo": "GTA VI pode ser jogado por crianças? Entenda a classificação indicativa do jogo",
-   "fonte": "Diário do Nordeste",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQQUNJa3Q3clF2bHlEVlpLTkVwT1JBczVfQjdNaTJlSWZFcUdzRjM4ZHUzZWp3ZHJseHRQQzFQbHNrQjIybUdTRGlrd2NxTWVqZGRzMnhrcUg0dHpzU1dhbmNiR1R1eGtTTVpiUjF5YnpXTWI0Rl9PUGV3TlVNZm40bDZ4OEpvWk1XN1lNU2NBMW1iN1N0aGVzZ1dKbzFMWXYyekhGSHQxTU40VVk3bjFSUnRSaXctZnIxb2JiZlF6cTJNV2NPRnQzY0VPRGNWZUdSVm5BT3VQb0tUaldENGVNRUg0bHp4X0k?oc=5",
-   "data": "2026-11-20T18:50:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
