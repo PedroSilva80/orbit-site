@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T09:00:30.338Z",
+ "atualizado": "2026-11-21T09:30:28.866Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "551exg",
+   "titulo": "Grifes cavam oportunidades em torno do lançamento do GTA VI",
+   "fonte": "www.chnews.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUjU2d0NlRXVtRmREbGNGX25vVmJxd2JqaC1ucUhCbjlqUUQyLTAzS2NTeFlCSDRuSGttam53ejM4TlNCalptWW9GTW9HNlM3TmFtLUhoOFFYb2prTmtHWVYyVFVKUHZrQ0JBN0haZVhOcnhrRDd3X0c1VWVmUmZZSnpZZUhQOWplWjVZaDNQQQ?oc=5",
+   "data": "2026-11-21T09:12:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1nsgd18",
+   "titulo": "IPO da Anthropic: o teste do financiamento circular da IA",
+   "fonte": "iMasters",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZjJNdUdLcm5YVklDLVVnRE9kekROTFBhM0doTWFwd1F6R3pPa0l2ZmsxX3pCSWNBR0Y1QjJWVnZxQ1VIenJ0dnZjVnRFUkJybVB5RmljN19RVjYyRmdnZXV3SG42Y252LXlNTllieGNSdHd1MUowZUNmLVFNVk80em93RzJXTzlzbnVTdkhCb2Y0a2p1SWdtcXQxU2ZGRnlGRks1VHhwOA?oc=5",
+   "data": "2026-11-21T09:06:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1557nad",
    "titulo": "As ações da Anthropic despencaram após seu IPO.",
@@ -302,6 +326,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rkp9g9",
+   "titulo": "Anthropic recua após IPO e fica perto do preço de estreia",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3c5QWl6ZlN2ak1QTnhQLXJUMDZhRUt4LUdNZGp0WkxtQmxFcGVtN0hjU0xaZG1EaUVvQUkwT01oRWRNUndUNHBfWGwzM0xTaXB0cFYtdFlMOWJIUHZxblBxUXdSQm1GQ0ZQN2R5YlRNaG1PeGd6dnppZlFTLVl2NmQwYThNdnB2?oc=5",
+   "data": "2026-11-20T23:38:06.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1793,42 +1829,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1pdwago",
-   "titulo": "Ações da Take-Two Interactive disparam com recorde de vendas do GTA VI",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc3p1eFdSdm5WM3pvYklKWUlsRC1RSlg1a1hhZlg5cE5NTWtXTnhVUi1zTzhyT2x5OElJMXFqdHQ4RFM0ajNrUDBIU2taX0V2ODRPOF9NaWhTcXFCX1lFVFd5eGN1UU1KUzZQQzVqYU1jem9DU1dYLUpOVk95U3htZmxWZng4NGFIdXJYMVNZc01FZDRJdmtlZXJZU2hsYmV4TE9CaFlqckRKeVEyZy1DOElXZXNLT0ZHajgxRUk1T2daWVVWQlMtamxB?oc=5",
-   "data": "2026-11-20T13:44:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ujp6mr",
-   "titulo": "GTA VI ultrapassa 50 milhões de horas assistidas na Twitch",
-   "fonte": "Portal ABC do ABC",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBsZEpncWMyTGNUNm05bXdQQkxzT2YzUjR3bFVJWXVZUXhzMDdhYzFBS2RERWVTalFlTHpyekpieFBiallYeDN4eFlVM1FBX3BGMmZ3dFpZOEUtVnJ1ajFPOHQzeEx4eDdvbjZoV1NpakJMM2xPNXpfNzVSTU9fLVk?oc=5",
-   "data": "2026-11-20T13:36:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tqwipj",
-   "titulo": "Corrida da IA: Anthropic supera OpenAI com IPO recorde e acirra disputa entre gigantes",
-   "fonte": "Plantão Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNc0tqaDlrMzZaTWEyT0QtdGFxYi1HdG1ES0lYdTFaVlUwR3ROQm1uUUYxT2Z0ckFXUDc3LTR3bFg5anM2NlpnWmExQnZ2OWNvd3FvQ2NPZ0tMUnZobTFiWTVuVFl0WjRIZFc3VVhFSnJmalZKWVNrMUx2NC1ra0duUE5VaTlNYjRKWC1iaGFfMGZLa2RPRnF1UXhFelZjdHBqVkpGckpILVlaLVl0TWRtM2NjbGEyYWMxNTF6TE5hRHFRREdCRTRuNV9yZw?oc=5",
-   "data": "2026-11-20T13:34:55.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
