@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T13:00:30.146Z",
+ "atualizado": "2026-11-21T13:30:27.161Z",
  "agendaCal": "2026-11-21T11:30:27.530Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "a5hcoa",
+   "titulo": "Erika Hilton aparece em transmissão ao vivo jogando GTA VI",
+   "fonte": "Congresso em Foco",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOY1ZNWWFZb2tYd19xWUhocV9tM2RqWEhBYTE1NWxoZE5mY0JoRDdfREJSelYwM1h6cVRWNGxLSnY0LURGZ2hQTkpuTWdCQ3RMbEl0Rmt5Z0pkZFJ3c0t6MVVLSm9wSlk3M2lLOG9fRjNReG9DSElOUkdlNXV1Q1Npdm90VnY1bW15d180dkM1aWVRMVp1d1o0ZzZEVjktX0F4WkpYaUtQbXltZzhV?oc=5",
+   "data": "2026-11-21T13:05:18.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qchjmk",
+   "titulo": "Regulação de big techs pode reduzir custos em até R$ 50,6 bilhões por ano no Brasil, aponta estudo do Ministério da Fazenda",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZjJBRWp2Zl9BQm4ySkl0enlvWWVOcmR2a3NXTUdiOHZOb1F2SVQzRHBqRl9HVXltMURuX3VXbHYzdnNOVnNUdU52RUo2VFozWWFvVlhWWHdoZTdkQm9BY00xX1hyZ1NlYnJwT2w2ZmZnN0FJcTQzYldRQmFGYzdpME9tMFY0SnBHZzBaOWYxSm5vSUhwVm5GWG1mSWQ1cG9nLTVKbjVqM2JwTTRhbFE0M1U2MWlrT0R4dmlrOEx5YW42dGpaUHN6NHlfcEFvUWRIdUxRN2ZBVVFSMFQ3eDl2cEFOdUNUY00wTW9SaUJ6Y2owdnpZ?oc=5",
+   "data": "2026-11-21T13:00:27.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xstiq7",
+   "titulo": "Volvy's Adventure: Reslimed supera GTA VI em vendas",
+   "fonte": "Arkade",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkplVGFXcWpzclM5UkszNEU4ZTRGS0ptMVRBazBCSnJUd2FUU01UMEdpVHhvU1RRMWZBemd0MlYtS3ZvVlJKam51cnpaWW9Eblo1dlhkUWJoSndCdjQ2TkVUZ3RhTXBZV055VElHaWU5ajFMTlJVQlRXZ1NoeE9RUE4ySlRnT25uU2hxQXIya2d0WXg4NEhQR2lGQ1Z6cWdoWTZVYlB2MTUteVM0NnZGVVdhcVpkdGF1MGxWSkJfLWhFZ1ExYjNCdHZMejNTMWJtc0JwelBqVmxDdw?oc=5",
+   "data": "2026-11-21T13:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "2o1d4f",
    "titulo": "Ações da Nvidia despencam 14% e registram sequência de perdas semanais mais longa desde 2008",
@@ -749,6 +785,18 @@
    "avisado": false
   },
   {
+   "id": "vlnlx9",
+   "titulo": "CAMPANHA APOSTA NA ESTREIA DE GTA VI PARA INCENTIVAR DOAÇÃO DE SANGUE",
+   "fonte": "Fernando Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV2J6azlDRl9vVHZ2eE5vT3NMOW5xOXdHRllBbzRIR0dTOGl0QS1zbVVsUHZHd3VqUVF1SDdzUGdNN0JTZTB3TmpEaE83X05IWXhVRF80U2FGYVBPUGJZS0Q2eEhjdlB6QUotcUZMdVFETW11MlRIM25sQi15U2QxY213aERCdGY5OUFhbWRtOW5UZFgyVm5SRk9yT2MtV0FuU2pWWQ?oc=5",
+   "data": "2026-11-20T22:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1v6lph1",
    "titulo": "GTA VI ganha álbum estrelado com Lana Del Rey e Dua Lipa",
    "fonte": "Alternativa Nerd",
@@ -1071,6 +1119,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1jyszk2",
+   "titulo": "IPO da Anthropic: ANTH34 já devolveu a alta da estreia?",
+   "fonte": "EBC Financial Group",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRzEwUFQzeUFqTlI2bkdxSnhERE9HWHBmMGVSRFFIdXRxYk9jSXR1VmRrclJsQWxyVV96LW1MelVZcHNRWXVvaTJIWFJ4aGRjNjUyUE56Q0dhekNoZlFQaFR6TzJlY2FHdWF0cnNpYThySlpRVGRKRlUwaXVrUDNKUFNldnFXSDFk?oc=5",
+   "data": "2026-11-20T20:14:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1458,6 +1518,18 @@
    "avisado": false
   },
   {
+   "id": "clixdt",
+   "titulo": "AMD conclui aquisição da World Labs e anuncia a Dra. Fei-Fei Li como cientista-chefe",
+   "fonte": "Suco de Mangá",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE40d0tSVkJVMmV0b3hLNFlweXJQYzNFaDBrc2NsYW9ranlQYlBhYTlReUlvZWpxalN3T0UyeGUyS1ZuTDFCa0tOUEZvWTJOMkNLc1V2WkVHOTdHR2x2QTJwbHY2Q3ZVTmJPX0lrelNUc2JjYzFsQUtaRDZrWmtpc2s?oc=5",
+   "data": "2026-11-20T17:46:15.000Z",
+   "cat": "Corporativo",
+   "empresa": "AMD",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10glhp",
    "titulo": "GTA VI já gerou aproximadamente US$ 2,36 bilhões após lançamento",
    "fonte": "Jovem Pan",
@@ -1478,6 +1550,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x46dqz",
+   "titulo": "Anthropic capta US$ 81,3 bilhões em IPO recorde",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZbXNaQl9iYWw4RHZIZ195dlFYTm5ibWN0MGdSenljOWNRSGtaYjYxcklHS3ItZ2YtU1oyUEliQWtZaGlSa09fSFRVT3JkWU5HTU1PZjRKSXBWWUZ2ekJOQW5fRVBLd3ZzckYyTVc4T1ZXWWNYb1Z0cEhoZw?oc=5",
+   "data": "2026-11-20T17:41:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
    "marco": false,
    "avisado": false
   },
@@ -1756,90 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v2dzcc",
-   "titulo": "Anthropic na Nasdaq: o valor criado antes do IPO",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNnd1bUlvNldJbGJBOWpJVlM1bFVfcjBBLXhhVVFKWWJGX0ZYZnBFa29MZmFMaFRFNkRIc1BOLXFGZm1qQVVBU2FGdURsa29oMGlSUzBhREozbWQzMTQxR3B0TTdBeU9WNEptOEpiWGoySlRkdG8tMHBqbHU2LUx4czZXakJvY1Bqa01ZdEl4bFVvcmE4M0lmcHY2QQ?oc=5",
-   "data": "2026-11-20T15:33:31.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "i2jkhj",
-   "titulo": "GTA VI: 5 segredos e referências que os jogadores encontraram",
-   "fonte": "Legião dos Heróis",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZFBHd1V1MXQ4bGFNeS1xQXF6SEFvNDA4d3lwVDJHOWw5WUwwVm5WYTYwQW16QlNsVmhZdFpYMGp3WndfcFYxQWZfa1NTZWc5RG9talhPdWtQeG1QczIzd3ItQVQ4X1JwV0UzLS1YaVl4WFF3NjdCcF9HOGJMQXBWbHoxR3ZNOFJaUkpMOUEzWVVaUFVndUtRSlQ4OUJIYWhmX3Babm1VZVJEUQ?oc=5",
-   "data": "2026-11-20T15:20:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18m0i4l",
-   "titulo": "GTA 6 pode render bilhões, mas futuro da ação da desenvolvedora Take-Two depende do modo online",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQ05sOTNMSHRYOVhYVTFCWlpTdDRxWjk5aFZLUjRra3VsN0w2OHJRMlFJZ09PMTZqcVJHT2xkeW5VdEdQaTZvTVVSYXlxcXVMWTI4SDA0cmE2c0dtLUNzVkxvVTk0c05PWnhmSzVUckhHZXVTU1dBajJhU284c2FZb0hZNk91MERPaFdxbG80aDRiQjdLQ3pDR1piLUZPaXlyVlpfbXNkMi05dzZrSENGRWVKd1B1enk2WENrN0lGdC12b0ZFQjY4MTRfNjBiQXJ4V2J0cjhYcjBDX1dOQzdQbDFuM0Nkc3VzaFRQbVNvc0I2dTg?oc=5",
-   "data": "2026-11-20T15:18:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2na2su",
-   "titulo": "GTA VI lança trilha sonora com 34 músicas originais de Lana Del Rey, Dua Lipa, JENNIE e Travis Scott",
-   "fonte": "www.jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcFU1NWpoVHFBZjZ3aXVWWEpJc2RDTjNlaWxZLU05OGs0YkZKVk9yQmx3bXhpc2pxTmJxX2E5TW83V0J5VXJScTVzRXR5RllWMThwYkhCX1JHdEQ4ZFY2SmVucVJLakE5aGcxTTdfWU9kWjBKUDBmSFlDVWpNcU16bHJEMlBWeFQ4VEk1ZUpSMGJ4OE1IZ1NLZzlfOTUta2tiRlJ3a1N3bmJQenIwMUlNVVVZQ1BfSXZ0SGhnUUxzRVdlTWYxZlpUNUJ0bmg?oc=5",
-   "data": "2026-11-20T15:16:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "o1lse9",
-   "titulo": "GTA 6 por R$ 449,90: vale pagar R$ 100 a mais na Ultimate?",
-   "fonte": "Portal ClicR",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORVdUNHRRN2RDeS1LSGZXb0xTd2hGbEdXOFlTdlpuOFJXWUk1MTFlVDNaS1hLZjdpOVRFdE55NThXNzlESS1hTnNoZHNvTFVkYjNXaXpfR0VMc2EzTGtZTDdpWkZGQVZwUUFGSUNTdDVYR3NpVzJyRVJET0FENHhMRVhn?oc=5",
-   "data": "2026-11-20T15:15:25.000Z",
-   "cat": "Lançamento",
-   "empresa": "Vale",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "botz43",
-   "titulo": "Personagens de outros jogos da Rockstar que aparecem em GTA 6",
-   "fonte": "Portal ClicR",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPc1o5dWdMZzZMWWNwVDhMVmNDUHhmdmo2UGpXMEREYWJUTnZRZlpLdVI1TTlIVWxaUTlhd3lqRTY5bFZXMUZxbHdZWGQtemZLNzBnSUxNNHFtS1oyMDFUdy12LVhyakdEWE5UbjNURDBBSkpPWTB2WF8wRW5oZ0ljT003dUNiZG4tcllR?oc=5",
-   "data": "2026-11-20T15:15:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "exo54g",
-   "titulo": "IPO da Anthropic impulsiona Nasdaq, que sobe 1,9% nesta quinta-feira",
-   "fonte": "Jornal Opinião",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWGl5cWpYQnZaWUx3LW1KclFqcVBVMmdSXzFkYjM4X3pqcEYyRTBmSElmZXBGSVJ2M3F3UGhvY3lYV2I3LURHLVdTdldIdUQ1djFSdm8xOTRoMllLVkYtUDQyNW1FZ214bUZWYkZ3Ym5RQTJLVGNGUzUzNk9DWW16S3lra0c2RU1lMUMzZ0tsS1R0VXVwNXRN?oc=5",
-   "data": "2026-11-20T15:07:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
