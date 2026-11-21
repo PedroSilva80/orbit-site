@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T01:30:26.619Z",
+ "atualizado": "2026-11-21T02:00:29.239Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "jdbjxa",
+   "titulo": "GTA 6 arrecada R$ 22,5 bilhões e supera estimativa inicial de vendas em quase 90%",
+   "fonte": "Economic News Brasil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN25meVJIT01XMnRjcTV1YnQzdllRbDAtRTF4TVlsRzNHYVROOGdSdGZSSENsbkNXdFYzWWdWOWFmaGota2J4eU54eXJiVlQxWkRvSllkVkUwSEZFVTZOeVZWc1lZaHdZREYzZDR2UGE3Q3NBZkFMQ1FNUFhQeFQ4a0pRUjJUVWluTjdmYmdYc0o2QQ?oc=5",
+   "data": "2026-11-21T01:38:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1vrzqil",
    "titulo": "SEC investiga práticas contábeis da Nvidia em meio à crise na empresa",
@@ -197,6 +209,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1l7y973",
+   "titulo": "GTA 6 fatura US$ 3,79 bilhões em um dia e supera recorde de GTA 5",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOejFUdGpVVzBZYzJ0Slo3ckVPYWZBSVhhYUNCRVlzcFNPRGJwN3pBUDBNMFRPTnByc3g1bnVFVmdYTTZCUnlYaHg3a1gteXRRWGdRSjF3VWJIVWxWeHRGWXlJcXdLOWJubmp4b3BVdGN4WjlQRDd6Qy1ySmJfVEw1QU8zajhVN0ljRjQ3ZFJZRDh1MmZVTnhaVXE0VDFMQTNtMTFIY2p6TktXMm9FMnA1S0NEWVB5cm51RHVmZndGeG01Zw?oc=5",
+   "data": "2026-11-20T22:21:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -996,6 +1020,18 @@
    "avisado": false
   },
   {
+   "id": "r5t8w8",
+   "titulo": "Gefron localiza 404 tabletes de entorpecentes em caminhão frigorífico e causa prejuízo de R$ 5,2 milhões às facções criminosas | Juína News - A notícia certa, na hora certa",
+   "fonte": "Juína News",
+   "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWDhzRVJVeEtHWmV2d2hSRVBScUJHVU16VjJMRzRhYVozVW5RdlRIdnJJLWNiM19Gd0ZLV2V3eHNVODljTkVmQkJ3ZTNUYVVta25vVVY2TE13RFRsTHU5YnRZM1JGa29WZV9CVDBvdTlZbkxQQWxRLURPX3loUGFxU0F0Y0cwMDRVWFpIcXpvQk15WV9RZmpWT0FLM21uaExWLUgxdUR0LUUzeFhLU2pJMksxNzJyTjFrNS1GeFp6MkN6SkxNeFM5OWI1elJvUjdEcFl6anZOV3hlZzB2aXZHYmxCcjNodktQVGRqWlBXemtpdlV5QnYxV2VqSQ?oc=5",
+   "data": "2026-11-20T16:06:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Localiza",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "wx1ho8",
    "titulo": "Escola proíbe faltas para jogar GTA VI, enquanto pesquisa aponta aumento de 32% nos pedidos de folga de trabalhadores no lançamento",
    "fonte": "Midiamax",
@@ -1788,42 +1824,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1lidavd",
-   "titulo": "Ações da Anthropic caem no pré-mercado após IPO histórico",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVW5aWG4zUFpyUW5mdEtOQk9FYkdWUUxuMnZzOXhiUF9jdmNLbHZTeXV4eTliZkZOcm9jLWRrTld3bUtFaDFUV0lnSWVHQUh6TmJQV011UGkwN2pKajFQRTlubzRsOHJ5TW10QUJ4Vk5pV0VrT0FDdjRfWXk2U09PQ3hTMllpMnhsOTVPTF85QWw?oc=5",
-   "data": "2026-11-20T11:48:20.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18wzkdd",
-   "titulo": "HSBC eleva Tesla e mais que dobra preço-alvo com potencial fusão com SpaceX",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3NMZTVmaFBkdnVRamVtek5YRlNaRjROTUxDOWxUd1drdjhNYkdrbHd5LUlzbDl3QmYzNzR5Z3FaQktxZXNJa2VyYmttVE5HeUtNOUV1Q1UyWVZJS3FSLTJCQXRlc3MycDluWmZtNkp5WjBzUXY2S011NnlsQ2lGNV9GQ3NmWnEtQWw3MnMzcnpqV2Zrb2R3cjRLT2ZaWEJ3Mm1pekNEZGNZeHM2c1dtcFdBR013NlJ0czdqRlBhSWlPbGx6TWZIeEZn?oc=5",
-   "data": "2026-11-20T11:40:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v3mnh3",
-   "titulo": "Quase todos os funcionários da Anthropic se tornaram milionários em dólares americanos após seu IPO recorde.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWEdXRkZmUVl2M3dZUFdwNEZjanpEakJKdVlqQWowaV91RjhpY09rblJ6RUZMczJfTEFieERER3dCQWp1dFlaVGxpOHR3STEwUi0tNk9WUWdDNHM0bFlic0JhZ2pybUlpRERtMHdwZ1k2OVNfMGxOR1dvaXo1WEh6NmNqRGVzNlRvSUZpMEV5aUdQOXpMa3BYOXluYkU?oc=5",
-   "data": "2026-11-20T11:38:39.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
    "avisado": false
   }
  ]
