@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T04:00:28.842Z",
+ "atualizado": "2026-11-21T04:30:31.120Z",
  "agendaCal": "2026-11-20T23:30:24.804Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -20,6 +20,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "v2h160",
+   "titulo": "GTA VI alcançou a pontuação de 99/100 no Metacritic no dia do seu lançamento, tornando-se o jogo com a maior pontuação da história.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxON0lnQkFVT25IcGVBS1kyUnFuZ3d1YnFIeGNqUnpJT3RvRkhkSjEyU1BqRGF0UjNXLVZNLTRsbVJWejJfTmwwVFc5UnJZNWRuOExPUDdJakgwVkpUZVhMTEJQZWs1eHcweWlwT2lhRkhVWTR3c1RiOERTSGRkNWo4RFZ4T09FXy1kaXhhRXBNbFY1WE9KT2RfUndwYXJIck9fUENhRWdLY29Gb2JSR3Job1hjUThQNGtYaHJCNXNR?oc=5",
+   "data": "2026-11-21T04:28:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1de0f5b",
+   "titulo": "Anthropic supera SpaceX e faz o maior IPO da história. Veja o ranking dos dez maiores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE5fbmg5dm45QmQ3TW56dEdnV1FBMi15NXI4Tmo4MldjbmROb1lIYlU1QVFjX2Z1MWFSWkFyUHNJTlpTNDZKak5MUGpidy1ZSUFRcWxUNjNmYTI4SGRlQjMyVW1UZ1pfQ2owYkR5RXg4LXRvQjlmR3VnZWVSUnRfc1ZQSm9iUG9zV0Jqb3IxeHFOeXBDYllxT0xlS0pMbVh3ckhrdS00Q09ZcEpGcGtaLWxqNkd0UXE5dTREODRVZFlsTGJIejQ0UC1waUVYR1JlV2FnT0o0Z29sUmRDb21sZTZoODBGdw?oc=5",
+   "data": "2026-11-21T03:13:10.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1q9q02k",
+   "titulo": "GTA 6: como a Rockstar construiu um império do entretenimento nos games",
+   "fonte": "TechTudo",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeDhxcnpMV1BGSW5DdFFMUWxSOW5xSHpjUHlvQnFtXzVCTWVQLUg5ZzFTb09pcjRJWmxyNUJQdWtuVUdmVXBQeHdVTU1lMmtURHk5OEFpSVcxd3FMX29xd25SZXUxNEZ6TFNERXFSSjhGYWhodC00di1sTHZVRUVwRVB0T1g4QUZkN3U5TURUNmNBT25JTXVxNEJxR2IzLTRJNk5XSjVvLXo3dUFlM01VRlRON0R1cEQ2WXl3c2tENHFuajNFMWgzV9IB1wFBVV95cUxPT2EwbXRZblhkLWtoRTQzWm9rdXRIZWdsa1BpRTVjbklEajRrVmN4Z0VFR3FkZXZ2WkVKTm44anVtSDBBNnJxc0xvZGozazNOa3RDVTB2QWZfeGFYUmRqWk5KeGxIajB6SjJOeGlONzVKT3pKeHpuOGRBLVh6cW9lbjhPMEdVU1hrM2QwRWhFeGVKZGVhVG1FLWwxeXFYc3dhREJxY1lpcGVEU2NicENVcmV6YWlNd0VySE9yYTJTRElDbmM2LWRqWjdya2o1MUVkX1UtUmJFMA?oc=5",
+   "data": "2026-11-21T03:00:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "lor046",
    "titulo": "Death Stranding para PS4 e PS5 despenca de preço na Black da Amazon",
@@ -65,6 +101,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qtrx8r",
+   "titulo": "Indústria de games debate limites da inteligência artificial após lançamento de GTA VI sem automação criativa",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGdRNVNwbS1KdlpJUDZqanpBVXZXdU1RTEFNaHd6ZmxqOXkyY0tDMkVNSG5xczlpUU9ZcWN3d3FRSVA3NWVLbWJadkNhSG1aak02V25QbGVtb0hESVMtcEZYR0RhRzdqOFZxdFNsai1xTzZzMEpGLWV4TURDeWlPMHhCQ0xYUlljVVRrOTRlcWxTLUVlZkppZlJIX082NkZ6ckdFbUNtUDRqN2MzZi1OMERyclg1cTI3ekJnVjdTRUx1ZTJnbVJibnAtT215aWh5bXBLUnBxbw?oc=5",
+   "data": "2026-11-21T00:35:11.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -221,6 +269,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "f7llkl",
+   "titulo": "GTA 6 vale a pena? Zeramos em 80 horas e contamos sem spoilers; veja vídeo",
+   "fonte": "TechTudo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPem92akZUNDl2YTYwNHdTdXI2cmFTLVY3T0EzaXdUQ24ySEo0NDhzbTBjM1B0ODFmQ1pyZlhhSGFNRk1BZ1Z5U04wTFBGcF9TM0lUQjF1MEZXTDBwUUlfZTlJZ0RDWTVSOWZvSzZ2QVNMeHpXQVVGMElkNXY1TmkyVEZYT0pqY0I1dktnam9tTFVXNkg2Z05PNEdORUxVa2d2XzJxN1l6VTJIRl8zdWNYMVM3NzU4aHMxQnI2Z3RwYXLSAc8BQVVfeXFMTmtOT2tWb3pMbC1lUF9UeUdoNC0xNFFQajJhMWR3VHNYUUpsWVRiNDFUUXJtNThWOElTT2dyNjhpcUVKUU5Uc1RhX2x3MlJhWUwxaTdLQTRONHRhNDdxaDBsNjJ0Q2E0OXBsZFU2THVua2FXbDlpbWZGREk1MDRXbDNZX2diWGdOWk04YV84ZEt0QnQ0SXZZUzVlNDVnQ2FRaUUwZFpFMExWLTI0aVdzWlNvakNzenpQWkd0Ukp0ejI0Y1RBaFE1Q2pkcEVMbzZv?oc=5",
+   "data": "2026-11-20T22:43:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "Vale",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1308,6 +1368,18 @@
    "avisado": false
   },
   {
+   "id": "anhdpw",
+   "titulo": "OPINIÃO: IPO da Anthropic mostra que as maiores oportunidades podem surgir antes da Bolsa",
+   "fonte": "Monitor do Mercado",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMHMwaklNZnZFUWdXSjdQVUQzV0pKS21ZN2FhSTJ1NVgzMm9KeVJPTm5qOXJqUGhNcGRrZC1zWHAwUm0xVGd1aWhOcG1FZ2xkZElleG9PNHNicVFMQ2ZSTGFTZHBzTnhjNXZuWHQ5X1E3clJKWGlzTFRIVmo5ZDVaRkR0U3VQVEtSdXFBaGJDS1l1d2QtOUpfcGxuN3lhYUktYlRCbnpFOE1Kanl6NmcyZTdjZmNLQzlUTjJSZzRHZHBtTnZlNGduckJYWWxheDJsUk42WWlwNUVuWm9OTGQ1Nk1DcjB5aFBrcUFF?oc=5",
+   "data": "2026-11-20T15:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ejbjng",
    "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
    "fonte": "radiogeekbr.com.br",
@@ -1750,79 +1822,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hu2lpf",
-   "titulo": "Ações da Anthropic caem com choque de realidade após IPO recorde",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSXdmaTRkYzhZVjBrVkdyckNrU3poZWZLNTByM3IzTURDdzZGTWFDaThsUzZvZUZBeFJnUTFTUW5aQmZKQjhFTk5WUzJ2cDUwZmtJT1FWeUlZaE41ZnNNd01tTVNvYTlqenJLLVJ4NkU2d3fSAXhBVV95cUxPa2lzR0k0OVBZNU53QjduY2Z6SGFWNXdKUXhTdnU3NTgxdG5aVWJ1eFplLTlQa1EwUGtxaG9uZFBxenRSM0RDU1lLQVZYcGZja2VDeVpZRmQ2TU5XSmREYUFYdEZ5cm1PT2hzdW1SWEJZb3d3SlFGNWo?oc=5",
-   "data": "2026-11-20T12:47:49.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16hhizh",
-   "titulo": "Gta VI Já Faturou US$ 1,84 Bilhão. Até Onde o Jogo Pode Chegar?",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRWx6SmdkWGcwaE1pSlcyUE8xX2hBOS1aMnVORkdzQTItLWRCU0p5NG1RVHBDSlFiWTBqamlvb1o2cjJOdTM1RGVFN2N6aFBTQk9qS3VRUV9nZkZFQTRNYmxWU19vaXRoQjNvTlAxdmhvX3JTQUhhX1B3aWZ0UWNMMlJrSjJjdHltSUVhSF9naTZLVkFFV252b05MYXNQLUhyRlUzM0Fn?oc=5",
-   "data": "2026-11-20T12:44:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795181427711
-  },
-  {
-   "id": "tain11",
-   "titulo": "‘GTA VI’: álbum chega às plataformas com 34 faixas",
-   "fonte": "Billboard Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBRbmEtVmYtMHVrV3N1TW1DM3NyNE1LcV9SU3I3blRVOENORGhJZnNma0RLdVUyWVEtTF9tMi01UFgzTFh0ZGwtb0xLdkNkc3Z2b29UalFpX0VSQlpm?oc=5",
-   "data": "2026-11-20T12:34:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4k4n0h",
-   "titulo": "IPO da Anthropic: ação fechou 17% acima da oferta",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFl1SnBzMTZIbVIzSmpyaEM3N2pjTEx5UnpjZUlZVk5Ba3BYZ1J2ZWNaa0pveFBzaDJydjdnUzU3YXprVVNpTFRTYVIxeEtIaFFxU0RrR08wNXNxeHBfTXV2MmJ0WXZyc2RnalY1YlFWS0NpMWRFd0R2MlpyLXFoYkRnYzRHWFFqVzE5Zi1ycw?oc=5",
-   "data": "2026-11-20T12:32:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "80eu0s",
-   "titulo": "GTA VI: relembre carros clássicos da série de jogos e os modelos reais que os inspiraram",
-   "fonte": "Globo",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTXJpMjZnWEpmNjJOTUd0RERwR3JfclFEZHdHdDdnRUdHazVCN3d1QTgtRXdjSEVxTmN2ZGl3NDhzck43WHI2ZDR4WmVQZUVHLXdJN2FGS1dWeUtHNXc1bUtjOEZ6ei1UUlRaX0xqSGVXLW1VT1p0cXcwQjBmWkx0MkpBZTg4VkFfNHJzZ19sb1JHeXVuM3RpaThDZ3JxbEtEcGtnRzBjUlhtZDQwUUN1eC1XNk9sb3A0Skw0ekFuQklKTlU2S2hUUkdzU2JNNDMwbW9yVnplZmgyVjI4X0NSM9IB4AFBVV95cUxPTXJpMjZnWEpmNjJOTUd0RERwR3JfclFEZHdHdDdnRUdHazVCN3d1QTgtRXdjSEVxTmN2ZGl3NDhzck43WHI2ZDR4WmVQZUVHLXdJN2FGS1dWeUtHNXc1bUtjOEZ6ei1UUlRaX0xqSGVXLW1VT1p0cXcwQjBmWkx0MkpBZTg4VkFfNHJzZ19sb1JHeXVuM3RpaThDZ3JxbEtEcGtnRzBjUlhtZDQwUUN1eC1XNk9sb3A0Skw0ekFuQklKTlU2S2hUUkdzU2JNNDMwbW9yVnplZmgyVjI4X0NSMw?oc=5",
-   "data": "2026-11-20T12:29:19.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kb05wk",
-   "titulo": "AMD conclui compra da World Labs e incorpora Fei-Fei Li",
-   "fonte": "Revista Empreende",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRktJdUxPXzlOR1JjcmxWMWNwS2VJU05pT01qMEVhZWtHcnl5V3cxS3RqbWR5Y1lPd2g1WDBYVm00U2FVZU5CSFpMWEpLVEw3aEVXTzJhZDk3OUkta0NNcEloamtiYWhMNWZ5Q1Z6c1ZlcnZCU2FrNkQ0Z2FqUVotXy13?oc=5",
-   "data": "2026-11-20T12:25:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "AMD",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
