@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T18:00:34.238Z",
+ "atualizado": "2026-11-21T18:30:24.730Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,18 @@
  ],
  "itens": [
   {
+   "id": "51n104",
+   "titulo": "Órgão regulador dos EUA investiga possíveis irregularidades na Nvidia",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMFFOUGluY1h6M2xiWS1qWHhSRGtWV3NBbFMzTy0tT0lucU90VHRUS3dRVWhRVXBVWFNtWWVMcFFId2FoUllJWGNLYlZfV1hrM3lWWDRETXY0aFpzdUdYMW5GMXZQM1A0YTRFdzZad25kazJuQTJYWVpkOENZMEUtZWhvcDRfeGJIeWZybjk1UGNmQjBKekh0c05FR281eFJVMklpc2JyQ0RFU2V3Znh3eDEzOWlmRmJJam0yaEVZSjY?oc=5",
+   "data": "2026-11-21T18:10:04.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1jwo76f",
    "titulo": "GTA VI: Rockstar busca criar laço emocional entre jogadores, Jason e Lucia",
    "fonte": "GameBlast",
@@ -58,6 +70,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9grbih",
+   "titulo": "Anthropic e o paradoxo do IPO bilionário",
+   "fonte": "Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzJuQmxsekxNYUlZN0lNeTZhTmo2R0Z4Z3RGQ052QjFJVTdIcE45MGs2RGk0ME1GMF9JSkNDTC03UkJtcGhUTnlSc1VBVlcwNjFkVEpLZGVWamtqTlZLalFSYTM3Z2U0TFU2dGVLVFZkRk40OUNLLUo4N2dRTHF3V3dibWszSDVwM3Rvcg?oc=5",
+   "data": "2026-11-21T17:29:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1471,6 +1495,18 @@
    "avisado": false
   },
   {
+   "id": "ezg7ob",
+   "titulo": "Mais uma bomba? Investigação da SEC dos EUA sobre Nvidia analisa possíveis questões contábeis; ação afunda 11%",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTHlTQ3dGOUxZVzk5N2xsaUNwbERYS2tFdWc3WGVqYTRGYmZZMUR5UUVXeENUUzFsaFVuX1BmamhzMmlIU09rOC1mWDBOMHczY09kT25xcm9nSUpadVZ3cG85UEFmMk5BUXNGM0trbWgwQU5wT0I3R1hvaS1GRlpjcjVUcU8wSncxQW82b0xmVVNHYnJRa2JqdFpEdmRtMC00dXItQklfVmYwa2wxcW5wa1l6bVhrTlJweEdqVEpn?oc=5",
+   "data": "2026-11-20T21:09:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "fgrpcc",
    "titulo": "“GTA VI” ganha álbum oficial com Dua Lipa, Cardi B, Jennie e mais; confira",
    "fonte": "Tracklist",
@@ -1804,42 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "c642br",
-   "titulo": "Anthropic entra em seis ETFs da ARK, de genômica a espaço, no dia do IPO",
-   "fonte": "Cryptopolitan",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRlQ1a2k3aHByZzhwNjYyWGZyemVpRl9wN3k1Z0ZKM2liUWJmeE50dEZYYzVuM2R4eHY3QmxMSzNnVDJTWURHOHFlb0Mwd2tkRFZ5VGFhMldwT094cDd5eERTejdrakVQZVFGaXRtMENRZkFuWl9oaTVVRE9kOHAwdw?oc=5",
-   "data": "2026-11-20T19:15:22.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v2zcyx",
-   "titulo": "Transmissões de GTA VI na Twitch superam 50 milhões de horas assistidas e redefinem métricas do streaming",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPZW1lUnFYeHFNRnNHLThIZUtlZ1V6TFI4bDViRV90bl80X3FtTzVFUWVsRVZoeXB5Y1Mwd08yS1AtUlhkV0FDeGtBcE5kZllrZDZPdHc2eGJJZlMwTENCb2FpbFl6X3FSdmlEWjhESEUtcTBZYUdqdmRIWFF2a0pMMmVMUUo3SkhWSFRUNnNtZHJVSmNoMGxxZWZFaktQUGlaay1SNUZ5WEhlSml4VnVEU0ctWFdaaW1zYnZlYkQ5RFY4RkFVUTZnQ0gyV1Nycmk3eHc?oc=5",
-   "data": "2026-11-20T19:15:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q2bq0p",
-   "titulo": "Confira guia de troféus de GTA 6 e como desbloquear todas as conquistas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaEZnQlBfZU15c0x5eHpwTU0tcU5GNVlsZS1qeV9pNGp1ZGtrZDk0UmQ2MG95QzlGei1EcERoUlg5NExncWpGWDBsQjdELUlqM1QzLTZkRXZDZkpzckpXZ0JDSk1LS1p2UXJLR01NcjF1Q2F5ZUVGUU85V2dUS2llZUFzQdIBiAFBVV95cUxPWEVBWmZKRmhMTkE1NUdZeVd2Z3hkS011ZkR6Nk5VZlBTbnZUQ2NuZExTZkF3amM0LWV3d2tHZ2dQQ0hWM01LQWN4WnZlY0JoX2FhbXNZaTlwUkwyNWFJNEJ0eTVBbmhNY1h4NkNyaWxhcnFIRGEzYWdnVHVPLWEyZm53WXpidExr?oc=5",
-   "data": "2026-11-20T19:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
