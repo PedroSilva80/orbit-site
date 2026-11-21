@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T07:00:30.831Z",
+ "atualizado": "2026-11-21T07:30:27.268Z",
  "agendaCal": "2026-11-21T05:30:25.269Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -17,6 +17,14 @@
    "origem": "Acionista.com.br",
    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX1BGOGd5dTE2SmVOVnhGNmVWMnpFMVotdEJOYmFZQk96VlFSVWtZNnF3eHVKcEdLTHZGbXpkUWc0Q01DNkVEWWZhTW04ZUZWZDRNeDdPRlA5SFU?oc=5",
    "manchete": "Nvidia (NVDC34) divulga resultados nesta terça; o que está em jogo para as ações?"
+  },
+  {
+   "data": "2026-11-26",
+   "tipo": "Estreia na bolsa",
+   "empresa": "Anthropic",
+   "origem": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZpd1dVZFhhcUpiS3lGTjNTZUdmWHF1VnhNcUJFM3lnRUV1OTFYUUNUdzc5RGlqYTVIWlJJUEtyOEtDX0pGYkJBQUg3cVBJbUVpb1dHa2xaaDJuOXdINWtHVnN5NjJ1cmJBcy1pWDRvMExaRERtLVA2djBmMVJYUXZLN19MRXAtUnJtWXBSdUdUQ2l4b3hTb0xlX09XYWhYZFhvUXRTaDBHZHM4a1dLaHllTVNOSmxlbXhlY3YzdUd2TWhkamdicE5Lal9aQnZv?oc=5",
+   "manchete": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil"
   }
  ],
  "itens": [
@@ -29,6 +37,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "otd1st",
+   "titulo": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZpd1dVZFhhcUpiS3lGTjNTZUdmWHF1VnhNcUJFM3lnRUV1OTFYUUNUdzc5RGlqYTVIWlJJUEtyOEtDX0pGYkJBQUg3cVBJbUVpb1dHa2xaaDJuOXdINWtHVnN5NjJ1cmJBcy1pWDRvMExaRERtLVA2djBmMVJYUXZLN19MRXAtUnJtWXBSdUdUQ2l4b3hTb0xlX09XYWhYZFhvUXRTaDBHZHM4a1dLaHllTVNOSmxlbXhlY3YzdUd2TWhkamdicE5Lal9aQnZv?oc=5",
+   "data": "2026-11-21T04:37:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": true,
    "avisado": false
   },
@@ -1042,6 +1062,18 @@
    "avisado": false
   },
   {
+   "id": "fb8ogk",
+   "titulo": "Anthropic faz o maior IPO da história: US$ 81 bilhões!",
+   "fonte": "iMasters",
+   "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1UVpDWVNvd2c4YWxSaEdLNzJrRGxNUWxTSUhnVUo0YjVuZzQ0UE8zSmFpNUFBWGgyamNwVzFBTnRBblY0Uzl2RzVWejl5bGZ3bjFScGJB?oc=5",
+   "data": "2026-11-20T18:15:26.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2aescv",
    "titulo": "GTA 6 traz participações especiais de outros personagens da franquia? Confira",
    "fonte": "Estadão",
@@ -1799,30 +1831,6 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "ic9swh",
-   "titulo": "Anthropic capta US$ 119,5 bilhões em IPO e esforços restritos",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOaHlXblQ1RVVKSUJIcVhSRHB1anBHTUV2UkZDa0tKZ1lndk5rZDdSZVNzMWVjODNUU1NGNUlJSXgyZTVHbG1NbVNBQzRmSUVrYWpYRDZMVG9raXExb3RlTnBnaXAzSldhSnlBNXdodTc3QmUwTXFwcVpPTlVxcTI5aG93c1FVTjhpNTY2MU1aUGNubWZCYXhvaW05NHAxUDNvTU5LYWQxRzhZbC1tU2d1TTlTdkNtV2E5TEx4Q013?oc=5",
-   "data": "2026-11-20T13:08:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qs1tg2",
-   "titulo": "Anthropic Fecha IPO Recorde de $119.5 Bilhões e Colocação Privada",
-   "fonte": "blockchain.news",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTDlMTXlXUkRjMVNWNkVzZFl1WnhRMEl3X1A0ak9mYmM3WnA5WEM2R3lOSl9ZVjg0R09jSmZuUjZqbGJRMmVtWEhhdDM3Sl83Snh2MDV4Y2E1dWRXRWIzTlRHUi00c21BZzdPMmZLMS1aM3lzclVzU2JwemVFTDNFLWpQTnp0Wkk?oc=5",
-   "data": "2026-11-20T13:07:53.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
    "avisado": false
   }
  ]
