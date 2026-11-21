@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-21T23:00:36.382Z",
+ "atualizado": "2026-11-21T23:30:25.412Z",
  "agendaCal": "2026-11-21T17:30:27.845Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -37,6 +37,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "k0glkz",
+   "titulo": "O que aconteceu com o Bitcoin antes das duas ofertas públicas iniciais (IPOs) históricas?",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTRfZkNHVV93MFdERTcybzBfS1BEbEl6cW5URHZiM3VYNjhoSXhCbWRVVlBZanRQbVl3WWZsbEM3d3ZSNzYtaFRyWTVVMU1fc3plZlczaW8xY2tLWmJmajBfek1BTmwxdHROYlpVVUpqMFRaT1JSR3hZWU5KU3RwbDFVUUxTcVExMVZMeA?oc=5",
+   "data": "2026-11-21T23:02:18.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1c2hwcc",
+   "titulo": "Amazon negocia compra da startup Decart por US$ 7,5 bilhões para ampliar atuação em IA",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1M2UW52QnVhbUw1YnJjQU5lTEN5LWxnSWM3SjhRaV9BNDdvV18xb1lLMkpFSXdmdWZpMVczaXVRNk1jaE1GQXZIdlVPQUhUaXc2bmRpRm5HYldubnZKU1NzcUtydjJfQVc3Y1JUZEVud242d3V1aWZfYXJIY19STnlxbEkwemdnZEljVjExMndrMnlaSnYyV0syRzdXN0xHa0lyakVMX0pGU3NQaVlvTUMtX01ibmpJUDg4?oc=5",
+   "data": "2026-11-21T23:00:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Amazon",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "a0qpb4",
    "titulo": "GTA 6 | Rockstar explica por que cortou parque da Disney",
@@ -1816,30 +1840,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "veonb3",
-   "titulo": "Anthropic recua 8,5% e esfria euforia com IPOs de IA",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNS29xaWRqQ00yNWJtMFU5dHkwM0Qwc2ZnTWljM0pvRGZXT0E3SG9rX2phWEhZXzZPeDZqOS1GTzdwNVRLR2tLZEFxeG9IZ2IwWEQ5bXYyU0xVYkZNSjA4eGVQR05yWUlHVFFqZWpTemRzX2R2X2RBLUdsNUhfVlhDX1pDeFpkWEwzZFBFWlBYZElCa2hBWU1oRkVVUXRLRk1MaEE?oc=5",
-   "data": "2026-11-20T21:19:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "puu2db",
-   "titulo": "Nasdaq desaba 5% com venda de ações de tecnologia e possível investigação contra a Nvidia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMHJRVTFvN3J5d3FpTkVBVTZpMXlwNkxCUnhqTm9nRUs0enA1QVhmQ0dDc1dlQVdGOUVFNEtleXVkMXRURzJNV0V0YTdzOFRobWRzTjhfRVotX3BiM0JWMkpYTGZPdjd4bC02QWtHdWdWMjFEU1dwWWZLTjNTdWdKeFBPVlczYzBhZksxTXpyeEVTaWRmX0h0V2prcE9lSjhfUkl5aWpJX0M3RGxtaWpWRXZES1VKSm5tOXlCYmhhQkVRZlU2cVhDRtIBzgFBVV95cUxQSFVoa3F6aXhYQ09FRXZad0NzUi1YTnBkV1hfcDJaMUt0U2pGaW1QS2FqMkxETm5ac2lVNjAwRkVfLWNBQjlPUm1kSEFjNlRVa2JnLVdBR1JwZURScnRKOEtCR2lDNnBScERWWWVsb0xaeVdPRlZXZU16dEZ0bzQybUVyNjZNSjhnX2NnZ1BudHlELWJrVmQzZ2VZR2dEcnFfWHFoVnkxTmdEZmpkUnVWV0o1OHU4Rm9pM0NkQ2x1OE9kNjd6Vmw2VkU3VG4zZw?oc=5",
-   "data": "2026-11-20T21:14:36.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
