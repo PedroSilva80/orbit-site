@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T15:30:26.544Z",
+ "atualizado": "2026-11-22T16:00:30.324Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "bxr5u3",
+   "titulo": "Rockstar pode trazer L.A. Noire de volta após GTA 6",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQa0hBcHNlaGxLc2dnMXJQYVVjZndVQkRvamxYOU82dUhta0xIQWt1U1M3ZXZCaUF2MUJRcTEwcHN1czVmcXlhaHVmdkVkNHU5bnhnSHpMLUpycnMwc3E2N2dmQWtOMFJ1S3FyMUVQWnFGTC13bkgxTWhsNkFlMDlQbkNRU1RNOHFLSjltMXlIUlhBWWhjNmhjSGoxekdnQVFKSlVhWA?oc=5",
+   "data": "2026-11-22T15:36:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mxo0fl",
+   "titulo": "Nvidia sem Jensen: por que Wall Street nao compra o discurso",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeTNFMXdEZ1hrck40bVR5c2htdXBGRFpPYUZkR1h4WVVjXy1NanZPRXZ4OXZzU0hJLWI4ZVVlc0Uta3FET01oUkRFMjVWSlpYRWF6THdRcHUxV3UtSEJROUpwdmtyRk9rblRjX1BjMllmVjhXaG9Yd1BjNEpVZV9XTDczU3dKRW5mUjhr?oc=5",
+   "data": "2026-11-22T15:35:34.000Z",
+   "cat": "Corporativo",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1n7sjiu",
    "titulo": "Após IPO Estrondoso da Anthropic, Dario Amodei Segue para a Puglia",
@@ -630,6 +654,18 @@
    "avisado": false
   },
   {
+   "id": "18n55j2",
+   "titulo": "Meta lança novo app ‘Achados’ para compra e venda no Facebook e Instagram",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRDdnBYck5BMGFkS3FmTVFlU1RQWHUzOS1abHZvNG5jUXpjM29YZmxSbGJRNlZXVTRBOXZ0R1cwYlNlZ2dsaWdUUXZjT0hKTng4Q3RDMUdMNmVaZFBGdjgzSnJGem1FZ3JkQmN3VldueDRQTmp3X1N0bWk0eTAxQm40SU84cU9YRjh5bG9fWGJBWXIwekpnLWFkWDI?oc=5",
+   "data": "2026-11-22T07:24:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "51j30p",
    "titulo": "Análise | O caso Nvidia e a guerra silenciosa entre Washington e Pequim",
    "fonte": "Visão",
@@ -698,6 +734,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cak2o4",
+   "titulo": "Latas de Pißwasser na geladeira: como a Rockstar testou GTA 6 em prateleiras reais sem avisar ninguém",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqR2o1dm9ZZWU5ekxLUS04SktMb2tTQzVGWmxrMFJfa001OHdOUTNPWlUtWjd5NEhQR0tMM2FyRkVsZnM4UE96d1dvM0liTzU2Mm9uXy1vTGJTVGxWY09ONk1vbm5UTk0?oc=5",
+   "data": "2026-11-22T03:28:25.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1796,55 +1844,6 @@
    "score": 7,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "ouw62u",
-   "titulo": "Batalha do cronômetro: como a minutagem de Coven Academy virou cabo-de-guerra entre Disney+ e seu criador",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSTNzdDMtV0NSM2pEekVyZU1MaFgzTklBU3lra3NjMklVbXlOTDVrcjBvVEdubXRaaEdkLWRaTFhaX0ptOS1lX09zeGx5N25hdWFGWWV3YkU3UWZjZDQxWFRnMlg5NFk5Rzl0WjA4ZkpidnF1Sm9JRFkxT0htYTFqeHk2UQ?oc=5",
-   "data": "2026-11-21T12:43:56.000Z",
-   "cat": "Mercado",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2o1d4f",
-   "titulo": "Ações da Nvidia despencam 14% e registram sequência de perdas semanais mais longa desde 2008",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSEZRTklQUHl1MVQxN05JSkgyRDBnR3ZFNFU4M3VfeXdoVEJINmVIYlU5YnZYUWFMYjJzQU9DYlQtdDFLTzJ2bjNjZlRCQ0dDQW5zX3ZGOWRjN2h2SERoaU9Jd0o1QnBFaW1QSVU2WlJ4ODVHUFVSN25va3liVEgyQmJnZ0JHa1kya2UydWVockZnVDh6MHNwT2lQUW9LNkpEdmpUTUVDOUFnRFc4bFlkSU1YYl9mc1daNXFIelZlTHZ1YTV4LWNjcEgxRU5SUEF6c3BsMEtRUzNCSU5uc0Y2RnNZVGFONlA5X2lkc3U0TDhCNGM?oc=5",
-   "data": "2026-11-21T12:43:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8ndzz4",
-   "titulo": "GTA VI vira alvo de review bombing no Metacritic após estrear com nota 99",
-   "fonte": "MeuPlayStation",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xVXZsZndSYzNOYXZKMXBFN2xWOE9pdGRKcjEwS05Sa0lrZXctbTJBSXhfQUlJWmZiT25sQmQ1QjgxT0NJTkloV3lDOWFaNzJ2VHdiblV4clBYbUhiaG43ak1wLVZiekpkdmhyQ21TOUY?oc=5",
-   "data": "2026-11-21T12:33:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9q5t6c",
-   "titulo": "Nvidia cai 14% após notícia sobre investigação da SEC",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZMEo1X1ZrekV0X3NlckpmeTNqRjFwNVhtTmNDSnROWUh0NldON2szYjBPOFdqLTZlS2k5bHQ4ekRBZkZNUUkzMmdnZ1RTaWdxMlpobkJvRFJPNkY1dzFQUXl5VEJnOTNxWlRhaGVCT2ZYQQ?oc=5",
-   "data": "2026-11-21T12:27:31.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795264225342
   }
  ]
 }
