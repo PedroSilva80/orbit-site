@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T21:30:28.794Z",
+ "atualizado": "2026-11-22T22:00:30.815Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "bnu0ku",
+   "titulo": "Secretário dos EUA evita apoiar Huang e cobra investigação interna na Nvidia",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVTJfSTRhY2tZcnVzZ3dKX1I0dVZEMjhaaFdqdjI1Y1E3UHZVRVBSWm5GYUVsdHhfcjBZd1czbEFVU0tEMGwxSEpnaXVfaVN5R19nTGxXeU94NDlicTNFeVJua0h1ZXUwMWZBREZmU294X1hzandTc3ZqeDhjODRfaE5lYTdMeGFjczRBcEUwbmhRVHY1eFNpTVd5NDVCRW9ZZHVBdkVLbFZTeDh5djdQTk9tYUd6SkhWQjdSaTlaWlZsajJ5eEpuX21ub2w?oc=5",
+   "data": "2026-11-22T21:02:21.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1w6zhq1",
    "titulo": "GTA VI e o preço de ser o assunto de todo mundo",
@@ -107,6 +119,18 @@
    "cat": "Lançamento",
    "empresa": "Vale",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yw0dzt",
+   "titulo": "Anthropic e SpaceX impuseram regras incomuns e irritaram bancos no IPO",
+   "fonte": "Olhar Digital",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN1JWOUlDZlJGSk9YeWFiOHh3OUFMR2JQWmtiRWtZakMzdTZSWGVuRVZIam1Uak0xQjE4Y0NlZy01eGVBVGNEemJvQzBBaHJwb1l3X0MzUDNlQkRtU2pmNDVoaTFIZ1E3aFdaaVRydHpKSUU5TS1OUFgxa2JnQmhwTC1IYXNERTBqdGtqdVdXMTBndEVvdUwyTGhmd2F5NnM3Z3lYTWxOaXNZTnRqYkR4ZTI0dWw?oc=5",
+   "data": "2026-11-22T19:46:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -243,6 +267,18 @@
    "avisado": false
   },
   {
+   "id": "4shk0w",
+   "titulo": "Quatro anos depois, “Black Mirror” volta como trunfo estratégico da Netflix e dispara ao 2º lugar global",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNZTQ3aU9aZWZGQ09UOEFycU41R1lMNHJ4ekVTb2lCeHRpbkwyZEpSdHA0dU5MQzBLM1FJX191Qjg2bVFZRm1hSjhWbThLRXp0TkZ6QnVBbTBySjUwbWlmcjlKRmhHVXBKQUFaanlRdWFLR3hPOUlLMzJOM0l4bkl5Qlh1OHVpSzVicHpRMndNaEU2bUVCc2c?oc=5",
+   "data": "2026-11-22T18:13:50.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "wt1he7",
    "titulo": "Jason de GTA 6 foi feito para falar baixo e carregar o maior lançamento da Rockstar",
    "fonte": "gamepad.com.br",
@@ -288,6 +324,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5taeeq",
+   "titulo": "GTA 6 migra do trailer clássico para a Netflix e expõe o ensaio da Take-Two para além dos consoles",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQX1ZHZXRSNGYwcGI2a0g1MWJpOFJzTHdrZjl2YUhHcHlucTNBZXMyb0pFUF9KQmI2REJiRUdpOFMxRTZrRHVfa1BQWnVMeW5RYjJZcFdSX0VZLXd5ZVYxOUVVMTYtYkJtQlFwUUE5dnpmOFRGRUFzU0pwOUhQZW9BcjZ1Zl8?oc=5",
+   "data": "2026-11-22T16:29:25.000Z",
+   "cat": "Lançamento",
+   "empresa": "Netflix",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1794,54 +1842,6 @@
    "cat": "Lançamento",
    "empresa": "Google",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z7stzj",
-   "titulo": "O tempo que passou entre 'GTA V' e 'GTA VI', sob a perspectiva de um fã da Apple e da Rockstar",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNTy02dU5kTDV0ZmVYMDRtcmRGUmZmN09SQ2tFMFpPaU1ZelFhSjdyX1NmTW9GRkI1bWxvQTVpMlZCcjNpTXdKTWFsMU1wSTIxVF83YTlKSWUxeW9FWFMwREwtN3ZuN2hhUjA2UkFwUEgyTXF5RnlROEg0bUc0WEo3bWRTQ2pSaEF6THAtYlVBalFkZWlGWktjOTc2bWFqbVJ2bUYxSnVnS3pHSFRiaTJzeHVHSUw3MEdfdFJrVnhqQkZ5WnppeE50U0pWcHNTQ0YtUkJoal9YTXlWd1ZqTTVTajd0SDMtS2ZJMm5BQmgxMzd5NmRHbzNReQ?oc=5",
-   "data": "2026-11-21T16:11:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12peug6",
-   "titulo": "Amorim e a «febre» do GTA VI: «Nem o Modric deve saber o que é...»",
-   "fonte": "Maisfutebol",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSGlhdnRyWXY5XzVfU1ppZFZVdV9tTjRadFdMTlJCMU5ad0VWUUljclB5d2JCMVE3dXpfdGJQUURNOHlWcUQzT0RGUmRRNm10WXhGbUdXM3FrU044T21Hak45cThtaTJBMXVfcU5WTHJ3WWNTRUV1NVg0Skh3WXp5RXduUTFISTNFYXlvbzZqNi1sd3c2bFJrODFEUjNOMmM?oc=5",
-   "data": "2026-11-21T16:01:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1malayd",
-   "titulo": "'GTA 6' arrecada US$ 3,79 bilhões no lançamento e quebra recorde de faturamento",
-   "fonte": "A Gazeta",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVTQ4REVSamdRdHpLZHd5X0JDbEFkcEhiR2taS3RrQnVCZlVyWm1WM2ZvS3Y3ZzRUQXN2TXVBUDBULTh5THp2c3dmbmFRZXRXbVQ5a3R6RUg4VXlWaUNVM09selZCbG9iMWZOVURRYlBXNDJ1a3czWjVGbUxYYjd0dHlxZ1E0S2J1ZzdGemxJemNvcGNVSDQxMnpMeFIwdDQzSDVPVi0tbVpGejZ1eDNJcmFrRnRCalFKYzBR?oc=5",
-   "data": "2026-11-21T15:27:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rakwdu",
-   "titulo": "Febre do GTA VI? Amorim arranca gargalhadas em conferência (vídeo)",
-   "fonte": "A Bola",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObGtoT1J3WFNLS3ZNVGx6RnMwbm9UMHNkM2tlaUNybWFpVUg5ZkJJaXZaNGVySGxSUjJPSHh0VWtVekdvS0RrV2tva1kxNjNyTTEwRktodkJVZVVTbmw5UEQ4V3EyNDlJVFFkUWJkSkdtakl3aHF2VkZ3TWpQdUZwamE5R0ViYnB1c0lYNEpTUlJCYXl6emRnLWF0RjR1bU9PeXpJa01tcGdFb0ZTZ00yaGVZMA?oc=5",
-   "data": "2026-11-21T15:23:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
