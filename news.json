@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T17:00:34.836Z",
+ "atualizado": "2026-11-22T17:30:27.539Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -579,6 +579,18 @@
    "empresa": "GTA VI",
    "score": 7,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "j3meap",
+   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnA0cEt3ajJBZGE0aWxON2tJODdWQUhYQ29MOTFjbXNzcUlQQ3FJWlh2ZkN0SFRPNmlBT3N3TDl6UEc0d24yWVpSM2ZUTjJQeXY4SjY4akQxRGN1QUlWVXVPY1N0WTZRcmI4Umg1TElmRE9Td2w3LUZXQmhRMDJIRGYzRWxwLV84a2NKNEh2djQwQ25UUWRJMHFBTEktUVRXc1lvN2s4bW1ySHdtUTlKRm15TjlYcDk4MWEzdHJuTmVTU29rMkxMZ1ZTM3JXaVllb0xyX0VxRURnUHlTNWhEcTU0cWx2WHNPTlRFeXBB?oc=5",
+   "data": "2026-11-22T10:10:27.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1832,18 +1844,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795273231237
-  },
-  {
-   "id": "nbtrcc",
-   "titulo": "Nvidia perde US$ 3 trilhões em valor de mercado em meio a crise de governança e investigação da SEC",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOUlNVWFlLamJhaVFvNFZMaUlheWNXZGJKcTF2NUY4c0xNb1VienI5TUtCSXdoa1ZndGFLSDhpVDBGZXMwbkFfemN5MGJWRUE1Ti1kZC1IdU9LakUtYjU2MzhlTThpb1NEcUpjVjlRdWF3V2JOMXlpRmhUM05XZ1B3MjFlWU5jbGduTFB1dVJ0WjlNMEdXcE9ZMFlnU19RcHJTOFluX3owVnZpVTcyWHRCYlhRVVBWcW51MWczRmxpYWFGemlOSkNWWVhrTkFWUXVhTW9JckNBWnA4c1JhQTJuS2l1SjFFdXRkemlqTThfRmhMbGhvWloyVXVIMU1BOFNFTHfSAZACQVVfeXFMTlh2VUlaNzJ3WGowRC1vZlVjVlpmaThDNV8zaFJnUUZ3dHlvdlVCOVd5SkdZV1FZQ1V1OHJCa29rYVNIdE1lSmQxLUtiSFJEUDdVM0ZQNjhURGdtRldTTm5zWlJrSnZQVnZ0QmpmSzI1ai1aeU9aNF92V2R2VzlEU3dhZUZDQjlsUlJHcWpCM2g1NDZEZHZaeGxrS1dmaVltN3QwNFM5UkNsY3VuYllvZGhJemI3aW9wNlFfcWp4Z1pycTZYdC1KX0VERG9PUk4tRm1QLVF0R3RKQnlSVm8xcDQtYk1FSmdTNDJVUmtpcTZiWmgyNjIzUG4zT0NRM1FaRE5OREMxUk15bVRwZmNXdWw?oc=5",
-   "data": "2026-11-21T13:37:53.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
