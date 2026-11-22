@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T13:30:27.397Z",
+ "atualizado": "2026-11-22T14:00:30.298Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "aepae6",
+   "titulo": "Netflix lança trailer de comédia cristã e produção é comparada a Friends",
+   "fonte": "alfinetei.com.br",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWHhnMzY0cGZNWWp0WElLZHJUQ2pwSkdzaEtnVmxIVEFwZXh1RnZsRTVFeDdFQ2hNYThTeFlpWl9ud09EbFduSlA1M0tEYVozVnlqeUUyVjBOdzF4ZlVKUUZTWUJvd1cteE51bDFWRzlmWFhQY3Q5cS03Um9PZjNOM2VrZ1BYbVBsTEN0djNjNHVGUS1CWHRRbkpBemdwcGN3Y192NW1xU2tUMXVxN3NoWkFvOTI?oc=5",
+   "data": "2026-11-22T13:39:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "71o9o3",
+   "titulo": "GTA VI: The Album quebra recorde do Spotify para maior estreia de uma trilha sonora de todos os tempos",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOTVESl9OdndGSDFFOGRTOFJtal9pWU5zRmxXS1VTdUctelRpcHhSek8yTnpYOXVLY1VBNXFfa203emhLTUI0YXlNbE9QcWowWjg2UWJMeGFsbFBWako1MEgwVEFFbk85S2Y1RmktZjlnTEpaa1NsOVM2aFVCUEZBV0xQSi1kYXc1czBDYkJaZmFQNkJsblFwZFFHY0FqYUFsdjhZc0QxUW9DSGlX?oc=5",
+   "data": "2026-11-22T13:31:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "onkxhi",
+   "titulo": "Portugal chegou ao GTA VI: há bandeiras nacionais e um restaurante com nome português. Descubra todos os pormenores",
+   "fonte": "Jornal SOL",
+   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOTUc4TUZnOVVFQk1tdGFNYkZ5dlQxdU9mTFN1TjlscnUwWF84LVV0TFhQejNvZmxyRVNzc0RFSEdtaE00Q3lDSU5NZ2w3bHVHNDhOT3FrQnBPRGZka05jNE5uTmlacFNpZ3FLbk0xWmkyQUNoOE5qbnB3NXpOQWZacGdvczFvalpUM1AwNWRPX1BPWGpiNnBKSFBreEJGLUoxWnhuZEV2QzdWTlMwN1NKc24yb24wVXk0WVgtRUpKTklkMFlIV0RLQlN1bDdFZXFGMDYtdXRNbTVSYkFGYWxMNXYtTE53amo3RXZoVHZMWm40U1ZTWHppNFVNSlprOVBCUlhfYnZJT0ROSDlDOV9tMTJjbk9UNlZ0?oc=5",
+   "data": "2026-11-22T13:16:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "v74s3a",
    "titulo": "Resultados do 3T26: margens pressionadas e custos elevados dividem desempenho de Ambev, JBS, M. Dias Branco e MBRF",
@@ -168,6 +204,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "n5idtu",
+   "titulo": "IPO recorde da Anthropic levanta novas dúvidas com o fim do suporte à estabilização",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNamh5WkNrbkJ2X2xlOGd3RDYtdWNiaUpOX0hSU2ZSTXhSLTBfQXJLeTNrVldzUUNDenZrT3UzNUlhU0FDWVNIcHpnQnVkVk13NkZSS2thY0NtRWJUbDNCeWF3a2s0T2tOeHhaUGRTU2FfR2NBdk9rbHlmVTZ5REVCUUVsT1p4OE01RW5NbGFOSzFZUmdGOEE?oc=5",
+   "data": "2026-11-22T11:46:08.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1794,54 +1842,6 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1557nad",
-   "titulo": "As ações da Anthropic despencaram após seu IPO.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JT1BULUVRNEdQbTRlZGdyZDZKbkdkdEozUGlZRHBuUzFWTGlPOFBNbVBQVkxySW9hbkFkdU1OTF9LOFhFY0c0ZUZFbDl4UlRNalhpWF9nbzF3c0FpZzBsWU1pQTROVW92Rmw3TzdsOTVuWE5iSzU2MHUyS0s?oc=5",
-   "data": "2026-11-21T08:36:30.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rvt6z5",
-   "titulo": "CrowdStrike negocia a compra da Zscaler, avaliada em US$ 32 bilhões",
-   "fonte": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNDVmWWc2SURScHExNklOcEJVUjNNX0ZmUHA0NS16SXpGQ1hOM2h6Ml9VSmZISkRHSHNEMWpBRmotbDN3anFLUm90RDdqWHFXdm44d011WE9WZ3RlU0dtaUZIc09wVXdSSlgxNUoycktud2FseDMzVUxDUDdFUWx5UE1LWlkwcW9tQlIzcm90amVYcFljdXByZktibmxnejQ?oc=5",
-   "data": "2026-11-21T08:11:06.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "f9gxr1",
-   "titulo": "Despenca a Nvidia 14% e o Nasdaq perde US$ 4 trilhões em uma semana",
-   "fonte": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS25qeTYxOEFuMmNiS2Z0U3dEbzVDNVlxdmtkeXExS0w2VTRJYmV3LWlnRFZzOFhOcjdhMURRTDFSSUxkeUhpcG1Wel9rS3NjTGFKb21jcExPVXlpRVNveGVfSXVKeEt4NWJZS0VKVFBHOS13UDM4TERVNkxLSWdXajZPUTBJbkRfOUE4SA?oc=5",
-   "data": "2026-11-21T08:11:05.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qei6st",
-   "titulo": "Ação ANT a US$ 88,91: mínima de sexta-feira ficou 5 centavos acima do preço do IPO",
-   "fonte": "FinanceFeeds",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlZNc3RFLTZjMThUdW5OWWo3SWVEb2pJZlFDTmN6UVFCYVBCLWtkX1Nvb1BLc1M4WURHQURhbVFGYjVvVG1zRTFYWDFWZXdBYWF0c0tSYld5N0t2S0R6ZmZFRF9zOXktN0pHWjdqeUdSS1BPOGxzbkxBZVNvNWZuX1ZWOA?oc=5",
-   "data": "2026-11-21T08:02:35.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
