@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T21:00:35.039Z",
+ "atualizado": "2026-11-22T21:30:28.794Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -264,7 +264,8 @@
    "empresa": "SpaceX",
    "score": 10,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795383028794
   },
   {
    "id": "xpgbbj",
