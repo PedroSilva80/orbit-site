@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T09:00:29.020Z",
+ "atualizado": "2026-11-22T09:30:24.935Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -29,6 +29,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "77t5me",
+   "titulo": "Anthropic IPO: estreia na Nasdaq e o que muda para devs",
+   "fonte": "iMasters",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONktIbzBXa29sVktkTUZFaEl5cnJKLXA4Yk5tSDZYdnQtVERxbW9ncDFUU08wYW5YcHliZWRnTmRxZldJeUwwQkROVlVQZjY0MFk3OUVlOXp4TDFJQ0xIbEd5YXBFbEtFZ1ROR2M0S0NSVzBoWDFiYjBJR1ZBSXlQVEpBRDBHdjJqUEVWRUdaSQ?oc=5",
+   "data": "2026-11-22T09:06:15.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "ga3vh2",
+   "titulo": "Glitch libera GTA 6 a 60fps no Xbox Series X e desafia estratégia da Rockstar",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySjN2cTZWbjN1MnlpS1JxQjEwSkVQaXJtNUhxa0NCTVVkLUhOaEdBWW5IX3ZIN1dYUXVrZVdGNUp2RUFjTEludkF4LUkwYU5aQXR2RmIzUWNDaVB4WXdWNDdZZUY4bExSN2tidg?oc=5",
+   "data": "2026-11-22T08:29:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "gxu372",
    "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
@@ -1807,30 +1831,6 @@
    "cat": "IPO",
    "empresa": "SpaceX",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vrzqil",
-   "titulo": "SEC investiga práticas contábeis da Nvidia em meio à crise na empresa",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVUxNk5zYi1JRnhjTTN3MFdndXhNMUdwVXpmdG9qT2taT1hLSzlqSTBFLXBnQ1dqckp5RlRQNFpyYXJLVFlvT1Q2WDNPRDNjc1lyNjFyUVNIVWV3MkRQdnFqb3RPRzBUc3pTclF2akpueUdtOVhEQ2tJcUg4c3R1T3pib19fMkY3N3RkV1Q5TVVsNkwxalJfdlZjS2VBZFdjdEZMSmxSVQ?oc=5",
-   "data": "2026-11-21T01:00:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qtrx8r",
-   "titulo": "Indústria de games debate limites da inteligência artificial após lançamento de GTA VI sem automação criativa",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdGdRNVNwbS1KdlpJUDZqanpBVXZXdU1RTEFNaHd6ZmxqOXkyY0tDMkVNSG5xczlpUU9ZcWN3d3FRSVA3NWVLbWJadkNhSG1aak02V25QbGVtb0hESVMtcEZYR0RhRzdqOFZxdFNsai1xTzZzMEpGLWV4TURDeWlPMHhCQ0xYUlljVVRrOTRlcWxTLUVlZkppZlJIX082NkZ6ckdFbUNtUDRqN2MzZi1OMERyclg1cTI3ekJnVjdTRUx1ZTJnbVJibnAtT215aWh5bXBLUnBxbw?oc=5",
-   "data": "2026-11-21T00:35:11.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
