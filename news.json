@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T20:30:26.957Z",
+ "atualizado": "2026-11-22T21:00:35.039Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -59,6 +59,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fxoj7c",
+   "titulo": "Bessent se recusa a apoiar o retorno de Huang em meio a investigações sobre a Nvidia",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPRWtsVzNJVWNJb0JYd0EyRndWZnFDQW1GcjdGXy01bFB2NWxvdks4V0NFOHIxOXF2NFBiUjNlX2RaZjFOanRaa09ZOFlmVno2YTFqYjF5VkpVSS1ROU9ZTUVNcFlRN215TlhDRkt1TzhIOUl5N0FfanREaC1WSFotT0llRE1Sa0FGRUtTSnQ1TkJ3OHZ3?oc=5",
+   "data": "2026-11-22T20:10:04.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1830,18 +1842,6 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16zfugp",
-   "titulo": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
-   "data": "2026-11-21T15:10:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 7,
-   "marco": true,
    "avisado": false
   }
  ]
