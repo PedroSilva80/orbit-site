@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T15:00:31.357Z",
+ "atualizado": "2026-11-22T15:30:26.544Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -132,6 +132,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10ig75u",
+   "titulo": "BBAS3 dá adeus a Tarciana Medeiros? Governo Lula já tem nomes para novo CEO, diz jornal",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSUVSMFlmQnh1Z1JNb2VwQl9HVmhSazNfZUNPcEtCc3JOT2Y3Y1cxMmwzNVNpODBhQzl1X1ktQ3dFTnhEdldnMlhHVS0wU0N4Zm50ZzdDR3NjaUx0UE1QUGZMREp4OTlKQVAyVXR5OHJCMDNPXzQxVXByNlFpc0FvTVBiV0V1OXJzWkFRYmhveFVZQzdfd3dqMEdpX3Z0Vlc3clYyTFNTMzVyY05USm1rR2Q1T2xhWXIxTjN3dXpZQ0s5dndUNXJlLU1fNUJraknSAc8BQVVfeXFMTklFUjBZZkJ4dWdSTW9lcEJfR1ZoUmszX2VDT3BLQnNyTk9mN2NXMTJsMzVTaTgwYUM5dV9ZLUN3RU54RHZXZzJYR1UtMFNDeGZudGc3Q0dzY2lMdFBNUFBmTERKeDk5SkFQMlV0eThyQjAzT180MVVwcjZRaXNBb01QYldFdTlyc1pBUWJob3hVWUM3X3d3ajBHaV92dFZXN3JWMkxTUzM1cmNOVEpta0dkNU9sYVlyMU4zd3V6WUNLOXZ3VDVyZS1NXzVCa2pJ?oc=5",
+   "data": "2026-11-22T13:19:00.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -293,6 +305,18 @@
    "avisado": false
   },
   {
+   "id": "1i5ku3h",
+   "titulo": "Porque é que a entrega de «GTA VI» nas lojas portuguesas teve de ser feita com escolta policial",
+   "fonte": "SAPO",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxORmgzaWJVM3hYQi1GS2c3TWhHTGtqZG4xNWtjRllUdTFEVUlaNy00MUFzc3Y0Q2pxNjdhNjlWZWdkaW1jN1ZXRWF5YURvVy1teWx6cHRQN0tiM0JlaW01X2NIZTFlQ2ViWmh5ekIwSHRTVnBnVjVtYnJLcGw3N0prVnlfeXBSSEpLNWY5Y19McThLODlrc1lhdVc2aGh0dG12YnAydEhBSy03TWZvOThHcVdWN0pVbkVzMGN3ZVlGMWlmYjJwX3NkdTkyNFpwM1QzQjF4enRrdlc1WWhraWc?oc=5",
+   "data": "2026-11-22T12:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "2ftwsl",
    "titulo": "Estátua de Cristiano Ronaldo na mansão de Messi e restaurante português fazem parte do cenário do GTA VI",
    "fonte": "Observador",
@@ -349,6 +373,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v2ztmi",
+   "titulo": "GTA VI chega após 13 anos, mas o preço alto dos consoles pode afastar jogadores no Brasil",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVDh3RWxhSHAtNUtPUnlGdjg2bThKU2w4WUJ2bnBXUm82ZXdlQ2lrcGR6WFNFekJPMlVoMVNNUk1YVkxmN0FzbkpUS1B0cTU3aUt0dHpQRDVzZ0pFUm04VVpuX3dKMEJOYnVtSC1UZ0FkVGw0WUJLZ2NaX3FvQUlKUTc3NkdPWXVMbHMza3BiQ1dJNHl2S1R5QnNfRHMwNnNaVUU4QVV2RElnWTB5X1JGTHRJMXQ1cVNXbWNNbS1QMnc4aUNmOVhGdWNqQnZ6YTA?oc=5",
+   "data": "2026-11-22T11:22:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -444,6 +480,18 @@
    "data": "2026-11-22T09:31:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1avowvh",
+   "titulo": "Como GTA 6 roda no Xbox Series X, S, PS5 e PS5 Pro? A Rockstar explica",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTNMMnB3QW9JblIza0kwem1nS0UycDR5Rmx6SFFCX3VFLXZRTzVpQXM3Z0EzelRFOUw4VEY4SHNjZXBieDhvWXBaaGZnRXhpd0JUaGEyc3JrQ2ZLQ3owcUk4RkZ3VnZrblhnSEotbEtZZDA4NUpNa2ZMbU9mbE9jYW50X19jcFRrQW9aTXAzNEprQmRyTURKTXdjOU5BMHQxTFVrZUxXckFBdVBkcWJuVkpaWU5Va1I3X1E?oc=5",
+   "data": "2026-11-22T09:29:36.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 7,
    "marco": false,
    "avisado": false
@@ -570,6 +618,18 @@
    "avisado": false
   },
   {
+   "id": "u9pow2",
+   "titulo": "IPO trilionário da Anthropic: como dona do Claude ganha dinheiro e enfrenta corrida da IA",
+   "fonte": "Prensa Mercosur",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNcGhkOXJOdjNpWlozdU5LZFdsYXZHSVNIeXNsS3djU083NDVTVnZ4dnhBbWllc1UzdmVzaDhxN19nNlRNS05laThoeG8zQmNuaDJHcjBLUGoxZURiZHc4OER4VXNuWk5CMGowZFJJQU10ZE5ORW9XRkdkR0NwcnN3ejJjbzA4TVBVaG1zRGJJbVhjb01KTlJwNnlEdmZXS0I2UkxSOC02UkhKN25HNGpacUxHeF9Kd2VHVGRORG9kYm1sdlQ2X3c?oc=5",
+   "data": "2026-11-22T07:38:12.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "51j30p",
    "titulo": "Análise | O caso Nvidia e a guerra silenciosa entre Washington e Pequim",
    "fonte": "Visão",
@@ -649,6 +709,18 @@
    "data": "2026-11-22T03:10:17.000Z",
    "cat": "Movimento",
    "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1f56ap0",
+   "titulo": "Pafos FC lança camisa com inspiração em GTA VI",
+   "fonte": "Mantos do Futebol",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeV9KLV80RV9JVUtoblZPck9iMG40WUYwM1dZNDRDMGdhZ1ZudWRfeTBKQ3VJTDJJaWp3OVRfNHlGZXQySWhkWXA4S1VmLUotMmhibWtrRjQ5VmJUOGtNM1dnNmRtSDFHaS1KdDFkc2NDNnlZZFZKZDBKbUUtUQ?oc=5",
+   "data": "2026-11-22T02:20:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -739,6 +811,18 @@
    "avisadoEm": 1795342499167
   },
   {
+   "id": "187susl",
+   "titulo": "Hacker que vazou gameplay de GTA 6 se declara culpado",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenVsT2JjbWRGUmx0Nmw1R0lYZE9Lc09iTDJXdlgzYm9Kem01T0ZLMmVOcnRxZHdqQ0VUd3VIQWRBYWxuVHZZVGJPaXh2b3FhZlcyQXZaRTVaUFhkbzlCZGRJVjg2X09vY2diaG1fYzQ2TTZaOWJCMm1aYzlpVzNOdFFVZGhEZUZuR05VVkNmNlVlNF90Zk5tLVhUZ1FzemludFBvQ19mN1o4d1RmbS1Pbnh3VnUzS3NObHFwd25nVURmUkFp?oc=5",
+   "data": "2026-11-21T23:55:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1r2d1oj",
    "titulo": "IPO da Anthropic ANT: preço das ações Claude e fatos essenciais em 2026",
    "fonte": "Bleap",
@@ -747,6 +831,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1h2rnjj",
+   "titulo": "Dúvida sobre eleição de Lula e guerra frearam fundo de florestas, mas bateremos meta, diz embaixador",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0pYNmY2TWU5Unp3WU03a2FfOHdfWFMwRWRPeXZadXl4R2QtZkZWeDRkQkdGOHdWd1lSM3lKWWxJVXR4VEdKQW5HX1VfdW5nSVBGYjYtVGZDYzlqdDJRT19WbDQxZzY0WkRhdXgzNE1UZnhRd3BUSmFndzgtLU5sQW9wNGl4TVpuWUdma2dYMXdCb2Vlc05VdU9VRE44UWw5UU1iQ0JoZzdlbmZOWFZYR3VXRmFydWsyRDBZaHRuVmVGZlJ5Zmsyc2tZbTJuRHJrd0ZibnNPZ28?oc=5",
+   "data": "2026-11-21T23:08:39.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -783,6 +879,18 @@
    "cat": "Corporativo",
    "empresa": "Amazon",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1snhtdi",
+   "titulo": "Netflix fecha pacote inédito de três partes com One-Punch Man e reabre guerra dos super-heróis no streaming",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0g4Zi12WktfLWJIczJTZGF3RmtZa2NnV1FGUmxudlZFc2hpbXQ5YW1xMEx5eWZSdG9nLWNra1pyQVdvY1F4OXB0azh0U2xCem9fZS1SRnJ0aERHTTBla1JEajh2QjNJdlJQemZ0ZXNaRHQwSS1yTmpxUlE0ZzRZcm1ZbzE?oc=5",
+   "data": "2026-11-21T22:13:25.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1737,114 +1845,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795264225342
-  },
-  {
-   "id": "1sr7b3m",
-   "titulo": "Governo Lula avalia troca na presidência do Banco do Brasil após queda no lucro",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1BMWGYwT2VEX2JmVVJuVEc4bjgzZ2ZQVWo4QXQtSjJFZlhtOGZkdVRvN1Ffcmo3bHRaQWJiQ2tTRkxPeFhnaWh0blA1NnBwMnM5Mmc2YnU0WF9MdzJCR1pHZ3A2RW1SbTdiRy1YNzNBZXhOTWpOdGFmVDNzcjhCeXlZUWpRWXd2RGlFYkxtZEVBaFE3djZBWkJYeDJJeXVKRUJ2c21FQ2NLd1hTZEtzTDNaYlU?oc=5",
-   "data": "2026-11-21T12:19:12.000Z",
-   "cat": "Resultado",
-   "empresa": "Banco do Brasil",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9c5uwg",
-   "titulo": "Tesla lança Cybercab para clientes comuns que terão que pagar assinatura",
-   "fonte": "www.autoshow.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcGRWb1ZTMVV2QnB2c2RVTzZ0MS1temRLNDZlb3Z5NEd3S3F3WUlDQ3pxU0ZnZ09mWnZ5NHlHeTRZSFFCTHJnVkNFMzVHdEo3MTBNVFVDdVhJM00xTExaWU5zZGZ4eXVSajF4dDVqVHBKamVFcVVsVDhJcXp0M2JDbVhkWDZiTWp5cm50cWxudGhiYi16QUczbm5INjg4ZW40dFd5empGUDJ2dUZPc1A3Z1RtVXo5c1daZjNMZXFpTWJPUEk?oc=5",
-   "data": "2026-11-21T12:12:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "Tesla",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hurbwe",
-   "titulo": "Chuva forte provoca alagamentos, queda de árvores e desabamento Aparecida e Guaratinguetá, no Vale do Paraíba",
-   "fonte": "CBN São José dos Campos e Vale",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeDRPRmVPblM2ZkRoWU1JdXUyZmV5cmdBTjdHSExlVlhPUDdBcDl1S2s0ODNhMkpUTUxUYlpCcEQ2Y2lnTjVJUUtiM21lRXVmNmNwQTRUVG1vOWczVjdVUHJCb3JQMTVRSXFvMHdyNGpxb2xRODB5V0Fqd2JhRGxSOXlNR2VBb0E2azh6aVBOVm56MXhSMlNiTmtkZGlHMHk1bVZ1U19vSVUzSEVPanBXRW1Ka1Mtd3FVN25DZWNLbFBMa1NkWW1TRWRkazdqRTZi?oc=5",
-   "data": "2026-11-21T11:55:31.000Z",
-   "cat": "Movimento",
-   "empresa": "Vale",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18n55j2",
-   "titulo": "Meta lança novo app ‘Achados’ para compra e venda no Facebook e Instagram",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRGRDdnBYck5BMGFkS3FmTVFlU1RQWHUzOS1abHZvNG5jUXpjM29YZmxSbGJRNlZXVTRBOXZ0R1cwYlNlZ2dsaWdUUXZjT0hKTng4Q3RDMUdMNmVaZFBGdjgzSnJGem1FZ3JkQmN3VldueDRQTmp3X1N0bWk0eTAxQm40SU84cU9YRjh5bG9fWGJBWXIwekpnLWFkWDI?oc=5",
-   "data": "2026-11-21T11:49:17.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "au5zip",
-   "titulo": "Trump defende retorno de Jensen Huang à Nvidia em 2026",
-   "fonte": "Espaço do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1neHRfYzljczBJTlVJV2YtakE5VS1hY1B0YWpOdnFzT3d3dnFrc1VJWEdIcjQ0SDg2OWVRU3ZpQTJjNkxmdEppRU1hRW1jUXNocUpzU3ROZjMyMkZqdlIxVW9EdXFzQUJXT0JlUW9MUUUzVG9DQlZrVkN3?oc=5",
-   "data": "2026-11-21T11:41:41.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x97k0z",
-   "titulo": "Inadimplência do agro derruba lucro do BB e pressiona ações na Bolsa",
-   "fonte": "Portal Piauí Hoje",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdFNSUUNPdEpjVnd3cll1c3g0OVk2REUyUnFwR3lGaVNZYUJfVXhXNkUySk55aHFZTnVHY0Y2NHlJWk1UTDVSQ251UC1mdElESkFKMzZJREFQZWtvUVpzXzR1ek9fN0lpT2pzRXk5Sk9qdVA2S0pmaW5LQ2FyWEN2SXZoQXBIZnpxN0NpV3J2dEhKN1BWVWRla2Z5M3NGcnloTldZTFlsVHAwZUIxZXljVl9xakJlNF8xN01zQdIBwgFBVV95cUxQU1gzOURqalpVRGJfOHVTS0dVNnlGWThWQ2VNUEUyNi1zQm1HRVF0ejc2aFZocExpRHZuTGNVSmdWTmpvbjNrNlNKU3pmRDY0OHd1Z0N6aWRLVGRvaEQ3cVJSTFRfM2pDamhKZFU0Sm02Y2RqU3dVRnVuWXVqd2FCZGR1TzZXcUk0cUZBdFdCdkVDd1M0RlhrZnhHTlhHSFlEMlp6N2Q4UmtZbzB6djVWakNDLVkxMXZOckFXWERrWWotQQ?oc=5",
-   "data": "2026-11-21T11:37:45.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jtjn2b",
-   "titulo": "GTA VI: toda a música que pode ouvir no videojogo, de Lana Del Rey a Keith Richards",
-   "fonte": "Expresso",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTmNRa1pXRENWeTk1ZjExcHdrZVhqcm5tQXJqbzFWTzRmR3FNTEVRT01OZTR4ZDR6d2ZYaUo0NkE3amt2VFN4MWdZWHJFVUdOb1B4aUpTR3NHWV95c19EQS1qdDNkZUVtOWd0bFh4ODNvaUJIVEhPbDhmS0JPRGNpOTZiekxsMjNJaUplUVVuUF9KYzZFUks0dUdpaDZBVk9jaGp0ek5RanE2QlNuU1BJZkFxdFN0N05XNzQ2OXlGQldybHBJelQwVTlNVi1WV2hEQ1E?oc=5",
-   "data": "2026-11-21T11:24:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "m1ufw7",
-   "titulo": "IPO da Anthropic: preço de $83, avaliação e como comprar ANT",
-   "fonte": "Fello AI",
-   "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE05RExPSW5IS1I1dVp2eUx2c0pqLW1Ud0w4ZzZMVDVEWEZDcE05eDZreUpaV3dsRFlOSmt5ZkR2LXFjZ1VLdC13eVRqcWgxQQ?oc=5",
-   "data": "2026-11-21T11:13:38.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jh5m9y",
-   "titulo": "GTA VI movimenta R$ 22,5 bilhões em um dia, valor superior ao PIB de países e próximo ao de estados brasileiros",
-   "fonte": "Canal MyNews",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNZzBSYjI2eGVuN0VzUXpTNWJXMURPVHJybUg1Qlk2clBSQXRFQks3cklmOFI1ZU9FUG9nQlJwcW42OEJEWWpHTEEtMjBqcWhHWUFqWVA2c1pHbmpvcTB6MXN4ZXJPZmJHOFJCd1pnM045YTlzdk1hdFZESWV5MUFBTU14MEdSSklWS056aWFWUWlJU1lEUS1DUVh6U0NoUHVyaUtrdnJqenNpbGwyQkJJbFk5dEJUUlhGY3AweFVRNmIyRy1DSFR5Yjg5SjhHNFcyMkZDODF4SjdHUXJZSW9LOGpsVQ?oc=5",
-   "data": "2026-11-21T11:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
