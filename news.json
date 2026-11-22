@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T14:30:25.357Z",
+ "atualizado": "2026-11-22T15:00:31.357Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,30 @@
  ],
  "itens": [
   {
+   "id": "1n7sjiu",
+   "titulo": "Após IPO Estrondoso da Anthropic, Dario Amodei Segue para a Puglia",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUERucVYzQmdjOHZvbXJGd0MyRmxOaFJnblgwdmJST0ZLZnE1bUZsWklCMjlfWlFjWTVYT1JrMHVjYzlyNUtrcEpkQXJLTHFXX0ZSZ09UTnhGQ0NMTmtJSUI0aTVoSHU3TlE3LTB6eHBQZ1Q0VDVSWjRJMHRLYk1zZ3o2WnVmTjVxd3BpTG8tdnV4YUgtdEp5OGltNXpEQVBxTXpXU0ExYWd3UG1D?oc=5",
+   "data": "2026-11-22T14:48:56.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14y3jnr",
+   "titulo": "Sim, é possível roubar carros em ‘GTA VI’, mas já não é tão fácil como estávamos habituados: saiba o que mudou e quais são as novas \"regras\"",
+   "fonte": "TRENDY Report",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZm1GVlVlcVh6MldLRVhfVWpGS0c0ajE4Y19HbTkzMVp4VHFOb2FISWZ2Qi05Zy1nRTU5bWhVZHdUV04za2d5X0ZmWDg5bUdBUWNuN2VPM1czVXBneWZFU0p2WkdENzdpTGphOWpfbDZaVlJtTUJVU2xmS0VYNkM3MEdjM05OZlFsSFU1TFB2VEpBVEEtOWVxVW5sV3kxUjNYaUwxRmhvWm9ldHF1SzFBUmEtMS1adTBBNFN2RDJYMmJWeVMzZE53NjhwNG90ZmdxSUlrbjNPV01xcU94dGxvTHpHNXBzMUR0M2ZoZWtmWFE5Zw?oc=5",
+   "data": "2026-11-22T14:33:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1g4n81h",
    "titulo": "OLOCO! A MELHOR FUNÇÃO PARA GTA VI É EXCLUSIVA DO XBOX E VOCÊ NEM PERCEBEU!",
    "fonte": "Xboxers",
@@ -46,6 +70,18 @@
    "data": "2026-11-22T14:02:40.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jjrlg",
+   "titulo": "O Google lança novo recurso gratuito para usuários do Gemini.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRHdTMzJqWDNqVE9tNXhXbjJ4VzdQZ054NFBzUnp6NkJwNkxzQTZaekREcTdzRTBaZ2tUYlRWRWNHMXB5UDVOWjJzNFd0NE5KYWlJb1JQQ2hLZ0hYTy1xOU5LV3JCMWwyN1FQb2paZTR4U1I1UzVXWlJuaWN2ZjRMeUs1RjRTNkNCNHc?oc=5",
+   "data": "2026-11-22T13:51:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -72,7 +108,8 @@
    "empresa": "GTA VI",
    "score": 8,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795359631357
   },
   {
    "id": "hdqhpo",
@@ -107,6 +144,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gwdyn8",
+   "titulo": "GTA VI impulsiona mercado de games e dispara vendas de consoles em Goiânia",
+   "fonte": "Jornal Metropolitan",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE56RXNDazVvNmlWV2VuYzRUaHgyWTNCVHlMQkcxVnFIRHFtV0w5ZGdSSkRvTEV0MUtBN2U1UGpZWEM5cXJ6Z0lidHdmLTRJeldNcXZ2RHk4OTVDNFgzRl9aMU5PRHJXYjJqMTJqVnRzYk05WUFOTmVjYjBIY2I?oc=5",
+   "data": "2026-11-22T13:12:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -782,6 +831,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pqgqzg",
+   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
+   "data": "2026-11-21T20:58:28.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1782,66 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "u9pow2",
-   "titulo": "IPO trilionário da Anthropic: como dona do Claude ganha dinheiro e enfrenta corrida da IA",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNdENLU2RLX3ZibnNfRmdkcXRLTjlJM09nZGxiRHZEMi00VFppdDhhNFRKcVNyVmp6VmJRZ3BKMFpJY0pyRkR0Z0tUd1JlWUdFUzNxSkZYSThOc0QteTJWcjk3TXlzZTZfelBvUjRKZUhXM2pVdlRycE52NGEwbl9KbktHZU1wVnlPVjlHU1ZFQlhBNzdEc2lJZkpuOA?oc=5",
-   "data": "2026-11-21T11:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fb1j2z",
-   "titulo": "GTA VI arrecada US$ 3,79 bilhões nas primeiras 24 horas, e Rockstar relata lançamento recorde no entretenimento",
-   "fonte": "IndexBox",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHBnSXFqQVJuM2dab1RteUN5SzdRV29PZTZDQWJaRGdXQVhXaXhxeHRidnM4eEhOcTJuTHRORlVGZ3pxVHBNR2FlZEV2U25aWmd1V0Fybm9qOEh1alB5cVJJcU1HM2JjNWZNbzJId0tJaUZWbDlabzBrVjRLSlktbTF2Z3BlZU1tNGlRZ0VqdEJkLWtzMlRrakdsYUJORlRsLVFsM3FCQnRyX1RuRUYyN3JXUEt5V09scUF4YzNkbjk?oc=5",
-   "data": "2026-11-21T10:20:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "185z5ys",
-   "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
-   "fonte": "Live MKT News",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWHRGWm1tay02Nkl6SkR2aXFrNlRaOXlkVlhiUUw3cmhvTGdZMm9OYVhidkRST1VPZ2JvZ1YwTHBUOTRCUV95cDlYeHY0MFZ6RHktdC1XRy1lZ2xUUWNma3dYS2F6YklEWk5KeFBPTGhKWEF2UXVfamxn?oc=5",
-   "data": "2026-11-21T10:12:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ailhoh",
-   "titulo": "Astro de Supernatural bate recorde da carreira com novo filme da Netflix",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOM29rMDJzZlV2bmdNMUJUNGJoNHowTzZYQVZmLUk4TWNOYWkwWjJMbkN2Qmpsa3lsWUo5RWN4aW44LU05QnBxdFo2X01MT0NmN1BxUDl3aktIemFiYlpRaG9hYzJweXlpTEUtWnZ6d3FVcDB5U1NVeVkwTE9Dc3J5eWZ6TEhQSU1Zdi1aYkhwSzJDQ0JDTm51TkZzN0NkSkIwT2RlT0lBdFJYaEI0Um1xbUc5QjNHYmc?oc=5",
-   "data": "2026-11-21T10:04:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v3x1uq",
-   "titulo": "Banco do Brasil estrutura nova frente para alta renda com lançamento do cartão Altus World Legend Mastercard",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOUXd5WGZQeFdIb2dfTFNjX1FBYnc0UGtSTUxqRXZfTXZUMU1QdnhPdGZnVXVBeWl3ckFOcnRvYjRMQVplak5lVk52RkZmcWw3WDFIU1VNbEVKWFRRNUpxRVFBempQR1hQUVc0SUhTbXd3NWZTNmlZcjYwdTVmekNkcTd5bFhLbGJFWGtlSVZFNUxndkZWc1luZm1iaEtQSnluZnczZTNnMWFKVFB5YkVHUHBmVHJoMEdzbTdIQVZ2aEltM01RQXM4VmxFTVgzVWhVSnQ1WS1R?oc=5",
-   "data": "2026-11-21T09:55:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "Banco do Brasil",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
