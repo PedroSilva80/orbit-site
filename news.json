@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T22:30:25.939Z",
+ "atualizado": "2026-11-22T23:00:37.021Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1t6jmyw",
+   "titulo": "Ações da AMD Despencam 15% Após Relatório Acusar Violação de Sanções à China com Firmware AGESA",
+   "fonte": "Seletronic",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUXZUNFBtUkdJNHZ1STZHOFlmVTViLTZka2pzUU5vZlhfNzJZM1hKSndUNjBVaDY3NjRGOWlwWEhubWVqb2RyOVdRbHB2d2VJdnhMTEs5YmV1Z0JEZkFid3JUbWpKc3dTaGRtWmxUdV9QRUhHV0RiMGFJeVoxU25zczdpNUtCQ2xCUWZqbC0waUdpQQ?oc=5",
+   "data": "2026-11-22T22:51:32.000Z",
+   "cat": "Regulação",
+   "empresa": "AMD",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lczigf",
+   "titulo": "Secretário do Tesouro dos EUA não descarta retorno de Jensen Huang à Nvidia",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVmZFTy1wTGJqMzhBSkdhalVEX3ZqNTJNdkJMZ0NndGh5OUlGVWJxcDNGWXgzdlNLZWxPcHgxQ3QwQklUcU1DZWNhZnFmaTRaSmp0TkVlUEtlcENkQTExUDBkbzBmSWV0ZmpEZnhlM1NmSjB4WWFnMjRHdU1mcEp3cUF5MFlIZHVmZGZMOTJ3ZkNkdGxvRnZOc2tFdHV5T0lvWnpxZEtvcWRiYlE?oc=5",
+   "data": "2026-11-22T22:40:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xh6l31",
+   "titulo": "Bonnie e Clyde da Gen Z? Nova série da Netflix junta romance, ambição e uma fraude milionária (que aconteceu mesmo)",
+   "fonte": "SAPO",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNQWxtQW9UYkZOOFJCZTBhb01PM1lkY3JiOFZXcWo0N2NKTW5FYXd5bjRlVjF2UHVFb1U0WFdQQkhsQTNwMFBUWkpURERvX3F5UG1pWlN6b2dST0ZnVGpReXNVNTVWNHlIZE9aSENmamlHSDBleUs3amNKMEZrX0JzZW1fUXRfZU0tUXdqMHVPckFMWUhCTG41QWliUnN1dGN1NE5LdmhVQnkzWjQxNVVWVUJsOWlzUWZYOWlpX0tncGh3dHRTRHItV3ZqWmdsQ2o0dmh6bnJ0WWF4TXpvTmU0bGJNd00yWnVKNDR5XzA1Wm4?oc=5",
+   "data": "2026-11-22T21:30:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Netflix",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "bnu0ku",
    "titulo": "Secretário dos EUA evita apoiar Huang e cobra investigação interna na Nvidia",
@@ -1806,42 +1842,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nimaqq",
-   "titulo": "Prefeitos do Grande ABC usam trend de GTA VI para destacar entregas",
-   "fonte": "Diário do Grande ABC",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZzBldTliOEQyemJYVVFFTnduTDBjZHpsTXNRQzRPZFpZcjdhVFBhZE1QYTRFMTdzaFRFd0xMZDY0dmUxWXJzaUZCbjhhbEFLNWhTVjU3ZUlQbTlHRDJWNmdEUl9LLXQ0YTlLQmFjUm00MTZFVU9QZnJMQThtbXNidGN6NDJ3WF9DT0FzVmlibldUUlNJT3ZrYnJrYnp1aDg2aXBOQm9RNThXSVB3?oc=5",
-   "data": "2026-11-21T16:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1or5icu",
-   "titulo": "Lançamento do GTA VI rompe barreira de preços no setor, diz especialista",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOUlhvRF83c1lTa2JnWmRQQmxXcHRrOXFQSzZvS29DaXhRUEs4X2JNVFdMeXl3Wk1xRTE1bU5ydWVMRFJWYnpIdXdRYUExZzl2dlFmbE0wUzBXUzB2N0tEX1hld0NZZXQ4TGlTNnFpdFMyeC10UnRsRGlBRmM3bmVZd25tRU9IaHNjYzBoTHZlYlhDYXUzTGs4OGV2S3BNZ2Z3LWVXSDRzZDQxVXJjRy1tSHNaanJseEFzaGQ5OHBGdDZqRXFjOXc?oc=5",
-   "data": "2026-11-21T16:30:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mq86zm",
-   "titulo": "Anthropic IPO: pode manter foco em segurança?",
-   "fonte": "culpadolag.com.br",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aSTZlN09zaDR3Yk15dXVEeXdmTnF4cVo5X2lVQ2M4OGxkcFlaVzVVTHVXZFg2dk5lZm1GLUZBRnIwVERfejc2WjMxNENEQnRkTlMzaTkxVEN1LWtvdTlOd05xVDRFT3c3ckxfTHpXdUNHajBXTnIyTw?oc=5",
-   "data": "2026-11-21T16:30:24.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
