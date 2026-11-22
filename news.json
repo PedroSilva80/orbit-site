@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T03:00:28.722Z",
+ "atualizado": "2026-11-22T03:30:27.307Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -29,6 +29,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "q3i0sl",
+   "titulo": "Brasil supera meta de turismo com antecedência e estrangeiros gastam recorde de R$ 45,6 bilhões",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pNl84NDFkTWE5SnQ0bDh2QmxmOWZsZG1TZ3JKREpVR0dqV2VGU3ViUUFBZFRRV1loQTlRWDFBUkRPT0JKcUE?oc=5",
+   "data": "2026-11-22T03:10:17.000Z",
+   "cat": "Movimento",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "75y126",
    "titulo": "GTA 6 trava no PS5 com o erro CE-108255-1, deixando os jogadores entre o suporte da Sony e o da Rockstar",
@@ -1820,18 +1832,6 @@
    "cat": "Lançamento",
    "empresa": "Vale",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17r2miu",
-   "titulo": "Nasdaq despenca mais de 5% um dia após IPO da Anthropic",
-   "fonte": "iG Economia",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdjV4V2d4REtSUXV3amg5OUFmaDRsUzZ6MnVZdzduN0F0c2NLMG9oNG1WMjhQaVNEVHdXTnRkQ0hPOFRSVU93dElsbndjY3V5eDM5OVI3QzBnMnZUNzk0T002aE43T3RxYnc0VlZ3SlJRQmdFSjYybVBfcFhxMXF3Z3owX3d6SnBsMXNZSVp1UFp0em1vbER0WXdjR3Vqd9IBowFBVV95cUxORmFxT1QyWWRHS205ZWFaYnRPa0dXR3JET1p1U0J1d2c0NldnWWlFdFNZa25DNDdoNVNVYUlSd3BKRHZTbTdlalF3S2hhS3VpQjYtMnJzWlE1YUNvU2hzZnlMbEJVYWlRMmVMOG9FeVdJNWplRHpWNXFKeFMwTnZKWlM0NEszQ3JyN00wOHpYSFdlRUJTRzVKU21TR2JoVWxWSy1V?oc=5",
-   "data": "2026-11-20T22:43:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
