@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T20:00:31.762Z",
+ "atualizado": "2026-11-22T20:30:26.957Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "1w6zhq1",
+   "titulo": "GTA VI e o preço de ser o assunto de todo mundo",
+   "fonte": "B9",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9PTzRtWm1nbUNMQl9hTFlsZUhNX25ySGFwLU90bnpZVjkyVW42elVpTmU0M1cyVFhSOTlfUTluVW9WVXNteE9MazJNLW1zdmFwdmF3eDVjNWlGeWs4aEJQOWFWYi00ZmhZZmRfcWhTMkV3WmNYRkIyVGJ3?oc=5",
+   "data": "2026-11-22T20:23:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1f1i7hq",
+   "titulo": "FT: Scott Bessent, agora, não se opõe ao retorno de Jensen Huang à Nvidia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN0RrdVFSRmNoU0YwT0pDeUtDWGtsNU4wVEFfUjhiZW0tanpFdkttbEFtalg4dkpGc2ZZZEtsOC1ZWlVWZXlVaHRnSXI0d1ptSERkT1ViUDhFalNKQjBZLW9wM2hrR1NlLUZrXzBURlAzR1d1ZFhWek9kUmVUMEhnTTFFUFBUQ0pqOWdKYUg1bld0QkxhM2h2NWxhMjlQQXNTYTlHTHYxdHNoOV9idlhIWDJLZmd1WEJXNE9rUGRzLUlYZ9IB0AFBVV95cUxOMXE3cHB5d2tlWWlNYmdHZzJyV2NMeGZyUDlTZnhZY28ta1BVcjYxMTloM29XQzExcEpWeWxVWll5eDhEd1VhSWJmOVo4ejdqT2o2ODFUeUF2Um5KN1NDRlowWk91aW1nTnM0QlFqNFpWczFHM2FubmNVb3Z3TXI3RldoUEZ4LVQyeml3ZWV1TEJaSElrdjZzeTBUa0s1T0E4VFA2cklJeHVMVG12ek1HdUpKajR3TFd2R0NhY2NsclJENVV5aU9TV3JfQnVOd1NH?oc=5",
+   "data": "2026-11-22T20:15:56.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dfvfhb",
+   "titulo": "Rockstar revela que Jason de GTA 6 foi inspirado em Steve McQueen e veteranos reais",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9FTko3V1dSR1hNaWNVRVJOdXVkWE44UVpOWFo2QWhlVEQ5R1lPeVJOc2JSeDA0dDJHQURLZUl4dFVWVGRqa1E?oc=5",
+   "data": "2026-11-22T20:09:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-22T20:08:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1flsdt4",
+   "titulo": "Como concluir missões em GTA 6: planejamento vale mais que o caos",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRHdvTTQxc2trSGx5M3FTYkhuVjJGblpUdlgwYmJkd3N0RjBHalB6M2N2bDMyWlJFVGxMYVFwak16Y1V0emdHcDIxQnB6MS1JSEttaTJ6bjBGdllfYkY3bnR6VTNMZGFJM3B0Tk9vQXpPZzRaWXNPdEZXX3BwOTQ?oc=5",
+   "data": "2026-11-22T20:00:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "Vale",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13d2eu5",
+   "titulo": "Padel no GTA VI? Um vídeo está viralizando no Instagram.",
+   "fonte": "Padel Magazine",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVGFwSVhibU9wRDdDOFlXSUN5dUZiMEtNRUpmYjBpLXpIMFhMU3ljdUZLZlhYdWJOaHVFUEc2UDZSNFRrUVQ3SWVuaFU1ZFAwQy11MmROZUxmZEJ6ZXMtR3gwNHF1Z3lUQTA0cFp0WG1PVkY2dDJzOUp2Xy1qT1hiU0YtMzVPN09pZDhBVHNjOTh3WVhlMktDREZR?oc=5",
+   "data": "2026-11-22T19:41:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "104ggtl",
    "titulo": "Lucro do Banco do Brasil cai 42% e Tarciana Medeiros culpa o agronegócio pelo resultado",
@@ -1770,78 +1842,6 @@
    "empresa": "Google",
    "score": 7,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1st6m39",
-   "titulo": "Apple pode ser multada por dificultar Pix por aproximação no iPhone? Entenda investigação",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR2tQM1kwbHpOSjFBVGJfb1NUd29XSlpnWnhBdU4xcGl0TnJyUjVYOW5wSUlCcVlmXzBRWHhoWXdncG1KZ3ltd0lDdkVkaUVBVzg2RkV2UE4tdVRsQnZrRXVWb29MS09IcXk0bEg3YnR3TTlvYWZmSGRMSGwwVUN3Q3VrR0tiZzJKVFFsQjBVR3dLUkd2NkNzU2xYeElVQkhicnp5UDV0OUdmWjYzWkUyUGQtRzFQX0RhbnYybmI3S1Azc0d1ckpYejFmeU16dDhJc1pQN29PLVlkSmM?oc=5",
-   "data": "2026-11-21T15:08:14.000Z",
-   "cat": "Risco grave",
-   "empresa": "Apple",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "87by7",
-   "titulo": "Além de GTA VI: 10 melhores jogos de mundo aberto para jogar agora",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkI0aGtYaHl2OVNHaWlQSi1IMjJYSzB3RGxyNEZ6Z195akJSUUU5Wk1JMWlCd0N3cnNaMUVjQWZYUGNCbHVnU085UURfY0hmMDAzQmNxSllfX3pfTkZBSG5pam1KRGdvYVJtODRZVzI3b3VXWUNpeGcyYlo2YlMwZUlaUHhmbXpJV1ZsM3BDV0trOWF5enR3c1Rmdw?oc=5",
-   "data": "2026-11-21T15:04:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vnz1f5",
-   "titulo": "“GTA 6” bate recorde e se torna o maior lançamento da história",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM0tQaFotS0RMOWRyWFc4NVhaNjduUHFuekFSWVFSa093OXJyb2lIR1JQQVZ5RDhvdC1La01BSWxYbUY3aERvRENXUlA0bng5cEwwd0U2ZnNIRTUzVGNIVWFSdTYzQ2d2My1nTlE5cUtfeGdzb3NLLVp6UklEbnNGbVNTV0pQQTJZNTVCWjR1QmZyYkg4Y2NiV1V3?oc=5",
-   "data": "2026-11-21T15:02:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qkxh5c",
-   "titulo": "GTA 6 faturou $3,79 mil milhões no primeiro dia, mas Rockstar enfrenta tensão sindical",
-   "fonte": "Pplware",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN3BIaERtVy02dkdfOGxSaVZVX1VUWmtuQ3EyTFJheTQ5X3ZyWGM1OTBfVVIyTVFNRHRGS1BrLW5lanNQak1mejNFYS1NNWtTRWNyS1AyRmhMVWhBWTFyWURDSDVpUG5ZOFdQdW1fWndmazRZeHJVWUxMVVBDX2lPUVNOc3NqbkV0MU54Vkg0MS1ZakhNUEVtbW5lV050TldNTVVZQklHTFducHJsNDlnQlhEcFbSAboBQVVfeXFMT3BUU19MTjJxdnNlQkk3WVFkWWV1WVIwS1c0a0hzbTdtQnRxVXpXcW1oWXVuckZRWWhscGl3YjFsYjNDem9qaUtwLUdDN1dYdUpNUkwxeVRYOEl5RkdIa0JDbS1aczNGYzROWmtBRmsyU0xJNkNlOW5yRHBOVzF3U3NWbkpwMUYxX2Z0aFdVb1Q3ckNUczlWWlB6cXkwWE82MUMzSUVxYTNhcVczbktvQmtzVVRlTVYzR0FB?oc=5",
-   "data": "2026-11-21T15:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17jdbzm",
-   "titulo": "GTA VI vende US$ 3,79 bilhões no primeiro dia",
-   "fonte": "Meteora Web",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkhtRHk5cDJwSTVpNkw3VzBKZTdITG82eU11MGNjVV82VDRiaXNjTEhIb01aMzVpandqZF9lX2dPSmxsNUl5LVUxNFJoelR0bmVHLTdDNzcxZk5jZW1BV3dpV3NGZmdyUG8zbHNhU3lFSG5qRE05R2NxVEwyRlJIOFFmUzBWWW9SZ2x6c3Vlam44T3dXVFBwVGNSRQ?oc=5",
-   "data": "2026-11-21T14:57:26.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "c7d94q",
-   "titulo": "Sem acesso a 'GTA VI', internautas russos imaginam versão local do jogo",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSEE4UVNQSGhjOTYyc2tGUXZzd052WGdUd3J5S0o5NWd2R09BWWY5VVhKbjRYMFpXaTRiYkFhOVZsYnBtMW5UZ1cwZTROS1ZkRWs1aEQtdkN2SFF1RHA0dUM1T0hIQ1ZIVVNJZWg3VnNTc3l4ejAxRmluRkM3dFRsREE5V1RfcnNISDhqS3BJeVZMQnNHdVgySlhBTVh4V1dQMHBJZzdmalJBOHIwaGZ0U0tDMWxZTTZaY3NRWG9SY1VvUUdQMEtjVGduTkhxYlowd1FZYi0zOFBueHFpV1VzelExbndQU0wtelE?oc=5",
-   "data": "2026-11-21T14:56:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
