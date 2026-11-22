@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T22:00:30.815Z",
+ "atualizado": "2026-11-22T22:30:25.939Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -880,6 +880,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16zfugp",
+   "titulo": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
+   "data": "2026-11-22T11:10:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 7,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1830,18 +1842,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1x706t2",
-   "titulo": "Google lança ‘tópicos temporários’ para conversas anônimas no Modo IA da busca",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdVMtbER6Z3A4eV9RNFh3VldNQ1k4aWNwMzZaMm43R1B4Z3VCREIzYnMxSktRZm5YWVdjU1ZvUEs5aWVXV1VydzQzUmQzb3R3QUVnOXBfR0swYmpuYkt3SFRzRHU5U3pOMHBFV0dLX3RpRXo5NFl0Tmp4bWhTZnBaQ21wS1VoaG5QeVk4VWFLQ2hNMERzT2xENHRrX2QxRmkxcTBHTmdqeXZBOTdzSC1xb2tpRW5DcVhSa0NsMWM0X1ZBUE01YVNfNzFaX0R4czVFMWZYdQ?oc=5",
-   "data": "2026-11-21T16:21:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
