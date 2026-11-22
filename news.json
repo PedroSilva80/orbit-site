@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T12:30:31.481Z",
+ "atualizado": "2026-11-22T13:00:30.948Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "8txh5p",
+   "titulo": "Quiz | GTA VI: que tipo de fã de GTA é você?",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc3VsUlo3TUc1VG84cllWQWFUOThaU1R6NHRJZGdTSGFfWGNNVWNOcDZNeVRSWVRzdjFXeGQwMHNxN0VGTnNFVlNRZG1LU1hZS2lFMkktSU1HX2Zub213R2ZNU1loOVRUYXRQdDM1OV85YnNfTHBVV1hJdWNyNTM5Z3Q2SV9Cc0p2dFRNZkp3?oc=5",
+   "data": "2026-11-22T12:36:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dxyzzj",
+   "titulo": "Fortunas do IPO da Anthropic encontram novos debates tributários estaduais",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWNHUkk1eGxDQUJlc2lpOTNNZjg5MlRVZ1JkSXItWFIwQmg3N1VJX3JpZm1qLTdnS05fOW82c0JDY2NkaFJMUjl5dDFtdVdNNk1uakIwV2FOQk5wdXpBZTV2d2ZhWWl5Vl9qSmpEV0hxQTNkTXg5aGJUcFBqWEhySlFaMFZ0Z3kxM3FJQQ?oc=5",
+   "data": "2026-11-22T12:31:13.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "17jshmw",
    "titulo": "Nvidia descarta volta de Jensen Huang ao comando e promete acelerar busca por novo CEO",
@@ -216,6 +240,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17cm7l0",
+   "titulo": "Nvidia dobra lucro e projeta vendas recordes após escândalo envolvendo Jensen",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNURTWms1aXBPcWlHZGt6T0RJY1NEb2hXUlA5eWdXVk5xOEdpdFdSUG42X1BZRzNsNEFrWm93Qm03ZDFrT2h1UXVwY2VickRxeWl4XzBOU1JGRnN4Y3dzTU9oRV9VUVIyLU1wUXJGZUxNeXNZTGxqQXVGUUxCNUdwX0dFbXJtWC1BeUxZRWlRUGNtZjUyajJhS3BmVEZpTkV5OEVIQ2U1ZGhoMzNXVG5rcUFaWk1CYk9KRlViZ3JGX0gtM1NLWldZdUFuZlE0OTN5N1BQT2ZHSC0zaVVONXByeERTdnJwWEcteEVIOTdWZDZobTZCYkVWQV9R?oc=5",
+   "data": "2026-11-22T09:14:10.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1803,42 +1839,6 @@
    "fonte": "Rádio Geek",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
    "data": "2026-11-21T07:59:10.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ejbjng",
-   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
-   "data": "2026-11-21T07:59:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wy0bak",
-   "titulo": "BLACK SABBATH, SEPULTURA, METALLICA e SLAYER entre os destaques da trilha sonora de GTA VI",
-   "fonte": "Roadie Crew",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPLWNPMDdBTTk1OEtDaHJLRWZ3VFVNV1BjV05CWHFla1h3bWVfajhxM1RYbmphenl4QUhTcS1UcjJCRjdiYzhYUjk1VHFRSEEtS3hyQ1o2bm1BUDJ1S3pQdkpkX3MybU16Wkpoamd5SGdnOFZTLWpDbTJkaG13V2pPRzg2b2NuWFpEYXViSUdhU2pyZzhlcUxWaVJTcldjT0lqNGMwR1hFT0lGNUhHaEJDSnJB?oc=5",
-   "data": "2026-11-21T07:42:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xl7qv1",
-   "titulo": "Golpe sincronizado de Netflix, Disney e Sony derruba AnimeFLV e redesenha guerra do anime na América Latina",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcHVieWsxb25lUmtOMzlYTFZnRUNJXzI1TWxJMFdnQlp0T3JvS0ktUTNicWE0cFRSeHlDekRPX0pKVW5FQnlVVFZzUkZVWG8zemNoZVN3Wl84U2FKV0ZLdnVJTlo4NTdtYTItWWxBMHFscWg1enhLTFhFTUQ1QmJoaTItaEt0eW5Gam10TWc1ZXlvTzNoVWFFTC1aMXhaT3MzVmRMTjREcE1NZw?oc=5",
-   "data": "2026-11-21T07:13:50.000Z",
    "cat": "Mercado",
    "empresa": "Netflix",
    "score": 6,
