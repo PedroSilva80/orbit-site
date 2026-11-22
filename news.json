@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T09:30:24.935Z",
+ "atualizado": "2026-11-22T10:00:30.768Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -8,7 +8,8 @@
   "dig|2026-11-18": 1794996028930,
   "dig|2026-11-19": 1795082434933,
   "dig|2026-11-20": 1795168829696,
-  "dig|2026-11-21": 1795255227115
+  "dig|2026-11-21": 1795255227115,
+  "dig|2026-11-22": 1795341630768
  },
  "agenda": [
   {
@@ -30,6 +31,18 @@
  ],
  "itens": [
   {
+   "id": "ob1zpy",
+   "titulo": "GTA VI expõe desafio: tecnologia avançada leva a videogames mais caros",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXRHZlF2NFZGOU1XOTNfdTN6NTBPcmFRblgzY1BadUljMXNGNkl2UnRzVl9vZk9naDloOWNxR3poYVNBVkZjQVpqeUxpbmNVbHBCR295djlwUGpMRmVNWTNya1dyNHJqTlR3SFJkZUp1UnRhVzJzWjRGV0VsMHFZQmpHbHJEWkpUelQxTFQyQUxrLVRrWFhkYXIwOU9Sbk1ramxWazZSanRzLVlPZVMxVUZPSkJkaTdjTjRJR3lsbVVoT2c?oc=5",
+   "data": "2026-11-22T09:31:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "77t5me",
    "titulo": "Anthropic IPO: estreia na Nasdaq e o que muda para devs",
    "fonte": "iMasters",
@@ -39,7 +52,8 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795341630768
   },
   {
    "id": "ga3vh2",
@@ -182,6 +196,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "eyzjp8",
+   "titulo": "O sucesso de bilheteria GTA VI arrecadou quase US$ 4 bilhões em seu primeiro dia.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QOUc5c29OQzFEeURQSWFYUUJwVlp3d3BMaXZaRFc1azlIaVNVdXRnRUpxQnFCcW8xS1d3QzJEck1McWxydUdTQ1RNanVsd1d6Q01EdlFNR3czS3duUnpWQy1oeUZfOTR2S2duWm0wa2tTaGZCdDFxU0g0bzY2Zw?oc=5",
+   "data": "2026-11-22T03:38:03.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1378,6 +1404,18 @@
    "avisado": false
   },
   {
+   "id": "1fb1j2z",
+   "titulo": "GTA VI arrecada US$ 3,79 bilhões nas primeiras 24 horas, e Rockstar relata lançamento recorde no entretenimento",
+   "fonte": "IndexBox",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRHBnSXFqQVJuM2dab1RteUN5SzdRV29PZTZDQWJaRGdXQVhXaXhxeHRidnM4eEhOcTJuTHRORlVGZ3pxVHBNR2FlZEV2U25aWmd1V0Fybm9qOEh1alB5cVJJcU1HM2JjNWZNbzJId0tJaUZWbDlabzBrVjRLSlktbTF2Z3BlZU1tNGlRZ0VqdEJkLWtzMlRrakdsYUJORlRsLVFsM3FCQnRyX1RuRUYyN3JXUEt5V09scUF4YzNkbjk?oc=5",
+   "data": "2026-11-21T10:20:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "185z5ys",
    "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
    "fonte": "Live MKT News",
@@ -1795,42 +1833,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sb0fmq",
-   "titulo": "IPO da Anthropic atrai mais demanda de investidores de varejo do que o da SpaceX",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTmt6eG5rVHg4UWxfSDNfZTVXZVA5ZzFNNVFQdlVEcjhUZng0eVpPY2MwZTRUMlVhdzdHcF9sVlZneC1qZG92MjFSbGlNejVqR01wRzVuOU92ZUdEWllRbzAtaTEtbUJJRERGX2hnX3V6Zi0tazQtV2p1a0dZVmlGUDYzdmlJYnRkTHZMM0dlOTNWb2hldmpVX0dnRkp3ZjVaMWJkSTAzRUNKNUI1WU9PakRzSVMzaE9yb0N4YWUyT2k5QdIB1gFBVV95cUxOaW5WQVVUQ1NsUjZJY3Q1Smh2Nm1oYktRa1hDYVFETU41VThFeGZud0pyV3VLVFlJbnBRSzZXbGlKZklqZnJiNGQ4TlJTeE04YjE1UXBVal9tUEN2eVJSc1FKekRFYmNjR2VqVWdkcHQ0LTZwLVl4TWNuZzk2ZHNoNmFwUnkxakVqQmxQY3lmRmpac3lOM2Y4WUhzRHdxVDVUeGVCdTNKZXBNU3Fla0l0WGdDck1GUktIb0lOZHl6TmgtSGFGQ3A1QlQyejFrY3BkdHlHeUhR?oc=5",
-   "data": "2026-11-21T02:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jdbjxa",
-   "titulo": "GTA 6 arrecada R$ 22,5 bilhões e supera estimativa inicial de vendas em quase 90%",
-   "fonte": "Economic News Brasil",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN25meVJIT01XMnRjcTV1YnQzdllRbDAtRTF4TVlsRzNHYVROOGdSdGZSSENsbkNXdFYzWWdWOWFmaGota2J4eU54eXJiVlQxWkRvSllkVkUwSEZFVTZOeVZWc1lZaHdZREYzZDR2UGE3Q3NBZkFMQ1FNUFhQeFQ4a0pRUjJUVWluTjdmYmdYc0o2QQ?oc=5",
-   "data": "2026-11-21T01:38:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17j5xrt",
-   "titulo": "SpaceX e Grok construíram um IPO de 1,77 trilhão de dólares - o próximo pode ser Stargate, já que ETH e Hyperliquid parecem mortos",
-   "fonte": "The Portugal News",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOcEg3NENpc1p5NEtfdlIzc0FQbEtVRC1XMHlwQ1lYOTRRc0liMlQ3X3M0R2VHZTE5TlZ2MlpjQWY3WmV6ZTIweHROWlVHcDhTT0dFREpQX04xNnFaZlRYUlMzeThhMnRTOXFQWFp1MWVaaXBFd0tkYlZtWFltbjNGVk5LRVZlcktoYkE2ellZMG1aRTN6ekthdE1yYjJ6aDI5bGVyMVJwTUdXMmxiekxRUVJ5Z2VfRFpQaWRaeUo4MFdId3dnUE9tcC1JVTZjTkVJNk1zbTVjTTJOM01ITzkxRm8xSXZUTVRuY1RobGVhenF2NnVmR2pQU0hUaUtTSHk2YmJQSzZCXzJjR3drRVpGMS1TVTE0MmdV?oc=5",
-   "data": "2026-11-21T01:32:01.000Z",
-   "cat": "IPO",
-   "empresa": "SpaceX",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
