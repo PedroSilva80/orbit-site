@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T07:00:28.439Z",
+ "atualizado": "2026-11-22T08:00:30.691Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,30 @@
  ],
  "itens": [
   {
+   "id": "1u40l5q",
+   "titulo": "GTA 6 bate recorde de tráfego da Comcast, quase um quarto da rede",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzlVVXY0YTB1ODM3Qjczb0hxQTlIZ2VwTkZudFV1bmp3aDg3b2p4R1U2Ui1RNEM1a0ZHY1JONmlteUtSUzh2RHJyNkVTYTVxOFJJSFF0aGJmMUlPZGpEcFhtWHF5ZXZ2TC12WDNmZW5xbUJoTDloRTZlbmNkdUoxMlJuQS1oUE1IUXdpdmM0S04zRXVQSHJOMnVn?oc=5",
+   "data": "2026-11-22T07:59:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12xpslq",
+   "titulo": "Riscos decorrentes dos \"acordos de cavalheiros\" do ex-CEO Jensen Huang na Nvidia.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSGU4b0V5VHRvS3VYMmF6OHNucjNnM2t0MkdlOGZ6VFM4cGdFLWhwOHRhem1lRmVxQzVMQjR0QS1Way1lYTBkeU9OZjhmQVFZM2pwU0JtSzcxWDcyVkQ3cDAyMjU0XzhpY1BfX2JqN2x3VExrOXg3VS1wTjFyTEhvMV8zdEVUcll6S3lWOVBLNW4tZ2hRYnRoOWxGd2c?oc=5",
+   "data": "2026-11-22T07:51:22.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "z9sbdv",
    "titulo": "Anthropic: diferenciais técnicos e de segurança que podem justificar IPO recorde",
    "fonte": "Estadão",
@@ -50,6 +74,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mrlu9k",
+   "titulo": "IPO da Anthropic, plano para era pós-quântica e mais – resumo semanal",
+   "fonte": "Bitcoin News",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXlYN2VxZFFFdEhFaWZVWm5ObXZBMGxwSmg1QVpqcnRvNi1SZ2Q0alVFRjBjZXBLdTQ5bm9JVGFIU0lWRWZEX3N5a0JfQUZOWmpTZDd4dmxZdXl6V1dKa0N0ZjlEYXdFLU5EazZVRW53YWttbmpfN2pyelpnQ1JYNWJpdmpBemlWLXlIY2xhbC1aXy1Kc2Rqb3Myc2ZUOXMwRDNMX1lUUQ?oc=5",
+   "data": "2026-11-22T03:40:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -423,6 +459,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lkga85",
+   "titulo": "Anthony Pompliano: debate sobre liquidação de ativos impulsionada pela IA, ataques cibernéticos e IPO da Anthropic",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSEQ4QXJwZ293VnVvcUI2dWNwQUJOOGhuUWFDTWpEZFFCTTdyV3RyUUphelF4SlZ3WDhacDZERlNyVTRjb2ZydHZIYl9vNzlBd2VGc3hIQ01aeXRhRWFYanhpQ1FRSjJhYUkxSWRmSmxETW95MnJaamhuM2p4TllzMzhHUDRvV2lXNXhfMVVWN24?oc=5",
+   "data": "2026-11-21T17:41:44.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1783,54 +1831,6 @@
    "data": "2026-11-20T23:34:31.000Z",
    "cat": "Risco grave",
    "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lh537n",
-   "titulo": "Trump defende retorno de Huang à Nvidia e pede ‘grande pedido de desculpas’ do ex-CEO",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNdlhoM1VXam9vUUVmcEZqdHpLUkxEWU9mbkhKOUUydFNOQ3JMLVQyUng2NFJCblRITHNxcEl4eTVEQW5EeEd2QlVIc0dELTM3eVY2QU5lMHFIT0NWUWczZ0VURU1LZl96dlhSa2hENGFKSnBGa1ZxTGs4SkpWMUdBYTBraXZ2TnhFRUhMM3hpdktUYm1aVFU1VUR0OXZaSWw5N1hSV1JGZVhjUmlUU3haSkdsbVdxX1hhLU5nQk5pRVdDWUg2QnRQTl9qWS1pbUxuelY2Q2dTa00xdXBobnBOU3Y3S0pDUdIB9AFBVV95cUxPVDJyTWptWGJqREFPbmwxVHFLWjUtQ3VaeXViQzlGM3piYTJrWWxLMDNzdHdLMFpiMTZ2UlZ1SlROOXJpTW1tS0xReEhrUnNkVlJQdENEN3F6eERuclRIRG4yM2FHanlkZEd0UUpZSnl5ei1lZ2JkRWw4dFVCRGZxaU03aEQ2Y1hYT2pMRUMwdThybjlhWVZGWUlzSmlPWjFveXkxZDJuU2E5UU0tRkpVTTlEdXZHR3hjdTVBTGh1NXBISjNfTjJ4ckU5NlZqNThFV09mTnFwemVqenNib20tdWdmM3hCV2w4Zk1rZEpVamYwYmJm?oc=5",
-   "data": "2026-11-20T23:33:30.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16ey477",
-   "titulo": "Nvidia derrete quase 14% em meio a investigações nos EUA",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRnl1cFRydGcwbGNJeUJWLUFKOUtjbzZmMjg4Z3pseDFWUk5pRm13ZDFLWEI1eHpHQ3prdVBSRzljUl9xWmR0X1pWUXVWcEczSHpaX2pGYkMyMWY4djZZNU5PcUNYZFpoRWJrMVkybTkwMEFXMFFfdGczQlBGUFBTYVgwODhQb0tWMW9vSDJ3TkYtMllOZXRSXzl5Q0RaM0FySXQzejdWXzRwU0dCWHNjblk1bjZnVEFkNWdhd3ZyRXllWllTQ2NmZ09vNjFKMi1KZmVVb2t2V1JyY2pUck85QtIB7wFBVV95cUxPNXlFbGxQYVB2V25rZ0lJX28xMGd2cHVfTm9qS1BMODFnT2ZzM3BZTU1aYWtHczNYeVViWW40aFdWZTJ1UkpvN0ZXNG43VW4ySmRXaVU4WW5abXVnbl9Nd2ZWQ2FoRHFFWXExaGRaNzJXbjV2UHNhTUtCazdsWktHd05BWnlKOWtTNnhuNEZIUGpuZTh1dnBjaTdXVlVEc3BrQmR0MC1HOWtLTFhnQWU1bWpJR2YzZ05zYTJiSGI5UWFpc2szWTNhQXN3eWplMk4wbG9RS05NS3BkSHFEaE1FdE5sZXBtTjhuU05yYjY2QQ?oc=5",
-   "data": "2026-11-20T23:21:39.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ofrp8a",
-   "titulo": "Trump demite diretor de segurança cibernética após falhas que atingiram voos e Microsoft nos EUA",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbXZrLUlSVWlEb3ZmcHpReXJkYmx0cUFNODVaUC0wMTVTVjZPVkFFSFQyLVU3LXRmZUU3VXBVa1Fac3FjOF9sVWJDQ05HeEROWWpSS2ZHV2dBeDNKRldPYXBkUlB0TXlHaEhOaTd1LTlhYmJjaFBoT2dnZm9YTDlJc3RaV0NmZjdlUVFXZ3p2bkZvX0NMQVE5aW1rVTBkUFdvd3o3VF9iOHdVVGRYM0F2YWloYjZ0V0VTYzV4RjJEeXpzV2RXdUJwZVlfamtJVkVqbkNEdXhjZTJiZW1KVjg1VXFR?oc=5",
-   "data": "2026-11-20T23:11:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Microsoft",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "awml9c",
-   "titulo": "Disney supera expectativas de lucro e anuncia investimento de US$ 26 bilhões em conteúdo",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdWpSRXM5Q1BLaG9GTTBIYVdZRjEzRVIwUVlralBadGdBYlhjLXR4RlNNUDZLUGVUZDd6QVdPUUZ0SEVRb1BDZkozZ0wzb1UwbV9xajBpWDJXUXhDVVBfbG5wSlJoY3E2NVVVa3FJemt5Rm1jTHJiMmdidllLTDFIZzF1SW4xdmdkSDh5TjRiakNyZ3hfRjhBUENRejROamU4ZVpRT1RaSlVwSF84TjMyeHBxakZsZTJRblp6T0NoQQ?oc=5",
-   "data": "2026-11-20T23:00:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
    "score": 8,
    "marco": false,
    "avisado": false
