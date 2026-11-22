@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T08:30:24.003Z",
+ "atualizado": "2026-11-22T09:00:29.020Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -234,6 +234,18 @@
    "avisado": false
   },
   {
+   "id": "62cejs",
+   "titulo": "Rockstar banca hype de GTA 6 e confirma estreia do vídeo na Netflix mesmo após novos vazamentos",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHFEU2RnX09FTWQ1UXRMWlg1aHl6VXZlSy03WGRYUVV1X3RBX20wSEVCTWRXcUpIOGtCVEE0Z0ZVVmpSVjUxZ3VyYkRYRV9tcjZSNU5mR2kzNEdpbjFJZ2xnR3J6N09zX1J2NkZEcnhUNFgtZk5nZFloTEl2QUtReC1JRmpsVXZq?oc=5",
+   "data": "2026-11-22T00:28:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "17dqan4",
    "titulo": "Serviços da Apple também ficaram fora do ar; empresa descarta ataque hacker",
    "fonte": "Estadão",
@@ -411,6 +423,18 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "cdpyns",
+   "titulo": "GTA 6 fatura US$ 3,79 bilhões no lançamento e bate recorde",
+   "fonte": "Jornal Opinião",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX1lEMC04dXlQcmNuVmZiQ2FSU0ZZc3QwVDZveS1UOTdOajJLeDRGZHdRTXBpeFdPVDBJbXRGSlRYblBOM2VQQzVvLXpfc0xmRVZzS1VXOHA1T2R3UEgxZGpHbnZpZEJYMDIyTzBCa0dfVTNkNXV2S1BEUmRpLXNkMEdzMm9WRjUxblRn?oc=5",
+   "data": "2026-11-21T20:05:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1807,31 +1831,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "s63ulk",
-   "titulo": "Investigação A Influência da Petrobrás na COP30: Como a indústria de combustíveis fósseis coopta a COP",
-   "fonte": "Esquerda Diário",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUZVLVRKWERMTFUzV0NOX1FNOFkyd1dEclZuSHFMTU9pcUh3bVMxcVpyU1RaVlBuaExCOHlGa2pzaFhBcGpmQnpQRnVVTnljTE1LMjYxV2FySXpQaFVFT09pQ0xhbWxHd24wM1U1T1F1T1NjLVNQS09DbWlRUnJTNU4yTEtXY1h6RV9UZ1JYRHREeDFwSzFRMzc5VEh4NlRTWHRfWlg4ZnVOWWtLUGNJVERQTlVScVNvc0tZZURSWQ?oc=5",
-   "data": "2026-11-21T00:24:57.000Z",
-   "cat": "Risco grave",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795257025654
-  },
-  {
-   "id": "1uhdmtv",
-   "titulo": "O que a oferta pública recorde da Anthropic diz do mercado de IA",
-   "fonte": "Nexo Jornal",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa09KV0tNdjYyY3FuMFpGbmlUTjRucEJBWGZuaTZ4QWh1VkhZamlldmpGLXl6eFJOSFFtNmhOWFhJS0VWVUtRb3hVQm5xbjNtMzBXdWprc3JackN5RktOaEhteGpXMm5JQ3FfQ1l2NjZxMU90cTZwVmxzdDZOWE1md01DSFhIYjlPLTA1Qmhwbjc4MmdZX3BPaEdqY19LZFNN?oc=5",
-   "data": "2026-11-21T00:19:29.000Z",
-   "cat": "Movimento",
-   "empresa": "Anthropic",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
