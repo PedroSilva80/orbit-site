@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-22T18:00:30.838Z",
- "agendaCal": "2026-11-22T12:30:31.481Z",
+ "atualizado": "2026-11-22T18:30:32.621Z",
+ "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -38,6 +38,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "wt1he7",
+   "titulo": "Jason de GTA 6 foi feito para falar baixo e carregar o maior lançamento da Rockstar",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZbXZwZG1VbHBqQzR3clpfRFcxLU4ybGNiZlJvSUVwTk1oNW9xeGhPeWZRcXkyT0NsSjJaNE9nMk9HUjh4aUE?oc=5",
+   "data": "2026-11-22T18:10:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1dcnwag",
    "titulo": "Assim como a SpaceX, Anthropic adota modelo incomum de IPO",
@@ -482,6 +494,18 @@
    "cat": "Lançamento",
    "empresa": "Microsoft",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "s3li0y",
+   "titulo": "Aaron Pierre salta do uniforme de Lanterna Verde para novo Star Wars e escancara disputa DC x Disney por talentos",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE54UnV4MEpTNDEyZDNGRmpiN2RzVjNmU09nazhETUdFUlZtdGR4TXN5ZU9sMTBjdWJ0dGpidk5FWS1sUFAzZWk2ajRKSkRjMW5FeWIxeGdvWVB2ekN3b1VQNWlfMHFYTkd6YmF2UVIxSnFpR1NIWmViSw?oc=5",
+   "data": "2026-11-22T11:43:26.000Z",
+   "cat": "Movimento",
+   "empresa": "Disney",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1818,30 +1842,6 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1pfz1sh",
-   "titulo": "GTA 6 É ABSURDO! NOVO JOGO DA ROCKSTAR MOVIMENTA BILHÕES E ENTRA PARA A HISTÓRIA DOS GAMES",
-   "fonte": "Gerais News",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWnZjaXlmWi10OU9rWEJfbFhRUVZUVXB6SkVEOHh3T2l1NTd6Sm5UMkVCU2otZ2FOYWE2QTBmaGdsM0pyY1pqLUZaX1hCX0hJLVg5cnB3N0lNMG1fZG5ZUmRsc0RaRFFxeUVRUFA5YzRJOXlpcjd0RjI3X0ZJdXluc3UzZ2FYU0pIMDIxYnR5ZHlmdWhfODQyaEMxenF1Q3k4NG5RWUFkWmw4dlJaVWNDTTF3eVVyRG1McERqTHp2bDZQNG1qS0E?oc=5",
-   "data": "2026-11-21T13:48:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s5bxxm",
-   "titulo": "Ubisoft demite 166 funcionários e segue com cortes na empresa",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZ1FqSklONVNYaktMRnRDMVV3VEpNVzlDUjF2RjhxYWg1OGlUQVpQOW5oSnhaREF3OUZWYVp5dXpzU2tIVFJ6VllzS3V3N0JWSXZZZF91NnBqX0lraEk2TTVmSDZvRDZwWkNYT1VybjJ3NVRzTjNsZXZkRThRdDJuUkxnVkhPc2pmVnZrejRJNGd6amFBZXFzT0hvajlid0FsYlhzT2lpMThRb2JFaVlxQzlCSQ?oc=5",
-   "data": "2026-11-21T13:47:00.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
    "avisado": false
   }
  ]
