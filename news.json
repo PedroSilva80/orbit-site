@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T00:00:31.032Z",
+ "atualizado": "2026-11-22T00:30:30.072Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -57,6 +57,18 @@
    "data": "2026-11-21T23:02:18.000Z",
    "cat": "IPO",
    "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "a72kks",
+   "titulo": "GTA VI: a importância de escolher para quem joga",
+   "fonte": "Observador",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUVKeWZPeExiWmU5V3dfOWtSd0dieTNQVE1CdU1tUjVTcXVPN2plQWJSelJiQ3FCNlptSkNJZ25VaEY3eEQ0RmtCNGZoS3V5Nnh1dEphd2FXdUQ1QzFQMDRqSXJJOVpMSi0tcWtzc3lqVzRIYzE4dUpGa0ZBV19IZnBJUFM?oc=5",
+   "data": "2026-11-21T23:01:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1828,18 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pijktj",
-   "titulo": "Em queda livre: Ibovespa em dólar (EWZ) despenca mais de 3% — e a culpa não é só do governo",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUNReDRFUXhvaWlxSFQzb3c5LVJJdEU0Uy1pOFMtQjRHb29NSmI0dFpYQVdIVzJtYmRXZlhwcDhJSEFEQjBCdmdwdEp5cERMdHZXRlQxYWZZd1ZkT3E5dkhXMTZ5Mk1fMWh4YVRGbnJlZzJISDFuRFJ2a3FZWXdEckk4VGJrUDBLQmw2NlJfSS1QR2V2dzFHRzc1Vmk0NkxYVHV3T1pwajJwSHJmcDN2OVd2M2NKTzQ?oc=5",
-   "data": "2026-11-20T21:28:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
