@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T17:30:27.539Z",
+ "atualizado": "2026-11-22T18:00:30.838Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1dcnwag",
+   "titulo": "Assim como a SpaceX, Anthropic adota modelo incomum de IPO",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb25uUG9ILWRSdExrTzhVSXNVYklEQllINE5OOEIxRFRsdHM1UDJicVhLZmlXSk5vYU1WS0ROYkpYMmoyLVlWcXM4d1ZfcURidE1PTjJMN3dkZ3lka3RNOGVSRWNrajRpcEJxdUdlLVUwR212NkN1cWp0SzlRdEx6a09UNmZOT2dIU0FpSDIzdUZIcVRfQVZlbXI1UkNKOVMyQXVnYWZDS29JOWwyQzJjbQ?oc=5",
+   "data": "2026-11-22T17:43:11.000Z",
+   "cat": "IPO",
+   "empresa": "SpaceX",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9oadna",
    "titulo": "GTA 6 bate recorde do Spotify com a banda sonora oficial",
@@ -435,6 +447,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zareqc",
+   "titulo": "Pré-vendas de GTA VI passam de US$ 1,5 bilhão, estima a Sensor Tower, no dia da estreia",
+   "fonte": "Agora RN",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZbGdiM1FBSndvcHJTOUJZOFRqQWp5RkNOWVpERGNkck9vZzVMTmM3bWVFbndFZWE1eGRLLXV1UE04MHFkUkw0dDBpYl9Nc29lT3FpQlJBSmxvNV9lQm1KNTJKbkpmZ0l3RDRRWA?oc=5",
+   "data": "2026-11-22T11:50:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1819,31 +1843,6 @@
    "score": 5,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1fsm339",
-   "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
-   "data": "2026-11-21T13:42:34.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1aa5k7g",
-   "titulo": "GTA VI Gera US$ 1,84 Bilhão e Atrai Netflix, BMW e Grandes Marcas",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcko0YTdROW5CTEZnZVFidWNud1A4S1JWUHk0M3ZDOXk1NHlDNjFYbmFMd3lQSHBQbDNianJIeUttYjlrWjNNT25oOTVabXNDc0RBYk5LTXJHSmFicXN0eHQzSlhpaGVDMXdVb19acWp6YXZzMVZWZXFaMEJjcmtKRHFKTlRKdTFnRGhac2x1OEtROHJSY3RJbVp3b0h0T1RMSnFGa3JwOA?oc=5",
-   "data": "2026-11-21T13:42:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795273231237
   }
  ]
 }
