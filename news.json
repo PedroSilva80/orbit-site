@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-22T05:00:29.007Z",
- "agendaCal": "2026-11-22T00:00:31.032Z",
+ "atualizado": "2026-11-22T06:30:24.756Z",
+ "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -29,6 +29,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "z9sbdv",
+   "titulo": "Anthropic: diferenciais técnicos e de segurança que podem justificar IPO recorde",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZUhoNUdvMWQ2ZHBSbjNRTXlFT0g3b0FpT0hESkZmcWU3OElZU0pIMVlYYlNUM19iNm9oX25LS2R3OHpHNnRLSjZSaFF1WnVncmFGNlBIQXVlak5FRzhNZ3ZpSmV2SGtIa1U2MkRXTDBVZ3ZwLVA5ZnlNVXJ0aDdBNl9XY1lJSUgxb2U3WlZza2JNWWJIRjQtUVpRQWNiaENjY2phMDdydzZ1amE0TVRYRlphU0EwSUlkaU41R1g0SV9ZZTVkd09taXJZdmlpQlVsNXpsNTkzWGxUYWs0bGd6TXlR?oc=5",
+   "data": "2026-11-22T05:38:07.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "13bs66j",
    "titulo": "O presidente dos EUA chamou o ex-CEO da Nvidia de \"gênio raro\".",
@@ -1820,18 +1832,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xiqg7x",
-   "titulo": "GTA VI: quanto tempo leva para zerar a campanha e fazer 100%",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sVlFpOWJGOV8yYUFpMGpyREFTUTZyXzE3alNESGxkVUR1aFdiVEk0SEFBMFRUVHV3b2Z1SkVMQXNoTHV1Y1EzalM2VWw2Q0xSX21jSnhuZjBaTHU4SlVjWmpNVE5HbWlNdWdEVVVtRzZwcjRnTmlEdkxYMA?oc=5",
-   "data": "2026-11-20T22:57:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
