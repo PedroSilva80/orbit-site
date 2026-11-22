@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-22T12:00:30.351Z",
- "agendaCal": "2026-11-22T06:30:24.756Z",
+ "atualizado": "2026-11-22T12:30:31.481Z",
+ "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -12,6 +12,14 @@
   "dig|2026-11-22": 1795341630768
  },
  "agenda": [
+  {
+   "data": "2026-11-22",
+   "tipo": "Lançamento",
+   "empresa": "Google",
+   "origem": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
+   "manchete": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais"
+  },
   {
    "data": "2026-11-24",
    "tipo": "Balanço",
@@ -30,6 +38,67 @@
   }
  ],
  "itens": [
+  {
+   "id": "17jshmw",
+   "titulo": "Nvidia descarta volta de Jensen Huang ao comando e promete acelerar busca por novo CEO",
+   "fonte": "Expressão Rondônia",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPODlpVC1XLVdYc25HVVBmYkE1U08wMGZZaXpaTXpxWm5lQjRhV3dDazBOci1sa2NpejlHUE8yYlZFbVY0TEd0ODhPWFo3SlFKUzQtVnVMTUJzLXdlekU4eHZacllVMFZLbUhsdXJHSUhTT3dGNDl2QmpGWWJlOHV6SU9WTTNDVHFwRFFSbkswZXNKWGJnMTNWZjZCUUNmQ2RYTXZ2eTFWOWtBcV8yQmhGQlp6SXF6Y29Hbko1ZA?oc=5",
+   "data": "2026-11-22T12:14:16.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dl8gdj",
+   "titulo": "O patrimônio líquido do fundador da Nvidia despencou quase 30% em duas semanas, com a queda acentuada do preço das ações, apesar da receita recorde de US$ 115,8 bilhões.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPc0RpQWFUTFRzWHVNbUdhYUxseXJsUEttbXNGZXhmc2JrTXQzekZtN0ZodTFlUzJ0NXZ2UUMxVXBFN1ZtZEdfYVdsMEhNTXBORnQxbTVDbS1FZzQ5bDAyaDdRVkZIUTgydlhSMnBnZzc4WUFPdW5xUGw3WDJrbkhpQnVLUERROVJ6UjB0T3pXeTlOdzV6TXBNYzRZM1REU2FHeWtRT012X21nU1JZazltX2NtNlVuQzdCRGNXTEhHLWR5R0RSY1l2SWhfUW55MzhycFE?oc=5",
+   "data": "2026-11-22T12:11:01.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16u6qar",
+   "titulo": "Jensen Huang quebra o silêncio após renunciar: \"Seria uma honra voltar como CEO da NVIDIA\"",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQNEZFTGpJX3U5UG9CdEQzWDBXUG1CQ08wajF0UUhVdW13MURQT1l2cjVJUkFtWmY0Q3JONVc1QmR0QXYzTHZ1V0pxMmZ5dDlJalNkd19oTjhoRjlBMDdJZGlCakY1Y3JmaFR1YzRxODZfU0c5YmF5NUk1OUxqS2tQczd0RWZBZFh3WFJHanR4MktXTHFkN2oxQ1JMY2tpem9EV0dqYVFScFkza19mWnNPX3FjSkQ2c1FlYjl6MUN4NE5EMW9qZS1lTkQzaHZoSkVxR1NnR3M5SFRPb0ZjUWpMZ0NCTU1CaHREdHMtZW1FeElaYlU1M19fcnY1eFdiTmlH?oc=5",
+   "data": "2026-11-22T12:03:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1uxbdzb",
+   "titulo": "MPT investiga Ambev por irregularidades trabalhistas em Cuiabá",
+   "fonte": "FOLHAMAX",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWENqb3FHX0FtamdMdFliVm0xQTRMMERrT2p5dlA4MHJGTW1yOU9uakU3bzdBNnEwMmk3azN5S21zeDl1NEZ1RzlvdkJFU20tQmZfODhNR1M2c2JaUDhnRWdLR2FDQlc5QW1YV1BrSVRkQk1VZ3h5WlFiQnZnYWJkdThmSGI2Y1h0eUw3UG9kdVRaenN4MU5MWW9rTWo3VERPanhyQnp3?oc=5",
+   "data": "2026-11-22T12:02:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Ambev",
+   "score": 9,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795350631481
+  },
+  {
+   "id": "1f32wvt",
+   "titulo": "Novo recorde: com 9 temporadas e 94 episódios, esta é a série original mais longa da história da Netflix",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbWRfVGxsY1JaYzI2cTFvd0VpLXBSUHZaQkdIWHBXQjE3cG12bUJvLXNNRFBYTHhQU0NFa2l6N0RmYjcyOTAxWHVjZXlucUQxWnZqVDVRaTZscTBDbW9nN3pmck0xT19VX25YOGhTdEIxc1haalBITlpqZ2oycXJmSU5BT084QWV4azh4MkJSRzNMVmpyXzdYZDJ0U0tqak5wWkNHU2pNcVVIUkFlblJoUGZKb29lbW1NXzNPQkxKTk5NeXRkTThnUDdzSDF2X3ZoQk9vOUh3?oc=5",
+   "data": "2026-11-22T12:01:04.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "10p40ex",
    "titulo": "Apple lança a segunda versão beta pública do iOS 27.3",
@@ -1772,67 +1841,6 @@
    "data": "2026-11-21T07:13:50.000Z",
    "cat": "Mercado",
    "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10glhp",
-   "titulo": "GTA VI já gerou aproximadamente US$ 2,36 bilhões após lançamento",
-   "fonte": "Prensa Mercosur",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbWxrSzhuS1hwdHN5U2NVTExNRzhhUnVfQk5BSUFwX3JyZGNja2MwUkFDdG43TW5QN2cxWUgxOXFUdXBhdFNCd1c2bEtvR0lNaExlVmFEUHdpOVUtUXFrUjFjMlRwRTVxWjBESm9SSnJsa0liQk5KeUZxbjMyaHV2eTkxbEs4RHZQSjU3OG10ZjllbkM5Wkg1Rk1BRENUQXJxNF93?oc=5",
-   "data": "2026-11-21T07:08:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yxvy6m",
-   "titulo": "Trailer de Dragon Ball Super bate recorde na Netflix e escancara corrida por janelas de anime",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMGF5cGl1Q0lqVGhod1JHYnBjYlJHUXR1dFlYdEJUUzdHSVlxeHBVXzZlb2NiNkZpclYzZDE4ajNNTWdGeFh3VjJLWlBRa2JDdGhGYlMwdkVHNk9QTE5rOWZ4RmhkVWtpRkJ2VGduemFRUUprWXppc3FBbU54Yi1PR0I4ZU54d2pFWTZmN3Jn?oc=5",
-   "data": "2026-11-21T05:43:54.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17cm7l0",
-   "titulo": "Nvidia dobra lucro e projeta vendas recordes após escândalo envolvendo Jensen",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNURTWms1aXBPcWlHZGt6T0RJY1NEb2hXUlA5eWdXVk5xOEdpdFdSUG42X1BZRzNsNEFrWm93Qm03ZDFrT2h1UXVwY2VickRxeWl4XzBOU1JGRnN4Y3dzTU9oRV9VUVIyLU1wUXJGZUxNeXNZTGxqQXVGUUxCNUdwX0dFbXJtWC1BeUxZRWlRUGNtZjUyajJhS3BmVEZpTkV5OEVIQ2U1ZGhoMzNXVG5rcUFaWk1CYk9KRlViZ3JGX0gtM1NLWldZdUFuZlE0OTN5N1BQT2ZHSC0zaVVONXByeERTdnJwWEcteEVIOTdWZDZobTZCYkVWQV9R?oc=5",
-   "data": "2026-11-21T04:56:37.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "m06xhz",
-   "titulo": "EBC Lança CFD de Pré-IPO da Anthropic no MT5, Antecipando a Esperada Estreia na Nasdaq",
-   "fonte": "realnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb29kVFNnbnZSNDd0OUxTaWtnOFBINE9CYUplMmVHS0ZNNGVTTHNaS2VlbUg4dGN6Q192RWZheFRKMHJjLUVaRDlwWnBpcnVQYTkydDZIcGh2a1lqV0tONDUzNlFzV1FnNDdOMk5yVmU2ZnNQWi1QY1hGdjU4Y1Q5RnVic19GWWlfOVZkQ0lxQmM4SE9waWFDQkVjTnRabENEZFo1S3Q5S3J3QWhEUk5sdUNzMTgzWE5z?oc=5",
-   "data": "2026-11-21T04:55:17.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795255227115
-  },
-  {
-   "id": "om8rik",
-   "titulo": "GTA VI: Veja a programação completa da rádio Flash.FM com todas as letras!",
-   "fonte": "Vagalume",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQmhXVUxIVmkxXzR2TmJJT3hIdV9pSGx6VjNzRnlqWDlheW5iM1ktVXZwbkZ3ZDFDdzd0bGdUb2hwYkRHUGhNbUdlaWVZaVNNSXRXM3pNZVRjajhVQjNLUUN1U3o4Nm5UQmhmb2VjNnZ4cld1dUZ3enVuT1VRb0ZBcW5XbUZDaUM2b0FuOVBlb0pab3dJZ3UzbURfVWlHTDlYQndkRXIwZDVESTVrY1M3akNFYVB4ZVQxWGtoTUhR?oc=5",
-   "data": "2026-11-21T04:42:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
