@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T06:30:24.756Z",
+ "atualizado": "2026-11-22T07:00:28.439Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -639,6 +639,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17jdbzm",
+   "titulo": "GTA VI vende US$ 3,79 bilhões no primeiro dia",
+   "fonte": "Meteora Web",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdkhtRHk5cDJwSTVpNkw3VzBKZTdITG82eU11MGNjVV82VDRiaXNjTEhIb01aMzVpandqZF9lX2dPSmxsNUl5LVUxNFJoelR0bmVHLTdDNzcxZk5jZW1BV3dpV3NGZmdyUG8zbHNhU3lFSG5qRE05R2NxVEwyRlJIOFFmUzBWWW9SZ2x6c3Vlam44T3dXVFBwVGNSRQ?oc=5",
+   "data": "2026-11-21T14:57:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1820,18 +1832,6 @@
    "cat": "Resultado",
    "empresa": "Disney",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11wsjrg",
-   "titulo": "GTA VI provoca recorde histórico de tráfego de dados na internet mundial",
-   "fonte": "Portal Rap Dab",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU3VsTkQ4UU5raWJCaloyQkRsendBOUdrdEJVSDZ2VjJqZjNrSndzYnhVVmdxblVheW91RVhnZUEta1RJZEgzNGNuTXd0cjNNQ056c1BfRnUxZjRlbkYzNmlHTXFTNE5rY0FEa3Job082RE9renZTU19mQUtnSnk2My1XdTlVbC140gGIAUFVX3lxTE5TdWxORDhRTmtpYkJqWjJCRGx6d0E5R2t0QlVINnZWMmpmM2tKd3NieFVWZ3FuVWF5b3VFWGdlQS1rVElkSDM0Y25Nd3RyM01DTnpzUF9GdTFmNGVuRjM2aUdNcVM0TmtjQURrcmhvTzZET2t6dlNTX2ZBS2dKeTYzLVd1OVVsLXg?oc=5",
-   "data": "2026-11-20T22:59:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
