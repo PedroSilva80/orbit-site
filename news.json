@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T08:00:30.691Z",
+ "atualizado": "2026-11-22T08:30:24.003Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,54 @@
  ],
  "itens": [
   {
+   "id": "gxu372",
+   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3NJVnpFREhPSng0UkZ0VUNNeXpTVVVnaFc3a0pkVnRvandZTlZHRWU3YjlUczlOemNxSVZ2bmRyeVdwWXF3elRyRlVSQ3JRaFhuUWZpSU03aVZXNWgwSTRkY1NESGlnLXZwUmxHdFNiQklIUUl2aG9PSkVYM1BlZzlhQ1hTRHNUakhGaGNhRjV3V0FOSWMyZG1mUnVubTJKUWdVWVdBd3lXT3czV1lNQzdlb2pkbnkxQXR4V1c2UEJwRkFpVW9CZQ?oc=5",
+   "data": "2026-11-22T08:26:56.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vcshzq",
+   "titulo": "Tesla lança o FSD v15, a Reality View mostra o que o carro vai fazer",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPS096NjlBZ2tkajM4UmN5X3hEYVJJNUpPRG4yaWlubjNyQThEWnlhMWlRQXNlRWxqR2VuVWVtSkFzMUt1eFV6dk9rbmlxVTNyMnF2WHVhWWxuMGVQT1BTOXRKSk83RVZNcHVLbjE5dmZSSE9fc1NoQ3QxNmlCemp0MzBKbXFZMXAyeHNpZDBQTWg?oc=5",
+   "data": "2026-11-22T08:18:43.000Z",
+   "cat": "Lançamento",
+   "empresa": "Tesla",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "133xw6h",
+   "titulo": "GTA VI e a violência sem limites: o que o jogo revela sobre comportamento e sociedade",
+   "fonte": "Jornal Correio",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNajNRUjdCSHY1WHVlLUVnb2VqdkNBNUgzTHVwX1FHQmpGd0lIZWpKdHd6cXRrOWxtNjZLYlozZzloNllnSjdSTERtWlg4b1E2UzkxdE54RjE2TWcxRXpIQm00d3lqM1JDQXpYLUFSN3RQQUp5VHJZOTRlZGFCWUwwSlhXa3VnUVBWM2FpN0FlcTBrUjJmVkVYY0VoeUdwaFZmWWE5bmxpNHptRy1oYzI4V0JMY0lzRS1Rd0Q1VzJMcDhOU1hJR2NPSjBVaVZDdkE?oc=5",
+   "data": "2026-11-22T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "chj3x6",
+   "titulo": "Glitch libera 60 fps em GTA 6 na Series X e coloca em xeque o limite imposto pela Rockstar",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9RSmFfSUlxaURNM1dKaTU1UEpkUThGRXU0X1BEZTllOFRoZkdod2lad2xfNXljRk5LTk9McmllMkt6UWhWOWR4TDZJUld4emJ4bkRaOEoyLVFMRmlOd0s1MHFSUWFwRU1FeVhnSg?oc=5",
+   "data": "2026-11-22T07:59:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1u40l5q",
    "titulo": "GTA 6 bate recorde de tráfego da Comcast, quase um quarto da rede",
    "fonte": "Pasquale Pillitteri",
@@ -50,6 +98,30 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "51j30p",
+   "titulo": "Análise | O caso Nvidia e a guerra silenciosa entre Washington e Pequim",
+   "fonte": "Visão",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWNwbkVsT1QzdHc3ZDR6bXhqbkxidWx2QmFUajNvTVY4azhLQjhWUFF5M2c3dzN2NS1xbHk1N0tlSjVSRUpiMF94QndFNVpqUnRjTnBpdHdJQ2JTOXBsblFZeFpyZGdUUTdWWWRvV0ZRc0FuaC1kUDdTT1YyRWM1UVVFNERORnRDVTVMaHNULXotUWVCbzZiTHU3T3BGR081UTFvTjJScjVOaFU?oc=5",
+   "data": "2026-11-22T07:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10rwehw",
+   "titulo": "O que esperar da Anthropic após o seu IPO histórico",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNk54Vjc5QnV2dTFaYllEWUV6Yk9QZ0dWUjhrNjJ6eEdKVnlTN0dWbjQ1ekRGdnUwQnJaQUdvdUpXUFc4b2dPYU12dFRYZjlpakxUbTFYYUs2Nm95MERaWUJCQmtFOE5fckNQazJuTlNHbkQ1dFZuWTJlMXhNTGRQRTRvOHlFTVozcEtDOWRmZGs4Nk5wSEtKM1ZDSnlnNzAxV2NzR1FiT1o4ZXBibDVfVnRaRDhPemx3Y2pjWDdDSHloVEs1X29Qc2ptaE5IQmFraThRNUtmcE03WlVQ?oc=5",
+   "data": "2026-11-22T06:36:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1760,78 +1832,6 @@
    "cat": "Movimento",
    "empresa": "Anthropic",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "36llct",
-   "titulo": "Nvidia | Ex-CEO humilhava funcionários para fazê-los trabalhar após ficarem ricos com o boom da IA generativa",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSHVpU0tQWkdub3l3MHJkdDEyN3llZnVjQlVHN0JMc1JQNlhpa1puWGRUN19sOXo0SmJzS1dBMVNFRVA0OVpqU2UwYnpKUGVqTDJvNXptX3lXeno0X2g3bWRUWE5Yd2x1eU1iQUR6UEh6Zk44RUxmXy03MGd4Uzk3ZllNLUdBNVZuWE5QV3JhNkswNFVaNGZfQlYxdDAxcC1UMTl2a0NrZl9oUFJPRnhNQTB5am5ab1dhVldTWnE1bXloYUIzWldTQw?oc=5",
-   "data": "2026-11-21T00:08:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1voa18b",
-   "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia e bate recorde do entretenimento, diz Take-Two",
-   "fonte": "diariodenoticias.com.br",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajNsalNWTnYzTDhMM1V5RExzcko5ZXZnQkk1bzdoZUxIWF9kd3VUcjhwRVNCVjgzTGRuQWJseVEzdUstNk8wZ05WM2VfNlE4M3I5NVdXQThsak1Pb3EtSHBvamNwYW9QZVBpNlFobDR6Nl9IY00zQThtcGFRbGxiY3pCTzMzUjNRSExXeHhOMlVHZmlkYUNyT1hDMnNYYjBE?oc=5",
-   "data": "2026-11-21T00:01:22.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8w59g3",
-   "titulo": "GTA VI: como encontrar o Pé-Grande e completar Em Busca do Pé-Grande",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE14SFdQN1pvZDhORUpsTU1BcElMclAtX1B3NGtsZGd4WjZTRzIzaWNzUFFMS0pFOGhyWXZxVDJjRGY1WjJHeTdGejgwX0tUMkFtV2Y4MV84akZORUcyXzFpR1V5TFJ4d0NleEVsdi1xQkFhM2lGNHdR?oc=5",
-   "data": "2026-11-20T23:41:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rkp9g9",
-   "titulo": "Anthropic recua após IPO e fica perto do preço de estreia",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3c5QWl6ZlN2ak1QTnhQLXJUMDZhRUt4LUdNZGp0WkxtQmxFcGVtN0hjU0xaZG1EaUVvQUkwT01oRWRNUndUNHBfWGwzM0xTaXB0cFYtdFlMOWJIUHZxblBxUXdSQm1GQ0ZQN2R5YlRNaG1PeGd6dnppZlFTLVl2NmQwYThNdnB2?oc=5",
-   "data": "2026-11-20T23:38:06.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "g8gg9g",
-   "titulo": "GTA 6 fatura US$ 3,8 bilhões em 24 horas e bate recorde histórico do entretenimento",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSVJXVVJwRjhweW1ZTWRUaE95cFIwano5MktJTER6WVJUZlJ4RmljYWZ5Wm5NbFBveEQ4NzV0OUtWYzVaYlBzeWY5UUt5ZzFMMHNRYUNGblFmd0hxaWhWT3ZRc0FrNUxFLUVYRm03dUo5M3E0VTBBTVlXQWs2eEVSc2ZUZFFNUlQwSzRqaUdpSUdUTDI2ajZjNS15OS0xZTNkbTFET1JUeGo?oc=5",
-   "data": "2026-11-20T23:38:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "msey8o",
-   "titulo": "NVIDIA sob investigação da SEC por práticas contábeis em 2026",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOb0RkeFM1RmVFaWpMVDZkRGtnQ2FVdUJxSXJuQkNfc1ZmZFFSYzJPY3l4cnJNWmkzdU5CYUlpaFdveWhtMFBxbTVoODR4aF9zbG9UaHowM1I2UDBQSk9QZmQtN3BpYWFHOGg0VWZWR29SUWMxVDhycjV4ODU2YlJkT2F3?oc=5",
-   "data": "2026-11-20T23:34:31.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
