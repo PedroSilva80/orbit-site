@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T10:14:59.167Z",
+ "atualizado": "2026-11-22T11:30:25.553Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "126do3w",
+   "titulo": "Nvidia registra sétima semana de perdas em Wall Street com investigação por reguladores dos EUA",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONFdoNldXdkh0anlvZVYxREVQVHZrZ1RvZWhzbWpiUlFheG1xa0t0V3VHaWVmM1pjYjJmMUdZSXl0WjZtNUdLalRIVnlWRTVoVE81WkxrU1hfNm9zZ2JpWXU3SUI1U1dDWXVWRGdVTVNRQzBON2V6WWYta2RlbkVZc2gxWVk5RmJoX0VqZXV5UTVhMTZSM0JXQVNQNklVOHgtUjAyelF1M1FTZFlTckZMM0pnWWpoVTE3d1lLcFRFZ29ETW4yM2NOVmtxaw?oc=5",
+   "data": "2026-11-22T11:15:03.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "sgvitm",
+   "titulo": "A Nvidia enfrenta uma nova investigação da Comissão de Valores Mobiliários dos Estados Unidos (SEC).",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNemJJQlROalh5eWJ2WU0wRTBaVEZVUW9QMDJ3ZThhejFhaTJlc3V0WXFmREg2Y2VGR3QwcE15VU9Od3lTcWRHMm5haHRSNzRaYm1neUgzQklWVUFqWGE4Sm5vYUkwYmgtd09qQ1dweTNLS2dqQlBxNHl6WHJnd0pSTlc0R0JXTWdudmZV?oc=5",
+   "data": "2026-11-22T11:14:22.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1l27a2s",
+   "titulo": "GTA VI reacende debate sobre encarecimento dos games",
+   "fonte": "Tudo ok Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdGVmRTVLajFlYmNYLUMxLUFSU0xXS3l0dmVZR0NPTVdfNnFMUm9hSjd5blBIdmF1YlBvbm4zaldaOHVlZUFFX2VyWU53YTAtNVFEOUNUVXJ5WHkwd0FyRlJWRFY2SWRNQVVsem9vTm5TMVdtcXE5czRaUVpHTExqTkFjV2FNakp2azM3RGVwYWVMUnRDRkEzSEF2bTRmMkVyZkVLQmU2LUJDekJpZUNJSUJPLVQ?oc=5",
+   "data": "2026-11-22T11:13:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "r7el1m",
    "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia, diz Take-Two",
@@ -1798,42 +1834,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cg40cz",
-   "titulo": "A oferta pública inicial (IPO) da Anthropic supera o recorde da SpaceX.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vTGVTNHc5cVMtR1dUTjEwQmg4SWpHSlgxZDBiTUxmRTJOZXlDLUxhcUVyX3ozbGZ1ek9CbURrYmpHMkJaajBieE10eXFxZ2wydHJCaU5DZVVNNUotdGFKaTJnREhVcU9hWmpyVE1uOVQ5WkJO?oc=5",
-   "data": "2026-11-21T02:57:57.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-21T02:46:53.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1c67fml",
-   "titulo": "Fundadores da Anthropic resgatam quase US$ 2 bi, mas mantêm controle em IPO recorde",
-   "fonte": "Cryptopolitan",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN2dPS3FiZUdnRVBpaTIzclR3SnJGRFQyZU50eXZTWWF4by16WExIa0ZuOFlHZWd3MUt4bEF2Z1dqVXRfb05KUWxfeUhrNElCZnNNZTA0OTYta0JHMWY3ZWdzWmVzNy1oMGdGWFBqRVppdHA2bURXLTRyTFdrY1pwdl9hWmNZTHRnZ0FWNHU3U0liZ0lIYlJrbWFXUXAxeVJ1cUktSEs4dw?oc=5",
-   "data": "2026-11-21T02:37:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
