@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-21T23:30:25.412Z",
- "agendaCal": "2026-11-21T17:30:27.845Z",
+ "atualizado": "2026-11-22T00:00:31.032Z",
+ "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -37,6 +37,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1r2d1oj",
+   "titulo": "IPO da Anthropic ANT: preço das ações Claude e fatos essenciais em 2026",
+   "fonte": "Bleap",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZYbkhjWWdlU0htTjdVYXdEQnNla1pDYWtsNDlzODhNaGVmNV9jSmwxU2ROUUk3ZThCNGtMN2tVRkpueUtqcFY4M1ZGcUZWN2YxZExhVkxEZTlxOTB2UlJzcDRPU1FPYm03T3JEc3FNRkdwQ3VaSW1qRFpXS0E1bDBRU2JxVjlTX05hR2Rycw?oc=5",
+   "data": "2026-11-21T23:44:42.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "k0glkz",
    "titulo": "O que aconteceu com o Bitcoin antes das duas ofertas públicas iniciais (IPOs) históricas?",
@@ -1828,18 +1840,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xmnd6g",
-   "titulo": "Ex-CEO da Nvidia concorda em depor no Senado dos EUA, diz assessor",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYnBXbUFSRWF4Ui1Hc19mcTVPdllnVnRiMklTY1JjRFREdHhWR3NEU1J6TDNOekRqT2VQRXQzTG5xTlRWRXJ5c3h0NVNFcmlzM2ZtMWZzajFwdVl0d2l5WW1naHBtRGxHZW8yTGdCWDlEdEpiTnQ4dHJwUVI5WThRa21yOGdLMy1Ka29mUVVGeENhcy01SERONFJvWjRJMXJlY2ROME9uTmtyM3Zvenc?oc=5",
-   "data": "2026-11-20T21:21:45.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
