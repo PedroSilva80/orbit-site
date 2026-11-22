@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T03:30:27.307Z",
+ "atualizado": "2026-11-22T04:00:26.258Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -29,6 +29,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "13bs66j",
+   "titulo": "O presidente dos EUA chamou o ex-CEO da Nvidia de \"gênio raro\".",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFIwdVVOemU0aGhBcUxoelUzQVZpd2o4bGhmekxZblJ6SEFLTWg0X0M3eFlUMzNuTmRZZnVIVlRzRUU2NUpqekRqYU00VFVFZUVpYktPQi1tSTFGSEVKZ3psRU1tY3NVTjhBdnVDblNIN2Z4SFJVTlI2S0lYaWFlYTVZQlRVcFE?oc=5",
+   "data": "2026-11-22T03:47:08.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "q3i0sl",
    "titulo": "Brasil supera meta de turismo com antecedência e estrangeiros gastam recorde de R$ 45,6 bilhões",
@@ -568,6 +580,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16zfugp",
+   "titulo": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
+   "data": "2026-11-21T15:10:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 7,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1807,30 +1831,6 @@
    "data": "2026-11-20T22:49:46.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1szf8ms",
-   "titulo": "GTA VI arrecada US$ 3,8 bilhões no dia de seu lançamento",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1hLeV82MU5SaE0wX0hObkpoYUZFUG5ic1JrNTlRMmhfWHV5elVlejhkaDBNMlZHa1JKaW12eWdnbXAyT2Z2aW1KZndUWWJiTEJSLUFmVl9vS1dVV0c5SDNHVGZYUEM2Z1ZkcDZSTERBMzhlNGtLZHVyaFRmY0IwbllzdWJmU056bDJVdkZRQTZ3U1ZTaVlhWi03SW5DcENMR0xnWGIzWWVoOE9xajdfSHV5WHVIV2hNX3c?oc=5",
-   "data": "2026-11-20T22:44:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "f7llkl",
-   "titulo": "GTA 6 vale a pena? Zeramos em 80 horas e contamos sem spoilers; veja vídeo",
-   "fonte": "TechTudo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPem92akZUNDl2YTYwNHdTdXI2cmFTLVY3T0EzaXdUQ24ySEo0NDhzbTBjM1B0ODFmQ1pyZlhhSGFNRk1BZ1Z5U04wTFBGcF9TM0lUQjF1MEZXTDBwUUlfZTlJZ0RDWTVSOWZvSzZ2QVNMeHpXQVVGMElkNXY1TmkyVEZYT0pqY0I1dktnam9tTFVXNkg2Z05PNEdORUxVa2d2XzJxN1l6VTJIRl8zdWNYMVM3NzU4aHMxQnI2Z3RwYXLSAc8BQVVfeXFMTmtOT2tWb3pMbC1lUF9UeUdoNC0xNFFQajJhMWR3VHNYUUpsWVRiNDFUUXJtNThWOElTT2dyNjhpcUVKUU5Uc1RhX2x3MlJhWUwxaTdLQTRONHRhNDdxaDBsNjJ0Q2E0OXBsZFU2THVua2FXbDlpbWZGREk1MDRXbDNZX2diWGdOWk04YV84ZEt0QnQ0SXZZUzVlNDVnQ2FRaUUwZFpFMExWLTI0aVdzWlNvakNzenpQWkd0Ukp0ejI0Y1RBaFE1Q2pkcEVMbzZv?oc=5",
-   "data": "2026-11-20T22:43:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "Vale",
    "score": 6,
    "marco": false,
    "avisado": false
