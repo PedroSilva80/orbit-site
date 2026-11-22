@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T02:00:28.200Z",
+ "atualizado": "2026-11-22T02:30:25.674Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1254,6 +1254,18 @@
    "avisado": false
   },
   {
+   "id": "qei6st",
+   "titulo": "Ação ANT a US$ 88,91: mínima de sexta-feira ficou 5 centavos acima do preço do IPO",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlZNc3RFLTZjMThUdW5OWWo3SWVEb2pJZlFDTmN6UVFCYVBCLWtkX1Nvb1BLc1M4WURHQURhbVFGYjVvVG1zRTFYWDFWZXdBYWF0c0tSYld5N0t2S0R6ZmZFRF9zOXktN0pHWjdqeUdSS1BPOGxzbkxBZVNvNWZuX1ZWOA?oc=5",
+   "data": "2026-11-21T08:02:35.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "47mh9n",
    "titulo": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
    "fonte": "InfoMoney",
@@ -1828,18 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1oidtgs",
-   "titulo": "Nvidia afunda após notícia de investigação da SEC; ação acumula queda de quase 28% em sete pregões",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQVHBJRUZWRWZ5ekZwZk5kSzVVeVd0Mk1xQnR0enVsSlBPclN6TW03d21qV1dLVTV3aDZXVnVDVEhNQk5rVGk2Vmd0b3ZUSmhpMTI0azVZVjhBZ0g0RWtDUnVPcVoyR1pXUWJDSkNnX2RkQ1QtM1lJLTVwWkRNTjl1ckIzMkxKQlJXdGs4aTM0SFZ0c05KV3dBRV9aLXItRDBjUTBsbFhtcjdIV3BEVlk4ZFJvLWtzZ0RqTWo0NnlLc3l2VmhnMzRzTXdJV3RjN1plWko1a1dfZFpUcklSV2d0QXV5bXlCTllKbElCQllnbEdCS2VMcGUzMi1B0gGIAkFVX3lxTE00YlRxR1VicUI3UW5lWXdLUV9qQlRmb181b0NyRUhRTzR1VnhEQlVWUWkzb2tuMGJtM0RuZERkNG9xLVRYbjkyWWFfSEMzSFBlZlFUdDFORHNNVkZybnhQcGNvZUpjalVGUVFqSGNZdmx0NGVEa0k2WjU0NS1GMmZOUktHMER3TG5XODlDcDRkRk1GcllUeXd1UzVzYTh2ekNzTmNYdGp0Nldsckdnc3E3UGF5dlpVU3lnMGxpMFlpbDhZVjQyaF9FalpBcGFxZFRPWGJLUE11NXpIZXdVOWZQTllhTlZpUGd6NHJLM21qRlIxZUFMMG9UdGhkUThDVG92b3A1eWRrZA?oc=5",
-   "data": "2026-11-20T22:18:42.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
