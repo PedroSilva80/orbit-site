@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T00:30:30.072Z",
+ "atualizado": "2026-11-22T01:00:32.508Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1242,6 +1242,18 @@
    "avisado": false
   },
   {
+   "id": "17cm7l0",
+   "titulo": "Nvidia dobra lucro e projeta vendas recordes após escândalo envolvendo Jensen",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNURTWms1aXBPcWlHZGt6T0RJY1NEb2hXUlA5eWdXVk5xOEdpdFdSUG42X1BZRzNsNEFrWm93Qm03ZDFrT2h1UXVwY2VickRxeWl4XzBOU1JGRnN4Y3dzTU9oRV9VUVIyLU1wUXJGZUxNeXNZTGxqQXVGUUxCNUdwX0dFbXJtWC1BeUxZRWlRUGNtZjUyajJhS3BmVEZpTkV5OEVIQ2U1ZGhoMzNXVG5rcUFaWk1CYk9KRlViZ3JGX0gtM1NLWldZdUFuZlE0OTN5N1BQT2ZHSC0zaVVONXByeERTdnJwWEcteEVIOTdWZDZobTZCYkVWQV9R?oc=5",
+   "data": "2026-11-21T04:56:37.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "m06xhz",
    "titulo": "EBC Lança CFD de Pré-IPO da Anthropic no MT5, Antecipando a Esperada Estreia na Nasdaq",
    "fonte": "realnews.com.br",
@@ -1828,18 +1840,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "q0ufv0",
-   "titulo": "GTA VI: Jogo vende mais de R$ 20 bilhões só no 1º dia e se torna maior ato de entretenimento da história",
-   "fonte": "papelpop",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNczZwMmxnb3JCT0dmX2d0czNja0VKNloxUE5uVktyUnBOamJfT1BuZWczeW8xUWp5VDlsM3NqZnBKUkVoMWMyamIyRk9feVhVaWVuTXdoVGxDZ3VaeFFUQlRrT2I3MTA1WDUwWTE5b1VnU29KOXRuQVZWSzVBTEVodDZpRmhhVHFxQldhdVVXVVdWNl8wWUc2V3lWcGcwYjRvOHRINXdSbDBVei1BQnpOeG04bkl4ZEhyS0tNVF9xb1lrb21WbmVHN055dVotRHVWVXc?oc=5",
-   "data": "2026-11-20T21:34:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
