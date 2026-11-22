@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T04:00:26.258Z",
+ "atualizado": "2026-11-22T05:00:29.007Z",
  "agendaCal": "2026-11-22T00:00:31.032Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1342,6 +1342,18 @@
    "avisado": false
   },
   {
+   "id": "1tt26of",
+   "titulo": "Bilionário da Malásia Busca US$ 490 Milhões com IPO de Fundo Imobiliário",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGlZYUsyMHVSckRjd1BCLU0yVTNRMkJNbEFVcXNHYzlPS3ptWkRETVhEZmtFMkdBazg3N2FjWHhhWW9seDhJWnhqRkFnMG5iTmUyMWMwOXNGSVFDWnUxUlJ3T3M2clNlOG1VTFZBTFJ1SFlzTVZ6RmFMZ2hNSmQwN1ppV1Npcm9PanFHcUlvc1E2X3BUQzAyajk3YW1SbEQ2?oc=5",
+   "data": "2026-11-21T08:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "pqgqzg",
    "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
    "fonte": "radiogeekbr.com.br",
@@ -1817,18 +1829,6 @@
    "fonte": "Pizza Fria",
    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sVlFpOWJGOV8yYUFpMGpyREFTUTZyXzE3alNESGxkVUR1aFdiVEk0SEFBMFRUVHV3b2Z1SkVMQXNoTHV1Y1EzalM2VWw2Q0xSX21jSnhuZjBaTHU4SlVjWmpNVE5HbWlNdWdEVVVtRzZwcjRnTmlEdkxYMA?oc=5",
    "data": "2026-11-20T22:57:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1igb0zg",
-   "titulo": "GTA VI: onde encontrar todas as referências da série Dexter",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GVUpLWFdzUGhpWVpqVC0wTVlxS0cyQ2phc3hERWl4UlJMeWhwNUdjZkZjUUU3alpLUFc5bGZrYnFpN2lRRVdKeWQxTFo0OS1wYks5Tld3RzFzd01ocWpRMHltaFJqYzFId2FHcXc3R2h6VG9VX1NzemhBZXlUaVU?oc=5",
-   "data": "2026-11-20T22:49:46.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
