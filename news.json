@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T10:00:30.768Z",
+ "atualizado": "2026-11-22T10:14:59.167Z",
  "agendaCal": "2026-11-22T06:30:24.756Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "r7el1m",
+   "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia, diz Take-Two",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1nek1vYV9CcGYwb1N2a18tN2hYNGdfN08tTEdyYkRKMXZpSmZsakJkdXl3Q3pXTmhqdnpXY1FpcWp3dEFwZHRxQjA0WjhYdGJHemt2cmpGT2gyOWsyTGxVRk5EaHpSTTB5WHZlTnYxUUh5T2RkTTRfQVl3?oc=5",
+   "data": "2026-11-22T10:11:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "af2peb",
+   "titulo": "Agentes de IA agora lançam ciberataques sem ajuda humana, alerta Google",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE80TTRjdk9VYk13eHB1d0xsdGtUUkJRSldPSm1yeURZblB4QnMxa2RhMlE4WGFROVBvbUpHbHh2ZzJNYkpxUVE?oc=5",
+   "data": "2026-11-22T10:10:16.000Z",
+   "cat": "Risco grave",
+   "empresa": "Google",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gih78r",
+   "titulo": "Efeito 'GTA VI': buscas por voos para 'Vice City' real disparam",
+   "fonte": "iG Turismo",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYS1kdFZmajBwY1BDMEpocldZTUF4UFpIRTVCdmFxd3FyMF91aktFcEdjbjI3TDFWRUIwWDdNdFhpV2VkSUlpTnRDclhva1VsVE9mY0hBNHZfQTNlYVlxRHAxVWhhN3JTenFaNTUyY2xkVXRHaFItdWFYcVVERV93bmhMeEZCcHd1UDdlVUtPWlJ1cUpyMFJkN0dUeEtWa0M0ZWZF0gGoAUFVX3lxTE9wZnh3S25ZSlZWNXpQRjdzekNfRUU1eVpmRnBpWjRkdWtXUmpxaE9ra0tHeUt1d1FndmtwZFluc3pGSmhvUXZpXzB2M2w1R3dySE9vMUF4bHA4MW9RTE94UzV3LXBoeTN2Ynd4U0pubFZ4bmdzVl95RXBVOXJIVF9RalZyMmhPc2xCZWtoY2NmTkJhc3Q2WDFmNHdwazVGcmVZcjlIQlNmbQ?oc=5",
+   "data": "2026-11-22T10:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ob1zpy",
    "titulo": "GTA VI expõe desafio: tecnologia avançada leva a videogames mais caros",
@@ -305,7 +341,8 @@
    "empresa": "Apple",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795342499167
   },
   {
    "id": "1r2d1oj",
@@ -1797,42 +1834,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lor046",
-   "titulo": "Death Stranding para PS4 e PS5 despenca de preço na Black da Amazon",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaWc2NnBQSjJXdGsta29YcEc3TXVyd2lBM3BjNV9WdXRka0kxeTNUOUFvdXV5U0pjN3dSV01VekRlaGYybk9iX3N4aVZoZ2t0Q2lfUG5iRXFsODVkc3J0N01iMDVtMHpUcDVwS0RobTRCZTZWNEp2X1h3VlNtUG91TjFod1ZxcmtFTVA0akp4ZmctNENsSnl0M2ZKeFl3Z3ZadTlCdGZn?oc=5",
-   "data": "2026-11-21T02:25:55.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gd3ue",
-   "titulo": "GTA VI impulsiona recorde de tráfego global",
-   "fonte": "www.guairanews.com",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13eU5ZcGNSMHhvbFZsXzhiMEpXb1NUOGFOUjNhMVVYOVRDRDg1WnE3OEtlQ3MwRXMyYzMzRVJLUWVRNXJJT1psNDY2Q0Vhc1MxckJKeWFLTmRVZjIyN2tOSkp6enRzUEZUNktoVTRROVlkSGFjejRr?oc=5",
-   "data": "2026-11-21T02:09:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "n5dx6p",
-   "titulo": "GTA VI registra venda recorde de US$3,79 bilhões no primeiro dia de lançamento",
-   "fonte": "BOL",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWVNaUnh3ZmRHWU5UQ3dLNkloLW1iajNfWFlDMkptM0NGWnFoYXlHT1cwM3NGZEFZclVXMzNIUmRGQUZMRUdwTjZlNkdDdmJtMlFtbDF3cmJPUnRldHozTmxGcTl0YUc5aU5QSjdTQ1RVMzBZMXdZSXZnd0xFa210MExoSzdkMEZvZExkYkZqZTRpejQxMnR2NThobGF4YmlxQjNFWGhnei1RbUJKclFSeXFnN1h1bV9Qd2ttWUhZQTJNTHRXeWl2YdIBzgFBVV95cUxPRW5OeXlRTEVNTC1MNVkxOG1qNUZFdFZZdHNwNkN2TTlHck1vUHZpQmw5LVctTkRRUUZzRlE5SXMwN0pBek96cjNtY0otNUVRd25GSzRNeVJIcDJTMk5EcVl4c1JBMWJiRUVlRHdwTktyRVNSOUR0eFlZTTUzZ3dBSzJaM1JEMXBwVjZFM01QV2gyYXI0LU1fczFmN0tJWkdMR0h3LVBlS0pGeGVLbzQyZ2dWMzZITG45WXpnY3g4Vi1uSVVhSFhtT3VPMlNiUQ?oc=5",
-   "data": "2026-11-21T02:02:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
