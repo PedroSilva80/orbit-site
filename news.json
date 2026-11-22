@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T16:00:30.324Z",
+ "atualizado": "2026-11-22T16:30:28.861Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1h8mj7y",
+   "titulo": "GTA VI: 7 detalhes tão caprichados que parecem exagero",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQXNBUWV5dWhWdWgxNHRERklIMFNBZUNfY1k1cG1yN2FodlVYTnh4emFHRGE0UTNBaEZYMDRzOEYzWHRBQzdiVEFCM2pOVWZVVWFqcEJoaHlzV005YnpiNWp0WUR2ZXgzZjFGSDhrcUdnUGQxWEJjdVhUaWZOendQUmdFM040WVVBOVBoUEJaTEdERm9nandYZkhISTV5aGRL?oc=5",
+   "data": "2026-11-22T16:25:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1q0wsby",
+   "titulo": "NSK, dona de fábrica de rolamentos em Suzano (SP), assina com a NTN a fusão que junta as duas japonesas numa holding a partir de outubro de 2027",
+   "fonte": "CPG Click Petróleo e Gás",
+   "link": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOZk5KYWN4VXR5YXk1X01mTlpjRHplNlNhYm5TSWY0Uks0dXpKTzZ2eWMxRFVEbHV1R19BN3M4NmQxeHFlZFRNcGJIc0Q2VnZ1SVpaUFZKVi1qd2ozMVFURjdxempFYWVhYmdWLXEzN2NCTFNnbHpLb3VXZlF6Qk9DMmdPNERYT2h6Skkwc0hXczhUWlk1QmF1V293SEN1UlcyVUtIV214NEhudW1MX3NaT3FRNEVnMkVMLUtvTnZpQm1sTGtGZmhEMXkwWk9DaFlHOHluMG5rNE1EU1ZsZG1SeU4xcnVlX0pHSWhWMXlZbk16Q05wMWt4NGdHcW1qMlZSWWY2aWRNc0F6azhEV2hZSXpaZWgzc0RuZGVxbkl5X0JEa1dZU1hmRkhnUWx1WFJOZVZZX2h0WWtMRkRXT1VKU2l5c2hKTzlldk4yTGFHbFVRZEV2QnMzX1lVdTNQX3FPY2tJcjhfcWlKTTNuNW9RakcwbS1qYXB1VXdEWDdaWlUyckZoaV9mSHJQNlRoMWN5SmQycGc4QUxIdnlnai1DYmtJeldjTWRVdzNDMmY2NWpvSXFPdlJmUnJLM0hGNTZ6amVpU2tPLVNwN1JySXptckthNmxSbXJyM29ET1RQMkIzVEEwaTNwZXRIQko2YzNfU0RESnA5R3VydHBfQk11MjVySzg3WFFYM2c?oc=5",
+   "data": "2026-11-22T16:20:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Suzano",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "bxr5u3",
    "titulo": "Rockstar pode trazer L.A. Noire de volta após GTA 6",
@@ -229,7 +253,8 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795365028861
   },
   {
    "id": "zhby80",
@@ -1818,30 +1843,6 @@
    "cat": "Regulação",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xstiq7",
-   "titulo": "Volvy's Adventure: Reslimed supera GTA VI em vendas",
-   "fonte": "Arkade",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdkplVGFXcWpzclM5UkszNEU4ZTRGS0ptMVRBazBCSnJUd2FUU01UMEdpVHhvU1RRMWZBemd0MlYtS3ZvVlJKam51cnpaWW9Eblo1dlhkUWJoSndCdjQ2TkVUZ3RhTXBZV055VElHaWU5ajFMTlJVQlRXZ1NoeE9RUE4ySlRnT25uU2hxQXIya2d0WXg4NEhQR2lGQ1Z6cWdoWTZVYlB2MTUteVM0NnZGVVdhcVpkdGF1MGxWSkJfLWhFZ1ExYjNCdHZMejNTMWJtc0JwelBqVmxDdw?oc=5",
-   "data": "2026-11-21T13:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nwhln6",
-   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
-   "data": "2026-11-21T12:49:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
