@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T13:00:30.948Z",
+ "atualizado": "2026-11-22T13:30:27.397Z",
  "agendaCal": "2026-11-22T12:30:31.481Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "v74s3a",
+   "titulo": "Resultados do 3T26: margens pressionadas e custos elevados dividem desempenho de Ambev, JBS, M. Dias Branco e MBRF",
+   "fonte": "Feed&Food",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRzhKSXZCNHFHSWMzOXBhU2lNMEhxdFFLSXFORU5yamNUX3RFVjd4bFk1VWF1T1FoZG9NamVBVVpuY3Bqa3JuSlJ6bFdBRFBleWVGaFlJYldta1pNcVFOU213ODNTN3NFVnN3TERHNkRNQ3N3Z0J2SjVQUFVRM2xxR3ZRd0M3THJaUVVDNG0yakJHNDlMRE9oNTZuVW5NbWkwOS1zd21sZlcwdzJ4MVJjMWRURy11VFZJUU15eHhfbXVmSWttdUw1dVROeWJZd281?oc=5",
+   "data": "2026-11-22T13:10:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Ambev",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6gqsfq",
+   "titulo": "Alice Huang, 'affair' do ex-CEO da Nvidia, tem ligações com mercado clandestino de chips, diz jornal",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPSEM1U1dXelRCejVTU2dSWVFkS2NuUmk4NWtIMXQzaVZhSlFVNHNMc0dfbkRkWnl5RkVDTThGUnBqbHdHNEE4dTBOQ1dfLXhseWpUVzFzRHZEUF9xdmt3bGxxNnZhNXRlWklHVGQxY3YxZ1I5cGlja3dTc0VNTDBkSUdVUGUwMjJSbUdBSi1vY3JkckdyaXNCbHdzSmw3OF9xVVhTS0RmQ1lrV2h1WHFrcEszQzlxbVNocXJVdngxS0I2VDNzbXd4N0RaY3dLeXlOQ3JORmw1VEQ1d3E3dzJ5MUI2dHBWaTl3V3BJT21ldk1LRTJ6XzJEQdIBhwJBVV95cUxQWld4QUhvWlhjcjBVbDFMbG9aZmFkUEJFX3ZTTC1yeTdqaXE1LTMzRHlHZUxTN2dLSmF0LXhEYW9xTjZQcnQtX1F1bk5hV3MzeDZQa0IzOWpLUHZhZ0hDYUNwc01YUlBNVnpNUjIwclIyZ3hLNzgyRDFFVWFqQ3ZmQ2dncjdvcGhRa1VGVkpybklVamVaRTlJZXFZdkJGQUItNGxSemRhSDQwZDllZnZ6N1BDNkg2LUxtNnNGbnZzZGw2UmhUR2x6U0pvLWZ1bmhWR29zdlB4Z0tLSnRIeEVKWmNNWTctLTlfVWhuQkc4NTg1QWFOMHhuWjlhVDhZV05kS2l4REZHSQ?oc=5",
+   "data": "2026-11-22T13:07:01.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zhby80",
+   "titulo": "GTA VI movimenta mercado de games em Goiás e impulsiona procura por consoles",
+   "fonte": "Jornal Opção",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNalc3VDdPYVpuRjYzOElhNmotVnFMby1RajZfTTZyakh3YVQxNDlLdEp1YWZvR19CdVRGR3phSDZjV2lfN183b0JNQ1RhU0dyT3NfdmtGNjJWRTk3RUcxRDc4QjE4V0lDRmdnVko1NWIyTjBqUGZtQkRRZkFLYU9mTThoYWZCUzdEc3pONGdlV1hrQ3hYUV85UFQzaC01QUIwRU5GbF93bGdkeVlWM2I4clRvUFM0Y09yZjNDRkhzeE0?oc=5",
+   "data": "2026-11-22T13:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8txh5p",
    "titulo": "Quiz | GTA VI: que tipo de fã de GTA é você?",
@@ -120,6 +156,18 @@
    "cat": "Movimento",
    "empresa": "Netflix",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2ftwsl",
+   "titulo": "Estátua de Cristiano Ronaldo na mansão de Messi e restaurante português fazem parte do cenário do GTA VI",
+   "fonte": "Observador",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZHloOWU5eVhKaWEzSlY0TGs3RzZaNUNuVm5IdFQtMFJIeXAyaXc5c1Vpbk8tWmdMTi0yUnJfQlVXeklscTdsVDV5UUxqQTJIbmNnWHZOSXp1MlhBcFRGWkliOXF1M0o3OW4zWFU3aUlqLTkybEZIdWFrM05LZ2dEZHFTV1dFTFNJRUQyMHVqYnNxUkl4bjlIMVZhRGVxWndXZ3ZxQUU4LTBSOVFKOFJrZjViMWpIQjdDbEh6d2tYQUdKanF3dV9Kb3NxYURmbjgyQ3RLWA?oc=5",
+   "data": "2026-11-22T11:54:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1793,54 +1841,6 @@
    "data": "2026-11-21T08:02:35.000Z",
    "cat": "IPO",
    "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "47mh9n",
-   "titulo": "Mercados globais desabam em feriado na B3 e Goldman alerta: mais quedas estão por vir",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ19DbGtVQ0J5Zk1NNGhZNHZRX0V1SDFjcmxyRE5jSWpCSzhEbkRpckl4R0VZbGh4Yk1KTjR6R3c3V01UeHM2MWN0dTdTcllpWDdJVFlkVndoNmtLR0VucVFiZW0xcEFsa1VjU0NudENiNURTc244c2lJU1A1a2lmX3AxcXNkTF8zc2EwZmlXMDd2Z1hTRlR4bExzSHdLMV85T1RyVkktZnp4MGM2c0NYRUF4VjQ1dGtfam52etIBwgFBVV95cUxPeHY2TkotZklGM0NYYnZFcEUzVXpWaVVnZTBwVmFFWjBId3N0RHpEWGNHbkxJc1BDZk9Pa2ZqeFo3WmhNbjNxSFBYQllEdTRoeTg4NkdoX0F5MWZIaXZ5ODd6M3dCZzFtbWx5MHF0RmZGSzRteEN2M044Y1RfRnVWMUIxUE01dlN3Uk9Jc2ljazdGMGpvUnBKTTRKa1RFbWFtd3U0Yk1lcVJyUmlZZXhQM2JKVFpsQlljVnd2eHZRNGNCUQ?oc=5",
-   "data": "2026-11-21T08:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1tt26of",
-   "titulo": "Bilionário da Malásia Busca US$ 490 Milhões com IPO de Fundo Imobiliário",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORGlZYUsyMHVSckRjd1BCLU0yVTNRMkJNbEFVcXNHYzlPS3ptWkRETVhEZmtFMkdBazg3N2FjWHhhWW9seDhJWnhqRkFnMG5iTmUyMWMwOXNGSVFDWnUxUlJ3T3M2clNlOG1VTFZBTFJ1SFlzTVZ6RmFMZ2hNSmQwN1ppV1Npcm9PanFHcUlvc1E2X3BUQzAyajk3YW1SbEQ2?oc=5",
-   "data": "2026-11-21T08:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pqgqzg",
-   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
-   "data": "2026-11-21T07:59:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "skiex2",
-   "titulo": "Pokémon abandona a Netflix e escolhe a Disney+: o que muda na guerra do streaming infantil",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
-   "data": "2026-11-21T07:59:10.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
    "score": 6,
    "marco": false,
    "avisado": false
