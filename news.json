@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T02:30:32.268Z",
+ "atualizado": "2026-11-23T03:00:28.593Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -12,14 +12,6 @@
   "dig|2026-11-22": 1795341630768
  },
  "agenda": [
-  {
-   "data": "2026-11-22",
-   "tipo": "Lançamento",
-   "empresa": "Google",
-   "origem": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPNHhtSW1sUTJ5Y0RZVnhtTTdLdU1OUzRKUG9QM19CMFNuVGxRNGNpOWlnRk1hQ3hXRklsZmNucUVOOVVwbDgycTBvQ3p0OTJkTnE0bklGRGt0YkNLa2s4aHVnRjBGdXRCVXZYY25BclMxbFVLQ0FPZVNTU2V3SExDYk5TRlJlM0lLeFRlMkVCMWRCd18yR2JDTE5tT1c1NlF3M2hBcjB5aTAxWU4zMnItcnNMaEVObXFWYzM0eFhncHA5d2dsSUpPclpWT0tmTTA?oc=5",
-   "manchete": "Hoje no TecMundo (19): GTA 6 estreia com nota 99, Google lança Gemini 4 Neon e mais"
-  },
   {
    "data": "2026-11-24",
    "tipo": "Balanço",
@@ -39,8 +31,32 @@
  ],
  "itens": [
   {
+   "id": "1oh6c9t",
+   "titulo": "Alice Huang contatou espião chinês durante caso com ex-CEO da Nvidia, diz jornal",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOUWNBSUh6WVRFUWJHd1RTcnpBbTA4cHFBN0c1RXJwVjB5cjR5LWk4am9JR3ZlNlpjMXBwaDMwU3M0emJfZnN5b29kdndFVlNnbkhHUXhrQnU0X085N1BWdXZPeDhLQkhmTHdBeXg4bThDdDlGUlIwc2xlQXR6b0Y5WFdWd1FYeEZMdDdCMTFObDhUR2hxN1VyVm9hOGwxd0kxZWYxTW56T0gzMnAyVkdrYldrZkFpZEJqeHU5OEFXd2xtX2EzQXBLaHJ1LWZIcTVXVmJWZmN6S2lfeUHSAeoBQVVfeXFMTUdhcGE1aGhocUFpZHJTVEFwRWR0TlR4UHh2akxiNFBNM2V0Skh1VDFneEpuTWNqS0lNczNUajk0VEduQ2FjdVB4cjJ3NzZuRzhFbkpFemVtWS1qQTNmazFmR1BFV1Uwd2tSc3d6ak5ZTEpxYjVVa2FkM210S3psVlloRnNrYzMzdWM0eXZnRVA5ZFlqUkk4WndMVGhiWXlOV3pvUTFYYWRoS2hTa1JaWXFXSGIzX2NWVG9Sblk0ZVpHd21qUlhDMWMzcGQyZDNHMUVTd0haMmUwZnVYU1lNNDFYOS03dkpROG1R?oc=5",
+   "data": "2026-11-23T02:31:51.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "r9cddq",
    "titulo": "Loja temporária de Travis Scott e Nike vira cofre de GTA VI",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMldObkRwdUw2cWlYbTF0UlJOWjFKc1Bpam1HN2RDcjRXTmdtVGhraUo5VTRRd011U1p1c0lQSzZhVFV4NEZ4anhkakpZMHBDd216dFlHUUxlWnd5RG5aSjluLS1GeTUwR2dhd1liOXRtdGdOQ29wRVQ1aS1GZzZ1bA?oc=5",
+   "data": "2026-11-23T02:29:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4c9wgq",
+   "titulo": "Travis Scott e Nike abrem cofre de banco inspirado em GTA VI",
    "fonte": "Live MKT News",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMldObkRwdUw2cWlYbTF0UlJOWjFKc1Bpam1HN2RDcjRXTmdtVGhraUo5VTRRd011U1p1c0lQSzZhVFV4NEZ4anhkakpZMHBDd216dFlHUUxlWnd5RG5aSjluLS1GeTUwR2dhd1liOXRtdGdOQ29wRVQ1aS1GZzZ1bA?oc=5",
    "data": "2026-11-23T02:29:02.000Z",
@@ -1815,30 +1831,6 @@
    "fonte": "ACidade ON",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXRhdlRPMTJHOVRlZXlZai11T3B2VnlaejlrSFEtejBicjVWTURiODhLNG1URDU1YlQzLXppSHlQQUs5OXJzelkxdXQtUnh6UC1QTnFrWk5JRG9ZQ3E3MlEyOHY2RWdXTEhUTVkxMHExUFlHS1M3bXVYUHZmTWs3WnhINDZBcEZVeGFueE5MbTRvT3JpTkFiMDdwdGxIbzlwbW5yVXRKOEMwQnFMakNpN0lkRndpcGNOdEhZMDNFbjU0YnQwekNEVTB3?oc=5",
    "data": "2026-11-21T19:12:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8n10o2",
-   "titulo": "Banco do Brasil nega invasão, mas alerta clientes sobre vazamento de dados",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbkRBd3RtWC1YeERzWWFXMzljbXJldE1XdllvcXZzd0dlakpnb3ZOaVItd2xvU29WTUN0MXQxcDBxLTFVdUR1X0NuYUZiT1RiSDl2aXFvSHFnVmJwbUNhRDhjbTh6Ty0zdFNQc19RdTJidl9ZSkdRVllnbm02dnRHQlgwaXY0THRvbW15ZFR3UTVZQjdtZ0pEMUZvZF82TGt2N3RrLTRJX1BJYjMzMGMwU2Zqc2VXT1RXb2Q1T05zeVIwOXh4YVhxb2hXUk04dw?oc=5",
-   "data": "2026-11-21T19:11:52.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jfynax",
-   "titulo": "'GTA VI' é monumental, e alguns já o consideram o melhor jogo de todos os tempos. Um jogo de 1998 que acaba de causar espanto",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMWtYYUZ6UWRMRVJVVVhCWjRBckl1OXlsdnhKTmpvdHFMMVFfbzBkSDFBUTZyQkdOc3ZHbk0yYUZPR0p1SVgzby03ODFGcW1wTGlZTVBoZVdoWXFJMjhrNmQtaGNYRGVkTVN4NFZwWnAzYVRfMFJkaTJRWERBTnp5S1J4ZnU3VGJoRkZzODZlV1pUa3c1MnY1eW5iaUxLc3A5Zk1JZUM4c0xXUDJCbVROV0MyS0JybDQ5cTdBUDNrbWtnNDF2RTBwc2dnQXJnS2h3bTh2T0ZmWm9mMm5Sb2Y4SjFTWi14TU91MGlmS2pqOU0zLWpaRUo5Tm9mb1Bxb3pzZ1ctZjk5LUFpRXQ2b3N5TlBLbl96UXdhMDFiekRqSUxncWM?oc=5",
-   "data": "2026-11-21T19:09:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
