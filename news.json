@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T20:30:26.533Z",
+ "atualizado": "2026-11-23T21:00:29.122Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -411,6 +411,18 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ak6y3h",
+   "titulo": "CVM suspende BRB: BSLI3 e BSLI4 deixam a B3",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmZJLUgxc3cwUUJwMGdnZkhteUh4c25hbHJfM3FmUmdCckNPNzViUm5LaFA4eF9TbjJKc005dTJ6OTNNV1JUOFVXc3dRQ3ROV2ZSVzBDR29DbGY1MUdSeW5Jek5FZGNvbTJZNkxTbUwwZkg1YW9iOGpsalhndDI2TTRhRG5VUldrV0NpdWpSaXVScHM?oc=5",
+   "data": "2026-11-23T18:05:54.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 6,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1826,18 +1838,6 @@
    "fonte": "Conexão POP",
    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQel82UFFDZkNIZ1oybHBjdHZBTkZRV0xsNU5WYmhuemRxM2dQUVE0RjBsUUotb0I4ZGlfaTZzdE5PelVJU0FTNnlPblNETWJyYXNPWWlIaVR2LUN3NVI5TC1WY3FVR2x2bVk4WFdFNkRXQ01IUlRmMFg2cjI2RUlETUpDTzhFS3plNXoySVVsMk82RUE?oc=5",
    "data": "2026-11-23T13:09:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1weq5tn",
-   "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVR4Wkx0YUpxSUxSWERjS0NyUkhxbDRZYWk4SWtSYjBwVjgtZ3NpaGdMaFJ1ajFQeFJzR01ST1JWM21WZUJqd2lBamJGWHJ1N0NjZU1GaEFBRVlqVEtZR3Z6SHJRRnRVeU9yQXYtVEpEQzZSRG5kOGRraVZJZ3hOWk9NYmFNXzZjdjF1RUliM3NTT0w3Qmt4bURPZVQ5LWZDbU9DVEsxdU44alhMa0hTTlVVenR1WWF4VUI5OGpyTkc?oc=5",
-   "data": "2026-11-23T13:09:48.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
