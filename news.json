@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T02:00:29.646Z",
+ "atualizado": "2026-11-23T02:30:32.268Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,18 @@
  ],
  "itens": [
   {
+   "id": "r9cddq",
+   "titulo": "Loja temporária de Travis Scott e Nike vira cofre de GTA VI",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMldObkRwdUw2cWlYbTF0UlJOWjFKc1Bpam1HN2RDcjRXTmdtVGhraUo5VTRRd011U1p1c0lQSzZhVFV4NEZ4anhkakpZMHBDd216dFlHUUxlWnd5RG5aSjluLS1GeTUwR2dhd1liOXRtdGdOQ29wRVQ1aS1GZzZ1bA?oc=5",
+   "data": "2026-11-23T02:29:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "9cyyw2",
    "titulo": "Notable Capital aposta pesado na Anthropic antes do IPO",
    "fonte": "Boa Informação",
@@ -59,6 +71,18 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1978ul8",
+   "titulo": "Quais são os riscos “catastróficos” da inteligência artificial apontados pela empresa que pode fazer maior prospecto para a abertura de capital do mundo",
+   "fonte": "Jornal O Sul",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNZ0VYZ3BBT2Z0VUpKM3JsODgtZ1RTYU9mSC13WUhvRXhNaFhnM0xmckN4U2R3S1FibjlXd19JcXZDMFBCZEg5dXdNd09xeFNrbHk4RU5SNHpXQnpCMnlrelpEZW9FajVEX0xWaF96bWxxbk5WLUt3NlJoRjVEWnpkbFFrZVFUajYtT3dUODQ4MV85TElJQmhBa2JHam9kYWJuOC1HUlpkTWdPaEV3TFE1QmFlZk9SUHNQMzNHX1A3ZUxBRi1SZzZtZlhSZE1oOXltYW14cUFUSEpJY1E5UDJRSkdWNFl1TjVzNm8tOXBhRERxRVBBNkJSVDdOLVlHQmE4bTRiQWVYeWgybGfSAYsCQVVfeXFMTWdFWGdwQU9mdFVKSjNybDg4LWdUU2FPZkgtd1lIb0V4TWhYZzNMZnJDeFNkd0tRYm45V3dfSXF2QzBQQmRIOXV3TXdPcXhTa2x5OEVOUjR6V0J6QjJ5a3paRGVvRWo1RF9MVmhfem1scW5OVi1LdzZSaEY1RFp6ZGxRa2VRVGo2LU93VDg0ODFfOUxJSUJoQWtiR2pvZGFibjgtR1JaZE1nT2hFd0xRNUJhZWZPUlBzUDMzR19QN2VMQUYtUmc2bWZYUmRNaDl5bWFteHFBVEhKSWNROVAyUUpHVjRZdU41czZvLTlwYUREcUVQQTZCUlQ3Ti1ZR0JhOG00YkFlWHloMmxn?oc=5",
+   "data": "2026-11-23T00:56:38.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1818,30 +1842,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ptr0fq",
-   "titulo": "Homem que comprou PS5 para jogar GTA VI e perdeu console após raio atingir casa ganha dois videogames novos",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVFJGUmJOM1B2bmF5TGFDVVNvSDhoSWNnbWoxakg3T1VxTGkzSFZ6RzRfYmpwQXNkV0VPLWdjM2JtV2ZsQWpfNnlsNzd1WmtQQktGVHY5WDVXb0R0Snp0NFFsdU55Nm1Oa01pS2wzaWdlMk1IOGxndmtZTzAzc19oMk1wQTAxOTR4aFZfTl82b0dMUzNZWDc5X0pYVE9Bekxld2p6MzRwQlVMN1NndDJOMmpDVE9nUTMtS2RqY2hWSGZ5cVlzNERpLVFCbm1NY1FkWUxEVHE3a0lZNGI4QmhDOWg0QXBnYVdFUkVpNU5fYUkxV3VIcFU4dklGYmt5REdlSlR30gGSAkFVX3lxTE1jOXZNaW9QN21Zc0FQaVFmdXhObC13Z3BvRmV0WktQM3NCVVM2ejVta2N3Q1c2VHd6dUNhdnp2cXNaZzZVM0RjTk95NXpZa083OC1Oall3N1ByUy1rc1p2b3I1U2hhOVFld3k1NWpQMXFMaTV5SUlNU2VQODhwZHNCTmlTNTVWVnhNdmhTNFJ6NGNYUUN0aTY3bHMyYWtJcEZwR3g3V2RnZ3o5M3E0WWMzYk9Ta0VPYVh6WnN3U3JRTzVwdGEwT09vTENWc09OVDg4UVp2Y19iNHVzbGt4djJwTVJENTdrMnFQdV9tYlNfcVpwQjYyM0htYVhyVkdmLWNXMHdLQ1JsRm9LenU3N09nV2c?oc=5",
-   "data": "2026-11-21T19:02:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pat748",
-   "titulo": "GTA VI arrecadou US$ 3,79 bilhões em suas primeiras 24 horas, e as ações da Take-Two reverteram a tendência e voltaram a subir em meio a uma forte queda no setor de tecnologia.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdkNZRlRvSmQyMjVhN0N3N0R2M3pZTjJJaXdURGh6MGhCWGV1UXVrUkdlSXprZUJTQjdMLUhHazNtV09qN3FfUFU2MjRUNjFfUTZ1a1hNWUxfdEdtR1VQZzBjMlRpSk9BaVdkVmFkQUN0SzBQWFhLTmJ5VzJId0NqU2xxZWJidTl5ZmswRGFNbWZ4Q0RmU0ZqOUhmb20tZUh1OVZudE05V21OME5DV3dtNVIyNDAtZ0hVRzE3RDNfQ3RQU0lqZG14TUNncGlGbVFCQUdvSHUwWDJLQWM?oc=5",
-   "data": "2026-11-21T18:57:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
