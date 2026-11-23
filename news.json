@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T14:29:14.118Z",
+ "atualizado": "2026-11-23T14:30:29.974Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -969,6 +969,18 @@
    "avisado": false
   },
   {
+   "id": "1lagvfh",
+   "titulo": "Ata do Fed e queda da Nvidia penalizam Dow Jones hoje; mercado monitora IPO da Anthropic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUw5bU94UHRkSmdMbUloM2g4Z09jNGoyN2I1NWkxakJTbzQ3UXEyWFVtVW00OWpyTjk3aTZ1b1ZVaVJydjBScHdpVDJNMWNDbnk1cDVwRHdIQkVNSmVSTmJhQnQyeWMzMjkwSUFPT3FrbmVIVUVGQ3lRNmJaRkM0MVdRc0M4RWktTkVXNUdxU3VNQTJsWjEtbGUwNk0xRlVwcVNjYk01RUNjM1Rxc0lGNy1pWThxdmVYZE0xQl9YVUx5VHk5SlRGc3NTenpUM245N1hYQkNwbWpFTllWN05rV2VmUFNfcGxfS04xSXdoMFBKNG5HZHlkQUlR?oc=5",
+   "data": "2026-11-23T11:12:28.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "6m5n8h",
    "titulo": "BofA reitera recomendação de compra para NVIDIA Corporation em meio à investigação da SEC",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -1820,18 +1832,6 @@
    "cat": "Movimento",
    "empresa": "Netflix",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wt1he7",
-   "titulo": "Jason de GTA 6 foi feito para falar baixo e carregar o maior lançamento da Rockstar",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9ZbXZwZG1VbHBqQzR3clpfRFcxLU4ybGNiZlJvSUVwTk1oNW9xeGhPeWZRcXkyT0NsSjJaNE9nMk9HUjh4aUE?oc=5",
-   "data": "2026-11-22T18:10:13.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
