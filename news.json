@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T03:00:28.593Z",
+ "atualizado": "2026-11-23T04:00:29.983Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -60,6 +60,18 @@
    "fonte": "Live MKT News",
    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMldObkRwdUw2cWlYbTF0UlJOWjFKc1Bpam1HN2RDcjRXTmdtVGhraUo5VTRRd011U1p1c0lQSzZhVFV4NEZ4anhkakpZMHBDd216dFlHUUxlWnd5RG5aSjluLS1GeTUwR2dhd1liOXRtdGdOQ29wRVQ1aS1GZzZ1bA?oc=5",
    "data": "2026-11-23T02:29:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kqdj00",
+   "titulo": "GTA VI chega às lojas nesta quinta, depois de dois adiamentos",
+   "fonte": "diariodenoticias.com.br",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZFhMLXhod19NZFhIS3FHZ19KQnN3NVBBd3ZnT05Edzh3Z2FHMk4xcUZycWR6X215YlJ4R0RPaG5KUEZvSG5DdnVSN0VUVnZ2WHItWW1YY0c4VW9PaTE0anllZm9vMUt0M2ZXXzF6LTJnQ2x1V1QzRGRtTnFSMDE1ZXVhMmowaGxhMGl4VzRVZUx2Sk94SEYw?oc=5",
+   "data": "2026-11-23T02:15:27.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -139,6 +151,18 @@
    "avisado": false
   },
   {
+   "id": "ojx98b",
+   "titulo": "GTA VI é vítima de um enorme review bombing no Metacritic",
+   "fonte": "Instant Gaming News",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdTdwT095SHhuRlpDR1ZiV0xCSExQSkhUbG5wSzFfb3FuS0dpVEQyMmRUeWFNcmVNSnFSR3ByY0ZnQnM5STBVQ21XdHBUSi11TVBwT0dNdU5VUjdHdXptQm1SVWhIUXMwR2hEQ3MxTHZ5VXRCcHRjTlBLeV9PbWp0R2x0VzJwSzlZakptRmNUWDZtSDh6NnJfdVo4TTdsVmlWWnFuTHdaTnlqUQ?oc=5",
+   "data": "2026-11-22T23:06:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1t6jmyw",
    "titulo": "Ações da AMD Despencam 15% Após Relatório Acusar Violação de Sanções à China com Firmware AGESA",
    "fonte": "Seletronic",
@@ -195,6 +219,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16r0hc6",
+   "titulo": "Banco do Brasil alerta clientes sobre vazamento de dados pessoais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQkJHWEFwVHpZMkNxSUV4R1BMLWlnd0UtWHlPLW05NnBjdjlXdVRld09Fa2lLVUdqYXBvY0Q1dFpmekhhM3FjNTczekhkZWRWdktCbTF3TG51Rk5jdUxuNG84VktGaElRdGhHZGlyZHZNQVRmd3FnWURCaDliYUkyQ1o2enBUMVhSdVk0cUxUTncyVTRONUFaY3puZUtiS3VjOFdpUHhMcGwyZkt6YTFHSzFmeWc?oc=5",
+   "data": "2026-11-22T20:59:59.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1798,42 +1834,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7zkii4",
-   "titulo": "GTA 6 soma US$ 3,79 bilhões em vendas no 1º dia e 32,5 milhões de pré-vendas",
-   "fonte": "Diario de Pernambuco",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOV3RtZ3NwMG5zVVlfVDR3ekVxTlF3aEhzM29UYnhqQm85SlJZb3J0RGRjRC1VcTRXanZieWlMenNTeF9wR293cWVPRWtYOS1wOVhSOERWalljRlhlV011QW1fUHdNT0JEdmpIU1NiT19WZFBNLTZOV3RvVDl1Qmx6NlJ2MXRYX0tqeVVSNXpnQmpuUVAycE9DczZaVFpKOVBuVEYyZGtDOG43UmI4d0UzdVY1bEJMbE9MbWl3Yjg4UkFWV1g5X1JycG9laU11UzVBRTRjQXpfMTRZRFJ1?oc=5",
-   "data": "2026-11-21T20:04:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12zkcqt",
-   "titulo": "SEC investiga possíveis irregularidades contábeis na Nvidia",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTUk2LTRUYS1pdzg2V3ZQTlN3TWptbWRtdVhBZnM5bFFlMWY4LWdZbEk2YTVyV3BoNTZwaGplNTJlRWdhczR6a3RpM2NyXzRub0RYdGlyN2lXWlhoR2xycWdtN2h6R2NOU3VpcnYwcFhMTW44dFdzVDVtVmQzR2Jod0YyWVpveFF6dEFUMUVBZklVTXdrbXFVR1Z3?oc=5",
-   "data": "2026-11-21T20:00:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dbun2h",
-   "titulo": "GTA VI | confira 10 easter eggs e referências escondidas no novo jogo da franquia",
-   "fonte": "ACidade ON",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQdXRhdlRPMTJHOVRlZXlZai11T3B2VnlaejlrSFEtejBicjVWTURiODhLNG1URDU1YlQzLXppSHlQQUs5OXJzelkxdXQtUnh6UC1QTnFrWk5JRG9ZQ3E3MlEyOHY2RWdXTEhUTVkxMHExUFlHS1M3bXVYUHZmTWs3WnhINDZBcEZVeGFueE5MbTRvT3JpTkFiMDdwdGxIbzlwbW5yVXRKOEMwQnFMakNpN0lkRndpcGNOdEhZMDNFbjU0YnQwekNEVTB3?oc=5",
-   "data": "2026-11-21T19:12:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
