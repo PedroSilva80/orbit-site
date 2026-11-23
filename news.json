@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T12:30:28.322Z",
+ "atualizado": "2026-11-23T13:00:30.619Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1qg7a7a",
+   "titulo": "CrowdStrike reverte prejuízo, supera projeções e anuncia para compra de empresa",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUWZuQzdzSFNYa2cyQXFzUW9yaldoSDlRS2V2UXE4TGt6VDgtYVoxZk05cUU0b0VVNlVXRmJWb2JRMUtSSXpBTkdUTklQZmR3OElOUjZGa0VQNk5JZTR0Y1J6clp2SkJseHF1dGhpRzlmN2dRLU5sMDREX2NQMW5tdUNUU0tqeGZPUzEyTDhNRl9iUFlUU3VCVi14cWs5ejBGVXRHeFVFYzNERFNCMnNpb0J0NHBYTmFZ0gG-AUFVX3lxTFBLSUQ0MHJNdk1TeG1wcWtUVVByQXRia0JSb0JmRUtyNWx1RHVsQlBhLXFLS1FBeWhhMWhFZkhLMmgwYnVWRTVlRGtSQ1p0ZGx6WG4xbEZHR2phSkZVeU5uUnItd3dwaEFNOUE5NXNPN2JwR0tKa0tyMmFveFhmcXZJc1hrT2QyUWh3VHJHTFU1eVQ3YVdNRmtyMHhvOFZtSWs0WUV6R1ZYWFNYcF9QYVg1LU15VlF5Y3h5OENBR0E?oc=5",
+   "data": "2026-11-23T12:40:02.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13u3a2f",
+   "titulo": "Rockstar alega que GTA 6 ficou sem minigame de dardos por “falta de orçamento”",
+   "fonte": "Portal do Nerd",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1pZlY4LUxIVFk5NnhPYklReXpkYWUtMk1MR0U5R2JvUUlHRzFjNXNCclhlcXZ6aG1SS293QVJwcFl2X0NqMUpxMWpTS0dBUlRlLWM1bHhVUnpkcDBuMm9NdFpZS291ZXB0c0lOcmVDU3I1U1RucEpNRzV3?oc=5",
+   "data": "2026-11-23T12:36:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5o21vt",
+   "titulo": "Amante tinha contato com funcionário da inteligência chinesa durante relacionamento com ex-CEO da Nvidia, diz jornal",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQRlFpeExSM25hVGlkU1cwOTMxdlFQbGxEYlVrMDQ1aldLUGJDZG5kMWVwUndIRHN1d3JWS2F6TUdQZE1NRTluLUdJbGxhQUppdUtOYWt6WVQ2V0I2OElIdkZPcXlDZU1TZERVeXc4QnBHTGVPbkZkODc4SWZJLTB6eTRxcUlGakxhOXpCMmd4TEhDQWJmZkFwRl8tYmdTRF9JLVMxNVdkeXJFUVlINXJZNGVZV3BWMTZMRXIwWVlRM0FmVVY3RDZnR0pBU3NSVmY3QUtLc3Y3V3QwSEY0VEFFYXBxM2E5OGJ6VmY1QVp4RFUxOGFPbnJJai1sTW53TnZWalQzQlZ4NDdCSWh4Z1B4REw3a9IBogJBVV95cUxQdjFpZHNrZmFqYUpicV9XREhUcFFwMkdNMFVMdi00YlZTbXd0Tl91Y2JZcVRPalZoS1FJc0U2dXJIVlcwcVpqSUJvU2kzRk9CWW5USGlMLXNkNDNRS0dLazhnY3pacFNLYU1YY0ZkM0tBZzdLSnE2cU5YaERjQWpEYi1KeGJjSDRnVl80Z3FJQTFiOG9VMjFnQnNMQWcyY2dNaXk5OGtDUHMtcENiTmgta25TMEsyVGNZbFRUeVY2TEVIUGtLeEE4M2JRQ0owWFpBTUNkUS1DbWpyeWd1RThZclE4Nk1Yb1lMZmNCZDhUUkxvQVFybjFqQXhIZnJyV0JXMHZQcHdMUWtKN3BzNWdnSkxNbE8xT015bUh1eHpCN3ZUQQ?oc=5",
+   "data": "2026-11-23T12:36:15.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10dzspb",
+   "titulo": "GTA VI ganha Nike Air Force 1",
+   "fonte": "EP Grupo",
+   "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBMSEJicjZkYnRxcHJJRGhkUnZNRGlsMzA2Nk9YcGtRNjF5TmFuSUd6R1NSa29yMXY4cjBwZENsYmJ4Vk5LeEdfOUFjQzF4WGNuTV9pVG41Q0YtdTdqakRWZ2tybw?oc=5",
+   "data": "2026-11-23T12:33:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "r44sig",
+   "titulo": "Juros de 13% e inflação acima da meta: economistas alertam para risco fiscal no Brasil em 2027",
+   "fonte": "www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZkdxQ0FtZHhsUUZnc0tnTVNaVkpIS0F6YTNUVkJyeEU3d1NIUUU1b2dDcEc0S3J3V1ZqbWlFUGtrS1Y2bGFuckIzQ1FFNjdmVTlBZDRFbXpNYUt6bFIzbmRmZnZ4Q0xTMTBQQXZybWdlR0NPZ1o1Z1FHS0k2WjZnemNiSFhqdUZmeDZBSEVPUVZkUWgxazdPZzJ1N2pfblA3cDhiTU5FRG14VHlUZ0ZnSEpndmo1MVlrVFlwR3pOaXFpYlBoaDdZYzBwVFk2QU1ZOVVN?oc=5",
+   "data": "2026-11-23T12:26:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "13qfxty",
    "titulo": "Investigação da Nvidia na Califórnia: o que mudou",
@@ -414,7 +474,8 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795438830619
   },
   {
    "id": "1vj9mbz",
@@ -1774,67 +1835,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ob1zpy",
-   "titulo": "GTA VI expõe desafio: tecnologia avançada leva a videogames mais caros",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSXRHZlF2NFZGOU1XOTNfdTN6NTBPcmFRblgzY1BadUljMXNGNkl2UnRzVl9vZk9naDloOWNxR3poYVNBVkZjQVpqeUxpbmNVbHBCR295djlwUGpMRmVNWTNya1dyNHJqTlR3SFJkZUp1UnRhVzJzWjRGV0VsMHFZQmpHbHJEWkpUelQxTFQyQUxrLVRrWFhkYXIwOU9Sbk1ramxWazZSanRzLVlPZVMxVUZPSkJkaTdjTjRJR3lsbVVoT2c?oc=5",
-   "data": "2026-11-22T09:31:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1avowvh",
-   "titulo": "Como GTA 6 roda no Xbox Series X, S, PS5 e PS5 Pro? A Rockstar explica",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSTNMMnB3QW9JblIza0kwem1nS0UycDR5Rmx6SFFCX3VFLXZRTzVpQXM3Z0EzelRFOUw4VEY4SHNjZXBieDhvWXBaaGZnRXhpd0JUaGEyc3JrQ2ZLQ3owcUk4RkZ3VnZrblhnSEotbEtZZDA4NUpNa2ZMbU9mbE9jYW50X19jcFRrQW9aTXAzNEprQmRyTURKTXdjOU5BMHQxTFVrZUxXckFBdVBkcWJuVkpaWU5Va1I3X1E?oc=5",
-   "data": "2026-11-22T09:29:36.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17cm7l0",
-   "titulo": "Nvidia dobra lucro e projeta vendas recordes após escândalo envolvendo Jensen",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNNURTWms1aXBPcWlHZGt6T0RJY1NEb2hXUlA5eWdXVk5xOEdpdFdSUG42X1BZRzNsNEFrWm93Qm03ZDFrT2h1UXVwY2VickRxeWl4XzBOU1JGRnN4Y3dzTU9oRV9VUVIyLU1wUXJGZUxNeXNZTGxqQXVGUUxCNUdwX0dFbXJtWC1BeUxZRWlRUGNtZjUyajJhS3BmVEZpTkV5OEVIQ2U1ZGhoMzNXVG5rcUFaWk1CYk9KRlViZ3JGX0gtM1NLWldZdUFuZlE0OTN5N1BQT2ZHSC0zaVVONXByeERTdnJwWEcteEVIOTdWZDZobTZCYkVWQV9R?oc=5",
-   "data": "2026-11-22T09:14:10.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "77t5me",
-   "titulo": "Anthropic IPO: estreia na Nasdaq e o que muda para devs",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONktIbzBXa29sVktkTUZFaEl5cnJKLXA4Yk5tSDZYdnQtVERxbW9ncDFUU08wYW5YcHliZWRnTmRxZldJeUwwQkROVlVQZjY0MFk3OUVlOXp4TDFJQ0xIbEd5YXBFbEtFZ1ROR2M0S0NSVzBoWDFiYjBJR1ZBSXlQVEpBRDBHdjJqUEVWRUdaSQ?oc=5",
-   "data": "2026-11-22T09:06:15.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795341630768
-  },
-  {
-   "id": "ga3vh2",
-   "titulo": "Glitch libera GTA 6 a 60fps no Xbox Series X e desafia estratégia da Rockstar",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4ySjN2cTZWbjN1MnlpS1JxQjEwSkVQaXJtNUhxa0NCTVVkLUhOaEdBWW5IX3ZIN1dYUXVrZVdGNUp2RUFjTEludkF4LUkwYU5aQXR2RmIzUWNDaVB4WXdWNDdZZUY4bExSN2tidg?oc=5",
-   "data": "2026-11-22T08:29:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
