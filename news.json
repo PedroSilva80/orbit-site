@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T10:30:26.427Z",
+ "atualizado": "2026-11-23T11:00:31.567Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "tp1gcx",
+   "titulo": "Com nota 99 e US$ 3,79 bi, GTA VI chega ao TGA como favorito ao Jogo do Ano",
+   "fonte": "Espaço do Povo",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1YZnl0WEVNV2prTEVvR3dPMmVaLUxtYk9ua0EtVWJucmNhTUNaVUNTVlRGdHdNY21kQW5ycEFzY2hpQ3I4T2FpY1Z6ZnpaN1Y3a3F5TWNpZzd1Z1NDTVVpS2FZOTRTallsQ0hWQkhBWmNSYkYydl9fUmxuRTdIdw?oc=5",
+   "data": "2026-11-23T10:13:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tn1v87",
    "titulo": "Ajuste fiscal mexe com bolsa enquanto semana é mais curta lá fora; Ibovespa em dólar salta nesta segunda-feira (23)",
@@ -64,6 +76,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1a3x71h",
+   "titulo": "Lançamento de GTA VI: US$ 3,79 bi no 1º dia e ativações de marca",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0WDl2NWhMQjR4cVNQZkhJTS10ME95U3FoWDdhb1NmWFpSQks3WlZxZmVsNF9uZ2JNejZRNlNFU1lRRGowSXhMbHZOVGk3Rk1ObzE0QjZfeVZlZFl1SlZ6MDZ5TVgtZWRjNUNRSTJ1NmNiVnA0QTBn?oc=5",
+   "data": "2026-11-23T09:20:29.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1809,30 +1833,6 @@
    "data": "2026-11-22T03:10:17.000Z",
    "cat": "Movimento",
    "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1f56ap0",
-   "titulo": "Pafos FC lança camisa com inspiração em GTA VI",
-   "fonte": "Mantos do Futebol",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9qeV9KLV80RV9JVUtoblZPck9iMG40WUYwM1dZNDRDMGdhZ1ZudWRfeTBKQ3VJTDJJaWp3OVRfNHlGZXQySWhkWXA4S1VmLUotMmhibWtrRjQ5VmJUOGtNM1dnNmRtSDFHaS1KdDFkc2NDNnlZZFZKZDBKbUUtUQ?oc=5",
-   "data": "2026-11-22T02:20:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "75y126",
-   "titulo": "GTA 6 trava no PS5 com o erro CE-108255-1, deixando os jogadores entre o suporte da Sony e o da Rockstar",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYndHMEZOMHF1WG1aNEg0UVpUSkdCWVhCMFNhb3lJaF9lMFY1SV9lNENhYURUVHRhUU42NWloNktQajVUeHotWVBPNzlMSmRzMjAxazI0OVZQUnQ2eWl2Z1o4N0YyMjJIOEViUUVPa2lMSkc2dldxVlVDQW45RElKSU1Uc0ZyczRTaEJhTnJBWnJ2b1lITXhkQVVtRENzLV9aWDRsOEl4NDlEVVl4bWhYdWN0WS1JY0RaX2E5dk1oWmM1dF9oZUphWlVqR1BxWHR4SUp3STkwdjN0MWtmNjRDNnFVdw?oc=5",
-   "data": "2026-11-22T01:12:35.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
