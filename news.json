@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T06:30:26.288Z",
+ "atualizado": "2026-11-23T07:00:30.920Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "3fqrq6",
+   "titulo": "GTA 6 quebra recordes com US$ 3,79 bilhões em vendas no primeiro dia, superando de longe as projeções iniciais",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcWFfSDFNd2VlTHl3Q1l5WGVSRjZSbHdtNGR5NkFHaFYyeTRSQ0ZqM0R4V3p6V3owaGVFYm1tMEVTeGlJaHBiNUxweEFzU0UwNXJadzlVN3AxZ24wT3NJWXpXajZJN29MMVh4NEJxSDl3QzV0VWRPTmdjQXJZZHc0andkS1BabDRsV1Y0c2dFM251Qy1vc1dIak5pemVWZ2N4OUgxNE52ZWdNbUI2RGcyUHlJLVpVenNfZzFBTTdzUC16WWx6R19mOGIxR0VfbGE3djJDeWozdHlTS25kLTFLckZuNkxlMnFFeVE?oc=5",
+   "data": "2026-11-23T06:27:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "wfwa2r",
    "titulo": "Petrobras ganha importância estratégica com recorde das exportações globais de petróleo apesar do bloqueio de Ormuz",
@@ -1821,18 +1833,6 @@
    "cat": "Lançamento",
    "empresa": "Disney",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qnm1dv",
-   "titulo": "GTA VI vende 24 milhões de cópias e fatura US$ 2,36 bilhões no dia do lançamento",
-   "fonte": "www.radio96fmns.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTFlaNDBkVlNianNIQUxMVDVHMUt3bWR0dVNCOWNEMDJnZy1SU0JmQlNLYUFhRDdaMUdFRmdyNjNIcEpaNUpvc29sM1A4QWJ4T3dqTk0wN3lxbFVLdU9qRVZUY3FlZ0ZqUENLUTFaSUl2NWd1MFNoeUhWWFBpM3VtZHNHYzRGbzB2N2pHVVAyQ3hnbmxPYUF4czZSZ3Y1M1JfSVcyOF9Bc3RZeG9ETzZueE5OZ2d5a2UzTm1MQzRqQmtnc3c?oc=5",
-   "data": "2026-11-21T20:55:21.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
