@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T11:00:31.567Z",
+ "atualizado": "2026-11-23T11:30:32.394Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,79 @@
   }
  ],
  "itens": [
+  {
+   "id": "bd4v06",
+   "titulo": "Raymond James reitera recomendação de compra forte para Take-Two após vendas do GTA VI",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXdidUVSNjJTSkVEM04zOUtFMTNMQ084c1BfWWRzbHJPUFBCNVpxVi1CTmlMNWs1MkNXVjA1a2ljRE9jRzN5bWNFZGQxdjRYMmxCZG1BYlJMZ1ZjM3Z5cWlVdjJLUU94OHA0MlBGY1BxVVZwLVRLN09PbXYtY2pWdjZDVnozbmlDUjRpNTFqREN0MU1PQXZ6Y1J4YUc0TEVSSDVhWWVNRTNmalZYMktQY0pnS3FqWkgzTTVTTVR0Q2pQT2w5bDk3S043OVR1Z0MxYjBtUlozRHZDU1B4?oc=5",
+   "data": "2026-11-23T11:20:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "m1k8ct",
+   "titulo": "GTA 6: Rockstar explica por que Jason é tão calado e “pau mandado” no jogo",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJjUDRLR1dTdkpPYU4yR09seVRpYVZfODJId0pRUXdvM3pyLVM3QThaakVTWHVYS2ViZVZVTUY5T2lDazhVSnUweTZCSVM1ckZTLXc1Rl9kTmVMUWtaU3pGeVkwYjJ1SWdWNlhyYUpXQU5KRHc4dTk2WVhmd3hhRGt2b19WR1U1OFo4UllKRm9CRjkwaFVlRlN3WVVvN3ZWdnMzeUZTaHJONkg5SGtBSQ?oc=5",
+   "data": "2026-11-23T11:19:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6m5n8h",
+   "titulo": "BofA reitera recomendação de compra para NVIDIA Corporation em meio à investigação da SEC",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxObHhLOUoyN0NzZmozZjJkaWMtQXA2TnU0dVFyclVZbC1taHdJMXpXMGU1RUNjWG9yT0Z3cmlTb2ZvYTNvN0JpV3k3OTBnRDBPQjdLZjJJT0pnMUxnXzdRSFdWaHYxS2NCa0VqZTFDTjJZVkZYVnhTbXdGUXJBcHJENFNaUThXckI5YVRWcnE4SnJrWExIT1M1MmVpTDNUeHRnT0dCYzJxVVYxeXg4N1dKeExRenRFTWJ5NGJGZWJ0UHFpRXEwalB6LXRReDBsdE1KUm1WUnhNVkd5bk1XTHQ1OXhn?oc=5",
+   "data": "2026-11-23T11:07:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "130vry3",
+   "titulo": "Produtores veteranos rendem-se ao feito técnico de GTA 6 e admitem não saber como a Rockstar o conseguiu",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUENqV3luVFpVRWtQdEx1QVNDaUkyajBiZEZDODBmcUxhRndiT29UMnRWcmdMY0hKeDMteVNnMjVkZkluUk9jdFJHS2htREJEQWYzdHV3cU0xSXlWYW52X1Y2LXNjbm9GUGtLa3ZfUXlTOWxLV0NSUzF3VXFKOVZodElEb3FjN1dncVdsWlhvMXFRa3NndDEzWkNheW1JY0dyYWpkUEtvc1lTVnF5TXZxRzl1TllXeS1UcnJKd2NMdlFxTjh4a2ZmMFJIcmF3Ums4TnRDY0NEako5ZUZDSzZN?oc=5",
+   "data": "2026-11-23T11:06:55.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "764hlz",
+   "titulo": "Suzano, jogado na lama, assume identidade e entra no hall dos caloteiros",
+   "fonte": "O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNR1NmMmE5SVRqM2ZDMjA1MXlKY20xMWZfdTR4UnlnVUJXRUhYMXAyY2RCbGRnazI2VG9WdlF4MEtpNklIVkhSelVJUS1kbVpGR0d2dGNVZ3VkbE9jbVlkdENScWtXVF9JUDVtVG93RHpkTENNaWluNm9vNmdpeFN2OXJDZWFKclQ1Njl3aF9DcTF0M3VSenJqb29uZHR3R0JKdW4yWkdmdWJTWlBPekdBTU9ZaFJzU0lyWTBLcUdLR1dkYjVoVjBR?oc=5",
+   "data": "2026-11-23T10:50:04.000Z",
+   "cat": "Risco grave",
+   "empresa": "Suzano",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795433432394
+  },
+  {
+   "id": "5b4t9b",
+   "titulo": "Wells Fargo reitera classificação da Take-Two com base nas fortes vendas de GTA 6",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNjFnbWUycTBsemI0NHhvRzVYOWROclNycWJOSUtnRTlOTnNtSzRCbm1GZG1xT25ITGxBQjhBRzNzY2lCSjRHNmNOUEdUX2Vjak9BY3YzX1Y3Y0QzbHAtRVl0Q2xuTGFQM2gxa0dCd1NoQ0xUUmx0Y3BvaWZFT0hYWHBwOFYwMFNXNzFiTzEwUGpNQ0dZOUd6cUF3ek9RcXh1cG1uZTkzbFdZLWxIYlRsbi1ZdlFEbnUwaHJSZnlKZnZ6Q2MzLXo0RXIxMDJvcVdvb0hJSFZn?oc=5",
+   "data": "2026-11-23T10:50:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tp1gcx",
    "titulo": "Com nota 99 e US$ 3,79 bi, GTA VI chega ao TGA como favorito ao Jogo do Ano",
@@ -1761,78 +1834,6 @@
    "data": "2026-11-22T04:28:30.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13bs66j",
-   "titulo": "O presidente dos EUA chamou o ex-CEO da Nvidia de \"gênio raro\".",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcFIwdVVOemU0aGhBcUxoelUzQVZpd2o4bGhmekxZblJ6SEFLTWg0X0M3eFlUMzNuTmRZZnVIVlRzRUU2NUpqekRqYU00VFVFZUVpYktPQi1tSTFGSEVKZ3psRU1tY3NVTjhBdnVDblNIN2Z4SFJVTlI2S0lYaWFlYTVZQlRVcFE?oc=5",
-   "data": "2026-11-22T03:47:08.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mrlu9k",
-   "titulo": "IPO da Anthropic, plano para era pós-quântica e mais – resumo semanal",
-   "fonte": "Bitcoin News",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONXlYN2VxZFFFdEhFaWZVWm5ObXZBMGxwSmg1QVpqcnRvNi1SZ2Q0alVFRjBjZXBLdTQ5bm9JVGFIU0lWRWZEX3N5a0JfQUZOWmpTZDd4dmxZdXl6V1dKa0N0ZjlEYXdFLU5EazZVRW53YWttbmpfN2pyelpnQ1JYNWJpdmpBemlWLXlIY2xhbC1aXy1Kc2Rqb3Myc2ZUOXMwRDNMX1lUUQ?oc=5",
-   "data": "2026-11-22T03:40:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "eyzjp8",
-   "titulo": "O sucesso de bilheteria GTA VI arrecadou quase US$ 4 bilhões em seu primeiro dia.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QOUc5c29OQzFEeURQSWFYUUJwVlp3d3BMaXZaRFc1azlIaVNVdXRnRUpxQnFCcW8xS1d3QzJEck1McWxydUdTQ1RNanVsd1d6Q01EdlFNR3czS3duUnpWQy1oeUZfOTR2S2duWm0wa2tTaGZCdDFxU0g0bzY2Zw?oc=5",
-   "data": "2026-11-22T03:38:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17bwzih",
-   "titulo": "Anthropic: abertura de capital da empresa acontece nesta semana",
-   "fonte": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQkxXQ3JXNl9nc0ROcTRPT1htblBvSGkxN29qMjk0SXh0U1F1SHJxclZ6MmNxblhSUFR1TkRVak9yd3NNVU1yTDMzNGpRanNoUmFjOFFmRENteHAzczgtVkh4Qmt5N0pYRHhlSV9Bb3FHRllVeHF5Tk5Xb3YwOTJCc1V5Mmoxel9ZaUJoSFVXd1BtSnhL?oc=5",
-   "data": "2026-11-22T03:35:31.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cak2o4",
-   "titulo": "Latas de Pißwasser na geladeira: como a Rockstar testou GTA 6 em prateleiras reais sem avisar ninguém",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqR2o1dm9ZZWU5ekxLUS04SktMb2tTQzVGWmxrMFJfa001OHdOUTNPWlUtWjd5NEhQR0tMM2FyRkVsZnM4UE96d1dvM0liTzU2Mm9uXy1vTGJTVGxWY09ONk1vbm5UTk0?oc=5",
-   "data": "2026-11-22T03:28:25.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "q3i0sl",
-   "titulo": "Brasil supera meta de turismo com antecedência e estrangeiros gastam recorde de R$ 45,6 bilhões",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9pNl84NDFkTWE5SnQ0bDh2QmxmOWZsZG1TZ3JKREpVR0dqV2VGU3ViUUFBZFRRV1loQTlRWDFBUkRPT0JKcUE?oc=5",
-   "data": "2026-11-22T03:10:17.000Z",
-   "cat": "Movimento",
-   "empresa": "Meta",
    "score": 6,
    "marco": false,
    "avisado": false
