@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T04:30:26.609Z",
+ "atualizado": "2026-11-23T05:00:30.590Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -532,6 +532,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lagvfh",
+   "titulo": "Ata do Fed e queda da Nvidia penalizam Dow Jones hoje; mercado monitora IPO da Anthropic",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQSUw5bU94UHRkSmdMbUloM2g4Z09jNGoyN2I1NWkxakJTbzQ3UXEyWFVtVW00OWpyTjk3aTZ1b1ZVaVJydjBScHdpVDJNMWNDbnk1cDVwRHdIQkVNSmVSTmJhQnQyeWMzMjkwSUFPT3FrbmVIVUVGQ3lRNmJaRkM0MVdRc0M4RWktTkVXNUdxU3VNQTJsWjEtbGUwNk0xRlVwcVNjYk01RUNjM1Rxc0lGNy1pWThxdmVYZE0xQl9YVUx5VHk5SlRGc3NTenpUM245N1hYQkNwbWpFTllWN05rV2VmUFNfcGxfS04xSXdoMFBKNG5HZHlkQUlR?oc=5",
+   "data": "2026-11-22T16:38:27.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1822,18 +1834,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "p165fn",
-   "titulo": "Guerra das plataformas de streaming está apenas começando, diz co-CEO da Netflix",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTEteHAwd1pWR1QwM2RkNkExZFpLQXY0V1hyV2w3V0ZNVXBZSkQzdV9nV2RtQUNGS3Z6ZmQzVEJTNTJjS05ScnZ4OENJUW9Wb0dOWElBMU9ITTJ0eExKUGdJT3VsdGVILUJkdjJRdTg4VlpGamRMazFfb2w1U0lSbC16Y1ExUzZtemthcE5VUFg0S2lXTVBBclg1OWdzbDBZYmtIdzZXazhrbU5jbVlJamVnUnF6ei1pVXFMQXFZZzBtUVlZSDhDdNIB3AFBVV95cUxORFQ2eWlvWXlpSmh3M204TUVTT3ZXYkRTRGY2MmtYUEx6cnlsdXduWjhqeFdyTU55b29lOWh3b0xldmhYODVqUDktalE4aVFuWXFWMndOWi01aWhQN3JkN1pPU1JoQ1hNRkRxbElsckd1U01tZU9MMWd0X0dxNG4tNERTbjhJUWdkMXVhd3pHX3dmckFxMXlUVFlRQmNnT09LYU8xZmNxb25nZ1VMeWQ5MXhJMzd2MzU3VFFqYUk3RkJVXzV4QnV6Z0xqUHIzTUtJOGlWckJsRGFORXp3?oc=5",
-   "data": "2026-11-21T20:13:05.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
