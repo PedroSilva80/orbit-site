@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T22:00:33.225Z",
+ "atualizado": "2026-11-23T22:30:28.180Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "dg6uei",
+   "titulo": "Petrobras vai pagar R$ 15,6 bilhões em dividendos extraordinários",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUHNYajY2bnFQZFpEazk2UG8tMk12NDFGQnRJc3l0aGotQ0ZqMVJWbWJfTmlpMHpNQTk5MmdXR2Z4QWd2OGFNLVVoSy1sZlI1ZkhyZExzU2tqSDFJOUMyZ3lYUlR4bXNuUk85VmxDRXFsTFdoZVEtVVFUekJ4ZGdvc1ZEMFpzVWtySWh6LV9MYkt4ZWUwejdHQTJYSUxtOU5GSkg3VGZ1ZzRONmJUV3VwVVI0Vnl2X19DdGJuWUtZd9IBzgFBVV95cUxPcU8xRERRaE1DbWhQUWt6c25nWHdTUWFhaDQ1TGYybzcyeW10b3hYYURhbjUtZGljN2xyYlFFYzloaFA2X3ViZ2RvbkJrVHdPRXdmWmlvT091aDVPTnM3VU93dEtqOFpvU0ExZUM0dUt1T2pNQnFGcUlpN0ZOMzFKOUx4NzBfQUlOOVdkYktyY3ppNnk0NWRrd204N0hmZ1FsbDg0VExfYjNFMmxaY1pyQnoxVWVRdzVxU0pqZ3Bsdkt4dlRkVXJaQkU4bkNLdw?oc=5",
+   "data": "2026-11-23T22:18:27.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bixjf5",
+   "titulo": "Banco do Brasil enfrenta novo alerta: corretora recomenda venda e prevê lucro ainda menor em 2027",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcUNwTGJwNTNvRVZTRUxZeXlpc2tMLXg3TGpRNDlLbEdVbDBoeU5GVTJSQUFHVmFEM19xa3BJTW5nREdvdmF2SDRWb0h4NXg0dFNGQmpKOHp6QWtJYUlubTJmcW0za1ZBS2M3V0Zxc1dCaEg3SlB6VWh5T0Vjc1hiTmlIMU1KejZjdmZTVEY3UUI5eVZsT1Z0R2RYaEpEaTl1SUNhNUxDSThzXzZwM0docVFzRlVWUHNEd3hMMEE2TUh3VXNFRnZyX1hGaEtMWGo1X1FaT2hzQlJCMDlYTUVseHFscGYxTnNKandXOEgzWEpUcjZyRVE?oc=5",
+   "data": "2026-11-23T22:07:41.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tfoltn",
+   "titulo": "“GTA VI: The Album” entra para a história do Spotify; entenda",
+   "fonte": "tracklist.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0lVQWZuTDI3d04wSUhUNGZ4SmNWUm95RDZvWWNibERBalg2TTNNZm91aTFwVlVKb3dmdXItdVJZQmp3eVRfYmRUeWtRVHpyOTdYcnMxQTVTaDBuQktjZUVWdmM0clJxdUZxbm5Kd2JPcVlGOWFqazBoaDlxa0w5N1FkSm8xNHR3MjBn?oc=5",
+   "data": "2026-11-23T22:05:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9hm3mi",
+   "titulo": "GTA 6: Rockstar lança álbum deluxe de músicas originais do game",
+   "fonte": "Rolling Stone Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMkttSzJJdjBPQzRmN25UTWRudTZTOGZyZDlzNFZnb2VPaklLby1RRW1rZGJNbUtOSTVscmZORWM2TE5RR19kdGJWQk5MTjUyNUJ3REJiOEF3VWk1RzBnMVlVNkNEQnFYX0JZb3VXT3dUSGdDMmtCejN4Ylo2S3c1SFVIeEowZTdDR2U5c3BSOEFJQ0RzOHRTMEU2ZDA2Z2NVTUdr?oc=5",
+   "data": "2026-11-23T22:04:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qrsoom",
+   "titulo": "Por que a galera está obcecada pelo GTA VI?",
+   "fonte": "Capricho",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVhKR2ZYcW0wdDNsdmxiekVWS1Y5bmNiY2tHZFVXUjNjMUJzZTFCUTdHLUpoT0kxWk9hejJBNW9YVjlSWFZkd2V1NFR6Q3ZhR0ZnMG5fME9mQndvdlBvZ2puX2tQVDZmN2VPRDVUWVYzVjJJVkQyUnJnZzF6UzVVU3N0ckdTMzBjQlFNRGE2dDM?oc=5",
+   "data": "2026-11-23T22:01:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1pdprpk",
    "titulo": "Nação Zumbi, IZA e 'GTA VI': Veja os lançamentos musicais da semana",
@@ -1713,6 +1773,18 @@
    "avisado": false
   },
   {
+   "id": "1rxmajx",
+   "titulo": "Nvidia: CEO renuncia após escândalo de espionagem",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJ2TDJ2Q3V4YzFjeHNsZlJ3V1ROdUJmbFVSVkZIZnBMTUk3aDVrcGNONmFWNDF5VW9rX3JiT255UDdvUTBBUEdJSGNsSEhrYWdDeEdiM2x4QXE0UnpESTdGNE1aMEdUck5qNTIzaHZXQWZqZk5RVkJZMERUWlVaRGtaMU1FT3EtdjBYLU1GcjhqTm8tZ2l4NndPRQ?oc=5",
+   "data": "2026-11-23T14:09:02.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1vscciw",
    "titulo": "AMD Ryzen 7 5800X3D: combo desaba para US$451 com a opção de montagem",
    "fonte": "diariodamidia.com.br",
@@ -1772,78 +1844,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795451428796
-  },
-  {
-   "id": "1dp9rkj",
-   "titulo": "Cenas de sexo em GTA 6 foram \"extremamente difíceis\" de fazer, diz Rockstar",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQZHN2eE5MdlFXeW4zXzBGZGwwbm14SC1rVG9ocTRPTUd5Z0E5VXFXWXVlZ0dHWHZzOXY4R0xoZWJUV2UtZDhIaFpTYTF5OGVWeDN4ME9CbmpUeFdLZzZhLXVvYk5UOVMtMEdsR3BXSlNjWi1ZWDFuNXgxU19ITTlpT3gxM09zZkRUYlA5UTA0VjM1UVh1ZkNMckZJNFJwRkFpV2JjTUF0VQ?oc=5",
-   "data": "2026-11-23T13:56:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1v9up5h",
-   "titulo": "Trump pede recontratação de ex-CEO da Nvidia após polêmica com suposta espiã",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU09JVGZta1pPeFIxdjc5N3kwVnhtcmVpbjQ5MjhwM2tJd0ZteWtCMnhFMFg1aXJiMkJxUk5HdnNvLVJfYkpYbHFKeEx6OHZjWk1yQUhwbF9RekJZS0pHTUhaM3dUSDJueDc3ck8wZkU1RlZzV0JpTU1sbGpZOHRuNUtIVnZ0Tk93c1k3LVp2STZjWUZ6d0VrQUFyTm5TdVVzQk5JSmt2ejAzV3BBS1FuWGpOM3h4UQ?oc=5",
-   "data": "2026-11-23T13:50:21.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10x81bu",
-   "titulo": "GTA 6: Rockstar pode ter limitado o desempenho do jogo e 40 FPS seriam possíveis",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVWZWTC1HbzBGZmFpSUpzTE9zcDFsY3M1UVRFNEFXaVluTVZnQlpSSWRZcU5aRVdBaVV4SThVRlFLNEpqcFQ3UXNqNFpZT1Z6TWdjc2h1WEoyc3RJUXNGWE9fV1B6Qi1oSGVWMi01UjduczRtXzdIRmtCMTBoZVdVRC1QeUR1WFJJRGZFTGV5TWVySVJPMFVQYUUwQW1iRUQ4VWt3?oc=5",
-   "data": "2026-11-23T13:49:11.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1d95b4w",
-   "titulo": "Alice Huang manteve contato com inteligência chinesa durante caso com ex-CEO da Nvidia, diz NYT",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeTEwcXZyQ1ZMc2ZyZll5NTZuNEk4eEpWNTQ4OEdsRE1FVEJHTk5vY3hIYnh4NkFyczREWmExS3Y5cUdjUFdXdnJRWEpfUHJfZDVjOEd2Z0pudU5ya0s4ODlxbG5GM0c2U3dtWVo4cFFCOUxIZnZtWnpIekFPdkEwaHRtdkt2eVIzMDVQWTI3eXJ0eElVMzlNMHVyVzRleHBMRE9EYVpyaFVya0UwSnB0RlpWMC1Xelhaam5UR0VobmZHSzFnWkNtclU5dUtndw?oc=5",
-   "data": "2026-11-23T13:48:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sm01mh",
-   "titulo": "Perda de força nos balanços da B3. Projeções de lucro para 2027 entram no radar dos investidores",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTmVGWldvRkdaQ2Z3TXozRDRiTmd5dC1xbmxVRmF6blRSRWlRdTgyV09XX3d2ZlJjMVhTd0xXWDJrM3B0WE1PaXNaRFVfU1Q0MEE1cWlqaFJjY0pRZDJ5anM3NHlCclBpTjNpaVJiQmprWkxjZ09QT2VJelRsaU8yVDE1RnZ2R3JZSjYxZV9QeEdPSTM2b1pNeVhyRU9nTVNScjhHV0Rmb2tFUkJhY1V6TTVtVjF1TFZJZlJ3MmdwWDlzR0FqYjBYUmJHNA?oc=5",
-   "data": "2026-11-23T13:47:18.000Z",
-   "cat": "Resultado",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "115elnj",
-   "titulo": "Trump pede ao conselho administrativo da Nvidia que recontrate seu ex-CEO, Jensen Huang",
-   "fonte": "LeiaJá",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaE9xQnMwSmlMQ3B0eGE0d3U3UXJnbTRnLVVjQXJBaHdKMm92dHlQZUNXU2tWQzFJc0xRbGQ3a1JiNnk5bEw0TXhZZWV5ak5nUzdsMnFVcXZXQVNJVXZyVWpoV3ZmbG9RMTJhR2RCV19TYlBDTUFKci1KQ1FmNEZNUXRrNVgxRFNrQ2EyWUJQYzhNY0trY2FLVWdTdDhuUmVzSW5xbDFIcXZSdG1aRGszSHJodTdpbWVLblNRdUpWOVhZOFE3SUxTd1ZnTlM?oc=5",
-   "data": "2026-11-23T13:45:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
