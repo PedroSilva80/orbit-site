@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T18:00:28.951Z",
+ "atualizado": "2026-11-23T18:30:27.479Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "12xx3dl",
+   "titulo": "Braskem (BRKM5) dispara com acordo com credores no radar; Petrobras pode aportar US$ 1,3 bilhão, diz jornal",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbExoYXE4bjJtcUtYRzRSYURuMXpUb1RHME1OWl9GQnJiVkl4U21DYWNJdTJCeWw4dXNsLXNPVTh1T0xTcEZ1dVJUeXJad1l6UjJwSlZwMTNyeDJKc3pDMUluMnR5d1VSSzFSUDlOZVdqSTE0VVhfeU1pUENDSTRmLVlNczBjWjRnSVN4SGVuMzBQMnNyR3VLQldCRnl3YTBwS1JORkdPOGFEaFBVUWRLME9GeWJlYkJWXzNDZFBib1RRZVlwQ3dkbHl5S3plX3ZOdlBR?oc=5",
+   "data": "2026-11-23T18:23:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qetnt",
+   "titulo": "GTA VI chega com cassinos fechados e loteria na vitrine",
+   "fonte": "BNLData",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzVKQ0U4R1FfZkw4bFVlUGtWODBaQldKNFhObk1DUGV5dWdibEZ6bWhralFVQVR0X1pnd3psLUM2cVVHRmNjOTNTNC1YOU4zSW1aTG9RZ1JBVXpHUnFMOXdDdFNhRnVUNnh0aVZoaVg2dmUyZy1zcGp2X2dhZGpOVk9BRTVIQQ?oc=5",
+   "data": "2026-11-23T18:21:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15imhz9",
+   "titulo": "iFood cria curadoria gamer e lança combo com Subway para GTA VI",
+   "fonte": "Propmark",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeHZxSjlLVnhXcENjdVd6NTZORUd3RDA5b2dTREthZmpjMU92d1RHUTZBYnU1d3V0RzhiNXVHU1dvUUlXVVFycndFSkk3bmFBRDZjZ3NFbUs3aXZycXM2NjZhQTJzN2NTdmpwQTZDSThNaUFzWmc0ZE5idmRqUFd1YVhPY0tneU9LenptQUxkUElJMHFBRnNPeTAtRU9LWnBrTFE?oc=5",
+   "data": "2026-11-23T18:05:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zku87x",
+   "titulo": "Governo prevê inflação no teto da meta em 2027 e reduz projeção de PIB para este e próximo ano",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQNVk4VzlBd3FyTGM1Z21acURNdlkzT2lPRDN0TkNyVUl4SXNUU0ctNHhhQnEta2RPXzVUdUZWbzJLZmJycG05T1QwZVJBdVNPV1BLX2RGZ0NlQVgzUEVYeDczY25xd2VTX2NneVVKYlNoZVhlTG91TUFKSmgwQzlxWGQ5Zm1sX2I1MzFPaEZHY1Azd2hCajNNVmY2TFVKakNOQWxMM2xHRkFQZ1loY0pGWTM4U0p5aUpNc2gzVnYtU2c1VjZ1OC0wLTRpeDNRVWU1SUwzbjZqRWNrU2xRdzRCVVE1TklsMFhI0gH3AUFVX3lxTE12MUtnQks1T25UR092aFpvaUdUczgxQ0N5QTlxMkJhSW5VczZIWW5HZm9zUGt5SUxDUE9kNUNPRGtSVzF3SzlfUGFvZVFfV0NRM01TYTlTeVpnajdhbEY2UVRpTGo5WTB4M0M5cXNyaEh2UHljcjhQZk1WT1RRdTNzYS1EMVJ3M3Z3bTJWZWl6V3l6cUEtRzJibEEtVnVLMTVHRVktRWlYTGhHTlJPZ3RXSU8wU1NfLURpTERfM0luazNyZU5ySTE3eW9CTUhXeGU1TUoyOTliUi05cHB2ZXdoeW9CcWtGeU1xN0x3ZFlIdGZLaFNhMWc?oc=5",
+   "data": "2026-11-23T18:04:54.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "nl8uby",
+   "titulo": "Mudança na meta de inflação não é tema no governo, afirma Durigan",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONG9ZbkZLSlpjSGZTQm81UFJic1JOZ1F5blNUX3RoRUxfNmd2dVFrSjJfajdXakRVREhYdXBURHRTMkw5dHhYVDhILWd6b1FnZFNBNFhGSjVDbzJ1QUg3UlYwSWVJdW55OC1BQ3ZMOXlCNjRXamU5S1NXNmxXeDdzb21mTzB2VWduUG9RN3J4SnhFb29Cc2hnZVA3LWREQk9BUkV6cDg1N1RTaFE3MndRTmtFYXFORC10RFEwZmNLUkJhX1hnbHVnSmp5ZUo3UQ?oc=5",
+   "data": "2026-11-23T17:56:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7jj5g4",
+   "titulo": "Bolsas europeias sobem com retorno de Jensen Huang à Nvidia e alta das techs",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQUpKMWtUUXJQaHZqNktpLUp3U1Fab3duLXpWSk5TeHZ3VzNFM2lXemt0V1BUUjhjMXBTRk1kOGJmUi04UDR3SWNCdFE2RHNkbUNFV3FlVmJIVzV5dTlLRklKTHlIVlFUOHVXU2Z0VS1jNlpTaUx0dDVzU0FfTldRWVFqV3ZyV1ViaVdQakRRV0didmxHTEdpNw?oc=5",
+   "data": "2026-11-23T17:50:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9luk5a",
    "titulo": "Justiça britânica condena hacker de GTA VI a sete anos, mas permite soltura imediata",
@@ -210,6 +282,18 @@
    "empresa": "",
    "score": 4,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "j3meap",
+   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnA0cEt3ajJBZGE0aWxON2tJODdWQUhYQ29MOTFjbXNzcUlQQ3FJWlh2ZkN0SFRPNmlBT3N3TDl6UEc0d24yWVpSM2ZUTjJQeXY4SjY4akQxRGN1QUlWVXVPY1N0WTZRcmI4Umg1TElmRE9Td2w3LUZXQmhRMDJIRGYzRWxwLV84a2NKNEh2djQwQ25UUWRJMHFBTEktUVRXc1lvN2s4bW1ySHdtUTlKRm15TjlYcDk4MWEzdHJuTmVTU29rMkxMZ1ZTM3JXaVllb0xyX0VxRURnUHlTNWhEcTU0cWx2WHNPTlRFeXBB?oc=5",
+   "data": "2026-11-23T16:26:28.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1748,90 +1832,6 @@
    "cat": "Regulação",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4vt4g4",
-   "titulo": "Brava Energia assume 100% do Polo Pescada após concluir aquisição de participação da Petrobras",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTFlITUhzTnR0eGJSUHdWZFhyMDVOa28zbnAyVUJtd2FneUptY3gzQ0JNVWFVcGo0LTlEN2xUQW8ydXI2ZGtZeWxmVjJncHRvMEczZ2RXeDUtZjhEODFia2lmSzAxdTdQNVdLS2tSSENHY01vQWluaUFwZm5NYV9sN2trVVRqLXZUSG0yMmEtcjItNlRoc2hfUEpZZ3MyTm1HeXJaeHN6VGo3T1NpdkduOVdseHFWYnhmeW5rRDBuaDRmMFNOcno4TA?oc=5",
-   "data": "2026-11-23T11:45:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1u2nbt0",
-   "titulo": "CrowdStrike compra Zscaler por US$ 43,9 bi na maior aquisição da cibersegurança",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1OSWtsbjdzV2lXR0I3WnlmR3VzUnBwSXdKcUs1YnBGSm4tZ1VmMXBvakRHS1BxVzdwdmFlV2JSTlpJYnJXcUR2SDd5Wi1lbmUtS0ZvNWNBR0NYZVdrbGxZVEl6dW1EZW82bDRaS1h0ZGV6S2tUaTZSTG0xQQ?oc=5",
-   "data": "2026-11-23T11:34:08.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1naeigk",
-   "titulo": "\"GTA VI\" é gigante e parece que poderá tornar-se ainda maior no futuro",
-   "fonte": "Notícias ao Minuto",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVk9jcjNXVnEtc1J1SVBtVjRTUFg4N21ldnhKLXptMzU3ZEZHcFBrZmN1cTkxYV9MRDBQNTFOcGk1YzJrNWpzQUZkU1NfQ3JOTFFsV3BpTFpUcklsXzB5UjhWSXcwSGlFOE9ZUnZ0QVVQRDh1Ny1yRjlUNjl5MHQ5Q1NxSkRkWmNPam9jQzdGcDVONW16YUVjdjY1QnF2dXBiSl9IRmZEUnk4S0FwUGZ3blRXWDE?oc=5",
-   "data": "2026-11-23T11:30:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1i924ce",
-   "titulo": "GTA VI deve receber update nesta segunda-feira",
-   "fonte": "MeuPlayStation",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPY2tCMFVWQnItZFllZjdES1djQWxwaUw4OVcwNzZENkZpR3FqYWlfTVBTN2ZtR2lkVThQZWRjNzFmWEI1MU11WDZLTnFsREFuTmRMNVFkVXEtNWI4STdhdm9WQUR1YktXMUZZdTBrbHBOUThQWmVwRnNNb1gwWDM3T1ByTQ?oc=5",
-   "data": "2026-11-23T11:29:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zd6hig",
-   "titulo": "Semana pós-GTA VI traz 7 lançamentos para PS5; veja a lista!",
-   "fonte": "MeuPlayStation",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNQ3hDTk9SNFNqZEI4dnpxQ2FrYVd2RFNyZEZtYWx0WkZ3eUQ4QkU2V1JxVVZycDhwLTVrU1N4Rjh4bVdrT1V5MjJqeHZTR21aMXpqUXlWc2toMkpfX1pPNVQ2Tk1yMHd2aFJsSU5fUGhVb3EzUVpUX3Y3ZExjYldZc3VUV0Z6ZE5EaHFGS1lUTmtHR2toanBZ?oc=5",
-   "data": "2026-11-23T11:25:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bd4v06",
-   "titulo": "Raymond James reitera recomendação de compra forte para Take-Two após vendas do GTA VI",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNLXdidUVSNjJTSkVEM04zOUtFMTNMQ084c1BfWWRzbHJPUFBCNVpxVi1CTmlMNWs1MkNXVjA1a2ljRE9jRzN5bWNFZGQxdjRYMmxCZG1BYlJMZ1ZjM3Z5cWlVdjJLUU94OHA0MlBGY1BxVVZwLVRLN09PbXYtY2pWdjZDVnozbmlDUjRpNTFqREN0MU1PQXZ6Y1J4YUc0TEVSSDVhWWVNRTNmalZYMktQY0pnS3FqWkgzTTVTTVR0Q2pQT2w5bDk3S043OVR1Z0MxYjBtUlozRHZDU1B4?oc=5",
-   "data": "2026-11-23T11:20:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "m1k8ct",
-   "titulo": "GTA 6: Rockstar explica por que Jason é tão calado e “pau mandado” no jogo",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzJjUDRLR1dTdkpPYU4yR09seVRpYVZfODJId0pRUXdvM3pyLVM3QThaakVTWHVYS2ViZVZVTUY5T2lDazhVSnUweTZCSVM1ckZTLXc1Rl9kTmVMUWtaU3pGeVkwYjJ1SWdWNlhyYUpXQU5KRHc4dTk2WVhmd3hhRGt2b19WR1U1OFo4UllKRm9CRjkwaFVlRlN3WVVvN3ZWdnMzeUZTaHJONkg5SGtBSQ?oc=5",
-   "data": "2026-11-23T11:19:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
