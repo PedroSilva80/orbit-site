@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T07:30:29.161Z",
+ "atualizado": "2026-11-23T08:00:29.164Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1xkctz3",
+   "titulo": "Ibovespa hoje enfrenta novo teste com dados dos EUA e projeções de juros e inflação no Brasil",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMm9kOXBlODlDb2pkY0RhTmVDeUtNMUYtZDZCSVpRbVhOV1BNdzFqQWE4SHJmUUtzYUpjVGNZZE1DaWVkMVc0eTU3RVZGOTVIYTBNQ1Nhek1KajBmQ0lpNnctc0dGYmV4N0ZHRjZxSTNCVjIxcmlFQW03YTFoM3I4UTVIVG91OGNwNnN5UVpBXzVBOFF6N1o1MU8zMFZqcEg4c3pQVVdlM0FZbUdfYmxsU1cwd0JPQTN6LV9SVkYwQ1QzZUFNMmRBR3NKaTNmT1VKQ1ZjeXhidS1BUy1BenJQSDJiQXYtWkp6OGxzTFZfZ0xvdw?oc=5",
+   "data": "2026-11-23T07:35:21.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8bu96m",
    "titulo": "Derrota eleitoral, Nvidia e fusão de Tesla e SpaceX: veja em cinco pontos no que Elon Musk anda pensando",
@@ -1115,6 +1127,18 @@
    "avisado": false
   },
   {
+   "id": "pqgqzg",
+   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
+   "data": "2026-11-22T11:43:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1rcnazx",
    "titulo": "Ministro da Educação da Coreia do Sul renuncia após fraudes com uso de IA",
    "fonte": "Metrópoles",
@@ -1808,30 +1832,6 @@
    "data": "2026-11-21T22:11:15.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q9r3j6",
-   "titulo": "Pré-venda de GTA VI movimenta R$ 4,81 milhões",
-   "fonte": "www.guairanews.com",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFJrM0xUSW9oVmw1WnphSmZsRWlOTDlXQ2FDdENVbjlFa0d3Sml0dWZ2M1hVVWhBZy1ERDdrTDNLX3dMNWU5ZWFxb1lzY0hLN2tHc0NYVHBGbVFleGRJdEN3Zl8xWFk5UzhPTjJibVd5VnZTbll5ajh6N3NlWEp5T0ZTdl90NFk?oc=5",
-   "data": "2026-11-21T22:01:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8l51z5",
-   "titulo": "Amazon e Decart: por que US$ 7,5 bi revelam a guerra contra a Nvidia",
-   "fonte": "BlockTrends",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVVRBOVd0NGFuMFVQMHJmcjZkZ3FIT3FRbHU2eWYyNVdEWUNjREFab1Vpa0ZKSnVlQ2ZBcndjUFkzS3RYR3JaZU5oMFkzX3Nmb3F3b1pURFl3QTdTQXNXLVFVaUZYTE9kUERLSXVIbkFNckRLUVhySDlIcGpvYTByalNvQWVaN0E?oc=5",
-   "data": "2026-11-21T21:35:27.000Z",
-   "cat": "Mercado",
-   "empresa": "Amazon",
    "score": 6,
    "marco": false,
    "avisado": false
