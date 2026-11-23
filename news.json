@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T15:30:27.288Z",
+ "atualizado": "2026-11-23T16:00:31.291Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,54 @@
  ],
  "itens": [
   {
+   "id": "1utur7i",
+   "titulo": "‘100 Dias de Mentiras’ bate recorde de audiência antes da reta final na Netflix",
+   "fonte": "Recreio",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnlNWV9LeGlkdzk1WV9GdmttQzBEQXdZa1FRRHBTSzdMQi01eklicU9lcWhpaXBDMHE3MGFGeFVKaXRHZ3VMUDhXTkxJQ3N0cGZ1SFk3Z2t6T0F6UzNiS1VNaVMtbjdaYV9KWUQwa1BKMFc3eWJRZGJCcmJ5UU9rRzRScjFYRmNsNWQxRTgtQThJSUw4Z20waVlIOThNYjVwbVJ0UzlTSDBNTGtCby0xRmJhRE5pLS1zMzAxUlNObFl0WjFpa0hnV0RR?oc=5",
+   "data": "2026-11-23T15:50:10.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n76q00",
+   "titulo": "Ações disparam após retorno de Huang à Nvidia reanimar negociações relacionadas à IA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pc01XSk9Menp5RGx2NVpmeDRtLWlHeHAxVFJWYjMxY1IwbGpnM25SaHdVMVRSWEJpUFJ4cnhjZVNqY1RrVHpmdmZuUDRTY3RLQ3V3Y3A5THFPMTc1WVJtMHRkQU9wVVZaYVZwa1M5N2JoR1hNMUZv?oc=5",
+   "data": "2026-11-23T15:39:01.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kkx62n",
+   "titulo": "Por que você provavelmente não deveria roubar um Tesla em GTA 6",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkh4WmFHVk94Q2RmTjFhS3ZhUUVNMTcyS3NTd1dOTjZlVEhTbDFQX1BHdTdKc2pSeDNCSFlNdm1CbS1XTWdCbkkyUjNINERUQ1A3UG1qZEdJTTNiUkkyV3JmMDEyeE9SVXd3RzIwLVM2YVN3RDUyRHVQM2RvSmgyelJ3WU5EWDh6WjBHT0kxcjhjakw3SEZlYllpN1JsZlM0WXJYNkpjbGtFcXJvUnc?oc=5",
+   "data": "2026-11-23T15:36:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Tesla",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ml503m",
+   "titulo": "Wall Street sobe com retorno de Jensen Huang à Nvidia como CEO",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVVNSzZ0OUwyNTJNMXJkblNwQmNiNVhpQ2ROVngtOF9uUHpiYVdOWHBGRUlNY1Nsd19SY1RQMVJDdTJ6dVlJVlRpMVBLRWVaekl5QVlPRlk1VldrX1NFZFRLS0ZEWE1KRGplZXhOS2ctcVJYUE9tZU1xXzBCNVVERlpWemlpNVpycV9CTGNCaGxjSUYtMElHVW9ENkp4dVRBS2tDdGVJOWp3a3gySVBKQTBsT1B5ZTZPUmF6c3lSNA?oc=5",
+   "data": "2026-11-23T15:27:57.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1ffcmeq",
    "titulo": "Ouça agora! GTA VI lança álbum Deluxe Edition no Spotify, Apple Music, YouTube e mais com músicas exclusivas",
    "fonte": "TudoCelular.com",
@@ -40,6 +88,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1y0rd0e",
+   "titulo": "Trump comemora retorno de Jensen Huang à Nvidia após suspeita de espionagem chinesa",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2g1cjY5cWdjdGVZVTUxdWNWQlJ1el9OM19tdVkyNXJHb3E4OXVkdWZVZkczTUFXT3hYX1FLRXhnaTY1ZkR6aExLZnktTzFadUVvY3VtZUIwanBiQ3N5RmZMUVlDSjBjRXIwN1BjQmU2OXltTldUX21OYUlEaktfd2JkRFFUbjlxMG8yLWpwTWw3WDI5ZDlDazIzc2QtcHpucmdPLWdSaklNNkNHWm0wN3JPWmpHZw?oc=5",
+   "data": "2026-11-23T15:20:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -64,6 +124,18 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16dxtzj",
+   "titulo": "Com ‘aval’ de Trump, CEO da Nvidia é reconduzido ao cargo",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekZvZlA3cU5RZHMwcHg5TDllR0E1LWFhX1VMSjUtaWpmdFdkNktzUUVVdjlFekZUcmwyd1lGMy1RTVZXTk5Gek1IMzZCM01BQk9nOGdLY1N5ajRRMHdkRUxRcTBmNDZrZ1ZhWkZiOF8xRGotbFFkbGdEQzBqR0EzMDZWcWVZR2FSOE11amJ0Rk9kN25VRTRKTQ?oc=5",
+   "data": "2026-11-23T15:10:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -241,6 +313,18 @@
    "fonte": "Exame",
    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaG1WaWVUR0pEdk1HWFllRHJRYTRGM3R1QmY5ejZjQjJSRHpVeVpTWm5oYTlaQURwTHhxcHRyZjQxRGRkT1RlZkJ2c2RsNUo2Y2toUm9NbkU3S19BYjVhN3V0SlEzM2VJNVY4c3RzV3QxRk5PZFV6MExiSGozampxVjBYajZsaDJBaWhJejVRSmFZSzBuanJEd2Y4MTdEeGE5Sm1mWEJVRlpRSFEwSldxUjBGMkhFRU1vdHgw?oc=5",
    "data": "2026-11-23T14:44:14.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "3i6nrr",
+   "titulo": "Nvidia salta quase 30% com volta de Huang e puxa bolsas de NY",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWGg2RGhaSkt4TU1zVzJLQmtFX1YtdTV4Y19NRV82NEl5bmVudkp0OThDZlhTQnNwR0tkWHhBTXFfZXVpVFJZWi1WS1h4bVF2UGFoNlZjcmZQOTdQZ1VYVXpfaGZ4a2ktV0tXd25yYzNuM2l6LUZKdE1vX2paS0NYMDdObzF0NHV6V2VlQXdnU2N3TjAtcUtsSmVIcVM4dVdWOGV5WUNhVkFvN2pKd0x4M2cwOGRpTE5RaHlQV01vTkpzN3lmWUd5X0RfOUtYYkJzMTQyaEktYUdYamZkMWwxM2hEVVJ2UXVzQkNwU2x4SHN6bFJweVIyb1Z3aGRodEpaOURzcm83SFU5WlBXWWZfY0NlRdIBogJBVV95cUxOLV9wcFphWFZYVllxajdxbTdNWndUNkVabTVITkcta3l4Q09PQkloeEtCYjVHWjZuODJ1OHVoLTlGMzhHRk05RVZxa2tTQUVoWHVmY2U2ZW51cU0ybUdPZGF1ZjF2Z2dwbWFHTENoMmo1cUZyLWFteEx2ckI3ZTdvTFJKQjVrLUpWVU9wXzdyVjZmQkpDdVByX0lzcGpsUHY3a3U3bXBJMjg3ZDMxYzAxZEVNQWtqM2U2cFRkU0xOazlHNW04STZlTGhUbVV5MGU5dmQwSHBHSEJycnJ4U19GZnJCTVNyOHNYYTlFS0Q4NWFqTjlld1VyazZYTnItaGdwaUhYSl9UdGNGQzlJWm10bGtFQWtrdTRILW96X3VaMVVpdw?oc=5",
+   "data": "2026-11-23T14:43:49.000Z",
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 6,
@@ -449,6 +533,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15g42e6",
+   "titulo": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1BBSEJBMU9pTkMxUmJmVFVxaG05eEZCOXZ0NUhTcVI4MGMwVTJiU0hQNnd6MGptWTJTOE5Sa3o0Vnd2a1ZXdTgzUEY5ZmtRekk5UlZOeHZ6eUhHQ2J4VnNLRjFIcjRaSTl1N2ZtN1pCdk5MMldQTEFuNE9wMHF1THp5VXJUaWc2MmZNSmNIaWVfUzNyQ0FWbnhXdndMaFkySE55cFNybFp5WHNPazlhUnpuM3lKNnNSMFROdg?oc=5",
+   "data": "2026-11-23T14:21:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1736,102 +1832,6 @@
    "cat": "Corporativo",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3o1ggz",
-   "titulo": "Futuros sobem após venda de ações de IA; Bessent fala sobre investigação da Nvidia",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3lldzJPQ0tGNGtPN1FHa1FWYVdESEZmTGlvZWd6bmpMdGw0Ml95c1Bxa2VxM0FwaVkxNFA3UG00V0dWUk5tbHgyZm56RDIzX3dob0Y5cHREZnVnWkQ0Vmd4aGlvbTR5SElTeDkxVXlWRUlZcHVTeDNJLTFlSFBFQVo2dVFJZ0lTMTZUWGZqWmxXRkthRDN2T25PSHFoeHpKczI0aExMWndhVkpxOWtCaHNhYm9FYklJSTZOX3pESTVNQ0lIczdPbUNrMWo?oc=5",
-   "data": "2026-11-23T06:43:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3fqrq6",
-   "titulo": "GTA 6 quebra recordes com US$ 3,79 bilhões em vendas no primeiro dia, superando de longe as projeções iniciais",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOcWFfSDFNd2VlTHl3Q1l5WGVSRjZSbHdtNGR5NkFHaFYyeTRSQ0ZqM0R4V3p6V3owaGVFYm1tMEVTeGlJaHBiNUxweEFzU0UwNXJadzlVN3AxZ24wT3NJWXpXajZJN29MMVh4NEJxSDl3QzV0VWRPTmdjQXJZZHc0andkS1BabDRsV1Y0c2dFM251Qy1vc1dIak5pemVWZ2N4OUgxNE52ZWdNbUI2RGcyUHlJLVpVenNfZzFBTTdzUC16WWx6R19mOGIxR0VfbGE3djJDeWozdHlTS25kLTFLckZuNkxlMnFFeVE?oc=5",
-   "data": "2026-11-23T06:27:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mec9f7",
-   "titulo": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
-   "fonte": "Portal do Holanda",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2tIZWw1djRxa0NjMGRZSEUzaGlhQjFKQ05UeUt3c0VZRmdMUTdXVGRKNnZMU2dYcW43SnR4aVBXdkVHYi1xNDBCRzN4UmpFNl81ZE9JalViM0w5cTBvb0ZZUWpOVnYwU3dya0QtcEdjZmloZlFiZ1lEajZGSTg5RldVTXNjbDJNbThrWDlBQi1zbUhWNGdIRld5VUlYckVtOS01Z0YyaVFCU1QwSEVMbmlZaU5oVkZ2ajBEZThQeHp6VkZuMlFN?oc=5",
-   "data": "2026-11-23T06:25:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1de0f5b",
-   "titulo": "Anthropic supera SpaceX e faz o maior IPO da história. Veja o ranking dos dez maiores",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE5fbmg5dm45QmQ3TW56dEdnV1FBMi15NXI4Tmo4MldjbmROb1lIYlU1QVFjX2Z1MWFSWkFyUHNJTlpTNDZKak5MUGpidy1ZSUFRcWxUNjNmYTI4SGRlQjMyVW1UZ1pfQ2owYkR5RXg4LXRvQjlmR3VnZWVSUnRfc1ZQSm9iUG9zV0Jqb3IxeHFOeXBDYllxT0xlS0pMbVh3ckhrdS00Q09ZcEpGcGtaLWxqNkd0UXE5dTREODRVZFlsTGJIejQ0UC1waUVYR1JlV2FnT0o0Z29sUmRDb21sZTZoODBGdw?oc=5",
-   "data": "2026-11-23T06:21:23.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wfwa2r",
-   "titulo": "Petrobras ganha importância estratégica com recorde das exportações globais de petróleo apesar do bloqueio de Ormuz",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGxCZEZDc3BUN1lGa1lha1JMWlNHR2ptdUJHU3lrUkl1eG9CNXdHZUNyWk5PYkFPNnR1eTVqZ0J6ZHc4V2hHUXpWUjBiU1l3a3VXQndqYjVkYmx5RGNrMU9BS2dndGpPZWE1MnpCRHVMTy01bXJwR1hzcUhwQlo5R2NZYm9jYXo4WkI3WU1vcEtJX01sOVFnTjZBZ2NoaHBQVUwtdk1uOGIxMTlzeXplZTI1aDFKYThnMS0zbkVvekozamhZbk54SWdkUDkwYWtJNE5xcGdaZEFZaUZXUnhuNDJxWms2UQ?oc=5",
-   "data": "2026-11-23T06:05:20.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1emy5yn",
-   "titulo": "Por que o IPO da Anthropic gera controvérsia em Wall Street: ANT se aproxima do preço de oferta de US$ 83, exercício antecipado do greenshoe atrai escrutínio",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS3ZHdjBDRzExUUc2RkdZUjZMWGVXcHNmTWJzc2JtQjBhM3dPMFNWRHNBSC00OWFGVUVCOWdSZjlhU2RSZ21wbEU4eUxVT2NsZldURFRsbXNzX3ZpSEdPUktyb3phUVlVYWZSNi16dGRnQTlYUWlBdjJfaGc1dERDVzAzLTlHZFIxaC1zUUZsSnBGcEZSb0JxS3A1Tjg5Z3JLTTdqeTBKSUNHclFvODRBakNsYUpDOXRtcllNS053UTVQWk5pdUFYYmd5NmduWU1vb1gtU2hPeko2Q0l5?oc=5",
-   "data": "2026-11-23T05:57:18.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "185z5ys",
-   "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
-   "fonte": "Live MKT News",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWHRGWm1tay02Nkl6SkR2aXFrNlRaOXlkVlhiUUw3cmhvTGdZMm9OYVhidkRST1VPZ2JvZ1YwTHBUOTRCUV95cDlYeHY0MFZ6RHktdC1XRy1lZ2xUUWNma3dYS2F6YklEWk5KeFBPTGhKWEF2UXVfamxn?oc=5",
-   "data": "2026-11-23T04:51:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ejbjng",
-   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
-   "data": "2026-11-23T04:43:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
