@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T08:30:27.120Z",
+ "atualizado": "2026-11-23T09:00:33.298Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1vko9q1",
+   "titulo": "Já se joga o GTA VI da PS5 com DLSS 5 no PC. Vale a pena?",
+   "fonte": "techbit.pt",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVVhDTGlKYS1CWmx1VzdNT1N4TlFyUHcxTjZ6ZGtNVlVGNGI2d1dmUWpkSWt6eDR6VzVvR1BLd0FPeUhEX2F0STJ6aGpTdDBFZGQzeDZBbk9DRUZOYV9YcQ?oc=5",
+   "data": "2026-11-23T08:39:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1uye8ar",
    "titulo": "\"GTA 6\" fatura US$ 3,79 bilhões em 24 horas e estabelece recorde histórico",
@@ -73,6 +85,18 @@
    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmhBNXBFY1d5X245UC1QU29vWk44akNxa0xjSWtHdjZ2dm1wdW8tcVhFQmlWcmpMS3U0cDY0NG5HdmZsMjNUS3RYMHVtSlR3ZnlCRURMWkNlQ1dXX2ZkSzl1S0NpM2c5bFNkQWRMcUhGUkVBNFpmVnJtS3dFdHdRUHdOVkxwWjBjaVA3cFZQVnY5V3hCY0t6am1SeUsyVm9aT2oxUk9oV1ZpdkM0WDVEeFFMZkNSSEpldEkta1N2RGRlYUpZZmh3ZUtfcEw5OUZIaFZBNzlKN0hSeFc4Y3lKckdJcUM1Y1ZzOWFEWEVvTHZXTlZ2ZzNtM1NpdzR2NE3SAY4CQVVfeXFMT1lzajhjejQ4SlBHZElPQWJKWWJvTzhERW1JVDVEUjdLU3RYd2F3MmFRUnhhdWJPcFdPekc2aFdlRmRyNktBR1E2YTJLazc5V2FxNkFXelp0ZzF2U3A4RmRsNVNkQWd4VzBtVGxlSGlrMUtjeExtYkx5QVZEcEg5dWZZYWp6TzVtQmdjUDZHNlRMTnE3MHhnMzNETkg4UU9idURsOGZoWUZOWHRyWVdwak5HLW9MdXEtQXdqYTk0aFdiekhTY3hmWVJVcVlZQmVLMXd2YXkwMjF0ZG9nYk54cnJGYnJhVThGQ0thT0RKVlZ2cllnbnZpdUlUUUFxV01rUmdwc1Y0V1V4Um5aMGR3?oc=5",
    "data": "2026-11-23T07:00:00.000Z",
    "cat": "Corporativo",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "3o1ggz",
+   "titulo": "Futuros sobem após venda de ações de IA; Bessent fala sobre investigação da Nvidia",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZ3lldzJPQ0tGNGtPN1FHa1FWYVdESEZmTGlvZWd6bmpMdGw0Ml95c1Bxa2VxM0FwaVkxNFA3UG00V0dWUk5tbHgyZm56RDIzX3dob0Y5cHREZnVnWkQ0Vmd4aGlvbTR5SElTeDkxVXlWRUlZcHVTeDNJLTFlSFBFQVo2dVFJZ0lTMTZUWGZqWmxXRkthRDN2T25PSHFoeHpKczI0aExMWndhVkpxOWtCaHNhYm9FYklJSTZOX3pESTVNQ0lIczdPbUNrMWo?oc=5",
+   "data": "2026-11-23T06:43:00.000Z",
+   "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
@@ -1809,30 +1833,6 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "k0glkz",
-   "titulo": "O que aconteceu com o Bitcoin antes das duas ofertas públicas iniciais (IPOs) históricas?",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRTRfZkNHVV93MFdERTcybzBfS1BEbEl6cW5URHZiM3VYNjhoSXhCbWRVVlBZanRQbVl3WWZsbEM3d3ZSNzYtaFRyWTVVMU1fc3plZlczaW8xY2tLWmJmajBfek1BTmwxdHROYlpVVUpqMFRaT1JSR3hZWU5KU3RwbDFVUUxTcVExMVZMeA?oc=5",
-   "data": "2026-11-21T23:02:18.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a72kks",
-   "titulo": "GTA VI: a importância de escolher para quem joga",
-   "fonte": "Observador",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUUVKeWZPeExiWmU5V3dfOWtSd0dieTNQVE1CdU1tUjVTcXVPN2plQWJSelJiQ3FCNlptSkNJZ25VaEY3eEQ0RmtCNGZoS3V5Nnh1dEphd2FXdUQ1QzFQMDRqSXJJOVpMSi0tcWtzc3lqVzRIYzE4dUpGa0ZBV19IZnBJUFM?oc=5",
-   "data": "2026-11-21T23:01:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
