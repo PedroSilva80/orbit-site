@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T05:00:30.590Z",
+ "atualizado": "2026-11-23T06:00:28.880Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1416,6 +1416,18 @@
    "avisado": false
   },
   {
+   "id": "1fsm339",
+   "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
+   "data": "2026-11-22T06:38:26.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10rwehw",
    "titulo": "O que esperar da Anthropic após o seu IPO histórico",
    "fonte": "Estadão",
@@ -1822,18 +1834,6 @@
    "cat": "Resultado",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hq4vpi",
-   "titulo": "Alice Huang, caso de ex-CEO da Nvidia, conectava empresas e abastecia mercado clandestino de chips",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNb0hmdWdmdi1oYldrM3hreVFsTGRiQUlvZ09BQkJsWGNlelV0YVpGMVFkenh3RkVOSXJPZW94dUZ1WG5lZ01vZ285djBRcmluNF9hcW9Ib3ZQaTZVZWk3Q28wNkhzWHlRNkw0aDN1SVRlTnpCNGQtN2xxbE1CLVhGYWdmV3NLM1lSd01RWWNuZU1kV0xSak9CZzd1V3lqZ2c0RTRiSDc5QWhXdDRaLWJ6X0xmSGZMeDdiYUpLWmo0bHVfbjdtYnpMLVVPaWNhTTdjbkR5eWUydTBBcW5pUHEwckxR?oc=5",
-   "data": "2026-11-21T20:16:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
