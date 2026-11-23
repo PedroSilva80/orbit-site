@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-22T23:00:37.021Z",
+ "atualizado": "2026-11-23T00:30:26.337Z",
  "agendaCal": "2026-11-22T18:30:32.621Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,6 +38,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "cx8emf",
+   "titulo": "DESCOBRIRAM! GTA VI RODANDO A 60 FPS NO SERIES X COM BUG DO QUICK RESUME!",
+   "fonte": "Xboxers",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcWo2S0REUW9Dam94QV9LbWtBX3kyUjNrbENfRmpoaG9SanJiWDYybFNkSm9nZkpuQXRaNExseDFJNExCRUlBVkw1MExnMHdjZm4tbjlPM2F4WkRoNlp3RGpwYlM1cVduSkM0SDhod01HcE5XT0JTZEk3YnhMMWVMYVZSWWVJdFliZWJ4c3cwanN0NXVseE1kMVRCbw?oc=5",
+   "data": "2026-11-22T23:56:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1t6jmyw",
    "titulo": "Ações da AMD Despencam 15% Após Relatório Acusar Violação de Sanções à China com Firmware AGESA",
@@ -376,6 +388,18 @@
    "avisado": false
   },
   {
+   "id": "19a0akv",
+   "titulo": "Indiferença japonesa a GTA 6 expõe ponto cego bilionário da Rockstar e acende alerta na Sony",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CdC1kQnNRNGpLbzZkdWNEdXpKbjZxM1ZfYUdVV29XVzlWcjlXdW9nLVVwYzRua3VxOGtnZFpFYjhjcERtVU9GNzFZOTZ6YmdqOXZxWDM5eUhTM0lrSjJYTjl5eXI0UDY2dWRrd2dLcXc3aFFR?oc=5",
+   "data": "2026-11-22T16:29:25.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1h8mj7y",
    "titulo": "GTA VI: 7 detalhes tão caprichados que parecem exagero",
    "fonte": "Legião dos Heróis",
@@ -479,6 +503,18 @@
    "data": "2026-11-22T14:33:23.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "176eou1",
+   "titulo": "Jogamos GTA 6, que agregou elementos do antigo melhor game da Rockstar",
+   "fonte": "Hoje em Dia",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaHZhR1BPaEk3a2tHU0JMb1NTVW5RV1VmWDVvaUlJRnR1WmxiclBVTGxpb0QtS05zcG4xUWNTQjJmU1FwZ0RyUk5xT1NLdC1GV3cyZXMzV2dneHRlSjJRY0V4MURwb0I2NG4tTGU3TmkyX3dud2JIZEw3MjQ2Tl9BNTYxOUhnb2RoczZFZDNwYXJZVlgySFNMbmVkanBpMVNlY2swMExvV3pFdi1BdGxXYVRZVno?oc=5",
+   "data": "2026-11-22T14:20:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -991,6 +1027,18 @@
    "avisado": false
   },
   {
+   "id": "1f80lo",
+   "titulo": "GTA VI se tornou uma \"mina de ouro\" para franquias.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBubnN6YkFRV2t0dEVMZDNCb1JkX19NaGdycDdKT3d1bDZ1aHVqX2NRNmFSNFNWcGRUb29GbmotQ3llYTBNanF1dUtRQU10TzJKMjhmcjdvNVdIOWtOSWNMTnhZbnZadm1IWUhCclU3VE4zTzFBQ0podmN3?oc=5",
+   "data": "2026-11-22T10:05:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "gih78r",
    "titulo": "Efeito 'GTA VI': buscas por voos para 'Vice City' real disparam",
    "fonte": "iG Turismo",
@@ -1228,6 +1276,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "h3dybj",
+   "titulo": "Red Dead Redemption 2 supera 89 milhões de cópias e vira “previdência” da Rockstar antes de GTA VI",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVzQtY1RpZExXcE9GRXY1U3dfZ3NuVEF0Y0kwZ0Q1TG1mVUdCLVVlTjNJUXY4blVrZHluWkZ6V1ZXdlVmT0JTUnRLSUQtc1d2M3hyMzFYLTdFQkZQQVJiRHRQRlZ2ZDNWekxUS0hNVHpFdkpRU0RSdDdFZGhXSkFBTGJTb0RKRXRkdUdwcDZlWFpJTjhINnRjVWZucm1meFE?oc=5",
+   "data": "2026-11-22T04:28:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1782,66 +1842,6 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9grbih",
-   "titulo": "Anthropic e o paradoxo do IPO bilionário",
-   "fonte": "Olhar Digital",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTzJuQmxsekxNYUlZN0lNeTZhTmo2R0Z4Z3RGQ052QjFJVTdIcE45MGs2RGk0ME1GMF9JSkNDTC03UkJtcGhUTnlSc1VBVlcwNjFkVEpLZGVWamtqTlZLalFSYTM3Z2U0TFU2dGVLVFZkRk40OUNLLUo4N2dRTHF3V3dibWszSDVwM3Rvcg?oc=5",
-   "data": "2026-11-21T17:29:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "giscui",
-   "titulo": "Nasdaq tem pior semana desde 2020, e nem IPO da Anthropic segurou o setor de tecnologia",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUW9QQkxmSnlNUVVDczdlUmMwWGZVNHo4emVxa2FhWDBYRUlLMDdHNm5YSjIzdHpPTHJWb1JmNDd1REVhN2dZSnpBYjFWNlBLWS0yUWZTZ1dYNDNIMU8zS1RreFpRdnZ5d2J4NFpYMEZsOGxJTTdUR1ZOWThydmM4LXNZOElRTE9LSE91bmVtTE82TS1sQVJrWDFSREx4NXB4Vm1JZVcxQVlFTlJRRjZ1aUhndU83R0ZGTS1BUUNB?oc=5",
-   "data": "2026-11-21T17:22:59.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "crp9j",
-   "titulo": "Netflix lança primeiro especial nacional de comédia cristã com estreia marcada para 16 de dezembro",
-   "fonte": "www.radio96fmns.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUl2OU1lb2o0SnBteXVPX3Q1RmRQTEZhdnNBdGNxQXU5TUV2YWlTeFY2d3ZSWVQ4alNzUk0wUFFtVmhpZmkwTXE4dVdKRFlKbk9kVzhQbTRtd0ZrcXpjU3NTaHpfcDk2cHBtVHN1Zm04WktsSkppVGdsSHdBYnRxcUVuVnZ5UXh5OVJSUnlya2pYN18zeDhjaGZVczB2ZVVuY0lTejJOd082TVZBWHBIVEYwQ2pTLVpaeUhmSHVDS0diaTh6M2c?oc=5",
-   "data": "2026-11-21T17:04:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "u0kinp",
-   "titulo": "GTA 6 quebra recorde histórico com US$ 3,79 bilhões em vendas no primeiro dia",
-   "fonte": "bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTWlzS3p5YS11NWlhMnhFQm1haHZSVGw4VVJKUTlXQzEzTzBNc3NzcG1hWGl5QS1DX21ybVVtVjkyOVdVY2ZzVnZSQzRQcjNDOGxEU0ZaWWlZRXd4MWZKTGlDb2FaMWhralNkTHdfXzdCTFNobDI3YjhKbnUyUjk1MkJreHVWdU5FWFVvaW1IQVBNakdpNlJIdnhWSG02MXhoQTY5ZzBjQWJfSGNEc01RY3drOEhWRGJlUFB4RUUzcw?oc=5",
-   "data": "2026-11-21T17:01:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lvnawh",
-   "titulo": "Anthropic sobe 17% em IPO recorde e desafia tombo tech",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVERjSG4yTFRTMlR6S0dZTTBmS09XTHV3dFJDNDUwN3QwQzE4TU9YZmluYi1aS2NnWGU4UzVUcXNheUxjczdOV3lHeVh6RlFkOFFfTmlfbW5aSFU1MkZVQ3lDdUFXdUtmQkRMTWhtckF1SzJ0bWI4TC1OYXBoc2dodDdyRkxDTk9rV3JHLWVEOU83RDA0MUtoREE5LUd1b0VQSGtOVTlPR0NVZw?oc=5",
-   "data": "2026-11-21T16:49:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
