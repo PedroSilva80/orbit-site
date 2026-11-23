@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T16:30:28.796Z",
+ "atualizado": "2026-11-23T17:00:31.530Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "11bm7ww",
+   "titulo": "Nvidia volta Jensen Huang ao cargo de CEO e Presidente, mercado anima e até o bitcoin dispara",
+   "fonte": "Livecoins",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzZxRVZ1Q2dKSkdYQzNDQlNGcFZzb0FMdEdydVAwV0ZHeDFiM1c5VlB1TDV0cjBlb3Q3cDlvY0lwLVVqSm1rMjNfZUozZVNtMV9Nd0VTZjVScXpWd21NSFZVRzVmZU1iUUhzQ05ZRVhlN3VSYVJIdlJ0cTkxNlVMNVNSNl9iWU1HLXowcjFPTk5jY2NTZlViQTVBLWo2MTgxa3V3QW9jSG50dDI2YzdYSkJXYzQyY19lSkHSAb8BQVVfeXFMTktsTXBPM2J1SHRPVmNURU9MWmZlUmhsZ1I3Z0s0RXVBTXNMeFJCYUk5VGdUZjFqVm15dGthZDR5NDJlb2ZUaGhkZjdBVEJPRldhQ0NrTzNCR250VmNzZHE3bXR6NkZHLUQ5UVJuZ2ZkQWd5eHRfSjNQTk5jWFVaVjZKU1k3TklEMkZpc1lqUl91ZFNYRU1waFFERHAzT1NndGJzVUU4SDdEQTIxdlAxdDRfSkZfM3J4X3FFQ3poMUU?oc=5",
+   "data": "2026-11-23T16:52:35.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vk7z3n",
+   "titulo": "GTA VI: Música que lidera o Shazam Brasil já era destaque na Mundo Livre FM",
+   "fonte": "Mundo Livre FM",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFJWmI3SUx5UkR1bWJKUFBEcVJxTWpRVnAtSUlHM21mU3Ixc2lTaHFjYkxpd0lWM0pDS1VXWjBrcUxKWFFaODZWaEtueWFwV3d3aVNja29qX1BzNU96Q1JvY285cjdZQV8zNERWaTBRd1RfalRHT3dIUWxMUTQxd0NVTDBKVHBvXzF3eUtELXlKR21uMU1zODF6MGRSR04xSnI5c3laRTZ1c2ZX?oc=5",
+   "data": "2026-11-23T16:48:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vo2pvq",
+   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVF0TGstRFRyNUZvM0Z6VWVvaDF0cDY5TS02VEVKeWhfMGtxSzI2WW1mcGh1STEwM0Q1bVRoeHA2enpySDVLUFB6bmhoNXA5SVl6R2RIWk1FTjhXRFMtWERzZ1FCQS1pMDlUTGN1QTdHY1BsZ3dkWGxTLXB2ZzVvNGdJa0ZMTk82TTFNZ1hjbVFwU29BOF9LUmZzeDF2a1MtWjBPNEFHcHFoTHBOc0ZR0gG0AUFVX3lxTFBOOUlFSmoyZFZGeGpHbFJ1a1Bud0ViTmhJX2xqUlpDYnR0ZS12dWVqb0h1VFdnQ0p2ZnJDblFLeGUzaXRiYmg3TDhua2NyNlVNVWJ6SVVFTXBHNmxLTDhKN3JrZFZ3YkJmWkxrcUZhVV9BNjRGaFdTRXV2VkFxeUVEX1hvYmVIS3plbF80Z2Y3S3NkaVZpNkkzaXR0STktbE1oV29oU1dFX1FaempZOG5nWnlXWg?oc=5",
+   "data": "2026-11-23T16:46:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "azbaiy",
+   "titulo": "Dólar vai a R$ 6 e Ibovespa cai enquanto Nvidia e outras empresas de chips disparam; veja o que impacta o mercado hoje (23)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnBFcnpYbFk5dVdXOUZocHdRV0ZxY2ZyUTlXWmU2aVpWVFhHWFlzWUtnR3JNUnZpVjBmaVZMZGJzS3RYcktWOFhhU2xxNHpiTUtDR3NSOFdHRkdfbjZLd29qVTZKQW5FMUdvblJHY214dllKa3V3bHk4QXpGYnRwZkZXdGd5RXJZZmRMUzY1SUgteGlaa3ljZ1lpYmsxZzBQclJEc2M0eDZ0c2pQMGxkWE5YQm11dw?oc=5",
+   "data": "2026-11-23T16:36:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vampuj",
+   "titulo": "Os pessimistas da Nvidia enfrentam um prejuízo de US$ 12,2 bilhões com o retorno surpresa de Huang",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBteDJXdDVETGNCOFR2OF91alUtZldNMlpsWGk0S3YtQ1VZbmx5UVBRR3pQeFR0OUpCWndfcHdCUWx4UzFDRGIzdkh2a3djN0lrQW1FQW1WWjZUZGc5R09hR0JHX3g5V0lGOVBlLU00S1ZQSkM4WjZZ?oc=5",
+   "data": "2026-11-23T16:30:14.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qo38zo",
+   "titulo": "Alta na expectativa da inflação para 2027 pode impactar Ibovespa",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnQ5anNBclNqdFNZYmRqTFpfNGFJenByM0RPRVRRakFjNDBIVmlyc0Y3cTg1RG40dTU5QWhIZ1JyYTJvazB2MXF3ZURQeEoyc3FuTFFfR3Z2cnY5aGFTR1UzbDBUNVg4NlNveVg0Vi1jWG9ZSGloRE1PVjZiX3NQbnZ6NkhpV3ZwVkhoSkxIS2NMQ1RBaEdTc0N6WnRXUnNvTV9ialFCeVFVb0lYVXNEQW1TZ05BdTRB?oc=5",
+   "data": "2026-11-23T16:25:53.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "g9hl8d",
+   "titulo": "Fortuna de Jensen Huang cresce em R$ 219 bilhões após volta ao comando da Nvidia",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcC1LZk1zMFRMMTl6MGtJSUJ0NHdUMDhoR3B3bHo0a3NBa2thYVNpUGlZdWRxUmtrRTlkSE5faWxWN09LVy01ZTFtVjRZSWdkNG80N3FDN3lpamZqRHdpYVlJa1UyZ0lZUnY5SDlkaUZRaEVMMjViZGNEUldsbFZJd3dOejl1dlBFT3ExRjlNMkxiTVR5TllwS1JmWU96a1JGUGVnbm8xSG9TNWk1aFM5TzVvdUdDMnNyWE4zatIBywFBVV95cUxNdTdfT2p6NS1kRE5oQkQyLXFpSVVCbjl3RE5fbk5uOUtCMnM0TmNaY0c1NmFEcGNsNGNlZ0RRR0sxaDhhNUNYMGQzZEp5N0ZuNDd3ZjF0Q2pHbTFobkNRM1NFSFVabXdLcF9zM1gtcUZoX1BBRXlCalJhUXhaX0F1dW9GM3AtTnVGZ21fRWlaaUw0NnE2WUpnUDRUVE9NRmVzRWtmemREVC15UEwtaktacVRZQkdETEkwZVlGZTV0NE5jdTNOZ2ltTzljTQ?oc=5",
+   "data": "2026-11-23T16:21:26.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "4w3ufz",
    "titulo": "Rockstar divulga notas oficiais da primeira atualização de GTA 6 e corrige problema no clima",
@@ -291,6 +375,18 @@
    "data": "2026-11-23T14:55:06.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "b9b8pt",
+   "titulo": "Rockstar: qual será o próximo jogo do estúdio depois de GTA 6?",
+   "fonte": "TechTudo",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnRBRTYxZWdIOXp2MWVTNEZFaHZJMHF0WUdqRVlmNXU4SFV1SVI4bkRJMmNtc2UzaEFZZzFaaGJSa0U4VGlMU0VHaE9CR2lzQ1l1YkV5SW5XaDR4SU0ydHplN1JfWWRIdFdyNkZHeGpzNmp3MXN2UWFIR1EwcTRtdldtd3ptNGVtVF8yTGlZeWpRRWRmdnc2NHZTV0pWSzZsS3dmbUJ3b3ZJVUs0YmpTVmlBdExZVjdWdkZz0gHKAUFVX3lxTE9ZUDd4TUVsQlJwa3lNcUFzRnRSRXp6OWQ0REpMS1lMS21zMklOOUp2NXZRN3NfSk1UZXM2Ri03TVE1eUlvdl9KVVVmMzRaVV95U2hSNm9BWkY4dmFMZDluclB3a090ckh6QWt3a3h0X0ExaVFuZlVpWHp2Y2FJb3FWeUdDTnBqNjlQNEhicHotTTZlMkNKSFk2bmNROEJxUVd1WWxWT081eW9sSGtHbHUzbGl4dzdMeG1scWMtNXU2WmVMbUJHenRmemc?oc=5",
+   "data": "2026-11-23T14:53:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -593,6 +689,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "psn6ek",
+   "titulo": "GTA 6 recebe 1º atualização pós-lançamento; Rockstar faz mistério sobre patch",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTUzVjVGZEgyUlJNZEtPbGEzeExjTEdBb3pFNnpQM29seGJRcmxUaXY5ZEFVNE1jam9Pd1pWRGZqN2RvOWl5Y3FWRy1FS0NCYU1FQzd3cU80U3RrQXdDY2RkdVJLczNJUDRlZTFLQkQtaTNtYnQzUFBYb3N2RHBGRlRsWmlDdjdEejZkZDZ4QldnNEhTOEQyUTZ1TFFDWTFtNDFyNmZFZDZWclJjVFNsTE5QS1R4V0REbF9abTZrX05HMUVDSGRSdWotVQ?oc=5",
+   "data": "2026-11-23T14:21:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1724,114 +1832,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xwc0x8",
-   "titulo": "Rockstar troca cartaz: hype por Mandy esfria e Vicki vira a nova obsessão em GTA 6",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFVFaXNsNjlHWV9scnp0LUEzZUtqREFfVXRmc1FZcFBTR21CQktMSEVkVDVYRzdxaC16cHdfOWpRZFVaeWYyanA5Mll4TWphMC11bDRSSjU3Yk40R2dKRzdZWUUyUFR1SVdEZFlEcW45YW1RWlAzeU9FS1FEd0RtdjlOcUxaYkhiMXItdHp3?oc=5",
-   "data": "2026-11-23T09:43:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1a3x71h",
-   "titulo": "Lançamento de GTA VI: US$ 3,79 bi no 1º dia e ativações de marca",
-   "fonte": "Live MKT News",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA0WDl2NWhMQjR4cVNQZkhJTS10ME95U3FoWDdhb1NmWFpSQks3WlZxZmVsNF9uZ2JNejZRNlNFU1lRRGowSXhMbHZOVGk3Rk1ObzE0QjZfeVZlZFl1SlZ6MDZ5TVgtZWRjNUNRSTJ1NmNiVnA0QTBn?oc=5",
-   "data": "2026-11-23T09:20:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15oycbc",
-   "titulo": "Nvidia dispara mais de 7% após governo Trump apoiar Jensen Huang como CEO, alvo de alta mira forte resistência em US$ 165",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONzlSdjZTajBuamtkbE9BT2FWWmJIY1RxaWcxSjhMekZ1dG9oSmo5V0hkd3JRaWFRbmJMdV9Eb2F5WFV5T0lpRzJ6Q3oxN3Z1SDFkQThzLXpOenplT2sxNG1TWFNGQ3RhRGlCdEpnSWR2LV8xa1E5dHpVcmtGZ3dlMVJHOGpGSkNHX3JjTjJqdGNwMTF2Z09HWTRSTlJ0UW5XdUNqamdmaTJ2Qm9ZdFl3ZkYwUnB6QnVab3ByUUpYVjJBU0xHSU5LT0xvVkM?oc=5",
-   "data": "2026-11-23T09:18:27.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yvkon4",
-   "titulo": "CrowdStrike aposta na segurança de rede com compra da Zscaler em acordo de US$43,9 bi",
-   "fonte": "Portal do Holanda",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNR2o0aklrR3VGSmVTcWxmQ3VldHNZdTMtVktuaDl3Xzk3WE1HeU5fb0Q2anJra3RBdUhST2QzYTB5ZnVMZVZvM1A0RGpvQkhDZ1FpeVdwMmJxeDVNeGpLTGVIODh3TTIwSXpUMUdrcnp1TWdBTV9sNHJiTmNMMlExNTBPUFlpNkoyM2VwZUMtYVVkMzYtVE9zTDRReFNrX3RaMmM1S2hHb2JZRi1lQVQ1ZHo3Tjh1LVdTaFpzM3JYc3B1UQ?oc=5",
-   "data": "2026-11-23T09:13:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kd1mi6",
-   "titulo": "Busca por ‘data center’ dispara 170% no Google",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3dVQ3hVZEtydDQ3UksxQ1E5dWlxVWluNUNQVEhTTXBxd1NhdUtEM2pjbFd4VWYtdkxRd3oxMXltSHZKbDlWU1hZNzN4NVpFMzdLcnRRNHhPdGt2c2FZa3p0eDlJVDZ5MHlsc2tZeW5IRVBaRGpYM0hOUVBxX0dKQVY2cG9Uck9WenppSDVLS3dXdThuZ3BGTldtaE5mQktsUF9PLUY0bmpSUVE?oc=5",
-   "data": "2026-11-23T09:06:53.000Z",
-   "cat": "Movimento",
-   "empresa": "Google",
-   "score": 5,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "ytett3",
-   "titulo": "GTA 6 não tem dois minijogos populares – Rockstar explica por quê",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFV6Z1R1VnBLRG1fZjJ5VjU3eHdlbTVsTTJFWHAzb0JXRzFvelhkblpQY2lqNXN3YnhMblRVRzV5UDJfUmFoSTMweWVfeXZqQWZaRDNnWm1sZ3MzdFY5S01Odi1YczVZeThOc2NHU0lLNURmaEZCX3NyU0t2bi1BYUZaTXpGV1R5TDVMV1hOUUpmTFhNeDRVczc5UWJvYXFhb0QxT24ycHc5STA1REE?oc=5",
-   "data": "2026-11-23T08:56:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "192g3y5",
-   "titulo": "Ameaça de vazar GTA 6 escancara fraquezas inéditas na segurança da Rockstar",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WcFpyTFl6M25YNF9lbnhCSFFKUVFXbVYySV9SZWRNeVVzNm5mOXhJYzdCeXJocmhzN2FKQWJSdnd0NWpEUUZNY1lnYUFWbEFsVGo1NlJaSWZnczNoWVhkbUFNLWwzR3hqeml1ZndWeld5TDM3OFZJ?oc=5",
-   "data": "2026-11-23T08:43:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vko9q1",
-   "titulo": "Já se joga o GTA VI da PS5 com DLSS 5 no PC. Vale a pena?",
-   "fonte": "techbit.pt",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVVhDTGlKYS1CWmx1VzdNT1N4TlFyUHcxTjZ6ZGtNVlVGNGI2d1dmUWpkSWt6eDR6VzVvR1BLd0FPeUhEX2F0STJ6aGpTdDBFZGQzeDZBbk9DRUZOYV9YcQ?oc=5",
-   "data": "2026-11-23T08:39:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "znnnpe",
-   "titulo": "GTA VI tem promoções restritas em alguns países; veja lista",
-   "fonte": "Portal iG",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0xNRHRWS0xzeVFlRnJ1dHpnZko5QlhTVU5hOHNyd0ZHaGxJOWJUMGdCUjRtYUIzWUR6Q1ZEN1VJdWd0V0lMem9EUW91V3MtOVpWNTVmYkh0RTcwaWIxcm1vWEQzdVVOMWIyRk5ZUkZhdHF6UmZNREZKRTBmOUpzajlQYVc0a19MNUdwOFMzM1JfcTFs0gGaAUFVX3lxTFAyY1lhMElUSmxLVDNvSzVwel9vRk1aLWREUGRoSzJRQWRIVDJrX0VqY3JYYW80TjYzeVRaRUl1MXlPbmNWcVZ5ZERvUXc2YS1uMTVNQVJpTjlROTJlUGtuVDlrSFRhSDUzbEU3c1ZLbU96c2xWTzBleVVkX211NkVhSkRiQ1VqeC1xZ3pTRHZreDFSTXJFRS1ya3c?oc=5",
-   "data": "2026-11-23T08:29:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
