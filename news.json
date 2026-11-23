@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T09:30:26.358Z",
+ "atualizado": "2026-11-23T10:00:29.253Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -9,7 +9,8 @@
   "dig|2026-11-19": 1795082434933,
   "dig|2026-11-20": 1795168829696,
   "dig|2026-11-21": 1795255227115,
-  "dig|2026-11-22": 1795341630768
+  "dig|2026-11-22": 1795341630768,
+  "dig|2026-11-23": 1795428029253
  },
  "agenda": [
   {
@@ -72,6 +73,18 @@
    "fonte": "techbit.pt",
    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVVhDTGlKYS1CWmx1VzdNT1N4TlFyUHcxTjZ6ZGtNVlVGNGI2d1dmUWpkSWt6eDR6VzVvR1BLd0FPeUhEX2F0STJ6aGpTdDBFZGQzeDZBbk9DRUZOYV9YcQ?oc=5",
    "data": "2026-11-23T08:39:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "znnnpe",
+   "titulo": "GTA VI tem promoções restritas em alguns países; veja lista",
+   "fonte": "Portal iG",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOd0xNRHRWS0xzeVFlRnJ1dHpnZko5QlhTVU5hOHNyd0ZHaGxJOWJUMGdCUjRtYUIzWUR6Q1ZEN1VJdWd0V0lMem9EUW91V3MtOVpWNTVmYkh0RTcwaWIxcm1vWEQzdVVOMWIyRk5ZUkZhdHF6UmZNREZKRTBmOUpzajlQYVc0a19MNUdwOFMzM1JfcTFs0gGaAUFVX3lxTFAyY1lhMElUSmxLVDNvSzVwel9vRk1aLWREUGRoSzJRQWRIVDJrX0VqY3JYYW80TjYzeVRaRUl1MXlPbmNWcVZ5ZERvUXc2YS1uMTVNQVJpTjlROTJlUGtuVDlrSFRhSDUzbEU3c1ZLbU96c2xWTzBleVVkX211NkVhSkRiQ1VqeC1xZ3pTRHZreDFSTXJFRS1ya3c?oc=5",
+   "data": "2026-11-23T08:29:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -211,6 +224,18 @@
    "avisado": false
   },
   {
+   "id": "ejbjng",
+   "titulo": "Rockstar aposta em Bryan Zampella para viver Jason em GTA 6 e renova o manual do estrelato low profile",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQYzl1WjVhMlBsUXR4XzA2REIwb0VYbFpySEh3MVFheTEzSEt1dFc1MmsxWU16Y2lJTjhHMFkxNERYNWx6WDFVVDVEbThOY1BmMjl2bVBqTEJzTlRxYjlhcmpQM2pJLXZaaUZGVFpON2M0M1ZkWUJhMWp1ZURNbnlMamxDX1NacUJ6ampJ?oc=5",
+   "data": "2026-11-23T04:43:39.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1cblp6i",
    "titulo": "Trump defende o retorno de Jensen Huang à Nvidia após renúncia do executivo. Conselho da fabricante mantém posição contrária à reintegração.",
    "fonte": "www.portalviu.com.br",
@@ -220,7 +245,8 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795428029253
   },
   {
    "id": "1iavtkj",
@@ -1809,30 +1835,6 @@
    "empresa": "",
    "score": 4,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l7md8p",
-   "titulo": "Após dois adiamentos, jogo GTA VI fatura US$ 3,8 bilhões no primeiro dia",
-   "fonte": "Jornal O Sul",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0FfVldXR3dVcjdSQThISDVRZm81N09hVDhGdGlYR1F1VHVZcGNCaHVfbF83cWk4TnFDYW1WVWZ0SEU0TDVqZnVRQUJMRVBONkN4QlM5dHU0TXNoNXEwUVBGVzhyVzROd1J6UkVxTXlQR01TX1RiV1YyZ0gyRlBVdWFUM1NBNGJTaG9mOU1hVG1FdDB5cEtqcWtB0gGfAUFVX3lxTE9EbU1tSDNGSVlIRzZ4SVRxVEVCMmhJb3RFZ3VqUm1DRTZrWUR3emxGRXgzcHlPTVMtS1VYT3F2M3B0b2dvQUNjN2JTcHBGYzZpdWdOR011UWZCLTRKYTNGS2tFZThZZGx5UTFNZUJEblloelljT1dpZUwwNk9GWllyMXlIb1BRU3dmUzVMRUpzVmVVSjhtWUk3TnRaSlJTYw?oc=5",
-   "data": "2026-11-22T00:52:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "62cejs",
-   "titulo": "Rockstar banca hype de GTA 6 e confirma estreia do vídeo na Netflix mesmo após novos vazamentos",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHFEU2RnX09FTWQ1UXRMWlg1aHl6VXZlSy03WGRYUVV1X3RBX20wSEVCTWRXcUpIOGtCVEE0Z0ZVVmpSVjUxZ3VyYkRYRV9tcjZSNU5mR2kzNEdpbjFJZ2xnR3J6N09zX1J2NkZEcnhUNFgtZk5nZFloTEl2QUtReC1JRmpsVXZq?oc=5",
-   "data": "2026-11-22T00:28:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
