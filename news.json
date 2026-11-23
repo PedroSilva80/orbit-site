@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T06:00:28.880Z",
+ "atualizado": "2026-11-23T06:30:26.288Z",
  "agendaCal": "2026-11-23T01:00:31.454Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "wfwa2r",
+   "titulo": "Petrobras ganha importância estratégica com recorde das exportações globais de petróleo apesar do bloqueio de Ormuz",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMGxCZEZDc3BUN1lGa1lha1JMWlNHR2ptdUJHU3lrUkl1eG9CNXdHZUNyWk5PYkFPNnR1eTVqZ0J6ZHc4V2hHUXpWUjBiU1l3a3VXQndqYjVkYmx5RGNrMU9BS2dndGpPZWE1MnpCRHVMTy01bXJwR1hzcUhwQlo5R2NZYm9jYXo4WkI3WU1vcEtJX01sOVFnTjZBZ2NoaHBQVUwtdk1uOGIxMTlzeXplZTI1aDFKYThnMS0zbkVvekozamhZbk54SWdkUDkwYWtJNE5xcGdaZEFZaUZXUnhuNDJxWms2UQ?oc=5",
+   "data": "2026-11-23T06:05:20.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1emy5yn",
+   "titulo": "Por que o IPO da Anthropic gera controvérsia em Wall Street: ANT se aproxima do preço de oferta de US$ 83, exercício antecipado do greenshoe atrai escrutínio",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS3ZHdjBDRzExUUc2RkdZUjZMWGVXcHNmTWJzc2JtQjBhM3dPMFNWRHNBSC00OWFGVUVCOWdSZjlhU2RSZ21wbEU4eUxVT2NsZldURFRsbXNzX3ZpSEdPUktyb3phUVlVYWZSNi16dGRnQTlYUWlBdjJfaGc1dERDVzAzLTlHZFIxaC1zUUZsSnBGcEZSb0JxS3A1Tjg5Z3JLTTdqeTBKSUNHclFvODRBakNsYUpDOXRtcllNS053UTVQWk5pdUFYYmd5NmduWU1vb1gtU2hPeko2Q0l5?oc=5",
+   "data": "2026-11-23T05:57:18.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "185z5ys",
+   "titulo": "Destaques da semana: GTA VI e as marcas que seguiram o fã",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9IWHRGWm1tay02Nkl6SkR2aXFrNlRaOXlkVlhiUUw3cmhvTGdZMm9OYVhidkRST1VPZ2JvZ1YwTHBUOTRCUV95cDlYeHY0MFZ6RHktdC1XRy1lZ2xUUWNma3dYS2F6YklEWk5KeFBPTGhKWEF2UXVfamxn?oc=5",
+   "data": "2026-11-23T04:51:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1cblp6i",
    "titulo": "Trump defende o retorno de Jensen Huang à Nvidia após renúncia do executivo. Conselho da fabricante mantém posição contrária à reintegração.",
@@ -1797,43 +1833,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1du5d27",
-   "titulo": "Azzas tomba mais 7% e sofre maior queda do dia; veja os destaques do Ibovespa hoje",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNc0NPU1ZzNEZpUnQzNG9uWDFEcVRSNUMwQi1BOXI4bWlFemNnem9uUXRHMUZhOTJNQUdtekVSMldydkRIYURBZFJzcS1OZmQyTm95czhiY3pWUi1BTWt2R1dFdWxnd1ItYmltRkxiQUk1TjZjUGRLaDlzZkgyR1BQYjFvOGxiV3NqZF9QV25DZkZ5Q3dUdWtqVmpWbVZpd2RfY2taMFFab2dHLXFpeHdzTThyaEczdnlFZkNsaWJuQksyQi01c3R5djEtd1hzVkJ6Z2hkZ2VCVjhrUQ?oc=5",
-   "data": "2026-11-21T20:48:32.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l7j94y",
-   "titulo": "Amazon negocia compra da startup Decart em acordo bilionário para ganhar eficiência em IA",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT1M4enBicUJJZjNRSExlRnFxS1YwaHBfMzdDMEFQS0FZZTBrTUpvanZIVDhWbDJNNVpyQjh6d1pPYnZjeUlCcnU2bEhqUGhGU3QtYVZodjZ6Ymw5WFpCVi12dzRKM0w3a29nUkRheWxQcXhaRVZyMmhZVkVGdmlDY0lIaXpEaWl5a05GYnZPOHltaXM4bWs4amx3SmhkdFp5NkMxeVFTQWJ4d3A4TEZucWl1THVoOERoY3VGclgtQ0h0cTh2eGExS1BXQzQ1STYwaUxOTTBrdU4?oc=5",
-   "data": "2026-11-21T20:37:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Amazon",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795296626107
-  },
-  {
-   "id": "tiwj1b",
-   "titulo": "Nvidia tirou Singapura do balanço, e agora SEC mira sua contabilidade, diz agência",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMV9NNFhqa3lwWmsweUludTk0WFNwUnpkbUpKeGFnUDVhQ0xtbU91X24yM1NjcXFIS29hbEJTMlJWYk1CaGNOUHk5cXI5UzNFM1RhbHYycEhsNUpleVJfVmRfLUxyTHFJWVB1Sjg0QlhfQmVTVndRbkU4WVotLUhiT2cwb1FaZ3FMLXZVVHN6ZXFYRmtDV2RaQTVRYUE2bkJuMVJEWkxmLUl2YVJBWVVZeVZibmhOdw?oc=5",
-   "data": "2026-11-21T20:19:36.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
