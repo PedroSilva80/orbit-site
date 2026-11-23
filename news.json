@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T09:00:33.298Z",
+ "atualizado": "2026-11-23T09:30:26.358Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,42 @@
  ],
  "itens": [
   {
+   "id": "15oycbc",
+   "titulo": "Nvidia dispara mais de 7% após governo Trump apoiar Jensen Huang como CEO, alvo de alta mira forte resistência em US$ 165",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONzlSdjZTajBuamtkbE9BT2FWWmJIY1RxaWcxSjhMekZ1dG9oSmo5V0hkd3JRaWFRbmJMdV9Eb2F5WFV5T0lpRzJ6Q3oxN3Z1SDFkQThzLXpOenplT2sxNG1TWFNGQ3RhRGlCdEpnSWR2LV8xa1E5dHpVcmtGZ3dlMVJHOGpGSkNHX3JjTjJqdGNwMTF2Z09HWTRSTlJ0UW5XdUNqamdmaTJ2Qm9ZdFl3ZkYwUnB6QnVab3ByUUpYVjJBU0xHSU5LT0xvVkM?oc=5",
+   "data": "2026-11-23T09:18:27.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kd1mi6",
+   "titulo": "Busca por ‘data center’ dispara 170% no Google",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU3dVQ3hVZEtydDQ3UksxQ1E5dWlxVWluNUNQVEhTTXBxd1NhdUtEM2pjbFd4VWYtdkxRd3oxMXltSHZKbDlWU1hZNzN4NVpFMzdLcnRRNHhPdGt2c2FZa3p0eDlJVDZ5MHlsc2tZeW5IRVBaRGpYM0hOUVBxX0dKQVY2cG9Uck9WenppSDVLS3dXdThuZ3BGTldtaE5mQktsUF9PLUY0bmpSUVE?oc=5",
+   "data": "2026-11-23T09:06:53.000Z",
+   "cat": "Movimento",
+   "empresa": "Google",
+   "score": 5,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "ytett3",
+   "titulo": "GTA 6 não tem dois minijogos populares – Rockstar explica por quê",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSFV6Z1R1VnBLRG1fZjJ5VjU3eHdlbTVsTTJFWHAzb0JXRzFvelhkblpQY2lqNXN3YnhMblRVRzV5UDJfUmFoSTMweWVfeXZqQWZaRDNnWm1sZ3MzdFY5S01Odi1YczVZeThOc2NHU0lLNURmaEZCX3NyU0t2bi1BYUZaTXpGV1R5TDVMV1hOUUpmTFhNeDRVczc5UWJvYXFhb0QxT24ycHc5STA1REE?oc=5",
+   "data": "2026-11-23T08:56:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1vko9q1",
    "titulo": "Já se joga o GTA VI da PS5 com DLSS 5 no PC. Vale a pena?",
    "fonte": "techbit.pt",
@@ -51,6 +87,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1y9325b",
+   "titulo": "IPO da Anthropic não afasta preocupações com setor de IA",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQklvd1ZuTXNhMHp4Yy1jdlBvV2tTbkhqOS1sQjZoZHBIZ21RYkdGQnY3NFVuX2xqVndHRndrSGswcGRORVVHeEw4eWg2NVI2VnVhTUJMaXU3TnRuOXZnWnBrQzQ4Tk5uQjM4cmZOSXVWbUJZa3BvdHN2TjBaQnVXQkFqYk9hczZRRmJ4Mm5EZXRmelBxY215dVFfY0kyeDA3S29n0gGyAUFVX3lxTE5keUxEUTlmekRkazdIaXh2ZFRnSzNYNEdKNmhpNWVnUDZrZGM4RjZtVFVlQWhRUGs3MFQ3TFpXRENlMUhLTlNrOVBlMTBJa1FqOFl5MFJJSEhBdjRxYWJsZDJ3QXBpSk9lMGtudlRZTkNYaU1nbjlvTnBybmE1T2tYNUVkdDRCTGQycDJZT0xIcGs3MkFyYUZ3T0V0WXI3a25FWGNoMEthV3UwYzYzUXNQbFE?oc=5",
+   "data": "2026-11-23T08:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1785,55 +1833,6 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "17dqan4",
-   "titulo": "Serviços da Apple também ficaram fora do ar; empresa descarta ataque hacker",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPamhqWTB5V2o5eE05dTE4a1FKT01WVXFzRlM3VG9EZ0NvWFppdzFzdnJwWEJsZ1I5X1RHTGw1dGJMTWpRTC1vU0lZM1NJeldlSEFyQy01TVQzOERDakJaTzB0bVRUWWhmdGF6TDNCbmhZZjZCWUplaEtQalhtNldLdkFIVkhzSnJWOUFBMzEtbVJlOXRnWTlHYXJZR0lxR3dyRE1DdzkyTVc4N0RWUHV4di1idWdCc0tTTk13a0ZjNzJuQURpM19CMA?oc=5",
-   "data": "2026-11-22T00:19:42.000Z",
-   "cat": "Risco grave",
-   "empresa": "Apple",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795342499167
-  },
-  {
-   "id": "187susl",
-   "titulo": "Hacker que vazou gameplay de GTA 6 se declara culpado",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQenVsT2JjbWRGUmx0Nmw1R0lYZE9Lc09iTDJXdlgzYm9Kem01T0ZLMmVOcnRxZHdqQ0VUd3VIQWRBYWxuVHZZVGJPaXh2b3FhZlcyQXZaRTVaUFhkbzlCZGRJVjg2X09vY2diaG1fYzQ2TTZaOWJCMm1aYzlpVzNOdFFVZGhEZUZuR05VVkNmNlVlNF90Zk5tLVhUZ1FzemludFBvQ19mN1o4d1RmbS1Pbnh3VnUzS3NObHFwd25nVURmUkFp?oc=5",
-   "data": "2026-11-21T23:55:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1r2d1oj",
-   "titulo": "IPO da Anthropic ANT: preço das ações Claude e fatos essenciais em 2026",
-   "fonte": "Bleap",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZnZYbkhjWWdlU0htTjdVYXdEQnNla1pDYWtsNDlzODhNaGVmNV9jSmwxU2ROUUk3ZThCNGtMN2tVRkpueUtqcFY4M1ZGcUZWN2YxZExhVkxEZTlxOTB2UlJzcDRPU1FPYm03T3JEc3FNRkdwQ3VaSW1qRFpXS0E1bDBRU2JxVjlTX05hR2Rycw?oc=5",
-   "data": "2026-11-21T23:44:42.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1h2rnjj",
-   "titulo": "Dúvida sobre eleição de Lula e guerra frearam fundo de florestas, mas bateremos meta, diz embaixador",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQM0pYNmY2TWU5Unp3WU03a2FfOHdfWFMwRWRPeXZadXl4R2QtZkZWeDRkQkdGOHdWd1lSM3lKWWxJVXR4VEdKQW5HX1VfdW5nSVBGYjYtVGZDYzlqdDJRT19WbDQxZzY0WkRhdXgzNE1UZnhRd3BUSmFndzgtLU5sQW9wNGl4TVpuWUdma2dYMXdCb2Vlc05VdU9VRE44UWw5UU1iQ0JoZzdlbmZOWFZYR3VXRmFydWsyRDBZaHRuVmVGZlJ5Zmsyc2tZbTJuRHJrd0ZibnNPZ28?oc=5",
-   "data": "2026-11-21T23:08:39.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
    "avisado": false
   }
  ]
