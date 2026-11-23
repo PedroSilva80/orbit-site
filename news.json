@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T21:30:31.322Z",
+ "atualizado": "2026-11-23T22:00:33.225Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,42 @@
  ],
  "itens": [
   {
+   "id": "1pdprpk",
+   "titulo": "Nação Zumbi, IZA e 'GTA VI': Veja os lançamentos musicais da semana",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zeTUtajNCakZEX1EzUGVpVldPc1Zyb3d1aDNQU0RFeEdWLVUtNmkxUm9uX0g0cGthVERRMEplVmNjS0VKUm43RVJKaVk5bHAzd0RpTmZQdmROajhGVFRmUTdqRGNjakE?oc=5",
+   "data": "2026-11-23T21:56:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ogq84q",
+   "titulo": "BRB tem o registro suspenso pela CVM e as ações BSLI3 e BSLI4 saem da negociação na B3",
+   "fonte": "soubrasilia.com",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFFzNDRrc1FQR2E3WHl5MG9nVTNaRHBmQTN1UUFoRjFha3J4UkpVYjNMdU5sSnc1a2VKRDg5eGpoVUNETjBUaG93R21LNGotTElZa1JodDR3SzRrbXBubzZHWGh2UnFTQzF5eVdtQWJTQ194QklPVDVPVEwyWldwYmZVMC1na0ZkekFXcGQxQQ?oc=5",
+   "data": "2026-11-23T21:39:09.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "5hqreh",
+   "titulo": "Bolsas dos EUA disparam com rali da Nvidia, enquanto petróleo tomba",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5tM3F6QlVPZlRST0JFMkxJa3ByVzkweUZ4M2ZiTk1uNTd3WDZmc0tiWk9aRUFNRXo2TWNOVy1yRkl6Q0p6ZHZubjg0YXNtYU5NN0ZPOWlUamE3d2I1M09fb3BmQWdOSkxFTktKNjREZXNKSEtCeG9jcElhZnQtRzQ?oc=5",
+   "data": "2026-11-23T21:38:14.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "hk1cxx",
    "titulo": "Primeira música póstuma de D’Angelo é lançada no GTA VI",
    "fonte": "Assine Abril",
@@ -73,6 +109,18 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "19k277a",
+   "titulo": "CBV cobra esclarecimentos ao Suzano por salários atrasados e avalia sanções graves ao clube",
+   "fonte": "ge",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdk5YdDFKNXRoWW5aUGlZb0VVUEVhV0dvMXpYRl9zX1NaUDU1QkoxcWVyMTY3YkNyV01WSjI0Nk1MLXRFX1FkcXA3M3hVS09KUGVIOHlPaTREMEtzUUF3dmt6THQ3VThWc2FRUmZpenZ6RExnOHR5b0tLT0F2LXNEQTlGQ2Jsd19XNFBkVWE2aC12bmZ3MV9rdG9uNEVpR0JoZ00tQWhNSEVoM0pfVTFMalhYUWdMLWRZemt6TWMxZGdEcW5taC1KMGM3VjBkTEdIVTBpanBkNDV3cG_SAeoBQVVfeXFMUGxSV2REcDhDV2FyV0dkRmItcnFxT21CdXBNc3lRWVphMjVLNVZ1NU9aYmRwZ2VOZFprSUZ6N2pTdEpNbDZVd0l2dVJOY2hFcjZkUVV1VFlVQWpYQUVRNHNsYnJBeTR6U191OVFWQ1NreC1QMGtyeVBlR1ctM1dMb0tZT09OVWNkbDNLZTk0WnFOcTBzSzROSHVreE5aa2ZEOFBCb0hqOHM5eG90dnhkU2lBNEo4WWlWSlE4NkZKMUVUQXdseHg3SVlkcG5OMEhEQ2xiLTVFYUJZd05GRGRvTnJwSG53SldHVmpn?oc=5",
+   "data": "2026-11-23T21:12:50.000Z",
+   "cat": "Regulação",
+   "empresa": "Suzano",
+   "score": 6,
+   "marco": false,
    "avisado": false
   },
   {
@@ -181,6 +229,18 @@
    "cat": "Liderança",
    "empresa": "",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ww85ad",
+   "titulo": "Por que o retorno de Jensen Huang à Nvidia pode prejudicar as ações da Anthropic?",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAyOXE0VDQ5OVdZWmtMV0UyTFZKZWRvRDdNd2VBc05HUm9Qb1lMUURsUDhBRk9kZzVnY1N3THJSZHV5Qmh5aHB4TmFUQkJWWVgtaFc3RDhSMUJlcG01NkJ1ZTltMWNLQzVOY3oxOGJrSTBxTnQ4Umc2eTRPNkk?oc=5",
+   "data": "2026-11-23T19:50:06.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -566,6 +626,18 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lla13",
+   "titulo": "Ações da Nebius e da IREN sobem após retorno de Jensen Huang: a alta se mantém?",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBzclBYdlNkRXhKeVl3RzVGcS1id1hrbXRqbU0tby1CNlh4TnY4RjlGcm5rOFdaWjBGSlpzaEJCMHpXdHhNaFcwaldySnc5NGpsNDhJV2d6Y2tScFdhYmZCem9URDU3Zw?oc=5",
+   "data": "2026-11-23T17:50:42.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1770,78 +1842,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1249lu1",
-   "titulo": "Corpo é encontrado em rio de Ubatuba após temporal que alagou ruas; polícia investiga se morte tem relação com enchente",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQZlZkUEZDaEl6MTVzd1g1eUVjdVJacklQY2xISDM3c3lvLWtzUE1aRFp5ZWIzT3pLVjNCbThvX2lsV2FhejBXMXc0NFE2V3l3TVA1TGJGa3FfelFWRldYMk1ObmFUeC1fQTlmTEVMTWlkRjM3dC11ck1TeTBabXEzRmRRWnVzUmEwRm9QMTR3V05vdDQxeVlkMnhXLXdRZl9VLUpTWDJYY2EzdXdiRGZrNTFZajVDM2p4YWhoblhrWDE3dHBTUWViMHFuQnExTm00MlZ2cXp2dXRxZmNZYUVaa19fNTZHSU1YWUVsbDZUTTZyOVRFRkViTkJMdl83LWtSb3ZYU25XM3BlOVdUeW0xbzBQQUlCYUx0dmfSAagCQVVfeXFMTWxrYXZMWjFxaVJldWhBc0lXaVJoQTBzODFUdTdVUEVIVzlmQ1QxWDRBMG9uNzZtR2M1cXUwQ1VmMTB4eThwYmI4V1dQbUdQVVpNSEktR1ZBYnQyeUJDRXpPd3I3QUtwYmlBY0JkY0N3ZmQ5QmlPN2NmS0dLLTE0RkozTkRyTDZGNFBOWG5XaENWbUtoQ0s5a3ZCWHMxaDRPRmI5V3o5U09icWhOUlA1UDdCRFBnd1dzX0F1eTZxb3FwWUxSRzNYUzI4clB6ZkxXcmVjQWQtS2l5WUJnZHpvbElWNUFnNnVYTEtnSFJBcDF1WUZyVlVURmlYQnRaNUs0UXhQeUI4NDhkT2k0Zm5IenRtT21fNHoxTlhOajdHaGF6WTZQTkNkZDM?oc=5",
-   "data": "2026-11-23T13:44:47.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wnao78",
-   "titulo": "Texas Pacific Land confirma compra da EagleRock; ação sinaliza mais queda",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oNW1SSWpFS2dmTEo3T2d1LUNyeHQ1VldpNF8yS1RmenZVZE9BelhQNFJWckZ4SWx3LThNTE90TkY4UkFwVTgyS3RGeUdqcm1CRWUxc2VtbE5lS0tjWExWZWQzNzRNUQ?oc=5",
-   "data": "2026-11-23T13:44:37.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xqmn4y",
-   "titulo": "Trump pede que Nvidia readmita ex-CEO Jensen Huang, do caso com \"espiã\"",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPd05wWEljNmpibEpQcHgxb3pqQTltR2pLNFZqU3JZb1hacGtoMnQ0VVhPd2RNZHpzWG1NaHA3ODdLdkw3amNIaTBfNkdUSkxZNjhJRzVUNktYVFBibmh5RlFncGdwX3NSVk9KX05NNEt2NGktYlNMUXhaQ1h4a3FZMEhrQTVUa29KaGw2dHdwY0NFdmp0a01vbmZjd044SHNUbFFF?oc=5",
-   "data": "2026-11-23T13:39:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lh8d85",
-   "titulo": "GTA 6 | Protagonista mulher \"devia ter acontecido há muito tempo\", diz ex-Rockstar",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjZkTUdkWDVwZFo1Smw3RHZYRmZ6c1VHVy1pMHFMeUJqSWdaYllkanprY2NlWWU5OWlTRWlnMjkyRkY0UXFkM29oYy1NTG9OYkNkckRxS0JlMWdsVXVJTXZld3pxWnZWdy1JNElFbHZrcmI1bnJIdUR6ZmFFVHRMZkVOZmNYaU85RUlfS2VwbDNGR2dUN3Jmcy03TUgtRUt6alU5UWM1SzZIMjgtNVN3?oc=5",
-   "data": "2026-11-23T13:35:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "scjqjs",
-   "titulo": "Bradesco projeta alta de 0,36% na prévia da inflação de novembro",
-   "fonte": "O Cafezinho",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWjV0WEdkZUV0V3Q4aldfbi1NNEhJODRvSE5DWk5laFA1cndyQ1NOa0xpb1kyRDJ5ZG9IYlM5YlEyYlNVMDZlbDRuWTNCNmU0dUVzYnh0SDQyZnJHeldNSW9UWnRKVzNXLTRqYmFsMjZIcVN0d1FrRThkVDdzdEstSjNGMmMzUm1lTFk2ZG9oV2E4U29uSXgzS2RXakJ3dktlLTNz0gGoAUFVX3lxTE9nMmtLWTFQRG5yZlFrSUV0X0c1WnozREstMDBYbkZDNW9DeFFKNXJCX2FwcFY5ZWdWZ0phTnFORDRMMXRfbDdrVDRWcjBjT1d2RXFGRnp6dnFSYVVJUHVSSy1ScExKeDI1bUZqeGpLVV92OXJ1QXNFN1hraFdWT0JBcGkzT01zWFE2c0I5RlhDNl8zR3lHRHI5YmtGSUtnUlJoc1JVNzVDWg?oc=5",
-   "data": "2026-11-23T13:33:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "vil3e8",
-   "titulo": "Campanha usa GTA VI para incentivar a doação de sangue",
-   "fonte": "EP Grupo",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMGFZemwtVTlrcUZGaVlwSGFFOUdlQ09ITFFMY0tsMnUyVUdPVVBSSmlrdm44b1d5N3dMeXBVSUhWMXFBTmY3RFF2SWdDR1dueS01SlBTYTdjRU5COXVFLWFvQ1I1aWF6MkxXZlY1VDRjNFM4dW1CWTdjMkxoanhSWktWNnA?oc=5",
-   "data": "2026-11-23T13:32:04.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
