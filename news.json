@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T08:00:29.164Z",
+ "atualizado": "2026-11-23T08:30:27.120Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -30,6 +30,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1uye8ar",
+   "titulo": "\"GTA 6\" fatura US$ 3,79 bilhões em 24 horas e estabelece recorde histórico",
+   "fonte": "Caderno Pop",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVadlE0cDNtQkh2dFgtMzlVQ3VoWjNGZmE2U3czaGRBQ2VLbEZ1S3pPZHUxLWFRMzhJU096dEwwYW9kNGJXY1ZwUFJBYmZTUkpGSU16SU5VUEZZZ2VzcS1YVjVwVWZILTlqSVVySXo4bEtaUjVhVk9kX2xkY09TTjZ0R0tYSVlkWjJBYjFBRHM3Y1ZSZjFXRUNnckFEZw?oc=5",
+   "data": "2026-11-23T08:05:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vj9mbz",
+   "titulo": "Anthropic faz sete fundadores bilionários com IPO de US$ 81 bilhões",
+   "fonte": "politiza brasil",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IQTg4V3hLZGlnT0ZMdXJubUM5VlhHT25UTG5wVTNDUEVxWFd3MGZKZzk4S2t2cURZdVV4TG1wd2gzTjRnUmtfZ0s5d3J2ODQ0c3hwalFOS2tFanJvU1ZSd2ZPSnlUb3Fmbkowd1l0SVhLa1R2dHhxUWgzYnM?oc=5",
+   "data": "2026-11-23T07:57:16.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1xkctz3",
    "titulo": "Ibovespa hoje enfrenta novo teste com dados dos EUA e projeções de juros e inflação no Brasil",
@@ -63,6 +87,18 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1de0f5b",
+   "titulo": "Anthropic supera SpaceX e faz o maior IPO da história. Veja o ranking dos dez maiores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE5fbmg5dm45QmQ3TW56dEdnV1FBMi15NXI4Tmo4MldjbmROb1lIYlU1QVFjX2Z1MWFSWkFyUHNJTlpTNDZKak5MUGpidy1ZSUFRcWxUNjNmYTI4SGRlQjMyVW1UZ1pfQ2owYkR5RXg4LXRvQjlmR3VnZWVSUnRfc1ZQSm9iUG9zV0Jqb3IxeHFOeXBDYllxT0xlS0pMbVh3ckhrdS00Q09ZcEpGcGtaLWxqNkd0UXE5dTREODRVZFlsTGJIejQ0UC1waUVYR1JlV2FnT0o0Z29sUmRDb21sZTZoODBGdw?oc=5",
+   "data": "2026-11-23T06:21:23.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1796,42 +1832,6 @@
    "data": "2026-11-21T23:01:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1c2hwcc",
-   "titulo": "Amazon negocia compra da startup Decart por US$ 7,5 bilhões para ampliar atuação em IA",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1M2UW52QnVhbUw1YnJjQU5lTEN5LWxnSWM3SjhRaV9BNDdvV18xb1lLMkpFSXdmdWZpMVczaXVRNk1jaE1GQXZIdlVPQUhUaXc2bmRpRm5HYldubnZKU1NzcUtydjJfQVc3Y1JUZEVud242d3V1aWZfYXJIY19STnlxbEkwemdnZEljVjExMndrMnlaSnYyV0syRzdXN0xHa0lyakVMX0pGU3NQaVlvTUMtX01ibmpJUDg4?oc=5",
-   "data": "2026-11-21T23:00:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Amazon",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1snhtdi",
-   "titulo": "Netflix fecha pacote inédito de três partes com One-Punch Man e reabre guerra dos super-heróis no streaming",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0g4Zi12WktfLWJIczJTZGF3RmtZa2NnV1FGUmxudlZFc2hpbXQ5YW1xMEx5eWZSdG9nLWNra1pyQVdvY1F4OXB0azh0U2xCem9fZS1SRnJ0aERHTTBla1JEajh2QjNJdlJQemZ0ZXNaRHQwSS1yTmpxUlE0ZzRZcm1ZbzE?oc=5",
-   "data": "2026-11-21T22:13:25.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a0qpb4",
-   "titulo": "GTA 6 | Rockstar explica por que cortou parque da Disney",
-   "fonte": "Cabana do Leitor",
-   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iUUhuQTFKM3BrMjRoa25CTWNtMnFseDRWdlljU2dRR3FlTnhDOFcyZEhaZXB6UWI1Y29Bc2M2dVBqdGZORXp2X0JvRUtPYmFINWI1aktOVWNSaV93Q1FmWTlSa3ZVTDl4eGRuZ2hZOA?oc=5",
-   "data": "2026-11-21T22:11:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
