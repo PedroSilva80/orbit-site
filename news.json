@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T10:00:29.253Z",
+ "atualizado": "2026-11-23T10:30:26.427Z",
  "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -31,6 +31,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "tn1v87",
+   "titulo": "Ajuste fiscal mexe com bolsa enquanto semana é mais curta lá fora; Ibovespa em dólar salta nesta segunda-feira (23)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQLUc0YjB3U1NvNE4wZ25WdEh3NzBycy1NT2FmMW9aV3A1TWV3VExuYzBKbkNBc2dPQ3NBU0UzelFyRV8wNVBXUXNkVy03bFBjd3VuNlg2SVVtRlJlZGNYSlBNY0FDNmxCREd5QjBNbXd2Yi1lTmtmQnZZWnB0ZHNvWGNoMWttNlhmdkF2Z2dnN3BsbnE2Q2ZxQ2lJZ2lrQmJwWFhMQ1c0U0lVcThYOW8ydWl4V1BHSm13SVIwbm42dkpqRC1WajFJazdxbHo1MHItM1d4SElTd3QzZDlJZUs2UVFR?oc=5",
+   "data": "2026-11-23T10:13:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oeofhv",
+   "titulo": "Moto Tag 3? Rastreador aparece na Amazon, mas detalhe levanta suspeita sobre o lançamento",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNblFXdnp6WXlCblFTYV9pTFFKQ2RkN3hGbUlkVEMzNTdPWVlzSUdlaHdFa2xmUTk2VjBEN092VVZKdVA1bngyLTN5eUw4OG93TGM1Q1ZuckhFLWVXQi1ZMV9aV0dHSnhMNTktZFVrcEhyMFNCb3N3R3hpUGItSXlLbGlYSUhkNHhLdWlYS0pfOWtsS2lwcTI0cDd3?oc=5",
+   "data": "2026-11-23T10:04:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "110yq3h",
+   "titulo": "Amante de ex-CEO da Nvidia tinha contato direto com funcionário de agência de espionagem da China, diz NYT",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPZVF6TlZHQXVTeG1tOEJlZkJLVWt1WjVVd3lHcTJscHBYM045Sjc3SlNrNWJ6eVRzOFJBOElxODlabDdrcnhpWjBKNkNzU2p4cmg3dUYwZG5RbF9uMW5GUG1MSlFaMzRWbjdyTVRTQjN3cUhZc09TR3p3YnVPbzB0NjZlV2hXbzhvNG5WYVVLeFVQY28tQlhLWTZhMm51ekQ2S0E0T1pYMzlfNEFlRkRQa0xXWWFNWUdxZnBwTnZjNjI5WFRwOEVWMGViYUUxV0hwS1FGX1lxWDJGT3p5NGsyOFlKYTFWXzNYa2lOWVZPZ9IB_gFBVV95cUxOR0MtLXFuazViOE5JUEhBdzBsZnhya1FINWFLbXZYU0R6RzFueUJ3SHpJUmN5ZWtURnQtNGowVDcwd1ZnS2NjcW5RZGxPaTR1eURYckxMckU5aUpETmh1bnNBazBIcHpiQ2dCWElIcndVZHB6NDJVY1dtQ19QSzU3aTlHdEMwNTZKZnZhUDlJTXVhcTF6VVFPQ01qN19odHdseDk3bG5oaVJKUnFpZkNqYndwaWRJcXFnSmpkRWF6S2c4bS1ZcU1KeElNejhMX1RpUWhNR2FZNXFBeDRCcWNlaWh2N25ieDQzY1RscGxiSHphOG5Bc3ZtQWItOEd4Zw?oc=5",
+   "data": "2026-11-23T10:01:17.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "15oycbc",
    "titulo": "Nvidia dispara mais de 7% após governo Trump apoiar Jensen Huang como CEO, alvo de alta mira forte resistência em US$ 165",
@@ -1798,42 +1834,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dp4uhk",
-   "titulo": "Julgamento da Rockstar por práticas antissindicais termina na véspera de GTA 6, com o juiz prometendo dar o veredito \"o mais rápido que eu puder\"",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPOEFpUl95bzg0U1FUdXN5RHhYYXBBOHVYV2NOeXprbkhlRVlpaGN3LXdPa3o3ZEJPT2U2VDlwSFVhUm03dXRQTHFQblEtcXQ0al9ZR3dUaG1DWHBWTld1MVNhdzlVWVdyakVrOEEyQy1HU2dxMi1pLVZWWVdNMVUwUTV1eVlnOW8wNExRUVJUU1paVHduQ1BzZm9ybDJzN1VTbFlWZ3dlNVRTUjQxczJCY2dYTnZIU0I3UG1faEViSU1vbVR2VkVaS0ZacXRFYWNCQ3BvOEtiazdaa2ZYZ0xEZkxTd3BLYVhmUVEtUThmRFRuNThISXNWTDRsdU83MXZQeHVZaWxqWk1iZ2hkZ1VrQmpNTzNEUzA?oc=5",
-   "data": "2026-11-22T01:12:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z6op04",
-   "titulo": "Diogo Morgado diz que GTA VI poderá ser \"o hype mais validado dos últimos 20 anos\" da cultura pop\"",
-   "fonte": "CNN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNXzNzTTZHS0E1dXp1d1NaR1VFQjFXR2pzWmJNekwxTmw0SENSaktHRURpRGF6a1Y1NnJ1dEhJdjRQSWxkc2NwRGJBejFiTTExTmYzd0JrQXRHQVIzbEx1bFBOcGlfUXkwMVNjWGEyNWtOaUJobWh3UEdfZk92YXRjNGRpMUZQWmVPLWRhYmQ1dk54V25CWmNMeVA4OXdNOFExNDZFbFVIeFkxLW10a1ZKOVNFN0E0eVRveWU3NjlyMWRHd3RVUmQxMHJ6SU5ZWklOZFpTSDFHcXNyeDV3NHkxVE1YcXV6YjNKb0E?oc=5",
-   "data": "2026-11-22T01:10:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1j60l3v",
-   "titulo": "Arábia Saudita investe bilhões em empresa dona de GTA 6 após proibir a franquia por anos",
-   "fonte": "ncnews.com.br",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOc3ZFTldrbW00MXQtRXlhZ2s5YWxKdk9PVG1MaDgxaXUxbnVKN21BWF8zdkVURWRCNkZvaTU0LVlQVklJV2tSNmY1cXEyNVVTeS0yendjdG95Wm9oR2NCYl83YmVXT2p6ZnBheGhvU2pSUUFlOWRJd3l5MWljYmdTWEVVWURjNVNoTi1aYkxMV0ZoazJuLU0zcERYZVp4TjBtRndhTlZMaVhKd3FWNy1CallPcTRfTlVKLWNIVzZRYw?oc=5",
-   "data": "2026-11-22T01:03:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
