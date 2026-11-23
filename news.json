@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T22:30:28.180Z",
+ "atualizado": "2026-11-23T23:00:35.879Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,78 @@
  ],
  "itens": [
   {
+   "id": "1mcwdik",
+   "titulo": "PETROBRÁS ANUNCIA PLANO DE NEGÓCIOS DE US$ 122 BILHÕES E META PARA AMPLIAR PRODUÇÃO DE PETRÓLEO E DIESEL",
+   "fonte": "Petronotícias",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2h4TU94VFRPV1d6eWdGcDE4c2hnOExSR0xmam11QkRsdXl3eXVnSGVRa2x5Y0NVSTk3WUdjaXFmSFdIM1RxTGIyQzJYQm51UkgybmI2VHpPa1Y5UmR0dm9PX1VqQlRsdVhaeUwxS3k2Y0dZVEpLNTBic2wzR0ZjSWxYeTNWanhENHQ2N0l5WnRQUmpMdXBnZ0tJSGdYaGp1anJZTWRRQWFHWVh4bE1TbWRxUUlDOG82X1RCdy00bk1sR1AxRHl6TTQxckVWZw?oc=5",
+   "data": "2026-11-23T22:49:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jl6ttz",
+   "titulo": "Petrobras aprova dividendos extraordinários no total de R$$ 15,6 bi",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzV4RHpOYVcwLXU2Y2tZcEhBeUNyYXhhNGk5SURHUmFiQ0ptbTIwUHduUDdiMjZPNkExeHVCREl3UW5fRUtaLUJEdFpLR1JtRjFlTDB1YjRuVm9JWkkxQzMzQmRBbGVrZEhHR2xxdkRKczJKUi0yNHMzd3NPVlE3VHU4Ulc5ajczcGlWT3doYVBKV2ZMQndITnlXREkzSjJrYXVLNlZJcmJRaGl3WndzQUNneUwyR1lBZHUzM0sxQdIBzgFBVV95cUxObENZVTlWZ1UwMHFJakVrN3h1NG83QXU2aHhwUmZpTUJRTnVZSF9ZREpLckpmbWtyZXZoSDFRVjBmVllrZzhXSFFkRWFuam1nOUtSNmJrOVRYQVVScENiRllPMmQ1UHVwTVduN2Z4Zk5DdEJmT0hIQnhfMEdaOHR1bExWeUlONmRwamNQMDJzYjlNdDVGY3dIb1FBUDZSQnVKYy1taUVLa25mUll2Q1hOTC1RR2hSbjlCQ1JqQ29kazljU3ZqdnZrZDhBVUhuUQ?oc=5",
+   "data": "2026-11-23T22:48:52.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6ytxsi",
+   "titulo": "Petrobras aprova plano de US$ 122 bilhões até 2031 e promete produção recorde de 3,2 milhões de barris",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTzhpRG8tanIwSXRXdjJoVFhfYTBiRzVsX2ZxRWFCbkJGV1V3cXBKSE9EcUdXR19xYXZXWXJBV05ZTUtZdTB5eTA1Y1g0b0ozRnRDTUw1elQza1BmWnJ3NTFBUWNuQlRYQWNpR3I0UDRvaEFLS2FObzNTT3lMWTVDSjNoeFRIR0wtblBZSkRPYWJIRWR4RGpxNFJrcmJkOUJpVmpLcG5YZFpZLVFoMkxYZDFXa3dEb21PLTRVNVJWOTBCeG4ydlBhTmV2OHRGQXYz?oc=5",
+   "data": "2026-11-23T22:47:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dz6e88",
+   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos extraordinários aos acionistas",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZmVhbTAwdVFyc19DUEpiZmJId01kUHFRNThjb2FoV0NXWVphVi1Qd25FZXhZWWtPaURkUlhUUlJxNnJRQTBtbF9uNWptVDgzb29ORTQ4SGYwV2dkcW9hNDU0QzV1N3NvUlAwUDMtdTMxQmNtSXRzM1Rxem15d3JjNmt6WEE5c3hSZ3B3cnhTOTA2VS1KamdDTzhpTl9WLVVaMkdhN0UyZzBTRmcweHE5bFNTa1gzMXFlU3h1VzNlVW0?oc=5",
+   "data": "2026-11-23T22:32:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n606or",
+   "titulo": "Wall Street dispara com o retorno de Huang à Nvidia; rendimentos do Treasury sobem",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBsR183NmNncWo1bC00N0w3dU1xYnVSNTFwVm5GdUQwM0lpN0FPQ2VZU0xjTjhQclZiR2UxbUtrNEQ2WldENVI5ckVGbmpuUy1oLW96cUVKWXdGRk83bHhYcHprMXdDeE9xZ2lXUVA3VEo0WFkwSEk4?oc=5",
+   "data": "2026-11-23T22:26:57.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "giba6l",
+   "titulo": "Ibovespa perde os 165 mil pontos, dólar bate R$ 6 e Magalu (MGLU3) dispara",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE16Z0g1aUdIR2x4b1lOVW5xMm81VDNrSzhaVUFOX1BQaFNwMDIybjk0UlFXYWRYU0VRc1JMaUEtZEtoRXFuSnFVZ1EteWl2MXFZSnpWUFpXeFRMQUE2Ukl0TGdWWFF0T0VDR2ZzX20zUmRFMHBrcHhSWdIBfkFVX3lxTFBCZU1RaTlWNExqbVVIYTJ4NFRXTGk1YTZ6ektXeWt6Q2FTX2hzNXV0ZmJMTTVfLVR0aG9UTnZjQW9EVFJybFZQTTg3UnlMQ1lqaURoRl9NdEpLNkE1UEFidDZIRVZxbWxaeXJaQnpna2NIX1lQbHhfV1k2ZGc3QQ?oc=5",
+   "data": "2026-11-23T22:26:44.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "dg6uei",
    "titulo": "Petrobras vai pagar R$ 15,6 bilhões em dividendos extraordinários",
    "fonte": "O GLOBO",
@@ -48,6 +120,18 @@
    "cat": "Corporativo",
    "empresa": "Petrobras",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ldbnmh",
+   "titulo": "Trump elogia Nvidia por reconduzir Huang ao comando da companhia",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlFtM1JxMVE5TU5FUUFIeVVXWThFcDRyaVJKV3B3dlJHUlp0NUIzQ2ZranZnZVRha1hMQ3RLVkdGLXpGWmlsRHNrOVFZR044WEt6eXdWNU0yYUxLcUpSQmF1WVFWMGpoQ2hyQ25sSVZ6V3FqSWRNYnFrZXF3WGR1THZwRngwYlJBZ214UHV0S2xiLUIzZkU3OVVXdUJza29DQVpGYXZHUnZMZFZ6RHFTYXhubw?oc=5",
+   "data": "2026-11-23T22:11:02.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -208,6 +292,19 @@
    "avisado": false
   },
   {
+   "id": "wj19da",
+   "titulo": "Anthropic salta 17% na Nasdaq após realizar maior IPO da história; veja como foi o pregão de estreia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlMyMHNqbHJSa2RBYndiMlJWZFlFTjJZdElQanhiREM5OEdkMXVlenI2c2NNTERjQUV6Nk1WQUxBUDBfRjM5SjdYalJKYTVxekt0endleURxWnBKQmJJdGRRZkkyUnZtOFhZblk5bmN6bVpVcHRvUjN0RXh0ZTJ5RlFvVXNtcmN1NTVxaUc3RmFCeGx0M3VnTGdUXzg2RkI0S2pMMGE1RERvTVp3LTZfZ0o4UHo4dmdJQnc?oc=5",
+   "data": "2026-11-23T21:02:05.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": true,
+   "avisado": true,
+   "avisadoEm": 1795474835879
+  },
+  {
    "id": "1upqxwr",
    "titulo": "Fazenda prevê PIB menor e inflação no teto da meta em 2027",
    "fonte": "TODODIA",
@@ -215,6 +312,18 @@
    "data": "2026-11-23T20:48:31.000Z",
    "cat": "Mercado",
    "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xwc0x8",
+   "titulo": "Rockstar troca cartaz: hype por Mandy esfria e Vicki vira a nova obsessão em GTA 6",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFVFaXNsNjlHWV9scnp0LUEzZUtqREFfVXRmc1FZcFBTR21CQktMSEVkVDVYRzdxaC16cHdfOWpRZFVaeWYyanA5Mll4TWphMC11bDRSSjU3Yk40R2dKRzdZWUUyUFR1SVdEZFlEcW45YW1RWlAzeU9FS1FEd0RtdjlOcUxaYkhiMXItdHp3?oc=5",
+   "data": "2026-11-23T20:43:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1735,115 +1844,6 @@
    "score": 9,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "w6utdn",
-   "titulo": "Jensen Huang é reconduzido ao cargo de CEO da Nvidia após crise de espionagem",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNTF3VDBKaDY1dWg1aDlROXdRWE9ZRmZJbnpIUHpqbzEtakdqemExeXE4cHc4clAxTmtZci1RNlpLUjNLa05acEhRRmFScTNxMjliZmd5cnh1VmR0Y3c5MDJMcm55NV9nREJpWWVtUE9rcHluVXpzTUV2aUZXYVBHZ1lJQnViU1RMU3E0OEVrTUlaaFNibmhOOFAyNHlHUDYzM1RUcUdLb3BBVFRRYjk3VTNuNnNoMTg?oc=5",
-   "data": "2026-11-23T14:12:55.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kbzdsn",
-   "titulo": "Nvidia anuncia retorno de Jensen Huang como CEO; ações disparam ns bolsas americanas",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOEdfN1lqMFRWSndxYVUwQ2pYcjJya3ZRZGR2NVlXcF9YazgyRHFINjJmN1d2V0puSGpZSnBQQ3hTdHZiOU5jdE1zbFJwalNYRW01TE9yVVZVdE52UUIxOVJvSzE5YkY0a05LX19IWTJ1S1Z5eFV3Q3ZWZG80aVQ5VHVGNkZwdTMtY1ZseTAzd0RWWVFWbmfSAZoBQVVfeXFMTmJRUGo3VG10NkZBcmd1TV9ackdlNkRqMjVsTlVvcW1PT2p1UkI2MDBDYXpFUjh2cFNtOXNiTDVYX3duZ2xvakFIMVZOUHpDWGtYNERUa3NwbUJBc1MyM2hLY3BnclE2NHp5MG9IMnVRRFRSS2RiQWlqNlo4SG15QjFEUEhLcndvakt4NXRSRS1MMldoYmlJdVh3UQ?oc=5",
-   "data": "2026-11-23T14:11:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1254lgi",
-   "titulo": "Nike apresenta Air Force 1 inspirado em GTA VI em parceria com Travis Scott",
-   "fonte": "Creativosbr",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTW5qVzBGNk1jNHE4OGg3dGZLbncyaWdQUDAyaGRibjh5dktWU2VOV3EwaDFJcnYyY0otOUFjZlVvYWRKczNQallja05jRkU3VVE3T0YwSFpGLXBZSFZxOGpHTGU5Nk14VjlKcUpXOVZSREpQUGdnNDNGVWdhV3ZweU00V1Zkc3BRMk1QbFdiaXpCWUMzM25MekpnaDV0TmtmaE05Z2tR?oc=5",
-   "data": "2026-11-23T14:10:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rxmajx",
-   "titulo": "Nvidia: CEO renuncia após escândalo de espionagem",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDJ2TDJ2Q3V4YzFjeHNsZlJ3V1ROdUJmbFVSVkZIZnBMTUk3aDVrcGNONmFWNDF5VW9rX3JiT255UDdvUTBBUEdJSGNsSEhrYWdDeEdiM2x4QXE0UnpESTdGNE1aMEdUck5qNTIzaHZXQWZqZk5RVkJZMERUWlVaRGtaMU1FT3EtdjBYLU1GcjhqTm8tZ2l4NndPRQ?oc=5",
-   "data": "2026-11-23T14:09:02.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1vscciw",
-   "titulo": "AMD Ryzen 7 5800X3D: combo desaba para US$451 com a opção de montagem",
-   "fonte": "diariodamidia.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXZqOEtsRnhkaWtlUDBUOU1LOGJDb3lONDk4WTJYOFY5bzc0NVZyOXVGcHFZRVYwYUxBeUJsRGZXUmNGQ3ZFclZWTXN3VlpyNWM5T2NtQXdUNEtyc29rNFphX05Cam1CSGdUV09DUjc1dTNEaEM3aml4djg5VDU4eHlYUWFmUzRJYmw1Y2dnbVdIbnpBekltbkdlNjA?oc=5",
-   "data": "2026-11-23T14:07:40.000Z",
-   "cat": "Movimento",
-   "empresa": "AMD",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7jgpba",
-   "titulo": "Jensen Huang volta a ser CEO da Nvidia menos de duas semanas após renunciar",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE5PM1JuWmh0Z1hCTm5qc2ZOWnZoYzRpQW1oaEl0TWNmMmhsX2E4cVFQTWM2YV9WU1Z2Z2pmSGxpeERGS0hGSnp1dVdZTFJzaVh1ZklKc19QSDN3cVMwLUFfNFZEQlZiTExDbDI0eUFmWFh5Qkt5OEFDbTBieEN0STJ0VDY4QlJQdE1sdW9rUVVpTnA0MDZ1LWcxYnM0OE1uTkhmYTFnUm0?oc=5",
-   "data": "2026-11-23T14:07:34.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "137w56v",
-   "titulo": "Conselho de Administração da Nvidia reconduz Jensen Huang ao cargo de CEO",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtpRm5VQ2ZObGVfbFJRRnBMUmxwYnU4NDFjLTJ6bk5OVDF5RFdQNEZQcmN4Q1lFZEY3eWRBV0Q4dnBjNkNFYkludkU0YjliME9wQjEzZFljZUo0VkJYVmxseWIyZy1MVUhZVEg1cnJvSU1FUnNnSXlXR2s4N0ctY0dlT1BjZ0NZcDBvOU9jdnAxVnAzZk5Ub2x3Y2JOX0dodE03SGZoRFRQUXdkRzBfLUw3aFRSY2JiZ0FZa2xlRVpVbENNY0hBS3VSR0h3c1ZQdGNaakt5Z9IB5gFBVV95cUxOZzlTcEdRTWdRMi1QemNSeXB0b3FzX0RGZ3hZblVxYnplZ21NSkFfaFNFMW14QXpYQWdvZ1Nnb1liVndZOFJkSllheWhpYzE1ODdYUGlfRmhwMERncGxPai1YMEEzeU9JT3lrVUdSN24zdzNYVXlESzhFWnpRRjlSdkJoa0txdEQ0WVV6clo4clJDaXI0R3FOemtRc1U4SWFrVlpXMDFNSWUtNGxmWmVnLW15U05taTMwbmVXVGxYZ1VlU0RtZFAzdWlRTlVDVGhyaFAtR1dkSWtGUTNJQURxNm4xTnZJUQ?oc=5",
-   "data": "2026-11-23T14:01:30.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14xtulm",
-   "titulo": "Chuva provoca alagamentos, quedas de árvores, dispara sirenes e causa estragos em cidades do Vale e região",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPQWM1TWREckoxWGQ0OUlsdWJWc2NMMDJ1R3hDTlZFcUV6TXJ6bEdJNFBHUjQ0dHBFREhjUVF4SlN4cUR6cUx4N00xeUpvNkt5NUs1RmZVM29WUnVjQjY0bHN0cTJQNW5aa0dFbHQtY0NSMlNsYkJMTG5manY0aG9DWWhZTWdfMGFuTVRhU1JodjB3bE53Umd5aE95d2ltTy1jcEFfYVgwLV9fNGd6MGE5eVNqRlRGbGQxc2V4cVN0UXg1Q2RibWIxd2oxUGtqeVM1WEM1T25HbExwWFY5aEg3Uk5sc2tWeHVFNVdxOEpXbFllQUFoaWFfbGZEb1V3cEgxUnBzSF9CMNIBlgJBVV95cUxPY05ldDl3Um1oMlowcVQyenJuNXdLZGRKc0F3bHNPOHRlbnJpNTdnREFVVC1wb3ZfV1AtVXhmQ2g4bmV4cDNWM0N4bE9hMmdHcThvOF83LURpQ05mWEwyX2h1YzNZTU5TWVUtV2tkVGFiUUYyVFIxQkpwVzNJSVZjanhqMG80dTFncWxWZGliNWRyYXZjeko4VzBmVEl5TDEzU0lNLTVud1NicGYxX1hYLXMtQXdUVUpiMUJjcHRlWV9jNXhGMm5ZZ0FiRElQYVhHZVJFaFJSUnBSVWZXX3NidnliVnYwWC1rVGpBWFdHY1BfaVhjcXVnd2pxelNqcm5BdHR2a1kxZTlOVTVVSFlFeUdQTVlzUQ?oc=5",
-   "data": "2026-11-23T14:00:50.000Z",
-   "cat": "Movimento",
-   "empresa": "Vale",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z9sbdv",
-   "titulo": "Anthropic: diferenciais técnicos e de segurança que podem justificar IPO recorde",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZUhoNUdvMWQ2ZHBSbjNRTXlFT0g3b0FpT0hESkZmcWU3OElZU0pIMVlYYlNUM19iNm9oX25LS2R3OHpHNnRLSjZSaFF1WnVncmFGNlBIQXVlak5FRzhNZ3ZpSmV2SGtIa1U2MkRXTDBVZ3ZwLVA5ZnlNVXJ0aDdBNl9XY1lJSUgxb2U3WlZza2JNWWJIRjQtUVpRQWNiaENjY2phMDdydzZ1amE0TVRYRlphU0EwSUlkaU41R1g0SV9ZZTVkd09taXJZdmlpQlVsNXpsNTkzWGxUYWs0bGd6TXlR?oc=5",
-   "data": "2026-11-23T14:00:08.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795451428796
   }
  ]
 }
