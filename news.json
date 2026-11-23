@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-23T07:00:30.920Z",
- "agendaCal": "2026-11-23T01:00:31.454Z",
+ "atualizado": "2026-11-23T07:30:29.161Z",
+ "agendaCal": "2026-11-23T07:30:29.161Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -30,6 +30,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "8bu96m",
+   "titulo": "Derrota eleitoral, Nvidia e fusão de Tesla e SpaceX: veja em cinco pontos no que Elon Musk anda pensando",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmhBNXBFY1d5X245UC1QU29vWk44akNxa0xjSWtHdjZ2dm1wdW8tcVhFQmlWcmpMS3U0cDY0NG5HdmZsMjNUS3RYMHVtSlR3ZnlCRURMWkNlQ1dXX2ZkSzl1S0NpM2c5bFNkQWRMcUhGUkVBNFpmVnJtS3dFdHdRUHdOVkxwWjBjaVA3cFZQVnY5V3hCY0t6am1SeUsyVm9aT2oxUk9oV1ZpdkM0WDVEeFFMZkNSSEpldEkta1N2RGRlYUpZZmh3ZUtfcEw5OUZIaFZBNzlKN0hSeFc4Y3lKckdJcUM1Y1ZzOWFEWEVvTHZXTlZ2ZzNtM1NpdzR2NE3SAY4CQVVfeXFMT1lzajhjejQ4SlBHZElPQWJKWWJvTzhERW1JVDVEUjdLU3RYd2F3MmFRUnhhdWJPcFdPekc2aFdlRmRyNktBR1E2YTJLazc5V2FxNkFXelp0ZzF2U3A4RmRsNVNkQWd4VzBtVGxlSGlrMUtjeExtYkx5QVZEcEg5dWZZYWp6TzVtQmdjUDZHNlRMTnE3MHhnMzNETkg4UU9idURsOGZoWUZOWHRyWVdwak5HLW9MdXEtQXdqYTk0aFdiekhTY3hmWVJVcVlZQmVLMXd2YXkwMjF0ZG9nYk54cnJGYnJhVThGQ0thT0RKVlZ2cllnbnZpdUlUUUFxV01rUmdwc1Y0V1V4Um5aMGR3?oc=5",
+   "data": "2026-11-23T07:00:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "3fqrq6",
    "titulo": "GTA 6 quebra recordes com US$ 3,79 bilhões em vendas no primeiro dia, superando de longe as projeções iniciais",
@@ -159,6 +171,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vhdn6j",
+   "titulo": "Greg Ip: As taxas nominais subiriam se a meta de inflação aumentasse para 3%",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOY05FeklfNFQtZ2VqYXpKMjY0SUNLZTZ3UGNXczB6ZFBMRDZSNGQxNXg2MGliNWQ0WXFoTWlTeVNfX21RaHVYZU5BS2FRejByakZrb2trMnpRM2dVd3dDSHNBZV85NVlxMDNweVlPMnhNaU9FeTZvRDlnZ3ZHN091Q1cxS1pkWkdxU2xUem5CRFdYZTBMdHc?oc=5",
+   "data": "2026-11-23T01:35:10.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1808,30 +1832,6 @@
    "data": "2026-11-21T21:35:27.000Z",
    "cat": "Mercado",
    "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qcusbd",
-   "titulo": "GTA 6 tem console próprio com jogos ‘desenvolvidos por equipe dentro da equipe’; entenda",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSHlNOFdLYmlZWi1jVnlpMXdfMnpLdVA2M3R0cFJZeVdDdE00ZE5OYkZjUVhVcmNLYVNHVkVXV1luSDlzVlNGeU4tamxVTkVsWXR6b2x4dU92T25aNlJaU0FGVFVPdUxRck1yeDJybGltSzJWQXZjeWpNX3BnZ096Z0Eyc2s1Wll1QjNYT045UTk1Ui1VZF9ZSmlfVTFkMEl3SlI4TEplRjlsRWxtYUZpZ1NCUkU4NFpNQlpWYzNDV3dkNGdkV3c00gHMAUFVX3lxTE5tRjM0anZGdFBmaEx1YldNdEw2MTR4UUtDNGNNc3VpWGJ6Z0NJWXV1X08wczFWNXFHMGVpRVZ1UUhHR2NqSWlxcDM1ekxiSHRocTAwTHpDc3BFbGg2QWs0cm44TGdZSEZ4V3J3REZoR3E3VTU3U3FkSkx2WmNuZThoMHBNYmljZEVtSkZSUUw4REYyS0lhbXNnTWpjaEtqRGZyd1lNT3ltcWlZVmRic2pTc1JaWWhNbUI2Y0x0UF9wb25ETWFOejBzMXlLMA?oc=5",
-   "data": "2026-11-21T21:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pqgqzg",
-   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
-   "data": "2026-11-21T20:58:28.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
    "score": 6,
    "marco": false,
    "avisado": false
