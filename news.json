@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-23T20:00:30.473Z",
- "agendaCal": "2026-11-23T14:00:32.057Z",
+ "atualizado": "2026-11-23T20:30:26.533Z",
+ "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -39,6 +39,55 @@
   }
  ],
  "itens": [
+  {
+   "id": "1g6hn47",
+   "titulo": "Veneziano contesta notícia falsa sobre fraudes no Banco do Brasil",
+   "fonte": "Senado",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUNtSVVLZ3BIeG8zT3ZicXNrMUw2LW1ZTFp0a1ZHRm5Xb1MzbnV3NjVaalo5Sy1ySG54cjRQVjM3QVAzdG5FNXlzQjZ1TUY4RjBzMmk2WUpDeG9GdXRENEs3b190Z2VpYXViTjNjMi1Kd1o0anJOcG45T0gyOWhJc2dsNnVmbVRQMGQzMERmYlFRaDVweTkwcGdiZXBlcDB0SFZwNXl1dXJfZmFORlhxYmJuTVNMeElXM09WQzlrVQ?oc=5",
+   "data": "2026-11-23T20:18:56.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795465826533
+  },
+  {
+   "id": "1hrl38o",
+   "titulo": "Google lança Gemini 4 Neon, novo modelo de IA para tarefas complexas",
+   "fonte": "Fast Company Brasil",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdEc1dzFlWW1KR0Y0ZHVqM3FtQ3N2T0xiWkZZaGhmYmdyT3E5WjEtNS1tcFlma1lhV1NYVnR1em00UWpPV2ZCQVJHeDBQRG44bUN3R3YtV0RtTl9fNkV6YWx3MjBlU0FiQmFnRm1sRDVRWGVQSTgxb0tURGFMVXIxYWE3aC1XWFdQTmJPellfTGxVZw?oc=5",
+   "data": "2026-11-23T20:18:41.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "r8llnx",
+   "titulo": "Problema técnico adia lançamento de satélites Amazon Leo",
+   "fonte": "Astronomia no Zênite",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOVEJjVUJzR1VpRXZ3c05MclcyMWJsd1FRcUZWWjhXSUFpbDRUMlpJZjlfQnp1Z3dnM1c3UkFqU2h2NktsaE1lNlUyRkt3MkhsaDViM0E1bHBzLWhSTW9jckJGb1J6VlhQOXJ0NWlVa2MyaUNkbmVPWDF0bDdPUWJFM25kWU04MGg2dUE?oc=5",
+   "data": "2026-11-23T20:08:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9mssxu",
+   "titulo": "Fim de uma era na Adyen: cofundador Pieter van der Does deixa o comando da empresa",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPc2hwMk02ZTh0XzFUZHh2d3diRkdSZTBqTjl3QTBxS2dPdU92cVY5cURmZllRZ1BfTmk4Y1FzWXRuMElfQlFaYzZPdnNveFJBeHhjUFpWazBkcGpNcmdQei1TQXdEaGM3RnFQMWZCVmJXYkljRDc0RkdIRXRjdk9vM1EzSDdZdUxTbVZERXpsWjVLeko5VS1DUGtYYmZRR1l6TF9TZ3M2dFRyWG8tSWhuOTUzeE1IaThhQzM0M0930gHSAUFVX3lxTE1RdDU2Mi1fcjk3YVpMRnpMLUllWXNDa05SM0FxVWFtTHhJOWEyOUwycmJaT1F3ZGpHSWIzMjU0Mk9YV2xCUUxBemRZY1d2NmhTRkRlOVlDckxkZ2RDZ2x1REREaFRfTnBJZ2g2RndacHplcU8yNmkxRHlCNEFJV3M3ZElMSlVVVDB3dkhtZUZRT0h6SU9oYXlIakhhTTNkeC1pZDNoM21YZ01CVVdGaUdtRmVqZHd1dUF1VUY1bHZldXVXdXE4UHpXdDlXaTlZLUhBZw?oc=5",
+   "data": "2026-11-23T19:50:22.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "q7c29d",
    "titulo": "GTA 6 quebra recorde histórico no Spotify",
@@ -169,6 +218,18 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12phnpz",
+   "titulo": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0htd2Vzb2J3T2NnVjBSQXFFNF9Ic19xeVpxQVc0ZkExc2M4YUNMMTlfNEdNV0p3a2NHamRSbm9fUWdvM2pQaFRrdU9kclVBVldmMGUtVkRRaEJ2Z09wOW9TNkFWeFV6ZWp0QUlHaFBBWGtKWHFDcU9mTTFtSjg3YTIzNXFPOXdtNE16MldOX0RkU1VaczJ3dXhqNnV3MlREUHE1eUQ5akh4T1Y4YzkyUHlDd9IBuAFBVV95cUxOanFSLW9pQzlUdkRab2NickNMYmN1djhGUzBQajdyaTg5MmlFWnVlTzlhcHZudFBxN1pldnZGaE5jM2J1TVdBRVU0M3Q2VVNMMnlPdWpNZzNzR3pBVnFmWko0ZEw1Wmk1eFNVNnBLV3A1bUZLdDE5QndSUWtzTklWTVpINE1wenRyM1IzTV82UUt2U0NFaVUwSkUwNGRXVXQ3MjZlQ3B1Wm16RjhraTVyU1Z2RHgzcXNQ?oc=5",
+   "data": "2026-11-23T18:50:00.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1780,67 +1841,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14x01iz",
-   "titulo": "Disney lança novo tipo de ingresso para a semana do Natal em 2026",
-   "fonte": "Vai pra Disney?",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcy1HQ041WVktMTVYNFBFdjIwa1Z5dXNDNm5zNzlOQzhwd1IxZU1jS285YVhTQjhkV3h2aTZwa3hYX3c2ZmdxWENZbW12QUJDRF9IUFpaZDRBa2djMzB4QWpVcU9La0VBM0s3V2F6bFRZaXBjeWlHOFFOb0dRUXNoOVA2Skw0R25QRmdyRA?oc=5",
-   "data": "2026-11-23T13:09:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11etq4d",
-   "titulo": "Rockstar revela as duas inspirações por detrás da personalidade de Jason em GTA 6",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOeGlZYVhnc3BQaEdicl9xaXg2MWRwVGFCRDlOVW4tWldBZFQ5aU55WHdJWGNSeGNqNzdGZGNxN1NtdnZaZjdYOHZfR3FLZERRZE1melFsMThUWDJRQlA5alFmS3gtZ0tXSXpHMVhIZDZKbDRhQkFZZmVCckVZQTJwdHpRczlZbFFzeW9fT2RiQ3hsQWUta0ZnSDZMc0tuemJHc1ZQNXNNZjM4SzRjSFVEazRRWW1DRGI2U2twanVxcEdiU3NGZFE?oc=5",
-   "data": "2026-11-23T13:07:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cwf8hb",
-   "titulo": "Onda de panes em Microsoft, Apple, voos e FBI gera teorias de ciberataque nos EUA",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0lrcjNFcFlpbDh2OEYyN1l4TTJ0Mlh2N2VQamVvXy1MeW9MUGVVU3NQVE04Zm9LZHVtU1lrbVVqVms4Ql95OU1kS2sxUGRhSkZmaGdROEJZRndmb1RnUWJVZUZ0UmpMaFJOenlWOU9ERXY2Wk5sODdsVWxqMTUwX0phWms3NW00UEkwanlEUjNFZnN3WEJ5YjlORk9RN210WVhNd3ljMHJxYVdKYjZvV2NiVkhOdw?oc=5",
-   "data": "2026-11-23T13:06:59.000Z",
-   "cat": "Risco grave",
-   "empresa": "Microsoft",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795442432057
-  },
-  {
-   "id": "na2jin",
-   "titulo": "Nvidia: SEC investiga contabilidade da receita",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3NvMGxISkZIYjRWS1pUZUZHaHVSa0RHcmo5U2VmMUQxdGd4U2p5MW5UZTg2MmNUOEN2WTFtMExCZFFhODM2WGFLWnllam9aajAydDJEeEQyTnZmSGdVXzUtTVpxSzdlbGtacU5ETWIwZk1pZ2cxQ1E0OXJIajM3MXhiWnlmcXltbVhKODFfTWhIb1VvcU40M1ZVX0I0LVhJQ0xiMFZ4SDZrN0RNVXdRMDF2SFE?oc=5",
-   "data": "2026-11-23T13:04:50.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13jwf2y",
-   "titulo": "Nvidia tirou Singapura do balanço e agora enfrenta investigação contábil da SEC",
-   "fonte": "iMasters",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZ3NvMGxISkZIYjRWS1pUZUZHaHVSa0RHcmo5U2VmMUQxdGd4U2p5MW5UZTg2MmNUOEN2WTFtMExCZFFhODM2WGFLWnllam9aajAydDJEeEQyTnZmSGdVXzUtTVpxSzdlbGtacU5ETWIwZk1pZ2cxQ1E0OXJIajM3MXhiWnlmcXltbVhKODFfTWhIb1VvcU40M1ZVX0I0LVhJQ0xiMFZ4SDZrN0RNVXdRMDF2SFE?oc=5",
-   "data": "2026-11-23T13:04:50.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
