@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T19:30:28.909Z",
+ "atualizado": "2026-11-23T20:00:30.473Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "q7c29d",
+   "titulo": "GTA 6 quebra recorde histórico no Spotify",
+   "fonte": "Pichau Arena",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ubzl0VF9BOFc1WHhiWnlJQ1RxczZRbXh1OVo2NVlfbG84bWhPT011UENvbzcyc05JRUVqR19zNGExRkRYbnk3a2RrMTl6WTlZZ18zUW8zSVlWcmxGTWowMGlMM0FaU3RTM0VfQ0xKRlNfX0g0?oc=5",
+   "data": "2026-11-23T19:47:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1npdu6a",
+   "titulo": "Durigan defende superávit de até 2% e descarta adiamento da reforma tributária",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVnd2QTBTYlo4dXdYeV9mUU1nV1lMOUJnZ180WHF0V3ZPSUhJWEszaXI5alVNX01zNk5penBQUkpoOWZqc0RUVllmVzlqeWFSX0RWU3dCVDRfU1c0UTdPZzdwUjFnZnlwcW83UlJWZzd3VE9EcTVteU1HZXQxLXR0SVdVUWN3NVNoLTNwX1NhOEx4aW5NRGdRMTFMT1_SAaIBQVVfeXFMTzAtOXcxMkNEMEdIQTRmR2lad0ZVQkxvUWtLMDhuODZ6Qnd0bEo1YUhyTXZRYVBSR2EwcG5uVktzZm9GQnNxOFB3SjlrbUpJazdkYXlGSFNPREJUV0p5VF9zakdXZk5pVnNnOEI4SkI3Z01QLUtyZThFd3YxSmRqSGo5WGczWFV3emctcTNvZkgzcjJzeFluWG1FOVJ1TVFEazhB?oc=5",
+   "data": "2026-11-23T19:44:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7mt5xr",
+   "titulo": "CrowdStrike compra a Zscaler, de cibersegurança, por US$ 44 bi",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYmw4cWpkUTN4aGdGOGpCQTY2eUViclVMQU12dHVDams1aEV2OElMcU91MUNRb0JqWUlwZ180eTdaa2xGNEJSMnFaNk9lZ0hSSzZYVWY2RGU0VWpuQ2VwVWtDWWtUVTBTSFpROS1LMDBGNE1Vei05TU9sLXU2ZlUxVzQyZGtDdjhMZTFXYmNnNGFsZU5qQ0k4VmlwVmFueEtMSUtzeWdRczRWVTFMMTlCaGdRLUNiek1lcHfSAcgBQVVfeXFMTUVRTmVZT21EV1RobzVjUU1ZeFhyVXR0Q185MEdyM2VKTFp1ZmstbUpSR3ZNV1U0LU8wZ3JyMmxFbUx4V3YwSTA2SmRHWjFtN2wtdk1MM3ZCTkZraE5lR05TR3RSRlc5clk5Z2R2WGN1d1czNHZNQjhCTnpucDZ2UGpLUDMybzB5YVVXQ2NScFJPSHZtLWRSVE4tQmNKTXZxN2dMS2dvR2pqRjV1Y3RLM01QSll0VkxfMTdwOEJHYlI4b2FMM3I5STE?oc=5",
+   "data": "2026-11-23T19:43:51.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8271u1",
    "titulo": "Meta lança versão do app Edits para iPad; Threads será o próximo",
@@ -482,6 +518,18 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1k60xmc",
+   "titulo": "Rockstar Games lança edição deluxe da trilha sonora oficial de Grand Theft Auto VI com música inédita de Anitta",
+   "fonte": "Os Garotos de Liverpool",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeU94SHd1WDBiaXN6MXlpeDRRWmx1NlAwazBNZTZ5ZjJyRktNTm43QnAxel9yVUQtN0pGcTAzLWtpV3l2eUZualllV2hpak0zdXc0LThzZHFCQ1N2NDMwUVBoekExd1NGVnBlTG5GQkNRVE1BN1NOaXAwQ1BUT19ac1NQX1ZRT0RXQ2NVTlE2a2dHaDRf?oc=5",
+   "data": "2026-11-23T17:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1793,54 +1841,6 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10cqdjb",
-   "titulo": "Rockstar explica por que motivo os dardos e o bowling ficaram de fora de GTA 6",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNRG5uZFBPU1Bnb1NCaVl2SnhJTVloOVNBRVdweU1oc3RXMHZ0bGR5N0t1VHJTQnZOR1F3RktILWRUOTl3VWZnWWJ5Ml9hOFFUS3pXYVN6U0J5bUluYVVXeHZNY0xjbnpRMGc2TjZSVk01RS1vSm5xeWFZWm5iYXQxNjBOZnhsbXBCLWxjbnliV0VGOWwzM015NHNJNU5uN1FRdFFVU2JWOXNxZ1doN3ZrOG9DOEUtVVNsYXJ2WjRWb3Jwdw?oc=5",
-   "data": "2026-11-23T13:03:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "skiex2",
-   "titulo": "Pokémon abandona a Netflix e escolhe a Disney+: o que muda na guerra do streaming infantil",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
-   "data": "2026-11-23T12:58:27.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ak7yy8",
-   "titulo": "CrowdStrike mantém recomendação de compra em meio a rumores de aquisição da Zscaler",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWXh5WVJUNnJkWXF2N3dRTmZsUjE5LWlLdEUzSmY1X0w3ZlpqYWFyNmZXSlRSTHJYczhCemRWT3IzZ19vbGlzNUVzRVhfSUYxOWRxSlZNSjdvei1YNWp3Wm9odEx3dzVfUElXUmtaZndBY084dEJPM2JGMF9vSnl0bzJ1SmNJVXJjTFFBMnNLV0RnbEI4VGdGOVVOM3FhWS16ZWpWdTFiZEwtNUlIbnptR2gzZ0JkclZZTWNZckxiNWdIeVRETzdRSXRqWXJuVmE2N2NzbWdCV2otUQ?oc=5",
-   "data": "2026-11-23T12:54:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14op4eb",
-   "titulo": "Todos os rappers que aparecem no GTA VI; veja lista",
-   "fonte": "Conexão POP",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbmxvT1U2MGJ0REprZGY2UUFTcWxaRWt4YmZqVWJZWkNvUVhrRlYyRlU2bHpWc25TOUt1OWVlOG8xTUhFb1hTOGR3cjhySGJmR2VFdUlSY1RwelF4dFZabWhsSjdCb2VPdEVXSkpQQVpQelg3aml4WnI5VFNhV0trVmQ2Zw?oc=5",
-   "data": "2026-11-23T12:53:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
