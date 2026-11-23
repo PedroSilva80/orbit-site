@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T16:00:31.291Z",
+ "atualizado": "2026-11-23T16:30:28.796Z",
  "agendaCal": "2026-11-23T14:00:32.057Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,18 @@
  ],
  "itens": [
   {
+   "id": "4w3ufz",
+   "titulo": "Rockstar divulga notas oficiais da primeira atualização de GTA 6 e corrige problema no clima",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWDAwODdQS2ZUWUI4cDl3cFV2TlNXYzVkeUZsSjZ1N21UXzBrLTlWRnhBamE2b3d0bUJ6Qzcwb3JieGcwUDctUlh4Q1Fad28wdEFXM3dZSlNycnpGVUxNdmQ0cDZRMzI4UlIyVjR4ZVJQQTZRdTZZRl84aFJoOHducERtQ2tNSkdNWUJyWURiUktWNFBtOGdCbEd0MmpuUXBzNmd3aEtsZU1aRGlnMmJjS2lUbTlXZGhEaHYzczR0NVV6SWtoenNRSVB6cTktMXlsa2RBbg?oc=5",
+   "data": "2026-11-23T16:11:55.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1utur7i",
    "titulo": "‘100 Dias de Mentiras’ bate recorde de audiência antes da reta final na Netflix",
    "fonte": "Recreio",
@@ -40,6 +52,18 @@
    "cat": "Movimento",
    "empresa": "Netflix",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kas32x",
+   "titulo": "Itaú lança websérie sobre nova geração do tênis brasileiro",
+   "fonte": "Meio e Mensagem",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI2ODRiOHpPNmZvTThHX3BSbld5Nmdza0RkaFZqVVRlVEhmay1Cd0phdTNKUHFReTJJT3BmYzdGZi1YMnBtVUUzWGhCZmhtb2NyX05Zc3hDOWdaVkZjV0tBajFvSXJ5SFUwc09aLTVWeGZQdVJCUmctQUF6NEllLWVOcnVMdmszSDV0WVJkcjRaRFU4NDNQWHJFZzN0LU5YeWQ4?oc=5",
+   "data": "2026-11-23T15:44:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Itaú",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -63,6 +87,30 @@
    "data": "2026-11-23T15:36:32.000Z",
    "cat": "Lançamento",
    "empresa": "Tesla",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mec9f7",
+   "titulo": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzE4b19aS0FIcHdVLW9ocEFXSkx2Rzd3dHNRbDhqclpfSFZxTUNiN0NhRW83RHFQWFZfeGEtbVdPNXdNUFpZZ0lWOEVnam9HXzFXTjdYSU9IRGtobHF3S1FmRm1xODE2TWh3emppc18zeDlVeG1HUmZRTlZacUgyNTN0RUd5VmU4NUd0NjhnTk5ONkN5ZndHNHpoYW1WT25uWTIzbGlaa0ZwZXlzWkNkUjc1c1ZtRUlVVUHSAb8BQVVfeXFMUEg1NWNKTkxRelRqVzNvODFEdld0RnBjbUtYQU9LaDNOeERkOU95WU5pYmVLRWtBd2ZGMWRPYjNqcEo5VVAxOW9YT2NpOWZiNGN6VzhjWjlydDczcmdFNEs0RjBVWW42dHV1RUhaWEs4YS1ZemFrNnZmWnJxbDRqM2dOVzFjaHRoM1B2RHY2dVBZSEhKdlZRV0hrSFVnTTBMQ1Q5ZVg3Mjk1NTVPYlBoMVJ4TldkLXBXZmJaN0RVem8?oc=5",
+   "data": "2026-11-23T15:31:36.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "wl9vds",
+   "titulo": "Nvidia dispara 30% após volta de Jensen Huang; Nasdaq sobe 6%",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3JRTFpIel9zTzF4VDBUZGxYeTVrcDRacDlwenI1ZXFWMHFtb1ZlQUt3RDJlZUNOT3lzcHRieDdhSWl1UDBhbV9TQTJBZzVSeGZVdmlnT245T19rb29lWS1mMXR3Rk5Vc2pGalBnV0l2Rm1wcFhxTHVkNzcyOXBmekVQVGFJS3PSAZYBQVVfeXFMT0YzV2lkbkRIMmZfMjRNeEFQNEdPMnhTUm9ud1FBYjVjVGEzZTBOb3lKMjR4c3piSXpSWGluaUZkRUtSOUhQdmNacXBVbFJoWURvcUlDcXltLVpIc3F6VzZqNVF1QXBkU3ZvY0VMbzdhYjNISUxnLUJiM0xkVm1lUHJjNWJYSUFqZGI3WlN5enZiMUdmQlhR?oc=5",
+   "data": "2026-11-23T15:30:46.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -786,7 +834,8 @@
    "empresa": "Anthropic",
    "score": 11,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795451428796
   },
   {
    "id": "1dp9rkj",
@@ -1679,6 +1728,18 @@
    "avisado": false
   },
   {
+   "id": "xwc0x8",
+   "titulo": "Rockstar troca cartaz: hype por Mandy esfria e Vicki vira a nova obsessão em GTA 6",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFVFaXNsNjlHWV9scnp0LUEzZUtqREFfVXRmc1FZcFBTR21CQktMSEVkVDVYRzdxaC16cHdfOWpRZFVaeWYyanA5Mll4TWphMC11bDRSSjU3Yk40R2dKRzdZWUUyUFR1SVdEZFlEcW45YW1RWlAzeU9FS1FEd0RtdjlOcUxaYkhiMXItdHp3?oc=5",
+   "data": "2026-11-23T09:43:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1a3x71h",
    "titulo": "Lançamento de GTA VI: US$ 3,79 bi no 1º dia e ativações de marca",
    "fonte": "Live MKT News",
@@ -1771,67 +1832,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1uye8ar",
-   "titulo": "\"GTA 6\" fatura US$ 3,79 bilhões em 24 horas e estabelece recorde histórico",
-   "fonte": "Caderno Pop",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQlVadlE0cDNtQkh2dFgtMzlVQ3VoWjNGZmE2U3czaGRBQ2VLbEZ1S3pPZHUxLWFRMzhJU096dEwwYW9kNGJXY1ZwUFJBYmZTUkpGSU16SU5VUEZZZ2VzcS1YVjVwVWZILTlqSVVySXo4bEtaUjVhVk9kX2xkY09TTjZ0R0tYSVlkWjJBYjFBRHM3Y1ZSZjFXRUNnckFEZw?oc=5",
-   "data": "2026-11-23T08:05:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1y9325b",
-   "titulo": "IPO da Anthropic não afasta preocupações com setor de IA",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQklvd1ZuTXNhMHp4Yy1jdlBvV2tTbkhqOS1sQjZoZHBIZ21RYkdGQnY3NFVuX2xqVndHRndrSGswcGRORVVHeEw4eWg2NVI2VnVhTUJMaXU3TnRuOXZnWnBrQzQ4Tk5uQjM4cmZOSXVWbUJZa3BvdHN2TjBaQnVXQkFqYk9hczZRRmJ4Mm5EZXRmelBxY215dVFfY0kyeDA3S29n0gGyAUFVX3lxTE5keUxEUTlmekRkazdIaXh2ZFRnSzNYNEdKNmhpNWVnUDZrZGM4RjZtVFVlQWhRUGs3MFQ3TFpXRENlMUhLTlNrOVBlMTBJa1FqOFl5MFJJSEhBdjRxYWJsZDJ3QXBpSk9lMGtudlRZTkNYaU1nbjlvTnBybmE1T2tYNUVkdDRCTGQycDJZT0xIcGs3MkFyYUZ3T0V0WXI3a25FWGNoMEthV3UwYzYzUXNQbFE?oc=5",
-   "data": "2026-11-23T08:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795438830619
-  },
-  {
-   "id": "1vj9mbz",
-   "titulo": "Anthropic faz sete fundadores bilionários com IPO de US$ 81 bilhões",
-   "fonte": "politiza brasil",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IQTg4V3hLZGlnT0ZMdXJubUM5VlhHT25UTG5wVTNDUEVxWFd3MGZKZzk4S2t2cURZdVV4TG1wd2gzTjRnUmtfZ0s5d3J2ODQ0c3hwalFOS2tFanJvU1ZSd2ZPSnlUb3Fmbkowd1l0SVhLa1R2dHhxUWgzYnM?oc=5",
-   "data": "2026-11-23T07:57:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xkctz3",
-   "titulo": "Ibovespa hoje enfrenta novo teste com dados dos EUA e projeções de juros e inflação no Brasil",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMm9kOXBlODlDb2pkY0RhTmVDeUtNMUYtZDZCSVpRbVhOV1BNdzFqQWE4SHJmUUtzYUpjVGNZZE1DaWVkMVc0eTU3RVZGOTVIYTBNQ1Nhek1KajBmQ0lpNnctc0dGYmV4N0ZHRjZxSTNCVjIxcmlFQW03YTFoM3I4UTVIVG91OGNwNnN5UVpBXzVBOFF6N1o1MU8zMFZqcEg4c3pQVVdlM0FZbUdfYmxsU1cwd0JPQTN6LV9SVkYwQ1QzZUFNMmRBR3NKaTNmT1VKQ1ZjeXhidS1BUy1BenJQSDJiQXYtWkp6OGxzTFZfZ0xvdw?oc=5",
-   "data": "2026-11-23T07:35:21.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8bu96m",
-   "titulo": "Derrota eleitoral, Nvidia e fusão de Tesla e SpaceX: veja em cinco pontos no que Elon Musk anda pensando",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOZmhBNXBFY1d5X245UC1QU29vWk44akNxa0xjSWtHdjZ2dm1wdW8tcVhFQmlWcmpMS3U0cDY0NG5HdmZsMjNUS3RYMHVtSlR3ZnlCRURMWkNlQ1dXX2ZkSzl1S0NpM2c5bFNkQWRMcUhGUkVBNFpmVnJtS3dFdHdRUHdOVkxwWjBjaVA3cFZQVnY5V3hCY0t6am1SeUsyVm9aT2oxUk9oV1ZpdkM0WDVEeFFMZkNSSEpldEkta1N2RGRlYUpZZmh3ZUtfcEw5OUZIaFZBNzlKN0hSeFc4Y3lKckdJcUM1Y1ZzOWFEWEVvTHZXTlZ2ZzNtM1NpdzR2NE3SAY4CQVVfeXFMT1lzajhjejQ4SlBHZElPQWJKWWJvTzhERW1JVDVEUjdLU3RYd2F3MmFRUnhhdWJPcFdPekc2aFdlRmRyNktBR1E2YTJLazc5V2FxNkFXelp0ZzF2U3A4RmRsNVNkQWd4VzBtVGxlSGlrMUtjeExtYkx5QVZEcEg5dWZZYWp6TzVtQmdjUDZHNlRMTnE3MHhnMzNETkg4UU9idURsOGZoWUZOWHRyWVdwak5HLW9MdXEtQXdqYTk0aFdiekhTY3hmWVJVcVlZQmVLMXd2YXkwMjF0ZG9nYk54cnJGYnJhVThGQ0thT0RKVlZ2cllnbnZpdUlUUUFxV01rUmdwc1Y0V1V4Um5aMGR3?oc=5",
-   "data": "2026-11-23T07:00:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
