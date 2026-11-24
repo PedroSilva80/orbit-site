@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-23T23:30:25.555Z",
+ "atualizado": "2026-11-24T00:00:33.002Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,30 @@
  ],
  "itens": [
   {
+   "id": "1i9tt6j",
+   "titulo": "GTA VI fez Call of Duty e Fortnite perder jogadores",
+   "fonte": "Instant Gaming News",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkRhd3dYeWNWYjRfb203UDExNHNOdFNfVGttU3BvZzh5a29SOG1PYThsVXdyQ0FidEo2QzFxd2dUSFplZHpaU0p4aWJNNEhtUENvRmJ6SHRzWlhWaTlOb29xUnV3Znh2V3BoNEJqc1RhZXFPdE1vNWlvVl91Xzd2aVozSW9YNVo5Wnd2YzgwNkphZ21fYXdwUllqUlFsR0ttZXc?oc=5",
+   "data": "2026-11-23T23:56:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xqv0d",
+   "titulo": "Há uma versão não oficial de **GTA VI** para PC a caminho graças à recompilação",
+   "fonte": "Instant Gaming News",
+   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmR1ZG9KQUNVVTBxbmt1R1FqdTVRcXl4cXZoSjB5bjVKckJLUENIMXdRaHZ0RC1hZ2tsQkJsbnpIOXFsMEJCWURZZVpKTjh2S1JwaVFzMmk1ZWl4bS1idnhXblRWa3k0YVRuTFBzRGE1UzJTY1FfM2tXVW00WmVJWDRaWHFJVXJXVGV2eWVUek5obzRLcDR3bjU1bUZEd1pXMFU5VkdYc0Z1OGN5NERGME5VMXJJdDBGRzlLal9KRVFHOHBVTWR1eDZnQjJKbmRiOFpsQ1NHRG0zMldTdzktY1BPbGZpU2tXNGJVWi1uanhvVjJkRmJvcHJnNHo?oc=5",
+   "data": "2026-11-23T23:39:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "5rxyxk",
    "titulo": "Petrobras lança plano de negócios 27-31 com US$ 122 bi em investimentos",
    "fonte": "Poder360",
@@ -49,6 +73,18 @@
    "empresa": "Petrobras",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "o4zyas",
+   "titulo": "CEO da Anthropic vende 3,38 milhões de ações em dia de estreia na Nasdaq",
+   "fonte": "Tribuna do Sertão",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZURnprYXBOenN5SGtIUldoTzlQdmJHZmdxcWQwTHBhUDRoWmNxa3VUQTdWM04xYmdLVlRFcjhUV1NBZjZkbVZYb2tSSUFOVHI5Q21tbzRBNWdjdlYwd3BzQ3MxRm85dlVNLW1LREg3cFZiZnF2alhqYmVEM2pRaU9kY2hzQmo2Q1FyU0xsTVpKTW5NMmVBcWRDUVhnWlUxelhEdkR3LVpwLXhMM296SWZ4S0lzU054cGgxUEszZnkta1dscTJtd29JRQ?oc=5",
+   "data": "2026-11-23T23:19:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -244,6 +280,18 @@
    "avisado": false
   },
   {
+   "id": "119jlrp",
+   "titulo": "Petrobras volta ao mercado de etanol com aquisição de R$ 2,8 bi",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVndnR0R1N1BrSXgzZUFHUEhtSE85emZqUW5LRmNvcGlRY09VeG53RFo0N3RuY2VHOWczUDlqQjhwTHlYUkJjX2psLWJBN1NDSFI5LTNHM3duOXZpVGs0aVdvNzB5b01xek9WblVBZmNjb1Etbm0yNXJEX05MSVlGRGVZRHNEX3BCY0RvVjNseG5wMDBpV3RWN0IyOEdHSFZWUjhGSUU4NUU4eE0?oc=5",
+   "data": "2026-11-23T22:01:55.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "qrsoom",
    "titulo": "Por que a galera está obcecada pelo GTA VI?",
    "fonte": "Capricho",
@@ -264,6 +312,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1nwhln6",
+   "titulo": "Investo lança novo ETF focado no Índice de Energia Elétrica da B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMnhnREd5dUZJUnJUcFFzeVJVVWRaUzZqVFhRUGZhb1R0N2JSeGl5N3lnSGFROXJXYnNfRmtyOTBDb0RWNFVZWU1ZYzJxS1FoWlFvbHdmUGs3bnNoNDg4ZnFlaDlZdmJNdm12NlJDRXZ5YW9mRUFBVVZmcEk2QmtZNzduMm40Q0NienY1bWYxLVc1cU40YlVQQTlBaElXRU1qOHNnLUxkOVpoclJVMmRvcXoyNzVXV2pXREgwMXZueTE1T0pZY3c?oc=5",
+   "data": "2026-11-23T21:55:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -312,6 +372,18 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1x0j4vl",
+   "titulo": "Nvidia salta 31% com volta de Huang e ganha US$ 953 bilhões de valor em só 1 pregão",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNWd0RTBqcDNmMzJLbkh2a1BTQUs5TUNUZVJFMzJoX1g0NnJpcHpmRHhkUFF1cThXaWpFSWdrbHVHaHZQZzIyR19QYnhxWk9LaDFubXdzOVlNRW9ubUtka1NLenREb0xDY0gyYlU2ZmNYUFpOVnZvdm43bl93MmZ0SEJHd3o5WVZwWlVPTmFPTXZiMG1UU0JuTVlOUjJlQTVGV1l1eUJSeE9ZU1p2LUFBOFlDUdIBuAFBVV95cUxNUDFxYlIweGpKRnFvSExDamk3UU5pYjRuZXJzVjJPRUMtdjVQT18tbkNOYzZRdDJBcEVTRmRVdFlZWnp4WGMzSTZyLXNIV1psY2VUREc5NlRlOFBwT2MxSE14Ny1DMzBWdkFkaXJ2TVZSMm1aaF8xYW93OHQ0aGhPdVFoaVYxZ2daODhUN3c4cVR6YzZlXzR5YjNmRklqZDduQ2hLRnp4TGVDRGIyT0pfbU5WQmJmWHI1?oc=5",
+   "data": "2026-11-23T21:21:59.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1328,6 +1400,18 @@
    "avisado": false
   },
   {
+   "id": "1pxbpxt",
+   "titulo": "Nvidia reintegra Jensen Huang como CEO 11 dias após renúncia em meio a escândalo",
+   "fonte": "Jornal Opção",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmNIWmtwcWcwUnZUbkhwa3JPUVpaRTJ2Z3NhdWEwSHBCVi1YemxGQjVhZ0NGRTllTUhDbEJSMFJwTDh2SEVtdy0zUXNIV2NmakhWQ0lYaFV0N2dzUnZWRkNsZ19qMmpCYUdNZk9SWE1QWVp3RmYxanpIeUE2cEM0OGRtdnZZSUZtLXBDWlZpbXg2NlJSOFM5Zm9jeVNvU3ViUTA5NlNSUlRkMnVEUjZSYlA4RlIzVnY0Z0FyQ1U0X1dURFU?oc=5",
+   "data": "2026-11-23T15:08:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "pqrwzk",
    "titulo": "GTA 6: Rockstar libera para compra conteúdo exclusivo da pré-venda",
    "fonte": "TudoCelular.com",
@@ -1521,6 +1605,18 @@
    "avisado": false
   },
   {
+   "id": "qfir6i",
+   "titulo": "Nvidia anuncia retorno de Jensen Huang aos cargos de CEO e presidente",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMXNhNWtIYWhKb3dZbVFSWDY4dnhIR0g5UTJuUGxnb2hvMHNoSFpGdkp3bVk0QVhjRkFweGVtRG9URkgxWWRfZURBSXNGY2lWUjRRMXpUNTk3bVFqbFFURG9PdGZRY1FCM1dJV3Z6NmcteHNJU2N6blhqbEZ6ZnJWM3FaNjRKUTh1aW14VkkyZ2lxZU5RTWhHbDIwWFgyNHl4UGQ5WkZoOHFleWJlOFBJNW5WajE3aWxhRElnUFQ4VVlpWS16OW1qUlVYLTQweDNuRnJ6czg2ckpxbC1iYkVQUGdiVTA2UlU5Y2lj?oc=5",
+   "data": "2026-11-23T14:44:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "3i6nrr",
    "titulo": "Nvidia salta quase 30% com volta de Huang e puxa bolsas de NY",
    "fonte": "Valor Investe",
@@ -1654,6 +1750,18 @@
    "avisadoEm": 1795447827288
   },
   {
+   "id": "ge75ys",
+   "titulo": "Nvidia anuncia retorno de Jensen Huang ao comando da empresa 11 dias após renúncia",
+   "fonte": "O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOcExDNHZtdEZzQU9DQnZmYWN5QloxaDBtNEdRc21kVnN6LWVnbEhiV1RULXB5UnNuS3k3ZEtxMWJQOVlOV09UNXJQYmwxa1dOZ1lveXRNaUJtM1pRa05NMTFsMHBOMS1CU0tyQ3JNMW9CM0taTDkzWGxobEdfQzF0LUhuaGpRc2NoTTdiU190a0dRM2JQeE92TjZsSHBJNU5nSjJsSm9RZkxWRnB3cmF0c2gzVjYzSm1NZVhFT3pvYURtcFU?oc=5",
+   "data": "2026-11-23T14:34:30.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1qa78mb",
    "titulo": "Trump elogia decisão da Nvidia de reconduzir Jensen Huang ao cargo de CEO",
    "fonte": "Valor Econômico",
@@ -1734,114 +1842,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mr2jje",
-   "titulo": "Wall Street deve disparar na abertura, após a Nvidia reconduzir Jensen Huang como presidente-executivo",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sLXh5bGd4UkJEU0pFQlVhUW1NNVJyLWNrZndkV2tSaGVkdW9LLXdpaEJZTkptanlWdlVHM1ZERkVrYk9Wak1lNnJYMl83ajJXbkRCYUVGRk9YdFdQU0hKWXJINE4yV2pRdHJmby1pWklxXzg0ZTJ3?oc=5",
-   "data": "2026-11-23T14:25:04.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15g42e6",
-   "titulo": "GTA 6 usa história de amor para entregar o ápice da Rockstar no mundo dos games",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOU1BBSEJBMU9pTkMxUmJmVFVxaG05eEZCOXZ0NUhTcVI4MGMwVTJiU0hQNnd6MGptWTJTOE5Sa3o0Vnd2a1ZXdTgzUEY5ZmtRekk5UlZOeHZ6eUhHQ2J4VnNLRjFIcjRaSTl1N2ZtN1pCdk5MMldQTEFuNE9wMHF1THp5VXJUaWc2MmZNSmNIaWVfUzNyQ0FWbnhXdndMaFkySE55cFNybFp5WHNPazlhUnpuM3lKNnNSMFROdg?oc=5",
-   "data": "2026-11-23T14:21:59.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "psn6ek",
-   "titulo": "GTA 6 recebe 1º atualização pós-lançamento; Rockstar faz mistério sobre patch",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORTUzVjVGZEgyUlJNZEtPbGEzeExjTEdBb3pFNnpQM29seGJRcmxUaXY5ZEFVNE1jam9Pd1pWRGZqN2RvOWl5Y3FWRy1FS0NCYU1FQzd3cU80U3RrQXdDY2RkdVJLczNJUDRlZTFLQkQtaTNtYnQzUFBYb3N2RHBGRlRsWmlDdjdEejZkZDZ4QldnNEhTOEQyUTZ1TFFDWTFtNDFyNmZFZDZWclJjVFNsTE5QS1R4V0REbF9abTZrX05HMUVDSGRSdWotVQ?oc=5",
-   "data": "2026-11-23T14:21:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rl5zhp",
-   "titulo": "Conselho da Nvidia reconduz Jensen Huang ao cargo de CEO por unanimidade",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTWV5UFlaUHoxMHh1RmFnMFJtYk52YkM1NkZoSDI0WWtVbG1vRXpkb0VsQ3N3Z09LTUlVN1dWblBJaUY2aTJVQ044NUNOQXBodW9aT3U3WjVwZDlsWkpXSXdhZ2Z0M2xfTGI0b3BJRHphR1l4MzBMY2ZMWHFRSXp1c29NWTRtc2dNWTFUZWh4LUlVeWIzSFNLZkhXdHcxSEJlMlAwRXBkQkNsQnhEMlZJbTdRUdIBuAFBVV95cUxOQnRJR2VPdjJucWtudmZudkFEalkwRDVhWWk2NmkzeHRBMGY1XzNEcGltNFhfUXJuRmxxZkFFZ3g5N1RFcjNJNnpMNGVoUThZU0RIUnRZUGs1ZldELXc2OFNsOUc2bl9BbWtJejA0VGJVcGRzVzBGakV2aW00UTZRTHhiOVlBZE1sOTBWTXNaejktTnA2Mmp5RmtsNWk1cVRFa2QxWVJVMkUxQkV4QUNQMTZnZ3g0ZThh?oc=5",
-   "data": "2026-11-23T14:21:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15ospuc",
-   "titulo": "GTA VI e saúde mental: Jogos violentos influenciam o comportamento de adolescentes?",
-   "fonte": "Portalrondonia.com",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTV9yZGZDV3JkZkVjd19pUTZjbkVKT29jaW9WVzNXR2xlc3BiT0xfakVMUnRtYkkyNUNwcmwyXy1vRUIwTXFUb3JFZktHQXVxajJGT1RwbjkwT3lCYnJqRy0zMVhtTERrZEl3OTNoaG9LVzd6dVMwNkJ5eHNUeDRqTGhmUEhaSkdNR2lVcnB3U1ZPMjhrZ2FjVmVESTg5SEQ1bFc4LU82T1MtQ0RPcTh3SUhqQTQzRlVTREt2cUh6U0Y3Zw?oc=5",
-   "data": "2026-11-23T14:19:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w1vb0y",
-   "titulo": "Jensen Huang é reintegrado como CEO da Nvidia após renunciar ao cargo",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNRUdWMEpDc19laGpoMDg1VlJFVEYyVXdZS1pYQ29weFd0WE1nNmYwQjBIRnd3WURhVEdudUN2blJKMWt3QjJhZVhOOG1wZWxtc2YzUmg0X0JrMHF4aXFFNWVNVmtqdUozN2hoS2wtZzhLQUVjSE91TzN4QWhCUlV4REEyUGtfbExkdVd2WEt0TGR1SFlmVnN2MDhfN2JGeGdKdVZ4TWFTWVQwN2JzLTByV0JZNkp5NmFGaE54dXVvd3NtWmVvZnfSAdQBQVVfeXFMUFJpQzlMblg1QV9wSmc5T3AxaW9oUmZESU1MX0tBbENsaWlndWZ4dldLd1ExTlpGcEEzRVNUb2swbS12SVdLVUctYWZHa1dwVS1nbV9KcmNMdlhPcjRJZm5Bb3N5X2ppQjZDaFpNYjRmd2hGQkFONjF0dkd6em1nNzRHWlBTeTlHay15NTBVU2F5QXkwWGloNmhmRGtEZG9fMTRMRUdLeTdVa3p4YzBjaG92UTNCbXRaS1ktUzY2Ml9VUmhYZV8tY0RxbDY5bU05QjZvQ2M?oc=5",
-   "data": "2026-11-23T14:19:19.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1bby2vr",
-   "titulo": "A reviravolta que fez Jensen Huang voltar ao comando da Nvidia após escândalo de traição e espionagem",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQY216a0tacUxHRU9xU3dhd3hLZ0k0Z2tQRTgtRXR3NzlTazN1d2JjR0JvNVJmZzI3M0ZsTXFZSHZfdXVoeko5S3h5eTVKUzZSMTFJSnN0elMxZEpXTk1UZzduVnFPSHhuNGZRdFZSM3h6d3g1Q0Y3ck5mdHZZUHFsb3JrSWtyZ3dNZnFJS01IOHRVUGpwNi1MaVFMSWVVVGxuVU1mcXNST2NubFpBbWFFOWJNLUlFNGxIZGlKN1JjN25FUDdwYklaN19hOE5uSm52U1NFZ083T3lyc3JQa2tNVC1wMDdQNWJ1WjZzSlpYMWp1dlFYenpBSDAzdDFuTGNpWEdyTUhMZnBya2R3WVJLNUtxSExpdw?oc=5",
-   "data": "2026-11-23T14:19:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "nnno3p",
-   "titulo": "Trump parabeniza retorno de CEO da Nvidia, mas defende investigação",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbnY2dm9UUjFGR0NpbDlQUVFyam5KVVZSVkNsSGNWUVhVbnBqOHI2bHJZR1N6S0R4VzhEaFRMSU9yeG5veEo3SnFrVGRIbXpwdnNXMHJVX1dWekZpdTJ1MjZPSE1rb21TVHl5VzN5NXFTZll2ZE9wZjRQbHFmOW9WUjJnVl9iWXkwaUpKN2dETFoyR3ZkVHVRQ1RDSTVZNkNUbVFSOS1ZdUFqdW5wZkc4?oc=5",
-   "data": "2026-11-23T14:17:39.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rvz6lm",
-   "titulo": "Jensen Huang volta ao comando da Nvidia e ações disparam no pré-mercado",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTGZDQ2poWHhfVjJzcTJCTXUteTNTT3FWaVFxRzcydEpxN2c4alFqZ1Z5WlEtMy1DcEFXMlphR0dYX2w4Q3JuNTh5Ty00WXlIUzJ0U19hdk5rc09xcjUxRk5vdEhmeS1fcGxCSlZXS1BzTVAyTXd6b1VNdVBNb3ZraEhydEdWbFhGV2pzNnNQVWw0RjF2YTFzOTZja0d3UUVHZERMX0luMEdjcWJIZnVvUWR0UUg1RkxWNGdROWxaeHVvN3gydm5iMDkzcEg?oc=5",
-   "data": "2026-11-23T14:17:33.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
