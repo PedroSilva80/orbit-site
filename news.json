@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T20:30:30.874Z",
+ "atualizado": "2026-11-24T21:00:33.456Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,55 @@
   }
  ],
  "itens": [
+  {
+   "id": "1eppf0f",
+   "titulo": "É falso que Banco do Brasil tenha sido alvo de fraude de R$ 256 bilhões",
+   "fonte": "Agência Lupa",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTBJMTRfOFZGakdqcHg0aGVnai05dmoyZldRbmt5WGl5dG1Bb0VxRWhOc3lUTTU4NXFHd3NYTnlEZW5BeV9HZ014MUJRZEp4a3d5WHBZdkF0RXFJb3ItWTZUOVg0LTdVcnQ5X21tWTFpZXlRQUFJdExLeTF0bVE0b2cxLWxJUl8tZjg1eGpWMWVBbTVKeHd1Yld0TDM2dHFDZVdTMy14Q3BMZWlDcElJX19zS0hCYnVnbzZoZEp3?oc=5",
+   "data": "2026-11-24T20:48:50.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 9,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795554033456
+  },
+  {
+   "id": "hjj116",
+   "titulo": "Hashdex lança ETF de HYPE na B3",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2NlWXNqR2l5X0x1X214VWJjOWVpYU5wZDVhaHFDS2pGLTNhNmsycTNHQV9nelBLTEdPTEpKN0NkN2pDNEM4WHpna0NIMzM5S3lXWWQ1VGc4WWFPNFhGcWtHaUFZVTJIZVV5bUVPano1NkpLZzlNVkIyQVFzejV6N0Q3NnFzOXhaeU5iYzBwX3dueWZxMWJzUVBZUUZCTFhaTmUw0gGyAUFVX3lxTE5ZR2xZODVZUnJDQV8zRnZUTXNvMlRIZFZxczBGV2I1VGN1bDgxakgwalg0SHdQczE4MUNvbUFoLTJLZkdVT0pBM1VKQXl6aHptMm45RmZaX1RkRHVnWU5Ddk9GZnZEUzhHMlVnOVZPSVlfRjVNbGNjMDZRTUMyazgwR1Y0Tm1CMmxsbHZRRTlUUTl4Sk1ycXJGUjRqSEQxWGNvTC1BcnpQTGpKN21pY2UwQ0E?oc=5",
+   "data": "2026-11-24T20:44:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "a1e2e4",
+   "titulo": "Petrobras projeta investir US$ 122 bilhões em petróleo até 2031",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUx1aGZBN2hjZGM2Vk1BV0hOSTJPY0oxdmFuc2k3dEdQNzVBNWpDTmoweWF0S2swVXVkdmluOHRZZGpXTDU1eWpqalI5NzB1Y1F3dllUR0xiXy11WFpJZUVOUVUxNnhsUDZkb2dRdVZtSUJCb3pEc1FrMGMzaG1UV3ljeGZDVW9pcWtvNkRlT290bWNpMndlT1FIZWhXRmc4ZkNEdFVNdw?oc=5",
+   "data": "2026-11-24T20:41:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19i7byy",
+   "titulo": "Procurador despista sobre investigação contra CEO da Nvidia: \"Pelo quê?\"",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTVLOFlkR3Rrcy0tT3lHenFjVm1qc3Q2MDRwV1FhdUlJMzdqaXdPTFF6Q055Y0tFZVB1Q0wzaXd4dzdtODQzckxQRF9ZVDlSUUlVUHdYQkZDY29xNXBfcmVHaFU3MEFIdVVFdXZnbldFWUQ4Qk5xNGFnaEpvQTFZZ3QxVXhMMVQ1TU11UDlZenJrT3RRVlV1dlFhckl4U0hlcDZKUGYzLU9idTY0ekhzY1Fn?oc=5",
+   "data": "2026-11-24T20:37:26.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "sziqo2",
    "titulo": "GTA VI: homens estão gastando 'milhares de dólares' com modelos de IA inspiradas na protagonista de game",
@@ -1796,55 +1845,6 @@
    "score": 6,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "ocnu9c",
-   "titulo": "Ações chinesas ficam para trás na recuperação global com retorno de Huang ao comando da Nvidia",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1p3UmNVS1ctOWR2SUVxd01WaXZ3ZG1NQkNGNFZlQlBIU3k2Znk5VFNDZk0yem9nRVdlWWhlQ3FIajc2d1BYQ0p1MVhVM3g4cmtzMVp4Ykc4eU8tRkpDS3d0MUZDcmVqTHZhQ1ZhQWVtQ3VjaVBHN2Vkb0lJUDl3VkhLdGtNYjBMU2pqV3M4VFlTV1V3eTZPZjdPY0d3dkR1TzVVbWJPQmJOZTYxSGc4SmtWb0dIQ3pVWGlxY0hrUDBLWlNfMDI5a19KYVNUc0NpbEhaYU1qOUcwcEVkbjl6dkVFMkotbU4xeGc?oc=5",
-   "data": "2026-11-24T09:39:22.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8lneaq",
-   "titulo": "Bolsas de Tóquio, Seul e Taipé disparam após retorno de Huang à Nvidia",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTI4d2pMTktSSmcwYVcwRlctTGtqTk5kXzBiUEwzcUtlNG5lM1lPU3NmZXVDTGtBSm91OGdJbXV1YkYxMUpLeTczSFl3T09EMGpUcDJvVmRvS1poWk9OVExkSTNBU3NBRkN4YjBDZ1pzYk5nNlIzblkxRmI1clJhUm5pYjl4RUY0c2I4dW1VanFMSlVaenJXRC1jSW5CNkYzU0VnSUx3TTJYSHNDbDZFZV80ODNpdjDSAbcBQVVfeXFMUC0yOHdqTE5LUkpnMGFXMEZXLUxrak5OZF8wYlBMM3FLZTRuZTNZT1NzZmV1Q0xrQUpvdThnSW11dWJGMTFKS3k3M0hZd09PRDBqVHAyb1Zkb0taaFpPTlRMZEkzQVNzQUZDeGIwQ2dac2JOZzZSM25ZMUZiNXJSYVJuaWI5eEVGNHNiOHVtVWpxTEpVWnpyV0QtY0luQjZGM1NFZ0lMd00yWEhzQ2w2RWVfNDgzaXYw?oc=5",
-   "data": "2026-11-24T09:36:43.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "y01gbq",
-   "titulo": "Por que GTA VI é como ter um relacionamento estável",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IakpEUV9uMHFWTWFRMWstcklMMy1mZUQteDlPMDdnZmZIendycnRZMUdyS1FucVJOZXl1LXgtQXUzXzlzQy13dlhlYXlNbUw5N0h5TXFlSHNCR0hmYmJnQ19zX0t6VXM?oc=5",
-   "data": "2026-11-24T09:35:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wtmhrm",
-   "titulo": "Executivos de tecnologia celebram retorno de Jensen Huang à Nvidia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFFVSGg2LTJBOGJxdVZ3U0pUU2diNDlKT2ZUZTVEaTQwa2VBVXpJU05hV2Y1MERMWlZmZ1k5VGxKSjEzRV9rZlE5NTh4UGRTaG9GVFcyempNWnp2NXplMGdzRWx3cHpBMlBfdnRUYnRUTDNtYy0tUmhaTmNMTHJVekw3U0FRdVFnUEkxVjZOWE9tWFhFVFM3Y1kwSFJlTVFkMXhGRDI3RWd2Qkx1a3FVYm83cFhpN2YzdGRkN192UnNLaGcwOHJCaA?oc=5",
-   "data": "2026-11-24T09:07:27.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795514432234
   }
  ]
 }
