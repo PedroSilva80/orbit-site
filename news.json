@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T22:30:28.126Z",
+ "atualizado": "2026-11-24T23:30:28.116Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "10j0sut",
+   "titulo": "Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHFYQXJOSHJ3cFZEYm1iY0xVTEpLSVpiRnJqdWhoRGlQaEZSekRnT01namE1YTVlNUd0eEFNTTJaTVJ1NjBMYWd3eEpFREZNZVZ1RWNGMHgtZ2RkQndwVUVWZVJRMEUtZVdUbDRiRTVmMnA5dmdMeWJ6SW8xWHBQVnBvNzFubXJPRElCSkhuWmRhTlFlbXJ6NE0yalMxNlVla1hucXFFLW1mZGpwdWxaaTlCNE9xVGRXdGZZOXZmSHdOZTJMUTZYMw?oc=5",
+   "data": "2026-11-24T23:09:00.000Z",
+   "cat": "Regulação",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1llcfsi",
    "titulo": "Anitta, Travis Scott e 21 Savage estão entre os destaques da edição deluxe de álbum de GTA VI",
@@ -121,6 +133,18 @@
    "cat": "Mercado",
    "empresa": "Netflix",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19p9tnb",
+   "titulo": "Ibovespa perde quase 4 mil pontos da máxima e Vale (VALE3) despenca 5%",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MlJ4OHJEOFJfR2NRbzY0Nk43UktuS1FLY2VnYTlvVzlYRlphZVIwVlZTNXF3cE1fZ0l6bG0tX2FjNGFucG9QX295eDFiVzhfRllQRU93eUZ1ZWdhcDdHOVVFTkdNY0dxWFFqR2gyMEpQYlEwNHfSAXtBVV95cUxPektOZ1NQVUZBTDV6MDNuYkd3aGtJLTdQUEluYTZSd0pjNll5Y0JaT1BWRzV6Y1lCci1uTXBzcG55eDVzVE0yelV6d0UxYVp2VGRHQU9ySm9IWnVGWGJrTWJRMEh2ZHRvXzBiSFp4YUlEemk3Zk1OQk1PRVU?oc=5",
+   "data": "2026-11-24T21:42:33.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -241,6 +265,18 @@
    "cat": "Corporativo",
    "empresa": "Petrobras",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2dykr3",
+   "titulo": "Resumo da noite: ações da Anthropic abaixo do preço de IPO; ouro cai",
+   "fonte": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGhfLWVxcFdnak00T3pGLWpUbkh1c1dNcnFRZUJlaUNDWmNBX2dSNDRrVWV5dXJIbmU2Q1dqWVRQaWItVTNYZjBaX1lwQzZmaVFhQUhlazdUUTZjajh6VlRZemJ4TDFhcWtiY2w2UDR0WkU3TVg4WjZWX29lZ290U3h3MlhqM3ZwRDg4eUtJdGRoQ3psWmVXeTc2enBZbUw0X2VramM3Y3B3Y000bFE?oc=5",
+   "data": "2026-11-24T20:55:47.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -448,6 +484,18 @@
    "empresa": "GTA VI",
    "score": 7,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1v655tu",
+   "titulo": "Nvidia anuncia a volta de Jensen Huang ao comando 11 dias após renúncia e diz ter ouvido o governo Trump",
+   "fonte": "Eu Ideal",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSUJFZkdyVjd5MVpmdTJ2akdyUFNGVVR2UjE0clk1OV85ZTk2dUhmdFZRMThPcVBxcDFKeDYyVy1wb0dVcVB6QzY5bUZkdk9ibHFONy1aSTNuOXZuUGZnamtFUldwY3ZXbjZpWG1kUDUwSVpkNkZsMURucWRFMDFNcGRuaVh2VEd3QjZoYkJucDdEY1FVdFIwV2ZSbEtNMnpZQW96RFhaT2hfVFQ5eGYzaElNVnV1TmRqcHAyTUxibGdNRW42SENqQTlOd3FUT3gyWEFQU3A2blRlajEzbE8tZGlTX1BZS3JVWEdieFpvUEh3T1ZLNVdlWA?oc=5",
+   "data": "2026-11-24T19:04:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
    "avisado": false
   },
   {
@@ -711,6 +759,18 @@
    "data": "2026-11-24T17:06:37.000Z",
    "cat": "Liderança",
    "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "p55umu",
+   "titulo": "Ações da Anthropic caem 12% e ficam abaixo do preço do IPO, mas analistas mantêm otimismo",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOEpZanRaOFFzMWlRbkNJYTRqbzhkbGRnUDYyQmhWdk1xV015cUVGWjRWYXB4NXhxLTRnSER2b3UxMTREYXlLMnFCNkp3OFdhUjJnTmVmc1dEcUFkRnhURmI1Y0NyeWpjU2U4ZnRwb1hRa1VVcF9TUUt4eGdUbkVGSXphQ3hPVV81VWFVb2RxakNRYWdFYmh2NFNDa0drRmdTaUhsemF1aw?oc=5",
+   "data": "2026-11-24T17:01:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
    "score": 9,
    "marco": false,
    "avisado": false
@@ -1782,66 +1842,6 @@
    "data": "2026-11-24T11:29:17.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1f71wnj",
-   "titulo": "Petrobras anuncia R$ 15,6 bilhões em dividendos extraordinários; veja quem tem direito",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmhoS0xBQW1fa3dvV29aTzRFb3g3Y0pRa29CTWx6d0kwOFZJVml4eGdyOTlQM2tULV9KaG1Rb0RkdTA3U1ZrMmxLZTBLRjNFWG1BUkhLcHM4SUxBSW1XeFJsblR3bFd4RE5OanVqOHZNNUluQlNzMFZvekpQT0stWG04cXlPUWN2ZEFnWEl2MGFRWC1DU05weld2ZGtzUmJZVUVMbl8xaFRBMV8zeklxUFgwRU1nODNwak10Ug?oc=5",
-   "data": "2026-11-24T11:27:11.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ui6wrb",
-   "titulo": "Os novos milionários da bolsa: como os IPO estão a criar fortunas entre trabalhadores",
-   "fonte": "Jornal Económico",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeDYwTng4Z3lza3NvTUE1dVJYOTRuOFpScjRIZXdfcG5vdFJ4TGdmT1gzZFgzVGRqdVYzRHBFdWpZQzEweUtSTVY4aW41eldNbEdVbk92Qk9tU2NDZmt5MjVNZFhfWUZnX3V6OElUS3AxaFlxM2JGZ3dCQU92STd3cmhMS01TM0J6WHo2UjctS2UtYk9ZU0hwMUFnbzBZRk9hczRxRXRYdE1OMmdwY2JGWUMzeWhfYjVxc0N3M3Vod1Vzb1Z1?oc=5",
-   "data": "2026-11-24T11:27:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12427py",
-   "titulo": "BofA reafirma recomendação de compra da NVIDIA Corporation após medidas de governança",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEo4bDlPNG83RWlZcTZ5clJBTEZqRHFHRlZBMVNzNU5LWmZ5bXZYMFFTVDhIT2cxeC1URnZJdW9NRE1YNFVLTHhiSlR1R1NhM3U0R2swaThOQTNPM0ZoNkI0djdoaXFHZ25lWU5vTTE0VU5VZUtVc2liM1E1WkVJZHBJVkhWZFhNeE1JWTBhY2Rmd2NrT25YS2w5a3FmaVd2SG5sdTdMZGl2MXJMbkZWQWpqMnNueHBCbEtvdXpxdm0zaFhKSTFTT1d4LTItaVpHT3ZLdzVYdlNDN2lN?oc=5",
-   "data": "2026-11-24T11:26:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1bosafv",
-   "titulo": "Maior IPO da história perde força: ações da Anthropic caem abaixo do preço de estreia de US$ 83 no pré-mercado",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3V3WnFKeGNwRHBPWEVnTmkzRWtoVHRacERnWjBSNVo1c3U1YlJWUkVOSFgzMU1QSkhZbWhEbDlwTkU4UHJCaDRhZDh4aXY1bWF4dDl5dUI0LU05ZHRaODdrQ2J6VFBWZGxENHZ6X2RwQ3E3X00tc0ZjN29WMVhIUWhrREw0R25XbUlZbnhXRVQ4dlR2Mld0WFdJOTNLdkZxMHVCdDVKQUVzUlFqX2ppbjJROFdGakFRU2QtNUV2cHhhZ2RQbEo0Ql9n?oc=5",
-   "data": "2026-11-24T11:23:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "19iko6b",
-   "titulo": "DA Davidson reitera compra de Take-Two e cita domínio do GTA VI",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzVPOUE4MV9vc1Z2aHNHMEI0dGdyR1BPOVhxM0sxaUtjbjJvVGc5NkR0SEtQa19tZTVacEJwdUFiUFRsN2xXdEt4Q3RTanVnRVdWeFB1MTVBQVBIeE1wd0hqd0J6ZjdLek1KdkhKLVFndzBwS1o2Ql9SXzF4RGh1Z3o3UF9VVzB5bXJfRlRsQmFFV2xMMDFKN2RpNURmNjhpQ19MVnFYS0c3UHQtOGJQeUhmRVpOc0ZwR004MlVR?oc=5",
-   "data": "2026-11-24T11:20:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
    "score": 6,
    "marco": false,
    "avisado": false
