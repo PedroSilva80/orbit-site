@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T18:30:27.782Z",
+ "atualizado": "2026-11-24T19:00:36.658Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "g8iorj",
+   "titulo": "Os 8 melhores easter eggs de terror encontrados em GTA VI até agora",
+   "fonte": "EvilHazard",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONEU1SDBIdzBQZUNBek52WWNNSXRfVzZyX0otaUwtTDZiaWh3VENLeVV0R1RZMGJxZjNPN040SXpibDZOWlVmM3E0UFpuQkNJNG5GRUdRTl9QVzFieUQzYlVmQVpiVk5uLWZvUFNfcndGVE5Mb1d1NGtLVmE3THlRN1U3cFZpdkhheHRoZ0xraFRiQUloSzJnOHpR?oc=5",
+   "data": "2026-11-24T18:52:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15xda3t",
+   "titulo": "Anthropic cai abaixo do preço do IPO em quatro dias",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYldwbHplVUlWYTBnS19adDVJemJVTmhMRWoxZnlncFBXRmkwbHJQUWpSZFk5VmRsek9EOS1paFBOVGFhdlRtUF9BeEY1eUpUUmNIOEw4THlyUEZ3NjJENzdCdDVRYlZGaDI0WUJqTUlqd2g5aHpna1V5Mk9pazR0cXBSekpKclBHc1EzeQ?oc=5",
+   "data": "2026-11-24T18:49:02.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1w4kai9",
+   "titulo": "GTA 6 para PC: modders criam versão jogável no Windows, mas Rockstar derruba projeto",
+   "fonte": "Quero Bolsa",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaHpHTS05VGd3Z3AwXzd0Y21WdGZUR2Z6cEhvMjJNTjZ0ZndxeF9XMHpZZGNDVGNJOFI1WmE5VmVoSmNxQUI0Q0ZkanE0NnRveEZvZUh2UVA4aHhyMF9GS3R0RGlDS0hOclozSUVlRFgwRWc4UWgyQXBmaGkyNHBoSDE5RG1ad25tSVZNYVhqWHVRM1dERlRyN1RyRGJ1MUNOdnExdXp1ZjZuaG5OSHZCaVBlcXc0bGc?oc=5",
+   "data": "2026-11-24T18:48:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4861cd",
+   "titulo": "Petrobras amplia investimentos para US$ 122 bilhões e concentra recursos em petróleo e refino",
+   "fonte": "Revista LIDE",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFJWSnlHemFobVhJem54anUyZGZUbk5HQTkzWnFHdFJhU0VBMUhqai00NnZDOUktbGh1RHRBbFR3U2RuMDlCVW1tMWVPT1RlaXhNalFiaU5lNjVJdFVUUXBvRmx6VDgwTEhnRFFOSHc0WTd4akN6b3JWMXdLUG13WGl3MnlSUTl6NXlzOWR1dy1yTXppODJzbGROVExkSGZMMTdYam9wRl9JZWN1N2NkUTlIOFVjWFVEYWY5bUxRWUZKWms3TzJnd3FBc1dnWEVJNGoyYXQycUw1WWFUSUpObnlLeFRBRUVYMGpNSUV3?oc=5",
+   "data": "2026-11-24T18:46:05.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1q95y84",
+   "titulo": "AMD quebra recorde mundial de clock de GPU com a Radeon RX 9060 XT",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWoxRGRGX3lsaFAzWGROTFVmVEJJNWMweXlCRkc5NEkyczJLejlIU1F1cW9QYVFqdUcwMnpxOVh2LUp0X0w2b29zN1BxYThRdnJVN1h6d0haVllleThFbWpkcDZmdllrRVVtRkhmUGthZ0d2QXRLamtoa3ZPQkFENUZReG9lOHBackVqNkNwWjZFcUxvUmJHS0ZiLUhOYklPbUNNamlxdDhlcU83Z2c?oc=5",
+   "data": "2026-11-24T18:40:29.000Z",
+   "cat": "Movimento",
+   "empresa": "AMD",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x56fe7",
+   "titulo": "Anthropic abaixo do IPO: o que isso diz sobre o ciclo de IA",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GYjdDRzlFeVI2ejNIR0tnTkc5WDdtUWg3QUZaYWZlQ2xjeVlMSEVtMXZ4amZyTW9pS21fVm1EMEVfbEd4bWlSUTlNR2pHSmF0Q2swYnNMaFE0QWpnd21EWk5ONFh6Wm9GNE9XVUplZElORlY1UkItZTF0N0U5NnM?oc=5",
+   "data": "2026-11-24T18:35:22.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "p055dg",
    "titulo": "Bill Ackman: meta de 2% pode levar os EUA à recessão",
@@ -1771,78 +1843,6 @@
    "cat": "Corporativo",
    "empresa": "Tesla",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kjx1tk",
-   "titulo": "Diretores da SpaceX e Tesla negociam fusão de US$ 3,5 trilhões",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUtkTlZvdTBSV2pidWtNVXByUzZPdUxaS3JIUzhLRW1lOHY3cHNXejJJSzUtZjg4Y3ZkOTB0a0VBcW9nVnFHNEgtTFlOd0ZpNXdRVVVyVEJyeU8yUkt3Nk1DVWJYVzM0QTkyMzlpd21wSVlqMlVNSW9fWkpkUHJadW1XUmtKMXRRYVp6V3pSWU1RVTNYN2JsM3lEallGbHBKQUowenZLSEx0Q2tib0VZYmxZUlFhc3M?oc=5",
-   "data": "2026-11-24T05:53:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x4dikg",
-   "titulo": "SpaceX e Tesla nomeiam cinco diretores para conduzir as negociações de fusão, segundo o FT",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2cjFzQUtQdUpWWk9sOVZOdGpUcHQ3QUc1OE1LMU90ODZNQnlsTVRGMU5TeUU3dkotNFFrOFVKeG9NMS00cHpVVHdSSng5Q3JQUnhaQ2ljN195dEEyRWZxTHl5cWtYcks4cW1va3NkVFZKanlRZEJF?oc=5",
-   "data": "2026-11-24T05:47:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13xhdxu",
-   "titulo": "OPA do Santander: banco prevê concluir operação em 2027",
-   "fonte": "Nord Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhmM2R3RnVDcmU0NjVKTzZHX3E5b09YSGtTNG41aC1rLXljM2JUMEFQa3gwQUtHNjFPYmQxc3daVkpISlBVaG9XdGF2V3oxSkhsbzJhVmo2elR0ZWJnSGl5amNsREtJR2R5alRUaGhDTWdkaHZDUF9VNGlYeEV2N9IBhgFBVV95cUxQeG9YMGFnTi1LY3lTR2VPMTV4N3JRYS11WDJaOERXY1QtZTNGV3JVazVNS1BJbmtlX1B4a2FSQjY0RnhPM2VRWDFlRE9oTWx2djF4ZkRhT0FSMHFzbmlQUnZfd29WZlNybTVkT0dXNjNJelVzRHFwWXRzdW5YWWRXVDB2NzJxQQ?oc=5",
-   "data": "2026-11-24T05:30:18.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x6q35p",
-   "titulo": "Singapura continuará investigação sobre a Megaspeed, empresa ligada à NVIDIA Corporation",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWhlUzAwV0FvT3RtOC0yN3JqYWhoY2NZSHNUcmpjUGduU2pKdFM3a2c2VlA4c1lqYW92ZHBhUEp1aDlYRV9NMEQ2c3NvUUdfTVBPVmYtQ3FZYmE0VDRRdlFRQ0pueWFtN3l0cE4tUE1KcWlmbHg2REp2R28xaFlNZGNnYTJpRWRhaWU5RFV4TExCY0J4VXJxQ08tSjR6R2lEc3llaFBrSWxLLTVhUFZMbUtSSkpEdFRfeHBPSlBweDQ0elFWVkVkbldEaDBQZHRib3hLZURGV2hoWEZUXzBtZVJR?oc=5",
-   "data": "2026-11-24T05:21:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1yifuaf",
-   "titulo": "Por que as ações da Samsung e da SK Hynix disparam após a reviravolta da Nvidia?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aaVNtOWRia2dGYXVpNGUxbGlwQnFHU1FwYmQ0dDVCNHdibDUyNmN3VzluZnBuX19Hd3lvTE42MFFpTnZBLTVyZUxmUmxSaDl3VmYzZTdXWTNFVlptc2FSWUNwQWNHdw?oc=5",
-   "data": "2026-11-24T05:14:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jb0p8o",
-   "titulo": "Starhub anuncia aquisição da M1 em negócio de S$ 5 bilhões em ações",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMEhmZy10SVNmXzlhYWxtcmRoX044SUpfdEM1RUhNcFpjZWZEOExTUV9lRWlYbXVlVktXZkxBNFlmUUZ0bm9QRXpwejBSVDFqQ0tHcXFMSGhEbTdxMERmUFdQck8yV0JId1dxQzd0WkhKVUNmWWxRRmFLbXh6c1NaT3U5X1NPVFNGVnRWVk94Q1VId1BWQ2ZSWEJWc1k4cGhJLU8tai1CSU1jYmUwZ2taQVNDbjhZbmZlMjhOeUlQeHdnVHcxRVE?oc=5",
-   "data": "2026-11-24T05:08:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
