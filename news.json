@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T12:23:22.287Z",
+ "atualizado": "2026-11-24T12:30:28.484Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1e6emd7",
+   "titulo": "Anthropic cai abaixo do preço de IPO de US$ 83 em queda de três dias: onde está a próxima linha de defesa crucial?",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pCQXdKTTN3VmdoZWZyb05pWlU5aEx6cU9qeWdOUlFxYmNjZU04SGlQMk9oSWw5Q1d1TzVLN2Jab1FPbmdvU0llaXJlUzFWc3cxSTNWYk5nd2pHdk5waEEtSGxlTld2Nkl1UlgtTnhzM08wMVAtY1NyR3hPX3pubWQ3VnZqX2QyOTFMNWdqbWl4aUdsWWNkWU9namF2MEZZbC1xUVhuXzJUWGFuSk9kQW5aYw?oc=5",
+   "data": "2026-11-24T12:26:10.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "16hzks8",
    "titulo": "GTA VI é o maior jogo de todos os tempos, mas apenas 3,8% dos reviews foram feitos por mulheres – e os desenvolvedores da Rockstar lutam por seus direitos",
@@ -118,6 +130,18 @@
    "fonte": "mmorpgbr",
    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5BUkM2NVJONFl3NUVqVjdnQmFMeHlTdThYRkR2clBwLWNCRnJqcnRCbUQ0cTUtNk9kaTlrU2N6ZkQtZTF5N21xNW9XbmlYVVM0ZFNOZ2NrNGFUUXhKUHVUNDZBT1ozYTd1RmUwem5FVFVORTBacE1OR2ZzLVdvRmcxbXdmaDd3a2xwRjZKZWJWNWFoajcxbW9CSmZETHFhUTdQTzVkbGxoVDh4?oc=5",
    "data": "2026-11-24T11:37:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16ip6nc",
+   "titulo": "Vendas no Reino Unido | 15/Nov a 21/Nov – Zelda: Ocarina of Time cai para a terceira posição com chegada do GTA VI, mais dados",
+   "fonte": "Universo Nintendo",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSzk2b3BOdnN3SVNULUl1Z1FNVXRGNlRKTWNqMEMwU2ZybERwUEpFY1YxVDNxanp5THoyQmM4V3VBWGtweWd4aE1US3RrR0dOVHdYN3ZRWUFVR0lmWi1YV2diVGxXWnFIZVZkUGI0T1hrZmhTREdpeExLM192TXkzMTRWRm5zRktEZk9qVFhxdHVGWFlQOVUzSjVwT2tUdFVKeDR2UGxVWERoRTR1c2RmQ2xpc213bmkxOGNkVmJCXzlqYVgtUDFzaGRhRF9YS0pGcHFmQzlMVWZHLW1HYVJLZG5DTQ?oc=5",
+   "data": "2026-11-24T11:29:17.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -1726,6 +1750,18 @@
    "avisado": false
   },
   {
+   "id": "1co82hc",
+   "titulo": "Durigan descarta mudança na meta de inflação e defende ajuste fiscal",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjBsc1l5TFVnOVgxZC1FU0xaeW1QMkVOUXg2QS1sWER2Q0t2cmpub2JTMTZRNnltX29aUkR6OElyNll0MkFIa2VTbVltOFdDQTBNNkpveFZGMlZOM3MxY2N6cElLM3d0eGdNUDNlUGtPVnE1alBuZTU1THJEREZoTWFXRlJjbEFRVWQxS1pCMTliRVZfYUZLdUdBTjdYaXJMckVSS25n?oc=5",
+   "data": "2026-11-23T19:36:36.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1weq5tn",
    "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
    "fonte": "VEJA",
@@ -1807,42 +1843,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "64subo",
-   "titulo": "Rockstar revela que criar cenas de sexo em GTA 6 foi “extremamente difícil”",
-   "fonte": "Hardware.com.br",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVZkRCU3RSZ2p2bW1jM3FRcWhUdmhYYjM1UXIxaGRNQnVtWC1TdTZnRW5wTlNETUVuY0wwemRrTlc4RDZZbmhmMHJBdUtUbDdkRmJfNVRJcUVHM1huUlZUVVdZOHlsQTNYYlVkZGpsWWpiZVd0bGx6VU93MA?oc=5",
-   "data": "2026-11-23T19:04:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qmtcmx",
-   "titulo": "\"GTA VI\" surpreende pelo ritmo e pelo tom - e alcança novo patamar de imersão | Bruno Garattoni",
-   "fonte": "Superinteressante",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPb1N5MjE3a1B6R2UtWFJja3VLV0p3RE5tUl9USFpvUXQ3Nm1GZUQ1SlN5VlU0ODJzc0dGV1RubV9kSE9nYWZiZUJ2NmM0bXNXeExUcmJRdmZ6VXdXQ1JBZEQ1TDVIaGpnUzQtRHNlRUc3NjlKSDl3T0FXdTdnTzRnbWVBRE4xMld5WnloX3R4aHpLSjJTUEFfVEE1dFA5d0JXMU9TTVRPYm9wSF80RkNqNDM5ZUIxQlhkOG5QNTFBWkt3YUQwa1E?oc=5",
-   "data": "2026-11-23T19:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "174ick9",
-   "titulo": "Governo Lula reduz projeção do PIB e vê inflação acima da meta para 2026",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZjA0eW9TWThvaDhUaGhQcEQyVmViakI0dGtXcl8wbGFPVHlHczRKWUYyeFRVYjkwQU1pTmtxY1B6aXdwVW1vbS1Db0RWdVhkUGcxcnNvN2RTdTRhaE1BVkhaeUJQODdJZEhpRmJPV29tS2RHVXg1ZW5LeTNnTERVZDBzeVg4QlJycmlPbWxEMkpCZFdGdTZRSWQ2THBnbERKSVZkZXcza2Y5N2N0UEZjdUZ2X1ctTmdSOWk0WTd3?oc=5",
-   "data": "2026-11-23T18:57:58.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
