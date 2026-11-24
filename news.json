@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T04:30:24.848Z",
+ "atualizado": "2026-11-24T05:00:28.410Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "19a00x9",
+   "titulo": "Banco do Brasil sofre queda no lucro e especialistas apontam falhas na gestão de risco",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd2VWVUx1N0U1LXl1MjBBcjlCQXd4Wmw4ZDI4UDNtdzAtNFN4cnY2VENreEJHRkh2SDYtMUdjWjlGRjNyU0E3X0dhdk1sNVN6cHNLbXdNOFZCaUJURGV0RVhCcXpJblcwLS1qT1h5SEt0aHVrMkUxMTNocHg2YS1EOVRaZ1JtZktQSzl6aHJ1Njl1RFAzVFZRUV9GZjRISE9tbjZuQmVBYmx0ZG9lRUMtX2JLZURFTXB4ejUzaDliQVFYZWRuclZ5Y1BIY3N3SW5YM1E?oc=5",
+   "data": "2026-11-24T04:45:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "157t3rx",
    "titulo": "Nvidia ganha US$ 952 bilhões com retorno de Huang ao comando",
@@ -709,6 +721,18 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n45id9",
+   "titulo": "Hacker vaza suposto arquivo executável de GTA 6",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORWNlUkp1dFJ2eFduU0h4NUN2Tjg3bEtPT0E0bW1sYWlQcWt5ZkFjaGM2TzNUZTFvWno1U0hCemhBNDRwWVBwaXkzdnoxVHdjV19TcFpCbXRRZXg0N3VQTjRNT3FKcmRXM3JEZlBZdlhidlJhT2Y2S2FjWkRLa2hiSmhqMDdjNHMxeTFoR0lNQk1rVlVsMWlkTlB1SUU0MnlO0gGmAUFVX3lxTE9jLUN3cE55QU5qekpxbnhGbXdManI3dWhIUHIyZG5BN0pQc094bzNHbGFSNjVrYzFJMHUtNERGQ3BJWGRvVUpQeDgwR3VUUy1iOFdWT3ZrcE5BdlBWUkZUb0ZpYnRfQzVSaExCYjlCMzZNZmJDUjF5Y2xjanRlaTdWUzdHWnFFUldmYXdhQ2R6R2s5V1JkRWtRNU9KWHhjblg4N1BQRUE?oc=5",
+   "data": "2026-11-23T21:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1817,30 +1841,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1unf58v",
-   "titulo": "Conselho da Nvidia continuará investigação sobre Jensen Huang",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPenlfRUhJQnFrU2V1MHg0NUZ2ZzNvZHhMS05pVEpYaXdlc1d3Y2VObnY3a2h1M1A5M3FyQkxVa3c1dXNKODBnWmJhZGpwdmVoWk5HcHBQRlUzdlJ1VExuZUR4YVYwM0RTaU5sVEtNcExUb3g2N045MzE3WVJ4RVdFWVJYT0dZQ25LM1lwc0lWZUV6dW1OR0JjZUdHWXlUUFNESWt5ZGl2ZGM?oc=5",
-   "data": "2026-11-23T15:14:20.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16dxtzj",
-   "titulo": "Com ‘aval’ de Trump, CEO da Nvidia é reconduzido ao cargo",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekZvZlA3cU5RZHMwcHg5TDllR0E1LWFhX1VMSjUtaWpmdFdkNktzUUVVdjlFekZUcmwyd1lGMy1RTVZXTk5Gek1IMzZCM01BQk9nOGdLY1N5ajRRMHdkRUxRcTBmNDZrZ1ZhWkZiOF8xRGotbFFkbGdEQzBqR0EzMDZWcWVZR2FSOE11amJ0Rk9kN25VRTRKTQ?oc=5",
-   "data": "2026-11-23T15:10:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
