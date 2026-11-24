@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T12:00:30.786Z",
+ "atualizado": "2026-11-24T12:23:22.287Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "16hzks8",
+   "titulo": "GTA VI é o maior jogo de todos os tempos, mas apenas 3,8% dos reviews foram feitos por mulheres – e os desenvolvedores da Rockstar lutam por seus direitos",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wTmQwNGNkbHBTQ0o3YXktdElqMkFMWUFQZnI0ak1WOUJkQS1Lcm91azR1ZFlPNDVER0FMN0J4b0pSN3VuYmc?oc=5",
+   "data": "2026-11-24T12:10:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lnw2q1",
+   "titulo": "Fornecedores da Nvidia e startups na Ásia comemoram retorno de Jensen Huang",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1l1a2FMV0xSR2J3bjdKODVfVXVqcDF4SVFjZ2NCYWdkbks2aFJUYzAzQ3NaRzJmdjhuOXo3V04xNEIxSmg4VHIzWG9FVXlYMTE2U0tfMm9qd2o5eDI2a1NzWjUtNmFlck8yN0F1V2o4eVltR18wVG1fN2FJVUZBc1dFcE5zY25RM1RiSlZzTUpIaU8ydGt1WWRmUnBibWtiZmpseWd4UGtmdWcta1pCZ18wNHpjNktPXzFVZVRBQVBDckVncURNMWxRY2R0d9IB3AFBVV95cUxOXzhfQkRnRlJVNkl5UVFocEljNGZ6am05QlFGNzlBOFA0cnE0VHJYd1dxSS1hNDVCY3RIOWZjNnNIbHl1RGVPY0p6UmJUM09za2U4YUo3NkxwSHVpdjNfWEdWTHl4emRjUEYzcnExUzQyMTFjSGJISkxmUVpUT2hYNG9VampFWEtIeGZ3eV9lYlhKZzVwankyY3pWTjYxdFhHcHdKaDhEVmZoQl9jdlVKeWYxYTF0b19RZUxMYzRqWGpDZklwS1AzRG5pUHdIMHE1bmQ0M2xuTU82M2cz?oc=5",
+   "data": "2026-11-24T12:03:56.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jig3go",
+   "titulo": "Vice City FM de GTA VI tem programação completa com 70 músicas dos anos 80",
+   "fonte": "R7 Entretenimento",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2hSd29UOVdoNmJQN09haVc5VE5KYi1BbkxFc0VudV90Rm8zQjlGbkNKem5reTkya0Y1UUxLUkxMckhrWkZuUm12TGZDdG1sUVZaMVgtT0d1MHdfa216aHlLcjc1S09YbkVvTzBSRC1QVnhjb2k3X1RKZjRBNXJWQ1poSjVIRzJmcHk4Tm5FN1NxWTRoMk1SZ0pzbUt0RDRtZWh1YTlwb0ZJUzVfTXNyYWlScTBmUlhMREpuaXBfU0cwOFVrX0tj?oc=5",
+   "data": "2026-11-24T12:00:38.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9ao539",
+   "titulo": "Petrobras anuncia retorno à produção de etanol com aquisição de 42% da Neomille por R$ 2,8 bilhões",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNR3FVTmo3UzllTm05ZnljRE85R2xMQUdjVDNiU1lmQnQwRXR4N0dVOGZDc3FZWWhMZXRPZG5UZmxrYXpieDRCV21BVERvZmhpR1ZuMkp6LXpFNWZXY19kUGlPNVhCY1dJN0UtRHVxMVRJclZMaDNucGRTREowcWV6UEJQcFZtTkRqelVWeE43Z0Nna2t5QzRBYk5FUE9KN2VXV2s4YjZlSElkLVVkSEIwZUgwbE91TlJ4WXl4ZG1EazFMLVRQOGNya2tNRG5lbDhOdjJWcHNtM2gtQXc?oc=5",
+   "data": "2026-11-24T11:59:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "11yqxly",
    "titulo": "Itaú Empresas lança a campanha “Toda Empresa é um Feito”",
@@ -85,6 +133,18 @@
    "cat": "Corporativo",
    "empresa": "Petrobras",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12427py",
+   "titulo": "BofA reafirma recomendação de compra da NVIDIA Corporation após medidas de governança",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWEo4bDlPNG83RWlZcTZ5clJBTEZqRHFHRlZBMVNzNU5LWmZ5bXZYMFFTVDhIT2cxeC1URnZJdW9NRE1YNFVLTHhiSlR1R1NhM3U0R2swaThOQTNPM0ZoNkI0djdoaXFHZ25lWU5vTTE0VU5VZUtVc2liM1E1WkVJZHBJVkhWZFhNeE1JWTBhY2Rmd2NrT25YS2w5a3FmaVd2SG5sdTdMZGl2MXJMbkZWQWpqMnNueHBCbEtvdXpxdm0zaFhKSTFTT1d4LTItaVpHT3ZLdzVYdlNDN2lN?oc=5",
+   "data": "2026-11-24T11:26:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Nvidia",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1783,66 +1843,6 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12phnpz",
-   "titulo": "Governo Lula reduz projeção de crescimento e vê inflação mais alta e dólar mais caro em 2026",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0htd2Vzb2J3T2NnVjBSQXFFNF9Ic19xeVpxQVc0ZkExc2M4YUNMMTlfNEdNV0p3a2NHamRSbm9fUWdvM2pQaFRrdU9kclVBVldmMGUtVkRRaEJ2Z09wOW9TNkFWeFV6ZWp0QUlHaFBBWGtKWHFDcU9mTTFtSjg3YTIzNXFPOXdtNE16MldOX0RkU1VaczJ3dXhqNnV3MlREUHE1eUQ5akh4T1Y4YzkyUHlDd9IBuAFBVV95cUxOanFSLW9pQzlUdkRab2NickNMYmN1djhGUzBQajdyaTg5MmlFWnVlTzlhcHZudFBxN1pldnZGaE5jM2J1TVdBRVU0M3Q2VVNMMnlPdWpNZzNzR3pBVnFmWko0ZEw1Wmk1eFNVNnBLV3A1bUZLdDE5QndSUWtzTklWTVpINE1wenRyM1IzTV82UUt2U0NFaVUwSkUwNGRXVXQ3MjZlQ3B1Wm16RjhraTVyU1Z2RHgzcXNQ?oc=5",
-   "data": "2026-11-23T18:50:00.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "euoe9i",
-   "titulo": "Durigan defende meta de inflação de 3% e descarta controle de capital",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeXFfdzlvU0xfdUJjRjB5WVg2SDNNSS1KUVZFdTg1Z1hJNnVnZjN4MmZpVlkzMHpBOV9PbDJZLUVObVlPRzhCX0N0b3p0RTN3MVpiMjZEY3R5T05RZzZ4S0hMRDR0RE5RTURfZUx0QnR5TzZvQndhLVZyS0FXUVREdGZDc0l6bEZGa2Y1cXY4Tk05cmdwbUphWGM1Z1pCOEtGSHlpcUpRZTRad3pQcTRQZ0tTLXhUdU55THc?oc=5",
-   "data": "2026-11-23T18:48:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ogw8m2",
-   "titulo": "5 músicas brasileiras que estão no GTA VI",
-   "fonte": "Primeira Página",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84V1VKMWNqajc4dE5rZEFaajFCWVBHWFpPcmpRdURJdXVleERTMU9Fbnh5WDhKNW96RHNYSzh5QVdkY1BVb3p5SS1pcVVKSUJ3X1UwaXZvQkdiQkxKVkFnWUw4RC1HZFltRlZwZVR3QWpkbTQ5aFE?oc=5",
-   "data": "2026-11-23T18:47:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "47beig",
-   "titulo": "Ações da Alphabet disparam com retorno de CEO da Nvidia",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNXUyRW5mSGVQU0RseV9Kc0Vhak8zQ1V2ZjJoMy1Vd1R1LTlDRmJ4N3lLSkthckU2dWxtV1pIRkhfOFdSQ2ZWaGhIT3Y4WDFWeUlwWEc2dVRjTHNoNVB2NXg0aXFid0Jwek8tMEJxRXBUUXM2Q1BMMXRiTVk4S3VITmFlY1g3NXhkR3BzTWJacXU1VTlJR3liNXBJWmZLN3VMT0lQOHRxZ3FWOS1WdGUzS0NaWndUR2M?oc=5",
-   "data": "2026-11-23T18:47:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Alphabet",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vzajfh",
-   "titulo": "NVIDIA reconduz Jensen Huang como seu CEO e conselheiro",
-   "fonte": "Mobile Time",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVaG92V09HTnR5TTQtWG51RnhfaEFaWklkTlVSVjVOc1hHSDc4SFFSX2VlOGV2OFJac0IwVkRkeURNem5venppZzUxbkxMbnN1ZS1FVEVIZFpxYkJQZ0QxZ2lmVWNIVDFrd0FHd3hnSndPM01nd2xER28xZ2I?oc=5",
-   "data": "2026-11-23T18:45:40.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
