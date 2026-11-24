@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T06:30:28.407Z",
+ "atualizado": "2026-11-24T07:00:29.833Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -131,6 +131,18 @@
    "data": "2026-11-24T04:45:00.000Z",
    "cat": "Resultado",
    "empresa": "Banco do Brasil",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xw0s9u",
+   "titulo": "Temor sobre mudança na meta de inflação assombra mercado e amplia pressão",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTE53NXlBVUdLejkycTl2NGo4eDlJZEgyYnlDcU5GZVowV2dfeC0wSUF1RWVhajFhaGhzU0tPdGVNOGJhNWgtdUNmTGliVm44cXk3SjZOWGp6d1YwNEYtcm5Fcmt5UXpHcnhjLWh1aHFvV1RmT2pLMGxyRzdwUC12Yl9MaTBURGVtQzVxaG9mbk5waHAzY0tUcXpkRHFJbGtQRXhQZFZRZzVnS25yQmNWd1JkbU1qeTFCZ0xNR1J4S0c0aHhS?oc=5",
+   "data": "2026-11-24T04:29:33.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
    "score": 7,
    "marco": false,
    "avisado": false
@@ -1830,18 +1842,6 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1a49ruq",
-   "titulo": "Nvidia anuncia retorno de Jensen Huang ao cargo de CEO após renúncia",
-   "fonte": "Ponta Negra News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSF9rVGx1My1QUHNRSXlYV1ZHS1dtVlY5UkhfM0p4X2Fpcnk1bnpnWm5qN0wyZUNkeUFMSFNFekhnMW9rbXpOS3BXdGttdGFod2ROVXRaVVRreGlkbHltODdIamdVcDRXTVNaQXhldjhiZWY0ZE5ac21fWGxCbDBTT0JDaU5Xck9hSzV1dEN5Ml9zYnBOT0HSAZYBQVVfeXFMTkhfa1RsdTMtUFBzUUl5WFdWR0tXbVZWOVJIXzNKeF9haXJ5NW56Z1puajdMMmVDZHlBTEhTRXpIZzFva216TktwV3RrbXRhaHdkTlV0WlVUa3hpZGx5bTg3SGpnVXA0V01TWkF4ZXY4YmVmNGROWnNtX1hsQmwwU09CQ2lOV3JPYUs1dXRDeTJfc2JwTk9B?oc=5",
-   "data": "2026-11-23T15:44:26.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
    "avisado": false
   }
  ]
