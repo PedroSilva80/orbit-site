@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T16:30:28.238Z",
+ "atualizado": "2026-11-24T17:00:30.655Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ko6bfr",
+   "titulo": "Wedbush vê oportunidade na queda das ações da Anthropic após IPO",
+   "fonte": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTUp4X1VDaXZwdlZOcUpDSDRnUUxGR0QzU1gwZkFIb2ZhcWRsN2QyTGk1RzdZaVZmcnJaVFZ0ZVFlYldYdEc0a1FIY2k4X3dzNFEtTmMySHBHQWxfQVBWdzd3eVlyUzY2NG9Jcl9YQllLa3JhZndaTjRkYml2X1RXdE9NVEhhNDBmWnU4QkhVRjUzZlVCQlVlWGVZM0lDT3hrQ1RfQ2Z2ZnNDdG8?oc=5",
+   "data": "2026-11-24T16:39:07.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15218sh",
+   "titulo": "Tudo o que sabemos sobre o aguardado lançamento de 'GTA VI' para PC",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdk8xa3JseDkxeWN4RVdqZThYOEdrd1RQekJGdThRVTFsOWxpR3hlS0h3a1BRUkR3eWh5cW1CX2RacjJCdnFxZV9OOFhuaWZOQTdMeDI0ZVlBQmliUHBiR3VYWUZaM1E4MF81Wjdib1plZHYzbkZQM0owRGtoeHdEdUJNV0xtdms0dU9aT0c4b190dktBcGdHXzNuZ1hIRV9sNngwb2hsb2sxd20ta3BObGw3M21ZTW5ZczluOU9ZbERBQkxXVVBWVEdMSTJnamxpR1ZqNndmeW8?oc=5",
+   "data": "2026-11-24T16:35:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "u9wolr",
+   "titulo": "GTA VI vende mais de R$ 20 bilhões no primeiro dia e faz história",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPLWRXRlM2amxnLUdoTVBweWpxa09Vblk2ZjJEbjE3TXBnbFFCQWJ0ZlFBMmk5S2IyZlF1S1FMQzJBN252WDBrZG5HTzZ1TDR3aXhiUHZMQnJzbjZYYWNqcjZqczRkWGhTRmdYb2hOY0tGeVNZY3Z2LV85SjZwdnJpdHpLX0tUbmw3NnJYaG45ZlZQdE9vSHRHR1ZPem5kMnA3ckx1c0FOamlvSkV6RmNRbThnRlNBc2x0TmpVLTlFbnd5NnFMSGprTGJlMUV0LWR2bFpxeG1PWXVqaWFWS1RfZnRpYTIzR2NPdW1GRDNVTkF4S1JPLVRWYXpETzlTZXJIeUN3Z0RKYmlSODJS?oc=5",
+   "data": "2026-11-24T16:31:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dul9g6",
+   "titulo": "Iniciativa para controle de gastos faz dólar despencar e impulsiona Ibovespa",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBtQUI5S3hCOXpHajRYS0hfcnFwSDJFS0VqX1BhVVdkN0RuS3ZJSkZnRW42RFdka25VeFh0SXRJbXFEVVotVVpaNEFTbTc5N2ZtbUlrRzlCX1pULVF3cG1XelhpTHU4eUdNY3kwZHJqTFY0and0Y1Nv?oc=5",
+   "data": "2026-11-24T16:26:15.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hk5izr",
+   "titulo": "Uma possível fusão com a Tesla poderia facilitar a entrada da SpaceX no S&P 500, afirma o J.P. Morgan",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9oTnZwZXlET2dKdDBUR0NOMXJvQzFDZUt4cWR0NS1iNWtNMHc2bWRaUk9BU05ReDNzc2s2Sm5hS0tqRUtZSzJ4cDNjM2M4XzdGa3RnUXVYNl9ycVFNcmlSZ3BadEFSMXh0dzBCTERKb09HR3lOMHd3?oc=5",
+   "data": "2026-11-24T16:24:42.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "i1hvua",
    "titulo": "GTA 6: Rockstar encerra projeto de port não oficial para PC",
@@ -121,6 +181,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "js60jh",
+   "titulo": "Nvidia e Anthropic derretem: por que a correção de IA era inevitável",
+   "fonte": "BlockTrends",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHZYVWJCNHRGakJ1QjkzYU9JM1RESzNYaG1IYkEzdXQwTmpTaEFnQlVEMEQ4cWo4Y3Q1UDhEaXRQNVNfODMyWGVlOEhvWG40T1Q1WHhIUU5vNmZXVkhIelpSSVNIX1NzeWNFNUN2aWJ6bW5hUE8zNFR0Y3YtdFNGemYtYkgxaVFKTjFlZw?oc=5",
+   "data": "2026-11-24T15:35:28.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1771,78 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1p2d2ag",
-   "titulo": "Hacker do vazamento de GTA VI é condenado e solto enquanto Rockstar soma bilhões",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5penBJTEFNU0xvbUlJWTNlbjFuYzR5X3RJWHJFcy13aWZXSU81YUpMNndHSU9QeEJTMGFLX0RKb2dRZWlkZ1E?oc=5",
-   "data": "2026-11-24T01:10:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "p1apuc",
-   "titulo": "GTA VI: como conseguir carro rosa grátis e garagem extra no Capítulo 3",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vX1NYb0F4UHVvMXZaUjgxQUwxTFRBaU91TW5yUDZiQjRYSG5WdVZOZWtmR2diWXVOczlQdUtFVjlWZlB6STBhMDNtZm5aUEhmMlFQb3VldmxDN0NIWTJSdFU5eE1vcVJvZ1MyNUo0eFFjb0VjVUsycjdEdUF4UQ?oc=5",
-   "data": "2026-11-24T01:09:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1r3wg7a",
-   "titulo": "GTA VI: 8 configurações para melhorar controles, imagem e interface",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RVzFfbmRrZmc0QjVoNzlXRHJUaDVGcFZUUUNoQXJyaFRwSGZIR1ZsRzRuckU1U0pkVVoxVjVMbmhWTHNxSzl2V3RLR3QyQ3poLXpiR1NTWEdtTHl0WTBZTzlhbVZLY0lPclpyUkJYUS1fVWRPajVsa3k5SHY?oc=5",
-   "data": "2026-11-24T01:00:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "815f7o",
-   "titulo": "Trump é alvo de críticas no Congresso após pressionar pelo retorno de Jensen Huang ao comando da Nvidia",
-   "fonte": "A Crítica de Campo Grande",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2t0eVA5aU43OFN0a3ZCNTZoMENtTVNyMzVxYUROOTBLaFBQUXdtRXNHQTNrMHYwbGJwVlhyWF9CQjlsV1ZxNy1LSjg4YjEwbFQtb2N3dG5CZWtoZ2FZWUlvQmdVdGVCSUFnUUZTXzR6dHEzSWhEMXZZUklfVi16amx1MHo1VFRTLWtoTUF3aFRqZ2pCV2ZwRGlKZG9nRXlVQy05eWlPdlJCTWhuWlJoVXFnNl9jSXVJbFllUQ?oc=5",
-   "data": "2026-11-24T01:00:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4tapcn",
-   "titulo": "Nvidia bate recorde de negociação de opções após retorno do CEO",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXJUOHg2UjNwR0pKZjU0UXFhZXhaWlR3Mjd5YnBlZ3BjdTRkZ1hIMXRCaWh6a01wRUQ3dVhWWFZLb2Q3MUJQVTFZQ0w2ZDRmN2xLZUo5MjFTZzAtZmJ6cGE0ZmFGaEVJbjRBekRZRTJDQ2haQndCdlJWTVU2R3dsb1NtazBoS2dwb01fcUpDMlY1V3BJT0RlZm1mbEEwZ0NTdEhnVVQzaw?oc=5",
-   "data": "2026-11-24T00:57:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mnk9ya",
-   "titulo": "Petrobras retorna ao setor de etanol com aquisição de fatia na Neomille",
-   "fonte": "Globo Rural | O agro de ponta a ponta",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVNsY1dJekhzZEtmQXV4V0ZRaXVXYTJxMlA3SmJRbWdCM0FsQ0ZmcG1odkhYRU9SM3JUN0ExT3dzU3c5d0dfclF3YloyVzY3UFl2Sm43ZUo5RzBnOUwycjVlY3N0azNwVUE5YXB0X0szYUE5VGQyM1ZlcElJdU5XUEtjNVNjNllFX0xDZ2E5cm1JdWJuSnpGSWd5TmtmWjZhaktXY1ZsQnltdlJxaDB3THVTUkpxbmU2bExhbXdlUDJRTEs2M1Vham9UblpYQmlfOXFzR9IB4wFBVV95cUxNRmhZZEpSYkU2aW5kOExITlZNaGthZUVxV2FrSnB2TnQ3LUxDVFhYNkpzOWJDaGFBdmJ1NjhwQ0FiRG5oV0F3bXE3ZGZEbXhWNUVzSnpqazdqbHVhMHlnOVhlMlNpWVhjZUd2LVc0SUpxb2MwcEJ6Ykw2QmpxX1FPWHhDOEFuX1NZZERnbnFoZmxSbmY3eERJOENaclMtVzlqY1Y4a19WYjNyVG9wMGdZbjkzc3Q0N1BKTHR3Y3NDOWZmcXI0TDJCZG91WWtPREVyOGROZ3daTWtTQzZfR1FsR2V6UQ?oc=5",
-   "data": "2026-11-24T00:54:49.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
