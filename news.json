@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T09:00:37.359Z",
+ "atualizado": "2026-11-24T09:30:30.768Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1wtmhrm",
+   "titulo": "Executivos de tecnologia celebram retorno de Jensen Huang à Nvidia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaFFVSGg2LTJBOGJxdVZ3U0pUU2diNDlKT2ZUZTVEaTQwa2VBVXpJU05hV2Y1MERMWlZmZ1k5VGxKSjEzRV9rZlE5NTh4UGRTaG9GVFcyempNWnp2NXplMGdzRWx3cHpBMlBfdnRUYnRUTDNtYy0tUmhaTmNMTHJVekw3U0FRdVFnUEkxVjZOWE9tWFhFVFM3Y1kwSFJlTVFkMXhGRDI3RWd2Qkx1a3FVYm83cFhpN2YzdGRkN192UnNLaGcwOHJCaA?oc=5",
+   "data": "2026-11-24T09:07:27.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tcy879",
+   "titulo": "Retorno de Huang ao comando da Nvidia e declarações do Fed movem mercados",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFZrd1NSN0dVaFhRNDdjaThBcEp0bFI2czNIU1lXXzBUeDFHMFJrLUlwajBKV2NLX2JsV3RCbm5KWlhzLVhmcTdwSmFHczZ3R282RmNhWWVxR2VWX3lXX0dOMURFSW9SbjAwQ2JUS200UFdjS3l3d2ZBM1F5Rll5V2RSRGJWQVRCSEV1ZXJfakJLQk5xY0JZbUdDVmpkNmJPaHFtUVN1U0lSNjd4b2M2bWE3a0hwWTdvYXpqRjB5Uk5pUQ?oc=5",
+   "data": "2026-11-24T09:06:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zz4974",
+   "titulo": "Amazon lança refeições prontas com entrega no mesmo dia",
+   "fonte": "BHB FOOD",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TUnZsbFM1LXd6YnoxTnl5eVF0Vm55VHZzcWZ3eXZNTnpkWVhvYkRpU3JfcjRTM2hxOERNWV92MFBDaW5WaDNnc3liSW0wczhQVzJkLTFlQl9HSHdpMFk3ZUtUdnJGR2tv?oc=5",
+   "data": "2026-11-24T09:04:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1kpr08r",
+   "titulo": "Xico Graziano | O calote do Banco do Brasil na realidade do agro",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFpmUkw5TWk3YXgzRllSTlM2ZF9QbmNVb21ZUkg5LU9TT3lqaXhyZXJjcWQydDZTYWZ2d3NKSEk3ZERweXlXQTdFNW1tdlp2WHRIanlPX2YtOXJjLTU5Nkl6c05kTFhZaXFyUmlHcEpCMTRVMVl0dWxvakloeGNsTUM3REJVaHlTR0p6bmpR?oc=5",
+   "data": "2026-11-24T09:00:58.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dbp1nn",
+   "titulo": "Congresso dos EUA pressiona Nvidia e governo Trump após retorno de Jensen Huang",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORDRLaXFWdHhTc2FVTUJlZXgtU1czWERLMTh6LVY0cEh2NnZtN2RSbWRyUVQzMUhPSVJUT1J3MDdTMFZpOTJ0d25qRVhTVEFfdzljQ1hqQUpVVUdveHRaTmpidzRpcTVsMWh0ZWhDcjNSZ0lscTRBNUR3UTNiNlpDX1h0RnZVVm00dGYtd0Nia2xhd2Fua0NFYzNrM3FjdG1xSHFSb3BsbW1zSlZKOWpTOVRQUWhjSmRVemdNcTRMQ0s4eDRXQXd6RmVZZ05uNzA0QkZFUW1qSEVTWUxmQ3ZzbVpKbGtrZ2xoRS1VemExUWd1cmZkNWhQc2t4OHJmLVlET2FobVo1dldxUUEy?oc=5",
+   "data": "2026-11-24T08:44:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1rqqbc2",
    "titulo": "BASF prevê potencial de vendas de € 15 bilhões na divisão agrícola antes do IPO",
@@ -1781,66 +1841,6 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1n69kul",
-   "titulo": "Wall Street dispara com a reintegração de Huang na Nvidia; dólar sobe",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QR004TnVsZE4xQ1ItaGFUVnJkQjgxUWxoc1pQdTNaSVNrbHFIYWl3UF9EVmZnX0pnNENLQzFEWWpqamVoUG05SmtOclZ3akUzZnVPeXJveGQ5QzB3SThoQkxfSTZoWmVtbUxNcFQyOHJOZkZ2OEpr?oc=5",
-   "data": "2026-11-23T17:06:04.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1k60xmc",
-   "titulo": "Rockstar Games lança edição deluxe da trilha sonora oficial de Grand Theft Auto VI com música inédita de Anitta",
-   "fonte": "Os Garotos de Liverpool",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeU94SHd1WDBiaXN6MXlpeDRRWmx1NlAwazBNZTZ5ZjJyRktNTm43QnAxel9yVUQtN0pGcTAzLWtpV3l2eUZualllV2hpak0zdXc0LThzZHFCQ1N2NDMwUVBoekExd1NGVnBlTG5GQkNRVE1BN1NOaXAwQ1BUT19ac1NQX1ZRT0RXQ2NVTlE2a2dHaDRf?oc=5",
-   "data": "2026-11-23T17:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11bm7ww",
-   "titulo": "Nvidia volta Jensen Huang ao cargo de CEO e Presidente, mercado anima e até o bitcoin dispara",
-   "fonte": "Livecoins",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMzZxRVZ1Q2dKSkdYQzNDQlNGcFZzb0FMdEdydVAwV0ZHeDFiM1c5VlB1TDV0cjBlb3Q3cDlvY0lwLVVqSm1rMjNfZUozZVNtMV9Nd0VTZjVScXpWd21NSFZVRzVmZU1iUUhzQ05ZRVhlN3VSYVJIdlJ0cTkxNlVMNVNSNl9iWU1HLXowcjFPTk5jY2NTZlViQTVBLWo2MTgxa3V3QW9jSG50dDI2YzdYSkJXYzQyY19lSkHSAb8BQVVfeXFMTktsTXBPM2J1SHRPVmNURU9MWmZlUmhsZ1I3Z0s0RXVBTXNMeFJCYUk5VGdUZjFqVm15dGthZDR5NDJlb2ZUaGhkZjdBVEJPRldhQ0NrTzNCR250VmNzZHE3bXR6NkZHLUQ5UVJuZ2ZkQWd5eHRfSjNQTk5jWFVaVjZKU1k3TklEMkZpc1lqUl91ZFNYRU1waFFERHAzT1NndGJzVUU4SDdEQTIxdlAxdDRfSkZfM3J4X3FFQ3poMUU?oc=5",
-   "data": "2026-11-23T16:52:35.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vk7z3n",
-   "titulo": "GTA VI: Música que lidera o Shazam Brasil já era destaque na Mundo Livre FM",
-   "fonte": "Mundo Livre FM",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYzFJWmI3SUx5UkR1bWJKUFBEcVJxTWpRVnAtSUlHM21mU3Ixc2lTaHFjYkxpd0lWM0pDS1VXWjBrcUxKWFFaODZWaEtueWFwV3d3aVNja29qX1BzNU96Q1JvY285cjdZQV8zNERWaTBRd1RfalRHT3dIUWxMUTQxd0NVTDBKVHBvXzF3eUtELXlKR21uMU1zODF6MGRSR04xSnI5c3laRTZ1c2ZX?oc=5",
-   "data": "2026-11-23T16:48:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vo2pvq",
-   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSVF0TGstRFRyNUZvM0Z6VWVvaDF0cDY5TS02VEVKeWhfMGtxSzI2WW1mcGh1STEwM0Q1bVRoeHA2enpySDVLUFB6bmhoNXA5SVl6R2RIWk1FTjhXRFMtWERzZ1FCQS1pMDlUTGN1QTdHY1BsZ3dkWGxTLXB2ZzVvNGdJa0ZMTk82TTFNZ1hjbVFwU29BOF9LUmZzeDF2a1MtWjBPNEFHcHFoTHBOc0ZR0gG0AUFVX3lxTFBOOUlFSmoyZFZGeGpHbFJ1a1Bud0ViTmhJX2xqUlpDYnR0ZS12dWVqb0h1VFdnQ0p2ZnJDblFLeGUzaXRiYmg3TDhua2NyNlVNVWJ6SVVFTXBHNmxLTDhKN3JrZFZ3YkJmWkxrcUZhVV9BNjRGaFdTRXV2VkFxeUVEX1hvYmVIS3plbF80Z2Y3S3NkaVZpNkkzaXR0STktbE1oV29oU1dFX1FaempZOG5nWnlXWg?oc=5",
-   "data": "2026-11-23T16:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
