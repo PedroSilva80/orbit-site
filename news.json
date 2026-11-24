@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T09:30:30.768Z",
+ "atualizado": "2026-11-24T10:00:32.234Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -10,7 +10,8 @@
   "dig|2026-11-20": 1795168829696,
   "dig|2026-11-21": 1795255227115,
   "dig|2026-11-22": 1795341630768,
-  "dig|2026-11-23": 1795428029253
+  "dig|2026-11-23": 1795428029253,
+  "dig|2026-11-24": 1795514432234
  },
  "agenda": [
   {
@@ -49,7 +50,8 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795514432234
   },
   {
    "id": "tcy879",
@@ -84,6 +86,18 @@
    "cat": "Risco grave",
    "empresa": "Banco do Brasil",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ee0h7n",
+   "titulo": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar?",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0ZzUVZNSHNyYnV4OVNSU2pkU0NGakUtYjJDR253ZXRZM3BjN0tCVmdDNHROb2RZZ1ZaamxxZUNVVy0xM3FOTmN4VGFmZnRjZHhnR204YWI2Z05kNTU2ektINHBGUVNWODBtRU1fakdmN2pJMGMzMFgxaEJaQ3ZUbEpLV3M4czREeVhIZndXVUNKX2M0bURaenVZVjNjZ244ZHNtemVQU1lkY2hiTTk0bENGTDdMQ01ROEZEd0xhWG5MdTBwZ3doT2J1eEx4VFNpS20xeWh30gHkAUFVX3lxTFBXT2oyRWNSVGs0NHdnMFV6Z1JwTTg1TDhZMV82MWxsUFBESzYwd3g3OTJ2Qi1vWmlrd2pmTE1xY2dMYzRxRnVtTzBTaFA3MVlfemRSYkdTQkZsUm1aQ29WZjJPSFhXblY4bVVkX29HenFhcmc2ZHVyZm15anp6bURYZEF4cDR0bHNpT2dWeXNYemlKaWxiUFVqa1dreE84Y2IyNUdsbWY5VTFsVFJ2OXFJVXNqdUJ0Sm5URkpsR2tJbEJ1NGk4NEtNU0hTbWdrV092bW02eDdyWWkwX19NNnllVUJGbA?oc=5",
+   "data": "2026-11-24T09:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Vale",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1829,18 +1843,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1p6o54g",
-   "titulo": "CrowdStrike compra Zscaler por US$ 44 bi na maior aquisição do setor - IT Forum",
-   "fonte": "IT Forum",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZlo1VERiTmxLdFVwN1o4X2RGOFhpQzF5RWljOWdhWFRTXzRMbmxtbzVLbGh5SVRsNW5jS2FFekQzeExGX2pWY0U4QnRUOTdHX3Z4ZlZ6eGVGUXE3OHc4enJKZnAtdUZHaGt1NzFoRFg2RU1manY2a19HeTYwajZnaWpPWdIBiAFBVV95cUxOTlNHek1SR3VNQlZkcENJMW04eGVKUms1cG1CQlIzLW92ZWM2OTVYT1dsbXQ1VjBlZXJFU3ZJVURsbHU4d19UUTNvdGR4ZFEtOVdfRjdEMjd4eXo2ajNGVlFxWXgyT3FDdEU4dURlbWoxMjU3ZmRxdUlNaDNJX2ZJMnc3WHd0SG5Y?oc=5",
-   "data": "2026-11-23T17:10:40.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
