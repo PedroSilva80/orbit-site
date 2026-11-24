@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T11:30:27.459Z",
+ "atualizado": "2026-11-24T12:00:30.786Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,54 @@
  ],
  "itens": [
   {
+   "id": "11yqxly",
+   "titulo": "Itaú Empresas lança a campanha “Toda Empresa é um Feito”",
+   "fonte": "Let's Money",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNFpON3NWUjJDUFVmSnFWcDNxUU9vQmZPbmJlRzlkVVFlMDAxWFVCTy13Q1JIWEJ3Zy00WWVlT1NudmNtOGptRUJ4d01jNnRsNmRseVRCYWNCc280aVFaSHZCcVlqQ3N2Y2Vrc0pEcVUxLVpNSmtIUERFU2xiRjhUR1NMcDBpRmtPYVZoaHNR?oc=5",
+   "data": "2026-11-24T11:58:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "Itaú",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vzi5o9",
+   "titulo": "Regresso de Jensen Huang à Nvidia gera ganhos recorde em bolsa",
+   "fonte": "Euronews.com",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSklHRkZjTzJaM2NFUFV4WVNDQmQyNFlpRGxDODB6Q1JXb09VRHU0OEsxQUxidkdSVE5hSlJhLVR2d3ZYRkpKeWxhVUI3emVOOHJnYTgyLUJCVGtkcTBJaTRpSVFFUVBXV3lmMXhLQWFZTVRlbGtGNXFIRXQzUVQ4NmRCbzFDbEFXRHpsT2dnYnhkN295blJrSFhtQkI1RU1IYTdkblFESVZGeFR6LWlWa3Vn?oc=5",
+   "data": "2026-11-24T11:38:31.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1spun1z",
+   "titulo": "Modders conseguem fazer GTA VI iniciar no PC e estimam versão jogável em uma semana",
+   "fonte": "mmorpgbr",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5BUkM2NVJONFl3NUVqVjdnQmFMeHlTdThYRkR2clBwLWNCRnJqcnRCbUQ0cTUtNk9kaTlrU2N6ZkQtZTF5N21xNW9XbmlYVVM0ZFNOZ2NrNGFUUXhKUHVUNDZBT1ozYTd1RmUwem5FVFVORTBacE1OR2ZzLVdvRmcxbXdmaDd3a2xwRjZKZWJWNWFoajcxbW9CSmZETHFhUTdQTzVkbGxoVDh4?oc=5",
+   "data": "2026-11-24T11:37:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1f71wnj",
+   "titulo": "Petrobras anuncia R$ 15,6 bilhões em dividendos extraordinários; veja quem tem direito",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNmhoS0xBQW1fa3dvV29aTzRFb3g3Y0pRa29CTWx6d0kwOFZJVml4eGdyOTlQM2tULV9KaG1Rb0RkdTA3U1ZrMmxLZTBLRjNFWG1BUkhLcHM4SUxBSW1XeFJsblR3bFd4RE5OanVqOHZNNUluQlNzMFZvekpQT0stWG04cXlPUWN2ZEFnWEl2MGFRWC1DU05weld2ZGtzUmJZVUVMbl8xaFRBMV8zeklxUFgwRU1nODNwak10Ug?oc=5",
+   "data": "2026-11-24T11:27:11.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1bosafv",
    "titulo": "Maior IPO da história perde força: ações da Anthropic caem abaixo do preço de estreia de US$ 83 no pré-mercado",
    "fonte": "Times Brasil | CNBC",
@@ -62,6 +110,18 @@
    "empresa": "Take-Two",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1edduvs",
+   "titulo": "Trump diz que Jensen Huang e esposa superaram crise conjugal após escândalo que levou à renúncia do CEO da Nvidia",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWElMcnh4MS01Yzd1UkNtaHdYS1BVSV9qY1VwQjdEbXFiSjB2Vy1NR3BOZnJVamN0c2xGNk9UZHhQanRYODhXNF9SbDNyb0lnV3VuRWZXMGtMUFJEaUE5TlhCLXhCNG1wY1JFRm5OZnV1SWVIb1g0WlFERHdZYzktM2g4TGRTV3lwaFdrLWMwaVQyZ3o4T1RiWmZNaXJNd01Qc3M0cXdOalFsN2JOWkpiY3RWeHpaa0l5cVItNFA5YTJ4VkJNbUwwYl9xYzVlOU52RksxQkNqLXBmbzZCTmhPZXdWbk5pOS1oTkZaNmxOZkN1TkpFaHFxdXNLbGc2ZXBxWGdrNU9FeWtZcE1KWWhoZGkzYw?oc=5",
+   "data": "2026-11-24T11:19:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
    "avisado": false
   },
   {
@@ -253,6 +313,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8lneaq",
+   "titulo": "Bolsas de Tóquio, Seul e Taipé disparam após retorno de Huang à Nvidia",
+   "fonte": "Folha PE",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQLTI4d2pMTktSSmcwYVcwRlctTGtqTk5kXzBiUEwzcUtlNG5lM1lPU3NmZXVDTGtBSm91OGdJbXV1YkYxMUpLeTczSFl3T09EMGpUcDJvVmRvS1poWk9OVExkSTNBU3NBRkN4YjBDZ1pzYk5nNlIzblkxRmI1clJhUm5pYjl4RUY0c2I4dW1VanFMSlVaenJXRC1jSW5CNkYzU0VnSUx3TTJYSHNDbDZFZV80ODNpdjDSAbcBQVVfeXFMUC0yOHdqTE5LUkpnMGFXMEZXLUxrak5OZF8wYlBMM3FLZTRuZTNZT1NzZmV1Q0xrQUpvdThnSW11dWJGMTFKS3k3M0hZd09PRDBqVHAyb1Zkb0taaFpPTlRMZEkzQVNzQUZDeGIwQ2dac2JOZzZSM25ZMUZiNXJSYVJuaWI5eEVGNHNiOHVtVWpxTEpVWnpyV0QtY0luQjZGM1NFZ0lMd00yWEhzQ2w2RWVfNDgzaXYw?oc=5",
+   "data": "2026-11-24T09:36:43.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1768,78 +1840,6 @@
    "fonte": "Mobile Time",
    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBVaG92V09HTnR5TTQtWG51RnhfaEFaWklkTlVSVjVOc1hHSDc4SFFSX2VlOGV2OFJac0IwVkRkeURNem5venppZzUxbkxMbnN1ZS1FVEVIZFpxYkJQZ0QxZ2lmVWNIVDFrd0FHd3hnSndPM01nd2xER28xZ2I?oc=5",
    "data": "2026-11-23T18:45:40.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11inv32",
-   "titulo": "Trump afirma ter sido decisivo para retorno de Jensen Huang à Nvidia",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSlpkeW91bmFiMjhQVllKRl96eWVkWGtXeWtmeDR6SkxNSDBCSl80ekkwOUZablRMb2tJcTBpWkRNT3ZwWFlLV1k1S0MzNG01bGlMbVI1N1VILWxPYV9uMW1DRkNkUEdraXdSZlB0a0liWG40NkRLSHlXcHdPaXliTGI0Rnk3WG9OeGkzbnBobTN1UGVsbjhiY1llMWt2ZmFGYVE?oc=5",
-   "data": "2026-11-23T18:45:06.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pua7e2",
-   "titulo": "Ações de parceiros de negócios da Nvidia disparam com volta de Huang",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU1FyNXdFNlV4Skk1NkZoM1NISmlJMVVsak5sd3c5Yk1qS01mZ1lDTmo0aTBvTDRwaFgxb0s5cFdmY243b0M5TmRadGZSNjdzY3hEeHFZLWVfZllRSjlPRGw1aVFicWVWRUVGRlZYc0hrUUNzb3l6SE52M0REMkZpYS1sX0o2QzF0Y283ZlZBQWF3QW5tWGtycl9rUlBrVUFseEFvUnU2WmpITUJzdmFsbFpva1B3YVJESG9rbnk3dlXSAc8BQVVfeXFMT0U2aFRTZ1E1R3VfMTNrQ192YWRPWENWQ3Z6Vmh3ekZtNUd0bDNjLVZlaWN6d1FTV2NKLTlBcjZla3E3bGRoeUtnTV8yR21zejRMNUE5YUNYSkJoS1d5Q01wUW5XUjA2eVVlUzZUVF9NcExvSFkyLWVoQVJRSVFxdWcxRHhKMWZvOU5JNTlIaS1NZUwtRXpPWXIzU1pXdEYyNFNIVHZqVjVUQ1E3RS1PTU1tMHB6RkVoS2NTNUNyU1hXUmdpNmxCR2tCS0preDMw?oc=5",
-   "data": "2026-11-23T18:43:33.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jmapgw",
-   "titulo": "Braskem salta 10% na B3 e 20% em NY após notícia sobre acordo com credores",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
-   "data": "2026-11-23T18:37:34.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "csjdc1",
-   "titulo": "CVM suspende registro do BRB e impede negociação de ações na B3",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BUGJYMXRxclloUi1hUWJZUmNfeVJsbkxpOEtOdkdYQ3Q0UlBDdy0tWVRkakR2Y2s0UXNETksxaXFvUFBURDh5ZjlORkZfakNtcUZnVFRyRW5zNm1haVp5bkZpekhkdjEtSUZpWGNLZnJqbF9YNm9mbllKRUo?oc=5",
-   "data": "2026-11-23T18:36:35.000Z",
-   "cat": "Regulação",
-   "empresa": "B3",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "rvfnh3",
-   "titulo": "Entre crimes de hacker condenado no Reino Unido está vazar imagens de GTA VI",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQ2lIVkdaTlNPbWRiV1BFM3kzMnZHOU9VSEs1eFYxZkJlYi1CUEtZNFp3UjJGblVuU3h2Qm1nRkp3QUItZUI2NXNjamEyY190blFKNE00YzYtMDNOTWhKQ0hWd1hzQ2lNb25uN3RyQlFsZUFNX3d0UHp0alR5NFBkTzZ5alZvLWdfaWt4QkNjWWV5S3lXUVlJSWlFVnJEd1o5OE9hWkQ4dHVNZm9UMnNOZTVwX2s?oc=5",
-   "data": "2026-11-23T18:31:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "nunu1k",
-   "titulo": "Goldman vê retorno de Jensen Huang à Nvidia como positivo para ações e IA",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KOXdQV0dsWkJZZm1GaTVwWHhhek43bzhKUTVsODZPcWZYdzZoZlg2bkZQR1V5OTZtS3VuMzFkM2tDYWZzLUxUSGlITW9sZ2oxT1kwUDRpaFBNbkN6WVhvSzZsVUtmcjIwUlhCU0twOHVHeDdvWU5KVUNB?oc=5",
-   "data": "2026-11-23T18:31:14.000Z",
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
