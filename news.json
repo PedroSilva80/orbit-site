@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T16:00:31.047Z",
+ "atualizado": "2026-11-24T16:30:28.238Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "i1hvua",
+   "titulo": "GTA 6: Rockstar encerra projeto de port não oficial para PC",
+   "fonte": "Última Ficha",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBka1ZEY2RrSXQ4dVU2YjBRb3NPbjQ4Ukswc3YwTjdCM0tVQVdrNENHTlFQdUZMeUtPU2tINlhJNFBHWHJxM0YwNTJNMmFNRGpMRTdibHE3SWx6eDNaYmx6ellvM0ZZMm1zcTlGWUFfcnhsalU?oc=5",
+   "data": "2026-11-24T16:21:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1w74126",
+   "titulo": "Arianespace lança 36 novos satélites para a Amazon Leo",
+   "fonte": "Astronomia no Zênite",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZ2U3RHN2SnhlU2QwWEI4UTdFN2N0NG81VEJrY05Gekp3cWhuNGZibHJJV1p6U1M3cW9RdTg4SWNUWGVnRExlSjJXRWJ5eG5XZ1J3Q0V3YjZsbHZQU2U4UmVRbnFVM3NLdkhHZGhrOWNjYUwwMUhENE5BMkFoMnNaelRGRXQxbkU?oc=5",
+   "data": "2026-11-24T16:19:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1se16pt",
+   "titulo": "Aportes estrangeiros nos EUA crescem 49%, mas falha na gestão pós-aquisição compromete 68% dos negócios |...",
+   "fonte": "SEGS Portal Nacional",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzFvT0xOLTdZT01nU055MjlIMnkwdmpubTQ4VkVFN3ZpbG5ycEM0X2hxYm5oTllNek5LRGlLRXhXSVRxWmUxUjZmVEdTX2F2eThQemE1d2FQMFpMeHlmWDBlck8wb1RxcW5nc294dWdvbWh2dnVYbnlxa1JZLWlIV0IxdV8yejFmMUJ2RUI1cDVSZVZYMUtBNlE1ZFNKYkd1M09ieTd4TUs4Y3NYSTA2ZWw3UVZJT2pjNDNXd0dQUzlFaExzd3dVNjRxSTR3VnhjZVE5Y9IB2gFBVV95cUxNaXU0X29XRXoyVDRNRWNvNGRtZzc5Q05LX3pVQ1pEREZTTFlkVTJBXzYzVUJZTnQyRldVQzlkclpVSDRYYllGWjZQV3hwOUw1VGlIS1BvYlBtRTBDQUNkajJUQ1FGR2JxaGpVT0NlZndnWEJ2SEk2cFkzeUhJM2NFbzhtV1lZNGZTdVRteEp3RFlOYmxzQkpTVnE1UXlsR2F1Z3JjMWVBazduQkU4cWtOY3Axd1pnVV9IaTVsS1Y5UDdFcUFXOFVSRE5XNlJIVkt3RWJZcmVQVmJfZw?oc=5",
+   "data": "2026-11-24T16:05:16.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "16v0meh",
    "titulo": "Cogna dispara quase 8% e lidera as maiores altas do Ibovespa; veja os destaques",
@@ -210,6 +246,18 @@
    "avisado": false
   },
   {
+   "id": "177bfhv",
+   "titulo": "Galaxy S26 Ultra despenca de preço e surge 43% mais barato na Amazon",
+   "fonte": "Oficina da Net",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQUNaa0Etc2JpSGktSnNfY0RMOG0zcUVtYWFORFZaSTdRR2JpRVVXQXBZNDc1QkZtNXpQblFUbUhLRVIybzRzRE5ZVXgyeHcxZUJXUFhoZ1N1Ujh5M2UtaHJSMUpqSTlnYnJCTGtIUEI1SWxfbkppRldkc3c4TUE3b2h3NNIBiAFBVV95cUxOcVJ1Q0NHTmFwN1dyb0t4SnpsVFd5NUJheDAyNmdtNkNRQVNrRVJsTGNWQ2RBcmpZRHcwMVB0WnZCa1BLVF9yMXZmVjBwcXJJd09qT3UtNWRJV1V4eDRFLW5Kd1FNX0Naby1IUXJQWF9EY1FUeDdOd3c4WUZxUlpSWHVxb1VkT0I3?oc=5",
+   "data": "2026-11-24T14:34:59.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "sloq0a",
    "titulo": "Jogadores de GTA 6 estão convencidos de que a Rockstar pintou uma parede falsa propositalmente para criar situações a lá Looney Tunes",
    "fonte": "IGN Brasil",
@@ -342,6 +390,18 @@
    "avisado": false
   },
   {
+   "id": "1rhoezs",
+   "titulo": "Ações da Meta caem após adiamento das ações Classe C e levantam dúvidas sobre financiamento de IA",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tQTE2OXMzYWhzRGcwLVNVT3NCWkdVemx1X1NSSjlMWFRVOExHajcya1BzUUt2SEc0aWNqWEROQlVBSFBVaG9SazdYZ3YwS3otaE01OGpLbEU2WHEtMkl6Y3hZcURGQQ?oc=5",
+   "data": "2026-11-24T14:10:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "6cv4en",
    "titulo": "GTA VI coloca Brasil entre os cinco maiores públicos da Twitch e Alanzoka é destaque mundial",
    "fonte": "jwave.com.br",
@@ -382,6 +442,18 @@
    "titulo": "Hacker do GTA VI se declara culpado e alerta sobre malware",
    "fonte": "Diolinux",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDVad0ZIcmpPdExKWmQtd01neXhLanZ2WWNXcS1XWVJ3aldpeElVSjc1OVhsQUlDQXJyNHJSY0xEVkpBNWJxWG1fajhPMkJqeEhlZElySzdkMjJObUlWVnptNGd3NDdjb29QMEVFT2dCcWNSekctSmlrWkxmTEcyVDR3?oc=5",
+   "data": "2026-11-24T14:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11pr9k",
+   "titulo": "Hacker de GTA VI cumprirá pena em semiaberto",
+   "fonte": "Arkade",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEt3TGVkYjdqaWozcEEzM0pKb3lQS3B6X29ydEt5cGR4WjBTajZXbVJQenJzaGsxVFlLU3RKcTI1M3lkY2pOTWNvSmZObERKVjJHYmdZNzJFSXo5aEZsUndrcEo2WG9ZOTQ5R3J0ZmVEbVA0RmJZREQxUDZNeGdFOXNBYWJuQkU1N2VTMjB5REVIVjJBdkdLYVZyZGNHWTgyVXRINDAyMFptMEVpem5wUjBHZVJ5U1ppVUM3UlAwSG9hNlNKNldIeDlRa1FMM2lJZ251Z0V3?oc=5",
    "data": "2026-11-24T14:00:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
@@ -1772,78 +1844,6 @@
    "empresa": "Petrobras",
    "score": 7,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yc5xos",
-   "titulo": "GTA VI impulsiona em 69% a venda de consoles no e-commerce brasileiro",
-   "fonte": "Guia do Investidor",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeEFqNTR6YjVBU2xuazVCZl9zMjRfY0JjN2UzaFNsS3diR043bld4TjVXNHNzTWt3UEFCUEs1Mlh6MlN3V2N0cVFtU1lES0xIYjdyT053em1xNE9XUWhFaWRsMmFBV3FRNzgwNW5qU21UUTJCU3B3NTZEM1E2N0RlbGVaUl9BZjZTQlRCUG1RNWszT2dzaG0wRHVUakdIQnFuWFZYY3piSmZwbU1HRlMw?oc=5",
-   "data": "2026-11-24T00:40:59.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11ijdux",
-   "titulo": "IPO da Anthropic: valores e controle das ações",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00ZDg5cGtvRkhiNDlwMHRXOEJKS0xHNWJtQTJCUkE5cVVPQi1hQWx2V1RManhweEgta245N190enVOckpSYnNZTVlfMjdma01NcE1XcVg1V2p0UzRkczdqV252U3dvODFSYUZLZUVUMmlrekt2STNyLVZxQ1RfclU?oc=5",
-   "data": "2026-11-24T00:27:54.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nzeapb",
-   "titulo": "BRUTAL! GTA VI FICOU MAIS BONITO NO SERIES S APÓS A NOVA ATUALIZAÇÃO!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSjVPUUZ0YV9nVmoySmkyTnZFRmlUUmZxazV0RENhS1RTaTVSRmhhUU5wWU12eUlRSmp2X1AwcTF6RFFqdkxsMFJYTzRSUEhmOGRjUVlvYkN3a1M3TUc4eURsSXBPdERvWmlhTGVjQ0xVWWN1VDNsRV9MYjF4LWphdWt1QTctd0loaE5UYy1lS1UzVnJjdVE?oc=5",
-   "data": "2026-11-24T00:25:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rtz5mr",
-   "titulo": "Entenda por que a Nvidia dispara 31% após retorno de Jensen Huang",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVVhd0ItU21PS01oVHVTblU0dU9nNUpLWGhRZ2RhRnN3SXNmMlBBZFBEOHgyUl9vRUxtU0VzRTgyOG5Fc3h1T1p3VU5ra0l5dlZNMUZVMF9jd3IzVFBXWTJ0ajBDNTZTaUZKa3FyVUpSbFdicWw3YkxtbFUyY1RYWlhmZVlpa0RqZVZ3Zy04cmdMU1hyT2NNNXMtQzZZZDliNFlFV0E0UWNRekQx?oc=5",
-   "data": "2026-11-24T00:24:39.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "169jdpi",
-   "titulo": "Hoje no TecMundo (23): Jensen Huang voltou para a Nvidia, GTA 6 bate recorde e mais",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmFzX3RMTWJybWtMR1lOazU1RHpKNy1pR0dzMllwcE1VZmtsVXdyXzhzeWFySjY2Z3ptOFdiU1owVzJFQmNnZV9oQWxTR1B1TW0yRVhlbVR1WUVpWEVzWDV5SS1mV3BfbW0yREtISDhDS1VLQU5nWnRfSFJUeWxHYVl3V1ZHaEtpd2lteFc1eWM2MW5NTUk2NlkzeFFHN0RJdkwxWVB6UHN4OHNuUHhzeFVTSkdtdkRoaHUxTDRDRGg0OTVwT19Z?oc=5",
-   "data": "2026-11-24T00:09:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1g15fr0",
-   "titulo": "Em reviravolta, CEO da Nvidia volta ao cargo 11 depois de renunciar",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlB2TFhzbmwyblplWVc2SXdzNXFRR1p1a1VybnpIeHFZSkUzUGtWRzBndFdKTFhsckZfTnRKZjVPQm95dFVWdVdUeFFUMkRqWHJiamoxMmFaZEtkVnhMX0N6UGlKWVBoc1dsVW9YZi1Zd3NpUENfaG53Z0l0YTJ6R1hadGlhT0paNmpGZjBpdVYxTXNMVXYzRFRkbWQ1cmkwdy1TRE1JRy12QTNwbldJYkdvWXk1YkxvVmQ4YzFyNndjMWFESjVoNndJamVRMVNK0gHQAUFVX3lxTE5SUHZMWHNubDJuWmVZVzZJd3M1cVFHWnVrVXJuekh4cVlKRTNQa1ZHMGd0V0pMWGxyRl9OdEpmNU9Cb3l0VVZ1V1R4UVQyRGpYcmJqajEyYVpkS2RWeExfQ3pQaUpZUGhzV2xVb1hmLVl3c2lQQ19obndnSXRhMnpHWFp0aWFPSlo2akZmMGl1VjFNc0xVdjNEVGRtZDVyaTB3LVNETUlHLXZBM3BuV0liR29ZeTViTG9WZDhjMXI2d2MxYURKNWg2d0lqZVExU0o?oc=5",
-   "data": "2026-11-24T00:06:58.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": true,
    "avisado": false
   }
  ]
