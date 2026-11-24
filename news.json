@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T00:00:33.002Z",
+ "atualizado": "2026-11-24T00:30:25.520Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,30 @@
  ],
  "itens": [
   {
+   "id": "1rtz5mr",
+   "titulo": "Entenda por que a Nvidia dispara 31% após retorno de Jensen Huang",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVVhd0ItU21PS01oVHVTblU0dU9nNUpLWGhRZ2RhRnN3SXNmMlBBZFBEOHgyUl9vRUxtU0VzRTgyOG5Fc3h1T1p3VU5ra0l5dlZNMUZVMF9jd3IzVFBXWTJ0ajBDNTZTaUZKa3FyVUpSbFdicWw3YkxtbFUyY1RYWlhmZVlpa0RqZVZ3Zy04cmdMU1hyT2NNNXMtQzZZZDliNFlFV0E0UWNRekQx?oc=5",
+   "data": "2026-11-24T00:24:39.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "169jdpi",
+   "titulo": "Hoje no TecMundo (23): Jensen Huang voltou para a Nvidia, GTA 6 bate recorde e mais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSmFzX3RMTWJybWtMR1lOazU1RHpKNy1pR0dzMllwcE1VZmtsVXdyXzhzeWFySjY2Z3ptOFdiU1owVzJFQmNnZV9oQWxTR1B1TW0yRVhlbVR1WUVpWEVzWDV5SS1mV3BfbW0yREtISDhDS1VLQU5nWnRfSFJUeWxHYVl3V1ZHaEtpd2lteFc1eWM2MW5NTUk2NlkzeFFHN0RJdkwxWVB6UHN4OHNuUHhzeFVTSkdtdkRoaHUxTDRDRGg0OTVwT19Z?oc=5",
+   "data": "2026-11-24T00:09:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1i9tt6j",
    "titulo": "GTA VI fez Call of Duty e Fortnite perder jogadores",
    "fonte": "Instant Gaming News",
@@ -60,6 +84,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "n0nfs4",
+   "titulo": "Grupamento de Proteção Ambiental resgata jiboia de 2,13 metros na estrada dos Fernandes, em Suzano",
+   "fonte": "Vanguarda Alto Tietê",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXVCbDVHaDlRWW9UblI1VjFsbVBodHVPOUoyYzBQbnRkOHhOM2t2UmRZVkViS0djaVlWLTU4LTEzRk1VOGhsMWJ6dERhNHM5X1o5YUotS2l0eWNtUlNKU25YZkJGeXljQzA2WjRyMXkwOW1MZVVlcm9jYXRvRTJpV2ktYk9PSUJscXQ5VHZfY0U1MWNrMVg4WFU1MUhPcG9pUG9uekdTQTFyaEo5b2hUQmlxbWVNU1FwUEM0U1MwNXI4aWY2bGQ0bjZpRQ?oc=5",
+   "data": "2026-11-23T23:35:49.000Z",
+   "cat": "Corporativo",
+   "empresa": "Suzano",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1807,42 +1843,6 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "gqydbv",
-   "titulo": "Ações de fabricantes de chips europeias disparam após retorno de Huang ao comando da Nvidia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQMkJQTy1aTmxOUmpxbENfNkJ3T0tENWVOWk9qYnpYUHNBSnNpZTR5RW02UjhKRG9KcjFwaFBOenpFVUhPQXVxS1JTdkxsQ0d5R2c2WndqZ1FVaU9Ca0hvR2E2WGVGNzl1ak1WOVQ1MUMtdjRqY3k1UzIyQlEzS2Q0SDAzTHlZNGNaTi1vQWw2TTJlVFRwSmJ1WWxhdGhld0pXVjgxUGU4Vml2WDVRVW5HZzhBbVlVQjJRSV83SWlZYXo4SmU3Q2dTX1BzdUV2YWtUOVFKNWZEYXY5VmRtMzN30gHuAUFVX3lxTE55ZDJMenp2OHVsYjFOWkV2d0FFbEx3cG0wTWw4YnptRDRPSGZYdmtZcWRwd05yN2ZCY2NmNFRjd3NuUDl3QkY5SnZGV1ktZWU4aUYzdms1NVFNUlJXMGppbURPM2dxTU9rdHV2RU5XdDNUOUQ4RW9tdWhoNzhGalZrbkpzdnRkMmE4RGlMdTBkSFRPUVZTSGIxc3dxdklwRDlmLXNRU0ljdzF1UVk3S1phMExsZ0lXNHJaMmRmTFEyczRUcjBCLW5fbVNYbDFmcm5HVEpPVXh0Q0JvOGQ0cVBiM3pGOWNndHVvX29rV3c?oc=5",
-   "data": "2026-11-23T14:28:45.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12s1nf2",
-   "titulo": "Como Jensen Huang deixou a Nvidia e voltou ao comando da empresa em apenas 11 dias",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2tTX243MzdrSnFJU3cyQ1kxanVpcjRwdHRlbUlTcWRVMWQ3TEhoSVphQXNyVWFYN1RuM0lPZDVFUGh1cE53REllNEhfbDRCUExMYUJ2V0FXRVI4aWcwaHEwTEkxUnloM2RrbW90NnJLRWtWRHJ4Wk9qbWpmazhVd3JxbmhyWk00TWVocmRERWwtclFOWElLQURocFpPQ0g0OTZrdUtQZ3lZX29GUWd6OUR6Y3VmMkVw?oc=5",
-   "data": "2026-11-23T14:28:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kixgqg",
-   "titulo": "Jensen Huang voltará ao cargo de CEO da Nvidia e ações disparam 27%",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOb3hKVlR2UVNIVVp3a1hxUjRTOHA3RGswckpWVFhTME8tOWtKN1lCX3VkY3FiUTJKeS1adUlTVEJ1eVFqR19PLVBnc1F3eWFZUlBWbzE5cVlZRERtbEZBZUtrWGxnRWNpQW5iQ3d3czZkZWJNMVl2N05temJJMG9ZWUlyNmhuSVVMeGtpQWp0bE5DcjFMTUNWb1hqTktwd0RtV0RBNg?oc=5",
-   "data": "2026-11-23T14:27:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
