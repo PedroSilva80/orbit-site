@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T19:30:34.428Z",
+ "atualizado": "2026-11-24T20:00:30.055Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "ygim6n",
+   "titulo": "Após saída relâmpago, Jensen Huang retorna à Nvidia; outro CEO, porém, saiu e voltou ao comando ainda mais rápido",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNeTZBVXBUY3duWTlmaTE4YkNHM0Q3em5Bd1BwRHVUanpPbGFyRDFmVzRpYlF3R05Yc2hnS3BqdDFXcWk2NDVPUEhZZVFVTzJhVExtX0FIbVJORXU5YU5SSkpJTV9FczU2bGtQcERRbE9PSVl4Z1lfbVByLVlwa2xJdElUWUR0eFBmZTl6M2ZfNDV6NDF2X0d3SE56SkxWRThPT1Z5ckR2bkhDSG05U0R6NTE5Ym9qNGVRS3NKbjl0SW9YcnIxc1RMblo3Ti1qQnhKbEhwa1JmRTk0eUpjX2d3QUJEX3JsTjFIV043QjlB?oc=5",
+   "data": "2026-11-24T19:55:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "54q1zs",
+   "titulo": "GTA VI pode render um PlayStation 5 em promoção da Warner Music Brasil",
+   "fonte": "www.jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk9qOXNuZ1J6LWNMcWdxZXpwSWRFOU45RDB2U1NkT1h3NGt4c19GNDQySnZvVTZ6eGVpZHBqYldWZHpsdmFiUVhZc21KbThaUm9ETHVNMkNnWGRWWllkRFZhYUFMY0NvNDVBQ3ZZQWlZNDBRUTBOakVMYTd4OWZWZEM1aG1ZdDJVSkVoU2N3aVRuNXFmNDhrejdZaGhIWmEyeFlmUHg5dw?oc=5",
+   "data": "2026-11-24T19:52:36.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "guteou",
+   "titulo": "Vale derrete quase 5% e perde R$ 11,9 bilhões em valor de mercado só hoje",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOclR6VlVaMU5aZzlLX2h0ZjZELURzbV93VWVGcndVTmVGUmVUeEZsWWFEYzVRRU4wcm5WVHlaVk5KcUFRMC00bW9qS3EtUU1yOGNkVTdwc2NtQlBuTGQ0b3FRVE1kajRUdkV1cDBvbURCem9hX19jUS1uRUhiV055aTlqRTZvNjlHU0N5XzdLWWE2NWt4UHE1UU1uZE53SUs3d1VVMmJZd0djdFFaYXh4enJXa1ZLYm04ckVrUVFjSWd0TVBrdWlOcmhIeVk4NW5jeURv?oc=5",
+   "data": "2026-11-24T19:50:47.000Z",
+   "cat": "Movimento",
+   "empresa": "Vale",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "sl5ve9",
+   "titulo": "GTA VI movimenta mais de R$ 41 milhões em vendas de jogos e PS5 na UP2Tech",
+   "fonte": "www.jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGd1MV96dTExYmVSWEsycVQ4OG5Tak81Qm82OV84NXo1dmZNZ2VLWkpkaFJ2OGxBdlB0RFpUdVpDeTduZGdydkZYYU1oeXNldFU5M0F4VWZQTTZnY24tdmhBZURKTm8tdlFMUUNSald0SGVuRnNXeFotMzlxRVJMRU1tbWdEOTV2YnZZb3pTM2IweUpndGVPckRUWjRMVENLOWd5eHRFdFJUSkE?oc=5",
+   "data": "2026-11-24T19:50:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ct8kd8",
+   "titulo": "GTA VI tem clones de carros famosos e Tesla que 'te entrega' para a polícia",
+   "fonte": "Autoesporte",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2RRVFpVWVFxdmRFT0JqaVJpSElmR0NJX0RuY3NCSWVha1VuRTdkRlQ0MElISjl6T09nSG1TVkRFeEM0bEhreHRHUlJsejJQckNMb09hVDFIMXB6ZWJRUmtLVnlURGZKSDRxM2tOb3lyd0l0RldIUTkyR1UzYzhGdW9VX0lWQ2dPVXg3T3RBYXhobnp2VlVjRjdyLVloRjFfM3dnNGtrclNoNUFYQzZuRXk1YW5hUnZ1UXVoQkljR2dYVDJhanpmVWRoVC0tQU9FRnfSAeABQVVfeXFMUEZaVlFHRDJkTE1WYS0ya2FFaE9kV2wxMDVEc1V1eXVBV1BDOFhONTV6X2lIVk9yTWl4N2toT2JiRU4zaGlRVFJCMkpNSmd2MjRMQ3d6bmZHNGhldFpUMlVNV0U4RGtkclZsckhTbHdROUhBNkFMWlBuRFlqVE5YWTdmYnl5QnlnR191NjR3SlJiX1lKaXN2NnN2UDRZYTZHdUtDOWZKM21ZMnNqU2hzekQweTdnZFI3TUhhX3owSmFRdUJwTWwyNnl0YVJ2ZUoyUHU5Rkl0ZUVDajBsUGxQWlk?oc=5",
+   "data": "2026-11-24T19:41:39.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1w4oc54",
+   "titulo": "Um cristão pode jogar GTA VI? Novo jogo gera debate teológico",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVNRaEoxY01kX0lsYVRYUHZOSHVDUHBneXBrWnh0M2tZOWk3T0ItZzFCa1ZSaTh3NlVJSWM3Y2M0d3dSVWd3alpkMXBVX09lWEZiMjFMODhMaXgtMWJHLXUtcmdpX2pCWUxpY2NRSUdNZ2JoWTRETVlXZXBoODdqQzBaelpKQ3dKaFBVYjJXaTgxVnAyRWJPR3ZYRkpVT19mcTZrQVRqUnpuQm8?oc=5",
+   "data": "2026-11-24T19:36:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "8op9dc",
    "titulo": "Jamie Campbell Bower, ator do Vecna, quer retornar em spin-off de ‘Stranger Things’",
@@ -181,6 +253,18 @@
    "cat": "Risco grave",
    "empresa": "Apple",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hpgukx",
+   "titulo": "'GTA VI' nos mostra uma realidade: talvez seja o último grande videogame da história desenvolvido praticamente sem IA",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNVjBsNkdhLWR3cDNGTUdkRjhNMFo3bUttQlI4YTFPVkpINGJIWDl0RFc0T0ttbm8xMjByZTBrYUdFNE04RWJNd0tEdkFLNVBHOEx3SlhseklucUFWZFZudlJrdVBBVWsxanhBOHdiR2lMVXI0UTFQYktDa284SzUtbm9wTkhNeFNKV2QzTmVaTlJIa1FvemoyQkxtSHpHQ2RRTFVYcEpxNFVCbjlza0VCSjRkYzBNd1U3akNpNEVCSWdEVXU2MzNoSUg1YTBLMDVOcWFzeE9Jd0U3N2kyQ1RuVzIzYXpoeU51VmNVeV9fYllZbDFQZnEzekNBdkhEZTM4MGdldm5iSjllOVNpN0ZUN2Z2cVBmVWx3cFE?oc=5",
+   "data": "2026-11-24T18:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -543,6 +627,18 @@
    "cat": "Resultado",
    "empresa": "Magazine Luiza",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ybx0sc",
+   "titulo": "Tesla e SpaceX, de Elon Musk, negociam fusão de US$ 3,5 trilhões, diz FT",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1ZNRUpGSXhtakZJdF9DTzZwSnJhWUVQOEpjQ0Z2aVhVZTNvRlBpSC16RzMwUzROdVVPQ1ZiQ1c2cXAwX1VvWjVHN3U3dWlYWXNvVjd1cTBQMTJPY0t1SXIzZU1QTHR2VzBFQkFtRXVqQ0NVbTNQSl9nLUJ6VTc1ZlBRYzBRbFZXa1V3anFtVW9JNldRU0NaUC1tUzdmRXVPb0Y5TWR1THk5RTByLThvRVFjWGRGTDhqSzh6dQ?oc=5",
+   "data": "2026-11-24T14:53:40.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1747,102 +1843,6 @@
    "cat": "Mercado",
    "empresa": "Vale",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "cu10c2",
-   "titulo": "GTA VI no PC por recompilação? O executável da Xbox foi divulgado",
-   "fonte": "TechBit",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1LZXp5WEpoNUh3X29JVk03bGFzRkRSejZkay13SHg3VG1keGc4b2pvMGR4OE9qaDhnRmFkVjdWeW9maDhDVkpoRWJRZWNsaGF3Qkt4ZG1ORzdxbklidFdPVnVEM1BaNVdKTGk5Ymw5Uzg3VmwzNXVR?oc=5",
-   "data": "2026-11-24T08:51:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lxza5c",
-   "titulo": "Bolsas asiáticas disparam após volta de Jensen Huang ao comando da Nvidia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2E4WlNpYkY3V2FGc1RQdUtRbGxJWmppQ0JJeWhvZWVEMl9SSDBic2F3Z3BoRTV1ZzM3cldIX2hFaFhYSHF2MThzTlVPWkZrRk4wUG94cGdOUlppazRFR09IU0RmcDBROUphSm9tUUJsRmdBdHlsZ1dQcGJ4anliQ3J0Y0JGREpiOVR2RGNpRFljVEFueFVuUXp6OFA4MFB2d0o4aDlWUWNqalByNWQxbVZ1ajZFd3p6Y0NyUU1YRFBBczNUSUNLM9IB1wFBVV95cUxOMThodHJVSURIaF9qM0hnaThqRExGUTdhTHhROEhYYUstT1oyUUJ3T2pOc2V4OHlySHg4Y0xPOGh6a252SWtPWnczaC1fSGpTa0dyTUpQRS1fRmdOZGZDZWRrcTVyWVc4MnpaZWxfc2M4YThLWVJoLVUyeVdWX0pCbXpBc0hwSXJRVkVMVGxlb3p4bGxQbXNINkhSZU5scHpfblhLQ21uZDVVVEhYUXhyT3hzX2JWdXg3REkzZWdiWjRqWGgtZ0R1aU1IRFhHeWVGbHpMbkYzOA?oc=5",
-   "data": "2026-11-24T08:50:57.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dbp1nn",
-   "titulo": "Congresso dos EUA pressiona Nvidia e governo Trump após retorno de Jensen Huang",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORDRLaXFWdHhTc2FVTUJlZXgtU1czWERLMTh6LVY0cEh2NnZtN2RSbWRyUVQzMUhPSVJUT1J3MDdTMFZpOTJ0d25qRVhTVEFfdzljQ1hqQUpVVUdveHRaTmpidzRpcTVsMWh0ZWhDcjNSZ0lscTRBNUR3UTNiNlpDX1h0RnZVVm00dGYtd0Nia2xhd2Fua0NFYzNrM3FjdG1xSHFSb3BsbW1zSlZKOWpTOVRQUWhjSmRVemdNcTRMQ0s4eDRXQXd6RmVZZ05uNzA0QkZFUW1qSEVTWUxmQ3ZzbVpKbGtrZ2xoRS1VemExUWd1cmZkNWhQc2t4OHJmLVlET2FobVo1dldxUUEy?oc=5",
-   "data": "2026-11-24T08:44:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rqqbc2",
-   "titulo": "BASF prevê potencial de vendas de € 15 bilhões na divisão agrícola antes do IPO",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGVMN3c1MkswY2JjUk45UndIWk43WkZTRDluUm43QXk2VThxSUFZNEl3bFVidHhvS21LWnVNTDF3b2E3R3RxVEFnc2dzdVNUV1ZOeXE1S3cyTldBUzVyaUF1MVpkZ1A0Y0NhMmswREhkX0xsTnY5b2E3eGV0LUxRNS1xZ1dETjRsZXNEcjd6MmplR1RhdE9OTHFWR3d4MGp5VEk3Tk1jemRXUXFIaC1kX1JLZnJBcXVFWDR6M0tTSHdScWM?oc=5",
-   "data": "2026-11-24T08:08:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-24T08:07:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1uqzqhd",
-   "titulo": "Nasdaq dispara e sobe 6% com impulso de Nvidia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3k4aUx0SlgzVGVGaHBUdk96SWdudVFJT3lxSUlsaDhTQng1Y0MyYmlldTJmVzdaOENrV0k5Qk1WZkhIVTAtZzR6RmRxM3l0YVBLS2p1NFdndVBoMVZzSE9UMDZhZ1FZZk4tRUxNMEJpdFJfVlZnMVkyZ19yaUdGLV81TUhZRVZsWmNicjlBZ1RnanZvSnY5TG03NWY1Wl9CZVFYR19B0gG0AUFVX3lxTE1tWGYyN0ZvS29MdS1EZ0VxMlpvcFgxZDBXQ0wtQU1wNTljdHNKV1AwSkpkTFdBNFh6cUozWDFLSW9ZMEtRd3VGTlBuVzhhT254WkNXRXZKRGxadEFkREU3X3RJNFdralBmdVlYVUIxVDJJQlNHUFZRS0M3XzRSX2RrMF9kQ25wa21Kc0hoeG95R3A2TEEwNTBsOV90ZjdYaTI2VGpIMVZnc2F4M2NkRWkwNjlJeg?oc=5",
-   "data": "2026-11-24T08:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1te5777",
-   "titulo": "Anthropic desce pela primeira vez abaixo do valor do IPO. Ações caíram 7% no \"pre-market\"",
-   "fonte": "Jornal de Negócios",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZWwxSVMzblFrdUZNUkpXTEVrd2RVd2tGdWtFNnNBc1h0bE9HZEx3OFhVRHltTkZhR2F2ZVZSYzkwRDVoTnIzZFlNcGsxSUJraGJlaWZtZDVfWmt4TWNtc29jWGhKWmJjSV9lVGVGZGpMLVN5b2FfSmZUbWVnWFBmMFExWEFjTjVzbmlZYjVscFN5YVozeXFVU1NtTDk4cFZiRFZGUTJaN0pWbU8xZ3dWbXREbUM1WE1JMFBRaDJsWk5JanNtU3hBUHIwS2xTZ2x5Z0tNOWtOVE81c0ZHQm1lRWpFQnVwbHpWZzRzTEp30gHoAUFVX3lxTFBRQWhwSU9XTkhPUkxBTG43eFFxckp1ck9YMG5Rc1BvWk5hY20yTXVHb2ZwQ3REa2c0WE1UT3pab0V1UWMwRkdhYTVnbWVoSjMtLWVrVjZLSGc2Q3lwSUhPVEIxOUh4YzRoak5XbnZyaXA0TFE2ZTR0Nk5ZUmxKdndHZFFYNXVDZHV0aFNpVXRtX2g1cWZZWU9nTDZGQjBSYWstclE3RHpaSFNYMjcwN1ZIOElCMVJsQkRCeDVJa2Z1MDRIUDAxbEN5dzQ1ZTZSYTgzTUdvZE5TczFZdkpCaXktU1h6elYySjg?oc=5",
-   "data": "2026-11-24T07:44:19.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xpuiy0",
-   "titulo": "Por que Jason Duval fala tão pouco em GTA 6: Rockstar aponta Steve McQueen em The Getaway e Rangers do Exército dos EUA como referências",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa0hQaUpBTGZ3UTd1N2xvcjV5UFdMX3l4dTNPeENPR2pkbWV5RzJmYXpPdkFLSG9sVmhFTUl1eTl6OFVON0ZuN052aXlaR0szaVBRYXc4LVVtVnRIYi1IZm1XTFVIN2tpWDI3OWpYQTcwTkI2QkdtWjN6VWlkNzlhbDVRX1o5RU1HSkV0VmdEd2NYWUtELXR6RjJBNzZXOUViUHdxajhBVS1yXzJLcXpvSmxmaDhaX2dwSkYyYjJSeWhKbE1OZXJLTlRZMzZtbzhteGZTdWRLQlhuOE10cEJFVmFtaGQ4bHNCQVV1ajdnRjNhcWNnWnRMcnFpenVpWjJSc0sxdzNHV2NWUy1aUnc?oc=5",
-   "data": "2026-11-24T06:53:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
