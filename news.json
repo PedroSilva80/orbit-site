@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T17:00:30.655Z",
+ "atualizado": "2026-11-24T17:30:26.192Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1mvs5fm",
+   "titulo": "Fraudes no INSS: Mendonça manda soltar ex-número 2 da Previdência",
+   "fonte": "Diário de Suzano",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWDd5aW5tNjdiaXZQcElOTHo0RE5vc1ZHRVcyLTB4Q3NBNm4xRnd4OVEtU0NaekpfV2MyYjBCZHNvZWZZdWtIWHBjaG91ajZfZGxuVng5VU14RnZLMklFaG55SkM1eGRkS2RhTkZZSWV5RTBiQV9CRlhUd05FeDBhOUNGTnJXaXRsODc2NVFOZk4zd29zZDJVZElmMklRWTRsQl9fRHdNMXJOR2FWQXlVbmVJRWcwZDRGX2lfSkFhNlY?oc=5",
+   "data": "2026-11-24T17:18:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1pkeflc",
+   "titulo": "Ações da criadora do Claude caem 12% e ficam abaixo do preço do IPO",
+   "fonte": "melhorinvestimento.net",
+   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXdBTXBTYzRYUkpRdy1KUXFxRkJIUHNVNktQbTJ0c0RIaTA3UjNVYmE2YThhaS1ZeUUzc2ZkME5LeHM4NW5uTGV6THh1N3BYV3ZJVnlBclBOZ3Z1Zk0xOE94bzVmZk1OcXJ0UWwtdGVjX1pmUkpneWtKOThXdklkNHNZSjFPYnpFeDN4Mg?oc=5",
+   "data": "2026-11-24T17:15:13.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1m2bwfh",
+   "titulo": "GTA VI: Brasil entra no top 5 de audiência na Twitch, e Alanzoka fica em segundo no mundo",
+   "fonte": "O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcy1DSlg3VjkyRF9iNGdQRXBIa3F3S3ZxR05mR1RrUE4xM2xiQXUtVWtIMzFmOXRNR2tMZ01ZcUdfbEhlRExfVjdSRDhlckJ2OThHOGczZGh6UFVZY2RpTHA4VXUxQlZvb18ySF80ZUNDN2xIZENyLUotUnkzTDZSb0NjQkZKanBkLXRaRThkenJDU1VOT0ptZXRtSHJBNUNMRlNya2duOVVjMmhwOTItc2xUb01jWGNvV2xWMW1hSUNmcUlzYnRrUDZNV2diNHFRLS05TzNrRVpOYVk?oc=5",
+   "data": "2026-11-24T17:09:03.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1olmpjm",
+   "titulo": "Rockstar derruba servidor do Discord que trabalhava em porte de GTA 6 para PC",
+   "fonte": "Insider Gaming",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBmem9vUC1kX1ZGcURNOVl6MVZXMFhBRGhCUkpYdTZWSjZGbEtYT3hEX1p1dm5SYjRxaVR3RzFPNWpXN29NcVRWY3NfcG5vM0U1Z2FwSDRua3dyd1RtendaVVFkeVhUYnVfdklGUFFzUmEtWFVjWHFXNVQxZw?oc=5",
+   "data": "2026-11-24T17:07:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1j6vrfm",
+   "titulo": "Após valorização, ações da Nvidia têm queda com retorno de Jensen Huang",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPQ2hTT1g5Z1M5SjJoRTZqenAyV3Z6OHdfOFM2N0pnNHRJelpzRWREN0ZRaVZQTV9ZSnVsNUhTMER5SmdPWU1IWTFieTdXR1NZN0JCWWVfM1dONVhaWWszQlI5R2ZvZ0RCQzNhV3Nidzg4YjdsdlRmdUlnbmVTVkUxdUgwdWJfNE9ReFFYVmE4bTZDVHB1TENDLXVPMURMbjZkandVQW9DU0NjVWNNaGtrYWZsU1F5UQ?oc=5",
+   "data": "2026-11-24T17:06:37.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ko6bfr",
    "titulo": "Wedbush vê oportunidade na queda das ações da Anthropic após IPO",
@@ -919,6 +979,18 @@
    "avisado": false
   },
   {
+   "id": "1mnk9ya",
+   "titulo": "Petrobras retorna ao setor de etanol com aquisição de fatia na Neomille",
+   "fonte": "BiodieselBR",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0IwVTZ6SzlSV3lSUGh2Y3c0X0VudUxhM0x0ZjlTUHdneW9mb3dDLV9lN0V4aTFPdkwyRDFIdG9tUGNtNDhRX1pqdVNwWl9aZTVSRW53cWlveWluZU9NZ3JaMmw4WUctTWlsN241NXB3ZXJhZUFHNjRoeWQ3UXFRNUNhdmV4ZldjVE9hQnMtRDY0UFRNYUtmemViVk8xZzBnZW5TNlMwWUtzNHZsYm9iYjJWZUJqaWtqV0R4Q0UxX3FObGhYUHNBSEpVYw?oc=5",
+   "data": "2026-11-24T11:59:23.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "9ao539",
    "titulo": "Petrobras anuncia retorno à produção de etanol com aquisição de 42% da Neomille por R$ 2,8 bilhões",
    "fonte": "Times Brasil | CNBC",
@@ -1772,78 +1844,6 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1fsm339",
-   "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
-   "data": "2026-11-24T01:51:36.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fqb4hg",
-   "titulo": "Captação do IPO da Anthropic chega a US$ 93,5 bilhões",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFBlLWllZU9nWlJhd184d3lvUmRUR3NNZmpXcVVvb0xFcnFaczN2ZWtSWE9GSllEWUsxbGlBbmpKTmVtcElQRVNSLTFEQzJ0dDQ5UEQwVEtJbWlpRi12LTRsYlpwSUIwM25ERlFyU2xRdk92dGZZaFV3Z1VYMXlkOFJhUQ?oc=5",
-   "data": "2026-11-24T01:50:16.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10w9gup",
-   "titulo": "Compra da Zscaler pela CrowdStrike: CEO rebate temores",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1poQXBSa1lpeVRjOFlkRURrdy01ODZzanM4WGZEaHcyWC12NFQzbjRQRGFBM2FGMTc0bGwteEw3RFV1VWxDX1JSWERPQnB5SzVxVkxkeWhQUWVadGRBVjZmaFY3VnVRWUNCeHAtV0d4bGZpN1VZYU53NTZvWjVqekRzVXhiWXVJSHc?oc=5",
-   "data": "2026-11-24T01:49:47.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ai79sj",
-   "titulo": "Petrobras prevê produção recorde nos próximos cinco anos",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2J4WV9YWnZobUdGdXFPSmdJQWtuWkk5QTZaWlFpY1ZycUt2NTJUd3dHamlxQS0wb0wwRExONGRKcXdyLU9WSk1GQW9FZDFLa1U1QkhGbDhJM3BUajVsdVZzZTNwUlBXNUtTcG9ab1k3UlpNVVlDUUV4aXI5dFN4bkstQjNCV3pHZ2VUYjQ2WUFxNDU4YmlRTTdBTWc5Z1otWlpCZHVfdW5mazhSUnZ2dWt3UjZpRFlNOW9fOQ?oc=5",
-   "data": "2026-11-24T01:46:37.000Z",
-   "cat": "Movimento",
-   "empresa": "Petrobras",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1phfk6c",
-   "titulo": "Ações de semicondutores asiáticas disparam com rali da Nvidia; Coreia do Sul e Taiwan lideram",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDRFcmE1OV9ib3BlYm4xUS1CWGR0TzRIWHY2WWcwazhSSEI1ZVBwMFJ1NHBTZ1VkcDVHcW84ZWRyeHNnaGsxQVJlT1F3NDRFdkFucTQtNHQyNDMtWkFfUGtJQjJXbjJ0Mko0eDhVX0c4bnpXbDk4YVRQc01TQlJtdllqOEF5VWZjLTY5cDctNkdnU0M4MGVTYXA0aXAwNTZvc1pGaVBvV1cwaS1fMXkxaEUxbl8zMkNOVVhrZ3hmRUVOSE0tdERyWXJtMGlYdm9FUWFDVjRVelJiNDhhWFBoU3JR?oc=5",
-   "data": "2026-11-24T01:45:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "axl8bl",
-   "titulo": "GTA VI: como abrir o portal para Vice City de 2002 e ter a camisa de Tommy Vercetti",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxX19uYXFEWEUwNnM5Z21rTlcySzNwMmVpblVFNXBuYi1mRVVWWFJhYUhydzZTTzY0RDB6dzZDVXVDYjNJekF3ZHo3ai16SllWSzV6ZDlURVBDNFo1SXhyTHdRZ1FWNkVCc2xpLWp2OVpCRFFUMXZyQUhvWkFCUQ?oc=5",
-   "data": "2026-11-24T01:35:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
