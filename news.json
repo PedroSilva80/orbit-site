@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T19:00:36.658Z",
+ "atualizado": "2026-11-24T19:30:34.428Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "8op9dc",
+   "titulo": "Jamie Campbell Bower, ator do Vecna, quer retornar em spin-off de ‘Stranger Things’",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTg3WlV2bjRkMEdsQWF5U2Y5bldjVEpDTm8waEwxU2Q2SXl3MkdmYVprRW9sNTBJS0MwY3FVR0lfSTBlbTJKc3Z1YXU0WUQzTVNNdUhyTnRMamJ3eGJ3Y3AxcVJETTFGeUpPM2FDQmhmODJORUhnQkt0RWFkUFAycjMxTmdYNUU4azRpN0M3VkEwUFZhUngyMXFOa2x0S2dYZEFaZGNobGswbnlBYnlr?oc=5",
+   "data": "2026-11-24T19:20:01.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1s6303y",
+   "titulo": "Anthropic cai abaixo do IPO sob alerta de Jim Cramer",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDk3N1lsdWJPeC0wUXVqNXowUkg5bGxsaUQwYUNMU0wteS0xTG1QNHNkLTVob0haMnJNRE5GOUhnaU1NS2N1S3liN25SR2t5R1Z2aDhTTUNsZnRhbVU1dTRnWktLTDZCenljVWRUZC1ITzZvYmpzZk5xR3JxcWxTaGpnbmg?oc=5",
+   "data": "2026-11-24T19:16:42.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ntxow5",
+   "titulo": "GTA VI supera 39 milhões de jogadores e bate recorde histórico no PlayStation",
+   "fonte": "Creativosbr",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV0FfVWQwX0hiSHhjRHp3UVlZcm05Y0x3VGhraTV0bEhqVlVDSmdvWmd0SmtkZGVpYjA0clJDdGNhVkRiVmdYNTh5LUNiYTFYcGFtNHE0RXZGUUkzcm8wSEVjSF95R0FScHNJeDEtMTFVSWRnU2E4emtVeFB6WUZ1ajhlTE1IclMwZzFhVEpJWHl2ejNBMm1QLUdRZVk4ckhXeEtFMnEzU2Y?oc=5",
+   "data": "2026-11-24T19:05:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "m8swzf",
+   "titulo": "Temos que gerar novas fontes de energia além do petróleo e gás para o futuro da Petrobras, diz presidente",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNSm1LUmRhU0hlWC1qbGdEY2ZfNTRlYmRDY0g5MDA0Y0FxcWFKUUpUNGN6M25PTFNPOFpwRUVyN3NEWHJDXzNHQTU2R29nWXlmTzRSaFRHaFdGMFEtNEpCYjBsdVlZZ3pDcHE1UjR4aS1WSHI1X1IxY0gycHhxaktmcE9XSG5FZW0teXJZQmpEWm9CSEE1Vlk4UzJMbWZnVDN6d2dqTk9SdUxPaU9VcVpDbFhhOE0xcUJnRWFGVFVQSVZfdm5hdGhmeEZid2xkOEtVZHpZcHMyWTZvckhjOURuVDRlWG5DWDVMY1Y5cEEwX2ZkYzVt0gGDAkFVX3lxTE1IbmJpSVNJWVBZWjd2YVFwcDVQYVZvUmZWcE9KZ29BQjhpR29WaXdnWUtwNWNzUktiYWZzVjFXTW5CSGNLbzRRVEpMZ2RKb091cG5vUGZvc25xbzhrVExNTXFBc2pJSnNFSWlyTmxoN1VFVHRid21mbVU5Z2RsT0FNd09xQjd4SXdEVExHOUVKdXNWX1hDOGlmSzFHNzJ6Zk9CX1hMRjV1ZkJ0Zl9tOUhocWpyOE9KS0ktTmsyTTNSNXR2Wmh4RW1CMzZZUERYekloN0NQMU9oSlh5ZE5tc2cwNy1Fa2NTOG16eUdTRlhZY3Z0SlR4TnF0ajM5Q0xrVEh3ZmM?oc=5",
+   "data": "2026-11-24T19:00:58.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "g8iorj",
    "titulo": "Os 8 melhores easter eggs de terror encontrados em GTA VI até agora",
@@ -161,6 +209,18 @@
    "avisado": false
   },
   {
+   "id": "1voa18b",
+   "titulo": "GTA VI fatura US$ 3,79 bilhões no primeiro dia e bate recorde do entretenimento, diz Take-Two",
+   "fonte": "Diário de Notícias de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajNsalNWTnYzTDhMM1V5RExzcko5ZXZnQkk1bzdoZUxIWF9kd3VUcjhwRVNCVjgzTGRuQWJseVEzdUstNk8wZ05WM2VfNlE4M3I5NVdXQThsak1Pb3EtSHBvamNwYW9QZVBpNlFobDR6Nl9IY00zQThtcGFRbGxiY3pCTzMzUjNRSExXeHhOMlVHZmlkYUNyT1hDMnNYYjBE?oc=5",
+   "data": "2026-11-24T17:32:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1lbzqa3",
    "titulo": "Petrobras sobe com dividendos extraordinários, apesar de investimentos maiores no novo plano de negócios",
    "fonte": "ADVFN",
@@ -171,6 +231,19 @@
    "score": 7,
    "marco": false,
    "avisado": false
+  },
+  {
+   "id": "17fwv36",
+   "titulo": "Anthropic cai abaixo do preço do IPO no quarto dia, com queda de mais de 32% em relação à abertura da estreia, enquanto Oppenheimer ainda estabelece preço-alvo de US$ 150",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1FyYWRUUExlQ21YdC05ZVY1WE9UamM5TzlpU09RdUs0d0h0WnNSb2prQ2NmTktGRl9OTDl1ZjdIWExMRDJnckNITjhQYzdDUVZSMUNyZzVDa2FrVzBqZE5qcnZoTlN6NUVGOEFqdXV6cVdHN1ZPWV9tR3N5MC1IMHVFdWt0aVJCcFRhSmlVSF9Ja29sMGluTjNTTHlxQzk1LW1GSzliV2daejVVcjBpQ0J6alZaUlhGendmV3lOMERGcHRmNWpXU3VKRQ?oc=5",
+   "data": "2026-11-24T17:25:48.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": true,
+   "avisadoEm": 1795548634428
   },
   {
    "id": "1mvs5fm",
@@ -879,6 +952,18 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "u76nhx",
+   "titulo": "Tesla e SpaceX nomeiam conselheiros para fusão de US$ 3,5 trilhões",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTZXbjdXWmpLMjZzRmVyb1pzVkdZMkhSQUZiMm9jaEMwWEc5SENGNWRRZXAwUnUzMGtMVmtUMC1iY2N3YTVseWFaY0Zlb3lEcHYzQlNYZ0hfejJBVU1yMUZ1WlR3cGlyQ0dqdF9LTzJEclM1TTVyQjVKcFMwNEVRMzlnRk1aVkZzZjBjSVUxSlplSXJiemZOazBRd0ZFb0ZBZElZYXFMeDYtbVIxRmFYNEdfRdIBuAFBVV95cUxNZE9DMC1hYlVId0JTaHZtMnlMNHJrUGdTSmprMDZkMGd1OFNHVlBUY1lQVENNbVc0bVNnaFk1bXh2OUczTnFpZlZxTDNOR2VScFNiZzFoOEZBUlN4NmFVcEpJdDFybVRDT1hWNkF1WEtBZEFVaTdyajZsOXU4R3JzbXp0OElNLXROZFVhWjBGM0c3SkZkLVA4OTc1TTFRcUxjNjZOMVJvRjNSSXh6MkpqVWhXcVRVclha?oc=5",
+   "data": "2026-11-24T13:07:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 8,
+   "marco": false,
    "avisado": false
   },
   {
@@ -1758,91 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "44kpes",
-   "titulo": "À medida que a versão de GTA 6 para PC se aproxima de se tornar jogável, a Rockstar estaria tomando medidas contra criadores de mods e comunidades do Discord",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZDVoSl9qU2JadWYtN2JMV3FjVUIydzdlNk9ENVdIWUszdzNKU2ZNdHpqdmxJNEJ3ZVZ5ZjYxQk5jZzZKaXlHT29VX0NjOGwxRDI0blNETGcxMXQtRHZzdnR0RXJwYl9rYXRyaGR6NUc3b3RSX0F0VFVPRmpTR2Z5MnpOVDhFcWhBUXVtUW5rTVM1Z3E3d0NTSW5WYUhmNk9WNGFZMlJUUzNmWDNycS1ub0I2VEl6UVhLdDRJT2F5M2E1TzJxbWtrUlk5aDB4UHBfNHRZaDJOaC1TSTAzejkxRG9FUFI5bDlUOGRXOEFUcTZDWG11VFktT0JDdzdlcWplX3ZteUdIVGF1R3Z3Ry14VEtJdjVFWmF1OHVER21nR20zamoyTG8wRXR3?oc=5",
-   "data": "2026-11-24T06:53:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11igp4y",
-   "titulo": "CEO da GameStop diz que jogos exclusivamente digitais prejudicam os consumidores enquanto GTA VI é lançado sem disco",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaTlVMzJVWk1QUDdadWJYQVdROXhHdTUxSk9aTmtGRHRMVkhBQjFoVnlQU05uOVJ2c3prX1lwOFNGeXU0MVpDbi13dnBtQ1lUdi0wdEQ2QzVmMk1sdmhsRUZpazltall6WDRlRjQzeDVHaS1RTWJFc1RFY1UzVkE0U3VlQzZyc2hwNkM3VGRKandPdE9wLU9hZ2wtbUxjbmJjT2ROOG5LWXNSZEd2VFAxVThLZzBkOUxaYjhURzlES094bmJwcFdwd2JQNk1HLUh4WmZoZ3FjZkRjcWFpSTJTd0daTkdOcGpDQmRtNm0wekh2Qkwt?oc=5",
-   "data": "2026-11-24T06:53:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cqepjo",
-   "titulo": "GTA VI roda a até 60 FPS no Xbox Series X graças a um bug",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHZTLXhzY1JEQkJiU0VBTExPeEl1TWZralQtb1V5a2l6eFZRS1ZUcDFWelFvdXZaVmhQMVlTWm1Cal9kajlvX3Z6OXF2M1pVaFlFTXFtT0o3akRQaEVNMDNseGNOUDNvNlhLVmJSbzF4XzhYMjY0MmpBV3I2Tl9QcTNzVTlQb25UbGVEczR5N20xWnV0Y2xZVXQ3ZHBJRFFVQ0hnS1FR?oc=5",
-   "data": "2026-11-24T06:53:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sjxr91",
-   "titulo": "A divisão de investimentos da Danantara Indonesia não atingirá a meta de lucro para 2026",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3YkVOM0NDQ2dYQmlpQlZqeXpERS15VkRiZElzUkhKTUNBNEg4NDVvS0RtUE5QdzdGRjQ3SlE3ampsY0NVVXlMQ29CbkZfYlI4MWdxLUpJUVBSUXlqQUdnMC05aEpXcVN5dWZfM2JPX3VNYkVualdR?oc=5",
-   "data": "2026-11-24T06:42:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lco8sm",
-   "titulo": "Previsão para as ações da CrowdStrike: despencam 9% após aquisição da Zscaler, CRWD corre risco de nova queda de 14%",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlJFV3pQakFxMkFNOUU2Tkl6cS1VTkZlcGp4QlJBd2dRVkNUaHpCYXAxSm5lYXVuRHI3blJ1dFBVaFZwQXluUXd2VVhzZHp0U0VidFFLa25Ya2hWc25CVGZZNkRHOHJUcTNUYmg1dTBmV1RNTHc0bmp2X1RkN2FjZjV1YkcyRG03T2FOUTNhMGlwbW9lUmlRUmxYSHpIYTVxTndLTFhSOFZsVzFLZnNwZGhzbzZaOGw3Q1dZcFZTcWZvUVZ1cDRVMFctTQ?oc=5",
-   "data": "2026-11-24T06:34:55.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ixy4gz",
-   "titulo": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXJWX0JhTnBTNGRUSWR0NVdBUUpjQ2RtV3RxODlUNWFmQnR1TW01OGhHUmdGb0thR1pJVUlFbzVFdFNCdS01dFNDbUlRcmkzUHJwWURJWERxZlowVk9oTjFwelNtZ1JsT0tmMTB3OTB1Yk9lbkZlNmlSTzJOdlo3cHNha2s2eVV0Sy1CM0NMSWppekRVOTRMTklYVWV5Wjloa1pv0gGyAUFVX3lxTFB4Q3ZIUFNxdXpNYkxZeEpnMXlHLW9lc25seDJXU2d5bWVrVGllelpmVXZ1Sl9Ra0JZWjY5dDd4dG9XNGRJeXRVZ29XM2Nnbzd3RU9rZGhYa0pQNmF3b0ROVDRDOHJwaEtySVZ2WDVJbXFnTVAzSlhOMVhnUVNNeF9DTUR3LXpvcUlyYzRLUGRZNHlqUmUyaGMwSkotd3lmNnU3bGY4b3ZUSUl2Q2ZCYVBoWlE?oc=5",
-   "data": "2026-11-24T06:23:17.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795516232111
-  },
-  {
-   "id": "cx18oq",
-   "titulo": "Tesla e SpaceX discutem maior fusão da história, avaliada em R$ 20,8 trilhões, diz jornal",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXJWX0JhTnBTNGRUSWR0NVdBUUpjQ2RtV3RxODlUNWFmQnR1TW01OGhHUmdGb0thR1pJVUlFbzVFdFNCdS01dFNDbUlRcmkzUHJwWURJWERxZlowVk9oTjFwelNtZ1JsT0tmMTB3OTB1Yk9lbkZlNmlSTzJOdlo3cHNha2s2eVV0Sy1CM0NMSWppekRVOTRMTklYVWV5Wjloa1pv0gGyAUFVX3lxTFB4Q3ZIUFNxdXpNYkxZeEpnMXlHLW9lc25seDJXU2d5bWVrVGllelpmVXZ1Sl9Ra0JZWjY5dDd4dG9XNGRJeXRVZ29XM2Nnbzd3RU9rZGhYa0pQNmF3b0ROVDRDOHJwaEtySVZ2WDVJbXFnTVAzSlhOMVhnUVNNeF9DTUR3LXpvcUlyYzRLUGRZNHlqUmUyaGMwSkotd3lmNnU3bGY4b3ZUSUl2Q2ZCYVBoWlE?oc=5",
-   "data": "2026-11-24T06:23:17.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
