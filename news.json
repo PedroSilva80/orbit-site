@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T22:00:31.817Z",
+ "atualizado": "2026-11-24T22:30:28.126Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "1llcfsi",
+   "titulo": "Anitta, Travis Scott e 21 Savage estão entre os destaques da edição deluxe de álbum de GTA VI",
+   "fonte": "Jornal de Brasília",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1hXbFNnWTlZU3NhZFFUOTVSVU9xcnBRNERFRzBPMGVpWjByUE54a1ZZalgzX3RRN2ZRUjQySFdCdWQ2NjlVSWgzUy14UlNXaVlwa3k3Qml0SzFXSWVjWG1pYmNRWXJHMW0xeTlSaTVheVg5cjFzamFXMVJUMDROV0ZxRjhYaVh4QlFUU3VyZnJPZGZKeXRNUnNZVEt4S05waTFfeG9keTRYSGJNTG1haFhQZEt5V0FTRExDaFlPbVlsdjVkc2I1b2QzRFJaVWs0SXZz?oc=5",
+   "data": "2026-11-24T22:23:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13khh8l",
+   "titulo": "Black da Amazon: Apple Watch SE 3 despenca 51% com cupom para membros Prime",
+   "fonte": "Tecnoblog",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2QzRlN1d2xCYVptR2kwODJZMnpqV0tsa0JGLUx3MGpIakFXQmxYWE9seDY0bWdVWC1yMFRsaVp5eUVnZ3g4aVhlS0VWTEJsdTRndXhFd0hkUXhKYWR6T2tRYU9UdTFuOFFaczZlUXB0UlN2alFNN1VKOU12ekZRcG5NU25RaUlGSFppbGEwQkpWYnF3VUJFRGJuRTRJbTJtQTRQS0M4dw?oc=5",
+   "data": "2026-11-24T22:18:37.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10u3r5k",
+   "titulo": "Anthropic cai abaixo do IPO de US$ 83 pela primeira vez",
+   "fonte": "portalcripto.com.br",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5cFREOFhRa1ViRkZ0Tk9pMm5sSlhTa3AybU5TQkVoS2lsZkpqekU5bGVMQmZ1OFRkd1JyZThBU3d2bnZmbjRJdTlCSkpRZ2xrZVVvOTNTd0liNUN1ZnU2cVFXNmdnNkdBSlRkWUJWelM?oc=5",
+   "data": "2026-11-24T22:17:29.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dnawlz",
+   "titulo": "Atriz de voz de GTA 6 revela NDA 'gigantesco' da Rockstar e sigilo extremo",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTcEFCdlVHQU9vbm10ajUtWThXV0gtQkxKdWVkb3ZOSVVKd3NvWFpISjk0VWUxcl9memxVbVUxYXJEZHB5S1E?oc=5",
+   "data": "2026-11-24T22:10:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lwguvj",
+   "titulo": "Magda: Petrobras já não é empresa de petróleo e gás, mas de energia",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXFxbkd5Z1hOLWlpZHpzRjNpUFladUtiOFJMcVpGUFd5bmwwVW91WjFwdXVsenhJeVdLUlktQXJCWUdwVWJONUI0UER0X0lFdVlWT2xCVXcwcW1iVTlDbDdHNXlQaFliWkl2aVRFT0NZZzN6M0dqQkJUaTRiRjc3am54aC16WjlBS3VudEM1bUl6MUs1Y0JUSDFCN25sdktjZHFr?oc=5",
+   "data": "2026-11-24T22:09:35.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xubuy4",
+   "titulo": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXRsNjRnT1ZmNkd3SXZERnYyejdkNlVwNmpKVVljNlhjeW1Pd3M1WE1hbTFLN0N1UzROWC1SeHJnT210bFo4Zk5vTUY5MkRRTGtTd1dLbURuRGFCb0g5QzlPMkhTempkNi1tM3VmZUJnNWdKMFlSdG9idl9tSG1LbGpiTFg3TVJKR1JZR2loTXpCZGpOZ2tiQVRGQmZubEF4bWtUa250Tk1JTklwaWhmMlJabmFBdDFTLThhOW5aSVhzVllQMk56am1vcmI3QUc5UVFNVk1EZk52ZDNHZngtUE5HZ9IB8gFBVV95cUxPcktfLU8wN2U1ZmZOVVpCZnUtaTJHX0V3cnJpeGc5b2JLbUJ0Zy1UNFZZeG5DbDFXUDVJTUxsSEphN2g2WlRzZTZ6bmhuS1JjZ3VidVd0UDJIWnBnY1BqWWdNWXpLNlA4QmdLOXQwQTJyektYdWM3aTdBMHU2bk0tVTVzcFlYSmhzLVF4YTYxVFRoNmsweGlvWmNYYTNiaDJDeFRBa29nZ0swNjctcEtvcWJXR2ZpNmJVN3JhU25uQjRIc2haMnVnZThYRHlDT2pxcUQtODh6ekJISHN6dGVPeFFiaUx5bm5wWE01WVJBc3lqdw?oc=5",
+   "data": "2026-11-24T21:56:24.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "q6cfbz",
+   "titulo": "Atrizes de série teen da Netflix se reúnem em novo drama sobre a Guerra do Iraque",
+   "fonte": "BNews Alagoas",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmFqXzJsZnZyeldfU1NaTDZSa2lWQTBmYmh1NmJsSl9wa1JsSldQVmZkU25ZZXRZdjhrMTd1WjJzc1A5N2h3WWQtM3N0amRiVmp0azlzcG5UNlpHeGRJRWtfRXhmeDZJRC1JeVdveVRReDFHbExqakw1TzQ0Wl9DV25KYl9MYnpoeV9GTEgwalhSQW1xLURoNkhkY050ZVJBQmt3akt3dVgtVXFkZWRISWdqcm1PTzFRLTMyQ3doX2RxWjVhQjB2SlhCckh4SWRLQUhyMU91LW0xUdIB3wFBVV95cUxPM2lYdktablUwRllhWVNZMmtBZnA3c1VzNDI5Z1VCN1FTQ3prRmQzdHRtVU1IYnhVVy1sUUM1bk9UWHZoQ3lIellHcHN4VmdMaUsyOVE2VlQ3Q0xOUVBEaDdkdTB2Ny1XZWtXNnFxSDVnOXVFVGFwdUFLbkQwbkVDUjlmbC0tZlUwMGlfNXczck5aYXFOUnUxNFlBSGpVeDNDZUp6ZGlyQTJrZ0Z4YVNQQTRKLVAtMTB4dk9FR29lTW5oSnVINHlPQklIN0o3ZUR5NVYwdVFPallVZDJ3RkY4?oc=5",
+   "data": "2026-11-24T21:45:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "wynidr",
    "titulo": "O que o fenômeno GTA VI diz sobre onde o consumidor gasta tempo e dinheiro",
@@ -1758,90 +1842,6 @@
    "data": "2026-11-24T11:20:00.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1weq5tn",
-   "titulo": "Jogada bilionária: como o GTA VI coroa a hegemonia econômica e cultural dos videogames",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeVR4Wkx0YUpxSUxSWERjS0NyUkhxbDRZYWk4SWtSYjBwVjgtZ3NpaGdMaFJ1ajFQeFJzR01ST1JWM21WZUJqd2lBamJGWHJ1N0NjZU1GaEFBRVlqVEtZR3Z6SHJRRnRVeU9yQXYtVEpEQzZSRG5kOGRraVZJZ3hOWk9NYmFNXzZjdjF1RUliM3NTT0w3Qmt4bURPZVQ5LWZDbU9DVEsxdU44alhMa0hTTlVVenR1WWF4VUI5OGpyTkc?oc=5",
-   "data": "2026-11-24T11:19:10.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1edduvs",
-   "titulo": "Trump diz que Jensen Huang e esposa superaram crise conjugal após escândalo que levou à renúncia do CEO da Nvidia",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNWElMcnh4MS01Yzd1UkNtaHdYS1BVSV9qY1VwQjdEbXFiSjB2Vy1NR3BOZnJVamN0c2xGNk9UZHhQanRYODhXNF9SbDNyb0lnV3VuRWZXMGtMUFJEaUE5TlhCLXhCNG1wY1JFRm5OZnV1SWVIb1g0WlFERHdZYzktM2g4TGRTV3lwaFdrLWMwaVQyZ3o4T1RiWmZNaXJNd01Qc3M0cXdOalFsN2JOWkpiY3RWeHpaa0l5cVItNFA5YTJ4VkJNbUwwYl9xYzVlOU52RksxQkNqLXBmbzZCTmhPZXdWbk5pOS1oTkZaNmxOZkN1TkpFaHFxdXNLbGc2ZXBxWGdrNU9FeWtZcE1KWWhoZGkzYw?oc=5",
-   "data": "2026-11-24T11:19:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "ai79sj",
-   "titulo": "Petrobras prevê produção recorde nos próximos cinco anos",
-   "fonte": "BiodieselBR",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQY0c1NGY0UVpVbVpmZ0NxNUNWQjBwSTJWdG56LWpnMEZWRlN6blZzNGpXQTROWlJxZDRxSkJFZTRZcUxzYjRjdHVBSnNxSEtOVFJyS3VTb0RLenFvUDRaa2JBY3ZpQ015NzVuMDdQTXVyZUVUZmVIRjI1YVo0bDI2VDVVcHg1X3c1VnpHSVlkSGlPVVdZUGxNMkJwbThpQ1BMTE9DT3ZtZXdPNHZqV01lWW01dzk1QVU?oc=5",
-   "data": "2026-11-24T11:16:49.000Z",
-   "cat": "Movimento",
-   "empresa": "Petrobras",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lv33tc",
-   "titulo": "Anthropic cai abaixo do preço de IPO de US$ 83, à medida que a alta inicial se esvai",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41OTV4RjBETVRrdzdoMnI2Z2J0bG16a2hJTEhLazU0S2ltRGVuNTBZVldfRVFWRkRKVUE5R1ZPT2ZEV2tkMVBqbmxwOThQLXgtRkp6blRsd0xtZ2pVbjBOUjRlY2FBd1VkTGRSZUM1cU1zaUd3b253?oc=5",
-   "data": "2026-11-24T11:13:45.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1etz26t",
-   "titulo": "Ethereum perde demanda após prejuízo da BitMine",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZlB5YlVxNmhZQWgxQWwyTWJ4VUY2QzR6OUZsdXNJY2tyR2NPSDZxSVVjTkE1QTNYUlRONmNVc1FwelVTVkdVNW9uRDJwN2xEZjl3Y2FIYzZDd3VsWlNQWlhRNWFTLVg2NDdBTDJpR0FZQV9ENE5UZEMzRHUzQQ?oc=5",
-   "data": "2026-11-24T11:07:16.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1d9jq3j",
-   "titulo": "Retorno de Huang ao comando da Nvidia reanima bolsas e setor de tecnologia",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VSGE1czJ5Q1JBUl9RZUE3Y3hrdWxfM1ZIZjlvTEc2RjFBQVh5RG84c0dsTWhlRjFrQmJzTm9GajIxaDFDMk5mQS1hX3IydDBOaGx5WkpkMGtOZ3F1ZGFVME5B?oc=5",
-   "data": "2026-11-24T11:01:10.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10x4g2l",
-   "titulo": "GTA VI: o impacto da Rockstar no negócio da música",
-   "fonte": "tmc.com.br",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRzM2MXpSb2dwX1JWY0psTTd1VTJiX2ZEQ3lHbUVBcVZiVFl3M3pmT2NnbmR4aTVDZmxJWFZWTEladUdodU1WVmwxWkF4cElOU29sb21NNlI1OUN6TWdvT1JBOE1Ma0NtQ3E2RUg4N19ud0praFF3?oc=5",
-   "data": "2026-11-24T11:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
