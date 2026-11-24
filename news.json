@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T06:00:31.996Z",
+ "atualizado": "2026-11-24T06:30:28.407Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,18 @@
  ],
  "itens": [
   {
+   "id": "ixy4gz",
+   "titulo": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUXJWX0JhTnBTNGRUSWR0NVdBUUpjQ2RtV3RxODlUNWFmQnR1TW01OGhHUmdGb0thR1pJVUlFbzVFdFNCdS01dFNDbUlRcmkzUHJwWURJWERxZlowVk9oTjFwelNtZ1JsT0tmMTB3OTB1Yk9lbkZlNmlSTzJOdlo3cHNha2s2eVV0Sy1CM0NMSWppekRVOTRMTklYVWV5Wjloa1pv0gGyAUFVX3lxTFB4Q3ZIUFNxdXpNYkxZeEpnMXlHLW9lc25seDJXU2d5bWVrVGllelpmVXZ1Sl9Ra0JZWjY5dDd4dG9XNGRJeXRVZ29XM2Nnbzd3RU9rZGhYa0pQNmF3b0ROVDRDOHJwaEtySVZ2WDVJbXFnTVAzSlhOMVhnUVNNeF9DTUR3LXpvcUlyYzRLUGRZNHlqUmUyaGMwSkotd3lmNnU3bGY4b3ZUSUl2Q2ZCYVBoWlE?oc=5",
+   "data": "2026-11-24T06:23:17.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "kjx1tk",
    "titulo": "Diretores da SpaceX e Tesla negociam fusão de US$ 3,5 trilhões",
    "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
@@ -72,6 +84,30 @@
    "cat": "Risco grave",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1yifuaf",
+   "titulo": "Por que as ações da Samsung e da SK Hynix disparam após a reviravolta da Nvidia?",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1aaVNtOWRia2dGYXVpNGUxbGlwQnFHU1FwYmQ0dDVCNHdibDUyNmN3VzluZnBuX19Hd3lvTE42MFFpTnZBLTVyZUxmUmxSaDl3VmYzZTdXWTNFVlptc2FSWUNwQWNHdw?oc=5",
+   "data": "2026-11-24T05:14:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jb0p8o",
+   "titulo": "Starhub anuncia aquisição da M1 em negócio de S$ 5 bilhões em ações",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMEhmZy10SVNmXzlhYWxtcmRoX044SUpfdEM1RUhNcFpjZWZEOExTUV9lRWlYbXVlVktXZkxBNFlmUUZ0bm9QRXpwejBSVDFqQ0tHcXFMSGhEbTdxMERmUFdQck8yV0JId1dxQzd0WkhKVUNmWWxRRmFLbXh6c1NaT3U5X1NPVFNGVnRWVk94Q1VId1BWQ2ZSWEJWc1k4cGhJLU8tai1CSU1jYmUwZ2taQVNDbjhZbmZlMjhOeUlQeHdnVHcxRVE?oc=5",
+   "data": "2026-11-24T05:08:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -553,6 +589,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17zjcxu",
+   "titulo": "Trump enfrenta tempestade política após pressionar por retorno de Huang ao comando da Nvidia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZkZDS2tSYmdZT3luVG5CbzJUMk12NG1tUk44S1hkWjNDa3Jyb2tiYUNKeVE2SkE2aTZSQ3I1anhLandXNE92emxkTmpDd1RqVFB3elhxLU5rWmxmQWU0LUJ3VFl2Z05pTExRVV8yWUE5eVE1WFpJTzYtSXUyZXRBWkFENVpoeTdSNW1EUlJVdDc0Wlp1WHZ2SERYNFFXSl9rQTdlbjE4M2gyalNIRjQ1NWJGSGJfM0ZQUHVFSXF5SjlJZGNOSWJlU01kUmN1MG1MemdXUNIB2gFBVV95cUxNcmtuaGtiamlaUkFLUGVYd0Nfc1ZiTWJzSTdueWZaSXMxbmJHNjFWVjk3LURWZFBuZHBhNXhRMEVZT3ZkLUlBenVtekpZNTBFeWhDYTZoWWNNUmpXNWdMT3FqQ282SFdNRmtLWDVKalowMXZzMjlEd21Bb3hrNTZMekd3VjNWT2FvRUllX05kT1JtRGZxZFp2NUt2dk52QzkxVENZSS15ampUb01oSGYzbE9LRW5NZ1A2dWJMSHE0UDF3ZDFmMDN3QlNRdm5rSnRXVzNBMnEwcVRCUQ?oc=5",
+   "data": "2026-11-23T23:07:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1794,54 +1842,6 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "kas32x",
-   "titulo": "Itaú lança websérie sobre nova geração do tênis brasileiro",
-   "fonte": "Meio e Mensagem",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUDI2ODRiOHpPNmZvTThHX3BSbld5Nmdza0RkaFZqVVRlVEhmay1Cd0phdTNKUHFReTJJT3BmYzdGZi1YMnBtVUUzWGhCZmhtb2NyX05Zc3hDOWdaVkZjV0tBajFvSXJ5SFUwc09aLTVWeGZQdVJCUmctQUF6NEllLWVOcnVMdmszSDV0WVJkcjRaRFU4NDNQWHJFZzN0LU5YeWQ4?oc=5",
-   "data": "2026-11-23T15:44:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1n76q00",
-   "titulo": "Ações disparam após retorno de Huang à Nvidia reanimar negociações relacionadas à IA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9pc01XSk9Menp5RGx2NVpmeDRtLWlHeHAxVFJWYjMxY1IwbGpnM25SaHdVMVRSWEJpUFJ4cnhjZVNqY1RrVHpmdmZuUDRTY3RLQ3V3Y3A5THFPMTc1WVJtMHRkQU9wVVZaYVZwa1M5N2JoR1hNMUZv?oc=5",
-   "data": "2026-11-23T15:39:01.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kkx62n",
-   "titulo": "Por que você provavelmente não deveria roubar um Tesla em GTA 6",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWkh4WmFHVk94Q2RmTjFhS3ZhUUVNMTcyS3NTd1dOTjZlVEhTbDFQX1BHdTdKc2pSeDNCSFlNdm1CbS1XTWdCbkkyUjNINERUQ1A3UG1qZEdJTTNiUkkyV3JmMDEyeE9SVXd3RzIwLVM2YVN3RDUyRHVQM2RvSmgyelJ3WU5EWDh6WjBHT0kxcjhjakw3SEZlYllpN1JsZlM0WXJYNkpjbGtFcXJvUnc?oc=5",
-   "data": "2026-11-23T15:36:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "Tesla",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mec9f7",
-   "titulo": "Galípolo: dentro do governo não há qualquer debate sobre meta de inflação, é zero",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYzE4b19aS0FIcHdVLW9ocEFXSkx2Rzd3dHNRbDhqclpfSFZxTUNiN0NhRW83RHFQWFZfeGEtbVdPNXdNUFpZZ0lWOEVnam9HXzFXTjdYSU9IRGtobHF3S1FmRm1xODE2TWh3emppc18zeDlVeG1HUmZRTlZacUgyNTN0RUd5VmU4NUd0NjhnTk5ONkN5ZndHNHpoYW1WT25uWTIzbGlaa0ZwZXlzWkNkUjc1c1ZtRUlVVUHSAb8BQVVfeXFMUEg1NWNKTkxRelRqVzNvODFEdld0RnBjbUtYQU9LaDNOeERkOU95WU5pYmVLRWtBd2ZGMWRPYjNqcEo5VVAxOW9YT2NpOWZiNGN6VzhjWjlydDczcmdFNEs0RjBVWW42dHV1RUhaWEs4YS1ZemFrNnZmWnJxbDRqM2dOVzFjaHRoM1B2RHY2dVBZSEhKdlZRV0hrSFVnTTBMQ1Q5ZVg3Mjk1NTVPYlBoMVJ4TldkLXBXZmJaN0RVem8?oc=5",
-   "data": "2026-11-23T15:31:36.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
    "avisado": false
   }
  ]
