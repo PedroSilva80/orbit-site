@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T11:00:30.238Z",
+ "atualizado": "2026-11-24T11:30:27.459Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "1bosafv",
+   "titulo": "Maior IPO da história perde força: ações da Anthropic caem abaixo do preço de estreia de US$ 83 no pré-mercado",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQR3V3WnFKeGNwRHBPWEVnTmkzRWtoVHRacERnWjBSNVo1c3U1YlJWUkVOSFgzMU1QSkhZbWhEbDlwTkU4UHJCaDRhZDh4aXY1bWF4dDl5dUI0LU05ZHRaODdrQ2J6VFBWZGxENHZ6X2RwQ3E3X00tc0ZjN29WMVhIUWhrREw0R25XbUlZbnhXRVQ4dlR2Mld0WFdJOTNLdkZxMHVCdDVKQUVzUlFqX2ppbjJROFdGakFRU2QtNUV2cHhhZ2RQbEo0Ql9n?oc=5",
+   "data": "2026-11-24T11:23:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "19iko6b",
+   "titulo": "DA Davidson reitera compra de Take-Two e cita domínio do GTA VI",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPdzVPOUE4MV9vc1Z2aHNHMEI0dGdyR1BPOVhxM0sxaUtjbjJvVGc5NkR0SEtQa19tZTVacEJwdUFiUFRsN2xXdEt4Q3RTanVnRVdWeFB1MTVBQVBIeE1wd0hqd0J6ZjdLek1KdkhKLVFndzBwS1o2Ql9SXzF4RGh1Z3o3UF9VVzB5bXJfRlRsQmFFV2xMMDFKN2RpNURmNjhpQ19MVnFYS0c3UHQtOGJQeUhmRVpOc0ZwR004MlVR?oc=5",
+   "data": "2026-11-24T11:20:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lv33tc",
+   "titulo": "Anthropic cai abaixo do preço de IPO de US$ 83, à medida que a alta inicial se esvai",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41OTV4RjBETVRrdzdoMnI2Z2J0bG16a2hJTEhLazU0S2ltRGVuNTBZVldfRVFWRkRKVUE5R1ZPT2ZEV2tkMVBqbmxwOThQLXgtRkp6blRsd0xtZ2pVbjBOUjRlY2FBd1VkTGRSZUM1cU1zaUd3b253?oc=5",
+   "data": "2026-11-24T11:13:45.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1etz26t",
+   "titulo": "Ethereum perde demanda após prejuízo da BitMine",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5aZlB5YlVxNmhZQWgxQWwyTWJ4VUY2QzR6OUZsdXNJY2tyR2NPSDZxSVVjTkE1QTNYUlRONmNVc1FwelVTVkdVNW9uRDJwN2xEZjl3Y2FIYzZDd3VsWlNQWlhRNWFTLVg2NDdBTDJpR0FZQV9ENE5UZEMzRHUzQQ?oc=5",
+   "data": "2026-11-24T11:07:16.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1d9jq3j",
+   "titulo": "Retorno de Huang ao comando da Nvidia reanima bolsas e setor de tecnologia",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1VSGE1czJ5Q1JBUl9RZUE3Y3hrdWxfM1ZIZjlvTEc2RjFBQVh5RG84c0dsTWhlRjFrQmJzTm9GajIxaDFDMk5mQS1hX3IydDBOaGx5WkpkMGtOZ3F1ZGFVME5B?oc=5",
+   "data": "2026-11-24T11:01:10.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10x4g2l",
+   "titulo": "GTA VI: o impacto da Rockstar no negócio da música",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9FRzM2MXpSb2dwX1JWY0psTTd1VTJiX2ZEQ3lHbUVBcVZiVFl3M3pmT2NnbmR4aTVDZmxJWFZWTEladUdodU1WVmwxWkF4cElOU29sb21NNlI1OUN6TWdvT1JBOE1Ma0NtQ3E2RUg4N19ud0praFF3?oc=5",
+   "data": "2026-11-24T11:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1hx2lpm",
+   "titulo": "PRIO aprova cisão parcial com transferência de R$ 543,8 milhões em patrimônio",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPazdxYmlGeUV0eFVpVnJsZUtHcFBBeXExeXZZNVFjX2FFM1p0VFIydEdoRHAtdjFpNGw4bDhpTjdXMUV0QVZtWDV6MWhyODZDd0wtM3dtX2M5R3B5aS1sbVF0VWxRUmh6NjZJc1MyM2RtYlJBUGNsOTl1dkdQcVJ4b2RCN0w3X2J0R0xzZWxzdkxJZmVXV0JLNDFDbHpQdXVFQXJ4aWRSRlJlN2ZpWHFwX3NQcmXSAboBQVVfeXFMTWZjVE1ZMlJMOUpqYnVYZFFQZzRjcVRfOUl0VGR5R1I0YWNnSzEtYXY0WjJYRTFrMmdhNWJPcjh2alJsNWtOSEhnZmlaSnR1cEVEdmxtTUZOZnRQdkxSOHFjbHFobm1pU3hMNzg5WTdvbm53TnZWNUpiZldHRlR0NXlRWVE3LXF0Q2FyWDhUWDhDSXI0dDBUNlpIOWp3dXJYekFWRzFfQzVZcldzdmJra3VHd1M5WGpiZGNn?oc=5",
+   "data": "2026-11-24T10:55:31.000Z",
+   "cat": "Corporativo",
+   "empresa": "PRIO",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1xprlyn",
    "titulo": "A jardinagem é uma guerra que vale a pena perder",
@@ -97,6 +181,18 @@
    "cat": "Mercado",
    "empresa": "Petrobras",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "alx9bi",
+   "titulo": "Pré-venda de GTA 6 movimentou quase R$ 5 milhões no e-commerce brasileiro entre junho e novembro",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm1ETy12Qm1HYmZqTFREOXh5dGNWTjZQbktITVFhbXVpRTExSkNpX2hyLW9fTUZTS2RndThkY19IU0tyV1JRSnFGVjlaRVJTLTBoTmQ4OGtILXV1TFZJNm5ya25sek92TkdkUXlHN2dMSzJzLWp0Q29XYzNERzFjRi1yMnJfSjQwV05xc0RheVNLaGx0dkNXSW1xNjVaSFVFSEFBMlFXRS1iUUV5N0NDWlZaaEM1SGtBQnVodWtjUXZpUHFPdDl6b29xX1FYVjhVSndweNIB2gFBVV95cUxOOVkyOHBrQUlIc0NvV19YbzJYU2tDeGIxeE14d3hjWXRaZkF1TDhtaWxYYU1qNU5rQ2Z1VUlWMTlGeWx5ZDNXMlJULWczMDY3RHY5ai1nWEd4UnhaRG9QV3F3WG9YUlBFMW5YVTRNWDhyNVJqbFlrZTZOWjRZLXhDeFl4Z2lWZTZqQ1cxdmM2dE1renpYeHRicXM0c1JvQkpSbEhMd0xKMHh1RVdkUE9tRWotNkFKMFphMklzeVd1cVEwN21ubDQ4NzJBS2YzTFNxMXFwaG8tM2ZiQQ?oc=5",
+   "data": "2026-11-24T10:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1748,102 +1844,6 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "py2u97",
-   "titulo": "Nvidia dispara 31% e impulsiona maior alta das bolsas desde abril de 2025",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUkFIcm9DS09yWHYxckdVdW90N1JuV2VVSTBMbjdxMFVNQ1lhemFid3RZNzRSYjBFN0RrM2NSZ0tDNW9HZWhjbXVQVzJRZnJuLTZYZ2pfY25Sa0xFZXBvVXZpSVo0aU54Tkh3QU12NUQtVEFqM3VUbFJWVDg3S0RxTWtQcjh3S3pQRzdMTTJlRUZjZEgyTnNlWktsc2JnNGJXbTRlclg3Vy05bk110gGyAUFVX3lxTE5FdkNaZW9VNDdwM3paOXhmUm9YdzNucnhNTk50YjRvRUpWVXpXRGJOSVRvdjI0WmJDQUJlZVBaanRsWjR1TEVTWk9hZ25BbGk5cmVDRVJieFRoRVp2a1A3Sm5sd2xoMVpxX1ZFa1NsbzdIVDFnRTBqdDVHOGpqUndEOFJPeGo3cDJHRHNZSUhuamJzU2xEbHA0b0RkSXpmTDNlZHRQc0szU2dnUVA2UmZjSVE?oc=5",
-   "data": "2026-11-23T18:28:14.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z9sbdv",
-   "titulo": "Anthropic: diferenciais técnicos e de segurança que podem justificar IPO recorde",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZUhoNUdvMWQ2ZHBSbjNRTXlFT0g3b0FpT0hESkZmcWU3OElZU0pIMVlYYlNUM19iNm9oX25LS2R3OHpHNnRLSjZSaFF1WnVncmFGNlBIQXVlak5FRzhNZ3ZpSmV2SGtIa1U2MkRXTDBVZ3ZwLVA5ZnlNVXJ0aDdBNl9XY1lJSUgxb2U3WlZza2JNWWJIRjQtUVpRQWNiaENjY2phMDdydzZ1amE0TVRYRlphU0EwSUlkaU41R1g0SV9ZZTVkd09taXJZdmlpQlVsNXpsNTkzWGxUYWs0bGd6TXlR?oc=5",
-   "data": "2026-11-23T18:27:36.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8s65ch",
-   "titulo": "Fazenda eleva projeção de inflação para 5,3%, acima da meta",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQ3pndkVkdVBWOWtzeS1SaGV2QU15SVM5R3FSa0RsOWFNVjVXYUxSX1BLd2MzYUoxcl9zWF9Ob1Y0QW9Ndlpjc2F5OGFORzdDeUVlMEM1akxpWUFtOUZtMDhkLTJsc3pwT0MzSDAzMERPekt4UVhRNGg5VHpKOFlpallJS0N3WGdjTjdvVTloSlU1UDV5NkdEQ2dtY0xBODZSN2VNeThWRjlXdTN1Vl9sOS1rYWZjaGhGZG9RWFFhcEFvV0xIcmdkaGRyMi1PUWJNcFpqNWktelRZX1lmRFBB0gHuAUFVX3lxTE1vMG1ROTYxSjBFRGkxTVhtV3B5T0RZV3JJUU9zZHRGRkVOa1RNVmIwWlVPMmlXb1lleEhhSVUxdHl6RnJ3ci14M1RjRVFldXlmSFhCbnM1QUxmMktUV3NoTUFQQWk2Q09HcUNRVU5mS0pjZkNxU1ZtSTZ0UktZNjlsM3R2TDNYVUJQeEtuRWhsMFdPWXBNakxKLXpEU2N2OGNId3E2S3ZRUzFIQVhqellrRUpTSW45dGE0Nm14VGp0ZmxLRjJoZUxRUWNHLVV3NmM0SlZidDJ6d21UY1JKNFQwdEhLNm9FNVJvNFRpenc?oc=5",
-   "data": "2026-11-23T18:23:17.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12xx3dl",
-   "titulo": "Braskem (BRKM5) dispara com acordo com credores no radar; Petrobras pode aportar US$ 1,3 bilhão, diz jornal",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbExoYXE4bjJtcUtYRzRSYURuMXpUb1RHME1OWl9GQnJiVkl4U21DYWNJdTJCeWw4dXNsLXNPVTh1T0xTcEZ1dVJUeXJad1l6UjJwSlZwMTNyeDJKc3pDMUluMnR5d1VSSzFSUDlOZVdqSTE0VVhfeU1pUENDSTRmLVlNczBjWjRnSVN4SGVuMzBQMnNyR3VLQldCRnl3YTBwS1JORkdPOGFEaFBVUWRLME9GeWJlYkJWXzNDZFBib1RRZVlwQ3dkbHl5S3plX3ZOdlBR?oc=5",
-   "data": "2026-11-23T18:23:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qetnt",
-   "titulo": "GTA VI chega com cassinos fechados e loteria na vitrine",
-   "fonte": "BNLData",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMzVKQ0U4R1FfZkw4bFVlUGtWODBaQldKNFhObk1DUGV5dWdibEZ6bWhralFVQVR0X1pnd3psLUM2cVVHRmNjOTNTNC1YOU4zSW1aTG9RZ1JBVXpHUnFMOXdDdFNhRnVUNnh0aVZoaVg2dmUyZy1zcGp2X2dhZGpOVk9BRTVIQQ?oc=5",
-   "data": "2026-11-23T18:21:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kj73tw",
-   "titulo": "O retorno de Jensen Huang à Nvidia o coloca na lista de CEOs “Boomerang” da US Inc",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuNExENG10N2hpTVQ4NFVXdkZ6eGJrenFiMzcwaTlISF9zT2djLUlMaXRLLW1pR1h4dlFESlEybEtpLUpHTi0xYS1UWHYzMDdyZjlzNV9WdDRkUnd5aDF6OHF1RmZQWDlsMV9oQzI1SjBJMzJCSmJB?oc=5",
-   "data": "2026-11-23T18:18:35.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xtqhiy",
-   "titulo": "Durigan descarta debate sobre mudança na meta de inflação",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTloyNDU2Q1ZFb1VjTVVMbGFjZnJOQ0treWZJX19uVjlZbWxlWml6c2ozdHRzYVc3YmxfdnJYT2RiWUNTVWNYZnFKWnVaNTVlR1ZfbmVzMUJQVm9BTk1mSTVtU24yVE1CU3R6dHI1dUJxUVlMOGNmZDlncTVRZDBwWjc0Q2tzSFNjRXNPdUlzNHRyeEdxQlRxU1czSXRkQQ?oc=5",
-   "data": "2026-11-23T18:09:11.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ak6y3h",
-   "titulo": "CVM suspende BRB: BSLI3 e BSLI4 deixam a B3",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONmZJLUgxc3cwUUJwMGdnZkhteUh4c25hbHJfM3FmUmdCckNPNzViUm5LaFA4eF9TbjJKc005dTJ6OTNNV1JUOFVXc3dRQ3ROV2ZSVzBDR29DbGY1MUdSeW5Jek5FZGNvbTJZNkxTbUwwZkg1YW9iOGpsalhndDI2TTRhRG5VUldrV0NpdWpSaXVScHM?oc=5",
-   "data": "2026-11-23T18:05:54.000Z",
-   "cat": "Regulação",
-   "empresa": "B3",
-   "score": 6,
-   "marco": true,
    "avisado": false
   }
  ]
