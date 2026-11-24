@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T03:30:25.987Z",
+ "atualizado": "2026-11-24T04:00:29.375Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -867,6 +867,18 @@
    "cat": "Lançamento",
    "empresa": "Google",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "l0ph4u",
+   "titulo": "Jensen Huang volta ao comando da Nvidia com apoio da diretoria",
+   "fonte": "Fast Company Brasil",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNel9zWEZzMnRrczRyNTVaZEpzSnJQLUxTX2NKcHRVaFowdEw2TlRfZ1V5c2NkM0xFN2JVV0JTbUNPWG5tZDhWSVJfeFprODlqVUFxYlZlY2JRVHR5WnFuYUwzc19FVUZYSHl0TzF5RG1sVm13UElfZVRwWUUxRTFfa2xSTlFWNmdTVF94ODlKZ1lTSmtnLWc?oc=5",
+   "data": "2026-11-23T20:18:41.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -1830,18 +1842,6 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1pxbpxt",
-   "titulo": "Nvidia reintegra Jensen Huang como CEO 11 dias após renúncia em meio a escândalo",
-   "fonte": "Jornal Opção",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNNmNIWmtwcWcwUnZUbkhwa3JPUVpaRTJ2Z3NhdWEwSHBCVi1YemxGQjVhZ0NGRTllTUhDbEJSMFJwTDh2SEVtdy0zUXNIV2NmakhWQ0lYaFV0N2dzUnZWRkNsZ19qMmpCYUdNZk9SWE1QWVp3RmYxanpIeUE2cEM0OGRtdnZZSUZtLXBDWlZpbXg2NlJSOFM5Zm9jeVNvU3ViUTA5NlNSUlRkMnVEUjZSYlA4RlIzVnY0Z0FyQ1U0X1dURFU?oc=5",
-   "data": "2026-11-23T15:08:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
    "avisado": false
   }
  ]
