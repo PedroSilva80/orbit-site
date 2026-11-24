@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T20:00:30.055Z",
+ "atualizado": "2026-11-24T20:30:30.874Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "sziqo2",
+   "titulo": "GTA VI: homens estão gastando 'milhares de dólares' com modelos de IA inspiradas na protagonista de game",
+   "fonte": "Extra online",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONzB1YjNsbjJHR1poZjhuQXNyXzlrSzJ1TXdpRkoxWVMybjhQVFVhUnYtazRpdVFXVXRlVy15UUt6eWN0VUZUQ1duRU93Z2RmNGVweGh1Z1pBaEs1eG5ZVE9zMHVvY2l1RnUtZ3Y3N0pFc2hmRWJ3ekNGTmhJR0RGYWU0UlhGZlE0NW9JeVh6WEd0QmVCMmU4Ymt2Q0FIcGhBX29YWW45a1ZoTnRpZFZab0dXXy1ZVkIzX0pydFhneUJMd080MnM4WXY5VFV4REg3bFBvblBoVWtVZWt1bVBScmlKaldmOTl3bVB3SURnUENBaWJsalV1ZNIBhwJBVV95cUxPZWVXUmxJeEFXTGVTaXNFLWdFUjZscms5UzhRZlpvLUdsV3A2VVR5RU1fbDNsQkp5T0VjS09RbE5xVkF6WnA2dkNCYTZIUk5pdkZBQXFQLVRJeTFMa0xJSU04QkR0LXVlS3dHWVFkYkY0d1RZazQ0bEZvRFZSS0J2QUlvcGNxTUlVdHU0ang0dGNjX1A2eHZDZWZNeFFJV0d4Z2pveW9MM3B5ZFRVVE0wVUdSNHlWNFlrR2V1STBIMFBVVndDUVVCT1RPbWdKOVJvT0dGSXJpbnJnUmlHcklGUkhSZXRfMjJEZnk5czNsRWNQU29YM3hUQlFWblBJWmdNSVNPcXJLUQ?oc=5",
+   "data": "2026-11-24T20:18:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "looroa",
+   "titulo": "Plano de US$ 122 bi da Petrobras absorve US$ 7 bi de inflação e câmbio",
+   "fonte": "Agência iNFRA",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko5TWhqME9xckJLbEtkVk4tLUs3WkFBLXgycWFDd2ZucFZSRVdPMHlMOW9IWFNnakNxbTlSRlZiUlA2RDZsRXo5MkdoTmtjVEZxaHE3OUxJZU1rbE01V05tTklNTU9FbnY2Q1FXQnByYlVHMnNoTDU1enBHa0tGcXdkWWVKMHd1UFQ1ajhpLWtfRGNCTVR4aWx6ZnZURGtz?oc=5",
+   "data": "2026-11-24T20:11:24.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "af8hdr",
+   "titulo": "FT: Os bastidores da ‘sala de guerra' que pressionou Trump a trazer Huang de volta à Nvidia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbWd2cHhGeEFYS2VOOXFUZHU2d1cwYUFiNlNqc1FwbHByMzJVcGltV0U2c0NBSEdTVzZIOFJlanhSbGR1WEtXV3JiOTlNQXoxV25RTUV1VHZBT0toVGNJY2xsY0dwSUt3ZzRuTzA5cTQ1QUU1YUpZQzhTamtnSTNvd2ZmdUs2YnhJN2Rac3dDRGI4dzQ4aWFMWk1OYkpYbm81UnhqenBJaDA1ZnRZbFp1OWVZUUNNSVNtTGlkNEhmWmJEcFNKMGZaZzN2amJNT0JXSk13bFJBVWVOYlQtM0d30gHuAUFVX3lxTE5Eb19VLUhGU1dKYU51N1dnWWJmRFZLUWJqVGQxVlEzMHhuQjRtcVR6bU5PTnk5V2RqbEw5d2tROE1QVEIxM2dSU1ZfaWVXa0NySDViQ09kMWo3S3dfcmYwbjlwX0VXemVheTNvS2VhTFRNZW1fb3JtcE10NERRcTlKYlpITGNoNi1VU0NwQlBjdTA1NVhtTjJTWDJtNEx3M2ZJeGpaaUpmSnNUaTc2bjAzbmVvTXZDLUx2TmZDSDJZQTVhY0JQaXl0clpCOHNkNEhjQmhJQ2NXLVFkQnN4RzJlUjgta0I3Yy0xNGhnSnc?oc=5",
+   "data": "2026-11-24T20:09:09.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ygim6n",
    "titulo": "Após saída relâmpago, Jensen Huang retorna à Nvidia; outro CEO, porém, saiu e voltou ao comando ainda mais rápido",
@@ -82,6 +118,18 @@
    "fonte": "www.jwave.com.br",
    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRGd1MV96dTExYmVSWEsycVQ4OG5Tak81Qm82OV84NXo1dmZNZ2VLWkpkaFJ2OGxBdlB0RFpUdVpDeTduZGdydkZYYU1oeXNldFU5M0F4VWZQTTZnY24tdmhBZURKTm8tdlFMUUNSald0SGVuRnNXeFotMzlxRVJMRU1tbWdEOTV2YnZZb3pTM2IweUpndGVPckRUWjRMVENLOWd5eHRFdFJUSkE?oc=5",
    "data": "2026-11-24T19:50:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1o2bpab",
+   "titulo": "GTA VI impulsiona vendas de jogos e consoles na UP2Tech",
+   "fonte": "www.bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVE9YaTVaNldhVEVkRDFVclFJczdONXVxWjZfN3ZqRmJCTTM1QkYtYmE4ZVB6YV9VY3NRU1FyMjhrNVFvQnlXT2dYa01DeEg1bWVtNmpHQVhKcDZCSlRXbTdCVHBLblNWaWFhR2Z0ZF82alZUNHJzdlNtUUx4bGVSWEs4bTNuOFdROEx6UE9mVHdJenRVR002cVJ6bWt1ZHc?oc=5",
+   "data": "2026-11-24T19:45:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -349,6 +397,18 @@
    "data": "2026-11-24T17:15:13.000Z",
    "cat": "IPO",
    "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-24T17:12:35.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -640,7 +700,8 @@
    "empresa": "Tesla",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795552230874
   },
   {
    "id": "10ssh77",
@@ -1784,67 +1845,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795514432234
-  },
-  {
-   "id": "tcy879",
-   "titulo": "Retorno de Huang ao comando da Nvidia e declarações do Fed movem mercados",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQaFZrd1NSN0dVaFhRNDdjaThBcEp0bFI2czNIU1lXXzBUeDFHMFJrLUlwajBKV2NLX2JsV3RCbm5KWlhzLVhmcTdwSmFHczZ3R282RmNhWWVxR2VWX3lXX0dOMURFSW9SbjAwQ2JUS200UFdjS3l3d2ZBM1F5Rll5V2RSRGJWQVRCSEV1ZXJfakJLQk5xY0JZbUdDVmpkNmJPaHFtUVN1U0lSNjd4b2M2bWE3a0hwWTdvYXpqRjB5Uk5pUQ?oc=5",
-   "data": "2026-11-24T09:06:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zz4974",
-   "titulo": "Amazon lança refeições prontas com entrega no mesmo dia",
-   "fonte": "BHB FOOD",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5TUnZsbFM1LXd6YnoxTnl5eVF0Vm55VHZzcWZ3eXZNTnpkWVhvYkRpU3JfcjRTM2hxOERNWV92MFBDaW5WaDNnc3liSW0wczhQVzJkLTFlQl9HSHdpMFk3ZUtUdnJGR2tv?oc=5",
-   "data": "2026-11-24T09:04:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1kpr08r",
-   "titulo": "Xico Graziano | O calote do Banco do Brasil na realidade do agro",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSFpmUkw5TWk3YXgzRllSTlM2ZF9QbmNVb21ZUkg5LU9TT3lqaXhyZXJjcWQydDZTYWZ2d3NKSEk3ZERweXlXQTdFNW1tdlp2WHRIanlPX2YtOXJjLTU5Nkl6c05kTFhZaXFyUmlHcEpCMTRVMVl0dWxvakloeGNsTUM3REJVaHlTR0p6bmpR?oc=5",
-   "data": "2026-11-24T09:00:58.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795530633982
-  },
-  {
-   "id": "14hy34l",
-   "titulo": "Fazenda corta previsão do PIB de 2027 para 1,8% e eleva inflação para 4,5%, no teto da meta",
-   "fonte": "MEON",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdEFNY0RzX3pzUDlWNVFlWmdHemktejhHQ29vSDMwaVpIc1JxdlkxRUhfZ1NJV0ZCX0trN3I5dVRMcG1SdE5RNnBVVGtGX0tpaldWQW50dGVxc1l2Zm1GVGVFb2RPbUx4bFUzd1FBeWlQWl9kODJRUUUzZDJWWkFUdXBNc1VwTkhObmFXaGd0b2pMN1lpejBtRzd3bXY?oc=5",
-   "data": "2026-11-24T09:00:32.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ee0h7n",
-   "titulo": "Casa própria com Selic a 13,75%: vale comprar agora ou esperar?",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNc0ZzUVZNSHNyYnV4OVNSU2pkU0NGakUtYjJDR253ZXRZM3BjN0tCVmdDNHROb2RZZ1ZaamxxZUNVVy0xM3FOTmN4VGFmZnRjZHhnR204YWI2Z05kNTU2ektINHBGUVNWODBtRU1fakdmN2pJMGMzMFgxaEJaQ3ZUbEpLV3M4czREeVhIZndXVUNKX2M0bURaenVZVjNjZ244ZHNtemVQU1lkY2hiTTk0bENGTDdMQ01ROEZEd0xhWG5MdTBwZ3doT2J1eEx4VFNpS20xeWh30gHkAUFVX3lxTFBXT2oyRWNSVGs0NHdnMFV6Z1JwTTg1TDhZMV82MWxsUFBESzYwd3g3OTJ2Qi1vWmlrd2pmTE1xY2dMYzRxRnVtTzBTaFA3MVlfemRSYkdTQkZsUm1aQ29WZjJPSFhXblY4bVVkX29HenFhcmc2ZHVyZm15anp6bURYZEF4cDR0bHNpT2dWeXNYemlKaWxiUFVqa1dreE84Y2IyNUdsbWY5VTFsVFJ2OXFJVXNqdUJ0Sm5URkpsR2tJbEJ1NGk4NEtNU0hTbWdrV092bW02eDdyWWkwX19NNnllVUJGbA?oc=5",
-   "data": "2026-11-24T09:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Vale",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
