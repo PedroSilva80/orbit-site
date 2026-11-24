@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T04:00:29.375Z",
+ "atualizado": "2026-11-24T04:30:24.848Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "157t3rx",
+   "titulo": "Nvidia ganha US$ 952 bilhões com retorno de Huang ao comando",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN1BTR1ZObWtUT2tZUVl5TUxIMl9ITVZzMy10TjY3M1dvbFhUNHJvaXBPc2pKRXhmOWViLUUxaGRRUVVBZV9nX2tidUEwRVN5TE8yMWloeXlpN1FaQ1Z4d2kycEp2Q2JTNUpEajMyODhTWFpYNmI2Y3Y1SVhBUmJPNmd4dWxGVGZoTS0xRVhQdHNlZjV1dkVCbUR3?oc=5",
+   "data": "2026-11-24T04:00:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "6koftt",
    "titulo": "IPO da Anthropic: preço da oferta, abertura e fechamento",
@@ -1827,18 +1839,6 @@
    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNekZvZlA3cU5RZHMwcHg5TDllR0E1LWFhX1VMSjUtaWpmdFdkNktzUUVVdjlFekZUcmwyd1lGMy1RTVZXTk5Gek1IMzZCM01BQk9nOGdLY1N5ajRRMHdkRUxRcTBmNDZrZ1ZhWkZiOF8xRGotbFFkbGdEQzBqR0EzMDZWcWVZR2FSOE11amJ0Rk9kN25VRTRKTQ?oc=5",
    "data": "2026-11-23T15:10:00.000Z",
    "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ck27r7",
-   "titulo": "Bolsas dos EUA disparam após retorno de CEO da Nvidia e fusão de US$ 44 bi",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQX3lyZzlDbklsSlV0djhkbDV0RVROQkFHU083Q01wTGJDLVBtd2F0cmZEX0lfa0lvZTF4YTQxZlJIeFc5aDlWd0JOZFFaTXhJRlVCOXlUYi1RRVp1RUFGaEZkNloyLUJQV3JVYXZHZ2x2QmZwQ29Pc3hJZUhGYXhDVl92WDlaYU4wVVlvTkplRlBKdUV0UGc?oc=5",
-   "data": "2026-11-23T15:08:07.000Z",
-   "cat": "Corporativo",
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
