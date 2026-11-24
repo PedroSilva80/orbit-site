@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T15:30:28.104Z",
+ "atualizado": "2026-11-24T16:00:31.047Z",
  "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "16v0meh",
+   "titulo": "Cogna dispara quase 8% e lidera as maiores altas do Ibovespa; veja os destaques",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTdnLTVJUTJZb3Jsck9tTGtnUWotaXppTEVwRGVoRzJZLUhqSzVqSGhERVRpM19heWZEOUZLcTdQSm50NVZyYm5iT2IwWktoTVVBRF95bEwxSnRfV3NZOUd6blZVX25yNWlNXzU2NlRiS1h2S0Q5ZFFwRkJrbnJDMVY4S1FFT1VsNXN6VURUZ1hPa3lYR3U1UXFGN1IzMWw0dGlKOS1wOE1zaFcyREg0N1RVUVVBQzlpcm91M3cyUUNCdEFlOFFqbWo5ZklKMmJLM0lLTFhIRnJUQQ?oc=5",
+   "data": "2026-11-24T15:57:33.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vavzj7",
+   "titulo": "Star Wars em oferta! Funko Pop! do Darth Vader despenca de preço com cupom exclusivo da Amazon",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEVLbzlSWjdJdl91RVFvQU5GeVhkVjFIOUhKUVBQTHRITVcyQjF2OTlBbFZGNG10aEZQZURFMVluUDduX0l4SVI5ZVFoMURKOGdVMTVXOEJDU0E4LUUyOE5kTFZ4T3VMVi1pT29HOTBCWUYySTVZQUZ0Y252U2QtRnQ3Qk1ma0JZVk96RU1yTGh6eHNGTzNzNXhFcWs5TGdzdVZsenl6YUJhb3JNbjI0VFh4VFpjSUlWTnNCX3pCSmhtZzh5VWRJ?oc=5",
+   "data": "2026-11-24T15:54:02.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1tunws1",
+   "titulo": "GTA VI teve cenas íntimas difíceis de desenvolver, revela Rockstar Games",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1JvMWhaX05MVHh3ZzMxVlVRQnI4TzlTSGczamx6WlllWlFyQ0JBb3FNVHh1aEZ0WDJzbXdQTTBXOW1RX1M2NGdIaHlSM2xZUmhDZTQzTUNhS21rRTVVamdjalNack5YUWVia3VLd0JjbVJKQ2djRkJjUEtZUnJvWjVqWHhrMDFMVVNxX0t5UTBMQVJ2VEozY3JJRDBabkQ2VHdhZg?oc=5",
+   "data": "2026-11-24T15:43:55.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "36kzoi",
+   "titulo": "Luta sindical marca bastidores do lançamento de GTA VI",
+   "fonte": "CartaCapital",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ25VZF9idXczdWtfMGNIVnE2cldRcDN0aWtoX1Z2c19obnRRV1lOa01Kc3g4a1N2T1A4RGdqVmpKUjVBOHc0bl9iZ2VwSlplVGd2U09rSldqUDdqUGpYUnBXN0FuX0JiZ0IwZGk0Z0F0VVV2dXNDMUpYaC13QVRXbUt3UWJTYTZrTlZqUW9XcGtSZVVVZzJEbQ?oc=5",
+   "data": "2026-11-24T15:41:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xsyn8",
+   "titulo": "Power Trip lança “Mutual Death Warrant” para trilha sonora de GTA VI e antecipa novo álbum",
+   "fonte": "Mundo Metal",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajBKQmVTcFExZ3YzM0F4enFQMzFwX1pBVnh0WTBUVkxER0lRdExScmx1alMwR3ExWnk2YS04allYYXNlY0tVT0hpRFB0M0hfeDl5Rzc3d3VKRUpuZkJEcThhdFhNbEFPZHZ5aFcxOWFqQjVqVEpMNEQ5cFA4Z0RPT0tBNDVvY1V3aWdCLVhERkhBX2s0UFBKbjM2ZEpQLVRNOWZtTEM1WmxveElzLTRBdDN4VXRNblZSMHfSAboBQVVfeXFMT2owSkJlU3BRMWd2MzNBeHpxUDMxcF9aQVZ4dFkwVFZMREdJUXRMUnJsdWpTMEdxMVp5NmEtOGpZWGFzZWNLVU9IaURQdDNIX3g5eUc3N3d1SkVKbmZCRHE4YXRYTWxBT2R2eWhXMTlhakI1alRKTDREOXBQOGdET09LQTQ1b2NVd2lnQi1YREZIQV9rNFBQSm4zNmRKUC1UTTlmbUxDNVpsb3hJcy00QXQzeFV0TW5WUjB3?oc=5",
+   "data": "2026-11-24T15:30:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13cyvkg",
+   "titulo": "Negociações para fusão entre as Tesla e SpaceX, comandadas por Elon Musk, estão em fase inicial",
+   "fonte": "Farol da Bahia",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaGV6VjNOQlM0WDZKTldrRzI2T3dkNWNnSzV0VlI4TkV0bW9BU2RnQVlnaWt1R2Rnc28yWnZNOTRNb0cyWjh4Z1Jjd3VISkE3Q1lfWEE0R0UxVlJEeEUwS0t5REJ3b0JUT3FEWnlmY1B0cTV5Ql9xZ2x3SUNIV3JwZEZvU0RzLVdjY29yNU44M01UQzFmOG1WM0pjZkFRanBsZW44eGZ4V1NhU0VNYlN3NU9ySTVOdnBVaVlvYk1kYWo3YUpQV2plUmlMb1BWUQ?oc=5",
+   "data": "2026-11-24T15:30:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1z0x2l8",
    "titulo": "Rockstar derruba projeto de porte de GTA 6 para PC e acende debate sobre modding e controle corporativo",
@@ -675,6 +747,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kcpz2b",
+   "titulo": "SpaceX e Tesla avançam para fusão até fim do ano; cinco diretores conduzem negociações",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTGJ5ZmJ2QkRHSmVGWWFYVFNPMk1OdmRFYWJhQ2x4Q0pfdVE5NnB3dGk4WW10R2hQdkhYTHk1RkFCbU9KeFRCSkl4VUxPellNd0tDUFQ2eVhvYnlTUklZUk16MU1vZw?oc=5",
+   "data": "2026-11-24T12:02:36.000Z",
+   "cat": "Corporativo",
+   "empresa": "SpaceX",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1760,90 +1844,6 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "tyj9az",
-   "titulo": "Anthropic: venda do CEO após o IPO testa confiança",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3psMTgtZTYtSTJSN09zcjZDVFNIWWRZN2hQVmxOSnVYOFpIQVVfUHE2Rm1ueEZwSm9EWEwyMW1ub1Y4M1BpdXR4bk1oS1Y5NVBVSU83V1IwOEVIamZiQ1FadHRFM1BtY2UwLS1yMHlrV0s2Uzhsa0drY3R5SWtObTdadXNZR3o4SlVuOUotcWlTclVyQWlyTFhCaHQ?oc=5",
-   "data": "2026-11-24T00:05:01.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1i9tt6j",
-   "titulo": "GTA VI fez Call of Duty e Fortnite perder jogadores",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkRhd3dYeWNWYjRfb203UDExNHNOdFNfVGttU3BvZzh5a29SOG1PYThsVXdyQ0FidEo2QzFxd2dUSFplZHpaU0p4aWJNNEhtUENvRmJ6SHRzWlhWaTlOb29xUnV3Znh2V3BoNEJqc1RhZXFPdE1vNWlvVl91Xzd2aVozSW9YNVo5Wnd2YzgwNkphZ21fYXdwUllqUlFsR0ttZXc?oc=5",
-   "data": "2026-11-23T23:56:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zwcvcy",
-   "titulo": "GTA VI esconde um enorme easter egg em referência a GTA: Vice City",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenJ6S3p4ckRHOXRsT19CbXByS3h6NmF4UVF1VTM1Z3lZaUdQNDNTckNQMFQ5U05lV1lrQUtkRE9tT2l5UVNyeFdOLURvSkpveFZDdlVEa1h6Y1pkLTRXM1lqLUlQSUVkT1JoVXdSQzJNLXRHZWQ2UFF4TnVYeVlQRVJuRlZTQi1uOHRucmozYm84ZEVmNlJBM0pOY203SVNMbEt5MzYyRXZlbDM4UHVJLWVPeEdVSXlPQ3dmS0VJY3NWS1BFTzltSkp4cnB4UHRCNTdhaFU5a1ZJdVpjS2pOQXA2eFRiUQ?oc=5",
-   "data": "2026-11-23T23:50:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xqv0d",
-   "titulo": "Há uma versão não oficial de **GTA VI** para PC a caminho graças à recompilação",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNbmR1ZG9KQUNVVTBxbmt1R1FqdTVRcXl4cXZoSjB5bjVKckJLUENIMXdRaHZ0RC1hZ2tsQkJsbnpIOXFsMEJCWURZZVpKTjh2S1JwaVFzMmk1ZWl4bS1idnhXblRWa3k0YVRuTFBzRGE1UzJTY1FfM2tXVW00WmVJWDRaWHFJVXJXVGV2eWVUek5obzRLcDR3bjU1bUZEd1pXMFU5VkdYc0Z1OGN5NERGME5VMXJJdDBGRzlLal9KRVFHOHBVTWR1eDZnQjJKbmRiOFpsQ1NHRG0zMldTdzktY1BPbGZpU2tXNGJVWi1uanhvVjJkRmJvcHJnNHo?oc=5",
-   "data": "2026-11-23T23:39:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "n0nfs4",
-   "titulo": "Grupamento de Proteção Ambiental resgata jiboia de 2,13 metros na estrada dos Fernandes, em Suzano",
-   "fonte": "Vanguarda Alto Tietê",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcXVCbDVHaDlRWW9UblI1VjFsbVBodHVPOUoyYzBQbnRkOHhOM2t2UmRZVkViS0djaVlWLTU4LTEzRk1VOGhsMWJ6dERhNHM5X1o5YUotS2l0eWNtUlNKU25YZkJGeXljQzA2WjRyMXkwOW1MZVVlcm9jYXRvRTJpV2ktYk9PSUJscXQ5VHZfY0U1MWNrMVg4WFU1MUhPcG9pUG9uekdTQTFyaEo5b2hUQmlxbWVNU1FwUEM0U1MwNXI4aWY2bGQ0bjZpRQ?oc=5",
-   "data": "2026-11-23T23:35:49.000Z",
-   "cat": "Corporativo",
-   "empresa": "Suzano",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rehl8y",
-   "titulo": "Atualização 01.002.002 para GTA VI está a ser disponibilizada",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQc2d3bWM5WlFRTVNxSXZxNlpVaHBIMk9zTFpYYWVnZnZPdk9sVm9Wanl1a3Y5YzVsalVoN3hrRmZZamtORmhUSl9adlBveGpsU0IxSmphWk5wNWp2bFI4U1ViQzRwYmItcXdZeFhyQXpaSVBXZWZEQlJXZHZ5TmZHcDlQR29VS1BkSEg1b0U0aDVQMmVGVW8yWUhVeV95d1d1T20wMC1meUdpUzlkYk1zMlpBWDg4d2lYUU8wV1JiNnFrNWZFRk9QVjBGQXRhSHlsNTBVOUx0QUNHYWNoOHI5RQ?oc=5",
-   "data": "2026-11-23T23:30:02.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "luoi15",
-   "titulo": "GTA VI vendeu alegadamente cerca de 45 milhões de cópias",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd19aaWhKWDRVbkV3cVNOcGpxZFZmWkNxYV9xdFpkbHFrN3lGLUJCd2Ywa2M3azRXZXZVZWVrS19kYzRwcFJBNE5fMHdsSlpwQTI3NDBtZTNPakdSYk4xRDA2WEhwY1R5UVUtWkpMOWVHYld5Zi1sdmVNLVZOanZNMUpycmx2bVJUTFFfS0tOWkJYa1FKZDBSbXk4X0ZQS1JhRGRvRmpVTk1GYjZEb1pRLVd3eGZHOEp5UU44ZlNrOEh1c1FFRmV6aGVmUm92RDZWU3I5bTk5MlpLdw?oc=5",
-   "data": "2026-11-23T23:30:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
