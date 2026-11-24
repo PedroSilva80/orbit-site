@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T08:00:33.468Z",
+ "atualizado": "2026-11-24T08:30:26.272Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1rqqbc2",
+   "titulo": "BASF prevê potencial de vendas de € 15 bilhões na divisão agrícola antes do IPO",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaGVMN3c1MkswY2JjUk45UndIWk43WkZTRDluUm43QXk2VThxSUFZNEl3bFVidHhvS21LWnVNTDF3b2E3R3RxVEFnc2dzdVNUV1ZOeXE1S3cyTldBUzVyaUF1MVpkZ1A0Y0NhMmswREhkX0xsTnY5b2E3eGV0LUxRNS1xZ1dETjRsZXNEcjd6MmplR1RhdE9OTHFWR3d4MGp5VEk3Tk1jemRXUXFIaC1kX1JLZnJBcXVFWDR6M0tTSHdScWM?oc=5",
+   "data": "2026-11-24T08:08:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uqzqhd",
+   "titulo": "Nasdaq dispara e sobe 6% com impulso de Nvidia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQR3k4aUx0SlgzVGVGaHBUdk96SWdudVFJT3lxSUlsaDhTQng1Y0MyYmlldTJmVzdaOENrV0k5Qk1WZkhIVTAtZzR6RmRxM3l0YVBLS2p1NFdndVBoMVZzSE9UMDZhZ1FZZk4tRUxNMEJpdFJfVlZnMVkyZ19yaUdGLV81TUhZRVZsWmNicjlBZ1RnanZvSnY5TG03NWY1Wl9CZVFYR19B0gG0AUFVX3lxTE1tWGYyN0ZvS29MdS1EZ0VxMlpvcFgxZDBXQ0wtQU1wNTljdHNKV1AwSkpkTFdBNFh6cUozWDFLSW9ZMEtRd3VGTlBuVzhhT254WkNXRXZKRGxadEFkREU3X3RJNFdralBmdVlYVUIxVDJJQlNHUFZRS0M3XzRSX2RrMF9kQ25wa21Kc0hoeG95R3A2TEEwNTBsOV90ZjdYaTI2VGpIMVZnc2F4M2NkRWkwNjlJeg?oc=5",
+   "data": "2026-11-24T08:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "xpuiy0",
    "titulo": "Por que Jason Duval fala tão pouco em GTA 6: Rockstar aponta Steve McQueen em The Getaway e Rangers do Exército dos EUA como referências",
@@ -1817,30 +1841,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vampuj",
-   "titulo": "Os pessimistas da Nvidia enfrentam um prejuízo de US$ 12,2 bilhões com o retorno surpresa de Huang",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBteDJXdDVETGNCOFR2OF91alUtZldNMlpsWGk0S3YtQ1VZbmx5UVBRR3pQeFR0OUpCWndfcHdCUWx4UzFDRGIzdkh2a3djN0lrQW1FQW1WWjZUZGc5R09hR0JHX3g5V0lGOVBlLU00S1ZQSkM4WjZZ?oc=5",
-   "data": "2026-11-23T16:30:14.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x0jy76",
-   "titulo": "Vazamento do GTA 6 pode torná-lo jogável no PC? Veja o que se sabe",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNVVmLV9ralNUa2lYY21tbHR5ZGpTbnA3a0Q0M1M3U2Z2dWhITndTeXV4aWdmZ2pzVndMQmV6UEt2dm95ckNqeWpKVW16QmlqMlhXSXlzdlp0eDZvakUzRjFTMHlvbHhyOHo3bWRNLVpKaGZ4aGh4b1E0OXhyRV9sUUJlRVBPdlJCYWQtWkliWjZsZw?oc=5",
-   "data": "2026-11-23T16:28:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
