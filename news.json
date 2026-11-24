@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T01:52:45.891Z",
+ "atualizado": "2026-11-24T02:00:31.370Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "ai79sj",
+   "titulo": "Petrobras prevê produção recorde nos próximos cinco anos",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2J4WV9YWnZobUdGdXFPSmdJQWtuWkk5QTZaWlFpY1ZycUt2NTJUd3dHamlxQS0wb0wwRExONGRKcXdyLU9WSk1GQW9FZDFLa1U1QkhGbDhJM3BUajVsdVZzZTNwUlBXNUtTcG9ab1k3UlpNVVlDUUV4aXI5dFN4bkstQjNCV3pHZ2VUYjQ2WUFxNDU4YmlRTTdBTWc5Z1otWlpCZHVfdW5mazhSUnZ2dWt3UjZpRFlNOW9fOQ?oc=5",
+   "data": "2026-11-24T01:46:37.000Z",
+   "cat": "Movimento",
+   "empresa": "Petrobras",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1phfk6c",
    "titulo": "Ações de semicondutores asiáticas disparam com rali da Nvidia; Coreia do Sul e Taiwan lideram",
@@ -193,6 +205,18 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1g15fr0",
+   "titulo": "Em reviravolta, CEO da Nvidia volta ao cargo 11 depois de renunciar",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUlB2TFhzbmwyblplWVc2SXdzNXFRR1p1a1VybnpIeHFZSkUzUGtWRzBndFdKTFhsckZfTnRKZjVPQm95dFVWdVdUeFFUMkRqWHJiamoxMmFaZEtkVnhMX0N6UGlKWVBoc1dsVW9YZi1Zd3NpUENfaG53Z0l0YTJ6R1hadGlhT0paNmpGZjBpdVYxTXNMVXYzRFRkbWQ1cmkwdy1TRE1JRy12QTNwbldJYkdvWXk1YkxvVmQ4YzFyNndjMWFESjVoNndJamVRMVNK0gHQAUFVX3lxTE5SUHZMWHNubDJuWmVZVzZJd3M1cVFHWnVrVXJuekh4cVlKRTNQa1ZHMGd0V0pMWGxyRl9OdEpmNU9Cb3l0VVZ1V1R4UVQyRGpYcmJqajEyYVpkS2RWeExfQ3pQaUpZUGhzV2xVb1hmLVl3c2lQQ19obndnSXRhMnpHWFp0aWFPSlo2akZmMGl1VjFNc0xVdjNEVGRtZDVyaTB3LVNETUlHLXZBM3BuV0liR29ZeTViTG9WZDhjMXI2d2MxYURKNWg2d0lqZVExU0o?oc=5",
+   "data": "2026-11-24T00:06:58.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": true,
    "avisado": false
   },
   {
@@ -928,6 +952,18 @@
    "cat": "Lançamento",
    "empresa": "Itaú",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ic038m",
+   "titulo": "Nvidia dispara 30% e recupera US$ 941 bi em valor de mercado com volta de Jensen Huang",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaG1WaWVUR0pEdk1HWFllRHJRYTRGM3R1QmY5ejZjQjJSRHpVeVpTWm5oYTlaQURwTHhxcHRyZjQxRGRkT1RlZkJ2c2RsNUo2Y2toUm9NbkU3S19BYjVhN3V0SlEzM2VJNVY4c3RzV3QxRk5PZFV6MExiSGozampxVjBYajZsaDJBaWhJejVRSmFZSzBuanJEd2Y4MTdEeGE5Sm1mWEJVRlpRSFEwSldxUjBGMkhFRU1vdHgw?oc=5",
+   "data": "2026-11-23T19:05:18.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1805,43 +1841,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rx7zbt",
-   "titulo": "GTA 6: por que jogadores estão criticando o novo título da Rockstar?",
-   "fonte": "Pichau Arena",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTDlYQ085VlV3V0o1ZE5Ybkx2czlJUG03MGVCSXlNVXBRN1MzTnFYUDBrUTN3SGZfNmdiMHJ2YjMwd0IzNXpIUHozdktRZnV3MHRmbnpJMzE0UUxZRXlhbUlEQUFvSk1qeUMtWnlWdE9nN0RWN2E3WUZLV3VrTFkwdXVFenVuUVU?oc=5",
-   "data": "2026-11-23T14:53:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8kgaoi",
-   "titulo": "Da renúncia à volta em 12 dias: a linha do tempo da crise de Jensen Huang na Nvidia",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcVJtYk80c2VoN04tOHZmY1ltLVFGTFR5aEhjcU5tcVdmcUNlMk9welhZNGFrakozSnFFc1ZVVnZLUzFJT0ZVbmZFWlZ5RHpTQzdOUEZTcmkyZC1EUHFWYlgzT2F5NTFYRGkzeklybUcwRDlDSk8yS0E5RUx2RVpYSFF1enpWSnllVlc4?oc=5",
-   "data": "2026-11-23T14:49:10.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795469431322
-  },
-  {
-   "id": "pn7ab2",
-   "titulo": "Campanha para que a Petrobras envie petróleo para Cuba reúne 60 entidades e lança manifesto no Rio",
-   "fonte": "Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPY3VPWDZPclhwelZVWmJfQWJ3cEZzYS1FTmJ2WTdLaHBMV3N3elVlQzlyYUt0X3NMSWlnWW5JQVFRYWRaZS1VZGdsNmtRdUJIY1dXRm9qcnRuVEk0UkVxX1pISlYxSV9NU043LW1Cb1RMdlAtZDl5WFVmbXJEX1JLMl9HTG41LW9HYXVrSlFJQUV6T2piOXFpZnpmNUUxZjUtcmdvS2sxQ2M4dTM5amVoV1dHcmNwSl80SkZMUVpoS3VUVUlleWdkWVRuT214ZzVXWml2ZUJIWmRTQQ?oc=5",
-   "data": "2026-11-23T14:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Petrobras",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
