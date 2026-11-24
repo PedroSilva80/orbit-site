@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-24T08:30:26.272Z",
- "agendaCal": "2026-11-24T02:30:29.515Z",
+ "atualizado": "2026-11-24T09:00:37.359Z",
+ "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -108,6 +108,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lco8sm",
+   "titulo": "Previsão para as ações da CrowdStrike: despencam 9% após aquisição da Zscaler, CRWD corre risco de nova queda de 14%",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZlJFV3pQakFxMkFNOUU2Tkl6cS1VTkZlcGp4QlJBd2dRVkNUaHpCYXAxSm5lYXVuRHI3blJ1dFBVaFZwQXluUXd2VVhzZHp0U0VidFFLa25Ya2hWc25CVGZZNkRHOHJUcTNUYmg1dTBmV1RNTHc0bmp2X1RkN2FjZjV1YkcyRG03T2FOUTNhMGlwbW9lUmlRUmxYSHpIYTVxTndLTFhSOFZsVzFLZnNwZGhzbzZaOGw3Q1dZcFZTcWZvUVZ1cDRVMFctTQ?oc=5",
+   "data": "2026-11-24T06:34:55.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1829,18 +1841,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "azbaiy",
-   "titulo": "Dólar vai a R$ 6 e Ibovespa cai enquanto Nvidia e outras empresas de chips disparam; veja o que impacta o mercado hoje (23)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUnBFcnpYbFk5dVdXOUZocHdRV0ZxY2ZyUTlXWmU2aVpWVFhHWFlzWUtnR3JNUnZpVjBmaVZMZGJzS3RYcktWOFhhU2xxNHpiTUtDR3NSOFdHRkdfbjZLd29qVTZKQW5FMUdvblJHY214dllKa3V3bHk4QXpGYnRwZkZXdGd5RXJZZmRMUzY1SUgteGlaa3ljZ1lpYmsxZzBQclJEc2M0eDZ0c2pQMGxkWE5YQm11dw?oc=5",
-   "data": "2026-11-23T16:36:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
