@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T07:30:29.910Z",
+ "atualizado": "2026-11-24T08:00:33.468Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -929,6 +929,18 @@
    "avisado": false
   },
   {
+   "id": "1hcm6j8",
+   "titulo": "Petrobras (PETR4) cai com petróleo e plano de negócios no radar",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRHRwel9mZTljbVloMWNXVlltcDUzRnM5TVh2TE9INXVERGR5aVJadFZ2LWt5dmlUeGo5MDlQUExZbU92M3dER180cEZtVjYtc0s5MEhMZXJyQTUwVk8waDRUYVUwaUk2Nl92TWxOS3FFeExCWGZVTTQtX0xWdXpTYndzODhtcVdPbWNwdE9HSzAyY2tkZFpsNTQxakVUMTZxSk5ZdTF1eTRnSGdIdlU0aTVkOG1UbFIyLUwyU2xySDNYanFJZzEzVG82SmhXTzNOcy1SX2pWdlFPSjg2WlJGeG1XWWTSAfMBQVVfeXFMUG9OYzN1RUZxWDAzUFlsci1pQ09uY1o1Z2FfZ1RYbW81Y01CT1k0YUxDMGhkZFdwZEZTTmx5SHQ3V2ZnSm1WcHZtRFdPSlhkdUdrNEx4YWhVT0dPRTNOQWw3aWdaSnpyZFVaZjA4VHQzeUFvSXhGWG9sd3RMLThlRmhmSTNaalhfcHI4UldYUWV3U1NodlA4MThWeGtmOFBqeXNqUkRpTHVUMnZUbTFRS3Y3Zm5CWnV5cGVHZDk2a01lUFNLTUdVZU4xLVczNVBRcXJ1NV9KdXZfS19NOV96S0lybmhwSHl1WXRZUzlXUHZOc2dr?oc=5",
+   "data": "2026-11-23T21:29:37.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "hk1cxx",
    "titulo": "Primeira música póstuma de D’Angelo é lançada no GTA VI",
    "fonte": "Assine Abril",
@@ -1830,18 +1842,6 @@
    "empresa": "",
    "score": 4,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j3meap",
-   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnA0cEt3ajJBZGE0aWxON2tJODdWQUhYQ29MOTFjbXNzcUlQQ3FJWlh2ZkN0SFRPNmlBT3N3TDl6UEc0d24yWVpSM2ZUTjJQeXY4SjY4akQxRGN1QUlWVXVPY1N0WTZRcmI4Umg1TElmRE9Td2w3LUZXQmhRMDJIRGYzRWxwLV84a2NKNEh2djQwQ25UUWRJMHFBTEktUVRXc1lvN2s4bW1ySHdtUTlKRm15TjlYcDk4MWEzdHJuTmVTU29rMkxMZ1ZTM3JXaVllb0xyX0VxRURnUHlTNWhEcTU0cWx2WHNPTlRFeXBB?oc=5",
-   "data": "2026-11-23T16:26:28.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
    "avisado": false
   }
  ]
