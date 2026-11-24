@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T07:00:29.833Z",
+ "atualizado": "2026-11-24T07:30:29.910Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,54 @@
  ],
  "itens": [
   {
+   "id": "xpuiy0",
+   "titulo": "Por que Jason Duval fala tão pouco em GTA 6: Rockstar aponta Steve McQueen em The Getaway e Rangers do Exército dos EUA como referências",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOa0hQaUpBTGZ3UTd1N2xvcjV5UFdMX3l4dTNPeENPR2pkbWV5RzJmYXpPdkFLSG9sVmhFTUl1eTl6OFVON0ZuN052aXlaR0szaVBRYXc4LVVtVnRIYi1IZm1XTFVIN2tpWDI3OWpYQTcwTkI2QkdtWjN6VWlkNzlhbDVRX1o5RU1HSkV0VmdEd2NYWUtELXR6RjJBNzZXOUViUHdxajhBVS1yXzJLcXpvSmxmaDhaX2dwSkYyYjJSeWhKbE1OZXJLTlRZMzZtbzhteGZTdWRLQlhuOE10cEJFVmFtaGQ4bHNCQVV1ajdnRjNhcWNnWnRMcnFpenVpWjJSc0sxdzNHV2NWUy1aUnc?oc=5",
+   "data": "2026-11-24T06:53:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "44kpes",
+   "titulo": "À medida que a versão de GTA 6 para PC se aproxima de se tornar jogável, a Rockstar estaria tomando medidas contra criadores de mods e comunidades do Discord",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOZDVoSl9qU2JadWYtN2JMV3FjVUIydzdlNk9ENVdIWUszdzNKU2ZNdHpqdmxJNEJ3ZVZ5ZjYxQk5jZzZKaXlHT29VX0NjOGwxRDI0blNETGcxMXQtRHZzdnR0RXJwYl9rYXRyaGR6NUc3b3RSX0F0VFVPRmpTR2Z5MnpOVDhFcWhBUXVtUW5rTVM1Z3E3d0NTSW5WYUhmNk9WNGFZMlJUUzNmWDNycS1ub0I2VEl6UVhLdDRJT2F5M2E1TzJxbWtrUlk5aDB4UHBfNHRZaDJOaC1TSTAzejkxRG9FUFI5bDlUOGRXOEFUcTZDWG11VFktT0JDdzdlcWplX3ZteUdIVGF1R3Z3Ry14VEtJdjVFWmF1OHVER21nR20zamoyTG8wRXR3?oc=5",
+   "data": "2026-11-24T06:53:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11igp4y",
+   "titulo": "CEO da GameStop diz que jogos exclusivamente digitais prejudicam os consumidores enquanto GTA VI é lançado sem disco",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOaTlVMzJVWk1QUDdadWJYQVdROXhHdTUxSk9aTmtGRHRMVkhBQjFoVnlQU05uOVJ2c3prX1lwOFNGeXU0MVpDbi13dnBtQ1lUdi0wdEQ2QzVmMk1sdmhsRUZpazltall6WDRlRjQzeDVHaS1RTWJFc1RFY1UzVkE0U3VlQzZyc2hwNkM3VGRKandPdE9wLU9hZ2wtbUxjbmJjT2ROOG5LWXNSZEd2VFAxVThLZzBkOUxaYjhURzlES094bmJwcFdwd2JQNk1HLUh4WmZoZ3FjZkRjcWFpSTJTd0daTkdOcGpDQmRtNm0wekh2Qkwt?oc=5",
+   "data": "2026-11-24T06:53:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cqepjo",
+   "titulo": "GTA VI roda a até 60 FPS no Xbox Series X graças a um bug",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNHZTLXhzY1JEQkJiU0VBTExPeEl1TWZralQtb1V5a2l6eFZRS1ZUcDFWelFvdXZaVmhQMVlTWm1Cal9kajlvX3Z6OXF2M1pVaFlFTXFtT0o3akRQaEVNMDNseGNOUDNvNlhLVmJSbzF4XzhYMjY0MmpBV3I2Tl9QcTNzVTlQb25UbGVEczR5N20xWnV0Y2xZVXQ3ZHBJRFFVQ0hnS1FR?oc=5",
+   "data": "2026-11-24T06:53:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ixy4gz",
    "titulo": "Tesla e SpaceX negociam fusão de R$ 20,8 trilhões até o fim do ano, diz jornal",
    "fonte": "G1",
@@ -72,6 +120,18 @@
    "cat": "Corporativo",
    "empresa": "SpaceX",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13xhdxu",
+   "titulo": "OPA do Santander: banco prevê concluir operação em 2027",
+   "fonte": "Nord Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRjhmM2R3RnVDcmU0NjVKTzZHX3E5b09YSGtTNG41aC1rLXljM2JUMEFQa3gwQUtHNjFPYmQxc3daVkpISlBVaG9XdGF2V3oxSkhsbzJhVmo2elR0ZWJnSGl5amNsREtJR2R5alRUaGhDTWdkaHZDUF9VNGlYeEV2N9IBhgFBVV95cUxQeG9YMGFnTi1LY3lTR2VPMTV4N3JRYS11WDJaOERXY1QtZTNGV3JVazVNS1BJbmtlX1B4a2FSQjY0RnhPM2VRWDFlRE9oTWx2djF4ZkRhT0FSMHFzbmlQUnZfd29WZlNybTVkT0dXNjNJelVzRHFwWXRzdW5YWWRXVDB2NzJxQQ?oc=5",
+   "data": "2026-11-24T05:30:18.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -929,6 +989,18 @@
    "avisado": false
   },
   {
+   "id": "14lg3pf",
+   "titulo": "IPO da Anthropic: Argumentos para valuation de trilhão de dólares ganham força",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU2dOQV9ldkJ0YTlKeDYtTnByd2NHM01Md2lFRzVBYXpPaGM4RWpad1M4RWhFUU4zb3VKb0NiS1poY3Rkc1NDMEl4dC1ZMUNKRWsxMmZaNUZSaW1STWp0M1ozTmZfekpCdk5FLURtUGdQWkFFWHg5dDNDOG40MnFlbg?oc=5",
+   "data": "2026-11-23T21:09:10.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "18z1vex",
    "titulo": "Wall Street dispara após retorno de Huang à Nvidia: Nasdaq +6,51%, S&P 500 +4,74%, Dow Jones +3,01%",
    "fonte": "UOL Notícias",
@@ -1770,78 +1842,6 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "qo38zo",
-   "titulo": "Alta na expectativa da inflação para 2027 pode impactar Ibovespa",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNnQ5anNBclNqdFNZYmRqTFpfNGFJenByM0RPRVRRakFjNDBIVmlyc0Y3cTg1RG40dTU5QWhIZ1JyYTJvazB2MXF3ZURQeEoyc3FuTFFfR3Z2cnY5aGFTR1UzbDBUNVg4NlNveVg0Vi1jWG9ZSGloRE1PVjZiX3NQbnZ6NkhpV3ZwVkhoSkxIS2NMQ1RBaEdTc0N6WnRXUnNvTV9ialFCeVFVb0lYVXNEQW1TZ05BdTRB?oc=5",
-   "data": "2026-11-23T16:25:53.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "g9hl8d",
-   "titulo": "Fortuna de Jensen Huang cresce em R$ 219 bilhões após volta ao comando da Nvidia",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcC1LZk1zMFRMMTl6MGtJSUJ0NHdUMDhoR3B3bHo0a3NBa2thYVNpUGlZdWRxUmtrRTlkSE5faWxWN09LVy01ZTFtVjRZSWdkNG80N3FDN3lpamZqRHdpYVlJa1UyZ0lZUnY5SDlkaUZRaEVMMjViZGNEUldsbFZJd3dOejl1dlBFT3ExRjlNMkxiTVR5TllwS1JmWU96a1JGUGVnbm8xSG9TNWk1aFM5TzVvdUdDMnNyWE4zatIBywFBVV95cUxNdTdfT2p6NS1kRE5oQkQyLXFpSVVCbjl3RE5fbk5uOUtCMnM0TmNaY0c1NmFEcGNsNGNlZ0RRR0sxaDhhNUNYMGQzZEp5N0ZuNDd3ZjF0Q2pHbTFobkNRM1NFSFVabXdLcF9zM1gtcUZoX1BBRXlCalJhUXhaX0F1dW9GM3AtTnVGZ21fRWlaaUw0NnE2WUpnUDRUVE9NRmVzRWtmemREVC15UEwtaktacVRZQkdETEkwZVlGZTV0NE5jdTNOZ2ltTzljTQ?oc=5",
-   "data": "2026-11-23T16:21:26.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4w3ufz",
-   "titulo": "Rockstar divulga notas oficiais da primeira atualização de GTA 6 e corrige problema no clima",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWDAwODdQS2ZUWUI4cDl3cFV2TlNXYzVkeUZsSjZ1N21UXzBrLTlWRnhBamE2b3d0bUJ6Qzcwb3JieGcwUDctUlh4Q1Fad28wdEFXM3dZSlNycnpGVUxNdmQ0cDZRMzI4UlIyVjR4ZVJQQTZRdTZZRl84aFJoOHducERtQ2tNSkdNWUJyWURiUktWNFBtOGdCbEd0MmpuUXBzNmd3aEtsZU1aRGlnMmJjS2lUbTlXZGhEaHYzczR0NVV6SWtoenNRSVB6cTktMXlsa2RBbg?oc=5",
-   "data": "2026-11-23T16:11:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hcm6j8",
-   "titulo": "Petrobras (PETR4) cai com petróleo e plano de negócios no radar",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRHRwel9mZTljbVloMWNXVlltcDUzRnM5TVh2TE9INXVERGR5aVJadFZ2LWt5dmlUeGo5MDlQUExZbU92M3dER180cEZtVjYtc0s5MEhMZXJyQTUwVk8waDRUYVUwaUk2Nl92TWxOS3FFeExCWGZVTTQtX0xWdXpTYndzODhtcVdPbWNwdE9HSzAyY2tkZFpsNTQxakVUMTZxSk5ZdTF1eTRnSGdIdlU0aTVkOG1UbFIyLUwyU2xySDNYanFJZzEzVG82SmhXTzNOcy1SX2pWdlFPSjg2WlJGeG1XWWTSAfMBQVVfeXFMUG9OYzN1RUZxWDAzUFlsci1pQ09uY1o1Z2FfZ1RYbW81Y01CT1k0YUxDMGhkZFdwZEZTTmx5SHQ3V2ZnSm1WcHZtRFdPSlhkdUdrNEx4YWhVT0dPRTNOQWw3aWdaSnpyZFVaZjA4VHQzeUFvSXhGWG9sd3RMLThlRmhmSTNaalhfcHI4UldYUWV3U1NodlA4MThWeGtmOFBqeXNqUkRpTHVUMnZUbTFRS3Y3Zm5CWnV5cGVHZDk2a01lUFNLTUdVZU4xLVczNVBRcXJ1NV9KdXZfS19NOV96S0lybmhwSHl1WXRZUzlXUHZOc2dr?oc=5",
-   "data": "2026-11-23T16:03:10.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1utur7i",
-   "titulo": "‘100 Dias de Mentiras’ bate recorde de audiência antes da reta final na Netflix",
-   "fonte": "Recreio",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMnlNWV9LeGlkdzk1WV9GdmttQzBEQXdZa1FRRHBTSzdMQi01eklicU9lcWhpaXBDMHE3MGFGeFVKaXRHZ3VMUDhXTkxJQ3N0cGZ1SFk3Z2t6T0F6UzNiS1VNaVMtbjdaYV9KWUQwa1BKMFc3eWJRZGJCcmJ5UU9rRzRScjFYRmNsNWQxRTgtQThJSUw4Z20waVlIOThNYjVwbVJ0UzlTSDBNTGtCby0xRmJhRE5pLS1zMzAxUlNObFl0WjFpa0hnV0RR?oc=5",
-   "data": "2026-11-23T15:50:10.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hhycl",
-   "titulo": "L.A. Noire 2 seria o próximo jogo da Rockstar Games, afirma leaker que acertou o final de GTA 6",
-   "fonte": "Arkade",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblFjWVRaaHZxQ2I3aXpkWEI2TEJIRERRZnhyOTk5dllUeXdWMVVGbGlPdEtxQmowTDFpMHAzMjhQRHlXcjR3Z1NWVWRWS3ktZFIzaUlWOXlQSmZGcWRWOEhvYllIOVZtREF0eE1kSzIteUdMc1BORnlBVnNkMncybjhWLUNOUlZfV3p2aktHLWdSQUtSTHlwMmFDSy1qQlhmTTc3Mkw1czM4VkhEUEZuWnBXM0VRZ1U?oc=5",
-   "data": "2026-11-23T15:45:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
    "avisado": false
   }
  ]
