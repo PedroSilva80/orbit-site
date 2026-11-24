@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-24T21:00:33.456Z",
- "agendaCal": "2026-11-24T15:30:28.104Z",
+ "atualizado": "2026-11-24T21:30:28.463Z",
+ "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -40,6 +40,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "m6ioir",
+   "titulo": "AMD leva Radeon RX 9060 XT até 4.837MHz e bate recorde mundial de overclock",
+   "fonte": "Adrenaline",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5wM1pTMGt6RXJvbWd6SU9FVHI3Z1BUSDBNSXd0WXAtUzYzRDdNLXM4RUdrVE85cExod1ZvblpOTWpzMXFxUHFZQXlhZnpvTDcwQkNlQUYtVUxVbTVXUTNRQ2ZMNUZ2NXAwblNVWFZyWk9pRlVINzUwX1QzSEZBby0yaWEzaWZUOHlpN1g3eGZuemt1THBfdDluWFhHdnVMcWU4akRZeWJCUW1oT1FN?oc=5",
+   "data": "2026-11-24T21:18:00.000Z",
+   "cat": "Movimento",
+   "empresa": "AMD",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1aw0jwh",
+   "titulo": "GTA VI esconde boate de Vice City com gráficos de PS2",
+   "fonte": "Legião dos Heróis",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkgzU0k3YVp2V1BfQktmLVAwNTZwb21yTDZKMkxqYXlsTnU3X1dNeHBJcXZqV1lkMWo1SVhHMXhSQm03VmhfWWJyZVdIeDgtZVk5X2V3c2lmYnBUY0V1eGtWVWRnWlBhMEdLTW8xMTdqcjFoRDF2bkZwa0d0aHlSUElwRE9CUFU2QUJfbTNQT3NuLWFqNTBTRHBseUpocnM?oc=5",
+   "data": "2026-11-24T21:08:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18nvnyu",
+   "titulo": "Sanofi compra a americana Insmed por US$ 41 bilhões e amplia atuação em doenças respiratórias",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHlWUUd5T24yZHhEeU5aZlgyU1RzaDdUMHNKcU1PcktaVzNmRXVkQ1JUYm1RNk5POE1IRXZaVnRoQlp2SjNiS2VpTTJGNFM1S0lhSV9nOEZyc1lDX2JkSTk0U2pXTm9PN2xfQUlPMjB2UVgxenc1MXg5RmdVNk1PdnZhRW8wd1R1bkdMYjlWX1hLRUZ2b1oyM1hRR1JyZG9ockZqTVkyZ2Z4YVB3V1E?oc=5",
+   "data": "2026-11-24T21:05:15.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2yq12p",
+   "titulo": "Dividendos extraordinários são um potencial, mas Petrobras não está prometendo, diz Magda",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONWRrTWlKRjJqb1ZSZFRqaTBvYjZ3OFNDQk84UmRvUGF3X3Ewa2J1azZ6UEN0Rm10VzFyVFl6eXdCSlc0MmVYRkJhZ2JIUkxNa3c5MU1PbWkxRXZZU3FZSW1kS2x2blNTWmd5TWVlYzl4WGp5d3AtWjEtYjd3bjZXWWJBakVHR3Q0clFVM1pjX2pzWHdDRnlSY2lkb0RNSV9vN1d6TmNVRS1zZTJjUFNnMXctNUd5akFBNFkyU2NFcy1WYjVtRTR4b3Jqekx1bHFwbGgteGRmRm92RW11MU5YdjJXVDNIdGVWRzcycg?oc=5",
+   "data": "2026-11-24T21:02:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7r1uxq",
+   "titulo": "Não estamos prometendo dividendo extraordinário, estamos aventando a possibilidade, diz Petrobras",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZHUyMnd1TDJOUHl2RUQ2Q3pCZzdXQzM4S0dMRVV4aVE5bWtlcmxpek1pWkJ3ZDBFeTBETFJZWEYyOXhHRFVaU28xTTlWVzJ3YzhpampfeFVxZ3NYRjBoSDRNNmc5ZmpuVHZvem15bkRTSkVBV2RIWUtGTzFiQXFHcjdXRzZ3SXZpbWZsczlqekxHbWItUWVFSTlzdWNteUR6MEtvT3RXenQyVG9VbmhOdy1ZeTZwckJsYUNCYjdSV0NUYTdsbUkyX0ZSOE5LMDJSclRSUlBLanFSa2JfZGoza0dkUllmcFlQ0gH3AUFVX3lxTE9nRTZOdkpNSFdKQWI0cUpVV2tXWnVncjMtRUFrV2tLTUZQc21YaHdMaDVYdDBhOWlpV2VmRlA5XzlwMTNHLTNOcjdaUHdESnNSbUJKWk1MV3lCTmlNQVQ5UWNOQzN5S243a1I4RE5kSmktRlI0VDgxQnlTSUgyM0FKTTV5dnlPcGdGYlV1UFNVVDNFX2NscTdFd2NBQzY2d1RXVnp4ekV0V3ZzWlgwWXJJVmpXZzRzT1JpZTA4VFU1bzkyOGtQVHZKd180MjE0S25TNUpLRVJxdkNnemRsV3ZubHhmUktPYjltZ1RMTEdacWxIbG1LRkU?oc=5",
+   "data": "2026-11-24T20:57:05.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1eppf0f",
    "titulo": "É falso que Banco do Brasil tenha sido alvo de fraude de R$ 256 bilhões",
@@ -1783,66 +1843,6 @@
    "cat": "Movimento",
    "empresa": "Petrobras",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "alx9bi",
-   "titulo": "Pré-venda de GTA 6 movimentou quase R$ 5 milhões no e-commerce brasileiro entre junho e novembro",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPRm1ETy12Qm1HYmZqTFREOXh5dGNWTjZQbktITVFhbXVpRTExSkNpX2hyLW9fTUZTS2RndThkY19IU0tyV1JRSnFGVjlaRVJTLTBoTmQ4OGtILXV1TFZJNm5ya25sek92TkdkUXlHN2dMSzJzLWp0Q29XYzNERzFjRi1yMnJfSjQwV05xc0RheVNLaGx0dkNXSW1xNjVaSFVFSEFBMlFXRS1iUUV5N0NDWlZaaEM1SGtBQnVodWtjUXZpUHFPdDl6b29xX1FYVjhVSndweNIB2gFBVV95cUxOOVkyOHBrQUlIc0NvV19YbzJYU2tDeGIxeE14d3hjWXRaZkF1TDhtaWxYYU1qNU5rQ2Z1VUlWMTlGeWx5ZDNXMlJULWczMDY3RHY5ai1nWEd4UnhaRG9QV3F3WG9YUlBFMW5YVTRNWDhyNVJqbFlrZTZOWjRZLXhDeFl4Z2lWZTZqQ1cxdmM2dE1renpYeHRicXM0c1JvQkpSbEhMd0xKMHh1RVdkUE9tRWotNkFKMFphMklzeVd1cVEwN21ubDQ4NzJBS2YzTFNxMXFwaG8tM2ZiQQ?oc=5",
-   "data": "2026-11-24T10:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12jdjao",
-   "titulo": "Ibovespa B3 recua 0,95%, puxado por cautela e petróleo, e dólar cai a R$ 5,92",
-   "fonte": "Rádio Guaíba",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONFBheWc5MGI4akdWN2FwV0J2NmZrUlhJVnVweDAtN2tkLTJTbVp6M2h2MTJrLVlIdHV3T2w4bVVCSGFUMUZ5bUtyM1BPUGYweEhwVGRtY1JuYUl0RW9aQlFkZjNtSW1TT2VnaWlDSHpmUGZxdWNzcERzUEk0cXVxNV9VQ19aQ0swYkF2MTBSVWRfMlY3ZmdFTVVR?oc=5",
-   "data": "2026-11-24T10:02:58.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qr7g4x",
-   "titulo": "Laboratorio Sanofi anuncia compra do grupo Insmed por US$ 41 bilhões",
-   "fonte": "UOL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVFZqS2Q4RGNEZzUydjlRaFVqZEMzeDRyazdBQ2lXZHZNZi14d05OeE5vZ0ExdTlwLXQtSlpoa2hwczktcVJiV08xOS1vbmk5TENpQy1FT0dvc2hwZ1NhSXdKbDM1OGhQSXIyWFVHMklzZWs1VDVnaWhUaElNaVZpMzBiWXJrUFBQRGY2RU8xOHBtRUdYeU9LZGF2ZTJVbi12ZDJHTUJXU1ZZd3N5QmQxdWF1VE5ndG1kT21CdUdtTm84WUhGNFJnNDkxMA?oc=5",
-   "data": "2026-11-24T09:58:20.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ldllbd",
-   "titulo": "Ações da Nvidia caem 4% no pré-mercado após disparada com volta de Jensen Huang ao comando",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPekoyZXhYMTJ6a2hjV2I3dVd0N3d4V2pjLW5tdnNvYloyWDRnNWNSVHQ0WWgzNEgtSVA0NlRHX0I1TG9CUW9Ic0hJWkIzeFFpcGY4X0l4ay1fSHQ0V1lVb3BQVmVtUDVsblFqZDJ6NzhQdjZLNzhQZnZuaVlXNUFMS1h6dy1sdmM3SzZ2R0pYbnFkbUJTX3lRcGl5VjJwdUF6em5lRkFsLVh2X2p3S0doNjVmOVJuUl8talFvQzRkSTRaSk95ei1LUUdXUFZxbGdiWjR3?oc=5",
-   "data": "2026-11-24T09:57:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qn65xg",
-   "titulo": "\"GTA VI\" é o maior lançamento da história do PlayStation, diz Sony",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBRNk5pOUk5RVlDdnJQcWUxUENqanBCWGU3UzJnakZud1owVk43UXAyYzZ0VnpLdEdsRjhadThIM21XQjNZUkZRRUxwcGdNT2RwQVB1LXMzanlQMmtzUjlYY1lR?oc=5",
-   "data": "2026-11-24T09:49:09.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
