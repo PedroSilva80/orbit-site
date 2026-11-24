@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-24T02:00:31.370Z",
- "agendaCal": "2026-11-23T20:30:26.533Z",
+ "atualizado": "2026-11-24T02:30:29.515Z",
+ "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -39,6 +39,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "10w9gup",
+   "titulo": "Compra da Zscaler pela CrowdStrike: CEO rebate temores",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOV1poQXBSa1lpeVRjOFlkRURrdy01ODZzanM4WGZEaHcyWC12NFQzbjRQRGFBM2FGMTc0bGwteEw3RFV1VWxDX1JSWERPQnB5SzVxVkxkeWhQUWVadGRBVjZmaFY3VnVRWUNCeHAtV0d4bGZpN1VZYU53NTZvWjVqekRzVXhiWXVJSHc?oc=5",
+   "data": "2026-11-24T01:49:47.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ai79sj",
    "titulo": "Petrobras prevê produção recorde nos próximos cinco anos",
@@ -1828,18 +1840,6 @@
    "data": "2026-11-23T14:55:06.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "b9b8pt",
-   "titulo": "Rockstar: qual será o próximo jogo do estúdio depois de GTA 6?",
-   "fonte": "TechTudo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdnRBRTYxZWdIOXp2MWVTNEZFaHZJMHF0WUdqRVlmNXU4SFV1SVI4bkRJMmNtc2UzaEFZZzFaaGJSa0U4VGlMU0VHaE9CR2lzQ1l1YkV5SW5XaDR4SU0ydHplN1JfWWRIdFdyNkZHeGpzNmp3MXN2UWFIR1EwcTRtdldtd3ptNGVtVF8yTGlZeWpRRWRmdnc2NHZTV0pWSzZsS3dmbUJ3b3ZJVUs0YmpTVmlBdExZVjdWdkZz0gHKAUFVX3lxTE9ZUDd4TUVsQlJwa3lNcUFzRnRSRXp6OWQ0REpMS1lMS21zMklOOUp2NXZRN3NfSk1UZXM2Ri03TVE1eUlvdl9KVVVmMzRaVV95U2hSNm9BWkY4dmFMZDluclB3a090ckh6QWt3a3h0X0ExaVFuZlVpWHp2Y2FJb3FWeUdDTnBqNjlQNEhicHotTTZlMkNKSFk2bmNROEJxUVd1WWxWT081eW9sSGtHbHUzbGl4dzdMeG1scWMtNXU2WmVMbUJHenRmemc?oc=5",
-   "data": "2026-11-23T14:53:57.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
