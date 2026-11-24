@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T02:30:29.515Z",
+ "atualizado": "2026-11-24T03:00:31.986Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1fsm339",
+   "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZU8xSXREd3RLT2M4TTFFNldfV21TY3NhaEdObWhlMGlUbjh0dFczNFZJWXBYeFFmM1kwVUNjUkJvQ1F6YlhQbVE0WFZ2bDhsQ3VERnEzbEdvT3p5UklOaW83c21HaGM1UWV6T3JaZm5ZOWFFVUgtSXNYalh3N1kwb28yWDBIOU9BcnB6dU1ZMEtYcEM0Zy1Ba1EzUWFRanY0MUttY1dqQ3VUQlJZR2dCSE9RQ1JxdWtMRGZycENlSC1tM2xYZjhYNmZEWXVTdV9Hb1MxSjI5QQ?oc=5",
+   "data": "2026-11-24T01:51:36.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 11,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "10w9gup",
    "titulo": "Compra da Zscaler pela CrowdStrike: CEO rebate temores",
@@ -1557,6 +1569,18 @@
    "avisado": false
   },
   {
+   "id": "1hcm6j8",
+   "titulo": "Petrobras (PETR4) cai com petróleo e plano de negócios no radar",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRHRwel9mZTljbVloMWNXVlltcDUzRnM5TVh2TE9INXVERGR5aVJadFZ2LWt5dmlUeGo5MDlQUExZbU92M3dER180cEZtVjYtc0s5MEhMZXJyQTUwVk8waDRUYVUwaUk2Nl92TWxOS3FFeExCWGZVTTQtX0xWdXpTYndzODhtcVdPbWNwdE9HSzAyY2tkZFpsNTQxakVUMTZxSk5ZdTF1eTRnSGdIdlU0aTVkOG1UbFIyLUwyU2xySDNYanFJZzEzVG82SmhXTzNOcy1SX2pWdlFPSjg2WlJGeG1XWWTSAfMBQVVfeXFMUG9OYzN1RUZxWDAzUFlsci1pQ09uY1o1Z2FfZ1RYbW81Y01CT1k0YUxDMGhkZFdwZEZTTmx5SHQ3V2ZnSm1WcHZtRFdPSlhkdUdrNEx4YWhVT0dPRTNOQWw3aWdaSnpyZFVaZjA4VHQzeUFvSXhGWG9sd3RMLThlRmhmSTNaalhfcHI4UldYUWV3U1NodlA4MThWeGtmOFBqeXNqUkRpTHVUMnZUbTFRS3Y3Zm5CWnV5cGVHZDk2a01lUFNLTUdVZU4xLVczNVBRcXJ1NV9KdXZfS19NOV96S0lybmhwSHl1WXRZUzlXUHZOc2dr?oc=5",
+   "data": "2026-11-23T16:03:10.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1utur7i",
    "titulo": "‘100 Dias de Mentiras’ bate recorde de audiência antes da reta final na Netflix",
    "fonte": "Recreio",
@@ -1817,30 +1841,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l2qbqf",
-   "titulo": "Nvidia reconduz Jensen Huang ao cargo de presidente-executivo, impulsionando uma onda de otimismo no setor de tecnologia",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9aNkFqMEltSGhBNFFDeUdtNmFSa0ttQ01aM0NWdmMyN3hnSG9WX1pDSTA2ZTRmMmdRMGxhbEJjeDhXMTR6NWRBQWlieFlhUHFKTjdmMkNrRERFOW52bndsQk53YllORy1NX1l6bDhBSTM2Wl80MXVr?oc=5",
-   "data": "2026-11-23T14:56:01.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a6kn57",
-   "titulo": "De GTA V a GTA VI: O que mudou na política brasileira em 13 anos?",
-   "fonte": "Congresso em Foco",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRXROODMwNHg4b0R2NHpBTnpHSXRXNUxYcEp3N05mUjJSblNEalJMNEZkVTBXMFJTUlg1YmxESFZnTDQwMGQ3MW5xb011dy1waE9Qa0tnbkhqblFhRmp2QmZxQlJEdGs2VGdYVGctaERYNGRQYkpZOWxzVzQ0cmpzaGFsZS1JOUdyTl93cW1vamR1MVlIdENRcVc5dS16SGY3NkwxNnRRUnE1TlpsZVZzaDdEUQ?oc=5",
-   "data": "2026-11-23T14:55:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
