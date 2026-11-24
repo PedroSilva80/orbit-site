@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-24T15:00:32.555Z",
- "agendaCal": "2026-11-24T09:00:37.359Z",
+ "atualizado": "2026-11-24T15:30:28.104Z",
+ "agendaCal": "2026-11-24T15:30:28.104Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -40,6 +40,43 @@
   }
  ],
  "itens": [
+  {
+   "id": "1z0x2l8",
+   "titulo": "Rockstar derruba projeto de porte de GTA 6 para PC e acende debate sobre modding e controle corporativo",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEXzE1ZWN0RXU1Y2lBVV9EYS0zaGltcDIzVnl4SkJzU1NyZ205RmNDenNWb2RabkN5LUluY2hiTVUwV0U5dEE?oc=5",
+   "data": "2026-11-24T15:10:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vhbb8h",
+   "titulo": "Com música na trilha de 'GTA 6', Azymuth faz show no Teatro Rival Petrobras",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmVYNjkwbUYxUVNMN2VmTU0weUpkNkRYQVBPVWxxVnpOTm5jU1dveGo5eHhWNFRrRVlLanhleXJSN21aTFRNWFBYOWJlbU0xVFdjSHM3MjJMaFBsaHJMaloydFdoTWhSQWhnYXZiOTV6bmlKal9ZdnJQUkhhV3R3UzE0ZW94X1VSMk9yeHZLNUlrZUlNTkViRm1lWldaYmkyYks0ai0zVlZPdnFKZW5yVUt5WXlkT3Z0c3ZLdGNpdTg4UWV2ZzE0VFh2VGRPOU9IRURV0gHiAUFVX3lxTE52ZWlyTzV0N20wSFc2ODdRZjJhVEtwS1FUYXJEbElGWUItQ2ozN2dxSWZFdUNOT1VibzJQMUZ4Y21URFhXZngtYUtEQ1FWY0xSazYydXRpdFJ0ZmpIeTNrUUhDZ2ItVUMxcmZldlRtZVJjQWt2YjA5NlhidnpvcHFzMVJ6YzQ3c2N6RGN5NTlJUkx6d000Njh4YTZ2Uk1VSWhRQ2tkZVhnRWZUYXJJSFhsaEhvMVFjVWtNaFYyXzQ3ZXRyQ0lUa0FVdi00aTNjSTdKX0UyVmdXeVBQNDhqb0doUWc?oc=5",
+   "data": "2026-11-24T15:02:43.000Z",
+   "cat": "Lançamento",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795534228104
+  },
+  {
+   "id": "1siz826",
+   "titulo": "Ações da Magazine Luiza sobem 72% em novembro após balanço e aceleração das vendas",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUGZVMThFSjNWcDAwR29vT0NPR3o2YTRkU1NxSGhINjFrV2hrQjN6Y1Y2WlhHRmljZFJ1OU50enFJOEhPRnR0YVNLUERlYzl3REo2MjZkaV8?oc=5",
+   "data": "2026-11-24T15:00:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Magazine Luiza",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "10ssh77",
    "titulo": "Bolsas dos EUA operam mistas com recuo da Nvidia e temor de novas tarifas à China",
@@ -145,6 +182,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "n7zoqr",
+   "titulo": "Dólar desaba e Ibovespa sobe de olho no ajuste fiscal",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeEZHLXFxb1pTWXIwQ3hvdC1BYkszMXUtOEVSalZwb1l5WGppVWludGZINjE3TVJVVFlmZi1BSnZubTNneVItMm1BeDhxbGNON2E0U0oxaXZrcXdmbEdyeGI3MlppLVBsd2t5b1V5MWhsbUhqRnE4RElScjFTYlY5eEVTX2hKbHcyd2VsRkV5ZFFkcjRnYXJYWkg1VWhrbkXSAaQBQVVfeXFMTS1RaDZnMDgtYVNldlVwU2dxUnE4eXdmcG9RR2Z2bVA4ZEU3LVpJMUlkNWpRUUZHUTMyTC0wUm1jejM5R1QzUmVpSE1kT2xOMGF6MzN3ektxRFYwY2k5emVmQkVhUmpHRTR5NUF6MTZxNl9TdXFIbHlyaTM1bTlQcDk1VUxVZ1NpN2VGZlBuVkxKYnZvb2VxSDBkcXBfeEdLUkliN3I?oc=5",
+   "data": "2026-11-24T14:24:08.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -485,6 +534,18 @@
    "avisado": false
   },
   {
+   "id": "940trp",
+   "titulo": "Ações da Anthropic afundam 7% e negoceiam abaixo do preço do IPO num dia de perdas em Wall Street",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkUycnJVR2RRX1lULUJKWEl4ZWJFYXB2R2JUR18yOXdRRklmSEpqVHQ0Yy1WUzIycmk4VGFuaHE0MUlQMzBRUWU2LTRUdnIzVDJVd1JEMndqOXVPZXNIZFJCZnQ1ZVhPNWg2Tl9xa243RGk3WTlZX3BjRnB0SXFGWE8wMGxqQUVrQUZ4bXVJaEFZTjNPUGNXTXQyYnJfRmkwQmpVYnFyUWo4ZFdlR2p1cmhqaTJvOFNYRFZYSWFmaDdvck9uY1U4?oc=5",
+   "data": "2026-11-24T12:39:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "118zs1x",
    "titulo": "Projeto que tentava “rodar GTA 6 no PC” é cancelado após suposta intervenção da Rockstar",
    "fonte": "Hardware.com.br",
@@ -582,6 +643,18 @@
    "avisado": false
   },
   {
+   "id": "qrsoom",
+   "titulo": "Por que a galera está obcecada pelo GTA VI?",
+   "fonte": "Capricho",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVhKR2ZYcW0wdDNsdmxiekVWS1Y5bmNiY2tHZFVXUjNjMUJzZTFCUTdHLUpoT0kxWk9hejJBNW9YVjlSWFZkd2V1NFR6Q3ZhR0ZnMG5fME9mQndvdlBvZ2puX2tQVDZmN2VPRDVUWVYzVjJJVkQyUnJnZzF6UzVVU3N0ckdTMzBjQlFNRGE2dDM?oc=5",
+   "data": "2026-11-24T12:14:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "16hzks8",
    "titulo": "GTA VI é o maior jogo de todos os tempos, mas apenas 3,8% dos reviews foram feitos por mulheres – e os desenvolvedores da Rockstar lutam por seus direitos",
    "fonte": "gamepad.com.br",
@@ -674,6 +747,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xz9588",
+   "titulo": "Petrobras aprova pagamento de R$ 15,60 bilhões em dividendos extraordinários sob o ticker PETR3",
+   "fonte": "Clube FII News",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTZaOEZDVEI1Nm83aE5FU2tDdzFPMUZqQnZfcWhwc0RISWNmbTlROFlodktUQWZzY3lwWHNGYjRnWmhGa1VEZEVNaFFfcGQtTmxhTW9GWmhjM3YtZVJBUmhaSGxERFZHMkdXRkduTzhXTXh2OTJkZVB6MW85RTFOTE1HZE9aX0VKNHIyeDNLclBSenktVVp5aVpuN01pa0xubkNr?oc=5",
+   "data": "2026-11-24T11:30:04.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -903,6 +988,18 @@
    "cat": "Mercado",
    "empresa": "Petrobras",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13oh9mn",
+   "titulo": "Petrobras anuncia investimento recorde de US$ 122 bi para 2027- 2031",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaGNNSTQzNkdRMjlrZXBnN09rVTBuUG9NNlNiVnFpWVlUYmxLdl9lRnNfbEJjN2pHYmFTUm93UDFrX1ZuQ1pIQW4tRGVZcnVpRFY5Y0NsVTJPd0x3aXFvNlpVZ1F4TDU2VXlWWkVYc2Q3QnVsWnI2UndkaXNMNDdZaDFmMlJrVHpzUGZ1WUZ5VTBHb0xNemtpRTBuUzV5Um1SV3VYU19VSWNrSmpQbUR4MHZXQ1FoRDhaNWo5dEhva9IBzgFBVV95cUxOQ3JETHRKZ0N1N090Z05Kcmg3MkpmMElZX283ZWV1VUdWZWMtek4zUHlmNjZla1E1bjNvbFdzTmkxWlE3eFNNSE1RRWEtWGFSWDN3ZTd2dmszT0ZzM2ZzbDJzc1FvSUc1QXl0YmlpV01nQjRSXzNrMDhsVkNsNExWdnR0OXByS3QwRjB5SEx6S2U1cXJsQldmWUtEaFNIOC1iNmhPYzFSSzhzWlB5dHpWdzBLUlNOUUFTQ3FvTXJrd0o2MWg0UjRFTmxMOUI0dw?oc=5",
+   "data": "2026-11-24T10:19:02.000Z",
+   "cat": "Movimento",
+   "empresa": "Petrobras",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1438,6 +1535,18 @@
    "avisado": false
   },
   {
+   "id": "7jgpba",
+   "titulo": "Jensen Huang volta a ser CEO da Nvidia menos de duas semanas após renunciar",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcE5PM1JuWmh0Z1hCTm5qc2ZOWnZoYzRpQW1oaEl0TWNmMmhsX2E4cVFQTWM2YV9WU1Z2Z2pmSGxpeERGS0hGSnp1dVdZTFJzaVh1ZklKc19QSDN3cVMwLUFfNFZEQlZiTExDbDI0eUFmWFh5Qkt5OEFDbTBieEN0STJ0VDY4QlJQdE1sdW9rUVVpTnA0MDZ1LWcxYnM0OE1uTkhmYTFnUm0?oc=5",
+   "data": "2026-11-24T02:41:07.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1fsm339",
    "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
    "fonte": "Estadão",
@@ -1734,115 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xwuids",
-   "titulo": "Petrobras mira produção recorde e aumenta previsão de dividendos em US$ 10 bilhões até 2031",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN1l4NEpzQmhJNV9jTXJHTkk0N1NfNHlsS2RPSlJhNjN0MFQ1WDdJalpkdVZZU2E2MlphcHFHVHBWMkJ3cnJVZkpqMzJjYzk2ZmJvQ1RqcjFoUjlTcGdoZ1JDV0RYdW1welNLV18zUGlQNE40NmVyUm5mN21vN1pCSGc3RnMzV1loalpMVm9wOUZMMVZrTWk3SEh5MDlNai13MUdES3RkaUJLbDByUnFmWDl1MnRqWGt3OWlsRDNZUjY1R1lMM1p0d0Nodi00Nk1rUmVfWlZia3BRZlVRaHhJQk9ldHpTa2xiN05qNGJB?oc=5",
-   "data": "2026-11-23T23:25:06.000Z",
-   "cat": "Movimento",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5rxyxk",
-   "titulo": "Petrobras lança plano de negócios 27-31 com US$ 122 bi em investimentos",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdTVNN1pTTnhlS19tXzVjVThrUVFZb0pLX1hRLU42YTdpZmxaa0pJUmVRTTRhSHN6b1BHeTdEMzBlYTN2ZUNGV0trdUstNGdhSzdOalZqWV9mTlNjMlh5SWcyMUlWeTdsdjJ3R1BlX012cDlaMEpMM1dvMFhlVGxCcFlWX2ZxM1RqNFY1TWk0Zjh4WktmYkt0aVRCWUs0TUpaTFloT015dl9qUXJVa04wRzJsdk0?oc=5",
-   "data": "2026-11-23T23:24:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "Petrobras",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "o4zyas",
-   "titulo": "CEO da Anthropic vende 3,38 milhões de ações em dia de estreia na Nasdaq",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR2ZURnprYXBOenN5SGtIUldoTzlQdmJHZmdxcWQwTHBhUDRoWmNxa3VUQTdWM04xYmdLVlRFcjhUV1NBZjZkbVZYb2tSSUFOVHI5Q21tbzRBNWdjdlYwd3BzQ3MxRm85dlVNLW1LREg3cFZiZnF2alhqYmVEM2pRaU9kY2hzQmo2Q1FyU0xsTVpKTW5NMmVBcWRDUVhnWlUxelhEdkR3LVpwLXhMM296SWZ4S0lzU054cGgxUEszZnkta1dscTJtd29JRQ?oc=5",
-   "data": "2026-11-23T23:19:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "kuwdt8",
-   "titulo": "Nvidia dispara na bolsa após restituição de Jensen Huang como CEO",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOblJBdGtTc053azNReTFMb04wV1hsYmpFR3ZiRm42QWtkVXUwaktVMVk4UE1XQUZOWWNEMHBaazdvNVByVXFRNW5rcnF1OEdjc0hTckdkSVB2Wm9ycC1jd09uS181RTdGZVF3cS1NOW5BNVdsamRRZnBjLThHM3lnZDBaZlJ6cS1kSWUxUlQ0ZHg3WEpVNFdrVjhHakZaVXZvR2NTb21VYw?oc=5",
-   "data": "2026-11-23T23:13:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kwu6xo",
-   "titulo": "Dividendos extraordinários da Petrobras (PETR4): R$ 15,6 bilhões serão pagos antes do Natal",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVTFxS00yM1RZM0FnQ0hpdjNqQXF4MW1xbjFYMWJDRXg3TmlBTGQzVmctRFB5NEtJT181TGRtcUtILTM5eG1jcmFMZ2FYQVBiRmoyUGlFSWxHbUsyTmFvUkpTTzZPRzM2XzVRWF9DMk9zOGxxS2V0N1hETFVlaWxTVDlaM2ZQTWd5TzBWZVM3aTR5SmxXbE80RGNzak1DVi1oUTR4TGN3bDB3SzJGYnByNEtMUlNYcGVQTWtUTE5tc0t5YU5PQ3dDN0NvTnRBU1E?oc=5",
-   "data": "2026-11-23T23:11:06.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795482033546
-  },
-  {
-   "id": "hqmknz",
-   "titulo": "Por que GTA 6 não tem um minigame de dardos? Rockstar responde",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSXBmOWdId2laRlNuQXhRaWkxV2JPbFkyRHJEdEpuTkF3ZzFFc0x5dlg2d29JbUVQVkdPSW5sTzZUSC02NHFJcnZ6QWl3MXAwTXZpLUhsSGRwS3NtdXdSLWRIQk1iYTZ2NnEzMFVhVWg3RlVyVU82S1kyS1czWU9YX1N0cjZkcDV5U0Ytd00zZjFpUmtXVk9WWjBJTmw3ZWs?oc=5",
-   "data": "2026-11-23T23:09:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17zjcxu",
-   "titulo": "Trump enfrenta tempestade política após pressionar por retorno de Huang ao comando da Nvidia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZkZDS2tSYmdZT3luVG5CbzJUMk12NG1tUk44S1hkWjNDa3Jyb2tiYUNKeVE2SkE2aTZSQ3I1anhLandXNE92emxkTmpDd1RqVFB3elhxLU5rWmxmQWU0LUJ3VFl2Z05pTExRVV8yWUE5eVE1WFpJTzYtSXUyZXRBWkFENVpoeTdSNW1EUlJVdDc0Wlp1WHZ2SERYNFFXSl9rQTdlbjE4M2gyalNIRjQ1NWJGSGJfM0ZQUHVFSXF5SjlJZGNOSWJlU01kUmN1MG1MemdXUNIB2gFBVV95cUxNcmtuaGtiamlaUkFLUGVYd0Nfc1ZiTWJzSTdueWZaSXMxbmJHNjFWVjk3LURWZFBuZHBhNXhRMEVZT3ZkLUlBenVtekpZNTBFeWhDYTZoWWNNUmpXNWdMT3FqQ282SFdNRmtLWDVKalowMXZzMjlEd21Bb3hrNTZMekd3VjNWT2FvRUllX05kT1JtRGZxZFp2NUt2dk52QzkxVENZSS15ampUb01oSGYzbE9LRW5NZ1A2dWJMSHE0UDF3ZDFmMDN3QlNRdm5rSnRXVzNBMnEwcVRCUQ?oc=5",
-   "data": "2026-11-23T23:07:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mcwdik",
-   "titulo": "PETROBRÁS ANUNCIA PLANO DE NEGÓCIOS DE US$ 122 BILHÕES E META PARA AMPLIAR PRODUÇÃO DE PETRÓLEO E DIESEL",
-   "fonte": "Petronotícias",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR2h4TU94VFRPV1d6eWdGcDE4c2hnOExSR0xmam11QkRsdXl3eXVnSGVRa2x5Y0NVSTk3WUdjaXFmSFdIM1RxTGIyQzJYQm51UkgybmI2VHpPa1Y5UmR0dm9PX1VqQlRsdVhaeUwxS3k2Y0dZVEpLNTBic2wzR0ZjSWxYeTNWanhENHQ2N0l5WnRQUmpMdXBnZ0tJSGdYaGp1anJZTWRRQWFHWVh4bE1TbWRxUUlDOG82X1RCdy00bk1sR1AxRHl6TTQxckVWZw?oc=5",
-   "data": "2026-11-23T22:49:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jl6ttz",
-   "titulo": "Petrobras aprova dividendos extraordinários no total de R$$ 15,6 bi",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMzV4RHpOYVcwLXU2Y2tZcEhBeUNyYXhhNGk5SURHUmFiQ0ptbTIwUHduUDdiMjZPNkExeHVCREl3UW5fRUtaLUJEdFpLR1JtRjFlTDB1YjRuVm9JWkkxQzMzQmRBbGVrZEhHR2xxdkRKczJKUi0yNHMzd3NPVlE3VHU4Ulc5ajczcGlWT3doYVBKV2ZMQndITnlXREkzSjJrYXVLNlZJcmJRaGl3WndzQUNneUwyR1lBZHUzM0sxQdIBzgFBVV95cUxObENZVTlWZ1UwMHFJakVrN3h1NG83QXU2aHhwUmZpTUJRTnVZSF9ZREpLckpmbWtyZXZoSDFRVjBmVllrZzhXSFFkRWFuam1nOUtSNmJrOVRYQVVScENiRllPMmQ1UHVwTVduN2Z4Zk5DdEJmT0hIQnhfMEdaOHR1bExWeUlONmRwamNQMDJzYjlNdDVGY3dIb1FBUDZSQnVKYy1taUVLa25mUll2Q1hOTC1RR2hSbjlCQ1JqQ29kazljU3ZqdnZrZDhBVUhuUQ?oc=5",
-   "data": "2026-11-23T22:48:52.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
