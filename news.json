@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T01:00:33.546Z",
+ "atualizado": "2026-11-24T01:30:26.327Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1p2d2ag",
+   "titulo": "Hacker do vazamento de GTA VI é condenado e solto enquanto Rockstar soma bilhões",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5penBJTEFNU0xvbUlJWTNlbjFuYzR5X3RJWHJFcy13aWZXSU81YUpMNndHSU9QeEJTMGFLX0RKb2dRZWlkZ1E?oc=5",
+   "data": "2026-11-24T01:10:10.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "p1apuc",
+   "titulo": "GTA VI: como conseguir carro rosa grátis e garagem extra no Capítulo 3",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vX1NYb0F4UHVvMXZaUjgxQUwxTFRBaU91TW5yUDZiQjRYSG5WdVZOZWtmR2diWXVOczlQdUtFVjlWZlB6STBhMDNtZm5aUEhmMlFQb3VldmxDN0NIWTJSdFU5eE1vcVJvZ1MyNUo0eFFjb0VjVUsycjdEdUF4UQ?oc=5",
+   "data": "2026-11-24T01:09:03.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1r3wg7a",
+   "titulo": "GTA VI: 8 configurações para melhorar controles, imagem e interface",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5RVzFfbmRrZmc0QjVoNzlXRHJUaDVGcFZUUUNoQXJyaFRwSGZIR1ZsRzRuckU1U0pkVVoxVjVMbmhWTHNxSzl2V3RLR3QyQ3poLXpiR1NTWEdtTHl0WTBZTzlhbVZLY0lPclpyUkJYUS1fVWRPajVsa3k5SHY?oc=5",
+   "data": "2026-11-24T01:00:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "815f7o",
+   "titulo": "Trump é alvo de críticas no Congresso após pressionar pelo retorno de Jensen Huang ao comando da Nvidia",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNb2t0eVA5aU43OFN0a3ZCNTZoMENtTVNyMzVxYUROOTBLaFBQUXdtRXNHQTNrMHYwbGJwVlhyWF9CQjlsV1ZxNy1LSjg4YjEwbFQtb2N3dG5CZWtoZ2FZWUlvQmdVdGVCSUFnUUZTXzR6dHEzSWhEMXZZUklfVi16amx1MHo1VFRTLWtoTUF3aFRqZ2pCV2ZwRGlKZG9nRXlVQy05eWlPdlJCTWhuWlJoVXFnNl9jSXVJbFllUQ?oc=5",
+   "data": "2026-11-24T01:00:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4tapcn",
+   "titulo": "Nvidia bate recorde de negociação de opções após retorno do CEO",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOXJUOHg2UjNwR0pKZjU0UXFhZXhaWlR3Mjd5YnBlZ3BjdTRkZ1hIMXRCaWh6a01wRUQ3dVhWWFZLb2Q3MUJQVTFZQ0w2ZDRmN2xLZUo5MjFTZzAtZmJ6cGE0ZmFGaEVJbjRBekRZRTJDQ2haQndCdlJWTVU2R3dsb1NtazBoS2dwb01fcUpDMlY1V3BJT0RlZm1mbEEwZ0NTdEhnVVQzaw?oc=5",
+   "data": "2026-11-24T00:57:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "yc5xos",
    "titulo": "GTA VI impulsiona em 69% a venda de consoles no e-commerce brasileiro",
@@ -105,6 +165,18 @@
    "fonte": "Instant Gaming News",
    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNkRhd3dYeWNWYjRfb203UDExNHNOdFNfVGttU3BvZzh5a29SOG1PYThsVXdyQ0FidEo2QzFxd2dUSFplZHpaU0p4aWJNNEhtUENvRmJ6SHRzWlhWaTlOb29xUnV3Znh2V3BoNEJqc1RhZXFPdE1vNWlvVl91Xzd2aVozSW9YNVo5Wnd2YzgwNkphZ21fYXdwUllqUlFsR0ttZXc?oc=5",
    "data": "2026-11-23T23:56:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zwcvcy",
+   "titulo": "GTA VI esconde um enorme easter egg em referência a GTA: Vice City",
+   "fonte": "Instant Gaming News",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOenJ6S3p4ckRHOXRsT19CbXByS3h6NmF4UVF1VTM1Z3lZaUdQNDNTckNQMFQ5U05lV1lrQUtkRE9tT2l5UVNyeFdOLURvSkpveFZDdlVEa1h6Y1pkLTRXM1lqLUlQSUVkT1JoVXdSQzJNLXRHZWQ2UFF4TnVYeVlQRVJuRlZTQi1uOHRucmozYm84ZEVmNlJBM0pOY203SVNMbEt5MzYyRXZlbDM4UHVJLWVPeEdVSXlPQ3dmS0VJY3NWS1BFTzltSkp4cnB4UHRCNTdhaFU5a1ZJdVpjS2pOQXA2eFRiUQ?oc=5",
+   "data": "2026-11-23T23:50:48.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -290,6 +362,18 @@
    "empresa": "Rockstar",
    "score": 7,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1enbbjk",
+   "titulo": "Jensen Huang volta ao comando da NVIDIA duas semanas depois de renunciar",
+   "fonte": "EpicGeek",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM3gza0JkOHFRbVB0OUNMSG1vdDdXRnhEVDhmUm5OTFBUTmcwb29xYmVRR3JOZlFKWXFmS3Y2NUlVY0VySHY4aElRQkR1eWg1enlBbEtMZ2MwVDhITmRqRHBtbTdZVjFVaVBBUHlxb2ZrRTFaNWcxdXJqU3J4czRwbw?oc=5",
+   "data": "2026-11-23T22:29:40.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
    "avisado": false
   },
   {
@@ -591,6 +675,18 @@
    "empresa": "Rockstar",
    "score": 6,
    "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jt6e2y",
+   "titulo": "Nvidia reconduz Jensen Huang ao comando da empresa após renúncia",
+   "fonte": "Creativosbr",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVNZbjJ5d3hOOTRPTTlYelh0eThRQnRqbVlITTNoczlGV2pRMXZzRWpMT204ZG5GX2NqU1JFUkt6a0tmZnk3Smp1TFJmWXlXdWlqdVNtemhxTWZsSF90ZW1rM0xvLTFTQ012UTdnSE1GY092NkZBbGtiNHhaS094RWt1UTlJNzVnMzk5cklDMzJiSTFLdTA4?oc=5",
+   "data": "2026-11-23T20:30:47.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
    "avisado": false
   },
   {
@@ -1024,6 +1120,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xtqhiy",
+   "titulo": "Durigan descarta debate sobre mudança na meta de inflação",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTloyNDU2Q1ZFb1VjTVVMbGFjZnJOQ0treWZJX19uVjlZbWxlWml6c2ozdHRzYVc3YmxfdnJYT2RiWUNTVWNYZnFKWnVaNTVlR1ZfbmVzMUJQVm9BTk1mSTVtU24yVE1CU3R6dHI1dUJxUVlMOGNmZDlncTVRZDBwWjc0Q2tzSFNjRXNPdUlzNHRyeEdxQlRxU1czSXRkQQ?oc=5",
+   "data": "2026-11-23T18:09:11.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1734,114 +1842,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qfir6i",
-   "titulo": "Nvidia anuncia retorno de Jensen Huang aos cargos de CEO e presidente",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNMXNhNWtIYWhKb3dZbVFSWDY4dnhIR0g5UTJuUGxnb2hvMHNoSFpGdkp3bVk0QVhjRkFweGVtRG9URkgxWWRfZURBSXNGY2lWUjRRMXpUNTk3bVFqbFFURG9PdGZRY1FCM1dJV3Z6NmcteHNJU2N6blhqbEZ6ZnJWM3FaNjRKUTh1aW14VkkyZ2lxZU5RTWhHbDIwWFgyNHl4UGQ5WkZoOHFleWJlOFBJNW5WajE3aWxhRElnUFQ4VVlpWS16OW1qUlVYLTQweDNuRnJ6czg2ckpxbC1iYkVQUGdiVTA2UlU5Y2lj?oc=5",
-   "data": "2026-11-23T14:44:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3i6nrr",
-   "titulo": "Nvidia salta quase 30% com volta de Huang e puxa bolsas de NY",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQWGg2RGhaSkt4TU1zVzJLQmtFX1YtdTV4Y19NRV82NEl5bmVudkp0OThDZlhTQnNwR0tkWHhBTXFfZXVpVFJZWi1WS1h4bVF2UGFoNlZjcmZQOTdQZ1VYVXpfaGZ4a2ktV0tXd25yYzNuM2l6LUZKdE1vX2paS0NYMDdObzF0NHV6V2VlQXdnU2N3TjAtcUtsSmVIcVM4dVdWOGV5WUNhVkFvN2pKd0x4M2cwOGRpTE5RaHlQV01vTkpzN3lmWUd5X0RfOUtYYkJzMTQyaEktYUdYamZkMWwxM2hEVVJ2UXVzQkNwU2x4SHN6bFJweVIyb1Z3aGRodEpaOURzcm83SFU5WlBXWWZfY0NlRdIBogJBVV95cUxOLV9wcFphWFZYVllxajdxbTdNWndUNkVabTVITkcta3l4Q09PQkloeEtCYjVHWjZuODJ1OHVoLTlGMzhHRk05RVZxa2tTQUVoWHVmY2U2ZW51cU0ybUdPZGF1ZjF2Z2dwbWFHTENoMmo1cUZyLWFteEx2ckI3ZTdvTFJKQjVrLUpWVU9wXzdyVjZmQkpDdVByX0lzcGpsUHY3a3U3bXBJMjg3ZDMxYzAxZEVNQWtqM2U2cFRkU0xOazlHNW04STZlTGhUbVV5MGU5dmQwSHBHSEJycnJ4U19GZnJCTVNyOHNYYTlFS0Q4NWFqTjlld1VyazZYTnItaGdwaUhYSl9UdGNGQzlJWm10bGtFQWtrdTRILW96X3VaMVVpdw?oc=5",
-   "data": "2026-11-23T14:43:49.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vzh6s8",
-   "titulo": "Rockstar já trabalha em jogo inédito de grande franquia após GTA 6, diz vazamento",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQazNKT3dVQmo0cC1tOXE4STlSWk1IWkV5NU1fWkdoc3kzWDNJamRhdE1Xbzk3MFdvV2RMVGpDTG15TWNqWV9JWkNCdWxYblBlUnhOYlpXdktxZVZib2ZpNGlPSFdYa3FtbGFlVVY2OE40V3J6dWgxcTJDNzVJX2g1VzU0R3IxTVFrdlNNeEc4b0JpLU1MbU93LXE2Z1lGZUU?oc=5",
-   "data": "2026-11-23T14:42:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j04i97",
-   "titulo": "Meio-Dia Mercado: Ibovespa cai e dólar atinge R$ 6,00, com risco fiscal e juros altos. O mercados americanos disparam com a volta de Jensen Huang como CEO da Nvidia",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPNVVjMUFTZW1BVS1RWFJXMUhHY203cUlPNFFZVzVhVDhTSi1jZERqdm9RcmJaOE1NMEVIdXFIdWhBcmtrT01DNlYwc1ZadXRTM2x2UmQ3bm5PU0hnRmZlclEwVW91dmliTUFvQU5UNFFYejloa21zazc3UFpKS0xDM1p0WVBWUzNzeWY3T3hHZjNBN3F1QUpMMUdxZDJCdzVMclI5OFRrVnJ0ZmRPQ0hjRXZnOHlSZ09KUlFSOGh5eVFfWE0weFdIWkQ2anNwNVAxdXA5aTB1ZldGaTdmcmZleHVhclI5MXZELXVQcGVxMVMzSmpveUduRl9uN0lMaFhUbVFTOEYzdDV4dzdGZ1BsTkJtNGRFWi1hUldpOVc2MTJkdw?oc=5",
-   "data": "2026-11-23T14:41:31.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13eb869",
-   "titulo": "Wall Street abre com forte alta após Nvidia reconduzir Jensen Huang ao cargo de CEO",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE00QlFBYXhRM3A2MFdTajVLckJhOGE2VS1TOVhmVjY3QUhpbjJKNVB1aWRwTE1NSUMxN0RNVzlqY1pqWEhHRmlmdnJwcjk4aGo4RHpNWVp5RU55cFhYX05JaU1vbWtydUpabUtabGFmTS16ZVJGbmJr?oc=5",
-   "data": "2026-11-23T14:39:44.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "124r9vf",
-   "titulo": "Investir em IPOs pode trazer riscos para o investidor, diz economista",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ2NHV0QtTHNtRGR0bmtLZUNHQU9XaGNJRFA5ckJIM2dmMURqMUZWUzE5T1dlaVQ2aHhJZmV6S2FSQXhvTzh6ZXZiN0tQb1VhamZ2Y1YxN2JnR25yQ3dzeDhuTW1ZMW1GOVlDSkFveW5VT0ZMcUZmN0VReU9zeHZueDJRcEk5UER1VmtKTVRXRHRPc0FES01ySmF6WDQwdzN3c0pqQWEtV2tqSVJzRXZsRmZ1TDJsV3NQanBGR0dn?oc=5",
-   "data": "2026-11-23T14:39:21.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qav0yd",
-   "titulo": "Por que as ações da NVIDIA Corporation estão disparando hoje?",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNTR6YVh4M3ZlVXNLYjh4clRHTU1Fd3Z3R1IzU3ZkRFd4NXpMRDlhOFBMSEhMbG44bHFWMXp2RUZMY3RKRWpUaW03UEwwamtXT2pUYWhCTHNoR3l6R2ZqVlV4bmFfX1hPSno0UXI4NDNDNU9mNS0tWThDbTUzV3hPM3NhSnREY2RROXVNN3lsXzdYUzN4YUxkSXJUSkpneXVBbFdEVDhpQmFBYUlvdFdDb0lpa252Q29FSTFCNlB3?oc=5",
-   "data": "2026-11-23T14:38:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1akdarr",
-   "titulo": "Cobre e estanho se recuperam com a Nvidia reconduzindo Huang ao cargo de presidente-executivo",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gd1dlblB3VmxMbXZFRnJKejhCLWN0bHd1VmdFcHhKME1KWHBIaDlMbzFPU1d5RGRzbHR6b2ZhbkppMjZFUzQzcFNBZVEwUHgtdFBaWGQyODc5VzBKRGV1TDhvb21GM05qbkdlVjBlTkt2VEJUajdR?oc=5",
-   "data": "2026-11-23T14:36:40.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "r1t06o",
-   "titulo": "Ações da Petrobras cedem mais de 2% com plano de negócios no radar e recuo do petróleo",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPR2VTNG1teTNrclhwbUlMbTZxZ1VtaUVMVFpMazhJcnhsdkpNLXdNc1VPclBLYmVDRE5YdFl5ZTZiVjNWVDdUcmdTVUpZR1ZVTE1JbkhmSmZYQXhxNTdsVXktRFgtaks1eVpUT3VlMlBBbGtULVRIckhiN0Z5Mk9EU01lS3ctbzJTa19Qc3RCUlVTUTBVN2RtVWNLaExsMnhfTVJaNXJKRkpjR2ZfQjVVVzI0UV9NVHBvSE5IbWRCcllzQUVCNFY4WmZ5SVBCNGFvdWRZXzFzYlBrR3NiVVpiQ0ZnUFdCZzhwU1JEX2F1Z9IB_gFBVV95cUxOcE9uU2p1ODg1d0FIMjMxNS1yVDJoVC03N1pwcmd0SlNrZEs5eW4wZ252TWZtSGU2T282dzRkU3J1bUNRb1p5TlFkTWk0ODBObU9DZEJoVmpFQkpZME1UV2JqOEE3VEpjRUl3el9BeVdDNlJQSVg0MVpmN0NYODQ0cDhUdVdGQ2VPTUlySXVSVjhuMW9nTTBWTjUxYjN4RndLMWhpTUNYUlNRMzJNT3ViYUwwMWlEWk9JWnVyZTZ3VGN1bXR4MGF3Y3hWSkkyQko1M1liaGxfc1VDTmZhdWRlWVlObFloWkFrcE5BeThKQ19vLVNEbHFQbzRIRDdvUQ?oc=5",
-   "data": "2026-11-23T14:36:31.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
