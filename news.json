@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T05:30:29.520Z",
+ "atualizado": "2026-11-24T06:00:31.996Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "kjx1tk",
+   "titulo": "Diretores da SpaceX e Tesla negociam fusão de US$ 3,5 trilhões",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUtkTlZvdTBSV2pidWtNVXByUzZPdUxaS3JIUzhLRW1lOHY3cHNXejJJSzUtZjg4Y3ZkOTB0a0VBcW9nVnFHNEgtTFlOd0ZpNXdRVVVyVEJyeU8yUkt3Nk1DVWJYVzM0QTkyMzlpd21wSVlqMlVNSW9fWkpkUHJadW1XUmtKMXRRYVp6V3pSWU1RVTNYN2JsM3lEallGbHBKQUowenZLSEx0Q2tib0VZYmxZUlFhc3M?oc=5",
+   "data": "2026-11-24T05:53:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "SpaceX",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "x4dikg",
+   "titulo": "SpaceX e Tesla nomeiam cinco diretores para conduzir as negociações de fusão, segundo o FT",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2cjFzQUtQdUpWWk9sOVZOdGpUcHQ3QUc1OE1LMU90ODZNQnlsTVRGMU5TeUU3dkotNFFrOFVKeG9NMS00cHpVVHdSSng5Q3JQUnhaQ2ljN195dEEyRWZxTHl5cWtYcks4cW1va3NkVFZKanlRZEJF?oc=5",
+   "data": "2026-11-24T05:47:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "SpaceX",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "x6q35p",
    "titulo": "Singapura continuará investigação sobre a Megaspeed, empresa ligada à NVIDIA Corporation",
@@ -88,6 +112,18 @@
    "avisado": false
   },
   {
+   "id": "1de0f5b",
+   "titulo": "Anthropic supera SpaceX e faz o maior IPO da história. Veja o ranking dos dez maiores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaE5fbmg5dm45QmQ3TW56dEdnV1FBMi15NXI4Tmo4MldjbmROb1lIYlU1QVFjX2Z1MWFSWkFyUHNJTlpTNDZKak5MUGpidy1ZSUFRcWxUNjNmYTI4SGRlQjMyVW1UZ1pfQ2owYkR5RXg4LXRvQjlmR3VnZWVSUnRfc1ZQSm9iUG9zV0Jqb3IxeHFOeXBDYllxT0xlS0pMbVh3ckhrdS00Q09ZcEpGcGtaLWxqNkd0UXE5dTREODRVZFlsTGJIejQ0UC1waUVYR1JlV2FnT0o0Z29sUmRDb21sZTZoODBGdw?oc=5",
+   "data": "2026-11-24T03:41:34.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "6koftt",
    "titulo": "IPO da Anthropic: preço da oferta, abertura e fechamento",
    "fonte": "NeoTeo",
@@ -108,6 +144,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "di4baw",
+   "titulo": "Banco do Brasil registra queda de 66,5% no lucro do terceiro trimestre",
+   "fonte": "Tribuna do Paraná",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQWMzR0NpY282QjBhM1dIaTV3Z2FsTmY0S3cwVkR5NVVhLWUteU02UDQ1TUxXTkRZT1RUUEk5Y3ViLXFoZXZBeXdZeTJ4Ny1aeWVkZm93NF9QbjFhbnJKT0tBcUNqT3BhQWtOZ3c3QlV3bmlmWlBiaFBMdDZfNUJ2YkswTnppV0ZvbUYtcjU1NXowT2tDU2lLc3lrQW15RWdZbE5ZdGhjbTF2cC1xTWtaeTVVREpxVEXSAbwBQVVfeXFMUEZ5amhwZExGMkI2aGdxSzA1TDVoSV9kSUFib05mYlJ0MGRZTHB5QzZqSWZUaTlpN1JodUpZUkVtejJ0d2ctMFJrWWVpLVdwNmF3Qm1WWEJJS3I4V2ZRbVBId2lHUjllbmVCTm9wZ2dkWFd4WFhtZkt5WGNEWFFZdVdGVW01UWVkS1BaaW9CQTd0VnMtQ0ZNbjdBRkpmYkN2WHJodUw4RFpvV1djRWdCZGM1V1ozc1hVUEkwN1A?oc=5",
+   "data": "2026-11-24T03:07:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1793,54 +1841,6 @@
    "cat": "Mercado",
    "empresa": "Meta",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "y7lcvq",
-   "titulo": "Jensen Huang retorna como CEO da Nvidia (NVDC34); ações disparam",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQN1hFd1pWM0pCVDhGU2xNUE1pd2lIclNMVkhKRmtERTRucmVsU194bmdyYmFZeXlQeTRPdm11dlc2eUhvajZkTlVuWHFUVW1POWJTZGdvbTRhbW82VUdkSHM5UFNMRlhVSjVQa3JHV3p2UTQzdUpBUEw3RDZybnNlejl1YlJlcVdfRmfSAY8BQVVfeXFMUFZMeXozaWJBek1LNjNGdHNEN1Jrbnl3ZHZ3dmM5Vk8xNjJ4aHF1aldUUExadjZwRDlSMklJcGoxVUlmbVd1Q3plV1FkU19wT2M4V0RzdERmYWhaWnp4SDZPNDNLODdkUmpSamROc0huVFlDQTJaZ3pUSDBDOFdFVGNyMExYR2FfbEJrcGxSeWs?oc=5",
-   "data": "2026-11-23T15:31:04.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wl9vds",
-   "titulo": "Nvidia dispara 30% após volta de Jensen Huang; Nasdaq sobe 6%",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY3JRTFpIel9zTzF4VDBUZGxYeTVrcDRacDlwenI1ZXFWMHFtb1ZlQUt3RDJlZUNOT3lzcHRieDdhSWl1UDBhbV9TQTJBZzVSeGZVdmlnT245T19rb29lWS1mMXR3Rk5Vc2pGalBnV0l2Rm1wcFhxTHVkNzcyOXBmekVQVGFJS3PSAZYBQVVfeXFMT0YzV2lkbkRIMmZfMjRNeEFQNEdPMnhTUm9ud1FBYjVjVGEzZTBOb3lKMjR4c3piSXpSWGluaUZkRUtSOUhQdmNacXBVbFJoWURvcUlDcXltLVpIc3F6VzZqNVF1QXBkU3ZvY0VMbzdhYjNISUxnLUJiM0xkVm1lUHJjNWJYSUFqZGI3WlN5enZiMUdmQlhR?oc=5",
-   "data": "2026-11-23T15:30:46.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ml503m",
-   "titulo": "Wall Street sobe com retorno de Jensen Huang à Nvidia como CEO",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUVVNSzZ0OUwyNTJNMXJkblNwQmNiNVhpQ2ROVngtOF9uUHpiYVdOWHBGRUlNY1Nsd19SY1RQMVJDdTJ6dVlJVlRpMVBLRWVaekl5QVlPRlk1VldrX1NFZFRLS0ZEWE1KRGplZXhOS2ctcVJYUE9tZU1xXzBCNVVERlpWemlpNVpycV9CTGNCaGxjSUYtMElHVW9ENkp4dVRBS2tDdGVJOWp3a3gySVBKQTBsT1B5ZTZPUmF6c3lSNA?oc=5",
-   "data": "2026-11-23T15:27:57.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ffcmeq",
-   "titulo": "Ouça agora! GTA VI lança álbum Deluxe Edition no Spotify, Apple Music, YouTube e mais com músicas exclusivas",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMkdkdjFyVE9VWG95Q292ZUl3cXNyOC13VHNRNzFhYk9jb3Z1THNndDZod0pZaHFwR2pqMFZJQ0U0WHNLU3VnYXJuMkl2YU5lNkdQNDBOenFHRjBkbzhJNHVHbi1EMzQ2cnREUjJCaG45QWVkZnFmdU42SXNBSTJ2XzZjbmlXdWNHSmFFMTRyVV9nUU5LSnVGMDg5Z3hEWklsN1ZKNWVoUVNFMjI2?oc=5",
-   "data": "2026-11-23T15:22:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
