@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T01:30:26.327Z",
+ "atualizado": "2026-11-24T01:52:45.891Z",
  "agendaCal": "2026-11-23T20:30:26.533Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1phfk6c",
+   "titulo": "Ações de semicondutores asiáticas disparam com rali da Nvidia; Coreia do Sul e Taiwan lideram",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUDRFcmE1OV9ib3BlYm4xUS1CWGR0TzRIWHY2WWcwazhSSEI1ZVBwMFJ1NHBTZ1VkcDVHcW84ZWRyeHNnaGsxQVJlT1F3NDRFdkFucTQtNHQyNDMtWkFfUGtJQjJXbjJ0Mko0eDhVX0c4bnpXbDk4YVRQc01TQlJtdllqOEF5VWZjLTY5cDctNkdnU0M4MGVTYXA0aXAwNTZvc1pGaVBvV1cwaS1fMXkxaEUxbl8zMkNOVVhrZ3hmRUVOSE0tdERyWXJtMGlYdm9FUWFDVjRVelJiNDhhWFBoU3JR?oc=5",
+   "data": "2026-11-24T01:45:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "axl8bl",
+   "titulo": "GTA VI: como abrir o portal para Vice City de 2002 e ter a camisa de Tommy Vercetti",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBxX19uYXFEWEUwNnM5Z21rTlcySzNwMmVpblVFNXBuYi1mRVVWWFJhYUhydzZTTzY0RDB6dzZDVXVDYjNJekF3ZHo3ai16SllWSzV6ZDlURVBDNFo1SXhyTHdRZ1FWNkVCc2xpLWp2OVpCRFFUMXZyQUhvWkFCUQ?oc=5",
+   "data": "2026-11-24T01:35:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1p2d2ag",
    "titulo": "Hacker do vazamento de GTA VI é condenado e solto enquanto Rockstar soma bilhões",
@@ -100,6 +124,18 @@
    "avisado": false
   },
   {
+   "id": "1mnk9ya",
+   "titulo": "Petrobras retorna ao setor de etanol com aquisição de fatia na Neomille",
+   "fonte": "Globo Rural | O agro de ponta a ponta",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMVNsY1dJekhzZEtmQXV4V0ZRaXVXYTJxMlA3SmJRbWdCM0FsQ0ZmcG1odkhYRU9SM3JUN0ExT3dzU3c5d0dfclF3YloyVzY3UFl2Sm43ZUo5RzBnOUwycjVlY3N0azNwVUE5YXB0X0szYUE5VGQyM1ZlcElJdU5XUEtjNVNjNllFX0xDZ2E5cm1JdWJuSnpGSWd5TmtmWjZhaktXY1ZsQnltdlJxaDB3THVTUkpxbmU2bExhbXdlUDJRTEs2M1Vham9UblpYQmlfOXFzR9IB4wFBVV95cUxNRmhZZEpSYkU2aW5kOExITlZNaGthZUVxV2FrSnB2TnQ3LUxDVFhYNkpzOWJDaGFBdmJ1NjhwQ0FiRG5oV0F3bXE3ZGZEbXhWNUVzSnpqazdqbHVhMHlnOVhlMlNpWVhjZUd2LVc0SUpxb2MwcEJ6Ykw2QmpxX1FPWHhDOEFuX1NZZERnbnFoZmxSbmY3eERJOENaclMtVzlqY1Y4a19WYjNyVG9wMGdZbjkzc3Q0N1BKTHR3Y3NDOWZmcXI0TDJCZG91WWtPREVyOGROZ3daTWtTQzZfR1FsR2V6UQ?oc=5",
+   "data": "2026-11-24T00:54:49.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "yc5xos",
    "titulo": "GTA VI impulsiona em 69% a venda de consoles no e-commerce brasileiro",
    "fonte": "Guia do Investidor",
@@ -156,6 +192,18 @@
    "cat": "Lançamento",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tyj9az",
+   "titulo": "Anthropic: venda do CEO após o IPO testa confiança",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU3psMTgtZTYtSTJSN09zcjZDVFNIWWRZN2hQVmxOSnVYOFpIQVVfUHE2Rm1ueEZwSm9EWEwyMW1ub1Y4M1BpdXR4bk1oS1Y5NVBVSU83V1IwOEVIamZiQ1FadHRFM1BtY2UwLS1yMHlrV0s2Uzhsa0drY3R5SWtObTdadXNZR3o4SlVuOUotcWlTclVyQWlyTFhCaHQ?oc=5",
+   "data": "2026-11-24T00:05:01.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1794,54 +1842,6 @@
    "cat": "Lançamento",
    "empresa": "Petrobras",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "e5q1e6",
-   "titulo": "Nasdaq avança 5% enquanto Nvidia dispara após retorno de Huang",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56R25JbjQxMk1RR2hHVUhsNTBfWVJDclZJY2R0QTMzbjdxX3p5clFueE5wLTMzcnp6eFZJWG9mZ3dCMFRIeTlOcVZMM2ZpcXd2Y0FvRm1NRkNzN2ppdm1zTW52Z2lKdw?oc=5",
-   "data": "2026-11-23T14:45:47.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "36vs4i",
-   "titulo": "Nvidia anuncia retorno de Jensen Huang ao cargo de CEO após renúncia e investigação de segurança",
-   "fonte": "Cyber Security Brazil",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVlczbENVM3prYWo1dHdDOEJ0NlFKSWQxUHBkT21vWVZzRE80NDI4XzUxYXJsNHd2aWhlWlRxLTZzM3M3NktPbWxZamI3UTBtV0NNVkhtdGpwbXd1amhjaHlwdGpDejM2MTFGaS1xSnJLNU0yY2V2OFpFcGRlWTIwYU9OYWZqT2k1MGpsV3JHcWZ2VWxqUTdRVkNEOVhZWkVVNDY2MFJGN3VhZ1FULUZsdlVHRWNIdUprSFVranc4bWdVOG1xQ0RBZmtVS0lzSlpsU19iMVR1Smh4TTZobDFsSFhXaUdDM0pNUHA2X1QtNTg2UQ?oc=5",
-   "data": "2026-11-23T14:45:18.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "yhdxuf",
-   "titulo": "Bolsas de NY disparam com recuperação em 'techs' e retorno de Huang à Nvidia",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQX3JhcFM4MXp0MGlqaG5US3JpNTVuRFp2T3lYalZIM3lwZllpeGFJZnZLSHhtMEl2WmVjbXMxWDdjMllUTldPM1NHUHYxVF9SLVg2dmFWejVQQXVEUDRvT19CZ0c1bmV5bmNpRW1EMjMzdXhzZ3ZqR0k3cVQ1X0czUnFBanhVd1VqcnpSbHRtdG5IejZnY1gyUEE5dkJXMDZOUjNZa3ZFUlhPWHBtYTNZOUY2RGVNNlRwYllMRTdJTHVtSGZOcHBlazd0Q1bSAdsBQVVfeXFMT3ZaX3I1eEFHU0NtUU1sbUZZOUlzSzcyNHJlOUs3cVk0T0tpUFFqdElSdVhhQmk5LThldVJGU0Z2MU5RMEpLV0RqWlR6NkhxQ2VTdGI2am4zQ2JaS2pfUXJZOWptRWtaSnFWLWFjd2pHN1NQR3diVWNseVVYeV9DbmVRaWlQblF3MHRMRGdoZzNnYkFYeVJ2V1dYRmpIWVV2Skp2UFZPRzVhbGN4TEdHU1lFNjNvazNqZ3hjLUVoZUhPTTBIMm45SUVJaFJTbEI1OWJld1Q5aEpkYWZJ?oc=5",
-   "data": "2026-11-23T14:45:08.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ic038m",
-   "titulo": "Nvidia dispara 30% e recupera US$ 941 bi em valor de mercado com volta de Jensen Huang",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaG1WaWVUR0pEdk1HWFllRHJRYTRGM3R1QmY5ejZjQjJSRHpVeVpTWm5oYTlaQURwTHhxcHRyZjQxRGRkT1RlZkJ2c2RsNUo2Y2toUm9NbkU3S19BYjVhN3V0SlEzM2VJNVY4c3RzV3QxRk5PZFV6MExiSGozampxVjBYajZsaDJBaWhJejVRSmFZSzBuanJEd2Y4MTdEeGE5Sm1mWEJVRlpRSFEwSldxUjBGMkhFRU1vdHgw?oc=5",
-   "data": "2026-11-23T14:44:14.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
