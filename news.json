@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T05:00:28.410Z",
+ "atualizado": "2026-11-24T05:30:29.520Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -39,6 +39,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "x6q35p",
+   "titulo": "Singapura continuará investigação sobre a Megaspeed, empresa ligada à NVIDIA Corporation",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWWhlUzAwV0FvT3RtOC0yN3JqYWhoY2NZSHNUcmpjUGduU2pKdFM3a2c2VlA4c1lqYW92ZHBhUEp1aDlYRV9NMEQ2c3NvUUdfTVBPVmYtQ3FZYmE0VDRRdlFRQ0pueWFtN3l0cE4tUE1KcWlmbHg2REp2R28xaFlNZGNnYTJpRWRhaWU5RFV4TExCY0J4VXJxQ08tSjR6R2lEc3llaFBrSWxLLTVhUFZMbUtSSkpEdFRfeHBPSlBweDQ0elFWVkVkbldEaDBQZHRib3hLZURGV2hoWEZUXzBtZVJR?oc=5",
+   "data": "2026-11-24T05:21:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xv79c6",
+   "titulo": "Nvidia e conselho ainda enfrentam riscos jurídicos após retorno de Jensen Huang",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GcFM5MkFtQ0Y3Yk5NcmFualA3V1VCYTRSeGl1cEVjVlctMkVwVDFBQXBQT3phMHlYZVI1Uk9zV1d4eG5HbHJHMEZNdnZNV2l5U1ZtSzVER1kzV0F0ZW9QdW1KN2VoZzN4ZjliaURZV25iLWVPdjIw?oc=5",
+   "data": "2026-11-24T05:02:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "19a00x9",
    "titulo": "Banco do Brasil sofre queda no lucro e especialistas apontam falhas na gestão de risco",
@@ -1816,30 +1840,6 @@
    "data": "2026-11-23T15:22:30.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1y0rd0e",
-   "titulo": "Trump comemora retorno de Jensen Huang à Nvidia após suspeita de espionagem chinesa",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY2g1cjY5cWdjdGVZVTUxdWNWQlJ1el9OM19tdVkyNXJHb3E4OXVkdWZVZkczTUFXT3hYX1FLRXhnaTY1ZkR6aExLZnktTzFadUVvY3VtZUIwanBiQ3N5RmZMUVlDSjBjRXIwN1BjQmU2OXltTldUX21OYUlEaktfd2JkRFFUbjlxMG8yLWpwTWw3WDI5ZDlDazIzc2QtcHpucmdPLWdSaklNNkNHWm0wN3JPWmpHZw?oc=5",
-   "data": "2026-11-23T15:20:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1elzsge",
-   "titulo": "Nvidia Dispara Mais de 25% com Volta de Huang; Bancos Haviam Cortado Projeções após Sua Saída",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNG95dzhCaENyWGlXZEdVTWtfb2VnYUg0MmthcnpoTm01VzhGRFRYeFNSY2h4Q2o1WUI0NldnSC1nNVl1TDJqYU9ZQmFxQzNtRDNHVFlkaTJVbzlqQThwUGpnT0ExUEItdWZKbFJtSXlUczVidzZQTVNZWVdRUjNtR2cyQk95YVczeE50TXZJczVSZVF4MENkekRySDJfbWVqaEdN?oc=5",
-   "data": "2026-11-23T15:18:59.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
    "score": 6,
    "marco": false,
    "avisado": false
