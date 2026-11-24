@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T13:30:28.981Z",
+ "atualizado": "2026-11-24T14:00:34.654Z",
  "agendaCal": "2026-11-24T09:00:37.359Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "3yxrjx",
+   "titulo": "IPO da Anthropic: empresa estreou na Nasdaq e prometeu priorizar a segurança da IA",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMjlmRkV3Z3NLREpYVFpkamh5VVJvQ2xld28zMFFpMWRINlFBc3VYMy0xdjc0NDdDS2hNQzBlOHlDaC1tRUIwWUxDYm9McVI4TzZlSVVKWlFTTk9JRkJrdFQxWXV6eFJRMVlqSHVXUG1RWVJkbmhmb3VCZ2xKYzBUY2VmNWJmal9tNkhuUWZEV3FUYU1vbjA0ZExYX3poSlY5OFVibWJMMlVPRnM?oc=5",
+   "data": "2026-11-24T13:51:24.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "kzz47n",
+   "titulo": "IPO da Anthropic: US$ 93,5 bilhões em recursos brutos",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdDFOREkxTk9EaWxPaUt0WnlFZHlxWnNCZDRqVzRqMVVlVVljSlJ1b0NqdUd4YmtqaUE0MDUxcTlyS0x0ZmJ1X1lxdjJVZUd6cVduajVmZEg4SS1PWVV3MXhXenlla0pFSVQxdExqbG1BUmNQcnJIOFJZQkZBczZaRUlR?oc=5",
+   "data": "2026-11-24T13:43:22.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17xxzi4",
+   "titulo": "GTA 6 deve ser jogado sem pensar em listas de tarefas, recomenda Rockstar",
+   "fonte": "Adrenaline",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdCNDFsQ3YyUXgxRnA0MzI3eUl0RFAwMThjakVYRkNDZ3pYeDNDQVFJRTlGSDJWcXVwZ2xjTVo4RWc1YVRSM1FfalJ2eHlIX2pjbWJZVzJFdEt2M2dUTGxaVlZCMk9Tb09VRnVJRWNHNV82RDJ4Y21zazZUTER3NkxmR2hvRl9MMW82Y0o1OEhZSDhHNHpJQ2ZqRzVyZnlTcjA0OGNoTTY2dkFMd3c?oc=5",
+   "data": "2026-11-24T13:42:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7105zg",
+   "titulo": "Ibovespa hoje: Retorno de CEO na Nvidia (NVDC34) impulsiona ações, aprovação do pacote fiscal na Câmara e petróleo em queda; veja destaques desta terça (24)",
+   "fonte": "Empiricus",
+   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWjhyZjhscjFReVVod3BwQkFpRkt5OThiRC03S2UtalVvWU9ZejB3N2xqUVJBLTJJUFpLVnlpVDFibW5VcnNGOTMtTlZTWG1oQWZfZWljOXFvSkJjOGdxekN1eFU3X1Znci1EUGFtRUlzZGVDa2V5d1lBWUdSUTBqbHZ2MHZVa1RITDFVT0hVN0lBTWs4R1ItQi1aVktkNUZfZ004UWtKVFlaakdJb0Q2c2hQU2ZJLWNHT0pFZEFzM1V3SEpWLVk0cWxwVjNhU0htd2c2UGpaOUVtNUo3a2V3MTh3MVJnSmxwNGV0YmRyYkI0R2toYlRycklIbml5Snk1a1NBNm1HUWwwRU9FUjF6bWZkcGV5b3hOU3BUVzlRV0NKU0tFdTM1Uzg5aXFtelU?oc=5",
+   "data": "2026-11-24T13:32:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10wy93o",
+   "titulo": "Acionistas da Prio Forte aprovam cisão parcial de R$ 543,8 milhões",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzZKbXFyV1M0RXVFU2J4RU5mN3dGbjcyU1c1RmxtTlVBbkJTc1RNdHRSWkhjR2hWYjBoTVJrcHpLSUZESnkyTXBtcWFpdEJ3MURiS2pnOFVGNjVLeXFzV05JOXY1dUVfSml5eHBaaUFsMU5pZkpqVU5obk9aOExiOWxBTHlsZW8za002MnBab003Y2ZoLUZlWUtMN0lsQUUzcTdBWFJZRWJFcUdsVlVaeFhteHpNdVFrd0JlLUctemYwQ1U?oc=5",
+   "data": "2026-11-24T13:31:20.000Z",
+   "cat": "Corporativo",
+   "empresa": "PRIO",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "lifimy",
    "titulo": "Superinteligência, perigo e uma entrada em bolsa: que consequências terá a IPO da Anthropic?",
@@ -483,6 +543,19 @@
    "empresa": "PRIO",
    "score": 8,
    "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795528834654
+  },
+  {
+   "id": "1yqfka2",
+   "titulo": "A intervenção de Trump que levou Jensen Huang de volta ao comando da Nvidia",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOY29henpWY2E3SnBPOVF1cTJFMVVmelBIbmxFbEVNdWVrSndBdUtGTXZrQWgtRFVfZkxQUE5UajZud2h6NUN6V2tBNmdVSXFWVENKNERsZm1va0RxWjFPQnlkbWNyaE00ZERsTktnRXZ5UG1JNWRKbGZzSmlYNTF0bDlpQkNObWZqZXpaT0REUWw0ZGdlSER5WlRCSnVHT2Z5UG81d0lwT0NfZWNZRWliMG1mRE5SaloxbGoyWF9JcTBTLUR0d3fSAdQBQVVfeXFMUDN1ZWRIZHVXNDdHdjFFMWRYc1FSdkRRaEtTRTloSXh0Rm92enQ0T1NyYXNkLS1yUHc4bUE1d0tBTHF1QzJ6NkQ1dUVsWnJENUxURjU5dEotR1FMWEVpcFlndzZDR0J5VVozTnh4NGkxWm5wNWZMOGRXS3VUYTR1eVJUVzZEMzg5OWNaZ3ZTdmlhVHZoQmRhUmRvYzI5T1RlTmhrUl9mNVYyWHpjMHJnVEZTeDl3enRHVXZKQjRiVWUwWHBieHlYNllUbXAwWGVwd0VuVHo?oc=5",
+   "data": "2026-11-24T10:39:36.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
    "avisado": false
   },
   {
@@ -710,6 +783,18 @@
    "data": "2026-11-24T08:51:03.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lxza5c",
+   "titulo": "Bolsas asiáticas disparam após volta de Jensen Huang ao comando da Nvidia",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY2E4WlNpYkY3V2FGc1RQdUtRbGxJWmppQ0JJeWhvZWVEMl9SSDBic2F3Z3BoRTV1ZzM3cldIX2hFaFhYSHF2MThzTlVPWkZrRk4wUG94cGdOUlppazRFR09IU0RmcDBROUphSm9tUUJsRmdBdHlsZ1dQcGJ4anliQ3J0Y0JGREpiOVR2RGNpRFljVEFueFVuUXp6OFA4MFB2d0o4aDlWUWNqalByNWQxbVZ1ajZFd3p6Y0NyUU1YRFBBczNUSUNLM9IB1wFBVV95cUxOMThodHJVSURIaF9qM0hnaThqRExGUTdhTHhROEhYYUstT1oyUUJ3T2pOc2V4OHlySHg4Y0xPOGh6a252SWtPWnczaC1fSGpTa0dyTUpQRS1fRmdOZGZDZWRrcTVyWVc4MnpaZWxfc2M4YThLWVJoLVUyeVdWX0pCbXpBc0hwSXJRVkVMVGxlb3p4bGxQbXNINkhSZU5scHpfblhLQ21uZDVVVEhYUXhyT3hzX2JWdXg3REkzZWdiWjRqWGgtZ0R1aU1IRFhHeWVGbHpMbkYzOA?oc=5",
+   "data": "2026-11-24T08:50:57.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1759,92 +1844,6 @@
    "score": 5,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1qxmt65",
-   "titulo": "Veneziano Vital do Rêgo refuta boatos sobre fraudes no Banco do Brasil",
-   "fonte": "Metrô News Jornal",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOR0twV3BqenAyOVVWZHUybjF5WUZLQ2RfZllUTXU1MDFBbzVPZkZfUmtGY2hXM2g0UVFodXo5VHJsLVMxWmQ3Q1FOQ1hXcEZXWFhzX1NpT0Z3R0JXekd5bEZ1enljMDhmNWFucXM3ZEt0MXNuSzJqaGFZLVNGRk9mWUsxLU1DN05rd09aajA3dlJkdEpPcVY0NEE1VjQ?oc=5",
-   "data": "2026-11-23T21:03:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wj19da",
-   "titulo": "Anthropic salta 17% na Nasdaq após realizar maior IPO da história; veja como foi o pregão de estreia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQlMyMHNqbHJSa2RBYndiMlJWZFlFTjJZdElQanhiREM5OEdkMXVlenI2c2NNTERjQUV6Nk1WQUxBUDBfRjM5SjdYalJKYTVxekt0endleURxWnBKQmJJdGRRZkkyUnZtOFhZblk5bmN6bVpVcHRvUjN0RXh0ZTJ5RlFvVXNtcmN1NTVxaUc3RmFCeGx0M3VnTGdUXzg2RkI0S2pMMGE1RERvTVp3LTZfZ0o4UHo4dmdJQnc?oc=5",
-   "data": "2026-11-23T21:02:05.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795474835879
-  },
-  {
-   "id": "kho6lw",
-   "titulo": "Nvidia reconduz Jensen Huang ao cargo de CEO, e executivo é recebido com aplausos; ações disparam",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPbWtpRm5VQ2ZObGVfbFJRRnBMUmxwYnU4NDFjLTJ6bk5OVDF5RFdQNEZQcmN4Q1lFZEY3eWRBV0Q4dnBjNkNFYkludkU0YjliME9wQjEzZFljZUo0VkJYVmxseWIyZy1MVUhZVEg1cnJvSU1FUnNnSXlXR2s4N0ctY0dlT1BjZ0NZcDBvOU9jdnAxVnAzZk5Ub2x3Y2JOX0dodE03SGZoRFRQUXdkRzBfLUw3aFRSY2JiZ0FZa2xlRVpVbENNY0hBS3VSR0h3c1ZQdGNaakt5Z9IB5gFBVV95cUxOZzlTcEdRTWdRMi1QemNSeXB0b3FzX0RGZ3hZblVxYnplZ21NSkFfaFNFMW14QXpYQWdvZ1Nnb1liVndZOFJkSllheWhpYzE1ODdYUGlfRmhwMERncGxPai1YMEEzeU9JT3lrVUdSN24zdzNYVXlESzhFWnpRRjlSdkJoa0txdEQ0WVV6clo4clJDaXI0R3FOemtRc1U4SWFrVlpXMDFNSWUtNGxmWmVnLW15U05taTMwbmVXVGxYZ1VlU0RtZFAzdWlRTlVDVGhyaFAtR1dkSWtGUTNJQURxNm4xTnZJUQ?oc=5",
-   "data": "2026-11-23T20:55:40.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1upqxwr",
-   "titulo": "Fazenda prevê PIB menor e inflação no teto da meta em 2027",
-   "fonte": "TODODIA",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcUpua1F0aDV2bjRxbFh6OTMyWmlhcXMxei1xT29xZjRPQXlZVU1fbUs3WkZuUC1HSTExVmh6TTZFdDdTaTJUZzNfVG1DdkpiUEo2OVRHVjdIUnJlZmJvelF1WVpObWtVcmEzSlVmRFBqLUhHbVBoNE5TXzBOd2JpOEJudFZFak03TnVyOHBjTnpMM3l5ZTNEQmtOWQ?oc=5",
-   "data": "2026-11-23T20:48:31.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xwc0x8",
-   "titulo": "Rockstar troca cartaz: hype por Mandy esfria e Vicki vira a nova obsessão em GTA 6",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUFVFaXNsNjlHWV9scnp0LUEzZUtqREFfVXRmc1FZcFBTR21CQktMSEVkVDVYRzdxaC16cHdfOWpRZFVaeWYyanA5Mll4TWphMC11bDRSSjU3Yk40R2dKRzdZWUUyUFR1SVdEZFlEcW45YW1RWlAzeU9FS1FEd0RtdjlOcUxaYkhiMXItdHp3?oc=5",
-   "data": "2026-11-23T20:43:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jt6e2y",
-   "titulo": "Nvidia reconduz Jensen Huang ao comando da empresa após renúncia",
-   "fonte": "Creativosbr",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNLVNZbjJ5d3hOOTRPTTlYelh0eThRQnRqbVlITTNoczlGV2pRMXZzRWpMT204ZG5GX2NqU1JFUkt6a0tmZnk3Smp1TFJmWXlXdWlqdVNtemhxTWZsSF90ZW1rM0xvLTFTQ012UTdnSE1GY092NkZBbGtiNHhaS094RWt1UTlJNzVnMzk5cklDMzJiSTFLdTA4?oc=5",
-   "data": "2026-11-23T20:30:47.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1g6hn47",
-   "titulo": "Veneziano contesta notícia falsa sobre fraudes no Banco do Brasil",
-   "fonte": "Senado",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUNtSVVLZ3BIeG8zT3ZicXNrMUw2LW1ZTFp0a1ZHRm5Xb1MzbnV3NjVaalo5Sy1ySG54cjRQVjM3QVAzdG5FNXlzQjZ1TUY4RjBzMmk2WUpDeG9GdXRENEs3b190Z2VpYXViTjNjMi1Kd1o0anJOcG45T0gyOWhJc2dsNnVmbVRQMGQzMERmYlFRaDVweTkwcGdiZXBlcDB0SFZwNXl1dXJfZmFORlhxYmJuTVNMeElXM09WQzlrVQ?oc=5",
-   "data": "2026-11-23T20:18:56.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795465826533
   }
  ]
 }
