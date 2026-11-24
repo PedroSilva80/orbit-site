@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T03:00:31.986Z",
+ "atualizado": "2026-11-24T03:30:25.987Z",
  "agendaCal": "2026-11-24T02:30:29.515Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,54 @@
  ],
  "itens": [
   {
+   "id": "6koftt",
+   "titulo": "IPO da Anthropic: preço da oferta, abertura e fechamento",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObUIzQXpOWW54RjdxTXVPQ3NmTlVLWkJudlVwR3cwYVJKM1lLcmtjalU5NV9oQ0s5X0RHUm9zZF8xeEhoY1B3MWx5cUxRWDFpQWNVWXRRSXU5MUZKa0VZTmtRNjFOb0tfOTFBSVVwTVFmT0I4NXk3REl2dmhia3BPVHNDUXV3R3I4?oc=5",
+   "data": "2026-11-24T03:24:46.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7fjqgq",
+   "titulo": "Como Trump atuou nos bastidores para garantir o retorno de Jensen Huang ao comando da Nvidia",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUFVERWh3Rlg0VW9qT04xcUROajUxMkNHek53UlBzNXZmOWtEWlUyOWdyYkNITURzekNReU0zVGtHdWl2NnphU3lMN0JMUUF0Q1d2cG9xd3cxSEFQOU9GdzlxZlVxcGlkSF9vSklVX2NTalJQY2tVWFJILWlKUndFRlktdWxFXzk4Z2RUWXBMVzVoLV9WN1c0aUZvOXp2TnZERUlna2M2dDEwR3FnaURHVkl0NnhnY2ZWSFlHMnZpeGw5anQ2U2t3RHVobw?oc=5",
+   "data": "2026-11-24T03:13:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1qd3gd2",
+   "titulo": "Nikkei do Japão dispara com retorno de Huang à Nvidia; Advantest sobe quase 14%",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BX0I2TGdBaXpEQ2MyLUFjX1V3NXRVTkZkZERXQTFEZk4wRDJ6RFhiZklYSHdnSGdxZ2xfSUZaamJOVWdUdnZZeEU4OEx5LWlFcWNIRGxjU3hKT1FadjhzakxRX01PeUJVdFJnRm5nTGpyNC1qcFNz?oc=5",
+   "data": "2026-11-24T03:03:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "k6tz16",
+   "titulo": "Com ações em baixa, Petrobras apresenta previsão recorde de investimentos: o que preocupa investidores na estatal?",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNSXJCOHVwNks5VjRlNWM1UTNQbHdFcXZSSnR6WXpaTk04RW5uTUxYcWxzNWtoeGZObjU5cWkycDl3bzNJVjlvY0dXYjJVOTlYYXRjbjB1UXhJM1ZsOGVlbS1Fd1hyUFd6MlV1VmVtcUM0Y3VnQmx4OGNHLVdCSmFlajBrdVhQaTVmQjQzMEdTcW12V2FIZWJNUkdFd1FVekNtMUVmS3dtdS0zZE5VWmUydUNFY3FrME1lSVFudV95clZUbjZQYkdzUnJFRzEwSkdlTjB5Q3I0dUVWSFRSaldsb2thSldFRkduNF9wOTk0YlFxVTFocURTdkRERVRjTUgwVkhpSzdzalRtRGvSAZoCQVVfeXFMT0cxRjVCMzNuNW0xSkRWeno3TVF5cG5GR1pOdWJwNWMwMjVDN0lDczdQYldlMUFnM1hYOXk2by0tQ1JFOXJaTTVxWjRWd1hLSzVOUXdWOWVLSnRhOWdhaDhBeTNzRC1TRnItTnlKTHFkWjlnSjYzYS1qdEdpeTIwb3BRYmtnMldYSGtqeDNXT3V6MkdMSnJvNnNvaWxDcXJnX0pQb04zaHJ6eEZUeFBUOEZtMW9YUWJ1OWNyODlGTUw5OWYzVUFKS05oWmF4UE9ZM0Rfdm5iM3pUT0ZZTjYzTTRRcmk0NGtZT1NUSHFTYkJ0VDIzWFc2aDRUWDFRZWFhWnJKcTJ3ZHkzVFpRcGstcHZJY0hTdTY0ZHZ3?oc=5",
+   "data": "2026-11-24T03:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1fsm339",
    "titulo": "Conheça a Anthropic e entenda por que a empresa chega ao IPO avaliada em US$ 1,4 trilhão",
    "fonte": "Estadão",
@@ -48,6 +96,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fqb4hg",
+   "titulo": "Captação do IPO da Anthropic chega a US$ 93,5 bilhões",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdFBlLWllZU9nWlJhd184d3lvUmRUR3NNZmpXcVVvb0xFcnFaczN2ZWtSWE9GSllEWUsxbGlBbmpKTmVtcElQRVNSLTFEQzJ0dDQ5UEQwVEtJbWlpRi12LTRsYlpwSUIwM25ERlFyU2xRdk92dGZZaFV3Z1VYMXlkOFJhUQ?oc=5",
+   "data": "2026-11-24T01:50:16.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -1605,6 +1665,18 @@
    "avisado": false
   },
   {
+   "id": "1a49ruq",
+   "titulo": "Nvidia anuncia retorno de Jensen Huang ao cargo de CEO após renúncia",
+   "fonte": "Ponta Negra News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSF9rVGx1My1QUHNRSXlYV1ZHS1dtVlY5UkhfM0p4X2Fpcnk1bnpnWm5qN0wyZUNkeUFMSFNFekhnMW9rbXpOS3BXdGttdGFod2ROVXRaVVRreGlkbHltODdIamdVcDRXTVNaQXhldjhiZWY0ZE5ac21fWGxCbDBTT0JDaU5Xck9hSzV1dEN5Ml9zYnBOT0HSAZYBQVVfeXFMTkhfa1RsdTMtUFBzUUl5WFdWR0tXbVZWOVJIXzNKeF9haXJ5NW56Z1puajdMMmVDZHlBTEhTRXpIZzFva216TktwV3RrbXRhaHdkTlV0WlVUa3hpZGx5bTg3SGpnVXA0V01TWkF4ZXY4YmVmNGROWnNtX1hsQmwwU09CQ2lOV3JPYUs1dXRDeTJfc2JwTk9B?oc=5",
+   "data": "2026-11-23T15:44:26.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "kas32x",
    "titulo": "Itaú lança websérie sobre nova geração do tênis brasileiro",
    "fonte": "Meio e Mensagem",
@@ -1770,78 +1842,6 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "pqrwzk",
-   "titulo": "GTA 6: Rockstar libera para compra conteúdo exclusivo da pré-venda",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOM2FBYkoxYWxiSTgtZWdxQXVEb01ha3pzeUZ2RDR5LU5qTk1PVWUyUnA1SHpUcDdvbWIzS3NucDdLQ1JSRXN3MnpCbUhJZkYyX0EtR1Z2bGMtWE5BWk1mNktGc1hzRGVpMmQ5Ry1oeEYxYzJIYUIwUzhzVnJJYmRmcFlCckxsT1FXSUgxcnZsRzIxZlV3aVpwXzlocXlpSXNnOVdQQkRXQThsaW8?oc=5",
-   "data": "2026-11-23T15:07:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qrqun2",
-   "titulo": "iPhone 16e despenca de preço e fica por menos de R$ 3 mil na Amazon",
-   "fonte": "Oficina da Net",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JbmpXTGVDclFSNjlBeElybkZTS1Q4dUc2dVRaeGlBMXFua1dZREo1dXRFel8zaGxvN2V3M1lEMUp3ZHI0bk03SmdSNHduTHFKRkJyUk5qLWpKQTduTk0zV1BadUhJaXliWTB3R2JBQ2PSAXZBVV95cUxNYzVna1h5U1JYLXJYdTFSaE1OWjQtaTVrMm12eHFFUTdWQ01ETFNtV1IxT3ZVVVR5SDQ1SnVUem15N3pLM19GRGQ3UHdVNkJuQVd0Q2RZb3dvNnB2RHRXb1BObHJ1MFZrYVdTbGpBODU1T21OOXhB?oc=5",
-   "data": "2026-11-23T15:06:12.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ke85dk",
-   "titulo": "Por que as ações da AMD disparam na segunda-feira?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4xMlB6Ry05dGJBbnBCZXE3azdZN1BxOENKemZITFU0SVd1SXdmRU01Wm1OYml4RzgzTURnN0pGZlNIT1JiYnU1X3dOd0F1TklYRnFzOXZNeEVSSGR2Nmx3MnQ4amJIUQ?oc=5",
-   "data": "2026-11-23T15:04:35.000Z",
-   "cat": "Movimento",
-   "empresa": "AMD",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ebvtbl",
-   "titulo": "Jensen Huang volta ao comando da Nvidia em meio a investigações - IT Forum",
-   "fonte": "IT Forum",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9qNzlyV1dZSk9VYUZ2YXVFOVAxMXJCM29US1YzZ1JPYUh0OXROczhfTmhyOVZYU3FESXlfOHZYT2xlN0p1VjNJNjg5dm5YN0RXcVhEMlhLNHdoWXZLMThhbU1xdkJmZTdEMU1lU1owY0lwTlZrMzZLeFFRcF_SAYIBQVVfeXFMT1BEZkJxb0NfbU9zbjY0V1BtM3kwSFBJM2MyVy1PdWFnZU83U2VoZTRvS2lGMUU2SUhta1IwcjJSV2RSNEhYRkpJdFpqRGI0eEdaa2lJRVRITjRuQW1ucExzS3loZkxJcmo3Qmx2ckhEQVcxcTNGNUlkRExUS0ZrWVFmZw?oc=5",
-   "data": "2026-11-23T15:00:45.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1a0v220",
-   "titulo": "Índice de inflação preferido do Fed deve superar em muito a meta de 2%",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeUt1QzcxUmYwWVFIdHdRRU9DUkxqdjh5QTVlc0M4S0gxejNNQk1ndjVPS1B2TDFmZzdCNTZfVUMtOXNJZlBQUTZCaTJibTNjbHdsNVdVdHYtN0s2YlJMLWIwSDRXZDh6LU5IWF9qNFlsZkE4SG5paTV3OVNCNEV3enBGOTh2LXZqaVBYRHpkUHpQZmZpaDU3dEdFX3F5R1pOYUxVNTlqeUsxcTBTZzFyZTRkNjhwV05LdnJlcA?oc=5",
-   "data": "2026-11-23T15:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ohmtn1",
-   "titulo": "Nvidia reconduz Huang ao cargo de CEO onze dias após sua saída",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdGxjVmJyUjFfamh5ZHcxUkdWVjlwcGN1WlR4V3lGNmExc3JiTFljdklFV3Z5ZkJUcWVyQXBhZ01IU1p3OW5NNUtMXzFVTWF1OG44VDBVSHNlcWVXejFleUJuNEFYOEROTmJZaWx3RWNValE3RmtPZkJzTUl2NW1DTkRDVnlDSFRvMDJ5cms0VFhOM0xlNVJhWlluc2VVRkx6Uy0w?oc=5",
-   "data": "2026-11-23T14:59:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
    "avisado": false
   }
  ]
