@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T06:30:26.397Z",
+ "atualizado": "2026-11-25T07:00:28.194Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "9n6f6z",
+   "titulo": "Microsoft lança mini-PC compacto RTX Spark com 128 GB de RAM e 6.144 núcleos CUDA",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVTZEcmxfVWZIUnUxX1NBTm91MG0yMXR1cHo1RUU4VEZReEtpMGh6SXFMamdDd0dfUmpfeWp3Z2RFOW1ZUGJlUlFlY3FqbUdTUy1kZlk4OFhzTy1XWDRBMmFjNkdGYUg3TW9LQ1ZqRkRYbmxHb0hncTZ4MTEzSG1OTm1kRjRSVWpmY2pzR3NVTjJ1S3kyTjNrZHlBd3lBbnFqQjBjWHBXZFNaUXF6QXpZd29Kd25vZ295aUhzOHhzUlZvWnlKREE?oc=5",
+   "data": "2026-11-25T06:39:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "Microsoft",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19r0nt3",
+   "titulo": "Diretor de Cyberpunk 2 brinca que a sequência foi cancelada após o lançamento de GTA 6, que arrecadou US$ 3,79 bilhões",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVDFtUnB3MXoxTnBMaFhfekFhbE5PTGd5ZzVzcjFka1Bjc2o0ZDhzdlF6N2pBVUg3MUx1dDBQa0dSTUhBaGxfZDVDeTdxQVg5SVdrbE9oT0V3YlkzbG5QZjFJNUFRMmNDbGNrYmVnLXdwbnhlZ2htTGw0c2R3bXRKQllYYXduZnJJRm5jTU9NSEU3Y2c1Vkoyb05BX1pEUnRwWVFQSjlIMXMzNHVSVTEzMV9ib2tfUlBUTnB0QnJnZ2NnNkZLVTFrYkNsTXFUTjA5ZXY5VjExYmQ5WkZJbmNsaU9uRjZ6UlB0ZDJtUEtCcjI2Q0hM?oc=5",
+   "data": "2026-11-25T06:39:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "3pqnur",
+   "titulo": "'GTA VI' Segue Intocável, Mas Hollywood Supostamente Pode Ter 'Red Dead Redemption' por US$ 100 Milhões",
+   "fonte": "Hypebeast",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLXRrMWdWNkxLb1p0Q0RiYzIwR1B0VXpPYk1XSnczQmliMm1Bd1lwaUVXZG9SMDczZ2FwbkxlVE9sY1pnSXRGWGVwYXAxY3Rxc0w0WHJoWUVQTlVzXzNYSUJ1cTM2S1Y2LTF0NC1NRGhSMW1BN3BSekJvNUU4b3lkY0wzUTNvR1o3STl4OXFBSGRKX045TXp2c3FoRm5kbzRNWWF0aFBTTURlVWh3dC1keUNaa2twU0Ux?oc=5",
+   "data": "2026-11-25T06:30:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1yqm6va",
    "titulo": "Os traders de criptomoedas agora podem proteger suas apostas em Nvidia, Anthropic e petróleo na Derive",
@@ -1798,43 +1834,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qdbrpn",
-   "titulo": "Ações da Anthropic caem abaixo do preço do IPO, à medida que ganhos da estreia se dissipam",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVURxRzRMcm1LRURtQndkNXQzeXNraS0zcUJwb0Q3QXIzb2VNMEdWTUQ2SndST3dYUVJrOEpyMmh5cDRUMzFQcDJ0TGFMSDhuQ2JGU1hZc0hrajhYNUpkdEJ1MnFWaVpNenpCdjhHUm9oTlh5Rm9VaW5VckVCVjFxdXp6cV9ESWhITzU1ODFCSWctOTItREpJMXp0alVkTWZaN2NMdFNkeWNLWU01cktSWkRoMVY2SFg1UDJVR2pheVpyRkdlVGJ0ZkZDMWU1c1ZwQnp1ZnFRMWJUV1ZzaEp3T9IB7wFBVV95cUxQYzVjWnp2YjRWV2J2cFJ5WEZQOVNlMDdmMzQ2Si1OeUNNR09wcDktQWNsYkoxdGRhWUtwR0g0NFA1ZjRsdzg2cllrd2l2OUtiSEJMT3EzZ1htUEh1cnpqVzEyd18wT0dyd3pDU2VIc25rbmdRQ1hJZERTR2lUSE5ZclczY1BUOUFBUk1CQkswRE5mcE42RGdab3hIMjk1WUNfRy10QnVSNnJyclpwVFhYOFZNMGg2MkhjOEd3TE1KQ2hKWVJteVRvX0RsdU9WR0dfSTJrMmVadFVYaWRaZkVDTjQ5MDZZQTBkNXNiSFJxOA?oc=5",
-   "data": "2026-11-24T12:26:12.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795525238687
-  },
-  {
-   "id": "1e6emd7",
-   "titulo": "Anthropic cai abaixo do preço de IPO de US$ 83 em queda de três dias: onde está a próxima linha de defesa crucial?",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa2pCQXdKTTN3VmdoZWZyb05pWlU5aEx6cU9qeWdOUlFxYmNjZU04SGlQMk9oSWw5Q1d1TzVLN2Jab1FPbmdvU0llaXJlUzFWc3cxSTNWYk5nd2pHdk5waEEtSGxlTld2Nkl1UlgtTnhzM08wMVAtY1NyR3hPX3pubWQ3VnZqX2QyOTFMNWdqbWl4aUdsWWNkWU9namF2MEZZbC1xUVhuXzJUWGFuSk9kQW5aYw?oc=5",
-   "data": "2026-11-24T12:26:10.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w9paak",
-   "titulo": "Futuros dos EUA oscilam com volta de Jensen Huang à Nvidia e fala do Fed",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPakI4Zk9tbHVUQlMxRzNaMklHbVc2RVdwaWRQOU15VUNFUEIwbmtwa3Z6NDBXeTBVWWN6WFdwdU5pOUNfZ2hzaHlXSEJfb3hoMEJYaE1wLXlUaVU3dzdyVjE3cDhmcjFNNHdvM1FXY1R3MlItbU1NaXFOcDRYY3Nmb3dqMVBCVzJldTNQNEp3?oc=5",
-   "data": "2026-11-24T12:19:31.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
