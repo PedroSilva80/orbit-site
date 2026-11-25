@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T19:00:30.467Z",
+ "atualizado": "2026-11-25T19:30:29.584Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,54 @@
  ],
  "itens": [
   {
+   "id": "ztsj4n",
+   "titulo": "Ciro Possobom deixa comando da Volkswagen do Brasil após sete anos e meio",
+   "fonte": "Folha PE",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWpiYkd2SHpic0dySHQ1SmVWSmZNOERJV3VjMHVlYXp2dlB5YlpXQm1LbV9QdDRhRU1XeGtjMFNpOENEUmxHWm4zMW5YZVhlRXNmbGRxS3QxZUNaS09jME1WVjdXVHc5d1AyX1JZV2tzcHNIWDVrdkgtWEV6UFktUXppUGxTYUpmenVfczJ6ZnQxcDNKOU1uSFQ0Qm5JRlo2RnBkckdNQUJJQ2lVM01SbUs1bWR2WTBtc2oyQWRrWUVSdDln?oc=5",
+   "data": "2026-11-25T19:11:00.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xk5u4y",
+   "titulo": "Presidente da Volks do Brasil deixa cargo após sete anos e meio",
+   "fonte": "AutoRanking",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vdy05R3ZhSkRnV3ZzcEpXNUxHSHFhbHlfbHlxdUtiODZCejhkajdkYUxwMzVVWFZLZWN3UHo2WGw4Y0RJenc1cExDNGlJd2tWV1h4ejlvVjY1TzZ0NGtHQkdyN0ljS0dMUlMyTkhfMklsYjY2WVB3TlB3?oc=5",
+   "data": "2026-11-25T19:06:30.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4mykhk",
+   "titulo": "Entrega de xampu por drone da Amazon termina em acidente e investigação federal",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0hrdGljeDRYeEpsb1I4dkRFV0Z2cXRuRzhIUmpoNE1rQVJWcm9UUUtMdEJhOFVfcUVyTThHblNGd2tDTERUdWYwQ29pOWlteGdJVWlSNk1Uc1NDZ2FxUmJNZ2dpMWRfaWxoanVYclVOdXgtMDVwZzRYblJCV0hrOGpMRE5kTE01THkwTWJ5cHM0cDhMOXFZMzJ3Y1ROVjRw?oc=5",
+   "data": "2026-11-25T19:00:29.000Z",
+   "cat": "Risco grave",
+   "empresa": "Amazon",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15qd94",
+   "titulo": "PRIO recebe aval do Cade para comprar os últimos 20% da Equinor em negociação de US$ 3,35 bilhões na Bacia de Campos e poderá assumir dois campos de petróleo no litoral do Rio de Janeiro, incorporar milhares de barris à sua produção e concentrar",
+   "fonte": "CPG Click Petróleo e Gás",
+   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORnRid2hpTkpiTmdTY2d4RzRScFZKQV82UWI0YlNyeHQ2MVFaOTlOUFlzbFYwS08wX0FHN05QamhyTkhrYV8yRnlfd1N3alZ1bm9ab1dEVDRYdzIyTkcxMlVNOXhZcTBENFpzUTh3N0dXRnFIbi1aN24wc2dQWDJpSGlnVUV1a0RYOGpEbkVTUGdRRVBsQ21KX29pSlZZSDd3MDRZYUphUUxQUXVFX1Z0bFhNVHhTMXN6NzdGZnpUem42RmtOdzY0ZHB2OVJiTmpHOC1kSzBqM3lyWkRsRFdkbjJ2YWtoUUZlMk9lS1QwWjhkQnBOZTJuQVFpZHQtQm9TbEZsYl9GNnlPdHNIWmVfbEw3VGczQjlleWo0bW84cjhkTnBPY2hLM2NMSlYtSlV4d1Awc1NHWHozbngwOUx5dWxkN2ZqeDA?oc=5",
+   "data": "2026-11-25T18:59:00.000Z",
+   "cat": "Regulação",
+   "empresa": "PRIO",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "eib1ln",
    "titulo": "Youtuber brasileiro ganha PlayStation 5 Pro personalizado de GTA VI em edição exclusiva da Rockstar, que produziu apenas 100 unidades no mundo",
    "fonte": "Gazeta de São Paulo",
@@ -62,6 +110,18 @@
    "avisado": false
   },
   {
+   "id": "11kmkzh",
+   "titulo": "Lancheira da Disney: Empresa brasileira lança sanduicheira que estampa Woody e Buzz no pão",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVNUMzBYQkJrcjVLeTd5Z3NLQTVCMHF3bFB1QTlhOVBiTm11dWxodmlTQnctc09oMDJWT2FqSFd5dldwbjF6M2tGSkg4Y3Y4TXVySkRZNFZzRTJKMjhzTVl6enM3cGFweXNXYWJvcFEwSXpTcVR3SGhCemlvUXlxRHROcWpaQTZYMEFfcFBPZC1aUnZCWjR2R3owMVNXU2dtOFdheGFiWVA4dS1iMUtPSXEyUFFmbWxycHVCdkxYNzNVb1dtWEJaVjN3?oc=5",
+   "data": "2026-11-25T18:44:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "zt5q3k",
    "titulo": "Aoostar lança novo mini PC com AMD Ryzen AI 9 HX 470 e conexão OCuLink",
    "fonte": "Adrenaline",
@@ -69,6 +129,18 @@
    "data": "2026-11-25T18:43:00.000Z",
    "cat": "Lançamento",
    "empresa": "AMD",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "140qn31",
+   "titulo": "Elon Musk faz nova aposta na Justiça dos EUA em disputa com acionistas, e veredicto de fraude ligado à compra do Twitter vira alvo de um pedido de anulação",
+   "fonte": "Estado de Minas",
+   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOUpRSmU3R2J3WC1VWGNnQmVGX2JtMWRrby1hbEd5N2xMV3ZycGprcl9XQ2dQZi1Zd2NibWtCcTZkUU11M1hYc3hob3dsa2VGdFBnaUEwbGVPc2NNbG9WUE9vNlV3MzgtaG55cTBrQ1Y0X2lIUVZ0RjcxRFRad2FFWHFNTC1EblJkb0VXUmsxM2JsSk5ZcV9KVjZJYXNSdEVSNTBHQVk3THBPbWFLOEJSUnhKUFZlMnA1Vm1HQTh1MTZIeS1pRkdCd19QLUpyVUZCZVFhTDRhTURCMlBITjhDMlZ3WFFDNjlzSEx1ZVlWSVZtWFFtOFRKM0RMbXVWLXFYZklidE5idHZtT2J1LXNqR3p1cERONW1Jejg2Vm5QTGNOeDBQSHRWSTFVei1mQnpFQ2VlM1Z30gG7AkFVX3lxTFByM0Q1aTZ1Sjllc0pwOUJ0VHpPVFZ3cnFvd0MwNHJsSUxNeWdsNDUybDA2cnJ5MnJ0RVFoanN5eGxhZE9PdEpVWjNwMThtMnk3NnA3b1Z3R2pxbHZZX1RTMVEyUmxQUlBQU1VISjVlXzdkX2d3YUR3WW9xRU50bFROeGJCMHU5RkJreUtXY3ZadFo1LWpOMERaYWFiWjNma2djSWszd2dUbEF2ZnN4UlR5LU43YVlSWFlXX1Z3dU0tZl9ISWg1dDNnMzdaTm5WYW40Ykd2MVFGbVlSeGsxbmNsY3owREJMVjF1NGdCTFZIZkJKallQU09nMXI0cnlGRzZRY1E0Zm04blo3MmNHN0huYlgzMFktZTh2R0NHUURrVkN1RUk5dVVseTZ5MWMyUGRiNk5FeWw1aU9fTQ?oc=5",
+   "data": "2026-11-25T18:40:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -130,6 +202,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pd6fpy",
+   "titulo": "Caixa avalia compra do BRB em meio à crise provocada pelo Banco Master",
+   "fonte": "Gazeta Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSa29UMlRycnZJVnJyR0U2MTFPcWhjR1RGWThsaE5ZUnprSE1VSmpPczJ6U05fNGhoMFFOSGFhOThnVnZZQ3p4OThNMDE3ZzFJS1BZQ3ZNMVl3TTE1cDd1czhHZE9VekdLWU5Ec3FDWnpRNlFOUl9TR2Y5Zw?oc=5",
+   "data": "2026-11-25T18:12:02.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1767,90 +1851,6 @@
    "data": "2026-11-24T22:18:37.000Z",
    "cat": "Movimento",
    "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10u3r5k",
-   "titulo": "Anthropic cai abaixo do IPO de US$ 83 pela primeira vez",
-   "fonte": "portalcripto.com.br",
-   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5cFREOFhRa1ViRkZ0Tk9pMm5sSlhTa3AybU5TQkVoS2lsZkpqekU5bGVMQmZ1OFRkd1JyZThBU3d2bnZmbjRJdTlCSkpRZ2xrZVVvOTNTd0liNUN1ZnU2cVFXNmdnNkdBSlRkWUJWelM?oc=5",
-   "data": "2026-11-24T22:17:29.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dnawlz",
-   "titulo": "Atriz de voz de GTA 6 revela NDA 'gigantesco' da Rockstar e sigilo extremo",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBTcEFCdlVHQU9vbm10ajUtWThXV0gtQkxKdWVkb3ZOSVVKd3NvWFpISjk0VWUxcl9memxVbVUxYXJEZHB5S1E?oc=5",
-   "data": "2026-11-24T22:10:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lwguvj",
-   "titulo": "Magda: Petrobras já não é empresa de petróleo e gás, mas de energia",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXFxbkd5Z1hOLWlpZHpzRjNpUFladUtiOFJMcVpGUFd5bmwwVW91WjFwdXVsenhJeVdLUlktQXJCWUdwVWJONUI0UER0X0lFdVlWT2xCVXcwcW1iVTlDbDdHNXlQaFliWkl2aVRFT0NZZzN6M0dqQkJUaTRiRjc3am54aC16WjlBS3VudEM1bUl6MUs1Y0JUSDFCN25sdktjZHFr?oc=5",
-   "data": "2026-11-24T22:09:35.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16s3xg1",
-   "titulo": "Anthropic cai abaixo do IPO; perps superam US$ 1,3 bi",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbkxhcHAzWE9NeGNNd0JnUlJhZ3NNZFdPRnRJNV9zRHNBdkpXS1RncjAtaVpvU21qUjN4VWxyN1RXSEpaYl9YRl9Lb3V0M1drdGhEOWo2a2l6RFljQkJzOVVDV1ZPSF9xT2VPbUlTUjBKZWVVMUtlTlNJUnZYUXRQMHBR?oc=5",
-   "data": "2026-11-24T22:06:43.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xubuy4",
-   "titulo": "Após voltar ao comando da Nvidia, Jensen Huang pede desculpas por traição e diz fazer terapia",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOVXRsNjRnT1ZmNkd3SXZERnYyejdkNlVwNmpKVVljNlhjeW1Pd3M1WE1hbTFLN0N1UzROWC1SeHJnT210bFo4Zk5vTUY5MkRRTGtTd1dLbURuRGFCb0g5QzlPMkhTempkNi1tM3VmZUJnNWdKMFlSdG9idl9tSG1LbGpiTFg3TVJKR1JZR2loTXpCZGpOZ2tiQVRGQmZubEF4bWtUa250Tk1JTklwaWhmMlJabmFBdDFTLThhOW5aSVhzVllQMk56am1vcmI3QUc5UVFNVk1EZk52ZDNHZngtUE5HZ9IB8gFBVV95cUxPcktfLU8wN2U1ZmZOVVpCZnUtaTJHX0V3cnJpeGc5b2JLbUJ0Zy1UNFZZeG5DbDFXUDVJTUxsSEphN2g2WlRzZTZ6bmhuS1JjZ3VidVd0UDJIWnBnY1BqWWdNWXpLNlA4QmdLOXQwQTJyektYdWM3aTdBMHU2bk0tVTVzcFlYSmhzLVF4YTYxVFRoNmsweGlvWmNYYTNiaDJDeFRBa29nZ0swNjctcEtvcWJXR2ZpNmJVN3JhU25uQjRIc2haMnVnZThYRHlDT2pxcUQtODh6ekJISHN6dGVPeFFiaUx5bm5wWE01WVJBc3lqdw?oc=5",
-   "data": "2026-11-24T21:56:24.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "q6cfbz",
-   "titulo": "Atrizes de série teen da Netflix se reúnem em novo drama sobre a Guerra do Iraque",
-   "fonte": "BNews Alagoas",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmFqXzJsZnZyeldfU1NaTDZSa2lWQTBmYmh1NmJsSl9wa1JsSldQVmZkU25ZZXRZdjhrMTd1WjJzc1A5N2h3WWQtM3N0amRiVmp0azlzcG5UNlpHeGRJRWtfRXhmeDZJRC1JeVdveVRReDFHbExqakw1TzQ0Wl9DV25KYl9MYnpoeV9GTEgwalhSQW1xLURoNkhkY050ZVJBQmt3akt3dVgtVXFkZWRISWdqcm1PTzFRLTMyQ3doX2RxWjVhQjB2SlhCckh4SWRLQUhyMU91LW0xUdIB3wFBVV95cUxPM2lYdktablUwRllhWVNZMmtBZnA3c1VzNDI5Z1VCN1FTQ3prRmQzdHRtVU1IYnhVVy1sUUM1bk9UWHZoQ3lIellHcHN4VmdMaUsyOVE2VlQ3Q0xOUVBEaDdkdTB2Ny1XZWtXNnFxSDVnOXVFVGFwdUFLbkQwbkVDUjlmbC0tZlUwMGlfNXczck5aYXFOUnUxNFlBSGpVeDNDZUp6ZGlyQTJrZ0Z4YVNQQTRKLVAtMTB4dk9FR29lTW5oSnVINHlPQklIN0o3ZUR5NVYwdVFPallVZDJ3RkY4?oc=5",
-   "data": "2026-11-24T21:45:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19p9tnb",
-   "titulo": "Ibovespa perde quase 4 mil pontos da máxima e Vale (VALE3) despenca 5%",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53MlJ4OHJEOFJfR2NRbzY0Nk43UktuS1FLY2VnYTlvVzlYRlphZVIwVlZTNXF3cE1fZ0l6bG0tX2FjNGFucG9QX295eDFiVzhfRllQRU93eUZ1ZWdhcDdHOVVFTkdNY0dxWFFqR2gyMEpQYlEwNHfSAXtBVV95cUxPektOZ1NQVUZBTDV6MDNuYkd3aGtJLTdQUEluYTZSd0pjNll5Y0JaT1BWRzV6Y1lCci1uTXBzcG55eDVzVE0yelV6d0UxYVp2VGRHQU9ySm9IWnVGWGJrTWJRMEh2ZHRvXzBiSFp4YUlEemk3Zk1OQk1PRVU?oc=5",
-   "data": "2026-11-24T21:42:33.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
    "score": 5,
    "marco": false,
    "avisado": false
