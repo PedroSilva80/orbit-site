@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T18:30:35.786Z",
+ "atualizado": "2026-11-25T19:00:30.467Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "eib1ln",
+   "titulo": "Youtuber brasileiro ganha PlayStation 5 Pro personalizado de GTA VI em edição exclusiva da Rockstar, que produziu apenas 100 unidades no mundo",
+   "fonte": "Gazeta de São Paulo",
+   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUC1nVlhMX3A0WE5sNDZ5VmtPLTFzR2tvc05ZT2wta0JVaHBnOU1EMk1vZW5qWkdaNURzOXprYmRnMnJVR2UyNkNUb1JYZmxab2hkNGJMTTYxeXlSVXRnQ0hxbW5uT2pNMDhEYm1mY3dHSUxiT2FvcHhZU1hRajBSMGVUTlY1ZG5CWWtGeG8ydndvbnRuR1dlTGNVb0FNbVNmWTYyWTJvbVd1eWtsMDFDLUYwZU5FdDg5ZE51Rmx5YmdSTzg0UXVXaWt3UG1oQ3NBdVRVOVlhaDRkVGFlX1NCV1VTbjJzSE1oTTdkcGtUdnpWbEYxVnVYU21icUNOckVKUGdsTzBOMy10amxJV1VMRzd5Zw?oc=5",
+   "data": "2026-11-25T18:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zt5q3k",
+   "titulo": "Aoostar lança novo mini PC com AMD Ryzen AI 9 HX 470 e conexão OCuLink",
+   "fonte": "Adrenaline",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXFNNF94aC01am9vWWVtUlNkcDVOSVpKM3dabHJSaUlQRXIwaHFidnVpUnB0eDFKSlREbTZNRnRjWDI4ZGt4VHhZRXI1b2dOcUNGbjFQVFJDeF8tUVplUDZYaVhsRmpfN3dQVFR0OXhkNkJ4NHNmM01aU2NDV2gzUWpRcjJ5TEJOM1Z4OEF0VXlUTUdCblFWQUNSTWZCZ0dkRGpybzBEdHQ?oc=5",
+   "data": "2026-11-25T18:43:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "AMD",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "138uh8q",
+   "titulo": "Volkswagen terá mudança no comando no Brasil; Ciro Possobom deixa cargo em dezembro de 2026",
+   "fonte": "Rádio Itatiaia",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcC1vSEwyZ2lIMnlldTZRR2xhZ1JQb2E4OW5vOU5MTGd6b0NiZzZ6UXhNenQyNDlRQU51ODhraFYydXl4dEpIOEpjWnJscFZCY3c4bEwyTXd5T0NJcGppNWR6aDgzTU5QVlYybElUT0IxZjVfNTkwU01aaHJQb2ZLdkhxb2NFeGJZTDJXZlRxWGF3eHp1RERCa3ctTDIyRTNNZ2E5aHlKenZMN0M0NXZHQnV4bjY5ZmNHV3ZDeEFMRDBQZw?oc=5",
+   "data": "2026-11-25T18:38:56.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cepy89",
+   "titulo": "Um cristão pode jogar GTA VI? Entenda o debate teológico sobre o novo jogo",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDg3ekRFUmRYYmdiYXBKOExLWVVEWFQ2dGpVM2tJbjA2UC1mNHgxRG1aZ2ZtS1pJTnllS2ZPU09BZFBuQ3BPUDFfTmgxcmthWkRuWmp0Vnk2OVhNQlFzYlpGcUY5TkUwZjEwcTJ4WnBLYVM2N2VnNVk3RTVhZHlfaXRIUTh5NHZGd21qaGxXVXBXcmVLbzN1NXFZaU90enpuVExWN3ZUMTBmelhudjZUaHYzcnpqUWRQ?oc=5",
+   "data": "2026-11-25T18:37:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16w9u5p",
+   "titulo": "GTA VI | Demônios, fantasmas, Pennywise e OVNIs: os segredos sobrenaturais encontrados no jogo",
+   "fonte": "GeekPop News",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHNVdk1wUFBEMHN1c3E5TzFYd2tsWUNZMDdUTjNHTG1CTVYwaVlkamV2YWxMcksxRmJRWDdydDF2ZURvNllTV182SFpEaTdESmJIMFdhcjNGcTNGa0pJTmU3bTVpN1paQmFhQkJvR1JWU0JHRHFLOGRoZGJzQ0NBMUt5Qk9odS1aZGd1NnMzaHg1SVBqcGNxRXgyQ293d2JfcXBsVFYyTFJZN2oxeUxzVjhMTzE0d2t3?oc=5",
+   "data": "2026-11-25T18:36:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pumns9",
+   "titulo": "GTA VI influencia conexões sociais de 630 mil brasileiros",
+   "fonte": "Última Ficha",
+   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LRjlXbC1Xd1lFVDRnY1lsZFgzOVFoYk1yYm1RT25URUxGNmJ2N2Nnb1NGMmNoT1A2SVpueDYyOThkY0RveThrN0dleXl2YVBEZFM0RUpOU0FkczA?oc=5",
+   "data": "2026-11-25T18:36:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "i2zfng",
    "titulo": "A melhor mecânica de GTA 6 foi criada para GTA: Vice City, revela ex-dev da Rockstar",
@@ -952,6 +1024,18 @@
    "avisado": false
   },
   {
+   "id": "1yv379w",
+   "titulo": "Dólar recua a R$ 5,80 e Bolsa sobe com fiscal, tarifaço e inflação dos EUA",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
+   "data": "2026-11-25T12:32:08.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "t9fsx4",
    "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
    "fonte": "radiogeekbr.com.br",
@@ -1375,6 +1459,18 @@
    "avisado": false
   },
   {
+   "id": "trlyf4",
+   "titulo": "O que é um 424B4? Os investidores da Klarna venderam 85% de suas ações no IPO.",
+   "fonte": "FourWeekMBA",
+   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVUE1bjJPcUVKQ3pXWXJUMkRMckh0YnA5TkUxZ1RMNU5VTmZNblozS2w3X2Zta3RTeGxGbHQ3ajlILWkxLWQ5elEwYmZDZVdqbndJZVhtVHZtUE0weHVhRQ?oc=5",
+   "data": "2026-11-25T07:55:44.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "9fh617",
    "titulo": "Veja os carros do GTA VI na vida real com Pichau Skorpion",
    "fonte": "Sala da Notícia",
@@ -1756,102 +1852,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wynidr",
-   "titulo": "O que o fenômeno GTA VI diz sobre onde o consumidor gasta tempo e dinheiro",
-   "fonte": "Consumidor Moderno",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DYzhJcjA4VURvMnZ2YmdQcW9TeURTMWtsM0dMWENqcHQ2Zmd1d2RwNm44OG0wRVlqS2l5Nks1OWpZRHUwajJnQU03SmdZam80V0htUmpHRHo2TUdZTWVTNHlVRVNRdUZvU3BzdmhyMVFMYlRUQlVhT3V6aU8?oc=5",
-   "data": "2026-11-24T21:38:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ikxe14",
-   "titulo": "Não tenho um console e não sei por onde começar: como posso jogar 'GTA VI' gastando o mínimo possível",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPeDd4R1puY3ctbk5fSFRfWXNRd3hVVVpERk9EM0lGQ3ZZRTQxa1dXUVB0c0VCRkliTE5NTi1YYW1LOVdiSE5HdDJLTGg4UnVlVng3bEVwS19nV3JvajRVcE1HT3BGdjBMR2Z3ZlI0NUctTEd4ZG1Bb2o2SGM2QnN4Rk9zVWE4NVhuSFhGZVJRQkd6djNIR1pZYUM4N08zWlgyMVU1cW9RQ2VSZFQ5Y1RWbmZpYXFMVHo4bVYyWm0tTVhkUHlhSUZQN1NNakk2anBDZ0NndnpzUERPUDR1bFN3NFBpY21CU2lTVlVNQjlaWWZKaVYxYlNXQzFmaVBXem1zR0Zldg?oc=5",
-   "data": "2026-11-24T21:35:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17zj9g3",
-   "titulo": "Fusão com Tesla pode facilitar entrada da SpaceX no S&P 500, diz JPMorgan",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONG9lWXR5emoxU0w3Y01KVDJUbW9lNW5taF85dm9EV0FPNkRpV2NoLUZXdEtsVXVSWEVmWjZwUlFkcndKYUt1SEUxWmUzWElYb1YtZnZxZ2J2eXJCRTd0cE50VTVuXzBFUndNUE5EVEtfeXpQSENSVk1tNkttb2QzcEpKUzFpaEMtRXV4M2ZxRGhTazZFb2NxOF9JSkJvYlJNUXRvVTdRUmJuYUxQRlZz?oc=5",
-   "data": "2026-11-24T21:33:32.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "59ocpf",
-   "titulo": "Ibovespa fecha no vermelho após presidente da Petrobras não garantir dividendos extraordinários",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWFNwRXQ1emNlX0RMZW85VGZVdDlHYWNfUEYwRk1MdzZTYmVwQkRaa2lLSXJUQlN5b29fQ1lSQ3RFRGZRWWJTSzR1X0ZXaWJraUJSTWNyQjVBUURFNDhWcldxOHZtZkltVTBuYWZkRWhEVE9TN1NPQUdRTUQyUERBZDczajhjVl9UMW4wTXlFQldCYlNpX1pFRlJWRjc1YUI2ekc1TEF3TDZ0enRVbXo0U1BhQ2IweG4yRWo3SjkzTzBRY2MtaWJpUVljbw?oc=5",
-   "data": "2026-11-24T21:27:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Ibovespa",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "m6ioir",
-   "titulo": "AMD leva Radeon RX 9060 XT até 4.837MHz e bate recorde mundial de overclock",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbW5wM1pTMGt6RXJvbWd6SU9FVHI3Z1BUSDBNSXd0WXAtUzYzRDdNLXM4RUdrVE85cExod1ZvblpOTWpzMXFxUHFZQXlhZnpvTDcwQkNlQUYtVUxVbTVXUTNRQ2ZMNUZ2NXAwblNVWFZyWk9pRlVINzUwX1QzSEZBby0yaWEzaWZUOHlpN1g3eGZuemt1THBfdDluWFhHdnVMcWU4akRZeWJCUW1oT1FN?oc=5",
-   "data": "2026-11-24T21:18:00.000Z",
-   "cat": "Movimento",
-   "empresa": "AMD",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1am2923",
-   "titulo": "Ibovespa cai apesar de 'alívio' fiscal, Vale desaba 5,5% e dólar recua a R$ 5,91",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzdGp1U0pLeVRpX01WdUJLYlgtR25EbXFMc0tSWE9GT3lfZ2ZOWFNaX1ZzV0VrYVFaajFxaHg5RzNzdGMwTmpQUVg5Um93UVVqU1o4dTNEUUQ3cWNNUDdUVnZaLVl1dmxWYXNj?oc=5",
-   "data": "2026-11-24T21:15:58.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qpvu95",
-   "titulo": "Como conseguir o chapéu de Arthur Morgan em GTA 6? Veja onde encontrar o easter egg de RDR 2",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSUlOcUxoRTM5cm9IdEdnMU1vYl93N0pJcHIyZG9pTHZTd1l6X0ZBWmhfclNHZllkTjN6YmYzZ0Q1UGtsNFlzTWxwRmZXT3B2WDBMbEJacDRzR0JUT2lzNnFGallLVXhqeGRJT0Fnejc3U3JKXzk2U2Vnc0ktWDFBeWhrcmFlTTdIUXdMQmlXLXd1VS1ad0JwWDVOX1FnTFRxbEJIcHpCQXlHUVFWWkdtblBhOWdzT2hMSkEyX2VSdTBZeGxqTk5xX05fZVZIRnPSAdQBQVVfeXFMTUZXQTFlM0VONEVvYzNTdEpGaXZsbVJMWWI2NU1xOUVTSHVINTh6OGRzMUQxdkY2QUltQjhfVzJKdlhudUVCR2R2Y0d4UFBRZjZzLUcwdHFmdkZocF9kY3NsQlpBVzVTX0lNRW5WakJJN29pam5saVFKRjd1eGFENFhXS09TWDh0MkM0cW91Um8xOU9DU0R2bi14LVhjcUYxcUVYdnJlRnBvaGItckJVaFVrYkw4LUZraWpwdTRNcjR6cWpMQVZaSXRIZ3ZoSkpxT0NJMEM?oc=5",
-   "data": "2026-11-24T21:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1aw0jwh",
-   "titulo": "GTA VI esconde boate de Vice City com gráficos de PS2",
-   "fonte": "Legião dos Heróis",
-   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSkgzU0k3YVp2V1BfQktmLVAwNTZwb21yTDZKMkxqYXlsTnU3X1dNeHBJcXZqV1lkMWo1SVhHMXhSQm03VmhfWWJyZVdIeDgtZVk5X2V3c2lmYnBUY0V1eGtWVWRnWlBhMEdLTW8xMTdqcjFoRDF2bkZwa0d0aHlSUElwRE9CUFU2QUJfbTNQT3NuLWFqNTBTRHBseUpocnM?oc=5",
-   "data": "2026-11-24T21:08:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
