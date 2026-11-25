@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T22:30:32.696Z",
+ "atualizado": "2026-11-25T23:30:31.476Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,18 @@
  ],
  "itens": [
   {
+   "id": "14zrgtz",
+   "titulo": "Influenciador de São Vicente vive o universo de GTA VI ao vivo em Miami durante viagem a Vice City",
+   "fonte": "A Tribuna",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa0l4SVZfQTlxSnpQWkcxQ1BsdnV6Qmd3YnFDTHhDcnMxM3o5QWZBZ3p0RGtra1VfNUtzU0JKRjBXQmxza01nYmtobG9XcHVHeHpYcXhRajFXNFluQTVyNVNzVGhiNFYtY2tndHk3R2hNdldDajg1dDVTN051eXJYODhFUXNldFBubk9VSE1VV21vMEt3WFlKVnpHNkgtbV9maGVCWkhNcWQ0cUZ3cmtHdEFZcGE0WmZWOWV0b1ZMV0VXUTNsaUNUNG1TMl82YXVMb2pla1RnZ0oweVo0ekJxdVFuYkVOcEJrQkhhc2l2V184bmlt?oc=5",
+   "data": "2026-11-25T22:39:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1atel5y",
    "titulo": "Suspense e investigação: três filmes para quem gosta de mistérios e reviravoltas na Netflix",
    "fonte": "Folha BV",
@@ -99,6 +111,18 @@
    "avisado": false
   },
   {
+   "id": "1mrll87",
+   "titulo": "‘GTA VI’ Just Might Turn Carly Rae Jepsen Into A “Late in Life Gamer”",
+   "fonte": "IMDb",
+   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UZGszeGFKaUxFQmFNcWhHS0RhUzkzZGY0WjVGUXZBMGVyOXZRa212enRaQm1SbHEwdHBGblN2NlUtNVh2S3NrdVAyQWVvUjU3dEpPNDJGbTRiU0dUbWM2eTdLMXVCU0MxR2c?oc=5",
+   "data": "2026-11-25T21:39:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "hwdnd6",
    "titulo": "Ibovespa fecha em alta com especulação sobre Fazenda; Embraer recua por tarifa dos EUA",
    "fonte": "TradingView",
@@ -130,6 +154,18 @@
    "data": "2026-11-25T21:30:21.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9boxgh",
+   "titulo": "Ibovespa dispara com notícias sobre ministério e fiscal; dólar recua a R$ 5,81",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1RjWkZvaVEzX2VESmpsSHN4bFBBUEU3RFNWYzhIcGRXcU42YkFXbGRKYUM1MVVBeTVwdVJwNGRZb2V0Yl9VdXYzbVNCZ3JuelVVcThUSkpia3ItRFpnbHotV0JBNlR0TVBxRHZJTkFNcm9qazZ0SHpESFZNNHBkRnAyWlJMSDlJR1lmQnBYOA?oc=5",
+   "data": "2026-11-25T21:28:29.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -239,6 +275,30 @@
    "cat": "Liderança",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1mzg3wy",
+   "titulo": "Confira detalhes da edição limitada do DualSense inspirada em GTA VI",
+   "fonte": "Diario de Pernambuco",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMXU4VmdJS19Ta3pzaThBZGRLM1Nrc0xUaTltWC1YVUNyTEY2U280WDl1YVNGdnkzaHVSdnBCTlRHNU9EQmptNXJFQU9lT3ZIaGIzRmlBQ213RkdLckpFOTM0aXRKam1TT01BLWJpTGtBa2xYM1p5aDFpbTdDWnVTOXBwbXJlMG1CVHNfOWNvM0NlVFdsT3FMY2RrMGp5a25kOGNVb3dta20wR3EzRkZESVZLOVhRM2s5NDQxN3pPRGt4aFRPd2JzbVZlMHE1SFVh?oc=5",
+   "data": "2026-11-25T20:17:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "t0mhc2",
+   "titulo": "Dólar cai e Ibovespa sobe com mercado atento a tarifas de Trump e medidas fiscais do governo Lula",
+   "fonte": "CBN",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHZmRFJLUTV1c0hEeS1GTmlpWEt1SzlfX2l3ZUl5LTdvODBRNGJNSUlpeEFrRF85ckFXN3RsTG9SNjh5UlhjTEU1RHlqLUZaa0RZTlJPUTVpMFJiWWlfQldBSl9SOVd6Y0dsUHlQRXdtWTNkTG9fTngyOGhxbE1mVVExWVlodHBfdWxRa05YZVZCUUxxSXpaLW84Z2dtZGU5X3dhaFo0emdXZ2xzTXIyeG9rVkg1RHdvZ0VpTTdkT1FpSVpLblJiLXBMTkVLOGxPS3A2YjNmTTg3eFBrYVNhRF9URHhKWlBm0gH3AUFVX3lxTFA0VzRqNUQ4Mld3bzRtNTFCU2JjYlVrbkZGV0dvVkY1SFA5TGVaX1Y1c2NKa09YNlJnNnBmMmZFbkh6Z2hqVU9UWDZndFIwV1ZMdnFxRks0UmN3Z0JyV24wRjhKWjVfRXNVb3AzNnQ2Tm4wQ1p0TFZYSG5lcWxzalAyeEV5amtySDU2a3FjTWdSeHZtTVdHTVh1R0RvRHdiZndaQTVQcVJlMHp5SEVob2dGZjVRTGZMODZNQnY2SnUyb1Y5eFlXc0N3MFVac05LNEtGMnpBaVNaYnFYZ1BkdUt4SFRmZDl4T01CazN4bE9kM2t1Y0pveHc?oc=5",
+   "data": "2026-11-25T20:15:29.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -601,7 +661,8 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795649431476
   },
   {
    "id": "1myn1an",
@@ -1791,67 +1852,6 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1pjfqq0",
-   "titulo": "Kalyan Krishnamurthy, da Flipkart — empresa de propriedade do Walmart —, deixa o cargo de presidente-executivo",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iVjd1ZGlMZ1FweDJfX2szMWVzNkpFbTdFWFFBWk0yekt1Vl90Njk1dHo3TzBGQnNYWlF1eHhVMzVnVjd2cFhLZUtfNENmUTNwWm53MjFXTU42MGQyUTcxajRDcXhXU2t1djFTNldvZHVHZkxjLU1v?oc=5",
-   "data": "2026-11-25T08:07:56.000Z",
-   "cat": "Liderança",
-   "empresa": "Walmart",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795600834137
-  },
-  {
-   "id": "1r93z96",
-   "titulo": "Anthropic fecha sessão com preço abaixo do IPO",
-   "fonte": "Jornal Económico",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUo0dXQ2RlVMbDA4Sm5Jc3gtUG1JSXdYNlVfV0lmOTAzNjNDQkZGUGpVNHRNZlVmVjNKbnhtaVJMSEdrbWNFTlBIaTVFS1l1MlFBa3p1U01xTk9JcmZGNFdPSnFSTkdRYzZTdlF6ZDBnd3hTMVhpRVFISFliMGFwdEZ3RzFxWUdKdkUtdFFpYUNHdw?oc=5",
-   "data": "2026-11-25T08:07:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5wjnrc",
-   "titulo": "Vingadores 5 bate recorde da Disney com 563 milhões de views em 24 horas",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0h1TUEyN2ZxT1FjOVJ5cGNmQ2FhWFo1QW5ta1laZEdiZnN0ZzNrbHVSQVdWaEpEQ3F6MHkxVGY1Y0FxWEtHQTV2cC1XbkFhLTl6V2NycWlmc0RaeFhPeVkxdVg0b2ZWZUxkYlIzV0dYdlBnVnhRMW9ZV3c3Zm9PaEJNT3pGTmEybTA2ZWlmNy0tcVdrc21RTGtZOW1TZ2RWazgzUzJwUEFJU0RDTXNwdUducWRVZ00?oc=5",
-   "data": "2026-11-25T08:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Disney",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "trlyf4",
-   "titulo": "O que é um 424B4? Os investidores da Klarna venderam 85% de suas ações no IPO.",
-   "fonte": "FourWeekMBA",
-   "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjVUE1bjJPcUVKQ3pXWXJUMkRMckh0YnA5TkUxZ1RMNU5VTmZNblozS2w3X2Zta3RTeGxGbHQ3ajlILWkxLWQ5elEwYmZDZVdqbndJZVhtVHZtUE0weHVhRQ?oc=5",
-   "data": "2026-11-25T07:55:44.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9fh617",
-   "titulo": "Veja os carros do GTA VI na vida real com Pichau Skorpion",
-   "fonte": "Sala da Notícia",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkpvWUxLZ09RNXNNXzBxUm9EekkzdjBJUVZ6UVBaWUlxNktWWEFDX2JzMFpDVHVUakl1dWdDZ2VZZ004WkNMSXA3OFI1VVo1c291MS14NVRaMHJrMmVwb0FKd3BOMzYwTDJ0YXBGNXZUQ0UtWW8tVjVSTkI3bFV2bjctOE9hNFVUQ0J4bGM1RkpnQkVVZUNqNlJrTF9HNzBUd1VNaU1HbHgydXM?oc=5",
-   "data": "2026-11-25T07:20:16.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
