@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T10:00:34.137Z",
+ "atualizado": "2026-11-25T10:30:26.522Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "922whg",
+   "titulo": "O prejuízo de US$ 115 milhões que fez a produtora de GTA VI pensar duas vezes antes de autorizar um filme da franquia",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSlQxNzJkbm92NzJTZE03UXFJYUdOSDdsMzU1ZUFaMWJTNVFEMi1MMUt1ejZGdHhJNF9KZDlJN0NTa0V6aElvREpQbWUzc2U4d2pKb1ZrNGZnNUhGYkRrWWotODVEZk5qOXBBc3VQaHZHalJOcFVianNSSGUtU3NpTV9xRjJiYmY3STc2SndqTUN1M0hmVWh4V0o0UV91MUh0eEpvb0xVeTI1QmVlVDZIZUdPWmNWQzEzdVFnZ1FiTmthb1pEdlQ2dS1FeUkzZE5zNmFrZ0ZzV3RCZS1TOFNXeEtJbnVVV184YWxfUng2Mmo?oc=5",
+   "data": "2026-11-25T10:12:58.000Z",
+   "cat": "Resultado",
+   "empresa": "GTA VI",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5r1a4j",
+   "titulo": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR?oc=5",
+   "data": "2026-11-25T09:30:23.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9u49su",
    "titulo": "Futuro Indicativo | Trump age como imperador e reconduz suspeito à presidência da Nvidia",
@@ -1812,30 +1836,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sfoc8e",
-   "titulo": "Ações da Anthropic recuam abaixo do preço de IPO de US$ 83 dias após estreia na Nasdaq",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNZTdGTzAyX3VUN0FsMEhBanlNOEc5WUVvTEdJLVhNakVpSWctS3lHQXNjR2Rfajh0QjdUYkdCbXJGNmRUalB6N0V0YmhHaTFkc2dfWmVmak91ZzdtLWRpSnBzNzBLdnZ0WEJvNmFieTBXXzhRTU1ndkhaRlV4UGVMX2wyX0FXZ0xqeXNCbmpxTEJoZGpoT2V0OGRidC1qUQ?oc=5",
-   "data": "2026-11-24T13:17:13.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "18hbo01",
-   "titulo": "Petrobras adia transição energética e aposta em alta do petróleo com disputa geopolítica",
-   "fonte": "350.org",
-   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSFBkRnlIWTlMNGU2U2tfLV9iZ1B1UURyLUZDR3JEdy12QVNaSEFwWk5PU2FWQW9iSzBMcVEtdmt6SzUtTUVYb2ltU3lQNW92R1JxemxuTFBFWkdQVHdZbER5RXYxVTJzWlF2LXp3VTZMZ1Uzck1fMnhraWVWY3JnZHp1dkkxSlV1cldYNVcxbmdndl9lVUpn?oc=5",
-   "data": "2026-11-24T13:15:54.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
