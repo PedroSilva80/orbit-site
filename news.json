@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T00:00:30.686Z",
+ "atualizado": "2026-11-25T00:30:29.770Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -109,6 +109,18 @@
    "cat": "Mercado",
    "empresa": "Petrobras",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16s3xg1",
+   "titulo": "Anthropic cai abaixo do IPO; perps superam US$ 1,3 bi",
+   "fonte": "Webitcoin",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbkxhcHAzWE9NeGNNd0JnUlJhZ3NNZFdPRnRJNV9zRHNBdkpXS1RncjAtaVpvU21qUjN4VWxyN1RXSEpaYl9YRl9Lb3V0M1drdGhEOWo2a2l6RFljQkJzOVVDV1ZPSF9xT2VPbUlTUjBKZWVVMUtlTlNJUnZYUXRQMHBR?oc=5",
+   "data": "2026-11-24T22:06:43.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1831,18 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xz9588",
-   "titulo": "Petrobras aprova pagamento de R$ 15,60 bilhões em dividendos extraordinários sob o ticker PETR3",
-   "fonte": "Clube FII News",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUTZaOEZDVEI1Nm83aE5FU2tDdzFPMUZqQnZfcWhwc0RISWNmbTlROFlodktUQWZzY3lwWHNGYjRnWmhGa1VEZEVNaFFfcGQtTmxhTW9GWmhjM3YtZVJBUmhaSGxERFZHMkdXRkduTzhXTXh2OTJkZVB6MW85RTFOTE1HZE9aX0VKNHIyeDNLclBSenktVVp5aVpuN01pa0xubkNr?oc=5",
-   "data": "2026-11-24T11:30:04.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
