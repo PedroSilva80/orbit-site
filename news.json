@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T10:30:26.522Z",
+ "atualizado": "2026-11-25T11:00:31.702Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "jxji34",
+   "titulo": "GTA VI atinge 45,5 milhões de unidades vendidas nos primeiros 3 dias",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXpKa2M1VHEtckZlWGRFWFJvTWN6Rmtwb2IyTExnQ1lQRXhPdF9UdEJ0RUlPRnp0UHZ1S0RqNXBHTktUQk10QlNLcERQNWdjTGgxVFp5VVJfOHJuWXpGVC13cXBja2t1NXJIdlAyaXRHcXl5a0M5SmRSRDNkX0MzeGF3cEJEQTZqdEpibUpuWW1WTUx6VDRYVnBqX0lqeUZSdVpEOWp6VGxLcFppVjJPSGxuTzRYWmc4WTlPWlpIZlA?oc=5",
+   "data": "2026-11-25T10:46:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12usp2j",
+   "titulo": "Basf aposta em R 97 bilhões em vendas futuras para viabilizar abertura de capital da divisão agrícola",
+   "fonte": "MT HOJE",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc20xRW1xdzJBZDB1c000VDIwd0tzZUprV2VBcS04eG5hVjNQY0d1X19MRG5zSVloaUZyNTJ1ME9yWW1jM2RsUlc4MERLMGFCWG14SjFJdTk0eWlQbUZZRV9LR09vQUhNVDB6YXZwOGlIQW5Scjd5eGhwZmhWTVB2cFkyTFd4ODc3OW0xcWFlSWI2VWQzNUpfcHBrVl83ek9VRHpldTJCQXhMQUtGUm05VWNzSGUzVjNENVlXZms1ZV9RN2RtbEhVYXRxRkw2QVplYm5DV1ItbjJkYnhC?oc=5",
+   "data": "2026-11-25T10:41:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "922whg",
    "titulo": "O prejuízo de US$ 115 milhões que fez a produtora de GTA VI pensar duas vezes antes de autorizar um filme da franquia",
@@ -331,6 +355,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6z9hma",
+   "titulo": "Elon Musk recorre contra decisão judicial por suposta fraude a acionistas do Twitter",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkIxT19TWk1IakJPV0tieVdFWTNCUEhmNkIxMktsc0RWVE4xLW5QTEQ1QVlGWGJzS1ZMSVJ3WTRwUld2UmVzQjlKOS1vY1p4eW5vcVVxWl9HUkV3WWJIa3RiX2p0c2g4STFzQ0U2aUFLNlI3dGJfeDlJSWlUTW5jZ0dmRVpiT0JsNWdSN2g1QnctME1NV0RMc1FLT0dYWVNjdVNTU1RNUHc2SWY4UXNFaERCcFZhenk4SnptRXhKY1Q?oc=5",
+   "data": "2026-11-24T23:42:41.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1346,6 +1382,18 @@
    "avisado": false
   },
   {
+   "id": "1sg2q01",
+   "titulo": "Anthropic (ANT) cai abaixo do preço do IPO de US$ 83 uma semana após estreia na Nasdaq",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUtFUHdQWll1QmJaSU5xZWwzOWVLUzQ3NmN4YXV3SzRjSzhfanVRSGZ3R2VXa202M1E2QXYyTFVKRG9TUjZHMWpSd2YwdVd4bVBXT0Z4WGhuMDZhbkVVSFEzejRVU012M2JsV2VHbVdTUnVaQzZGM21TWkhFeUltY0JHeWcxS1d2Nlc5RjBn?oc=5",
+   "data": "2026-11-24T15:21:31.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1z0x2l8",
    "titulo": "Rockstar derruba projeto de porte de GTA 6 para PC e acende debate sobre modding e controle corporativo",
    "fonte": "gamepad.com.br",
@@ -1788,54 +1836,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17xxzi4",
-   "titulo": "GTA 6 deve ser jogado sem pensar em listas de tarefas, recomenda Rockstar",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTVdCNDFsQ3YyUXgxRnA0MzI3eUl0RFAwMThjakVYRkNDZ3pYeDNDQVFJRTlGSDJWcXVwZ2xjTVo4RWc1YVRSM1FfalJ2eHlIX2pjbWJZVzJFdEt2M2dUTGxaVlZCMk9Tb09VRnVJRWNHNV82RDJ4Y21zazZUTER3NkxmR2hvRl9MMW82Y0o1OEhZSDhHNHpJQ2ZqRzVyZnlTcjA0OGNoTTY2dkFMd3c?oc=5",
-   "data": "2026-11-24T13:42:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7105zg",
-   "titulo": "Ibovespa hoje: Retorno de CEO na Nvidia (NVDC34) impulsiona ações, aprovação do pacote fiscal na Câmara e petróleo em queda; veja destaques desta terça (24)",
-   "fonte": "Empiricus",
-   "link": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOWjhyZjhscjFReVVod3BwQkFpRkt5OThiRC03S2UtalVvWU9ZejB3N2xqUVJBLTJJUFpLVnlpVDFibW5VcnNGOTMtTlZTWG1oQWZfZWljOXFvSkJjOGdxekN1eFU3X1Znci1EUGFtRUlzZGVDa2V5d1lBWUdSUTBqbHZ2MHZVa1RITDFVT0hVN0lBTWs4R1ItQi1aVktkNUZfZ004UWtKVFlaakdJb0Q2c2hQU2ZJLWNHT0pFZEFzM1V3SEpWLVk0cWxwVjNhU0htd2c2UGpaOUVtNUo3a2V3MTh3MVJnSmxwNGV0YmRyYkI0R2toYlRycklIbml5Snk1a1NBNm1HUWwwRU9FUjF6bWZkcGV5b3hOU3BUVzlRV0NKU0tFdTM1Uzg5aXFtelU?oc=5",
-   "data": "2026-11-24T13:32:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10wy93o",
-   "titulo": "Acionistas da Prio Forte aprovam cisão parcial de R$ 543,8 milhões",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzZKbXFyV1M0RXVFU2J4RU5mN3dGbjcyU1c1RmxtTlVBbkJTc1RNdHRSWkhjR2hWYjBoTVJrcHpLSUZESnkyTXBtcWFpdEJ3MURiS2pnOFVGNjVLeXFzV05JOXY1dUVfSml5eHBaaUFsMU5pZkpqVU5obk9aOExiOWxBTHlsZW8za002MnBab003Y2ZoLUZlWUtMN0lsQUUzcTdBWFJZRWJFcUdsVlVaeFhteHpNdVFrd0JlLUctemYwQ1U?oc=5",
-   "data": "2026-11-24T13:31:20.000Z",
-   "cat": "Corporativo",
-   "empresa": "PRIO",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lifimy",
-   "titulo": "Superinteligência, perigo e uma entrada em bolsa: que consequências terá a IPO da Anthropic?",
-   "fonte": "Expresso",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNaTJQNnBZb0I4bWRuRl9jZHZneXV3djY3aExCVWV2ZG4tYURhM044MDVmTVpnVUNrR0FjVVgzX0gyV2YtZ1B2ZFd5d0k3NDFFM185Q1JSS19FMXVodDVjdWk0TUtuTTJ2RmhleFRJUDFfbE9MY21FTlBZVW9wTkVsQ2NTY05iUWFCdHZTbUgzakNhcGhPOVpGZm9SdndiVXZhbjdvMkZodXoyV2NrN284SVFjLS1kVTRUak5ieEd5dVhQSFZCSWlsbE5kS2lQQ2NJVWh0dw?oc=5",
-   "data": "2026-11-24T13:19:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
