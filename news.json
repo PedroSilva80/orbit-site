@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T00:30:29.770Z",
+ "atualizado": "2026-11-25T01:00:37.036Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1xcmr2q",
+   "titulo": "Hoje no TecMundo (24): Jensen volta ao comando da Nvidia, GTA 6 recebe atualização e mais",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQSzRIOG5TNjFvdVlhclFLX3pNdk9rUHJQS1MtMW8xYktRXy14OGJ1c0FxUkxDeWwwWk5RdnVnNEhwQ1F5ZU1VYktBUWUxcGhacEZTU3VQSEF3eVJfRFBqdjJHNW1BR2dNa2RpUWxOM0lDYmhIQzd6N1E1TUVpTDl2RlBZczhOVUVfcTYzc3hreTBvVHlmLVhmd0VQWmlnZERVZjhoSllld241c21hcnJRUkpYSV9LSUpid3AzMl9KVEJMZjVNLUNzNXFldEtBOHBKRmlUUFVQTQ?oc=5",
+   "data": "2026-11-25T00:55:06.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1jv6kpu",
+   "titulo": "Surpresas escondidas em GTA VI",
+   "fonte": "Fabriccio Lucas",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjJXaHBCSHBGbmhBZXJTR1JWRjMyODNoLUp5ZkFob25ZMjBCZmJJOWg0allxWS1ZVG80OS1pWm9ZbHJEMkhGaTk2bXZxTlpRbmpNV0t4d09abEdQRy1WZlVBQXJScGFhZC1UbWZyZDAyR2ZldlNWdklERTNFUnVuaXBtejEweURuZ081RkZlaDNnR3hn0gGUAUFVX3lxTE5SMldocEJIcEZuaEFlclNHUlZGMzI4M2gtSnlmQWhvblkyMEJmYkk5aDRqWXFZLVlUbzQ5LWlab1lsckQySEZpOTZtdnFOWlFuak1XS3h3T1psR1BHLVZmVUFBclJwYWFkLVRtZnJkMDJHZmV2U1Z2SURFM0VSdW5pcG16MTB5RG5nTzVGRmVoM2dHeGc?oc=5",
+   "data": "2026-11-25T00:51:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "10j0sut",
    "titulo": "Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM",
@@ -1294,6 +1318,18 @@
    "avisado": false
   },
   {
+   "id": "472lzd",
+   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos extraordinários",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0FGd2ptVWhqcUVjQm1JR2hIaGZXNzRxYklFczduakpBaG55NzZ6T3hPRHVVVlF5eFJUc3FoZUxzRTJpMW00bEQ5OGYtRDh4MDJyNzc3MmJ5SXRDekFrQy1tQVEzNDRBTFEzd2hNRlFaU0RJX3JCYS1RTHNyeDNJcWxJRU5jVVNfc2ViWGtQUlg1VEc4Q01IcEdzbTFOYWIzU1BMakMySjVZVTAzRWxtOUhyWlk5MHcwVldkbElGWXg?oc=5",
+   "data": "2026-11-24T14:10:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "6cv4en",
    "titulo": "GTA VI coloca Brasil entre os cinco maiores públicos da Twitch e Alanzoka é destaque mundial",
    "fonte": "jwave.com.br",
@@ -1806,42 +1842,6 @@
    "data": "2026-11-24T11:58:30.000Z",
    "cat": "Lançamento",
    "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wafmof",
-   "titulo": "Itaú lança ETF de ações globais com aporte a partir de R$ 50",
-   "fonte": "Let's Money",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhVF82UHdxcy0zQkpjRDdjeHpIY2NUV1h5dlNQOVZTSFNrTFNWUjJFZ1dVV0FsQ1o1NW9ldjM0dUUzd3A3dGl3NDZ2cXJOMkh0elBZbkVuZUhXbERkeTdjWEpZMmxJX1hwR3BsdWVtMHRqYnBwY0Nj?oc=5",
-   "data": "2026-11-24T11:58:17.000Z",
-   "cat": "Lançamento",
-   "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vzi5o9",
-   "titulo": "Regresso de Jensen Huang à Nvidia gera ganhos recorde em bolsa",
-   "fonte": "Euronews.com",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSklHRkZjTzJaM2NFUFV4WVNDQmQyNFlpRGxDODB6Q1JXb09VRHU0OEsxQUxidkdSVE5hSlJhLVR2d3ZYRkpKeWxhVUI3emVOOHJnYTgyLUJCVGtkcTBJaTRpSVFFUVBXV3lmMXhLQWFZTVRlbGtGNXFIRXQzUVQ4NmRCbzFDbEFXRHpsT2dnYnhkN295blJrSFhtQkI1RU1IYTdkblFESVZGeFR6LWlWa3Vn?oc=5",
-   "data": "2026-11-24T11:38:31.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1spun1z",
-   "titulo": "Modders conseguem fazer GTA VI iniciar no PC e estimam versão jogável em uma semana",
-   "fonte": "mmorpgbr",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUE5BUkM2NVJONFl3NUVqVjdnQmFMeHlTdThYRkR2clBwLWNCRnJqcnRCbUQ0cTUtNk9kaTlrU2N6ZkQtZTF5N21xNW9XbmlYVVM0ZFNOZ2NrNGFUUXhKUHVUNDZBT1ozYTd1RmUwem5FVFVORTBacE1OR2ZzLVdvRmcxbXdmaDd3a2xwRjZKZWJWNWFoajcxbW9CSmZETHFhUTdQTzVkbGxoVDh4?oc=5",
-   "data": "2026-11-24T11:37:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
