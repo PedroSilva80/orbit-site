@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-25T22:00:31.803Z",
- "agendaCal": "2026-11-25T16:30:26.566Z",
+ "atualizado": "2026-11-25T22:30:32.696Z",
+ "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -49,6 +49,19 @@
   }
  ],
  "itens": [
+  {
+   "id": "1atel5y",
+   "titulo": "Suspense e investigação: três filmes para quem gosta de mistérios e reviravoltas na Netflix",
+   "fonte": "Folha BV",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0pXcTZUUHl2WlRDR3d2VlRJRTZZVXJHMlloZ0h5LS1WZzZFdTJ2TUM1NndYMENQcEU1dEZBRWhmbHNhYkhOdDFYYVhuZjkySmZDc0VfbzZrQ3pfUk9TYnlvbGVSVEYwYkdPYm1JM2l3V2VrU0tEVWdmWTd1aGRSNklITE1Vek9Wc2k0RzRLNnI3c1VyZmR2aWNNMmRmZXY2LUJKNmxJUXltZGVDRGc2Tkdta0RuclRNQ1d2eU0xZVpHVWJoMk9v?oc=5",
+   "data": "2026-11-25T22:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Netflix",
+   "score": 9,
+   "marco": true,
+   "avisado": true,
+   "avisadoEm": 1795645832696
+  },
   {
    "id": "1p3ccsa",
    "titulo": "Ibovespa dispara com especulações sobre Trabuco na Fazenda, avanço de bancos e queda do dólar",
@@ -693,6 +706,18 @@
    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYW81Q2pvY1U5dFJjVl9Hc2EyblBCRzZDODBvSTBCbGFWdTJDaXAzN05yd3dVNzhuMEVneTEwN0lzVFVSMFM0VHVDLTl3cHA1R19IWmhCUU9mMFFCNS1sRktRSFR1NVdicHRNcnFoWEsxcGVqc1Z5ZlUzUmo1OVFjSFRoMjhEUnZGYTFUUUM5NXRiZHozNG53MkZDT0pHTnUtRFExOHgzekxnRHRMY0hGbUZxYmFIUVg2dFhyU1lnaTl6Z1JBTm5CZXUwRUdVZHNnVkdpS292TUQzdG9QOThUZGJrS0c3OGhyYnFCOWJud1ZDZ9IBgAJBVV95cUxPMWtJejk0bXVaZHRHd1VveTdGVTlfTGc2X3FBT05DMHo4SW92VWVZU0RBWVlIS3VFVWhfX3Z4SVp2U05KU3pkdE5nX1FubjhDUVVFRUhZSm5xNzdhLXNieHo0OXBfd2R3dVBuN2YzbVQzX2l4bHhlV2ViTkJQOEU0aUpKbDhmMzUycHEtUEJiMFkwYjltajI2QkJsX2taTTB5SGNxdjBGM1hzY3hMVjRBd0VERjhZV21KSXBmemFzSWR6MFhBaFZIalBaZzRnSXRRS2V1QllHNUlCNi1xalljeG1DX2Zxd3htaThkTUhCRjF1Ump2WEdId0Rxc3JMZklY?oc=5",
    "data": "2026-11-25T16:07:09.000Z",
    "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8oiirt",
+   "titulo": "Compra do BRB é avaliada pela Caixa após crise do Master",
+   "fonte": "40graus.com.br",
+   "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40S1llcWFNWXNvSkFBR2w1WENIUy1WOUhXbmZKVzFoUExSeVpQVVFwQmU1c3hOenlmR20yTmo5WGFGZmxQc0dobU5hVW04MC1WV1BPajA2clRRZkdCUDFOaGpXZFlRS2ZuYjhQQ3NoRQ?oc=5",
+   "data": "2026-11-25T16:04:42.000Z",
+   "cat": "Corporativo",
    "empresa": "",
    "score": 4,
    "marco": false,
@@ -1827,31 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19u802p",
-   "titulo": "Ações da SoftBank despencam enquanto IPO da Anthropic sinaliza alerta para a OpenAI",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJQVXYzTjhOdGhoY29XTlBRWUZUeUt3V252azV3RDRjRzQ1bFVfQklXLW9nM0RKb19EZm1rRmU1V1JmYmlVUnVnYS1TS3BPSHVHcHFuVHhxQWQ0VXVZZEc2SG8xYjgwTFdRYUNIVEc1ZEJoQXdzTWtGSThsWEtaX3FuenA5dGxDY3VPV3Q0b09yZWE5UU5lbUpMcVYzaW5aN1VVdDY4THRiRzF1am42bmVCMVd6U05RbkhVVDNod0hUaE5x?oc=5",
-   "data": "2026-11-25T07:05:46.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795620625293
-  },
-  {
-   "id": "p0zptv",
-   "titulo": "Um Canadá de gamers: GTA VI já reúne quase tantos jogadores quanto a população do país vizinho aos EUA",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRDNsVGlPR090SWluWldXVnNKVXVYZl9sQ1FDOWpHd0Nwdl85SzBjU0k3aVBfZVA4Ny1ndWhuQVRaYllrR0h1dHJzZ0lDWVVIX1NTM21jWnpKR3hKcUNPOTNCanBGeFNWcUVUYm1EVFl0OEk1ZnJkTUsybFNITmRVN1lfZjBxSkF1alpyNDBuMkRxdHRDNnNRZl9BN1dweVFCVXJKTDd0US1iN3g4QW94N0lMajdfVFhrOU9JaVdfRi1acDBscXlRdUpiMWpzd01NN0U2aTB5MjVPaU1ySTJtOUFldGd5MlBsTExUdE1SdkJBdkZCcTdaLWtOTHAzQdIBjAJBVV95cUxQSnkxTTJKVkRBa21nRmx1eTNoejFtaGdheVE0VDlPcWQ0U2NUTHh0RTZTVmRrYjhvSjJJT05ndUkxQUZoWmZTSHh6RlJoUnJSRE16T0Y0LVI5cVhhdFJxeC13N2l2a0xjVE9NX0p0ZF9HWVpkamlaTzVDTVlXUlJ3R2NRd1JqY3Y2NkhacEozR1Z2SEtLSWJ5ZXdJQkJDdENHZUIxZTJXSDNKV2hWd002WEZkR3pETm5pYWpfSUpiUEJYb2hzajBFdUVRV3k5YW9PSnRwcG5ualFVTVNxVEVnRGxRUnNLQjMyNEUySWo5UVhnNlg4WjVMQkZoczVla1ZqUjl3RHVCUGtDTmFy?oc=5",
-   "data": "2026-11-25T07:00:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
