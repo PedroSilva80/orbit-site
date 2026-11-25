@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T15:30:25.293Z",
+ "atualizado": "2026-11-25T16:00:16.331Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1bsw1m9",
+   "titulo": "GTA VI: como encontrar os alienígenas e completar a missão secreta de abdução",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5dWxzT3RzOWItTFR5UXp2YlhOVHZZdkR4UFh5LWhmcGxBbUN4cTZxblRmZ3hlUllSb0kyNHpvTldsNUV1NXJjbUoxSkV2WkVYNlU1b21FX3diWi0wTW9KZDdDdUNBVXNkN2tCd0dWSm84M3RsTy1VQU1B?oc=5",
+   "data": "2026-11-25T15:53:27.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7fha7m",
+   "titulo": "'GTA VI' Vendeu 47 Milhões de Cópias no Fim de Semana de Lançamento e Tirou Jogadores de 'Call Of Duty' e 'Fortnite'",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNc1NlUEIxSnF2dGlKZ3RDZWVrYUxRQXI3SUZaRHREcFF4VG02TFl4MnU4RkZnVF9pQTM4X1EyUTRsbnBUWjV6X1k5LWRTTl9YU3ZWd1Y4TTNXRWhmTmNEQ3d5aVc1SzA4RkxWdVFoTnhDc0V6WUZKQkxEdzdYUmpRU3JobFJ5V0E5bEJYSjVNNEJPR3FMek9JeWVMNEN1cTBSRnBWSWI0ZWIzTU9zRWlaMUxQWmw2WVhWUG93eUNUZGhmWmxHYTBfMkM1MmR5c3JxMFVySW9XV2JrWmJoZVNKOF9fLXpoRWNDOEE?oc=5",
+   "data": "2026-11-25T15:51:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "17s8d55",
    "titulo": "CEO do Telegram ironiza GTA VI por ausência do aplicativo entre criminosos",
@@ -507,6 +531,18 @@
    "avisado": false
   },
   {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-25T12:56:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "aqqvor",
    "titulo": "PS5 apresenta mais quedas de FPS que Xbox Series X em GTA VI, aponta análise técnica",
    "fonte": "mmorpgbr",
@@ -623,6 +659,18 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1x04hlv",
+   "titulo": "Dólar passa a cair, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
+   "data": "2026-11-25T12:00:33.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -804,6 +852,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "capkg1",
+   "titulo": "Ações da Nvidia despencam 8% após euforia com retorno de Huang diminuir",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEhQZkVmblg4czZPZGh2OENMbmNzX3o5N3hqN0NNRkUwT2lYNTU1Z0FMUEpsVXRfZ19SdEhmMGprS3AxR0pmZFJ6ODRqSzY1NUo1VThIVktnelFGN2NJX242aldhclF0T2ZzZTBkWEstbl96VEkzUTFqZUJxSmV1YklJQm41WjdzUXA5eExENDdFMkpEeTA1MHVvVWhBOEN5aVNsSzM1dlFjblZTV19kUlpVb1dfOTRYM29nenkyamxtWk5P?oc=5",
+   "data": "2026-11-25T09:49:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1792,66 +1852,6 @@
    "cat": "Mercado",
    "empresa": "Petrobras",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qr7g4x",
-   "titulo": "Laboratorio Sanofi anuncia compra do grupo Insmed por US$ 41 bilhões",
-   "fonte": "O Tempo",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdVN2cDNaVkpad1Bhb2FwU0JBNXpCcmpWN04xZVlhTU1LRkNjckpFSGRPZWJGZHVBMHlSSUVlU1MtS3JhMmZjTWdOUmpnaGZuNVJDRzk2NGxCMERXR3QwQTIzRDhXb0k5XzRpWUxBSGRrLTRjZm5UOUNfbm5iRWo5TWtTMWE5Ml9jVVRCaEMxdFN6NnhCbE1udjdLNGlHVXBQbU1fNE5DblVuOFJyZ0QxdmMxTmp6bXM5eEs1ZjRyWHJ3TE5K?oc=5",
-   "data": "2026-11-24T18:44:17.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q95y84",
-   "titulo": "AMD quebra recorde mundial de clock de GPU com a Radeon RX 9060 XT",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUWoxRGRGX3lsaFAzWGROTFVmVEJJNWMweXlCRkc5NEkyczJLejlIU1F1cW9QYVFqdUcwMnpxOVh2LUp0X0w2b29zN1BxYThRdnJVN1h6d0haVllleThFbWpkcDZmdllrRVVtRkhmUGthZ0d2QXRLamtoa3ZPQkFENUZReG9lOHBackVqNkNwWjZFcUxvUmJHS0ZiLUhOYklPbUNNamlxdDhlcU83Z2c?oc=5",
-   "data": "2026-11-24T18:40:29.000Z",
-   "cat": "Movimento",
-   "empresa": "AMD",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9enmjk",
-   "titulo": "Trump pode ter lucrado até US$ 15 milhões com retorno de Huang ao comando da Nvidia, diz FT",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDBoT3JMVi1VcTJld0xFTlNxNnROVWx6d3pvRjZudnpQWXFCVDNVWTl6YWFaWGdWY3JFZl9wOEFZSTVFTEwzcmYxd2hqVmdGRkJXcGZVTElKZ0N5YkVoazhEc3F3STlCNWxPcDVMZWh4czBNTFI4eTloWDdZa3psbHRQRnRyZ2lFUG1iUFpiZGN4cTlzN0ZMMDRNTFNRYkVQNmdDbVZpQVNrYkVHOGpMX1FhUHpFSFk?oc=5",
-   "data": "2026-11-24T18:39:17.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x56fe7",
-   "titulo": "Anthropic abaixo do IPO: o que isso diz sobre o ciclo de IA",
-   "fonte": "BlockTrends",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9GYjdDRzlFeVI2ejNIR0tnTkc5WDdtUWg3QUZaYWZlQ2xjeVlMSEVtMXZ4amZyTW9pS21fVm1EMEVfbEd4bWlSUTlNR2pHSmF0Q2swYnNMaFE0QWpnd21EWk5ONFh6Wm9GNE9XVUplZElORlY1UkItZTF0N0U5NnM?oc=5",
-   "data": "2026-11-24T18:35:22.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "p055dg",
-   "titulo": "Bill Ackman: meta de 2% pode levar os EUA à recessão",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVEFWck9mYU9lSFR4ZzRLbEZLdnhkeG95YktranJqWWFzeC1vcGhad0Y1U1hJUjFFVE8xVDR3aDk0d2hqRlN6aW9iUnVBV1JRQnBDS0NVZ0lOemg4RE5rM212c0MyWXdlRmN0U3oxQmlJODA0S0RCUTlFajhWYTVXUGZfcw?oc=5",
-   "data": "2026-11-24T18:15:17.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
