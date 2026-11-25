@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T18:00:33.941Z",
+ "atualizado": "2026-11-25T18:30:35.786Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
  ],
  "itens": [
   {
+   "id": "i2zfng",
+   "titulo": "A melhor mecânica de GTA 6 foi criada para GTA: Vice City, revela ex-dev da Rockstar",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDd5S3NNWmg0b2k2aXlLcFVNMDJkR05vbG9LVUEzZVZQR2R2NGJyYUNCQXNyeHNrWFVTMnJVS183SXBDQUhNemNoRzRDRWRVYzdOLWF4STZMZVA2YUpoakRfOTMxdFZMNTRUaTRaUUhNb29WdFRVLXMzbWNKY2JxMXFZb2tTMUhMdnVid1UtSVVwZUZiUGZpZ2NTQnBCU2M4RHZqcFhRUDVfZDd3QVFDeVR0RTN6NF9FU1J0Vy1WdGVqa1NaN2xR?oc=5",
+   "data": "2026-11-25T18:24:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1irfow8",
+   "titulo": "Seis alternativas ao GTA VI caso seus filhos tenham menos de 18 anos",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3hoMnFlc0xZU1dJVE93cHE4MlJMWFltLWVLUXNUWklyQVpzck1ER2xVdXZIZTRza2kxRExGM3JWU2FEQjAxTFNtYXpLTkdCaFVqblpjX2tpR1VoQ3VSSFQtMGR4eFVtSFpELXdBallWX01xUldtaFY5SXRVSHFNQ3ZKbThIUGZXY19McjM3TW1zWUcyVG1QU0dlVEIzU3FLczI0Q29BZTBUQQ?oc=5",
+   "data": "2026-11-25T18:06:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19f75tw",
+   "titulo": "Empresas ligadas a Alice Huang ajudaram a financiar a indústria de IA chinesa, diz investigação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPczVLUVlDUW01blIzOUFoaFZna2d6MmpoUkR3d3VCeEJ1bVVwSXJsYWhEZzhRazYtbXBJb0puZkxtaVBxWkljSWp4bkhMUkpwR0V6TGtpRWVFbjdPQnZySmh0QTBfSWFGUzNCaVZ1T1VWclNfSTVsaGQ3Zk84QV9tcXNpWEFqR2F6UFRFd3RyZS13MVVvbG5iUHpWSERYZnpvVndsWVBLVjlMekdiSVFYN3ZXeVhnZTVvdUEtaXVKSWhBR0dMMTZpaW9pUmVKSzNZQ19LdE02X0PSAd4BQVVfeXFMT3RRU0NVMEFzaVp6blpISkI2SmRyMWszTVZHdFV2aUJRUWxPek9kbmtLblh4T1pWRk9KLWlnWXhsejI1cTMwaWUtQWN3Q0xsYjd5M3I4TWJfRUN4WHdUZTRodzl5U2JmMWJQQUxSaWhkYXhnbDUzRmlQdXQtMnFZM2Izb3E1NnFtT09lN1Y2OFJFT0J4d3h3bndlT2xHUkQyY1hsS2hYU3lDajVOZHVmYUdiUjdBTmJpSEVtSzM3OGtKQkJ2cERMNkNrQXdmZTNEU3VuRXJqVzZRS1ZsYkRB?oc=5",
+   "data": "2026-11-25T18:00:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ass1e5",
    "titulo": "Vídeo: Funcionários celebram retorno de Jensen Huang ao comando da Nvidia",
    "fonte": "Diário da Manhã",
@@ -59,7 +95,8 @@
    "empresa": "Nvidia",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795631435786
   },
   {
    "id": "1yv6stm",
@@ -98,6 +135,18 @@
    "avisado": false
   },
   {
+   "id": "1n9ml05",
+   "titulo": "Comércio de São Vicente prevê alta de até 10% nas vendas da Black Friday; GTA VI impulsiona mercado de jogos",
+   "fonte": "Costa Norte",
+   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUGJlRVRyTm1uRlVCd01lWk1NNjJpQ2NuVlpnakRJelQ4emo0UVdLaEJOYjBIZ080TUdTV3Mtb0VmNHV2U3kwanBzN1MyYlYtSG43aDFnS1JZSzhEeklJelE5c2daaE1rUjkwaXlvdF9YeXhPVnltY0E3UXZJeGtWODFMYWJIYW0tbDdSUWpRUE81ZU40ODN2WnAzelMtLWNiOFlfN05Lam9IaW85aVlHWUktOThvM0ZwekhrLXZldWN2aW42NlVrOXQ0TmpwSHFKRHl6bXlMbUVhVi1TdWs4YmlPWkJpdEZkY2NMZdIB8gFBVV95cUxQRmgxcTBiN3pHSGJLRHF0NHRIOXJyRWF5Y1JDc0dKNjRqdG9jRGFVSU1aTHZ0Z3RUWmFuZlJmUDl2ZFh5azMxYkV4bmFfZ2dWMnhiYnRXZFhFWUxoUFJmZTN0NVdERmcxWkRtMkRLMllYLWNQS1pNUVZEMlVLZDBQSTN5X1JOdVpTTUQ5aTF6OEdXbDFwMVcweEdTRUlvOGZ3bG1ZOV9OT0VfSExMM2Z3Z2hYZEN0Q3hZUGtVcjQtem9DX2dFOXlTRGtWY0d5cy10OXRVbGhTbUVpT2h3eTJnbXFTT1hqdGM0eHhmcGxneVdyQQ?oc=5",
+   "data": "2026-11-25T17:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1v5fsb",
    "titulo": "GTA VI: conheça o autódromo que lembra pistas reais famosas",
    "fonte": "tmc.com.br",
@@ -130,6 +179,18 @@
    "cat": "Lançamento",
    "empresa": "Disney",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gxu372",
+   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3NJVnpFREhPSng0UkZ0VUNNeXpTVVVnaFc3a0pkVnRvandZTlZHRWU3YjlUczlOemNxSVZ2bmRyeVdwWXF3elRyRlVSQ3JRaFhuUWZpSU03aVZXNWgwSTRkY1NESGlnLXZwUmxHdFNiQklIUUl2aG9PSkVYM1BlZzlhQ1hTRHNUakhGaGNhRjV3V0FOSWMyZG1mUnVubTJKUWdVWVdBd3lXT3czV1lNQzdlb2pkbnkxQXR4V1c2UEJwRkFpVW9CZQ?oc=5",
+   "data": "2026-11-25T16:54:58.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1791,66 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18nvnyu",
-   "titulo": "Sanofi compra a americana Insmed por US$ 41 bilhões e amplia atuação em doenças respiratórias",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaHlWUUd5T24yZHhEeU5aZlgyU1RzaDdUMHNKcU1PcktaVzNmRXVkQ1JUYm1RNk5POE1IRXZaVnRoQlp2SjNiS2VpTTJGNFM1S0lhSV9nOEZyc1lDX2JkSTk0U2pXTm9PN2xfQUlPMjB2UVgxenc1MXg5RmdVNk1PdnZhRW8wd1R1bkdMYjlWX1hLRUZ2b1oyM1hRR1JyZG9ockZqTVkyZ2Z4YVB3V1E?oc=5",
-   "data": "2026-11-24T21:05:15.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2yq12p",
-   "titulo": "Dividendos extraordinários são um potencial, mas Petrobras não está prometendo, diz Magda",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONWRrTWlKRjJqb1ZSZFRqaTBvYjZ3OFNDQk84UmRvUGF3X3Ewa2J1azZ6UEN0Rm10VzFyVFl6eXdCSlc0MmVYRkJhZ2JIUkxNa3c5MU1PbWkxRXZZU3FZSW1kS2x2blNTWmd5TWVlYzl4WGp5d3AtWjEtYjd3bjZXWWJBakVHR3Q0clFVM1pjX2pzWHdDRnlSY2lkb0RNSV9vN1d6TmNVRS1zZTJjUFNnMXctNUd5akFBNFkyU2NFcy1WYjVtRTR4b3Jqekx1bHFwbGgteGRmRm92RW11MU5YdjJXVDNIdGVWRzcycg?oc=5",
-   "data": "2026-11-24T21:02:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1se16pt",
-   "titulo": "Aportes estrangeiros nos EUA crescem 49%, mas falha na gestão pós-aquisição compromete 68% dos negócios |...",
-   "fonte": "SEGS Portal Nacional",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzFvT0xOLTdZT01nU055MjlIMnkwdmpubTQ4VkVFN3ZpbG5ycEM0X2hxYm5oTllNek5LRGlLRXhXSVRxWmUxUjZmVEdTX2F2eThQemE1d2FQMFpMeHlmWDBlck8wb1RxcW5nc294dWdvbWh2dnVYbnlxa1JZLWlIV0IxdV8yejFmMUJ2RUI1cDVSZVZYMUtBNlE1ZFNKYkd1M09ieTd4TUs4Y3NYSTA2ZWw3UVZJT2pjNDNXd0dQUzlFaExzd3dVNjRxSTR3VnhjZVE5Y9IB2gFBVV95cUxNaXU0X29XRXoyVDRNRWNvNGRtZzc5Q05LX3pVQ1pEREZTTFlkVTJBXzYzVUJZTnQyRldVQzlkclpVSDRYYllGWjZQV3hwOUw1VGlIS1BvYlBtRTBDQUNkajJUQ1FGR2JxaGpVT0NlZndnWEJ2SEk2cFkzeUhJM2NFbzhtV1lZNGZTdVRteEp3RFlOYmxzQkpTVnE1UXlsR2F1Z3JjMWVBazduQkU4cWtOY3Axd1pnVV9IaTVsS1Y5UDdFcUFXOFVSRE5XNlJIVkt3RWJZcmVQVmJfZw?oc=5",
-   "data": "2026-11-24T21:00:01.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7r1uxq",
-   "titulo": "Não estamos prometendo dividendo extraordinário, estamos aventando a possibilidade, diz Petrobras",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZHUyMnd1TDJOUHl2RUQ2Q3pCZzdXQzM4S0dMRVV4aVE5bWtlcmxpek1pWkJ3ZDBFeTBETFJZWEYyOXhHRFVaU28xTTlWVzJ3YzhpampfeFVxZ3NYRjBoSDRNNmc5ZmpuVHZvem15bkRTSkVBV2RIWUtGTzFiQXFHcjdXRzZ3SXZpbWZsczlqekxHbWItUWVFSTlzdWNteUR6MEtvT3RXenQyVG9VbmhOdy1ZeTZwckJsYUNCYjdSV0NUYTdsbUkyX0ZSOE5LMDJSclRSUlBLanFSa2JfZGoza0dkUllmcFlQ0gH3AUFVX3lxTE9nRTZOdkpNSFdKQWI0cUpVV2tXWnVncjMtRUFrV2tLTUZQc21YaHdMaDVYdDBhOWlpV2VmRlA5XzlwMTNHLTNOcjdaUHdESnNSbUJKWk1MV3lCTmlNQVQ5UWNOQzN5S243a1I4RE5kSmktRlI0VDgxQnlTSUgyM0FKTTV5dnlPcGdGYlV1UFNVVDNFX2NscTdFd2NBQzY2d1RXVnp4ekV0V3ZzWlgwWXJJVmpXZzRzT1JpZTA4VFU1bzkyOGtQVHZKd180MjE0S25TNUpLRVJxdkNnemRsV3ZubHhmUktPYjltZ1RMTEdacWxIbG1LRkU?oc=5",
-   "data": "2026-11-24T20:57:05.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2dykr3",
-   "titulo": "Resumo da noite: ações da Anthropic abaixo do preço de IPO; ouro cai",
-   "fonte": "Invezz",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeGhfLWVxcFdnak00T3pGLWpUbkh1c1dNcnFRZUJlaUNDWmNBX2dSNDRrVWV5dXJIbmU2Q1dqWVRQaWItVTNYZjBaX1lwQzZmaVFhQUhlazdUUTZjajh6VlRZemJ4TDFhcWtiY2w2UDR0WkU3TVg4WjZWX29lZ290U3h3MlhqM3ZwRDg4eUtJdGRoQ3psWmVXeTc2enBZbUw0X2VramM3Y3B3Y000bFE?oc=5",
-   "data": "2026-11-24T20:55:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
