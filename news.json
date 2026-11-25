@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T05:00:30.071Z",
+ "atualizado": "2026-11-25T06:30:26.397Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1yqm6va",
+   "titulo": "Os traders de criptomoedas agora podem proteger suas apostas em Nvidia, Anthropic e petróleo na Derive",
+   "fonte": "CoinDesk",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRkY1N3Jfb2tHVW8yLXdEVkNIYTBqMnJHY0ktN1NTVTVTN21OMXFyNURXZnNQRjg2NGk4UnN5ZFA1OU43RmtiZGZCbndWVmhmN0RYbFcyb3ZBcEFoQkJsSlFEeWRHeDM4S1hHTTVpdU1fRHRDUFNiNDc2cXJDMDY4eTR0MTVkcmRaTUp5WTFfelQ1Ul9ZdGRYODdMOGpBTHVob3BVYlBBN2xKWmJL?oc=5",
+   "data": "2026-11-25T04:57:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1yditrb",
    "titulo": "Recorde de vendas de GTA 6: estimativa da Take-Two",
@@ -1823,18 +1835,6 @@
    "cat": "Mercado",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "h7ar3f",
-   "titulo": "Nvidia reconduz Jensen Huang ao cargo de CEO, e executivo é recebido com aplausos",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNWDUzMjRWRFF4aUtzZ0JHbFZiWG9HMEJTa1lBa1NwR1dWeEstY3Rvd0VkRTRGakhZSkQ3ZFBwZW8zUER4aUxXU01mWXZXa1d5cDJiZmhYQzFrQlRNMFNKMmZEVkE3SmphV3ZhX1YzZThwU1lHemNFZWc0MlJ5WF9JWlhOY05tNGEwMmFoYXk0R0U5cVpqaUZyUFlPYkpLajdwQTI2bGkzUmdYekY0N1JyNk9QV2I4dDhfVXB0cGFUdlNRVzBHc0taOExIS2hmR1BLYVVENnplM3JWWVpEN01V0gHfAUFVX3lxTE1YNTMyNFZEUXhpS3NnQkdsVmJYb0cwQlNrWUFrU3BHV1Z4Sy1jdG93RWRFNEZqSFlKRDdkUHBlbzNQRHhpTFdTTWZZdldrV3lwMmJmaFhDMWtCVE0wU0oyZkRWQTdKamFXdmFfVjNlOHBTWUd6Y0VlZzQyUnlYX0laWE5jTm00YTAyYWhheTRHRTlxWmppRnJQWU9iSktqN3BBMjZsaTNSZ1h6RjQ3UnI2T1BXYjh0OF9VcHRwYVR2U1FXMEdzS1o4TEhLaGZHUEthVUQ2emUzclZZWkQ3TVU?oc=5",
-   "data": "2026-11-24T12:16:56.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
