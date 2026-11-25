@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T07:00:28.194Z",
+ "atualizado": "2026-11-25T07:30:27.017Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "9fh617",
+   "titulo": "Veja os carros do GTA VI na vida real com Pichau Skorpion",
+   "fonte": "Sala da Notícia",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQVkpvWUxLZ09RNXNNXzBxUm9EekkzdjBJUVZ6UVBaWUlxNktWWEFDX2JzMFpDVHVUakl1dWdDZ2VZZ004WkNMSXA3OFI1VVo1c291MS14NVRaMHJrMmVwb0FKd3BOMzYwTDJ0YXBGNXZUQ0UtWW8tVjVSTkI3bFV2bjctOE9hNFVUQ0J4bGM1RkpnQkVVZUNqNlJrTF9HNzBUd1VNaU1HbHgydXM?oc=5",
+   "data": "2026-11-25T07:20:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19u802p",
+   "titulo": "Ações da SoftBank despencam enquanto IPO da Anthropic sinaliza alerta para a OpenAI",
+   "fonte": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaTJQVXYzTjhOdGhoY29XTlBRWUZUeUt3V252azV3RDRjRzQ1bFVfQklXLW9nM0RKb19EZm1rRmU1V1JmYmlVUnVnYS1TS3BPSHVHcHFuVHhxQWQ0VXVZZEc2SG8xYjgwTFdRYUNIVEc1ZEJoQXdzTWtGSThsWEtaX3FuenA5dGxDY3VPV3Q0b09yZWE5UU5lbUpMcVYzaW5aN1VVdDY4THRiRzF1am42bmVCMVd6U05RbkhVVDNod0hUaE5x?oc=5",
+   "data": "2026-11-25T07:05:46.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "p0zptv",
+   "titulo": "Um Canadá de gamers: GTA VI já reúne quase tantos jogadores quanto a população do país vizinho aos EUA",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNRDNsVGlPR090SWluWldXVnNKVXVYZl9sQ1FDOWpHd0Nwdl85SzBjU0k3aVBfZVA4Ny1ndWhuQVRaYllrR0h1dHJzZ0lDWVVIX1NTM21jWnpKR3hKcUNPOTNCanBGeFNWcUVUYm1EVFl0OEk1ZnJkTUsybFNITmRVN1lfZjBxSkF1alpyNDBuMkRxdHRDNnNRZl9BN1dweVFCVXJKTDd0US1iN3g4QW94N0lMajdfVFhrOU9JaVdfRi1acDBscXlRdUpiMWpzd01NN0U2aTB5MjVPaU1ySTJtOUFldGd5MlBsTExUdE1SdkJBdkZCcTdaLWtOTHAzQdIBjAJBVV95cUxQSnkxTTJKVkRBa21nRmx1eTNoejFtaGdheVE0VDlPcWQ0U2NUTHh0RTZTVmRrYjhvSjJJT05ndUkxQUZoWmZTSHh6RlJoUnJSRE16T0Y0LVI5cVhhdFJxeC13N2l2a0xjVE9NX0p0ZF9HWVpkamlaTzVDTVlXUlJ3R2NRd1JqY3Y2NkhacEozR1Z2SEtLSWJ5ZXdJQkJDdENHZUIxZTJXSDNKV2hWd002WEZkR3pETm5pYWpfSUpiUEJYb2hzajBFdUVRV3k5YW9PSnRwcG5ualFVTVNxVEVnRGxRUnNLQjMyNEUySWo5UVhnNlg4WjVMQkZoczVla1ZqUjl3RHVCUGtDTmFy?oc=5",
+   "data": "2026-11-25T07:00:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9n6f6z",
    "titulo": "Microsoft lança mini-PC compacto RTX Spark com 128 GB de RAM e 6.144 núcleos CUDA",
@@ -1176,6 +1212,18 @@
    "avisado": false
   },
   {
+   "id": "eg9bp5",
+   "titulo": "Ações da Anthropic caem abaixo de seu preço de estreia na bolsa",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Fa092QXdSYm82TU5zZ0ZJUVlrR0tlZTV5NXNqb013WFl3T1dXSDRudUpNMGRaWjVLaDlQeXhCSmNSNkVYLTdZbzRkX0JaV1dDZm5vRm9haUt3WE5QakxJWFpB?oc=5",
+   "data": "2026-11-24T15:28:44.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "1z0x2l8",
    "titulo": "Rockstar derruba projeto de porte de GTA 6 para PC e acende debate sobre modding e controle corporativo",
    "fonte": "gamepad.com.br",
@@ -1785,54 +1833,6 @@
    "data": "2026-11-24T12:39:34.000Z",
    "cat": "IPO",
    "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "118zs1x",
-   "titulo": "Projeto que tentava “rodar GTA 6 no PC” é cancelado após suposta intervenção da Rockstar",
-   "fonte": "Hardware.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KaWotZFNBblNGdGlYMWdUZndQNFlMUVl4Z0l4bUVaMWozX2o4QS1zTEJQMnVwVEZhaFhRQ0Z4TGZPOGJIeXB5UEllVTRLMS1ScktHaEtwMThTVHM2RUFEZmltSTEyU09MNlE?oc=5",
-   "data": "2026-11-24T12:39:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "6wvm25",
-   "titulo": "GTA VI: Rockstar anuncia US$ 3,79 bilhões em vendas",
-   "fonte": "Revista Empreende",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuWmlvSVVSaDZ4NGI0S3RlMko0N0VMbEhhSHZNMjZjcEpqaTZOMThYRk1sQ1Y5VUpzOUFnMVJIbldWU2JJMFgwZDRpZzRhYzNQNnNLMTlSTWFEVWFLNWxfcWFyTnM2aHNXYjJ0a0p1eWI1Ri1zenc?oc=5",
-   "data": "2026-11-24T12:36:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "saiz0m",
-   "titulo": "Chefe de uma das empresas mais valiosas do mundo volta ao cargo de CEO 11 dias depois de renunciar por causa de um escândalo pessoal",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOaUlyeUM0Um9vMzVocEFOUlJ6Qmwwbjh6ZlB5RF9xc1dubnlsNUhDUlRtcW5yZ0ZRVUE4Z01HTVJyWG9NWXRNQ1QwUV9LakFVZDJrZ1VaeXo3cUV6X29Xc1N0OW4tSFRnTFpVNHo5T1ctMmZVNlp4bS1WTFJPSW5PWWdMd0RqNkliNlhxSDkxdXhUeFQ4d1JFV2p3a25zeFZBUmh3Y2RHazJGb3UxMTRwbmhWUWt3U0xKWjVoQm42RnM1UG12MlhqYlpVSUNQVm9MVUR6cFJKUG5PODV0T01CdGZXQmRrM2pJSVBfb2xZNXJaYlQtZXJSTzNkRWdCQ1Z3c1pUaVczZnRZWEwzaHc?oc=5",
-   "data": "2026-11-24T12:35:00.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1ssje3c",
-   "titulo": "Trump pode ter ganhado até US$ 15 milhões com retorno de Jensen Huang ao comando da Nvidia",
-   "fonte": "InvestNews",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT3BCaFhyZ2l4SU9nZUJCVnY0ZWhDR19wOVgxZ0s3VlAxX2dORHlqTXBYazdhdHlzNkhmS012OV93UUtpZk9aWDljT2lBeTZ0LXFlMUtrWVRlUGJIRmhPMkY0VmRCbDlmZ21JdEtvdXNXTFJmMmh3RTZEUUQzMHNCM3hvSF9aYjNMTFNYNS1paEJYdmNqWlBMaWFMUzZVMzl6dnRNVmhfX0tBUVFjU2JGVFlFLWtZYnpJOUplY0lSRWJCaDTSAcgBQVVfeXFMUHBjWWMyN3lOVEN0X2N6ZkVUdTk4TGNraDZxbVh1c1RsaHB5QTVhMEZwU1g4NEdoNnRfd1ZxRjBURzRvUExtQjlyNU9SNUphMnE1S0pjUEJyY3R5aGRCSDZPTzYzZGptUTVWeFRNWmZWeHZ6anJrX0hydXFvRERzcFMwcWY5R3NhSkc4dmhCbXh0Nk9Jb3l0ZUZZbm1JamQ2VGVYdElydzN2R2RFc2wyUWZRMkJSdFhfQnlYcER1VzJlSnBuN0pnRkY?oc=5",
-   "data": "2026-11-24T12:27:32.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
    "score": 9,
    "marco": false,
    "avisado": false
