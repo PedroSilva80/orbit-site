@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T01:30:28.789Z",
+ "atualizado": "2026-11-25T02:00:30.692Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -40,6 +40,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ka36zp",
+   "titulo": "Petrobras investe R$ 2,8 bilhões na aquisição de 42% da Neomille - Portal IN - Pompeu Vasconcelos",
+   "fonte": "Portal IN - Pompeu Vasconcelos",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUHl5NkRtWWlIU3dEbF9HT2duZUxjQ1VoMHFpbEtrMHIycDBIWnVIeWxqVmZ0cmcxYXJNVnFjbTNKelZKQnlnTEpJaF83UEtiNkdpSS1PUVk2bE1lcElOb3VQMHAydld6YjhoUWVESFJveEdESVFINDBweXIxcEFWSVVIN0ljYlJmWXFzR2pUa1dSUnJwdk0zMTZpVTN6ekc1?oc=5",
+   "data": "2026-11-25T01:57:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1eww21d",
+   "titulo": "GTA VI: onde encontrar o Mitsubishi Eclipse de Paul Walker",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzWU1qcDd0eWt3cUNWNU5qNUZrVG51dmpNbEhoczBvcHg3SVFRUWktaXlmenJjQUk0VGtNckQtM01PQ1RPd0VzaUVoZ2R1NTlSWnBkU2h1d0lZWmYyM3FQOElodndPZV9iTTNWdE5SLVJ3aUNsaU5WWXBqOUZiTUk?oc=5",
+   "data": "2026-11-25T01:47:28.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14a8iq7",
+   "titulo": "Cổ phiếu Anthropic giảm xuống dưới giá IPO sau thương vụ phát hành kỷ lục",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTXBkRjdzcW85NXVfWU1NYmYwZG93RElnRlM0MF9vM2JjaDdMMEg2TE1pRjg3TVZ2akhITHFhSTg2emw0MUZ3TVhPbDhXRnFGY0RkaDlBSjJPUzZSdzhkMng2dGgzbU5UbnpMdVl6bDBkVWFudm9hOFZObTBZUEI0UUN2M1NmeGt0ZlQ3eS1sMW9HQ2VVSTZmTV9nd0c3dHh4?oc=5",
+   "data": "2026-11-25T01:42:11.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qoepak",
+   "titulo": "GTA VI: como encontrar as duas Lamborghinis douradas",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jWC04UlZXTjhSR0FaR1NabDZMRFVfRGMtbXhnM3owN1lJRVZ6YXJSTi1rWFdiQ0xrdGNUUm1yWWt4VEhFNVI1MHc2MU5zOUNIc1ZYYnZHMlZJN1hlbVFfY2cyLWdlVmZfb3JEanVPeFVHNVBvb1VLQUw3S0pmQQ?oc=5",
+   "data": "2026-11-25T01:30:56.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "r8y8lp",
    "titulo": "Republicanos cobram investigação sobre volta de CEO à Nvidia",
@@ -1795,54 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lnw2q1",
-   "titulo": "Fornecedores da Nvidia e startups na Ásia comemoram retorno de Jensen Huang",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQN1l1a2FMV0xSR2J3bjdKODVfVXVqcDF4SVFjZ2NCYWdkbks2aFJUYzAzQ3NaRzJmdjhuOXo3V04xNEIxSmg4VHIzWG9FVXlYMTE2U0tfMm9qd2o5eDI2a1NzWjUtNmFlck8yN0F1V2o4eVltR18wVG1fN2FJVUZBc1dFcE5zY25RM1RiSlZzTUpIaU8ydGt1WWRmUnBibWtiZmpseWd4UGtmdWcta1pCZ18wNHpjNktPXzFVZVRBQVBDckVncURNMWxRY2R0d9IB3AFBVV95cUxOXzhfQkRnRlJVNkl5UVFocEljNGZ6am05QlFGNzlBOFA0cnE0VHJYd1dxSS1hNDVCY3RIOWZjNnNIbHl1RGVPY0p6UmJUM09za2U4YUo3NkxwSHVpdjNfWEdWTHl4emRjUEYzcnExUzQyMTFjSGJISkxmUVpUT2hYNG9VampFWEtIeGZ3eV9lYlhKZzVwankyY3pWTjYxdFhHcHdKaDhEVmZoQl9jdlVKeWYxYTF0b19RZUxMYzRqWGpDZklwS1AzRG5pUHdIMHE1bmQ0M2xuTU82M2cz?oc=5",
-   "data": "2026-11-24T12:03:56.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kcpz2b",
-   "titulo": "SpaceX e Tesla avançam para fusão até fim do ano; cinco diretores conduzem negociações",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TTGJ5ZmJ2QkRHSmVGWWFYVFNPMk1OdmRFYWJhQ2x4Q0pfdVE5NnB3dGk4WW10R2hQdkhYTHk1RkFCbU9KeFRCSkl4VUxPellNd0tDUFQ2eVhvYnlTUklZUk16MU1vZw?oc=5",
-   "data": "2026-11-24T12:02:36.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jig3go",
-   "titulo": "Vice City FM de GTA VI tem programação completa com 70 músicas dos anos 80",
-   "fonte": "R7 Entretenimento",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxON2hSd29UOVdoNmJQN09haVc5VE5KYi1BbkxFc0VudV90Rm8zQjlGbkNKem5reTkya0Y1UUxLUkxMckhrWkZuUm12TGZDdG1sUVZaMVgtT0d1MHdfa216aHlLcjc1S09YbkVvTzBSRC1QVnhjb2k3X1RKZjRBNXJWQ1poSjVIRzJmcHk4Tm5FN1NxWTRoMk1SZ0pzbUt0RDRtZWh1YTlwb0ZJUzVfTXNyYWlScTBmUlhMREpuaXBfU0cwOFVrX0tj?oc=5",
-   "data": "2026-11-24T12:00:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mnk9ya",
-   "titulo": "Petrobras retorna ao setor de etanol com aquisição de fatia na Neomille",
-   "fonte": "BiodieselBR",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQM0IwVTZ6SzlSV3lSUGh2Y3c0X0VudUxhM0x0ZjlTUHdneW9mb3dDLV9lN0V4aTFPdkwyRDFIdG9tUGNtNDhRX1pqdVNwWl9aZTVSRW53cWlveWluZU9NZ3JaMmw4WUctTWlsN241NXB3ZXJhZUFHNjRoeWQ3UXFRNUNhdmV4ZldjVE9hQnMtRDY0UFRNYUtmemViVk8xZzBnZW5TNlMwWUtzNHZsYm9iYjJWZUJqaWtqV0R4Q0UxX3FObGhYUHNBSEpVYw?oc=5",
-   "data": "2026-11-24T11:59:23.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
