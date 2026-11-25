@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T13:30:28.183Z",
+ "atualizado": "2026-11-25T14:00:40.616Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "107kx4u",
+   "titulo": "Ibovespa hoje: Treasuries em alta, expectativas de novas medidas fiscais no Brasil e de mais tarifas do governo Trump; veja destaques desta quarta (25)",
+   "fonte": "Empiricus",
+   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWWJ5VzJ4UUlBTF9TalpyZVhMZW14clk5VXhZWTU4U3Bfel9hRHVFUy1RenMzZE5PZ2J6dW95M1lGOUpJSkotcll0eGoxZlA0WFZGdzQzR2hvYVpKSmhxS3NHTF8yWGJkeHVMVWlRakxZUUFpeENOTUZubml4Y3JpdWFsVUVpWURfaEVyMXo4bGMtOTNUYmE4ekxlRHZxbWIxQWw4VV9ZVjZrb1BYaUU4OGRiNDhBVXdYeUhmMEQwVkVKdkpoTDNUXzMwd0htdkJoX1BLdGJPbWdCQ3BneVNBUmZRby1XVWRoMEEwNDRKWFhhTnBHWHRpNk1tb0owWVVZcWJDeV95U3hjMEV2ck04ZDlta2c0S1NQWVIzMVllZW9JaE4xWFpHOUdNaw?oc=5",
+   "data": "2026-11-25T13:49:00.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17qbwhy",
+   "titulo": "Sanofi anuncia compra da Insmed por US 41 bilhões em maior transação em duas décadas",
+   "fonte": "Imprensa 24h",
+   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWFZIRXRWQXJ0WlkxaUJudXEzNzdKUEVhVWVBY1B3cl9XbkJWeGlhZUdrRldBRWE5QjlsbHVWdnZRV05NZF9lSHRhS3Rld1RGazNBdjRoZTI3UHN4RzVranVyNklJcmlER09ydm5qVFdNNXFP?oc=5",
+   "data": "2026-11-25T13:43:24.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1p1ujg0",
+   "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
+   "data": "2026-11-25T13:34:05.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4uvxql",
+   "titulo": "Dólar passa a cair e Ibovespa sobe antes de dado de inflação preferido do Fed",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+   "data": "2026-11-25T13:27:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "rw85gy",
    "titulo": "Take-Two e Rockstar tomam medidas contra versões não oficiais de GTA 6 para PC",
@@ -129,6 +177,18 @@
    "data": "2026-11-25T12:35:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "t9fsx4",
+   "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lnbGVYdGdvQzJMRXhRS1lsemhDTzMtZmcyRkxCTXVKWjdLVUUwa1lleE5QUlUyMS0ySS1WckI2M2VsUW5GamFIMXNJRE9VR3lKdC0yaEVOVG9qdkd2ZTFET1lZZ2ZhRm1oYzAtcks5ckRqWC1EcEtZQlhMMzRxT3BYNWJYRHRieTd0elVZd3RsbUhFV3NyZTZZRGU2X05hM0daaWxJYw?oc=5",
+   "data": "2026-11-25T12:28:57.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -359,7 +419,8 @@
    "empresa": "GTA VI",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795615240616
   },
   {
    "id": "112djdd",
@@ -639,6 +700,18 @@
    "avisado": false
   },
   {
+   "id": "5lgce5",
+   "titulo": "Boletim Diário de Mercado TradingKey: Nasdaq cai quase 1,5%, Nvidia recua mais de 5%, Anthropic cai abaixo do preço de emissão; pedidos de IA da Dell atingem recorde histórico",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQX0RKSFYxdmNWdlpPbk9FcGdadzVJaWNiWWxKcUd3VkZtYXpxV04xa252WnI3T1pjOTR0Mm8zRXU4R1BkZERJWUhRSGU5elFDaUgxSzgyVC1QajRGNGtqWkZRUmVsazdaOHZNOEhJZkx4ZVBublBfWkcyQXAzcnRkSlFkS3JlSHZVeURxOFNkLWFIYmNwb0hFeGxyNlMtQ0x3V0xicW1lQWdIRUV0RnFBSXdBQVZac2hhZXg3Mnc3alduNUxfNlREeUM0Y3lPbUZSM2tqM3ZjUzY?oc=5",
+   "data": "2026-11-25T01:29:10.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "r8y8lp",
    "titulo": "Republicanos cobram investigação sobre volta de CEO à Nvidia",
    "fonte": "UOL Notícias",
@@ -656,6 +729,18 @@
    "fonte": "Pizza Fria",
    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQl8wRlpCaG1CaERfSG1jaXlrSy14VDVsUUpKNWVraDJ4V0p6ckNBX3I5QWU0MXlOSFNieHpoZ1VtVk8tVFNLRHFtUWxXX0VXd05ka2VYWVRVdWI1M1B2TUVnbHhFZm9MY1FSU1lFSjlVbVVZVHVQb3lWZFZVUGU3WG13?oc=5",
    "data": "2026-11-25T01:04:41.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hu5ytt",
+   "titulo": "Usou Cheat: Hacker que vazou GTA VI é condenado a sete anos de prisão e liberado no mesmo dia",
+   "fonte": "Cyber Security Brazil",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON1AyMFJValZUUnZXWG0zMVc0NHhLSUtvb2xiTmRSMk5ndGFOY2xOdU1KNFpLczc3NnFWZkJBNjIzNHVya2NLWEpsMFBTc1FnMjBkeWNVd3djOFJKUDdQYVR2RDB1UzBzZ2F3eVM3ZndBTmpyYjcxM2ppN1Q3NmMxaE1FNWJRZWxEQkh5bkVITUFSQy04b2FnVmNBQ2p4b2xYYUlsc1h4WktUaFBPa1BqYnhqNmwtR1JfSWNpX1FIYkNtSXVBUFZBcm03SWgtWXQ0NFUzV1ZybXE?oc=5",
+   "data": "2026-11-25T00:56:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -1768,92 +1853,6 @@
    "score": 9,
    "marco": true,
    "avisado": false
-  },
-  {
-   "id": "1sg2q01",
-   "titulo": "Anthropic (ANT) cai abaixo do preço do IPO de US$ 83 uma semana após estreia na Nasdaq",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUUtFUHdQWll1QmJaSU5xZWwzOWVLUzQ3NmN4YXV3SzRjSzhfanVRSGZ3R2VXa202M1E2QXYyTFVKRG9TUjZHMWpSd2YwdVd4bVBXT0Z4WGhuMDZhbkVVSFEzejRVU012M2JsV2VHbVdTUnVaQzZGM21TWkhFeUltY0JHeWcxS1d2Nlc5RjBn?oc=5",
-   "data": "2026-11-24T15:21:31.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1z0x2l8",
-   "titulo": "Rockstar derruba projeto de porte de GTA 6 para PC e acende debate sobre modding e controle corporativo",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEXzE1ZWN0RXU1Y2lBVV9EYS0zaGltcDIzVnl4SkJzU1NyZ205RmNDenNWb2RabkN5LUluY2hiTVUwV0U5dEE?oc=5",
-   "data": "2026-11-24T15:10:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "hwzjg5",
-   "titulo": "GTA VI: Brasil está entre os 5 países com maior audiência na Twitch e Alanzoka é o 2º do mundo",
-   "fonte": "Portal Rap Dab",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWVZQWmpVZWhTVW5lTDdFaHMwVkdRbUM1MzRpdnE1eVF3bWpWRWJ2bHIxQjdGbTk0Q1pZa3hFNVNrQkE1OWRPLVlMM2c4eGkxaWdneFRqLXU5dDA3WlJGUGNackZpbk44d2tLdWs0Y2RtNlJpbDBDbExubzJ2WXdVbm1TU3d5VDYteUxwdkgzaFdtUdIBkgFBVV95cUxOWVZQWmpVZWhTVW5lTDdFaHMwVkdRbUM1MzRpdnE1eVF3bWpWRWJ2bHIxQjdGbTk0Q1pZa3hFNVNrQkE1OWRPLVlMM2c4eGkxaWdneFRqLXU5dDA3WlJGUGNackZpbk44d2tLdWs0Y2RtNlJpbDBDbExubzJ2WXdVbm1TU3d5VDYteUxwdkgzaFdtUQ?oc=5",
-   "data": "2026-11-24T15:06:35.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "940trp",
-   "titulo": "Ações da Anthropic afundam 7% e negoceiam abaixo do preço do IPO num dia de perdas em Wall Street",
-   "fonte": "ECO",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkUycnJVR2RRX1lULUJKWEl4ZWJFYXB2R2JUR18yOXdRRklmSEpqVHQ0Yy1WUzIycmk4VGFuaHE0MUlQMzBRUWU2LTRUdnIzVDJVd1JEMndqOXVPZXNIZFJCZnQ1ZVhPNWg2Tl9xa243RGk3WTlZX3BjRnB0SXFGWE8wMGxqQUVrQUZ4bXVJaEFZTjNPUGNXTXQyYnJfRmkwQmpVYnFyUWo4ZFdlR2p1cmhqaTJvOFNYRFZYSWFmaDdvck9uY1U4?oc=5",
-   "data": "2026-11-24T15:04:25.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vhbb8h",
-   "titulo": "Com música na trilha de 'GTA 6', Azymuth faz show no Teatro Rival Petrobras",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdmVYNjkwbUYxUVNMN2VmTU0weUpkNkRYQVBPVWxxVnpOTm5jU1dveGo5eHhWNFRrRVlLanhleXJSN21aTFRNWFBYOWJlbU0xVFdjSHM3MjJMaFBsaHJMaloydFdoTWhSQWhnYXZiOTV6bmlKal9ZdnJQUkhhV3R3UzE0ZW94X1VSMk9yeHZLNUlrZUlNTkViRm1lWldaYmkyYks0ai0zVlZPdnFKZW5yVUt5WXlkT3Z0c3ZLdGNpdTg4UWV2ZzE0VFh2VGRPOU9IRURV0gHiAUFVX3lxTE52ZWlyTzV0N20wSFc2ODdRZjJhVEtwS1FUYXJEbElGWUItQ2ozN2dxSWZFdUNOT1VibzJQMUZ4Y21URFhXZngtYUtEQ1FWY0xSazYydXRpdFJ0ZmpIeTNrUUhDZ2ItVUMxcmZldlRtZVJjQWt2YjA5NlhidnpvcHFzMVJ6YzQ3c2N6RGN5NTlJUkx6d000Njh4YTZ2Uk1VSWhRQ2tkZVhnRWZUYXJJSFhsaEhvMVFjVWtNaFYyXzQ3ZXRyQ0lUa0FVdi00aTNjSTdKX0UyVmdXeVBQNDhqb0doUWc?oc=5",
-   "data": "2026-11-24T15:02:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795534228104
-  },
-  {
-   "id": "1siz826",
-   "titulo": "Ações da Magazine Luiza sobem 72% em novembro após balanço e aceleração das vendas",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1HUGZVMThFSjNWcDAwR29vT0NPR3o2YTRkU1NxSGhINjFrV2hrQjN6Y1Y2WlhHRmljZFJ1OU50enFJOEhPRnR0YVNLUERlYzl3REo2MjZkaV8?oc=5",
-   "data": "2026-11-24T15:00:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Magazine Luiza",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ybx0sc",
-   "titulo": "Tesla e SpaceX, de Elon Musk, negociam fusão de US$ 3,5 trilhões, diz FT",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPN1ZNRUpGSXhtakZJdF9DTzZwSnJhWUVQOEpjQ0Z2aVhVZTNvRlBpSC16RzMwUzROdVVPQ1ZiQ1c2cXAwX1VvWjVHN3U3dWlYWXNvVjd1cTBQMTJPY0t1SXIzZU1QTHR2VzBFQkFtRXVqQ0NVbTNQSl9nLUJ6VTc1ZlBRYzBRbFZXa1V3anFtVW9JNldRU0NaUC1tUzdmRXVPb0Y5TWR1THk5RTByLThvRVFjWGRGTDhqSzh6dQ?oc=5",
-   "data": "2026-11-24T14:53:40.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795552230874
   }
  ]
 }
