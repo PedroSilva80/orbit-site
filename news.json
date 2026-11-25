@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T14:00:40.616Z",
+ "atualizado": "2026-11-25T14:30:26.227Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,78 @@
  ],
  "itens": [
   {
+   "id": "gqq9bn",
+   "titulo": "'O Corpo': Terror da Netflix dispara 86% em audiência e alcança 9,5 milhões de visualizações em uma semana",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2hQWVNvRTlRTEVvYTJ0MG1DZXNrbDJGMzVQNjltdDNWdUkwdXVRMk9udlJ4LV80RnFSN1lwT1Y2OVFPbHV1LTRsekQwUkxpcmNuZGFQWkQ3aWQwU0w5U2ROVHlmbXlMT2dHcG10U3JLUEE0MVBsZGx0WXQ5YThxNlR3WXY3LXRqQ28yNE16bzZ3MVIzekVub1VDZE54czViSnE4TU81R1lyMG1yeEVYUHY0RHhzUmdLZFNfQkhXVnFQWkJkcVFsLVF6ekk?oc=5",
+   "data": "2026-11-25T14:22:28.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tu9oh0",
+   "titulo": "Ibovespa sobe à espera de proposta fiscal, enquanto mercados globais caem com tarifaço",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzdLYUFqZUNicC1kZ090SE9tNDVOdk5pcW1zMHVVbExQNjAzanFOWkZVdlRZYm9jYk5jVWlWUkNMdmhoR1dTaWx0Y2xkbTUwTGhlS1U5V2FjUXRMaW8ydUM1QVRNWG10MTRwQ1JzNjRBc1dIQWNwMDhvSnBxalZOMkJ3Yk1PTWwySVIyVnBqdFJZaVpfTV9MZFZ3c2N6emo5Nk5tZlZMSHRXNlBBZ21famdJTGNoZEh1UTlzbGFR?oc=5",
+   "data": "2026-11-25T14:16:49.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fj4yvb",
+   "titulo": "O CEO da Flipkart, Kalyan Krishnamurthy, disse após incerteza sobre o IPO",
+   "fonte": "Boa Informação",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGlreHpNQUljb09HZEFzbzdqZXNVYTk5VjJBNHNIZWlWMS1wU3FaRjAzd3FHMzdPcnhIQ2ZWa21CcFhQdU1JNTd3RkRjajNzeGxPY2tJZGpfZUZoY0RoUDQ0ZFVKT2hnbFRnaS1wLUxyWWZBbzg2ME11S3lZT1gxdjlESm9xU0FfRDh0ZllQMGtCWlNyc25tX0JZbnZzT3k2bzNVcUlPb0JqenlrX3c?oc=5",
+   "data": "2026-11-25T14:15:50.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rifc3w",
+   "titulo": "Sua missão principal em 'GTA VI' é ter um relacionamento amoroso saudável; e isso está irritando muitos jogadores",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOLWlNQUdHRXZnRUlxaTlxY3UtZVE4UzYweTZVaG84Z3N5LTRxeFZJRHNZMFZzZl9IbXhZOHNrV0N4c1oyUWZpNVZnMWZSbWlqQ0J4d2dXNjRrQmhWSWNFOWFKVVBzMWVmeU5HWlJLOEpZcGxaMTVhc25SbGpoUnlsX3pSLVE4a3JIcWV6Q2JWXzdLSFZqSTdPVVRid2Y4MGZFZDVJODdudlgxeFR3RXBiRnhGTHZtZ1FOc2ZMdHpUSlNOWE5TdzIwTVBsM1pjMGVFTndMVXdwRm1idTBIalhSWnN0Z0l4empqZ0t0UUNfN0ZPdnkxU0twYW13VlQza21jRE1sVVZmNkNrcThuSW5hdkRiUm8ybXI0X3o4dW14X2ExUXJ4YmwwZE9n?oc=5",
+   "data": "2026-11-25T14:14:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rsv3sf",
+   "titulo": "Guerra dos ports de GTA 6 explode enquanto Take-Two derruba 3 mil repositórios",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSEVvQnVYRjBkdi1SRWUzYUplSEN3bHNFS2xkMDBiZDBxdUl6LWtBaERRZXEzcldYd0sxYWNVTV9GS1RXcnc?oc=5",
+   "data": "2026-11-25T14:10:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1aowbph",
+   "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5",
+   "data": "2026-11-25T13:57:51.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "107kx4u",
    "titulo": "Ibovespa hoje: Treasuries em alta, expectativas de novas medidas fiscais no Brasil e de mais tarifas do governo Trump; veja destaques desta quarta (25)",
    "fonte": "Empiricus",
@@ -74,6 +146,18 @@
    "avisado": false
   },
   {
+   "id": "w5hsl9",
+   "titulo": "Blackstone e Apollo podem bancar compra da Global Payments",
+   "fonte": "Let's Money",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2g1WW04cXBJcHBhdFhfUGh1SGpqdjI3cG1tZlJGRHRFU1hjSUZYamg4MS1oM21zQUxGQXZqeFgtT1hwTmJTV19QUVlIY2VJVE5zcGg1RkRNR0lCYS1MVWg4TVhqcEZZbG0tU3E4b1puSTFZQmotMnNSYUpWRThjMjJaSTk3ZnZndkE?oc=5",
+   "data": "2026-11-25T13:41:04.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1p1ujg0",
    "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
    "fonte": "CNN Brasil",
@@ -83,7 +167,8 @@
    "empresa": "Ibovespa",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795617026227
   },
   {
    "id": "4uvxql",
@@ -118,6 +203,18 @@
    "cat": "Mercado",
    "empresa": "Itaú",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "170dcuz",
+   "titulo": "A varejista de moda online Shein corta custos – lucro trimestral volta a subir",
+   "fonte": "FashionNetwork Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjd0eFFEdkxTdG1QZl90LWRRbzZoUkw1OTV1MmlQYXo3REd6VXQtNmRld1VXelVJbjRtZzBTV0N6dGI5LTNOcmlZNkxyNGM5WDlrZk1FRGVvVEIzSWx0cHNLVFBlaEVGLVlWTjY4WFlhSmFKYWZsTzIyUHNFdnNLVUV4RVZGUTYybzJFS1lKNVAyd0FXbDNLaXpHVlZkSGRLeXJGc1B1dWlsYjM1aTQxd3pSVldXRlltVXBwNmNXM0lPQQ?oc=5",
+   "data": "2026-11-25T13:03:37.000Z",
+   "cat": "Resultado",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -772,6 +869,18 @@
    "avisado": false
   },
   {
+   "id": "1c2hwcc",
+   "titulo": "Amazon negocia compra da startup Decart por US$ 7,5 bilhões para ampliar atuação em IA",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1M2UW52QnVhbUw1YnJjQU5lTEN5LWxnSWM3SjhRaV9BNDdvV18xb1lLMkpFSXdmdWZpMVczaXVRNk1jaE1GQXZIdlVPQUhUaXc2bmRpRm5HYldubnZKU1NzcUtydjJfQVc3Y1JUZEVud242d3V1aWZfYXJIY19STnlxbEkwemdnZEljVjExMndrMnlaSnYyV0syRzdXN0xHa0lyakVMX0pGU3NQaVlvTUMtX01ibmpJUDg4?oc=5",
+   "data": "2026-11-25T00:00:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "Amazon",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "j3meap",
    "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
    "fonte": "Estadão",
@@ -789,6 +898,18 @@
    "fonte": "Portal VV8",
    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkIxT19TWk1IakJPV0tieVdFWTNCUEhmNkIxMktsc0RWVE4xLW5QTEQ1QVlGWGJzS1ZMSVJ3WTRwUld2UmVzQjlKOS1vY1p4eW5vcVVxWl9HUkV3WWJIa3RiX2p0c2g4STFzQ0U2aUFLNlI3dGJfeDlJSWlUTW5jZ0dmRVpiT0JsNWdSN2g1QnctME1NV0RMc1FLT0dYWVNjdVNTU1RNUHc2SWY4UXNFaERCcFZhenk4SnptRXhKY1Q?oc=5",
    "data": "2026-11-24T23:42:41.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17b2uqt",
+   "titulo": "Elon Musk pede anulação de condenação por fraude a acionistas do Twitter",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0VsZXRaTm1OQnpTdXljOGktZWM1NWhCQ29XYVdtaHpjSDlkZE90c19pRmNWYXBWWjJ5VndVaGhLUE9Ka1hMNVItQ0xzT0RkcDZFVkJuLUd5NllqTlFGTUhqaW01SG5XVXRDS2pCM29fNnFYXy03eU1tOVMzSW9yY0YybW1taUhKU3cwWllRM2RsanZSU3Ntdm9DVmpRWkV5U05IZThyNjM?oc=5",
+   "data": "2026-11-24T23:32:00.000Z",
    "cat": "Risco grave",
    "empresa": "",
    "score": 5,
@@ -1732,126 +1853,6 @@
    "empresa": "Anthropic",
    "score": 11,
    "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1se16pt",
-   "titulo": "Aportes estrangeiros nos EUA crescem 49%, mas falha na gestão pós-aquisição compromete 68% dos negócios |...",
-   "fonte": "SEGS Portal Nacional",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNXzFvT0xOLTdZT01nU055MjlIMnkwdmpubTQ4VkVFN3ZpbG5ycEM0X2hxYm5oTllNek5LRGlLRXhXSVRxWmUxUjZmVEdTX2F2eThQemE1d2FQMFpMeHlmWDBlck8wb1RxcW5nc294dWdvbWh2dnVYbnlxa1JZLWlIV0IxdV8yejFmMUJ2RUI1cDVSZVZYMUtBNlE1ZFNKYkd1M09ieTd4TUs4Y3NYSTA2ZWw3UVZJT2pjNDNXd0dQUzlFaExzd3dVNjRxSTR3VnhjZVE5Y9IB2gFBVV95cUxNaXU0X29XRXoyVDRNRWNvNGRtZzc5Q05LX3pVQ1pEREZTTFlkVTJBXzYzVUJZTnQyRldVQzlkclpVSDRYYllGWjZQV3hwOUw1VGlIS1BvYlBtRTBDQUNkajJUQ1FGR2JxaGpVT0NlZndnWEJ2SEk2cFkzeUhJM2NFbzhtV1lZNGZTdVRteEp3RFlOYmxzQkpTVnE1UXlsR2F1Z3JjMWVBazduQkU4cWtOY3Axd1pnVV9IaTVsS1Y5UDdFcUFXOFVSRE5XNlJIVkt3RWJZcmVQVmJfZw?oc=5",
-   "data": "2026-11-24T16:05:16.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16v0meh",
-   "titulo": "Cogna dispara quase 8% e lidera as maiores altas do Ibovespa; veja os destaques",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZTdnLTVJUTJZb3Jsck9tTGtnUWotaXppTEVwRGVoRzJZLUhqSzVqSGhERVRpM19heWZEOUZLcTdQSm50NVZyYm5iT2IwWktoTVVBRF95bEwxSnRfV3NZOUd6blZVX25yNWlNXzU2NlRiS1h2S0Q5ZFFwRkJrbnJDMVY4S1FFT1VsNXN6VURUZ1hPa3lYR3U1UXFGN1IzMWw0dGlKOS1wOE1zaFcyREg0N1RVUVVBQzlpcm91M3cyUUNCdEFlOFFqbWo5ZklKMmJLM0lLTFhIRnJUQQ?oc=5",
-   "data": "2026-11-24T15:57:33.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vavzj7",
-   "titulo": "Star Wars em oferta! Funko Pop! do Darth Vader despenca de preço com cupom exclusivo da Amazon",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQeEVLbzlSWjdJdl91RVFvQU5GeVhkVjFIOUhKUVBQTHRITVcyQjF2OTlBbFZGNG10aEZQZURFMVluUDduX0l4SVI5ZVFoMURKOGdVMTVXOEJDU0E4LUUyOE5kTFZ4T3VMVi1pT29HOTBCWUYySTVZQUZ0Y252U2QtRnQ3Qk1ma0JZVk96RU1yTGh6eHNGTzNzNXhFcWs5TGdzdVZsenl6YUJhb3JNbjI0VFh4VFpjSUlWTnNCX3pCSmhtZzh5VWRJ?oc=5",
-   "data": "2026-11-24T15:54:02.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1tunws1",
-   "titulo": "GTA VI teve cenas íntimas difíceis de desenvolver, revela Rockstar Games",
-   "fonte": "Combo Infinito",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM1JvMWhaX05MVHh3ZzMxVlVRQnI4TzlTSGczamx6WlllWlFyQ0JBb3FNVHh1aEZ0WDJzbXdQTTBXOW1RX1M2NGdIaHlSM2xZUmhDZTQzTUNhS21rRTVVamdjalNack5YUWVia3VLd0JjbVJKQ2djRkJjUEtZUnJvWjVqWHhrMDFMVVNxX0t5UTBMQVJ2VEozY3JJRDBabkQ2VHdhZg?oc=5",
-   "data": "2026-11-24T15:43:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "36kzoi",
-   "titulo": "Luta sindical marca bastidores do lançamento de GTA VI",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ25VZF9idXczdWtfMGNIVnE2cldRcDN0aWtoX1Z2c19obnRRV1lOa01Kc3g4a1N2T1A4RGdqVmpKUjVBOHc0bl9iZ2VwSlplVGd2U09rSldqUDdqUGpYUnBXN0FuX0JiZ0IwZGk0Z0F0VVV2dXNDMUpYaC13QVRXbUt3UWJTYTZrTlZqUW9XcGtSZVVVZzJEbQ?oc=5",
-   "data": "2026-11-24T15:41:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "js60jh",
-   "titulo": "Nvidia e Anthropic derretem: por que a correção de IA era inevitável",
-   "fonte": "BlockTrends",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOHZYVWJCNHRGakJ1QjkzYU9JM1RESzNYaG1IYkEzdXQwTmpTaEFnQlVEMEQ4cWo4Y3Q1UDhEaXRQNVNfODMyWGVlOEhvWG40T1Q1WHhIUU5vNmZXVkhIelpSSVNIX1NzeWNFNUN2aWJ6bW5hUE8zNFR0Y3YtdFNGemYtYkgxaVFKTjFlZw?oc=5",
-   "data": "2026-11-24T15:35:28.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "d8p02p",
-   "titulo": "O que vem a seguir para as ações da Anthropic após uma oferta pública inicial (IPO) recorde",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBfUlZzQVdxaUxKeXN3blpaRkN1c2RLUFlzNGVQWllzYjJjeThvWmJ6cUVyTm45MkppQ1FLU0F3dzNoSHFXUWkzR3JyUDhvWUNreW5QSVMwZ2FDU3dWMkJiNEtia1lEWFNiMmtyY04tYy1jV3dEbi1J?oc=5",
-   "data": "2026-11-24T15:31:47.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xsyn8",
-   "titulo": "Power Trip lança “Mutual Death Warrant” para trilha sonora de GTA VI e antecipa novo álbum",
-   "fonte": "Mundo Metal",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPajBKQmVTcFExZ3YzM0F4enFQMzFwX1pBVnh0WTBUVkxER0lRdExScmx1alMwR3ExWnk2YS04allYYXNlY0tVT0hpRFB0M0hfeDl5Rzc3d3VKRUpuZkJEcThhdFhNbEFPZHZ5aFcxOWFqQjVqVEpMNEQ5cFA4Z0RPT0tBNDVvY1V3aWdCLVhERkhBX2s0UFBKbjM2ZEpQLVRNOWZtTEM1WmxveElzLTRBdDN4VXRNblZSMHfSAboBQVVfeXFMT2owSkJlU3BRMWd2MzNBeHpxUDMxcF9aQVZ4dFkwVFZMREdJUXRMUnJsdWpTMEdxMVp5NmEtOGpZWGFzZWNLVU9IaURQdDNIX3g5eUc3N3d1SkVKbmZCRHE4YXRYTWxBT2R2eWhXMTlhakI1alRKTDREOXBQOGdET09LQTQ1b2NVd2lnQi1YREZIQV9rNFBQSm4zNmRKUC1UTTlmbUxDNVpsb3hJcy00QXQzeFV0TW5WUjB3?oc=5",
-   "data": "2026-11-24T15:30:05.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13cyvkg",
-   "titulo": "Negociações para fusão entre as Tesla e SpaceX, comandadas por Elon Musk, estão em fase inicial",
-   "fonte": "Farol da Bahia",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOaGV6VjNOQlM0WDZKTldrRzI2T3dkNWNnSzV0VlI4TkV0bW9BU2RnQVlnaWt1R2Rnc28yWnZNOTRNb0cyWjh4Z1Jjd3VISkE3Q1lfWEE0R0UxVlJEeEUwS0t5REJ3b0JUT3FEWnlmY1B0cTV5Ql9xZ2x3SUNIV3JwZEZvU0RzLVdjY29yNU44M01UQzFmOG1WM0pjZkFRanBsZW44eGZ4V1NhU0VNYlN3NU9ySTVOdnBVaVlvYk1kYWo3YUpQV2plUmlMb1BWUQ?oc=5",
-   "data": "2026-11-24T15:30:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "eg9bp5",
-   "titulo": "Ações da Anthropic caem abaixo de seu preço de estreia na bolsa",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Fa092QXdSYm82TU5zZ0ZJUVlrR0tlZTV5NXNqb013WFl3T1dXSDRudUpNMGRaWjVLaDlQeXhCSmNSNkVYLTdZbzRkX0JaV1dDZm5vRm9haUt3WE5QakxJWFpB?oc=5",
-   "data": "2026-11-24T15:28:44.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
    "avisado": false
   }
  ]
