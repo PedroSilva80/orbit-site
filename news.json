@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T08:00:30.676Z",
+ "atualizado": "2026-11-25T08:30:25.573Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1pjfqq0",
+   "titulo": "Kalyan Krishnamurthy, da Flipkart — empresa de propriedade do Walmart —, deixa o cargo de presidente-executivo",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5iVjd1ZGlMZ1FweDJfX2szMWVzNkpFbTdFWFFBWk0yekt1Vl90Njk1dHo3TzBGQnNYWlF1eHhVMzVnVjd2cFhLZUtfNENmUTNwWm53MjFXTU42MGQyUTcxajRDcXhXU2t1djFTNldvZHVHZkxjLU1v?oc=5",
+   "data": "2026-11-25T08:07:56.000Z",
+   "cat": "Liderança",
+   "empresa": "Walmart",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5wjnrc",
+   "titulo": "Vingadores 5 bate recorde da Disney com 563 milhões de views em 24 horas",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQN0h1TUEyN2ZxT1FjOVJ5cGNmQ2FhWFo1QW5ta1laZEdiZnN0ZzNrbHVSQVdWaEpEQ3F6MHkxVGY1Y0FxWEtHQTV2cC1XbkFhLTl6V2NycWlmc0RaeFhPeVkxdVg0b2ZWZUxkYlIzV0dYdlBnVnhRMW9ZV3c3Zm9PaEJNT3pGTmEybTA2ZWlmNy0tcVdrc21RTGtZOW1TZ2RWazgzUzJwUEFJU0RDTXNwdUducWRVZ00?oc=5",
+   "data": "2026-11-25T08:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Disney",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "9fh617",
    "titulo": "Veja os carros do GTA VI na vida real com Pichau Skorpion",
@@ -1260,6 +1284,18 @@
    "avisado": false
   },
   {
+   "id": "940trp",
+   "titulo": "Ações da Anthropic afundam 7% e negoceiam abaixo do preço do IPO num dia de perdas em Wall Street",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkUycnJVR2RRX1lULUJKWEl4ZWJFYXB2R2JUR18yOXdRRklmSEpqVHQ0Yy1WUzIycmk4VGFuaHE0MUlQMzBRUWU2LTRUdnIzVDJVd1JEMndqOXVPZXNIZFJCZnQ1ZVhPNWg2Tl9xa243RGk3WTlZX3BjRnB0SXFGWE8wMGxqQUVrQUZ4bXVJaEFZTjNPUGNXTXQyYnJfRmkwQmpVYnFyUWo4ZFdlR2p1cmhqaTJvOFNYRFZYSWFmaDdvck9uY1U4?oc=5",
+   "data": "2026-11-24T15:04:25.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1vhbb8h",
    "titulo": "Com música na trilha de 'GTA 6', Azymuth faz show no Teatro Rival Petrobras",
    "fonte": "O GLOBO",
@@ -1798,42 +1834,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 11,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rz7zn7",
-   "titulo": "GTA VI bate recordes no PlayStation",
-   "fonte": "www.n3news.com.br",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAxVURLeHUxUzRDdkFvVG9zTjVNTmdoVUgyaVEyZkVEZkdnVGxiMkdMLTZJNlRPcnNjdVlISmRwNWctZ1BGZ2htczkyQ1Y2bmxvdi1LUXRfTHlIbTdKdU0xSlN1U2xrQllBLWM4QTRRTWtTSTVXYXhvWQ?oc=5",
-   "data": "2026-11-24T12:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "cyqnef",
-   "titulo": "SpaceX e Tesla: empresas de Musk preparam maior fusão da história",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNkhXSTFaWGpuWmNsak1FU2thM2l1Y2c2Y3M4eFJNY2M5ZlJsbEYxRkpONlZldHJBYUg2Z3RiWHlrVjdJemR0UV91UjRmR1V4dzNZSGpGSVQyYnlCS204R3BQVTV1eTNZd2NsNzc4eDlZXzd2NEtrbV9RUGpxOUZkcDBmU1JZUDJZNUpMSXctSHp5R2NwRHhTSTRMWQ?oc=5",
-   "data": "2026-11-24T12:42:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yhl6n0",
-   "titulo": "Rockstar derrubou servidor de recompilação de GTA VI para PC",
-   "fonte": "GameFoxHub",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2xaZnd1cl9LY0lsX1VUelhWZ3FnbGRyaF96UGxuTE5DaEM4VVlXdldPekZSdVBRNkExMU1KTFJMekhSa2ZpQVd2Q192SHNaV0tSOXE0Sko4cmdTcUFGT2JKdVFoR3FZdkdIX2M3NWhlTmNYd2ZYVEFlamRxbUxXaVVpZ1V0R2lvb0NoOGttRzNLNjVVTGdOQ3hmRFVpWkJ2?oc=5",
-   "data": "2026-11-24T12:41:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
