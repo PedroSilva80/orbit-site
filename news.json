@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-24T23:30:28.116Z",
+ "atualizado": "2026-11-25T00:00:30.686Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -410,6 +410,18 @@
    "data": "2026-11-24T19:50:33.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rah8fr",
+   "titulo": "Bradesco lança nova versão do Amex The Platinum Card em metal com até 4 pontos por dólar",
+   "fonte": "Passageiro de Primeira",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcTZrdVFHTEJLY3lQeUh1ZGoxek9JV1hJYU5UTlZObW1EMnJBVUpZR25HM0RjTTdHQldiZTY5OGZJd3c4U21objVnNWxqSGlkeTV0ZDhEMGU1Yzd6WUx0YktxMmF0WDM5M1hyR0dORTlHQmMya1dJWUptSmlsYlBweVlEZDMyWktHcHJWNGYxUHBKUWRHX09EbE9jaE1lanhENXZUMDJMc2RodWp5QmVKS1VuTi1FT2wyaGhSeDNldw?oc=5",
+   "data": "2026-11-24T19:47:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "Bradesco",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1831,18 +1843,6 @@
    "cat": "Corporativo",
    "empresa": "Petrobras",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16ip6nc",
-   "titulo": "Vendas no Reino Unido | 15/Nov a 21/Nov – Zelda: Ocarina of Time cai para a terceira posição com chegada do GTA VI, mais dados",
-   "fonte": "Universo Nintendo",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQSzk2b3BOdnN3SVNULUl1Z1FNVXRGNlRKTWNqMEMwU2ZybERwUEpFY1YxVDNxanp5THoyQmM4V3VBWGtweWd4aE1US3RrR0dOVHdYN3ZRWUFVR0lmWi1YV2diVGxXWnFIZVZkUGI0T1hrZmhTREdpeExLM192TXkzMTRWRm5zRktEZk9qVFhxdHVGWFlQOVUzSjVwT2tUdFVKeDR2UGxVWERoRTR1c2RmQ2xpc213bmkxOGNkVmJCXzlqYVgtUDFzaGRhRF9YS0pGcHFmQzlMVWZHLW1HYVJLZG5DTQ?oc=5",
-   "data": "2026-11-24T11:29:17.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
