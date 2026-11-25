@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T12:30:26.505Z",
+ "atualizado": "2026-11-25T13:00:32.714Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
  ],
  "itens": [
   {
+   "id": "aqqvor",
+   "titulo": "PS5 apresenta mais quedas de FPS que Xbox Series X em GTA VI, aponta análise técnica",
+   "fonte": "mmorpgbr",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTliQUQtZGV6X1I3dWVEc2xqX2xydXA4TzRXcHhYVldvT2xNQloxOEcydFFwWDRWT3RrZEtyXzQwRllmLXcyR0xfaXlkWkhJRG01M3NpY25wNl9XdVpqdm54UG1EeHE1U1FFYk5RaVE2NklVSVhiMm5vZTRXc0lZS0R2ZDhuT0k3VWt3VFZYdXZrRkRZQmh3dTJXeVF2dktMTWNhUjVqZy1VT2dm?oc=5",
+   "data": "2026-11-25T12:43:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1y1dvzs",
+   "titulo": "Rockstar derruba port não oficial de GTA 6 para PC criado por jovem de 15 anos",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnU4bVVBTHIzbTNFUndkelI4QTUtUzJYZHVuQVhHRm04cDNuWmJrNnRVQ1ZraE8tLXlON0dKT21kam5iMlp3Tkg0ejVPNHBmVVFNYU9UcFBIRU1YNEhVQzJmTVR4ZkZoXzJfaHlPWkVLTDBIck9uTjdvYTJmUDFYaHhlZFlXbHkxblJaQ1l1MmViLTZ3MUNxR0d5QlNoaUZOeVhacnpaeFFmUlpVaDdJ?oc=5",
+   "data": "2026-11-25T12:37:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ur9qcz",
    "titulo": "Dólar sobe e supera R$ 5,97; Ibovespa hoje repercute inflação preferida do Fed",
    "fonte": "Estadão",
@@ -98,6 +122,18 @@
    "avisado": false
   },
   {
+   "id": "15pth7v",
+   "titulo": "Dólar abre em alta e vai a R$ 5,97, com foco em inflação e PIB dos EUA e medidas econômicas de Lula",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtaknSAYcBQVVfeXFMTVFtUGotQkMxNmx6YXo3Z2Y0dzBoOS1BN3hIQVVlbDQ5blhLZzZ2MXlVT1NXbEtYTWM5MkxYMTVCaW5YQWRaZG12UG1QOHRkeEp2bUQ4TVVzXzMzNXVRSXZkcnBjdXBhY2ZBYzFqNkxNTWp2TUtQdmhzQkFsOGdmSUg3djAybWpJ?oc=5",
+   "data": "2026-11-25T12:00:33.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "16cs8t8",
    "titulo": "Ações de tecnologia despencam globalmente; SoftBank cai 15% e Nvidia recua 4,5%",
    "fonte": "Times Brasil | CNBC",
@@ -129,6 +165,18 @@
    "data": "2026-11-25T11:34:14.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14d6qdc",
+   "titulo": "Braskem salta 12% na B3 e 25,5% em NY após notícia sobre acordo com credores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
+   "data": "2026-11-25T11:17:49.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -226,6 +274,18 @@
    "cat": "Resultado",
    "empresa": "GTA VI",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "112djdd",
+   "titulo": "Invasor no Brasil, peixe-leão infesta até o GTA VI",
+   "fonte": "Portal iG",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXk0MmFBUjBJSE5hWFBCVU5YNUJoMEhwV1NRS3REOUEtSVhoOHNPUmNpcVZ4Ym1meTBXVklQQzQ5YWJqaW1YVEpLamExak10UjVZUDFtdncwUWo2OC1vTHVab3JVSDRhdkdXQmRFaEwyMEpZQXduVERYQlNzM0RQR0hZOHh3MlVENzlBdmV2X3Zoc1FRajNjSGZpTFJzU0dhdXfSAacBQVVfeXFMUDJ0blE3cXVINVFkT2V3T2hOZGFNVzc5R2tybkNMMmJtTnExUlBhUE5CaHp6Wmw4b2M2clQ2bGFQQl9OUS1QMVNOVlkzRVVWdkREQ3VGcDdELV96OHNLaC1yazlkRW9MSS1wQkNIbXlReTZxak9YZ2N1Y1BWS1oyMlAzbDJURkF3THZhbWMxeXZMU2djMFV5OVcxT0I5UUhLdVA4eWdsbFE?oc=5",
+   "data": "2026-11-25T10:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1792,66 +1852,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jjedci",
-   "titulo": "Itaú demite 123 bancários do EMP+, e Sindicato protesta no Ceic contra cortes",
-   "fonte": "Sindicato dos Bancários",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZG1QTDJRc1lhbzJEVkpqbDFlNjFnSW5JQ1ctRHFYWVdITDFrQ1ZWQV83MUNMNy14SnpVQ0JVZndEYmQyVks0ZmFTR2FlUGpJRjFNU1ZQc2RTVDEwTUJBNW1ZRWdkamFwbE1rdWxVZDBnVGZibFdOdlFtVjNaNmQ2d2hjZnZHQkcwZXN5NVMyb0hXdw?oc=5",
-   "data": "2026-11-24T14:21:47.000Z",
-   "cat": "Liderança",
-   "empresa": "Itaú",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18jw2cv",
-   "titulo": "GTA VI esconde portal secreto que transporta Jason de volta para Vice City de 2002",
-   "fonte": "Hardware.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVmV1ZElRc3V1M3ByVDdwSG9RRG1idVFrQ3pjSktUY25scm5vNHFxM1lEay1LblVOVUVXOXg0VWJCM1BzSUZLaXoyS3B1TWVsbnlicWlwTGpuRHQtYzduZEZ5eHhHZjZ4ZDdSTXNZRzZRb3N2NnRPMzJRRHZ2NGV1YkNNbThkdm1qRzdmRl81bUU?oc=5",
-   "data": "2026-11-24T14:20:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "141diip",
-   "titulo": "REVELADO! GTA VI GANHA MAIS FPS NO XBOX SERIES! E FSR 4 1 MAIS PODEROSO!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNVY3SllxTXU4MUdhOG9kclVLb3NZVE8tMUkyLXJsbmxDczVLa21zRTlHTUZHam11aDRuZEZGNnpkTXNtUXZ0UXpkWTkzZkphejFST1JHR1dxbGdSUlFnR2dScHRVWXhFNUpCSTgtN0VpNGpQeWIxMGljT0VOWi01QkV3eXRVUGZBN1B5Z1pTS09OLTBiTXZBSQ?oc=5",
-   "data": "2026-11-24T14:16:11.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1iqgccg",
-   "titulo": "GTA 6 no PC | Rockstar derruba projeto pirata de port",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNczZrVG41cURSR1diOGNsOEdTcnJuT2UyOVl6S1ZUUF8wSGhUaW1PUW81LTN6ekFoZ2VhOXV4R2NScUlkQTl6OXpDUUNGbF9xdVFZTXZzaFlRYkRpOHpXUEZZT1ZzRGVkNFpXRWxHQVlnTnpZbW5XUm10MElpVWg1T3gzSFJwWkpE?oc=5",
-   "data": "2026-11-24T14:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "599so1",
-   "titulo": "Quanto tempo demora para zerar GTA 6? Confira estimativas de duração do game",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNd1k5VG5pYk1WYVhyZlFYQ2tjWGFWeTg4azRFSEJfWEt0TVg4RkZiNXlrQkgzZnlGdzBzdG5DS3JMZVZ4SExOTW8zYmI1TUg1QVJRNkRoVlk1MUM4TUtsWW5rbUQ1R0paS2FXVkVvZjhEa05OWm45QjAwdHNHeUI3ckFlN0VaMkdCNzdZOEFIUVpjYUM2LXo5VTJ6TWJkQ0diVm1SNGhTcHRpTnYxdWVUYUJBU3NfT1hkYXfSAb8BQVVfeXFMT0ZvTWFyUkZ1WUxDLWZXX3hscHZTZW1YNnZHTG1xSnZxcDl3QWZUd2hJdWxzTENUR0h4ZFhrQ3VuQVNSenJ0VFVFSzRaTlBUc1c4bWNSMm0zb0ZjWG9YU2dzcXZ5aFpTeEJONXo4OV9QMkwxbDlkWmlfZ1lYVWh0ZnZCXzNVRkM0QTc2blc1MXpKaUdsa3ozZlh0R3RrVjdfTUgzSGx3Z2w5NldDbVFJakl5WEZCUkpHMnRNZGhDNUk?oc=5",
-   "data": "2026-11-24T14:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
