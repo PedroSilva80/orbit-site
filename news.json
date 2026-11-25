@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T12:00:32.461Z",
+ "atualizado": "2026-11-25T12:30:26.505Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -38,9 +38,65 @@
    "origem": "GZH",
    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLV8wRy1TeEVRVDVLTGJEbTdicHVrblpWb2FZd2hoTUFTXzJ2X0kweWlsTDFYSE1VOS1RRkswdTRqaXplcWJwaTJZLVdtS0owVFlQWEVzV0Q4Nk5mZ3N1WUxXa193S2p0ZW1HWGhGQm43ZXQ3SHpUdFpXVF9fZWEtbHFMQmpIemRFbURQcjZFUkRlRVo5RFhjNk5UOWotaWNNRmNKQkdRR1VWNERGVFVnQXJmTWlYSFA5REh0QnlTRUp2YWtjLWQ3SXNQeHFCWjAwWmQ2YXJCRnF3MTZRQmxKZ1QzZzZDdWhjWEJublM1bDMtb0Nvd3UwNg?oc=5",
    "manchete": "O que estreia na Netflix nesta semana? Veja os lançamentos de 23 a 27 de novembro"
+  },
+  {
+   "data": "2026-12-03",
+   "tipo": "Lançamento",
+   "empresa": "Netflix",
+   "origem": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNdXk5RkJybzZaUEQ4cVQ4bmRjSllFNTU4T1daWXpGeWJtX2VZWWIzQldnLUNJNnRSb3p1TXZoNHRsekc1czJRenFjLUNIaUozNmF2VTA4UnF3ZXItYWV2SUN5WXRZTHZIYVk4Y2tPak96T3pRcU0zRnJoZWZQaFM4dGJxbmRDbUxSMkdNNC1KdjMyNW5kVVdnNV9EWVl2R2FUSkJaZVVJQWdGd3A5WmRiNlJBemZVQ1ljS19LQXBSV3lWR3VXX2FnYTh6dnNaX25tSVdwR0pIT0ZHOUdYd3pId2h4Y3gyQVlfQjU0cW9lcGJPVW12dGl2UWM5ajhEb3dtU0xfajZCRHlnX00?oc=5",
+   "manchete": "Netflix estreia documentário de Jão em 3/12 e revela bastidores da pausa e da volta aos palcos"
   }
  ],
  "itens": [
+  {
+   "id": "ur9qcz",
+   "titulo": "Dólar sobe e supera R$ 5,97; Ibovespa hoje repercute inflação preferida do Fed",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
+   "data": "2026-11-25T12:11:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10zk25r",
+   "titulo": "Banco do Brasil nega à CVM planos de IPO de controladas e descarta vender fatia na BB Seguridade",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTko1SkhBcEhybWJHZ0JsMnQ4bnJjcGdUOXVfZVpwRl9CeVcxMUZON0tkY3lZYzVmZmdZaUhuOVVTaG81V0tXSE9Zazc3MVdEWWgtT1prSXFFb0ItNDYzSmNLUkVpUHByMjBWZnYyU25feG1iaWFsaHdSQnpfLXIwRlFOanlLS2VzYmZUcmotckxzRTdEeEtrdXlZV25YX2g4Vmc?oc=5",
+   "data": "2026-11-25T12:06:35.000Z",
+   "cat": "IPO",
+   "empresa": "Banco do Brasil",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "e4jppx",
+   "titulo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnR2ckV0ODY4c19UcUVDZ2hxazlSc2V1UXlHb0ticjNILXIwcEJVb1ZPcXNLSUQyWTVuYTk4Y3NCWjUxMGZxSndXQm1EdEtnRjg2b1lrSEx0OEozYWMxbTFlRU5HTDdERHBXSlBkdnhXa3l5djhNaDF6V1F3cnJaZzZwczNQaDAyV0RBaDY0TmhyZGRudFFaT3FuNlhjWnBVM05Cd1Z3VlhHYWJYMFluOC1WTXNKNkVmWU5jWDFrY2pxdThkVEZDMHcwZ0pTRDJUWGxVcldROVpuMDlVQXNTLXRjZVVLeWJ3ZkgwMndJSGgxWU3SAYICQVVfeXFMUEVPcXhLUXFFWjdoWmltSU00LWw0M01kWGdvOVE0UGpaN2E0dlJCVUtEODVfZWo2OUtvT3R5RWV4M2s1N0hZYjBCNkxJTmdrQmJTM3VGQXg3elNJRzVKend0dTl6dVhPOUZNX0JJaFBvZlJMb3ZpQ0pOTTBIaFBMUzQtU0g0U3F0YllIX2RScFQxeU1DWFBUQkhqSFdKckoxWWUyTGduOFpFYmU3WlBpYlIwQ2RUakZlNjZnY3FYN3B2LU1vRTRfT1ZuUXF6R0ZnZUx6aVFSSUlrbHdRaENHeHBLa19FbFl3aVRoV1l3dWU5bHNzejRjRXBLMFpUOVl1S09n?oc=5",
+   "data": "2026-11-25T12:00:41.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dbmxf0",
+   "titulo": "Ações da Dell acompanham queda de Nvidia, AMD e Intel apesar de demanda recorde",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVnB2RW9jSm5aZ1VxUnlIRzdTc0x0YjhiZEx4V25OU1F6TWJDT091cTR3WUJpTkQxUGdEdzlsSDVsaWNhOUttc2JqeVExS1VaaDlhRGhlQjM3N0dsbnFyX3FCa2ZBSEpFeDJURm9DT0puclJsMnc?oc=5",
+   "data": "2026-11-25T12:00:35.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "16cs8t8",
    "titulo": "Ações de tecnologia despencam globalmente; SoftBank cai 15% e Nvidia recua 4,5%",
@@ -61,6 +117,18 @@
    "data": "2026-11-25T11:36:57.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n0jl1h",
+   "titulo": "\"Um calhamaço de papéis\": atriz de voz de GTA 6 detalha que trabalhar para a Rockstar é igual assinar documentos para comprar uma casa ou carro",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPajFqbzhyVDQ5dGN3TXU2SDZYVHoyOF9HaEp4TnNvOGxWeFdscldCTEhwdERkS1lQeGVfVTlmUW9ZUkV5NVB4RU1mQmw3cTF1djB6aXhEbmlaNy04MUxEV3hLckNEalNPNjJWRzNCbEFfSG5kaEVrVUhVWDhoMUNoNExud3JreGNBcHYxZFIyOFU1cjd2NkFuWUw5YWRPYl9BMW5CMnlBYXZ1d1dTckR1TWhmMTA1N3VfcGptWDUxQVJkR2QxdjdzTFN6ajhONEh5UEFpdEluZEJqcEZZMXdr?oc=5",
+   "data": "2026-11-25T11:34:14.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1784,66 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fm80ti",
-   "titulo": "Como Jensen Huang voltou ao comando da NVIDIA",
-   "fonte": "Showmetech",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUlFUm5XMXhrRVFtMzh2Xzk3QkM1b3JlLWlxa3YtcXphUk9LbkpfU1N5cWFKT3B0NkRYa0ZVVGdxcWVnQ2NTbmlKbkJhTTlLWDhPWXdBV0tONGIxY2JlUXNPYkhlcUktVHA0SDBsOXNDOHNLRFh4VzRsNEo2ZVI0VUR5V1oyMmJH?oc=5",
-   "data": "2026-11-24T14:14:06.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fkguy6",
-   "titulo": "Com narração de Fernanda Torres, Netflix lança trailer de Marcha das Onças",
-   "fonte": "Poltrona Nerd",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT0Z3YmNmZHQ0RVhIUG1VMS1aaFNaTU9QVkJqSkJVRVJ4U3E4YjQwN3ZSNVJ4NUp5MzZRQ1ZyQnk3T2c3bTZlRWtNMEF4QUF6ZzFuX1lEOEUwcUNzS1dpN00xQ3lxcFVHeE1XZlRvUThHMGp0QzB0S1I3ZGdZakZvWENTdDZSZWhWZHFoSm1FMWZrYVRESjRSZm95WmhGRnpVelRLRU9EX1pLS3VzZE9TMGl1ZDlEX1dYY1dka3VUNXotWW8?oc=5",
-   "data": "2026-11-24T14:12:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rhoezs",
-   "titulo": "Ações da Meta caem após adiamento das ações Classe C e levantam dúvidas sobre financiamento de IA",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1tQTE2OXMzYWhzRGcwLVNVT3NCWkdVemx1X1NSSjlMWFRVOExHajcya1BzUUt2SEc0aWNqWEROQlVBSFBVaG9SazdYZ3YwS3otaE01OGpLbEU2WHEtMkl6Y3hZcURGQQ?oc=5",
-   "data": "2026-11-24T14:10:51.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "472lzd",
-   "titulo": "Petrobras aprova pagamento de R$ 15,6 bilhões em dividendos extraordinários",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc0FGd2ptVWhqcUVjQm1JR2hIaGZXNzRxYklFczduakpBaG55NzZ6T3hPRHVVVlF5eFJUc3FoZUxzRTJpMW00bEQ5OGYtRDh4MDJyNzc3MmJ5SXRDekFrQy1tQVEzNDRBTFEzd2hNRlFaU0RJX3JCYS1RTHNyeDNJcWxJRU5jVVNfc2ViWGtQUlg1VEc4Q01IcEdzbTFOYWIzU1BMakMySjVZVTAzRWxtOUhyWlk5MHcwVldkbElGWXg?oc=5",
-   "data": "2026-11-24T14:10:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6cv4en",
-   "titulo": "GTA VI coloca Brasil entre os cinco maiores públicos da Twitch e Alanzoka é destaque mundial",
-   "fonte": "jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZkxUV2FnTWRKdEx1S0Jyd2hxZm9pRS1SVU5laFd1blNpaTJVaGtNVjZFamE0WHBXZThMNGtRV1AxalM0WkxxbXp3TVhOMWNPeGprbTdHRGgzR2JkMDVvUDlHLXJaMThNZFktUHRwakE2Rkc0Z09NRjlLdzNNQUdITXdMdzg4em54T0s5RDhvVDZfTEgzLVNxUjYxaDF6dXd3R3p0VmNraE0xQU5XMzFIRnU3TnlWY3VWT182ZHB5VDBmbzRw?oc=5",
-   "data": "2026-11-24T14:07:12.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
