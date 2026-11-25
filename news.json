@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T09:00:31.278Z",
+ "atualizado": "2026-11-25T09:30:28.157Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -33,6 +33,30 @@
  ],
  "itens": [
   {
+   "id": "9u49su",
+   "titulo": "Futuro Indicativo | Trump age como imperador e reconduz suspeito à presidência da Nvidia",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXVjM2VueVU5Y0JFdUVERTcwdFN4YTdYZElDZGNMQVZNNHhrbXlqTjZuRDJ1UUNBYmswMlBja2xUUWtWZzFySTc2ZzhzcWFwVDhSaFNibnpnQTlaTmc1eFppTHFFTWJvOExtVzdHbE5KU25LQXAtQS10cmp4aUNCY25SdnNadnNRSXNsX3gwLU5aRTBTRlNfalVRcklXOTFIakZpQWlsYVpFRkczWFh5MVRra0NFdw?oc=5",
+   "data": "2026-11-25T09:01:15.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "896yc3",
+   "titulo": "Netflix: série polêmica sobre religião dispara 86% em audiência",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeW9LQUhxQzV4MWlRVGZCdGI1YVppVjkwWUJ5MTd2SUVROXFJc1c0T3dORVV1c2JKYTRONmdoQVh1MTR0cjQxcVMxYWdWZFFKV0ZmemwtektYeXVFQnkyTGdONmZOemZvNFRORmpwajQ1R2JOVmhUNlF5ZDc1b2U3TVFoWkdpMWR3SnNmeEdrNG1QOGJ6dnRfaGhsQmpOb1BkQ1JEanJST3U?oc=5",
+   "data": "2026-11-25T09:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "luxua7",
    "titulo": "Ibovespa hoje acompanha inflação preferida do Fed e novas projeções para as contas públicas",
    "fonte": "Estadão",
@@ -53,6 +77,18 @@
    "cat": "Liderança",
    "empresa": "Walmart",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1r93z96",
+   "titulo": "Anthropic fecha sessão com preço abaixo do IPO",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdUo0dXQ2RlVMbDA4Sm5Jc3gtUG1JSXdYNlVfV0lmOTAzNjNDQkZGUGpVNHRNZlVmVjNKbnhtaVJMSEdrbWNFTlBIaTVFS1l1MlFBa3p1U01xTk9JcmZGNFdPSnFSTkdRYzZTdlF6ZDBnd3hTMVhpRVFISFliMGFwdEZ3RzFxWUdKdkUtdFFpYUNHdw?oc=5",
+   "data": "2026-11-25T08:07:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1798,42 +1834,6 @@
    "cat": "Corporativo",
    "empresa": "Tesla",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3kcvjl",
-   "titulo": "Fato relevante PRIO Forte: cisão parcial cria nova empresa",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQclRxT1g4V2toZTdXandzME13Q1pCVURidk1XQWFWUDN1bmdKRy00RnA3YTJpenpvY0x4M3BoQUFuckptd04zUmVkX2d4MkRKOTZ0alhvTE1sd19GdndSSE1uMktnZHZKaWZndXJkeXJXb3JSbm4zVVplNzRRZkF1TUYwellUWjgxUXM4NHNWdWhEZXlqMUVMMXJPYS04SkptNjdkMWpRMA?oc=5",
-   "data": "2026-11-24T13:05:43.000Z",
-   "cat": "Corporativo",
-   "empresa": "PRIO",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13s30b2",
-   "titulo": "Anthropic estreia na Nasdaq com o maior IPO da história",
-   "fonte": "Agora Litoral",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeWZNUFdjVVhXSnpfcGxWemlOUXhjN1JZekNlMFNOeHB0eDNDWEU3WHFkeFp1WlZ4UVRjaFhScDJrVXlJcDRUNHF5X05iMzRBbHh6djdWbzRZYm1FNGFqUE1kU2dWSVJmZzFOcEVndUZFZ2ZGRjRJZGhqYl8zWFZZU0FSU1VzWC1OamxwTlBpZ0VIdDdSa3N3b19DRQ?oc=5",
-   "data": "2026-11-24T13:05:29.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "14y2aj9",
-   "titulo": "Ibovespa sobe após quedas, Vale cai 3% e dólar despenca após bater R$ 6: o que está acontecendo?",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzdGp1U0pLeVRpX01WdUJLYlgtR25EbXFMc0tSWE9GT3lfZ2ZOWFNaX1ZzV0VrYVFaajFxaHg5RzNzdGMwTmpQUVg5Um93UVVqU1o4dTNEUUQ3cWNNUDdUVnZaLVl1dmxWYXNj?oc=5",
-   "data": "2026-11-24T13:01:05.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
