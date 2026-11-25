@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T02:30:26.904Z",
+ "atualizado": "2026-11-25T03:00:28.473Z",
  "agendaCal": "2026-11-24T21:30:28.463Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -14,14 +14,6 @@
   "dig|2026-11-24": 1795514432234
  },
  "agenda": [
-  {
-   "data": "2026-11-24",
-   "tipo": "Balanço",
-   "empresa": "Nvidia",
-   "origem": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBxX1BGOGd5dTE2SmVOVnhGNmVWMnpFMVotdEJOYmFZQk96VlFSVWtZNnF3eHVKcEdLTHZGbXpkUWc0Q01DNkVEWWZhTW04ZUZWZDRNeDdPRlA5SFU?oc=5",
-   "manchete": "Nvidia (NVDC34) divulga resultados nesta terça; o que está em jogo para as ações?"
-  },
   {
    "data": "2026-11-26",
    "tipo": "Estreia na bolsa",
@@ -325,6 +317,18 @@
    "cat": "Movimento",
    "empresa": "AMD",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1am2923",
+   "titulo": "Ibovespa cai apesar de 'alívio' fiscal, Vale desaba 5,5% e dólar recua a R$ 5,91",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzdGp1U0pLeVRpX01WdUJLYlgtR25EbXFMc0tSWE9GT3lfZ2ZOWFNaX1ZzV0VrYVFaajFxaHg5RzNzdGMwTmpQUVg5Um93UVVqU1o4dTNEUUQ3cWNNUDdUVnZaLVl1dmxWYXNj?oc=5",
+   "data": "2026-11-24T21:15:58.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1828,18 +1832,6 @@
    "fonte": "Capricho",
    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVhKR2ZYcW0wdDNsdmxiekVWS1Y5bmNiY2tHZFVXUjNjMUJzZTFCUTdHLUpoT0kxWk9hejJBNW9YVjlSWFZkd2V1NFR6Q3ZhR0ZnMG5fME9mQndvdlBvZ2puX2tQVDZmN2VPRDVUWVYzVjJJVkQyUnJnZzF6UzVVU3N0ckdTMzBjQlFNRGE2dDM?oc=5",
    "data": "2026-11-24T12:14:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16hzks8",
-   "titulo": "GTA VI é o maior jogo de todos os tempos, mas apenas 3,8% dos reviews foram feitos por mulheres – e os desenvolvedores da Rockstar lutam por seus direitos",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0wTmQwNGNkbHBTQ0o3YXktdElqMkFMWUFQZnI0ak1WOUJkQS1Lcm91azR1ZFlPNDVER0FMN0J4b0pSN3VuYmc?oc=5",
-   "data": "2026-11-24T12:10:20.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
