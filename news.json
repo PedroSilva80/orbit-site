@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T07:30:27.017Z",
+ "atualizado": "2026-11-25T08:00:30.676Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -811,6 +811,18 @@
    "cat": "Movimento",
    "empresa": "AMD",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9enmjk",
+   "titulo": "Trump pode ter lucrado até US$ 15 milhões com retorno de Huang ao comando da Nvidia, diz FT",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRDBoT3JMVi1VcTJld0xFTlNxNnROVWx6d3pvRjZudnpQWXFCVDNVWTl6YWFaWGdWY3JFZl9wOEFZSTVFTEwzcmYxd2hqVmdGRkJXcGZVTElKZ0N5YkVoazhEc3F3STlCNWxPcDVMZWh4czBNTFI4eTloWDdZa3psbHRQRnRyZ2lFUG1iUFpiZGN4cTlzN0ZMMDRNTFNRYkVQNmdDbVZpQVNrYkVHOGpMX1FhUHpFSFk?oc=5",
+   "data": "2026-11-24T18:39:17.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1822,18 +1834,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "940trp",
-   "titulo": "Ações da Anthropic afundam 7% e negoceiam abaixo do preço do IPO num dia de perdas em Wall Street",
-   "fonte": "ECO",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNWkUycnJVR2RRX1lULUJKWEl4ZWJFYXB2R2JUR18yOXdRRklmSEpqVHQ0Yy1WUzIycmk4VGFuaHE0MUlQMzBRUWU2LTRUdnIzVDJVd1JEMndqOXVPZXNIZFJCZnQ1ZVhPNWg2Tl9xa243RGk3WTlZX3BjRnB0SXFGWE8wMGxqQUVrQUZ4bXVJaEFZTjNPUGNXTXQyYnJfRmkwQmpVYnFyUWo4ZFdlR2p1cmhqaTJvOFNYRFZYSWFmaDdvck9uY1U4?oc=5",
-   "data": "2026-11-24T12:39:34.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
