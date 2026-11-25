@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-25T09:30:28.157Z",
- "agendaCal": "2026-11-25T04:00:29.213Z",
+ "atualizado": "2026-11-25T10:00:34.137Z",
+ "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -11,7 +11,8 @@
   "dig|2026-11-21": 1795255227115,
   "dig|2026-11-22": 1795341630768,
   "dig|2026-11-23": 1795428029253,
-  "dig|2026-11-24": 1795514432234
+  "dig|2026-11-24": 1795514432234,
+  "dig|2026-11-25": 1795600834137
  },
  "agenda": [
   {
@@ -57,6 +58,18 @@
    "avisado": false
   },
   {
+   "id": "tv77xb",
+   "titulo": "CEO e presidente da Anthropic venderam mais de 500 milhões em ações no dia seguinte ao IPO",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGwwUmVUcHBlLUdhWXFpX0xkQ2pjdUlJQlRMbldleTRsUlVfUXRjVXNUVmlGamZPUVpZOUtvSDlsYmt5ZnlWX2VnWFJEOFBTX0laZ0dqalZqdmFlYk4xVjFBVFZjOTZnX21GSy1iUjFNWFR3RTJqQ2NoTmdKXzF3YmZJQnBkb3JRU2tEN290emU0VWtSSXhfQktRSWhsTXY4THY4czVsTVNCSEVla21pbGlrMHdtWHlwWk5pVDF2WFYzYkdaQ2l3MGlTcEI?oc=5",
+   "data": "2026-11-25T09:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "luxua7",
    "titulo": "Ibovespa hoje acompanha inflação preferida do Fed e novas projeções para as contas públicas",
    "fonte": "Estadão",
@@ -78,7 +91,8 @@
    "empresa": "Walmart",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795600834137
   },
   {
    "id": "1r93z96",
@@ -1730,6 +1744,18 @@
    "avisado": false
   },
   {
+   "id": "17aizk5",
+   "titulo": "PRIO aprova cisão parcial de R$ 543,8 milhões e cria nova empresa",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQN2xRSnliaTBQRTVpd0o0Z3pZMTRyN2V6dTY5M0dUbURGdkxCQ1RxZkdodkpsODFGZkRLb3I4ZU15Unl1RHBFdkFxSTNjUnpZZTVRRFdjeEZNc1ROS2V3ZHhBaHo3bkxiMFlVcG5pOE43UmFiMWtqOEtkdy1IQ2ZqN19VemkzUlJ2VkNLQzJFNDFIZ1hCaTR0QVJKVDVMZnpCOGc?oc=5",
+   "data": "2026-11-24T13:45:20.000Z",
+   "cat": "Corporativo",
+   "empresa": "PRIO",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "kzz47n",
    "titulo": "IPO da Anthropic: US$ 93,5 bilhões em recursos brutos",
    "fonte": "NeoTeo",
@@ -1810,30 +1836,6 @@
    "cat": "Mercado",
    "empresa": "Petrobras",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5rmjsy",
-   "titulo": "Nvidia reintegra Jensen Huang como CEO 12 dias após renúncia por escândalo de relacionamento com suposta espiã",
-   "fonte": "Brasil Fora da Caverna",
-   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNemRMcjlDc0JLeTJvRlpYazVkemZMME1WMV9kZGp1WVNhQlV1Q2ZCajNZWWJCWWU5dlY2b2c5MkJIUkZSRWQxMmc2MUJmb3BUdnNCcU1qcVlYMG42U2psMjdpMDBURG55aGotdTJoODhEdDlaeW5BUkU0YmxIX1gweU14eEJkT2ZGZVNpaXFoaTkwcHc5ckhqWHJBbkp3T243aXJiVHdqYUI0U2NzTXpIUS1NRnRsUDBpNk5NbEluUVRDUkxTa1EyVGdKMzJJVjhaUTZkZlFqOW1FQ1BDa21J?oc=5",
-   "data": "2026-11-24T13:08:50.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "u76nhx",
-   "titulo": "Tesla e SpaceX nomeiam conselheiros para fusão de US$ 3,5 trilhões",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTTZXbjdXWmpLMjZzRmVyb1pzVkdZMkhSQUZiMm9jaEMwWEc5SENGNWRRZXAwUnUzMGtMVmtUMC1iY2N3YTVseWFaY0Zlb3lEcHYzQlNYZ0hfejJBVU1yMUZ1WlR3cGlyQ0dqdF9LTzJEclM1TTVyQjVKcFMwNEVRMzlnRk1aVkZzZjBjSVUxSlplSXJiemZOazBRd0ZFb0ZBZElZYXFMeDYtbVIxRmFYNEdfRdIBuAFBVV95cUxNZE9DMC1hYlVId0JTaHZtMnlMNHJrUGdTSmprMDZkMGd1OFNHVlBUY1lQVENNbVc0bVNnaFk1bXh2OUczTnFpZlZxTDNOR2VScFNiZzFoOEZBUlN4NmFVcEpJdDFybVRDT1hWNkF1WEtBZEFVaTdyajZsOXU4R3JzbXp0OElNLXROZFVhWjBGM0c3SkZkLVA4OTc1TTFRcUxjNjZOMVJvRjNSSXh6MkpqVWhXcVRVclha?oc=5",
-   "data": "2026-11-24T13:07:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Tesla",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
