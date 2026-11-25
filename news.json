@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T19:30:29.584Z",
+ "atualizado": "2026-11-25T20:00:40.462Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "dxzx4s",
+   "titulo": "GTA VI bate recorde no PlayStation 5 e faz história na Sony",
+   "fonte": "www.jwave.com.br",
+   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EMGd2NzdiVFdsYlZNdVV3Mk1ZVVBsM3V0bWJnLXRIbjlBS2tLYk9YNmtodW8xYkFfV0wxVW9pZmJiTUlLM2toeEIxZm1Hb2lPaFVCUWZtSHpTUVhRS0FEdTdWLVJPNG5sbnI0?oc=5",
+   "data": "2026-11-25T19:58:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1oy71c0",
+   "titulo": "Vendas de consoles antes de GTA VI: semana corrigida",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTE0Z1k0Z1Z6MEVMY2JWQ0xHUEhBRGVGaU0zZmZLdHRRUVQzcmlrNUdBWXh2czFDbUNVLW9lcGJySnBfbzRlWlo4RUotUGVhdGJnclAyaW9ldDFYMXR1QUc4TnR5MlhETVFiY1VDN3kzcXhxVnljUVJHa2lfTDI0bGJTTXpfajVKbTAtdFcyeGlwRThTNk9hSWpRYm9BM2g5T0lLcEYxQUdHWHRSWE83c25JSDVkMmpnNXY1dWJEb0I?oc=5",
+   "data": "2026-11-25T19:33:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ztsj4n",
    "titulo": "Ciro Possobom deixa comando da Volkswagen do Brasil após sete anos e meio",
@@ -1736,6 +1760,18 @@
    "avisado": false
   },
   {
+   "id": "k1b869",
+   "titulo": "Anthropic fecha abaixo do preço do IPO pela primeira vez com desaceleração de ações de tecnologia",
+   "fonte": "Repórter PB",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZEFyd2c2V0xZLWRNd0s3WU1lalJjWU92aVFPOWdXM2tKTGkwbHpYaHVSY21ualFmS212OF96WHF4Q1pBWFEtb0VPclliUFVhUXZ5bmNuQi1wT3hZOWtBc3hpRkdESTlVYmlXbXotV3NadC11Ymp4bzh0Z2FRTHY3bTZqQWVWSFZoWEdRMTB0enU1OUJ4MHdBcWwyM05rcDI4UXkxRjNobDlEUnFmQThxVXZhVWhvMGw2WnJ0R3pkcktjX1hPWmV5OEd5YWN6Q1dMNnotRXdPaHV0b0JvM3VnTE52MkNaeEMyMzBEUC1UNG1lVkdqenVv?oc=5",
+   "data": "2026-11-25T01:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "hu5ytt",
    "titulo": "Usou Cheat: Hacker que vazou GTA VI é condenado a sete anos de prisão e liberado no mesmo dia",
    "fonte": "Cyber Security Brazil",
@@ -1815,42 +1851,6 @@
    "data": "2026-11-24T23:32:00.000Z",
    "cat": "Risco grave",
    "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10j0sut",
-   "titulo": "Banco do Brasil (BBAS3) nega decisão sobre IPOs de empresas do grupo após questionamento da CVM",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVHFYQXJOSHJ3cFZEYm1iY0xVTEpLSVpiRnJqdWhoRGlQaEZSekRnT01namE1YTVlNUd0eEFNTTJaTVJ1NjBMYWd3eEpFREZNZVZ1RWNGMHgtZ2RkQndwVUVWZVJRMEUtZVdUbDRiRTVmMnA5dmdMeWJ6SW8xWHBQVnBvNzFubXJPRElCSkhuWmRhTlFlbXJ6NE0yalMxNlVla1hucXFFLW1mZGpwdWxaaTlCNE9xVGRXdGZZOXZmSHdOZTJMUTZYMw?oc=5",
-   "data": "2026-11-24T23:09:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Banco do Brasil",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1llcfsi",
-   "titulo": "Anitta, Travis Scott e 21 Savage estão entre os destaques da edição deluxe de álbum de GTA VI",
-   "fonte": "Jornal de Brasília",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb1hXbFNnWTlZU3NhZFFUOTVSVU9xcnBRNERFRzBPMGVpWjByUE54a1ZZalgzX3RRN2ZRUjQySFdCdWQ2NjlVSWgzUy14UlNXaVlwa3k3Qml0SzFXSWVjWG1pYmNRWXJHMW0xeTlSaTVheVg5cjFzamFXMVJUMDROV0ZxRjhYaVh4QlFUU3VyZnJPZGZKeXRNUnNZVEt4S05waTFfeG9keTRYSGJNTG1haFhQZEt5V0FTRExDaFlPbVlsdjVkc2I1b2QzRFJaVWs0SXZz?oc=5",
-   "data": "2026-11-24T22:23:13.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13khh8l",
-   "titulo": "Black da Amazon: Apple Watch SE 3 despenca 51% com cupom para membros Prime",
-   "fonte": "Tecnoblog",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2QzRlN1d2xCYVptR2kwODJZMnpqV0tsa0JGLUx3MGpIakFXQmxYWE9seDY0bWdVWC1yMFRsaVp5eUVnZ3g4aVhlS0VWTEJsdTRndXhFd0hkUXhKYWR6T2tRYU9UdTFuOFFaczZlUXB0UlN2alFNN1VKOU12ekZRcG5NU25RaUlGSFppbGEwQkpWYnF3VUJFRGJuRTRJbTJtQTRQS0M4dw?oc=5",
-   "data": "2026-11-24T22:18:37.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
    "score": 5,
    "marco": false,
    "avisado": false
