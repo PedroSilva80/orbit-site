@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T16:30:26.566Z",
+ "atualizado": "2026-11-25T17:00:33.108Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,54 @@
  ],
  "itens": [
   {
+   "id": "v8x7nt",
+   "titulo": "Ações da Anthropic caem abaixo dos US$ 83 do IPO no pré-mercado, diz Reuters",
+   "fonte": "Paraíba Business",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzQxTEhfQjR2TWo5cGs0OUlSTENGU2M3UkZuNEFyNGpXYzVrZXVkNjIwb2V1WE9TT3lyUU9XLTdZWlVIMmZfVlV3YWJRRDVaa2xNM3Exc3pGemJhYjUwUTZSMjdVUkYwQjZkbF9PZk9KaFFudVFyR0NLYWNkVExoTnl1Z19McGJCeXl0a3EzYUh2SkxqOXVST09Ic0Jld2pjeXZoNkgzRlRmQQ?oc=5",
+   "data": "2026-11-25T16:30:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1myn1an",
+   "titulo": "Embraer despenca 10% na B3 após Estados Unidos proporem tarifa de 10% sobre aeronaves brasileiras",
+   "fonte": "R7",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd1BCZTg0VmM2UDhjMG5SWFV4MGJaalphUzBZdGF6aGs1NXhMODNvajU3a21MeGdCcGNsbGNUX29NVVVEX2JlaFdOSEJFNmw2TkVlbXZsand3U3dxajI2aWxHbEJ1cG5zZjd0TlV3elliTDdLWTFjU0VRZDFqRHNNQkI1ZEhpT1o3QjA0OVhYaVpHYk1kZmxkblB5VzFJSzNmNjBuMkx6TnIyMnBNOTlkcmpPUUxRUEJwa1Q0Zm0weGFFUEJSYVpTajBNU1RzaUJhaWFDTld1WkxzdnNOUl84cnBfVlEtLVE?oc=5",
+   "data": "2026-11-25T16:29:39.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1yx0e39",
+   "titulo": "Nvidia enfrenta questionamentos do principal senador democrata da área antitruste",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hQXYtWjEwNnRQdFdaQ2w4YVVoXzRiUUgzOUoyRzI0MlZJR0dYZmlwSUQ5RGJ2cExvMXBCeEYtWUJzRV9LbXg2dkd0NF9JbkdfYXgyc0tKcHJGdlhMVGxibjlhaFd5Q0dyQWR3M0JwV2x5YkJSTzRv?oc=5",
+   "data": "2026-11-25T16:26:00.000Z",
+   "cat": "Regulação",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tv91zv",
+   "titulo": "Take-Two já derrubou mais de 3 mil depositórios de GTA 6 para PC",
+   "fonte": "Adrenaline",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOElnQ2RReDdjRHJ1NmEtTklIVmZoSXB0SWFDMmp6b2s2bjlPZm5PcjN3SFY5U2VZcVpXRE5yYng2YVFqa1RvRnJsdVJzR3YwUGFlSWMxZGI5TEIwTmh5VEhESDZpTzQ5S2NSdTgyME02aGpFNmY5ZUFwQXgwbXdULVdRSkFDS2FGRjZXQmZGM1ZEN3F5NkstenFkOUlVT0g2SFpJ?oc=5",
+   "data": "2026-11-25T16:26:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1sgd8zg",
    "titulo": "GTA VI: escolha secreta pode render US$ 10 mil",
    "fonte": "40graus.com.br",
@@ -70,6 +118,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ztghz1",
+   "titulo": "Lançamento de GTA 6 afetou stripclubs e até sites adultos",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMWpOY3FCZlZmbXQzY2ZIdFVXYXNIb2JiMi1Ra3RpcFRYblNmX2tvRDZKNGtvRVRpdjR2Tl9pY1V0bjJGb2NBczVPZmIzMGNNcFA1SUkxQ3NnS0xZYmNCbkNIcEE4SGRZbWhWaDIwRXNQOU9xWGdVQ1RpdTlWVkpGSm1qM1Y2VG1tVWQ3eTNoM3hLbEVLTFQ5QXZMVnkyYkplT3fSAacBQVVfeXFMUDBzRmNIRW5wNGFtdzJ4dkNmUThza1lwUXhucGNBNzNMdlBSUlVGQVFPaktzNUhEY3FWRVktMmJTVE5oSVl1M0wxd0F6SjJvQWZxOE5IejNQa3NOU04wYmJjQXUtTmFMbTNpbHRwWGFKcktzUDBDNTc4YzM3d1E3OEhjSnFld2xMdVpfNWgyUlJKcV94RVEtWk5VV29JbEN1ei1SdGpWLTg?oc=5",
+   "data": "2026-11-25T16:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -286,6 +346,18 @@
    "cat": "Lançamento",
    "empresa": "Meta",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11krjn6",
+   "titulo": "Embraer tomba 5% com possível tarifa dos EUA sobre aeronaves; veja as maiores baixas do pregão",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVhVYkpzck9wS1ZsMUhDVGNVOVdCdk1jRnI2SlFFNVJmMXdXV2hKQ1pQRGRpaXFleVEzdkhCb0F2c252MUh3ZHJkSGhGUHdMOGd3cnpmTVBaUmExS3hBZlc4Uy05WGhDT2VRaHlBQmhlRmlqVTV4ZzlXb1FHUGdBNVFjSUp2V19XU1NsZVN1NFZFSGVtM3FBT1UyRXBTNjgxekJTczhzczkyQkVNcS1yUzlGNEE3dDlkTEcyUDNzeXZ2MnE1RjZSdEdPZXNiYTVrNlpEcG1xMXlsd0FNdHpzVTRKbEhic0XSAewBQVVfeXFMT0FfYUQ0NVFmMnBIZGZRYTh6eW5nZFdEYXNEOEVoWGtsXzVsNnJiZ2JCZ1ZXT3luTG1GNzRCaTRXS1Y0Zi0wRmo0NmpjTzNyTDJLZVRZUlVjZzFRQmhVVUJ0S3hzWFh5eXd4X1ExV3VnOXg1ZzE5elo4enZQcTZsRS1panFWUjR3LXFDVWI2RnNyTUF3OENnM3g1SUxyRjJVcFRIUng4dkJzdWxNcExaRTZRQ3F2SVhlLTRjVjRsUEpoUUN4UlVCZUlJS1ZOa0hwdzVqOFNMM3BlZWxUZmgxVnZCM085cUtnLXExUng?oc=5",
+   "data": "2026-11-25T14:47:00.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1652,6 +1724,18 @@
    "avisadoEm": 1795557631817
   },
   {
+   "id": "i2munb",
+   "titulo": "Anthropic cai abaixo do preço do IPO, ANT negocia abaixo de US$ 83",
+   "fonte": "Pasquale Pillitteri",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelJEZXk0RUlBSmZObTJzRUJfUFFkZjEwYzZjMWNNcmk4Yll5MjdkWE1VLU9XX2hpYU51NUc2b1d1a2s3bVRHNkJkeEdvdzVYaEhOcURUbE1MV1dnUWc3Nll1S3FUSGtqZWtvb2RoYnhIMnF0Vy1nYTNCdzFXbXZlSUpEMU5xWlhoNzZwOEQ0eGx5b0k?oc=5",
+   "data": "2026-11-24T20:32:06.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "sziqo2",
    "titulo": "GTA VI: homens estão gastando 'milhares de dólares' com modelos de IA inspiradas na protagonista de game",
    "fonte": "Extra online",
@@ -1768,90 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ct8kd8",
-   "titulo": "GTA VI tem clones de carros famosos e Tesla que 'te entrega' para a polícia",
-   "fonte": "Autoesporte",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQ2RRVFpVWVFxdmRFT0JqaVJpSElmR0NJX0RuY3NCSWVha1VuRTdkRlQ0MElISjl6T09nSG1TVkRFeEM0bEhreHRHUlJsejJQckNMb09hVDFIMXB6ZWJRUmtLVnlURGZKSDRxM2tOb3lyd0l0RldIUTkyR1UzYzhGdW9VX0lWQ2dPVXg3T3RBYXhobnp2VlVjRjdyLVloRjFfM3dnNGtrclNoNUFYQzZuRXk1YW5hUnZ1UXVoQkljR2dYVDJhanpmVWRoVC0tQU9FRnfSAeABQVVfeXFMUEZaVlFHRDJkTE1WYS0ya2FFaE9kV2wxMDVEc1V1eXVBV1BDOFhONTV6X2lIVk9yTWl4N2toT2JiRU4zaGlRVFJCMkpNSmd2MjRMQ3d6bmZHNGhldFpUMlVNV0U4RGtkclZsckhTbHdROUhBNkFMWlBuRFlqVE5YWTdmYnl5QnlnR191NjR3SlJiX1lKaXN2NnN2UDRZYTZHdUtDOWZKM21ZMnNqU2hzekQweTdnZFI3TUhhX3owSmFRdUJwTWwyNnl0YVJ2ZUoyUHU5Rkl0ZUVDajBsUGxQWlk?oc=5",
-   "data": "2026-11-24T19:41:39.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w4oc54",
-   "titulo": "Um cristão pode jogar GTA VI? Novo jogo gera debate teológico",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSVNRaEoxY01kX0lsYVRYUHZOSHVDUHBneXBrWnh0M2tZOWk3T0ItZzFCa1ZSaTh3NlVJSWM3Y2M0d3dSVWd3alpkMXBVX09lWEZiMjFMODhMaXgtMWJHLXUtcmdpX2pCWUxpY2NRSUdNZ2JoWTRETVlXZXBoODdqQzBaelpKQ3dKaFBVYjJXaTgxVnAyRWJPR3ZYRkpVT19mcTZrQVRqUnpuQm8?oc=5",
-   "data": "2026-11-24T19:36:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "hp4h1o",
-   "titulo": "Elon Musk pede a tribunal dos EUA que anule sentença por fraude no Twitter",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSVhEdzB6R25DeUJzb2xrMFo1aWRCY28xc0NPb25US0NUSzktUFZsVEJXckFIYXl0ODlCYnM4OVJ0VmREMzdJSFB6bnFVcDVLdjNudTllcHFCcTV0TThtTFdmSDZiYi1RZy1hY2dXT1RFMkJCakVwUmgzT0hRUnJpZVN1aEJtZlFfd3VRWkNXRXYwWFJad3FvNFNuR0JmeHNld214S1plNV90S2dWeENQOXA2WVRScXk4cUhYQlVudXpwQklQM1dkQnhpcnpxZWJFaFBBMWtkU3lwSkQ0Slp4N1IzS3U?oc=5",
-   "data": "2026-11-24T19:33:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "90up6z",
-   "titulo": "Como comprar SpaceX Pre-IPO stock (Republic) (preSPCX) em 2026: guia completo para iniciantes",
-   "fonte": "WEEX",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jNTBEMVNwZFZtQ191VTRTMEZUc2JHYjRhbTFobDZ6bjJLb0Q4b1NxbWlHdlQ3M096dmlxbUgzSUgyWk4wQk1aZ2pVU1RDYWhTdDNSalBrOG1fWlQ0MGpVMGtERE1WMGswNzBGaTc3bHJKdw?oc=5",
-   "data": "2026-11-24T19:31:09.000Z",
-   "cat": "IPO",
-   "empresa": "SpaceX",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8op9dc",
-   "titulo": "Jamie Campbell Bower, ator do Vecna, quer retornar em spin-off de ‘Stranger Things’",
-   "fonte": "CinePOP Cinema",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdTg3WlV2bjRkMEdsQWF5U2Y5bldjVEpDTm8waEwxU2Q2SXl3MkdmYVprRW9sNTBJS0MwY3FVR0lfSTBlbTJKc3Z1YXU0WUQzTVNNdUhyTnRMamJ3eGJ3Y3AxcVJETTFGeUpPM2FDQmhmODJORUhnQkt0RWFkUFAycjMxTmdYNUU4azRpN0M3VkEwUFZhUngyMXFOa2x0S2dYZEFaZGNobGswbnlBYnlr?oc=5",
-   "data": "2026-11-24T19:20:01.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s6303y",
-   "titulo": "Anthropic cai abaixo do IPO sob alerta de Jim Cramer",
-   "fonte": "Webitcoin",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMDk3N1lsdWJPeC0wUXVqNXowUkg5bGxsaUQwYUNMU0wteS0xTG1QNHNkLTVob0haMnJNRE5GOUhnaU1NS2N1S3liN25SR2t5R1Z2aDhTTUNsZnRhbVU1dTRnWktLTDZCenljVWRUZC1ITzZvYmpzZk5xR3JxcWxTaGpnbmg?oc=5",
-   "data": "2026-11-24T19:16:42.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tdm3l7",
-   "titulo": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTAzSlRjVVJydWY0U0tYbkoza3IzaWYtV01JenVYWVo4ZHduV0k0U1plMmZjNlJLMzJCT0VUck5qaTdodWJibXhTZnNsdWh4UnZFMzl4R196R2NnQUhOYlBrMUZiYi1HMHA4ZUdGRkJ6eGJmeUdLV2ZWS3RQMFhJQXNnOG1adkxJekY4Um96SXhfNnJYTExna3VNdnR0X015QUZYX244X0E2dVZPYnhrMHBlQXo0Q0lMU2VpR1RLT0ZkRUNRWGY1bG9aOVZKOHPSAdQBQVVfeXFMTUNEY21fNWJTQ2ZnbmkyNXFtdHZpbWxzNTAxb2t0T2ktVzJpbFV5VElzN21qbGcyZVhMZWEyVVdTZ3RCa3FpS1E1NEFqZ3h5MGRlOGduR3VLd2p0c1Z4SFRlSHBidGtOZFJ0YlNYMnFoY3N4TUZTczN5TVRQNUdlS0FBb1RpbkoyNXBfLTRYb3JSSlJLdUZMY3EzT3RHR05rWnFfOW82ZDZiUDJxS0dCMzZoQnpNdlRaTTZuN09FR2tpYllMLWUzVUdMY2U0NXVBX2otY08?oc=5",
-   "data": "2026-11-24T19:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
