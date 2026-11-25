@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T17:30:26.198Z",
+ "atualizado": "2026-11-25T18:00:33.941Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "ass1e5",
+   "titulo": "Vídeo: Funcionários celebram retorno de Jensen Huang ao comando da Nvidia",
+   "fonte": "Diário da Manhã",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTE9oaFMwLTh1d1VjT1Z0Q215dlkzTGtGcEozTjZ4WUNkRV9TMEpWLWF6MC01WlVYcUE1M1BQWHN6aWttYVgySUEwa181Uy1QRFRpRlFaRk1WWlVsRm9uRWRyRmY3R0ZEVGV2NjRtY2NxeWhuWWQxYUhqbXVMZERWSTU0bkNMUGpoZzdGUWhWaU1iNlNzMjZwZ3ptUmhzMk1QaDJId0JGWQ?oc=5",
+   "data": "2026-11-25T17:57:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1yv6stm",
+   "titulo": "Mais petróleo, menos espaço para dividendos: o que fez o Santander mudar de visão sobre a Petrobras",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRU1ubGJlRzVBX1NsUVN2RllrVzExbHcwZXJWUmNtQUQwcU1VS0ZDT2ZFSU9MaHUyVHRKV3JnUENkbzB3SkpIRld4VURaTjlIbnl0VHV6MVRIR0hTd3czeENWQl9iR3JHS2VMclh2aDRFbmdLUjJFSUxPdXl2ZzRvcEJzZWtrRVZZdzBId0pDNmx2YVdnYzlJNFlJb0pkOEM2cENUT1BqdHRObTJWZnRpTVRtY240YVZUeTFZZFFyb1lVNTdoQjRlbWRDWE4zRlJBTWJQaXJfam5NUzBwQlgtSU8yZVRVc3FOYnNxWHNqYWw0N21Ib0dV?oc=5",
+   "data": "2026-11-25T17:52:06.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "p0bkuw",
    "titulo": "Disney lança balde de pipoca do Doutor Destino",
@@ -230,6 +254,30 @@
    "avisado": false
   },
   {
+   "id": "p2ivqu",
+   "titulo": "Embraer diz que analisa proposta dos EUA de tarifa de 10% sobre aviões brasileiros",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYW81Q2pvY1U5dFJjVl9Hc2EyblBCRzZDODBvSTBCbGFWdTJDaXAzN05yd3dVNzhuMEVneTEwN0lzVFVSMFM0VHVDLTl3cHA1R19IWmhCUU9mMFFCNS1sRktRSFR1NVdicHRNcnFoWEsxcGVqc1Z5ZlUzUmo1OVFjSFRoMjhEUnZGYTFUUUM5NXRiZHozNG53MkZDT0pHTnUtRFExOHgzekxnRHRMY0hGbUZxYmFIUVg2dFhyU1lnaTl6Z1JBTm5CZXUwRUdVZHNnVkdpS292TUQzdG9QOThUZGJrS0c3OGhyYnFCOWJud1ZDZ9IBgAJBVV95cUxPMWtJejk0bXVaZHRHd1VveTdGVTlfTGc2X3FBT05DMHo4SW92VWVZU0RBWVlIS3VFVWhfX3Z4SVp2U05KU3pkdE5nX1FubjhDUVVFRUhZSm5xNzdhLXNieHo0OXBfd2R3dVBuN2YzbVQzX2l4bHhlV2ViTkJQOEU0aUpKbDhmMzUycHEtUEJiMFkwYjltajI2QkJsX2taTTB5SGNxdjBGM1hzY3hMVjRBd0VERjhZV21KSXBmemFzSWR6MFhBaFZIalBaZzRnSXRRS2V1QllHNUlCNi1xalljeG1DX2Zxd3htaThkTUhCRjF1Ump2WEdId0Rxc3JMZklY?oc=5",
+   "data": "2026-11-25T16:07:09.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1j1l8ax",
+   "titulo": "Rockstars do trap latino: CA7RIEL & Paco Amoroso fecha o mês com prêmios, shows no Brasil e música no GTA VI",
+   "fonte": "papelpop",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOU25tSGl6V3hmellsTC1xY0NtTUdvcExTb1MtbXY5NkpkZnBaVXhhenROUFFNcXItbVNCOGJ1aC1Wa0RxQzA3bEY4Mm1rVWlCR28zbm4wUTJPZXBtVk9ieWwxRlhsOWRucWNEbEt5Wl9OZTZMclpsb0N0M3RCWkoyNTlGYjRIWkZPZXh3UUhYeXA5VFdKRGdRMGF5dkt0Rk82bEtqYTh3bndudGxMNlBKeFE0MFM0T1AtOC1IbWVXX1pKVnZfVUw1ZmZYbmRyY3U5UmxCUjZWSDVfdw?oc=5",
+   "data": "2026-11-25T16:00:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "pmi1q",
    "titulo": "Nasdaq cai 4% em meio a liquidação em IA e propostas de tarifas",
    "fonte": "CNN Brasil",
@@ -274,6 +322,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qaiapu",
+   "titulo": "Ibovespa sobe e dólar cai de olho na PEC fiscal e novas tarifas",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaFNFb2Z5dGVTeWwxRUJFM2JhMHpVeVNWczlzN1dsdTJZSllySkp3MUc4czA3cThnZVc4UGRIX0RWU1BFamFkVkNEaGxVakFabHE4Sjg2NGpkQ2NXVDFpcnkxS2k1aUJadHRYY0RlcXRCYllVM1UxSmRQMDJuZTY0MF9fcDlVSG1hOXNtclgxVkdQbmdNYlpHWHBCZUNUaFFPQ0QzbWNDci1wd0NO0gGyAUFVX3lxTFBBaUlBN3JOeHdCYTk4MXVoNDlrQWU2YW8xSmJvYzM1b2NPbmlMdmlZRGhFckVGaWFtNWVUajNCQ181a2hETUd2aG5WdDhYVkoyem5tVUktYXdVZmswRXRDbUJFY1NrMDJQdFFiajYyNDBSWE1Fb3d3cktLeVA4Y2JNMU8xLTFYU25mQU1MSFBqTExBU19FOXF0SkNIMjlTUk1wS2ZYNXg2ZjlGMEJLMk5iMlE?oc=5",
+   "data": "2026-11-25T15:42:59.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -771,6 +831,18 @@
    "avisado": false
   },
   {
+   "id": "1qkr5un",
+   "titulo": "Ibovespa Futuro cai a 165 mil pontos com fiscal e inflação no radar",
+   "fonte": "ISTOÉ DINHEIRO",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9paW5uMDBvNTdTUE53bjBwcHNWUmF6VV8tVFExVVAxNV9wR1hveHNjVWU4aHVtMDJBV3JQWE1oVXFZUWF3cGFUX1VjV3o3WDZLZU5GWHE2b25jVTFORlNEUlNyY3Z5ejV2OUVLcHM4WS1YX0RYX1ZnTXRB?oc=5",
+   "data": "2026-11-25T12:53:32.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "aqqvor",
    "titulo": "PS5 apresenta mais quedas de FPS que Xbox Series X em GTA VI, aponta análise técnica",
    "fonte": "mmorpgbr",
@@ -831,6 +903,18 @@
    "avisado": false
   },
   {
+   "id": "skiex2",
+   "titulo": "Pokémon abandona a Netflix e escolhe a Disney+: o que muda na guerra do streaming infantil",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
+   "data": "2026-11-25T12:28:57.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ur9qcz",
    "titulo": "Dólar sobe e supera R$ 5,97; Ibovespa hoje repercute inflação preferida do Fed",
    "fonte": "Estadão",
@@ -852,7 +936,8 @@
    "empresa": "Banco do Brasil",
    "score": 10,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795629633941
   },
   {
    "id": "e4jppx",
@@ -1766,92 +1851,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1eppf0f",
-   "titulo": "É falso que Banco do Brasil tenha sido alvo de fraude de R$ 256 bilhões",
-   "fonte": "Agência Lupa",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcTBJMTRfOFZGakdqcHg0aGVnai05dmoyZldRbmt5WGl5dG1Bb0VxRWhOc3lUTTU4NXFHd3NYTnlEZW5BeV9HZ014MUJRZEp4a3d5WHBZdkF0RXFJb3ItWTZUOVg0LTdVcnQ5X21tWTFpZXlRQUFJdExLeTF0bVE0b2cxLWxJUl8tZjg1eGpWMWVBbTVKeHd1Yld0TDM2dHFDZVdTMy14Q3BMZWlDcElJX19zS0hCYnVnbzZoZEp3?oc=5",
-   "data": "2026-11-24T20:48:50.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795554033456
-  },
-  {
-   "id": "hjj116",
-   "titulo": "Hashdex lança ETF de HYPE na B3",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPR2NlWXNqR2l5X0x1X214VWJjOWVpYU5wZDVhaHFDS2pGLTNhNmsycTNHQV9nelBLTEdPTEpKN0NkN2pDNEM4WHpna0NIMzM5S3lXWWQ1VGc4WWFPNFhGcWtHaUFZVTJIZVV5bUVPano1NkpLZzlNVkIyQVFzejV6N0Q3NnFzOXhaeU5iYzBwX3dueWZxMWJzUVBZUUZCTFhaTmUw0gGyAUFVX3lxTE5ZR2xZODVZUnJDQV8zRnZUTXNvMlRIZFZxczBGV2I1VGN1bDgxakgwalg0SHdQczE4MUNvbUFoLTJLZkdVT0pBM1VKQXl6aHptMm45RmZaX1RkRHVnWU5Ddk9GZnZEUzhHMlVnOVZPSVlfRjVNbGNjMDZRTUMyazgwR1Y0Tm1CMmxsbHZRRTlUUTl4Sk1ycXJGUjRqSEQxWGNvTC1BcnpQTGpKN21pY2UwQ0E?oc=5",
-   "data": "2026-11-24T20:44:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a1e2e4",
-   "titulo": "Petrobras projeta investir US$ 122 bilhões em petróleo até 2031",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPLUx1aGZBN2hjZGM2Vk1BV0hOSTJPY0oxdmFuc2k3dEdQNzVBNWpDTmoweWF0S2swVXVkdmluOHRZZGpXTDU1eWpqalI5NzB1Y1F3dllUR0xiXy11WFpJZUVOUVUxNnhsUDZkb2dRdVZtSUJCb3pEc1FrMGMzaG1UV3ljeGZDVW9pcWtvNkRlT290bWNpMndlT1FIZWhXRmc4ZkNEdFVNdw?oc=5",
-   "data": "2026-11-24T20:41:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19i7byy",
-   "titulo": "Procurador despista sobre investigação contra CEO da Nvidia: \"Pelo quê?\"",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcTVLOFlkR3Rrcy0tT3lHenFjVm1qc3Q2MDRwV1FhdUlJMzdqaXdPTFF6Q055Y0tFZVB1Q0wzaXd4dzdtODQzckxQRF9ZVDlSUUlVUHdYQkZDY29xNXBfcmVHaFU3MEFIdVVFdXZnbldFWUQ4Qk5xNGFnaEpvQTFZZ3QxVXhMMVQ1TU11UDlZenJrT3RRVlV1dlFhckl4U0hlcDZKUGYzLU9idTY0ekhzY1Fn?oc=5",
-   "data": "2026-11-24T20:37:26.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795557631817
-  },
-  {
-   "id": "i2munb",
-   "titulo": "Anthropic cai abaixo do preço do IPO, ANT negocia abaixo de US$ 83",
-   "fonte": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelJEZXk0RUlBSmZObTJzRUJfUFFkZjEwYzZjMWNNcmk4Yll5MjdkWE1VLU9XX2hpYU51NUc2b1d1a2s3bVRHNkJkeEdvdzVYaEhOcURUbE1MV1dnUWc3Nll1S3FUSGtqZWtvb2RoYnhIMnF0Vy1nYTNCdzFXbXZlSUpEMU5xWlhoNzZwOEQ0eGx5b0k?oc=5",
-   "data": "2026-11-24T20:32:06.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sziqo2",
-   "titulo": "GTA VI: homens estão gastando 'milhares de dólares' com modelos de IA inspiradas na protagonista de game",
-   "fonte": "Extra online",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxONzB1YjNsbjJHR1poZjhuQXNyXzlrSzJ1TXdpRkoxWVMybjhQVFVhUnYtazRpdVFXVXRlVy15UUt6eWN0VUZUQ1duRU93Z2RmNGVweGh1Z1pBaEs1eG5ZVE9zMHVvY2l1RnUtZ3Y3N0pFc2hmRWJ3ekNGTmhJR0RGYWU0UlhGZlE0NW9JeVh6WEd0QmVCMmU4Ymt2Q0FIcGhBX29YWW45a1ZoTnRpZFZab0dXXy1ZVkIzX0pydFhneUJMd080MnM4WXY5VFV4REg3bFBvblBoVWtVZWt1bVBScmlKaldmOTl3bVB3SURnUENBaWJsalV1ZNIBhwJBVV95cUxPZWVXUmxJeEFXTGVTaXNFLWdFUjZscms5UzhRZlpvLUdsV3A2VVR5RU1fbDNsQkp5T0VjS09RbE5xVkF6WnA2dkNCYTZIUk5pdkZBQXFQLVRJeTFMa0xJSU04QkR0LXVlS3dHWVFkYkY0d1RZazQ0bEZvRFZSS0J2QUlvcGNxTUlVdHU0ang0dGNjX1A2eHZDZWZNeFFJV0d4Z2pveW9MM3B5ZFRVVE0wVUdSNHlWNFlrR2V1STBIMFBVVndDUVVCT1RPbWdKOVJvT0dGSXJpbnJnUmlHcklGUkhSZXRfMjJEZnk5czNsRWNQU29YM3hUQlFWblBJWmdNSVNPcXJLUQ?oc=5",
-   "data": "2026-11-24T20:18:13.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "looroa",
-   "titulo": "Plano de US$ 122 bi da Petrobras absorve US$ 7 bi de inflação e câmbio",
-   "fonte": "Agência iNFRA",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObko5TWhqME9xckJLbEtkVk4tLUs3WkFBLXgycWFDd2ZucFZSRVdPMHlMOW9IWFNnakNxbTlSRlZiUlA2RDZsRXo5MkdoTmtjVEZxaHE3OUxJZU1rbE01V05tTklNTU9FbnY2Q1FXQnByYlVHMnNoTDU1enBHa0tGcXdkWWVKMHd1UFQ1ajhpLWtfRGNCTVR4aWx6ZnZURGtz?oc=5",
-   "data": "2026-11-24T20:11:24.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
