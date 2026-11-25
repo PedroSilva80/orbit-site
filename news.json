@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T11:30:26.096Z",
+ "atualizado": "2026-11-25T12:00:32.461Z",
  "agendaCal": "2026-11-25T10:00:34.137Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -15,6 +15,14 @@
   "dig|2026-11-25": 1795600834137
  },
  "agenda": [
+  {
+   "data": "2026-11-25",
+   "tipo": "Lançamento",
+   "empresa": "Apple",
+   "origem": "MacMagazine",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdjSFpXN2cxdkFkTkRSR3kxekNfN3pRUkNfclZSSUpsYUNtS05aUUpobzlRS0ZTTUIwWFNDNTJfaGFHYzVBMUEwLU5BcGNGTDNtdm5tQ1dfY3htYTJ6QTAtRmFNbnR6MnJnWWxQWlI5bWtyc1AzUzdwa24xa1R2YjYxbDJRWmd5S3FaczR3VmhHOWtTMnBmcE9YUXFQVDBvRDR6dkdsT2lNT2c5SDJHbw?oc=5",
+   "manchete": "\"O Pequeno Guerreiro\", com Chris Pratt, é a estreia de hoje no Apple TV"
+  },
   {
    "data": "2026-11-26",
    "tipo": "Estreia na bolsa",
@@ -33,6 +41,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "16cs8t8",
+   "titulo": "Ações de tecnologia despencam globalmente; SoftBank cai 15% e Nvidia recua 4,5%",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeWFkUGV0Sk9ia2FOaUx6NzVGOFZ6NnZDNjM2TTFVYV9SWkRraEc0RGJZZGNmSEcwRmxLZE5nVmFTZHpER2V2RnZ4NUlUWW95ZUZXUG5oMmtlbFdiOENXeDdpMUFRRE9ycV9nUVNVRUpSQjNraEVQZWF4SndsXzFNQkdaNEh2ZlotejJTOTBraGhtMnEyWEk4TldwaGJBME1zVmhMQ1VPWWk5X2Ewbkl1UFcwX3RQSnBCN3R1X1NNZUQ?oc=5",
+   "data": "2026-11-25T11:41:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rr8zq7",
+   "titulo": "Mesmo com esforços da Take-Two, GTA VI já roda no PC",
+   "fonte": "GameFoxHub",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbFYyVG16UUFHSHBjbDNUSGdpaDlfZ0R0a2Nhd3NZTnQzYjdUYkVvTnN4X2daQ25EU0xtQWlwdnFjMW9rbTdpMEV0ZmV0aHl4Z0lCaWdLa2xOU1hsRWZ3eUMxZ19NdHp3RzhaUnJ6OWo5Vl9wa0xUOGdwMEZfX1VlTEtOdXZSMnVtTVJVck9oUQ?oc=5",
+   "data": "2026-11-25T11:36:57.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1s0vhy8",
+   "titulo": "Rockstar revela inspirações reais de Jason, protagonista de GTA 6",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT0N5cUtUbnRtSzh0TU0xQm4zN0pzTHYxYnMycTRDTl8wdnV5cFRqeHYzRUQyUzQ5SDJySlZ5NGxERnB3c3NscThhNkcycWhLVzFzX09MWFYwNmRjVTRjRldMSXc1bmowcEJFNjZJZGdxTnFLTFBPT0tYWWhBVTB3eXJMalRyQW1RMHhfVVoxOGpaa1BuTkEwWV9ocllsNVRRYk1fYkN5RzZ4NEXSAbABQVVfeXFMT0dGTE9jai1ST1pBVHU5NzZGYWJXMUJxeWVmZ3Exelo1U2dySUd4ZHZpRXBCLXh0TG1nN0ZCb0xwMEpoS01oYXhaZVQ0V1h2YXZzYkkzV2NDTDRZVF92emdiQWpZX09aRnpzMDNzM0ZncTI3Mi1XQTZyUHF2eF9HN2xtWktEbHdUcU9LN2RQZjAtTGgzRENxOW9SN0l6OUxzaVRybUNYbVFQWi1PYXZnZ0s?oc=5",
+   "data": "2026-11-25T11:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1evnt9b",
+   "titulo": "GTA VI, Take-Two derruba o Leonida no GitHub e mais de 3.000 repositórios do port para PC",
+   "fonte": "Meteora Web",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1oNllhanczQXl5aXBHZjROSGt1MFdZT09TX3ZkSnJoM3FHOTR6bExDemt6RnZ1NUtWbjBwbHZWZmN2clZISUZhMjIzTGRocHpyUndndFhMZ1B1ZzVIejA3WGR1Sm03VGJ1OXIteXl2cXlZOVlESjBrTw?oc=5",
+   "data": "2026-11-25T11:05:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "drz4aw",
+   "titulo": "BB (BBAS3) nega decisão sobre IPOs de controladas e descarta venda da BB Seguridade",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMDRCR01IclBuYm03RDRkZkVodzRpbWpKLXlNQ19RLXE3bWl5ZEtaUjR3RUtrOWxYMUxyYVNNaDRIVjFCZFM3WjdWYnFIc2FBcVRIbWNLeU1tcEFOOGRqSHpmQUpPMVozX2ZoM2p6R0RKczhpM281X05palRneWdCcm9sYlBHWE1YU0I2TE4wc2pIZzhiT2tFLUczVTFLUU82cVJDc2hTU2RULTl4ZHV0dHJSenlCb1U5aG96NTRkNNIBxAFBVV95cUxNWXF5VU14Ym45bHlDc1Zkcl8zN0lXZnd0dnlWbzh2UlF0bEYtMG8zMkg3S2JpS2wyUkhyOXRIQ1hWaHFuZ1hfTXRuSGk2YU9VbWRleTFSVW1fMHhuNEUtWHRxa0g4T1dfZHVtamdYUnZaa3F1SnZqZ254RUV3Z2c0cEZxQklDeGxSb2xkejZyZEtyb3dqUjlnTHVMS2UxMnp4VmMyS2k1WlhuRURJRU5tcUx4NEdGUUd4UzBfSWlEaFUxbFVs?oc=5",
+   "data": "2026-11-25T11:03:09.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1sqm59",
    "titulo": "IPO da Anthropic e da SpaceX: controles relatados",
@@ -901,6 +969,18 @@
    "avisado": false
   },
   {
+   "id": "tdm3l7",
+   "titulo": "GTA 6 quebra recorde e se torna o maior lançamento da história da PlayStation, confirma Sony",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbTAzSlRjVVJydWY0U0tYbkoza3IzaWYtV01JenVYWVo4ZHduV0k0U1plMmZjNlJLMzJCT0VUck5qaTdodWJibXhTZnNsdWh4UnZFMzl4R196R2NnQUhOYlBrMUZiYi1HMHA4ZUdGRkJ6eGJmeUdLV2ZWS3RQMFhJQXNnOG1adkxJekY4Um96SXhfNnJYTExna3VNdnR0X015QUZYX244X0E2dVZPYnhrMHBlQXo0Q0lMU2VpR1RLT0ZkRUNRWGY1bG9aOVZKOHPSAdQBQVVfeXFMTUNEY21fNWJTQ2ZnbmkyNXFtdHZpbWxzNTAxb2t0T2ktVzJpbFV5VElzN21qbGcyZVhMZWEyVVdTZ3RCa3FpS1E1NEFqZ3h5MGRlOGduR3VLd2p0c1Z4SFRlSHBidGtOZFJ0YlNYMnFoY3N4TUZTczN5TVRQNUdlS0FBb1RpbkoyNXBfLTRYb3JSSlJLdUZMY3EzT3RHR05rWnFfOW82ZDZiUDJxS0dCMzZoQnpNdlRaTTZuN09FR2tpYllMLWUzVUdMY2U0NXVBX2otY08?oc=5",
+   "data": "2026-11-24T19:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ntxow5",
    "titulo": "GTA VI supera 39 milhões de jogadores e bate recorde histórico no PlayStation",
    "fonte": "Creativosbr",
@@ -1764,78 +1844,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1j1zsy5",
-   "titulo": "Petrobras (PETR4) anuncia R$ 15,6 bi em dividendos extraordinários; veja datas",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNejVPY2FUTzNwWHczUGRDdFhQUmFDMXExTEJocTcwTkZudkpjcWRIbHM1ZU5wbkRaSW1GV0R6cy15cGw4bElaTHJEMDJUYlB1cUFMU3J5bmdOMEZ3TlpVWlZJN3BsNDlMdXozNW5RSDY5RVl6M1VlRFYxbjBYekpIVkFIX0NZcVR2cWJOVjl30gGTAUFVX3lxTE0tanhPWTh5NDU5STE4cnVSXzBqemZUSThiTHVtQmVZZUpjQWpzVXd3MjN0LWxnUDlXOW55dW9xekhVYmJGSy1GM3IwLURONjNKbXYteG1QVndZSzNqMl8yd0dTdlVZNXJnR2FudC1UdHlWSzAxdTdjdURIR0wyZkxxWHhoTy1DdzJ0azVrbE5peTFTYw?oc=5",
-   "data": "2026-11-24T14:06:23.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "i3ecad",
-   "titulo": "Ações da Anthropic caem abaixo do preço do IPO e ampliam temores sobre setor de IA",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOE9EczdsR3JpVzhNczVyMTVjZmdpVHRySHdCRDhKb0Zwbk1hMWRrTi0tZ3pLSXg1WXRDSjkzeVV5M2gwRlVESlhqRmNqNmlTUzBCM3hvc1Nzb3NISnRja3F1R0diSFpWYUxETXFMMnIyLUdFOWs3enBxYktEb0hhLWZSSlh2clN6RDI0OE1GSmtxMXdPMC1vUTVrd0dVakNXUmRlb3h1SmhfSWhVTnNWVnZmejhscG9kb2c?oc=5",
-   "data": "2026-11-24T14:03:13.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jaji9r",
-   "titulo": "SpaceX-Tesla: os conselheiros que negociam a maior fusão da história",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHdFcFNkWEZTOTRjb3U1ME5aQUhsUktwTlEtQjU3NG8ydTZiODlRVlB4T01ibGE0aFRfUC1JSnhqNVN3UEtCM2p5WjhzQjdUWHRxbVhvaHc5clJIYjBxUFRIYWVPaUE3eGZNZDRMcXhxVDcxRFdyaUM0M25rTVJFc2pmUmtZRXlQMm5TTlZBVG1udjk0cGJESmVzMHMycy1oWE1tc0V2LWxaTHVWeXBIM1JZaWdXekVMNGQ4?oc=5",
-   "data": "2026-11-24T14:03:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "919a5e",
-   "titulo": "Hacker do GTA VI se declara culpado e alerta sobre malware",
-   "fonte": "Diolinux",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcDVad0ZIcmpPdExKWmQtd01neXhLanZ2WWNXcS1XWVJ3aldpeElVSjc1OVhsQUlDQXJyNHJSY0xEVkpBNWJxWG1fajhPMkJqeEhlZElySzdkMjJObUlWVnptNGd3NDdjb29QMEVFT2dCcWNSekctSmlrWkxmTEcyVDR3?oc=5",
-   "data": "2026-11-24T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11pr9k",
-   "titulo": "Hacker de GTA VI cumprirá pena em semiaberto",
-   "fonte": "Arkade",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeEt3TGVkYjdqaWozcEEzM0pKb3lQS3B6X29ydEt5cGR4WjBTajZXbVJQenJzaGsxVFlLU3RKcTI1M3lkY2pOTWNvSmZObERKVjJHYmdZNzJFSXo5aEZsUndrcEo2WG9ZOTQ5R3J0ZmVEbVA0RmJZREQxUDZNeGdFOXNBYWJuQkU1N2VTMjB5REVIVjJBdkdLYVZyZGNHWTgyVXRINDAyMFptMEVpem5wUjBHZVJ5U1ppVUM3UlAwSG9hNlNKNldIeDlRa1FMM2lJZ251Z0V3?oc=5",
-   "data": "2026-11-24T14:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6dg0dr",
-   "titulo": "Ações da Anthropic, dona do Claude, despencam e apagam euforia após IPO",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNENfLWpCc1pKSWR1cE15WXVGVXhTZEJxemJGTlV0aUhMd0dwYkpiZzgySFNvc29XNVcyazBGRTgwcEY4bmFWbWg1dE5qcVo3dUc4dW5DLTJ2VGJBUHdGWWwtX0NZRGIxQTdjamJKMlJTRkhSOGwzS0JBUWdUN3haY0dKTlZWdzh4U1kzNDF3QUpxb2ZVcHhGSXhZLV92UFd2UzZJVkJ5ZnAwSVdheDFxMkNmQ3jSAboBQVVfeXFMT0dVejNMVnRudXV5TlhkSkNEaS1WX0wwa0llVUxOY2I1ajlfbDJfNWdVdGxQVkRRWGVodmpYOHMzbGNGaGhNRENhOU1oU2hUem5ZT09oV2ZtR3BNSkVhU1FPOTJNUEFlUGRYdy1DR2VVWVFxMWUyRkNVRnM2anlmTmgwWTl6U0FhQ1hZU0ZiSWJFN0U1R2t0VHIxbWRjRnE5YUlMSnFWbEsyWUNtRUxVcV81SUJfMEdjYVFn?oc=5",
-   "data": "2026-11-24T13:59:22.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
    "marco": false,
    "avisado": false
   }
