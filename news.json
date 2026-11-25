@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T20:00:40.462Z",
+ "atualizado": "2026-11-25T20:30:27.726Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "11ajqbl",
+   "titulo": "Ciro Possobom deixa o comando da Volkswagen do Brasil com legado de proximidade e reforço da identidade nacional da marca",
+   "fonte": "Janela Publicitária",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGp3aThNdkNvd2lMdExjNlJCZkk0UkpraFlUQm4xZkVZX3VieXZpTlJ0cmJ4VS1odVBvZzBIdDYwY1A1YlpjVDVVeUU3Y3g0ejkxUDVHMkJDRlVwcW1RS19qN3VYTUx4R09rZTF3TFlCZEpBSkE2RXpsa0E2OHBtRWNLUi14U19JVVQyRlFFelNiZHdmZ2Rzdkh6Q1lxTnpVNE9pM2Jqbzlub1hjRHBUZ3l5WnRoWWNxNE0zTHJBNzVmc1NBeC1oS3RJMDNrWGN3Y1FleHEyQzhVSG9FWHIxMGJzLVNQN1oyUm1R?oc=5",
+   "data": "2026-11-25T20:24:19.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xpb5cy",
+   "titulo": "Panini e Rockstar trazem ao mundo real os cards colecionáveis de GTA VI",
+   "fonte": "GKPB - Geek Publicitário",
+   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82X2JCWDRBZkZOQU5iX2ZZTlJ0dUwzZmhvekFIQmVCZXVadG5qeVY0aFd4UUpQSTVMMUNGWXkzenFwNTRtMlBGWlJwMjZTcFk?oc=5",
+   "data": "2026-11-25T20:04:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "dxzx4s",
    "titulo": "GTA VI bate recorde no PlayStation 5 e faz história na Sony",
@@ -915,6 +939,18 @@
    "avisado": false
   },
   {
+   "id": "uobg3x",
+   "titulo": "Panini anuncia cards colecionáveis de GTA VI",
+   "fonte": "EP Grupo",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNC1YN3EtRDI5c1FCRHRQb1lQY19PazJsTjU4QW1WNlU3NFVnQlVqa0FGRElCdlRUMEtfT2VMa3B5Y04yWUQwZGFHNDJpaGh0SHhGNDJnQ3NuNGJJQUxfV2s4UWNEZ2pJaG5xWkdnOGlJVTlYWDY0?oc=5",
+   "data": "2026-11-25T13:58:29.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1aowbph",
    "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
    "fonte": "Valor Econômico",
@@ -946,6 +982,18 @@
    "data": "2026-11-25T13:49:00.000Z",
    "cat": "Regulação",
    "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5rfzyf",
+   "titulo": "The Mosquito Bowl – Crítica: Filme da Netflix impressiona com cenas de guerra, mas exagera na violência",
+   "fonte": "O Tempo",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNm9EQ0pvdnFucnlxc0FmSmdyeWpuczBmempLX0xNUWdkdjE0b2hPVFlmUXVKd25XZF9EUUJjaWNrQzVBOG5wMHA3blo5b1dEeE1BaURyQzN0V2V5Ni00VTcxRmRGbWx6WHVpS2M0d3FNOU05WVJCd3pwdklIWF9QcmNEVjNSQ2xHQ0VrN1gtQWQ2V0NONG5UeDgwSFhzaC1QeW56bVJYMDFXTDFZU2s0Z3doZDdpRHBUY3BSRXhrd0RFMzhtbXVadUFiS0JLU29RdmF2V1pfV19vejkxMXFjRXBmeTJoX0NoeXE5WnVxNA?oc=5",
+   "data": "2026-11-25T13:43:46.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1804,54 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1c2hwcc",
-   "titulo": "Amazon negocia compra da startup Decart por US$ 7,5 bilhões para ampliar atuação em IA",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1M2UW52QnVhbUw1YnJjQU5lTEN5LWxnSWM3SjhRaV9BNDdvV18xb1lLMkpFSXdmdWZpMVczaXVRNk1jaE1GQXZIdlVPQUhUaXc2bmRpRm5HYldubnZKU1NzcUtydjJfQVc3Y1JUZEVud242d3V1aWZfYXJIY19STnlxbEkwemdnZEljVjExMndrMnlaSnYyV0syRzdXN0xHa0lyakVMX0pGU3NQaVlvTUMtX01ibmpJUDg4?oc=5",
-   "data": "2026-11-25T00:00:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Amazon",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j3meap",
-   "titulo": "Bolsas de NY caem mais de 2%, apesar de euforia com IPO da Anthropic; ANT subiu 17% na estreia",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdnA0cEt3ajJBZGE0aWxON2tJODdWQUhYQ29MOTFjbXNzcUlQQ3FJWlh2ZkN0SFRPNmlBT3N3TDl6UEc0d24yWVpSM2ZUTjJQeXY4SjY4akQxRGN1QUlWVXVPY1N0WTZRcmI4Umg1TElmRE9Td2w3LUZXQmhRMDJIRGYzRWxwLV84a2NKNEh2djQwQ25UUWRJMHFBTEktUVRXc1lvN2s4bW1ySHdtUTlKRm15TjlYcDk4MWEzdHJuTmVTU29rMkxMZ1ZTM3JXaVllb0xyX0VxRURnUHlTNWhEcTU0cWx2WHNPTlRFeXBB?oc=5",
-   "data": "2026-11-24T23:46:04.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "6z9hma",
-   "titulo": "Elon Musk recorre contra decisão judicial por suposta fraude a acionistas do Twitter",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkIxT19TWk1IakJPV0tieVdFWTNCUEhmNkIxMktsc0RWVE4xLW5QTEQ1QVlGWGJzS1ZMSVJ3WTRwUld2UmVzQjlKOS1vY1p4eW5vcVVxWl9HUkV3WWJIa3RiX2p0c2g4STFzQ0U2aUFLNlI3dGJfeDlJSWlUTW5jZ0dmRVpiT0JsNWdSN2g1QnctME1NV0RMc1FLT0dYWVNjdVNTU1RNUHc2SWY4UXNFaERCcFZhenk4SnptRXhKY1Q?oc=5",
-   "data": "2026-11-24T23:42:41.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17b2uqt",
-   "titulo": "Elon Musk pede anulação de condenação por fraude a acionistas do Twitter",
-   "fonte": "Metrópoles",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQS0VsZXRaTm1OQnpTdXljOGktZWM1NWhCQ29XYVdtaHpjSDlkZE90c19pRmNWYXBWWjJ5VndVaGhLUE9Ka1hMNVItQ0xzT0RkcDZFVkJuLUd5NllqTlFGTUhqaW01SG5XVXRDS2pCM29fNnFYXy03eU1tOVMzSW9yY0YybW1taUhKU3cwWllRM2RsanZSU3Ntdm9DVmpRWkV5U05IZThyNjM?oc=5",
-   "data": "2026-11-24T23:32:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
