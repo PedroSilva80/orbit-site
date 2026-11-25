@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T04:00:29.213Z",
+ "atualizado": "2026-11-25T05:00:30.071Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -583,6 +583,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "90up6z",
+   "titulo": "Como comprar SpaceX Pre-IPO stock (Republic) (preSPCX) em 2026: guia completo para iniciantes",
+   "fonte": "WEEX",
+   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jNTBEMVNwZFZtQ191VTRTMEZUc2JHYjRhbTFobDZ6bjJLb0Q4b1NxbWlHdlQ3M096dmlxbUgzSUgyWk4wQk1aZ2pVU1RDYWhTdDNSalBrOG1fWlQ0MGpVMGtERE1WMGswNzBGaTc3bHJKdw?oc=5",
+   "data": "2026-11-24T19:31:09.000Z",
+   "cat": "IPO",
+   "empresa": "SpaceX",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1823,18 +1835,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qrsoom",
-   "titulo": "Por que a galera está obcecada pelo GTA VI?",
-   "fonte": "Capricho",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTVhKR2ZYcW0wdDNsdmxiekVWS1Y5bmNiY2tHZFVXUjNjMUJzZTFCUTdHLUpoT0kxWk9hejJBNW9YVjlSWFZkd2V1NFR6Q3ZhR0ZnMG5fME9mQndvdlBvZ2puX2tQVDZmN2VPRDVUWVYzVjJJVkQyUnJnZzF6UzVVU3N0ckdTMzBjQlFNRGE2dDM?oc=5",
-   "data": "2026-11-24T12:14:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
