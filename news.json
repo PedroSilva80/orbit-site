@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T20:30:27.726Z",
+ "atualizado": "2026-11-25T21:00:31.734Z",
  "agendaCal": "2026-11-25T16:30:26.566Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "jyzrv",
+   "titulo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027",
+   "fonte": "Seu Dinheiro",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlPdTVabjVJemxkSXpaaHJvNkJSMXNuRXNIMG5iNExrSEVaQTl2cEZBS3oxTDVLQ3huWllicFY2SkJENmRrVGtkLXpzcEFNblhQckMxYUcxUU5UNHJ3VXhlVDdsVmxxTEVFbEg3OEdlRldOLVNpQnVjUDlHZF9yNWYwdXZXa3daZUN1bzJ3bldFa0E5X09RemlXb3p1LW83aHd5aVJybjVOWGo1dTF6bmZRSUF4bUNrY1dFanJxMzFPQQ?oc=5",
+   "data": "2026-11-25T20:45:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Itaú",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "11ajqbl",
    "titulo": "Ciro Possobom deixa o comando da Volkswagen do Brasil com legado de proximidade e reforço da identidade nacional da marca",
@@ -1840,18 +1852,6 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jv6kpu",
-   "titulo": "Surpresas escondidas em GTA VI",
-   "fonte": "Fabriccio Lucas",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUjJXaHBCSHBGbmhBZXJTR1JWRjMyODNoLUp5ZkFob25ZMjBCZmJJOWg0allxWS1ZVG80OS1pWm9ZbHJEMkhGaTk2bXZxTlpRbmpNV0t4d09abEdQRy1WZlVBQXJScGFhZC1UbWZyZDAyR2ZldlNWdklERTNFUnVuaXBtejEweURuZ081RkZlaDNnR3hn0gGUAUFVX3lxTE5SMldocEJIcEZuaEFlclNHUlZGMzI4M2gtSnlmQWhvblkyMEJmYkk5aDRqWXFZLVlUbzQ5LWlab1lsckQySEZpOTZtdnFOWlFuak1XS3h3T1psR1BHLVZmVUFBclJwYWFkLVRtZnJkMDJHZmV2U1Z2SURFM0VSdW5pcG16MTB5RG5nTzVGRmVoM2dHeGc?oc=5",
-   "data": "2026-11-25T00:51:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
