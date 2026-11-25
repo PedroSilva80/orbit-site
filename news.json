@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T08:30:25.573Z",
+ "atualizado": "2026-11-25T09:00:31.278Z",
  "agendaCal": "2026-11-25T04:00:29.213Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -32,6 +32,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "luxua7",
+   "titulo": "Ibovespa hoje acompanha inflação preferida do Fed e novas projeções para as contas públicas",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJFalltWGczRWxSOU5fUExWM2tkLXkyRU94Z0FTT1MzUFE4cEZ0ZkFUVjVCSFNDWV9tVTh1ZjI2M2pzR3BlblRtaUxPMkVxYkFjVlRyQi1zLVpEOXZSLWJfQTFfbUp1Z3ZJcUFtN010SkFZYVZVcENvXzZnVlYzSWxScy1MRUZScXR4enc5d05kUHpmd2ZoWGRoaEhLakFmR0p1THN2N0VxUFZKUGRreDlyUTAwQldFaC03NVFUNmczeU81cHdmeHpUS1NJUzVZNUd4THhxSnlLVk9oX1B3cXcxcGtBb3ZVY1oxZTJnVQ?oc=5",
+   "data": "2026-11-25T08:33:06.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1pjfqq0",
    "titulo": "Kalyan Krishnamurthy, da Flipkart — empresa de propriedade do Walmart —, deixa o cargo de presidente-executivo",
@@ -1610,6 +1622,18 @@
    "avisado": false
   },
   {
+   "id": "jaji9r",
+   "titulo": "SpaceX-Tesla: os conselheiros que negociam a maior fusão da história",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHdFcFNkWEZTOTRjb3U1ME5aQUhsUktwTlEtQjU3NG8ydTZiODlRVlB4T01ibGE0aFRfUC1JSnhqNVN3UEtCM2p5WjhzQjdUWHRxbVhvaHc5clJIYjBxUFRIYWVPaUE3eGZNZDRMcXhxVDcxRFdyaUM0M25rTVJFc2pmUmtZRXlQMm5TTlZBVG1udjk0cGJESmVzMHMycy1oWE1tc0V2LWxaTHVWeXBIM1JZaWdXekVMNGQ4?oc=5",
+   "data": "2026-11-24T14:03:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "SpaceX",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "919a5e",
    "titulo": "Hacker do GTA VI se declara culpado e alerta sobre malware",
    "fonte": "Diolinux",
@@ -1810,30 +1834,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xgky1m",
-   "titulo": "Retorno de Jensen Huang expõe riscos de governança e sucessão na Nvidia",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNS2lhZUloTHZrT0x6enFZQzVBeHJDRVBoMFFwVTA3akFhTXJXd1ZfOWdFOGY2OEFkRHc4MHRfNTB1Y3ZPdU12eGhaWmZPWEV4Y0dXamd4TUVxRGdoMEVHT29yU1ZtOGh0cjl4YWNaZHhpSE55aUlOWnV5c0R5RFZ0aFBwVk9HUTlCa2FXYVZpa29DR1k3TXYyY0Z4Z0VUaVpaVzNfa1VxdnBuM1dmREhiMEV2SnI2c0ZCYnAw?oc=5",
-   "data": "2026-11-24T13:01:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mn2718",
-   "titulo": "Por que a alta de 17% no maior IPO da história custou bilhões à Anthropic",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZzhwWTRaN3ZuTGtOTmpXOVc3R0ROSGN3M1RJUVZDTVlBS3R6LWRRTG1qVGVGN05PSUJPTlhGYmdMM0NiTmxyOW9PdFRUQXZuTG9oQ2s3TjhOUmdiMjdlZ2hNaXVpX2plajZteHhMWjZmWWFjS0EyeUJyZlJ1ckg0Wm14cnMtd0h5LVNZWElUNzRSa21KV1ZZOEVITU1xLUpwNHc?oc=5",
-   "data": "2026-11-24T12:50:14.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 11,
    "marco": false,
    "avisado": false
   }
