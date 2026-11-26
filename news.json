@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T11:30:27.364Z",
+ "atualizado": "2026-11-26T12:00:30.272Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "derovo",
+   "titulo": "Ibovespa e dólar hoje: Trabuco, ajuste fiscal e IPCA-15 no radar",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTk9nQzZybjdCTG9pRkZDbHlOYVpvZThOWEY0d0szaDNtUTNfQ09QZWVqdGhrQWJnOUoxZUpOeV9LNm9IMFpvel9wRHFWQ1lZSlBBYUIzU01IdllmVmJBUm9WRDR6TXhBeFEweV9DTGQxd3AwZkVhcXA2MTUybUd2cGVqOVlSVC1ueDYxajkxb0ZtRFA2cWlhbWxVa3B5R1I2YkZ2Y2NhaUxqRlgwQzN0SlVvbFNGcV9K?oc=5",
+   "data": "2026-11-26T11:42:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "glu2dj",
+   "titulo": "Lançamento de GTA VI aumenta as vendas de consoles",
+   "fonte": "GameFoxHub",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1F1eFRrQmxJY1lDamlpWThwU0pPQjZ4cG4yNHlQMEZScURXa3V0c1R0eTVFU1dmTlBxbW1QQjNmYnBoQXFjWjBmdlJLUHVqMGJVQkVzZWxDMEpXblNTcnhBQWpPdkw4R0ZwXzlZOEZ1UzlYZkFYc3VycWE0N0RzTWU3QXh6ZDVnQ0RB?oc=5",
+   "data": "2026-11-26T11:32:28.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gnhlb7",
+   "titulo": "GTA VI BATE RECORDE NA PLAYSTATION COM MILHÕES DE JOGADORES",
+   "fonte": "24Horas.pt",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTlEZkt4a3pIblROWkVDbXZzQ0pJQ29DU3JNMzFuUjlCeWZZSHB4Tk5Tcmk1WFUxajYyV0dlN0YtNENQRElqTHlJanJsUnVld3lqbUd4TWVFX3o0THJOMm9qNU1YU0RfUWliU05pQTh5Q3dJWmhCbk1ZRml3M09adHdtT1F6UmpjR1h5ZHpsMA?oc=5",
+   "data": "2026-11-26T11:28:49.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "jc5tqc",
    "titulo": "GTA VI ganha coleção de cards físicos da Panini",
@@ -1817,42 +1853,6 @@
    "cat": "Regulação",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gqq9bn",
-   "titulo": "'O Corpo': Terror da Netflix dispara 86% em audiência e alcança 9,5 milhões de visualizações em uma semana",
-   "fonte": "CinePOP Cinema",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2hQWVNvRTlRTEVvYTJ0MG1DZXNrbDJGMzVQNjltdDNWdUkwdXVRMk9udlJ4LV80RnFSN1lwT1Y2OVFPbHV1LTRsekQwUkxpcmNuZGFQWkQ3aWQwU0w5U2ROVHlmbXlMT2dHcG10U3JLUEE0MVBsZGx0WXQ5YThxNlR3WXY3LXRqQ28yNE16bzZ3MVIzekVub1VDZE54czViSnE4TU81R1lyMG1yeEVYUHY0RHhzUmdLZFNfQkhXVnFQWkJkcVFsLVF6ekk?oc=5",
-   "data": "2026-11-25T14:22:28.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "s6sgy4",
-   "titulo": "Petrobras exporta pela primeira vez petróleo do pré-sal para o Japão",
-   "fonte": "eixos",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSVFmaFhnWE5Ed1RqbTJLLXFBWWUyYURHNzRra3RFZ1Zib0Nza0NDUlFCYV9DWFlZb2JORkU1N1cycTdTUE15VXlrbURYNzgzZDczQkx3dEI1cUl3OXR0ZWhTZzNsRmhQdFNkLVdFSE9yTkppSWtFeTltYm1qdERwNTdsLTctalY2VkZKX085cUgweE10NXNCS2s2SE90QUFmVWsyOGV3d0k?oc=5",
-   "data": "2026-11-25T14:21:02.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1h5tp50",
-   "titulo": "Dólar cai e Ibovespa sobe com expectativa por medidas fiscais; Embraer tomba com tarifa dos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "data": "2026-11-25T14:20:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
