@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T11:00:34.893Z",
+ "atualizado": "2026-11-26T11:30:27.364Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "jc5tqc",
+   "titulo": "GTA VI ganha coleção de cards físicos da Panini",
+   "fonte": "R7 Entretenimento",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzRyQXl2RWo2dWJZMTJHZnUtbGtZdVpnU2xzZERZdWJTU283Vm1yLTdjNGh4aGpEY3dhajdIUk5paEhubFZ1WHV3WUF3NGFZVEpkWnhMSnJtdU9hY0o1YXd0MXJRaHFmdXU1Z2oxd0dIekxJeEdid1N5ZWd6U0ZhazN1RTYtRW9YN0hTR0VBTGtobGNWN3p1R3ZZNEtaVEt0d1dQQ09hSzg4MVZPS0pKMw?oc=5",
+   "data": "2026-11-26T11:13:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ba86w0",
+   "titulo": "Ibovespa: inflação e ata do BCE movimentam mercados nesta quinta",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2dCYWtTbkRXaVhLMnBZSFVXR3FXMEhKZkR1dFhPdmpxQ2p4VTlBWjByRUlXblpMQ1FaWmNJXzBkbkxtQ2JnVEluajljc08xN3FITUN4SUxnb3VBTE5vV3F3RkR2SlBteEtoZndVR2FSS3dNY0lPT0w0YlZYNG44eFB3djBwSXN2YmFiT2F6NjM4NFlMX0xDcWJDOA?oc=5",
+   "data": "2026-11-26T11:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "17hyne0",
    "titulo": "Inflação oficial, nomes para o Ministério da Fazenda, dólar, Ibovespa, mais agenda e pílulas da economia 26.11",
@@ -1829,30 +1853,6 @@
    "cat": "Regulação",
    "empresa": "Ibovespa",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tu9oh0",
-   "titulo": "Ibovespa sobe à espera de proposta fiscal, enquanto mercados globais caem com tarifaço",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNSzdLYUFqZUNicC1kZ090SE9tNDVOdk5pcW1zMHVVbExQNjAzanFOWkZVdlRZYm9jYk5jVWlWUkNMdmhoR1dTaWx0Y2xkbTUwTGhlS1U5V2FjUXRMaW8ydUM1QVRNWG10MTRwQ1JzNjRBc1dIQWNwMDhvSnBxalZOMkJ3Yk1PTWwySVIyVnBqdFJZaVpfTV9MZFZ3c2N6emo5Nk5tZlZMSHRXNlBBZ21famdJTGNoZEh1UTlzbGFR?oc=5",
-   "data": "2026-11-25T14:16:49.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fj4yvb",
-   "titulo": "O CEO da Flipkart, Kalyan Krishnamurthy, disse após incerteza sobre o IPO",
-   "fonte": "Boa Informação",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGlreHpNQUljb09HZEFzbzdqZXNVYTk5VjJBNHNIZWlWMS1wU3FaRjAzd3FHMzdPcnhIQ2ZWa21CcFhQdU1JNTd3RkRjajNzeGxPY2tJZGpfZUZoY0RoUDQ0ZFVKT2hnbFRnaS1wLUxyWWZBbzg2ME11S3lZT1gxdjlESm9xU0FfRDh0ZllQMGtCWlNyc25tX0JZbnZzT3k2bzNVcUlPb0JqenlrX3c?oc=5",
-   "data": "2026-11-25T14:15:50.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
