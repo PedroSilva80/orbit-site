@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T18:00:32.251Z",
+ "atualizado": "2026-11-26T18:30:26.692Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,66 @@
  ],
  "itens": [
   {
+   "id": "rgg3b",
+   "titulo": "GTA VI: onde encontrar a Fonte da Juventude e melhorar seus atributos",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93ZFFlZXRqS09TRmVVNXhNT2JRUzJSbkR0OUxLYllvUE5LNkpLdV83ZFB6cEZxRVRqa2FibFhOQjJ1NWVhSVk3VGNVZWtWQkJLWHVOMmJMVUw3SU9HMnAtUDlrVDE2SmdvQm82VWFtVnZSTGQ1S1B4dg?oc=5",
+   "data": "2026-11-26T18:14:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10hhlbx",
+   "titulo": "Trabalhadores da Rockstar rejeitam reconhecimento sindical apesar dos lucros recordes de GTA 6",
+   "fonte": "gamepad.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CR19wRHZia193Y2lTWlp1c2xCYUVLWmRjcHIwVHRsZGhSdjV6bnAzbmI0c0t5RDNiU3JtVXc0d2Q2S0k5cXc?oc=5",
+   "data": "2026-11-26T18:10:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1sm49g3",
+   "titulo": "GTA 6 | Funcionários da Rockstar votam contra acordo de sindicalização",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSXQwX2VsNXpzdmpoSGVHbkluTlVsRkNjTzQyWEpKUm1CVFltajcyMDF0SWduTUNKS1hFcF9xcDR4blY4alBNMFl3dEliQkk5ZHMxNVhoeHUyMTV4T1ZNTWxaRy1QZlVPTTdRSm5CNzN1Q3VHMW9CSmEwbkw5V3ozZF9oRGVzTHZtQUZudjgxeUxBUWd2bEt1bkpyUC1FTERmNk1V?oc=5",
+   "data": "2026-11-26T18:09:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13vo0fx",
+   "titulo": "Negociações preliminares colocam aquisição do BRB pela Caixa no centro do debate",
+   "fonte": "Jornal Metropolitan",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5tRU1qTF9fMTIyZ2ROdmRMM1VodWVHSzFFOTk1eUNHVTZGTVNSS3pDQndmb0hBRk1QOS0zUUtLaFV6VktWS1FxTXYxekFURjc3cTUzM3gyVjlZaDItTzNDYm5UQU0zNTY4ZjFGb1l3?oc=5",
+   "data": "2026-11-26T18:03:19.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ducp9r",
+   "titulo": "GTA VI: conheça todas as referências ao cinema no jogo",
+   "fonte": "GPS Brasília Portal de Notícias do DF",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9vOUFUZGN6R2FGb1I5dVdFZEZTVTJHMndXb0FyOVFBZnhwcVJDb3EwSFdrTUlEUUJYUUJGMDUySEhVMmhJSThQZjZpQlFtV0psQmpIWGtuUWkyU3d5S182MTcwSnUtSHNuV3RYV0NjTUpTNWhkTG1PYVpVbw?oc=5",
+   "data": "2026-11-26T17:59:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1adtavp",
    "titulo": "GTA VI: como aumentar a vida máxima e conseguir uma escopeta rara",
    "fonte": "Pizza Fria",
@@ -70,6 +130,18 @@
    "data": "2026-11-26T17:51:00.000Z",
    "cat": "Lançamento",
    "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gf9cx2",
+   "titulo": "GTA VI: onde encontrar todas as praias e resorts nudistas",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlFsbVIyZVA0aTJneG92VE85YXU1OGdoTVBOVjJLRnAzVk95b2VRM2c5cU1YSTc1Q2V6bjRQTDR1el9IVnZBRnd3Y0Z2aGNhOVFqU3NQOHBYcWw5NU1aaExqMzNZLXhnOGdTcTdxTVZfS1BJWUhUOU9VbHVhUF95Y3o1VQ?oc=5",
+   "data": "2026-11-26T17:45:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -383,6 +455,18 @@
    "cat": "Regulação",
    "empresa": "B3",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1kt7g49",
+   "titulo": "BCE: De Cos herda juro em 2% e inflação na meta",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR2VqVUxvSDdGb2RYc0NmT3oxVjJaMDZrOWhBc3hBY0t2SThRdzlPQ29lanoyR2RSOFF4V2lUTHh6RnlZWVVIVV9LOWZ6ZzY1VUlTb2ZXVXFkNS1nclo1T3JDbGlPR3F4dF9LV2tqR0cycE80ZzNTRVZjc1lhVHFmcF9xalZFZ0gtUVBYZTdLV2hsVHhDQU00?oc=5",
+   "data": "2026-11-26T15:50:47.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1769,90 +1853,6 @@
    "cat": "Liderança",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8ildhn",
-   "titulo": "Embraer cai 4% na Bolsa com tarifa dos EUA, mas Ibovespa sobe 1,58%",
-   "fonte": "TV Sim Brasil",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRWRBVWtjWXZYX3pxa3g3WkJVVXFJeThRTWwyQzRtQzQtTzhHSkw4WXgwc0kxWExHaUN1SDd3czk0LUR5NGF1QXdaM2JyMzd1M29Sc3lESm1oZGZoaE1ySm91OTFsbzhzUmhsSDNjN091cTBVc0RzcGQ0WXl5THNmQzNVd0xDRmJuMkI2emZjVGtWd28tcTNmT0pJay10czRuOTNfM0NWNG1oblI2NXd3?oc=5",
-   "data": "2026-11-26T01:25:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kj0z9k",
-   "titulo": "Senacon cobra dados de anúncios do Google e investiga Meta",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLS1WWW1GeEJsVUwwTDJ3azZlNDhmVTBPWmpCWW9aUXRjUVpTOVRHV1ZiNlU2d2VoMjVYeEE0MDYyZC03QnQ5bFlaWUl5OGpsUzlWRmFKTVlFbXpYb3BJa1lZTjR5RUY0Vm1LenhsRXFlSF9aNUpuM1g4dWQzWlJlNTN3T2N0STFDMzgxbHJjT1ZWV0hPd294dg?oc=5",
-   "data": "2026-11-26T01:15:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Google",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pwcx7o",
-   "titulo": "‘Você age no jogo, mas sabe que não é o personagem’, diz psicóloga sobre transgressão segura em GTA VI",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRkllVzFoT2I5TkdHZUFVQUFkdU1oekZfUUh4aXRqcVoybS1NNElRd2I4TXNINVMtSThxTE5rSkxvSlJFMmxsLTBvdTA0TDg5NzN3SUhjdHZBaTd0a1Fsbk56dVptVWhaOWZNdl92ZnFFYUJsc3BNZi1yU1dIQ003dlBkQ0JQelNtc2Y3SU9pbmJVenZ6ZldZR1lsUUw4Q2xLR3hRaDdPWGlLdW9sYzNPRG1Fa2xlOTZtb3RLRUNRN1dPdzdLMVVLRzM5WlFQZ3lWd1E?oc=5",
-   "data": "2026-11-26T01:10:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tv77xb",
-   "titulo": "CEO e presidente da Anthropic venderam mais de 500 milhões em ações no dia seguinte ao IPO",
-   "fonte": "Jornal Económico",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGwwUmVUcHBlLUdhWXFpX0xkQ2pjdUlJQlRMbldleTRsUlVfUXRjVXNUVmlGamZPUVpZOUtvSDlsYmt5ZnlWX2VnWFJEOFBTX0laZ0dqalZqdmFlYk4xVjFBVFZjOTZnX21GSy1iUjFNWFR3RTJqQ2NoTmdKXzF3YmZJQnBkb3JRU2tEN290emU0VWtSSXhfQktRSWhsTXY4THY4czVsTVNCSEVla21pbGlrMHdtWHlwWk5pVDF2WFYzYkdaQ2l3MGlTcEI?oc=5",
-   "data": "2026-11-26T01:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "f5aa04",
-   "titulo": "GTA VI: saiba como encontrar o Hulk Vermelho e entenda sua curiosa origem",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUkpmcDhaYzRZWTF0UGV1Zzl1ejNBXzBFcDRCQnpuZlg1OEhaWlBXOEFQUGxELUJBckhxTzVlazl3MVpha1FSd0hJbnU0c1FTbkN5UG5sR09VNFdnTGUzVzl0bkoxQk1hemNSeS1UUEUzaEFnUFRtMVZ5WXlybWs?oc=5",
-   "data": "2026-11-26T00:42:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lgljop",
-   "titulo": "GTA VI: como melhorar o relacionamento entre Jason e Lucia",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JektlX19LMHlMaUNrVllCX1lRSW55R1JfTWtzVm50c0VOOGxmbk1sUGZXWmhVcEM4djVvTGZldllKeVBSUGJPZGtmUF9oQlptRFFxSlo2NC1sTTc1RGwxMllLZUd3czltX3NESzg4MzVDYVNIaE9BWGpR?oc=5",
-   "data": "2026-11-26T00:23:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1j24ic9",
-   "titulo": "Petróleo e gás: produção recorde mas exploração em ritmo lento",
-   "fonte": "Monitor Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2FGeEhuRzBTbGFqb0RraGtHX2I5c0xjcXdBWHNlU3d5QzBtc2VpZU1DczVueVRBUVB6N2hoQUFBdENFSzNFZHJGZTJCY0hiRWZQUFNTeWFvOEJONk01UmtsNjdDeUp0RFJzYnpqRkxjSFlCLXNWWnhvNWFFdV96SkpYU3hlb1kxZ21yWnFVaHZyZU9TeE5DNktR?oc=5",
-   "data": "2026-11-26T00:12:00.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
