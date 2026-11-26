@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T01:00:33.110Z",
+ "atualizado": "2026-11-26T01:30:27.520Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "kj0z9k",
+   "titulo": "Senacon cobra dados de anúncios do Google e investiga Meta",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLS1WWW1GeEJsVUwwTDJ3azZlNDhmVTBPWmpCWW9aUXRjUVpTOVRHV1ZiNlU2d2VoMjVYeEE0MDYyZC03QnQ5bFlaWUl5OGpsUzlWRmFKTVlFbXpYb3BJa1lZTjR5RUY0Vm1LenhsRXFlSF9aNUpuM1g4dWQzWlJlNTN3T2N0STFDMzgxbHJjT1ZWV0hPd294dg?oc=5",
+   "data": "2026-11-26T01:15:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Google",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pwcx7o",
+   "titulo": "‘Você age no jogo, mas sabe que não é o personagem’, diz psicóloga sobre transgressão segura em GTA VI",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRkllVzFoT2I5TkdHZUFVQUFkdU1oekZfUUh4aXRqcVoybS1NNElRd2I4TXNINVMtSThxTE5rSkxvSlJFMmxsLTBvdTA0TDg5NzN3SUhjdHZBaTd0a1Fsbk56dVptVWhaOWZNdl92ZnFFYUJsc3BNZi1yU1dIQ003dlBkQ0JQelNtc2Y3SU9pbmJVenZ6ZldZR1lsUUw4Q2xLR3hRaDdPWGlLdW9sYzNPRG1Fa2xlOTZtb3RLRUNRN1dPdzdLMVVLRzM5WlFQZ3lWd1E?oc=5",
+   "data": "2026-11-26T01:10:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tv77xb",
+   "titulo": "CEO e presidente da Anthropic venderam mais de 500 milhões em ações no dia seguinte ao IPO",
+   "fonte": "Jornal Económico",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGwwUmVUcHBlLUdhWXFpX0xkQ2pjdUlJQlRMbldleTRsUlVfUXRjVXNUVmlGamZPUVpZOUtvSDlsYmt5ZnlWX2VnWFJEOFBTX0laZ0dqalZqdmFlYk4xVjFBVFZjOTZnX21GSy1iUjFNWFR3RTJqQ2NoTmdKXzF3YmZJQnBkb3JRU2tEN290emU0VWtSSXhfQktRSWhsTXY4THY4czVsTVNCSEVla21pbGlrMHdtWHlwWk5pVDF2WFYzYkdaQ2l3MGlTcEI?oc=5",
+   "data": "2026-11-26T01:00:00.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "f5aa04",
    "titulo": "GTA VI: saiba como encontrar o Hulk Vermelho e entenda sua curiosa origem",
@@ -1816,42 +1852,6 @@
    "cat": "IPO",
    "empresa": "",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sqm59",
-   "titulo": "IPO da Anthropic e da SpaceX: controles relatados",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQM2U5N0lsN1NNLVdZam42TVoxY3ZLMVNwNDhzWDJlZm5SbEJRRjZhZVZYQzBSVHRSVzVkN0FIcHZfN1I3eUFhRjVrSTF5Vk1YeHprVlFOWTU1dTM2NTduV3dZTHJHWkxqOE10c2Q0OVVLcUFIUEdNcHZpWGNWeURTMFUxTWViNlZTWDRJc3ZwUHVIQ19FTWpFS0h1c3NMdw?oc=5",
-   "data": "2026-11-25T11:01:42.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ci4rro",
-   "titulo": "Novo ajuste fiscal, recessão argentina, Federasul, dólar, Ibovespa, mais agenda e pílulas da economia 25.11",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxNREZfdDZUbUN6dURBYXRSZ2stMFRmdkxqTi1VaWRFdGtwdnFDbFlDWDBwbnRzVHJfc0hPMmFFbl9wbkxwVTVMZ1o3TmFlaU1fd1pUaVZjZ040TFhhQXhQTXFWbUdGQUdPbXBMTmxvNjJVMEhyQXNGTWpRVE92VnhPZlZfWmxlOWd3T0NZZmhLY1R6UG5yT0FncmpRS0dCVTRndzlZZXVkQ2QtT3BCWlM3Z3RtaGtNaGQ1ODNtUGU5NURNZGJOUGJCdDVxT1F4RHFEclJyMjN1WmtMdVNmcnY4MlpEb05KMkV2dHEybHo2dWpyeUd0LW9GdTJMem9OelNaUWljazdmVkY1Zm9ULXFZdW1XRlFPYy1VX3A0WmJkXzZzckFodUZtYkN1WVpiQQ?oc=5",
-   "data": "2026-11-25T11:01:12.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jxji34",
-   "titulo": "GTA VI atinge 45,5 milhões de unidades vendidas nos primeiros 3 dias",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcXpKa2M1VHEtckZlWGRFWFJvTWN6Rmtwb2IyTExnQ1lQRXhPdF9UdEJ0RUlPRnp0UHZ1S0RqNXBHTktUQk10QlNLcERQNWdjTGgxVFp5VVJfOHJuWXpGVC13cXBja2t1NXJIdlAyaXRHcXl5a0M5SmRSRDNkX0MzeGF3cEJEQTZqdEpibUpuWW1WTUx6VDRYVnBqX0lqeUZSdVpEOWp6VGxLcFppVjJPSGxuTzRYWmc4WTlPWlpIZlA?oc=5",
-   "data": "2026-11-25T10:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
