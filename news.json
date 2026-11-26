@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T12:30:29.681Z",
+ "atualizado": "2026-11-26T13:00:33.540Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,30 @@
  ],
  "itens": [
   {
+   "id": "tjsu14",
+   "titulo": "IPCA-15 acumulado em 12 meses supera teto da meta e alimentos apresentam alta em novembro",
+   "fonte": "Portal VV8",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0JCVjdILXRlOS1ld1hjSGdwMXBtaDFvaF81NG1zX0RhZnBjQWZjblRPcFA2ZDkwS3h4eWQxR0FqbDlCclJTNjFZdmkxWVNORUhLcUdVdGlmLTJfT1psa3hHay1NeVFPTEloOGE4TFIzQnR5LTBmeWFsV2w4Wm9aejkwLXU1ZmxJZzBfSGhjNTMwQWFSRzZSVXM5dHRfUDhJV3lYR3dKTzZMVnJWNGYzZTVNR0thNW9KWTVNbUltbHItZFp4cXow?oc=5",
+   "data": "2026-11-26T12:53:31.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1g99tme",
+   "titulo": "INFLAÇÃO NO GOVERNO LULA ESTOURA TETO DA META E COMIDA VOLTA A PUXAR O CUSTO DE VIDA PARA CIMA EM NOVEMBRO",
+   "fonte": "Diário 360",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFN5QmdCZnNnb3JmelEtQURlZGQ5ZjNaR1JVRmNOMEFmOHdqWmx6YUxCdDREUGZEQWtVZ1c0YW9rSHEwSV90NFZPMHM5MEJydTY3enRVMzE3cEFJMVhqWXdJaVlOeWpOTWt0dWd4WXlkWDlFUlRxWjAtZ1lVNVdpbWFXcFItQmx0RTNuc2ZtQTR5Q2hMQUlWNzN4ck91T19wWm11TG1taEM4QmpoOVFNRy1mS2lCX2hFdnljV0xmWXF1NHFBZnk3REZRTjF0ZnlKdFNOQTFnTEp1NTQ?oc=5",
+   "data": "2026-11-26T12:30:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1t8f44m",
    "titulo": "The Fantastic Four: First Steps deu 37 milhões de prejuízo à Disney",
    "fonte": "Eurogamer.pt",
@@ -71,6 +95,18 @@
    "cat": "Regulação",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "sll2kc",
+   "titulo": "Fictor é alvo do MP por suposta fraude bilionária; Justiça bloqueia R$ 4,3 bi de 233 investigados",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVkFDY0VIeVFxWjJjN2ZTSXYzdFl2clNZaW1XNUQ1VmUwQll4Z0g1NmxOdW1oY2dadk5wVTlGZENEVnkzOXFHc0d3Mndza25mM3l5aEpXQkNsTDB1aFBaeG9sU3g1cm5sVlc4VXpNT19oSDFaNjdJYlE2SlpQRTI4R2VYdkZnUTNhdkdzcEM0RE9pWFU5VDhmNXZYc09XaUloeWczNWRhZlh0b1V3VVcwSk56X2xpeGc1MzEySWJIYms1ZFJOUDFyakdn0gHPAUFVX3lxTE9XeEVEXzJPUWdvaHJOaEs2bnhacFlFWmkySFpBd3JYU0lHVDFHaC1QZDcyWTJTajAxLXhZYjZfQ21QSDdSbFphcVhva0pLZE8walczZXUycFdIdTkzVjFscUJ4NDVVM0JSbmVzRzVULXpITVJyOHlpWUhiSmtpRm52aXowbGY3RU5jelo5M1F3V3hYN3lQY0V4LVJ0THptZHgtdEJxTllsbnFIeDBRZTRWbXFoeFZnWmNfdFd3RGllajlzRDVXci0wbnRSa3ZNZw?oc=5",
+   "data": "2026-11-26T12:16:13.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -405,6 +441,18 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR1IzLXprZWFZeXFXZTdXUktwckQ4OHQyZjY5TURreHV2REJBbExQSEdIczg5ZGhjU2c2RGkzb0NWNFBwaGllaE5wVjV5enFzaktzdFBCWFR3bkphckZMNkFOLXhYUTlUZ21zRndyMkVrMDdIUDc4TnJNRnNJZ1ZpcVNlMktBZ2JHTUlmUllLSTItV3ltSW5jMnF2SzZvcHdlUnBBay0tWWtadHVMcjRYSVNNNVdNRUJvYnJtSzJNekJIelZWc2NzN0VQZ1p2WXc4Tl85T2tpZV96ZXNlbXBKS2VZWklZMHlmLXdhcDBCb2Q?oc=5",
    "data": "2026-11-26T07:33:02.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "beb77e",
+   "titulo": "Ibovespa hoje fica sensível ao ‘efeito Trabuco’ e aos dados do IPCA-15; dólar cai a R$ 5,77",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
+   "data": "2026-11-26T07:30:00.000Z",
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 7,
@@ -1804,54 +1852,6 @@
    "data": "2026-11-25T14:51:00.000Z",
    "cat": "Regulação",
    "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1i54d9s",
-   "titulo": "Queda nas bolsas de Nova York e tarifas dos EUA limitam alta do Ibovespa após quatro quedas seguidas",
-   "fonte": "Tribuna do Sertão",
-   "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPMFB3RlZSRGJwa2szaWt5WFlWZ29kZmdfc291ZjFMbXdUMEtXN2hPRFUtdW1fXzhpNXliYlFXcjNpdEpWRXdzR2NBTk1STFRadWFGY1NfVXpkNHdKWUJrR0M4d3M0TkpvdzJxSGNSSUFtaHVqUjJEcVh1WHI5Nno2RzI4Vzl6SEFYdFY1cEZVN2xoeTJlM2g2dVBnVWRsMnVOS3FTYThMSHhrUWtjWFY4eDlmUE9PTEdVSTRyQkYzR3FvVTE0TFN3blhoLUV5MkItZmFvallHZnVMRmtNcVpJZlJmTm1uem5OLW1RZUF1MmRJdw?oc=5",
-   "data": "2026-11-25T14:51:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "e80ysd",
-   "titulo": "Petrobras avança no etanol de milho com aquisição de R$ 2,8 bilhões na Neomille",
-   "fonte": "Revista LIDE",
-   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMVVINEpTZFNuSkJXV2NrbTlWVWRJU2hNSGNnb0Ywc0xlbFlFSFIwTVk5Q2FXei00dl9FN0VWeS1TY3pVWC12cjgyd2lLQ1FzZFgtNXpROUtmMGczWVNFU2pCMG9xdEdvRlU5d2g4a2ZCb3RaeWJ5UGxMTkY5azVHZE9KOXNJU1c0WjVHQnlacFFZT0VES25YQ1NwWDNvX0VHb1pRN1NlSUhJZU1fcW1MOEF4akJVWExIbWF0WmxrbDRaVVUySGs2N0gtYXBsM01yYjFPNUVyQzdxZw?oc=5",
-   "data": "2026-11-25T14:50:32.000Z",
-   "cat": "Corporativo",
-   "empresa": "Petrobras",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1c2hwcc",
-   "titulo": "Amazon negocia compra da startup Decart por US$ 7,5 bilhões para ampliar atuação em IA",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN1M2UW52QnVhbUw1YnJjQU5lTEN5LWxnSWM3SjhRaV9BNDdvV18xb1lLMkpFSXdmdWZpMVczaXVRNk1jaE1GQXZIdlVPQUhUaXc2bmRpRm5HYldubnZKU1NzcUtydjJfQVc3Y1JUZEVud242d3V1aWZfYXJIY19STnlxbEkwemdnZEljVjExMndrMnlaSnYyV0syRzdXN0xHa0lyakVMX0pGU3NQaVlvTUMtX01ibmpJUDg4?oc=5",
-   "data": "2026-11-25T14:49:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "Amazon",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1guxa13",
-   "titulo": "Lançamento do Meta Muse no Reino Unido Leva a IA ao Dia a Dia",
-   "fonte": "remio",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWERWdk5NYUxHMWpINHpqNGktVnNOeFluc3NaTEJjb0Q4WGtIR3I1NUVoQWtnYkYwY0h6OGZQdDlZakluczg1YjkzX0EwQUdkck9zRDlFOUtZcF83cVJJblZmM1FHbG43anZGcFA5M24yYzRWSVhoanlJZVFqN19ZYWJ0cw?oc=5",
-   "data": "2026-11-25T14:48:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
    "score": 6,
    "marco": false,
    "avisado": false
