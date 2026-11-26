@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T20:30:27.386Z",
+ "atualizado": "2026-11-26T21:00:32.375Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,42 @@
  ],
  "itens": [
   {
+   "id": "12uhuzz",
+   "titulo": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlQ1UFBDZG1xcFlrTlk4bjJhMldEMDFfM1ZCcTNyV2pnZE9wd0VDbU9ZRGRlRmdiLThnZm9zZWtGbTUyZ0ZQYTZ1VWIwMUdiR3NGNlk1bDVzTGd5WUsxX1BQU2NDRlJ2aThFNGZzQzJEQmZ6cFVEeDByLXJ6M2JvQ3BUSWhOQVBfZ3lmdjFiWlZta05NWHdPWlFlQQ?oc=5",
+   "data": "2026-11-26T20:46:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17gbkzj",
+   "titulo": "GTA 6 | Rockstar explica ausência de motosserras e katanas no jogo",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0NJNFZ3TzU3YnZRVG9qTVdLN0Ywd0NjSUhOb0FSZ0p1Mm5vOWk3RElhbU9CQ2x6c2pxWmNUTXRBR0JYNEZxdjlUZHB5b0RJMl8xSkpTVnVIcXBoU2xCVUgya2pmUjB6cDdZaUlvbkFrejZtb0lic3JzNkpSbzlyVm9lVVRwNUxZM2xuTks4VkQxX3RmWHhyQg?oc=5",
+   "data": "2026-11-26T20:40:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9g1cnx",
+   "titulo": "Localiza dispara 11% com efeito Trabuco e alívio nos juros; ação está barata?",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWtZUzU5M3NWYWZXZWlXcDNCRXdVem9WdkMzdGVQblhmdmtEUUpDZk85WGVYMmFoQUt1eGN5Q0ZPNC1zRFJlLXVzMGYySzY5QWI0Z21UcE4tSEtXbmNRQUdZNUVCVDVfSHhlWUJzUEZsLVdRNVBFOW5KeGE0eTdsZUxfNVFqcG1SOE80MkdYOHk1eDZRMnZCSkdZcEFzSUtsTWpMcmhxR0M4N2xvX2J5WXhlMkJLRDRuamFsS1pqNVRMdE05SWVrLTFn?oc=5",
+   "data": "2026-11-26T20:33:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Localiza",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ik3kx7",
    "titulo": "O mapa do tarifaço de Trump contra o Brasil: o que caiu, o que já vale e o que é proposta",
    "fonte": "Exame",
@@ -95,6 +131,18 @@
    "cat": "Resultado",
    "empresa": "Meta",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "143b3dn",
+   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 4% com notícias sobre Fazenda; Bradesco dispara 7%",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
+   "data": "2026-11-26T19:16:12.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -428,6 +476,30 @@
    "fonte": "R7 Entretenimento",
    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHR0YTN1bjJQbjk2cmJFOTBzRHNPWm5zUUVMUW9iSnRNVzE5WTVfNlpVbVF0a0oxTzgwRTRHQm43Y1ktbFBFN0ZteDk4VFNvSVNqTXRENGZIM1lHejcwWWFITUFLU3FQZy1HS1Y5bmJWQ1ZrbndSRUhJX1NLSloxcmpZUGl2bE5hTll1enlkd0FhOURRTDdNbUZxSmkxSjh5VmdvWFZxVk93NjR1WnNUY3pTOWhMQncxZDdFdTZlSUJEUms?oc=5",
    "data": "2026-11-26T17:05:38.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9o97yf",
+   "titulo": "Grand Theft Auto: GTA VI teve o maior lançamento da história da PlayStation, diz Sony",
+   "fonte": "Administradores",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjFJS0xkSTFCWGs0ZTM3RWluYmxiYnQ3d21UUmEtQjl3NVMzLWxGazdIUlNRdW5zQmFLZENkZ1dZbmIwWFFpXzVTMHlMNlhVSGVRTmM0UVJsLXRnSDljWUhTRExVMTkzekxjMk9rZFVOQ0QxQVhxQXg3MlhTNlJHRkkwVzVXQ1dPU3lVQkpVVWU4TjVDeG96ZXNfZ3U?oc=5",
+   "data": "2026-11-26T17:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1q43k4z",
+   "titulo": "Grand Theft Auto: como jogar GTA VI pela nuvem e com Remote Play no Xbox",
+   "fonte": "Administradores",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalQydWdnZi1uREJtNUZMTnhsOENnRUdjUTZCaGYxelMyWm53SDVUQmZQRGN0RFFkdWdkRF82eE5JcENrRGVhdXFSWlhUcFhQRWgwdWFvTXdBSUg3MEdUV18wTkNVMEFKVDkyaC1SR0FPNXlvLUpuOTVvUTFudjJSM1phVnBUbVhSTXBMUERzdWFMdllK?oc=5",
+   "data": "2026-11-26T17:00:00.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
@@ -1280,6 +1352,18 @@
    "avisado": false
   },
   {
+   "id": "d7c3zi",
+   "titulo": "Iberdrola obtém todas as aprovações para a aquisição da Caruna, a maior distribuidora de energia elétrica da Finlândia",
+   "fonte": "Iberdrola",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTlJMeUM4NVFFbTJ0WXEtM041NlozMHJuNXRYREVtWGFWLWVnYVBDeUE0T2F4di1IdnNJMUVDWlYxOTRHOTMtMlhyRE9BQVJBVU1Kdno5aEZUb00wOThEMnMtVDJOY2c2RFFuZ1hVR1RoOUJTY3pJNHN5ZGpCVGRHSUpkTUxwWEtmWS1xMmlwS0traUU2dEpOS3V3RkdzU2ltVkVWZHo2enU3bTBDbUllV0d2NmJDX1ZkcWJ4ZDlkcDQweGNLNDFSZG5acnZjeXlrWEQySFM3R1FPSTBYc2xObWxucHhUM3VkR2Jn?oc=5",
+   "data": "2026-11-26T13:03:05.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1137ohx",
    "titulo": "A Nhat Viet Securities (VFS) pretende captar cerca de 1,4 trilhão de VND, após uma queda de 24% no lucro acumulado nos primeiros nove meses do ano.",
    "fonte": "Vietnam.vn",
@@ -1768,90 +1852,6 @@
    "data": "2026-11-26T08:30:00.000Z",
    "cat": "IPO",
    "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14d6qdc",
-   "titulo": "Braskem salta 12% na B3 e 25,5% em NY após notícia sobre acordo com credores",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
-   "data": "2026-11-26T08:11:27.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fv6cfz",
-   "titulo": "GTA 6 – Rockstar explica porque é que não dá para repetir missões (e a culpa é das vossas escolhas)",
-   "fonte": "Future Behind",
-   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Nnd3MXhCOXlZeDNWelZNX3pGYU9kVVN3eGRNVGJDcTRiNHBnMFZ5ci1XUkpEQk00S2JRdE5OUzFBb25fR21JbmcyTFdKc09qNzVSbUliSU5MdnJUUE9TWm5kaEZlVmZRb096RA?oc=5",
-   "data": "2026-11-26T08:05:59.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1emtqby",
-   "titulo": "Sem Wall Street, Ibovespa hoje fica mais sensível a notícias de Brasília e prévia da inflação",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR1IzLXprZWFZeXFXZTdXUktwckQ4OHQyZjY5TURreHV2REJBbExQSEdIczg5ZGhjU2c2RGkzb0NWNFBwaGllaE5wVjV5enFzaktzdFBCWFR3bkphckZMNkFOLXhYUTlUZ21zRndyMkVrMDdIUDc4TnJNRnNJZ1ZpcVNlMktBZ2JHTUlmUllLSTItV3ltSW5jMnF2SzZvcHdlUnBBay0tWWtadHVMcjRYSVNNNVdNRUJvYnJtSzJNekJIelZWc2NzN0VQZ1p2WXc4Tl85T2tpZV96ZXNlbXBKS2VZWklZMHlmLXdhcDBCb2Q?oc=5",
-   "data": "2026-11-26T07:33:02.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fpjx2r",
-   "titulo": "Dólar cai a R$ 5,81, com novas tarifas de Trump; Ibovespa sobe 1,58%",
-   "fonte": "brasilagro.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTjFrZ3NKOTdHRmsyYWplY3VLY2hneW9ZN0tSbEd6OHQ2UDRlYjluMWZFT3gtVUFLNk1fUW4yZHRDMHF4X3VqUXVGeEVjdFNHNHdZaGxOM3F0MXZPQjEtc1ZFcFpNbkk4eXVqd185Q2FTWE5XYklFTmZWbkJjb3loajJDb1IxTmhXVHNPTGhzdkx1Y2tQcjJ5WVozSlFkb0lEYUZ4YzlqTlZDdw?oc=5",
-   "data": "2026-11-26T07:32:19.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "beb77e",
-   "titulo": "Ibovespa hoje fica sensível ao ‘efeito Trabuco’ e aos dados do IPCA-15; dólar cai a R$ 5,77",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
-   "data": "2026-11-26T07:30:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-26T07:28:49.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j41fy5",
-   "titulo": "Marca japonesa lança mini PCs compactos com processadores AMD Ryzen e até 64GB de RAM",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXBiT0tGQnZsR1RBYjNjMk1XeVd6OGc2RnAtYTY1R0E0X1JxdUJWajJFTjd2M2VYbWVKUGljRTBjNVplOTYzUDlwcHpSQ1BWVmRRQUpqcGNWRU40b2d0SzViRlB2NjJzX0FOZ0NFZWltLXBDTWFDN0sxTEJpUTVtbFpsMHRzS1hfbzBvbnlwWFFTWHhSOU5CVmFKbjNWYjRXVU5oYmdKZXNSYTZON1F0LWdHSEhqVnhYN0cxOVhIS3VtYUItOU9raVVoSQ?oc=5",
-   "data": "2026-11-26T07:15:37.000Z",
-   "cat": "Lançamento",
-   "empresa": "AMD",
    "score": 6,
    "marco": false,
    "avisado": false
