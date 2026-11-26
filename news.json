@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T10:00:32.371Z",
+ "atualizado": "2026-11-26T10:30:28.040Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,90 @@
  ],
  "itens": [
   {
+   "id": "6pqhgf",
+   "titulo": "GTA VI: personagens femininas têm 'bumbum harmonizado'? Curvas do jogo chamam atenção",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUXhvM1E2VzJoWlh6UlhUR0dHSmlVcmNVampmTGZNUlRJdmVpSXowdXB6TmlRWHNtOHAxUzNsdUxRSmJxdGxWQ044ZUZLaVUtWjdNcTBBRERSb2E4bTE5d3NRX1UwZ0xCc1dRdUtrTzBfZTJ6a1F2Y1RGcTNGUElwMTlsSHZLdzlnMTFjYWxhSldMdXhURlpHd3dzRlE4S0ZmSHd3M3lsOHJkZlhVc0pOZl82czIyM0JUdFRaZURQbVZHWHFKRzlBZWFSNkFHd1lp0gHfAUFVX3lxTE93SEQwTHhweTRqVjMxSVYtelRIaXhuWEpLSjRUY1ZkbHFxZU53MEYzaGlhbEJ4Mk9rSG5IMnJBOGFhTVJRaDNuUGRSeHY4ZllNYVlIa1NpNEJKYzZSTzBXRndvbkhLaUFaeGZHRU9RRnZOWGVJT3puRzI3OUNqbk1OZ21DcWpaNTFHMnBrNDk1cWZ2aERfU1JHcFFJYzhndlJ5bzNvQ2w3VnVYMjVsVlliRWJBWVA0ZEJtc19TWWpQV3hUZ1JhUkNEaXlzWUlfeFhuSkc1SXhHS3djbXNFekk?oc=5",
+   "data": "2026-11-26T10:23:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12m0zgq",
+   "titulo": "Governo Trump cogitou usar lei de guerra para pressionar Nvidia, diz jornal",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZPeXV3Uy1HZmREWV9ZQS1CODNiNzFQVW5TcURScGNPS3pyUmNxa001eG1QelFPWDFYRVpnLWM4RzMwR0VhWmU5Z3Z1UzZ5UHZSWHl3YzVGYVpVWU12bG9idHptQmxzbWRvZWxWbU1fbFc2Mkw5N2F0ZlR5RmZONDMxSEx0NE9wNm5KVlpqVkhIZzktempvZUpmQ1N5aXNYMmpMbWc0Zl83cHBxVVJpeGZUNkRveF9hZnc?oc=5",
+   "data": "2026-11-26T10:18:10.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jkcm7",
+   "titulo": "Feriado nos EUA reduz liquidez do mercado em dia de inflação; Ibovespa em dólar sobe nesta quinta-feira (26)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnBPQlQ0T2F4OEJzNnNOWWh3ODFDVW1wUGFnckk2MWNZZzRWMXpuMEdYbTFvUDZGdFM1YjAyYzlQaDRWTlRkaUM5LW84cjU5Y21Pa2NuSzVQV053aGotS0VBY3NJYTA2ZGtuVXlNN040Y1VGU21KZ0ZHeDVvMU5RajFCanZXQ0ljZnZiZ0JieUpkcVRQQU1iRENmZG11Z19jMTlxNlRaZ2NYS184b2xNN0tXNWhEeHZ2WDlBd1lKd2NINU5wb1B5TEtpTC15VkxvUjFZenRlRW8?oc=5",
+   "data": "2026-11-26T10:18:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "porio6",
+   "titulo": "GTA 6: Rockstar fez três animações para cada interação com objetos",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2FXRk04bnhJTjNPS3MyNUxlcFZubWxaQW5zUlc1Ny0tOXlzZjF1WGZTbzlKV1BNSXRjQ1o2R2ZYeUhSZDAxd3RWcVlzNVVzdV9hZHJzWm5aZk85b0dKTTM0X0xoZnVsc1FGUjh6WFJ5eEEzTWs3RGw0WVZ6TzU2VDh4RU05N1A4ZjQ0YlZlTmwzWW5NRUV3MDlXMmJIRTJUdi1FSlJSV2FQWG9vdFRkRw?oc=5",
+   "data": "2026-11-26T10:07:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "emj6lx",
+   "titulo": "GTA VI pode ser o último grande blockbuster dos videogames",
+   "fonte": "Fast Company Brasil",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG00SVc0aDRGc203UV9qN2NUM3NRLWJ1LWhfZEIxcVhNZnUzdzlXdkJFQW9LVmRfdlY0RFBFOFJWUDZsSVRlUThoX19EdnBsTWQtc1RwZXFOTk5wbGxvNUptdExXSDNseV8wQ1Z0eWtPVXVoTEQtRThkcFU5bVZleHM5bE53aUJ6YW9NYTZKdVJiMXRuREwzb3pzOA?oc=5",
+   "data": "2026-11-26T10:03:55.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1egispv",
+   "titulo": "Petrobras fecha negócio de R$ 2,8 bilhões e avança em um mercado que vai além do petróleo",
+   "fonte": "O Petróleo",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS2J4dHZ5M05OeDJLX25hamV3Ymlrczk4bnk0V1ZqNWJlbDNEMVpWTS02aEFXMEwtQnBqR0xvcTdDTUhTUXJOR3ZQc0c4S1A0WThCeERXaVJYQkRQa0JfN2Rab29VVWZTYkIzclJKcU9DalJBcTQ1MlBTeVBQeEV0VGRSMmtNRm5OWGhCTm1mak1vTHhPWEIwTDB4d2tmVzhORkg1MEFXenVtYlRHSU9VcHlFNA?oc=5",
+   "data": "2026-11-26T10:03:14.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1k5t98e",
+   "titulo": "Caixa avalia compra do BRB: negócio estratégico ou risco bilionário?",
+   "fonte": "Portal Piauí Hoje",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQU9OS09fcWVvVVFGRTc5U0V1Qlh6MGhtUGxSU1NjWDU4RGtBRk9RcGp5NGtmZ3Nadm5IRFE0VHRUWUJwWVE0b2U2V1NGcEhEVEcwOXFBNGR1NERfdTc4MWZSTmtydEh6bmZlcThRLVJvUjduTHExY2M1MWNoTkpQRWxfVjdDLXhMVUozZ3VFQVI1VHJuM095NkFKNWp1RE5xUzV0V0JfbDhWd2h6ejU3NlFGUHlrOThRcUHSAb8BQVVfeXFMUEhEOVVGTmZCN185TmFvb0llWTE3V1QyZ211VkM1V3Uzb2MwczZ2OW1qR2E1ak44Ql8wQWVhLWs5czRDbG9udjBIOGhKTTF2bDc4YnR2OVc3UUxlalhDMnpGb1NlVHZVTlhLQ1JNcFAwcll5d0VMWnE1WHJaUi01dkNNdXI4Z2I3ZU1KUTZYRFUycDNISUFTTTVFb0JqYWlnbFp6VTZPSWdQbTlKVV9qNGh0VFY3VVpqQmRnZHRwUGc?oc=5",
+   "data": "2026-11-26T09:50:58.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "xnqlhe",
    "titulo": "Petrobras prevê retirar do mar 27 plataformas de petróleo até 2031",
    "fonte": "Times Brasil | CNBC",
@@ -74,6 +158,18 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795687232371
+  },
+  {
+   "id": "1qavlgz",
+   "titulo": "A Panini Transforma os Colecionáveis de 'GTA VI' em uma Verdadeira Coleção de Cards Esportivos",
+   "fonte": "Hypebeast",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxON1E4VmNxcGdBbGhVSVlYUDJiVmNDSE9oMEEtd2s1eENxM1hab3d5XzN3RmM4eEhYLUl6RjI4UFA4dWhacTVIZWN1VG5scElpUzd0bFF1amdQQ0I3LVZSalNfMXAxc0kyQWFuQzNtV0JPd0NzT0NoR2lIZkVaMGJZbGs2Wm1IakRLODZaaldGZlBtWTV0TklzOGlieFdkS1ZFMnM4MXRneFdNaGlSdEc0?oc=5",
+   "data": "2026-11-26T09:37:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
   },
   {
    "id": "1men8fx",
@@ -301,7 +397,8 @@
    "empresa": "Banco do Brasil",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795689028040
   },
   {
    "id": "nugrue",
@@ -1756,102 +1853,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12m2egq",
-   "titulo": "Banco do Brasil (BBAS3) esclarece à CVM sobre provisões do agro",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORXlpQTVUWHJ2NThkVllWWndILWRXZzh4bzNVWkdPSGFLcFpQX2xQR1psb25fUkJkQWt0YnRTTnV5bG9ONkYxREN4WkV4Si1xUUV2LWpmY1NwUnJfVmpXVkpueUU5LVFzMkRUUkQ3UzctX1FFQktBdzcya1VMY0dfSHhtc0Q?oc=5",
-   "data": "2026-11-25T14:02:41.000Z",
-   "cat": "Regulação",
-   "empresa": "Banco do Brasil",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "uobg3x",
-   "titulo": "Panini anuncia cards colecionáveis de GTA VI",
-   "fonte": "EP Grupo",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxNC1YN3EtRDI5c1FCRHRQb1lQY19PazJsTjU4QW1WNlU3NFVnQlVqa0FGRElCdlRUMEtfT2VMa3B5Y04yWUQwZGFHNDJpaGh0SHhGNDJnQ3NuNGJJQUxfV2s4UWNEZ2pJaG5xWkdnOGlJVTlYWDY0?oc=5",
-   "data": "2026-11-25T13:58:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1aowbph",
-   "titulo": "Ações da Embraer tombam após anúncio de novas tarifas dos EUA e lideram perdas do Ibovespa",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdWFXV3FteHJyck0wNXgxTTRUMDJ4UHkzRl9OZWx2cGdXODNrazF4ZEMxVXBneC1XS1hGbnItTm9Vcnl1WjVaSDdBa1pGSlhGVjVBeWdvZFhJb00xOW5mU1hBN05YQ3U4bFUxU2xZd3B0WTN3TmdyMjdUb0cwODU0LXpLS0RMWGh3a3ZMZGhuN2pOMFVfQ0ZTZ3JkMHVKUVRndWZaem4wNG5yeDlDQjByOXpSb3FfTzJhX3Y3dzkzWWljTHVrcnNpUHpKY1drbGtnYXVYeGlsOFRWa25V0gHrAUFVX3lxTE9WaFJrTUhzRmMyNjlfbUlzUU9Mang4RDNfa1pnN25XcTY4MDhNQU5ocVVfQnBaVTRVay1RMEhLdEZHNEFTRjdjMjk2RGxJalBjTlZlUHp1Y2ttQ0w5STg1eFludkVNdkwxUjhoSk9UYkI4WlNUZFhlZWNJM2YyQnFRamVydldtNzR5d3hueDNESjV3U0dpblo5OFk0eG1iSHNnTHZBVVN3WDJjQkVUdXBrZm1SM1NsRUZGclVJaEtYdmJDbGZsQWx0dWtUUnd2eGhzSnEtUEIzN2pWZ2NNN2hVXzRMSTBRejlTSFk?oc=5",
-   "data": "2026-11-25T13:57:51.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "h8sb7m",
-   "titulo": "ITAÚ ALERTA PARA 50% DE RISCO DE RECESSÃO EM 2027",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOY1Jtc0ViX25uWmhnMFp1UE5qVy1VbVpVTHJWWHpNNEw0czVKQm5nUmN0MEdTY1ZKOWZ6ejBnX0E3U3NRY012YTA4NTdPeXlSVjRYS252RnhBNk9nVEs4NHZzRW15a2NMSUYta1c4d0F1VXpTaWtiVDI2REFpUExDYVAtdEQzSmgwdXVxZVJTeVJZVHpvcGpnT19hMWpzMzNuLWRIWElYcnE?oc=5",
-   "data": "2026-11-25T13:50:47.000Z",
-   "cat": "Mercado",
-   "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "107kx4u",
-   "titulo": "Ibovespa hoje: Treasuries em alta, expectativas de novas medidas fiscais no Brasil e de mais tarifas do governo Trump; veja destaques desta quarta (25)",
-   "fonte": "Empiricus",
-   "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPWWJ5VzJ4UUlBTF9TalpyZVhMZW14clk5VXhZWTU4U3Bfel9hRHVFUy1RenMzZE5PZ2J6dW95M1lGOUpJSkotcll0eGoxZlA0WFZGdzQzR2hvYVpKSmhxS3NHTF8yWGJkeHVMVWlRakxZUUFpeENOTUZubml4Y3JpdWFsVUVpWURfaEVyMXo4bGMtOTNUYmE4ekxlRHZxbWIxQWw4VV9ZVjZrb1BYaUU4OGRiNDhBVXdYeUhmMEQwVkVKdkpoTDNUXzMwd0htdkJoX1BLdGJPbWdCQ3BneVNBUmZRby1XVWRoMEEwNDRKWFhhTnBHWHRpNk1tb0owWVVZcWJDeV95U3hjMEV2ck04ZDlta2c0S1NQWVIzMVllZW9JaE4xWFpHOUdNaw?oc=5",
-   "data": "2026-11-25T13:49:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wwj71",
-   "titulo": "Ibovespa dispara com expectativas sobre Lula 4, melhora em NY e montagem de opções em dia de menor liquidez",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkFLeFdnUUdrYXNNUmZTSnVmVmRqQmNyR09vRUM5WmtSQUp2XzF2YnVqMU81TXV5cExWRVF5UkYyQWdoTUtOZmMwRnVqMkdrN2ZyVXI3RWdyX2pibFkzVkJWV0IxdkQ5MXRaWmJ3MHlYWE94b0xFM0M4NUVCMVlKVDc0T1FTVGtZdlQ3ZkFKSEgtelczeDZyQmx2MmVOa1I1RlRiRTVmOWtLUmhjZGl1RG5DZzVURmPSAcYBQVVfeXFMTmwtbTV6V0NWVDJCdThoWm5jX0NMMlNaUGV0eHlmeHVibnJHWm9NRV84NG5ZdDd0QzNZWXVKbWtaX0hMN1hNbWJ6S0dMeFkwS1JqQXVVTHV2TndGVGptREhuMlA1SDhVNGhhcU5ZV1RRbUNIU0FGaUNkWHg5SHdwLUFkNmRjbWlpbXc1ZkxzOGxuM1Zyb010cExxbW1PTmNnUF9sOFJCWURaekFPUjFoa1lYQVk4cEQ4VWNIZlQyR3ZRSGRZZFF3?oc=5",
-   "data": "2026-11-25T13:47:11.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5rfzyf",
-   "titulo": "The Mosquito Bowl – Crítica: Filme da Netflix impressiona com cenas de guerra, mas exagera na violência",
-   "fonte": "O Tempo",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNNm9EQ0pvdnFucnlxc0FmSmdyeWpuczBmempLX0xNUWdkdjE0b2hPVFlmUXVKd25XZF9EUUJjaWNrQzVBOG5wMHA3blo5b1dEeE1BaURyQzN0V2V5Ni00VTcxRmRGbWx6WHVpS2M0d3FNOU05WVJCd3pwdklIWF9QcmNEVjNSQ2xHQ0VrN1gtQWQ2V0NONG5UeDgwSFhzaC1QeW56bVJYMDFXTDFZU2s0Z3doZDdpRHBUY3BSRXhrd0RFMzhtbXVadUFiS0JLU29RdmF2V1pfV19vejkxMXFjRXBmeTJoX0NoeXE5WnVxNA?oc=5",
-   "data": "2026-11-25T13:43:46.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17qbwhy",
-   "titulo": "Sanofi anuncia compra da Insmed por US 41 bilhões em maior transação em duas décadas",
-   "fonte": "Imprensa 24h",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWFZIRXRWQXJ0WlkxaUJudXEzNzdKUEVhVWVBY1B3cl9XbkJWeGlhZUdrRldBRWE5QjlsbHVWdnZRV05NZF9lSHRhS3Rld1RGazNBdjRoZTI3UHN4RzVranVyNklJcmlER09ydm5qVFdNNXFP?oc=5",
-   "data": "2026-11-25T13:43:24.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
