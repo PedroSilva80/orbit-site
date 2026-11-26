@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T15:00:35.136Z",
+ "atualizado": "2026-11-26T15:30:29.848Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "tmcgt2",
+   "titulo": "Ibovespa sobe mais de 4% com IPCA-15 abaixo do esperado e nome de Trabuco em alta",
+   "fonte": "Canal Rural",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhuZVdyXzJKQVpRSHluSEFYZFY2aVJpNnZuajl0bVF1aFZjLWdvZ0dneXRnX3RoSkpaaVh0VEtaeVNlQWU4OFpXMWhwM3NHaVNwemxWblNsMEpRQlpySzhDWmZYckliUUx4c0VHbjFKNm5EUlMyaGQ5d2RhWkZOMGFMaDdsLVQwSHNJZE9SdWNsUW9QNmszcy1rejlWUDQySG1ReTBsMzFKVDExTGxibTRtWXJJaGJVUGxkdg?oc=5",
+   "data": "2026-11-26T15:23:32.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bbatmi",
+   "titulo": "Trump comemorou disparada da Nvidia no mercado. A euforia durou pouco",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0lUakJXbk56czViNVpoX2FXMHBETkVSeUJ3eWlmOWd0aFFiUFdsV29HeW02QWdpQlNoRUVnOHBpNi1qbzFCYnJVTjZvTkRkWnh1OEhJWVIzSmk2b1ZQOE11aTNfQVd3MlhKSDI4QWhmbVBSZlQ5YmVHclZOaWlBLTlRZ21pZW1ocVk5YjJaeU1LWkV5Y0JZTXdjX0VjWGFzMTJXSkJTVktNU2ZwTUU1OVhnTlrSAboBQVVfeXFMTjFQTXRjUFVYcXNtWUo4cmo2VFZNMWhNdFFRV1pYQldURjdtZzVNX2NXNXNrbm1ZNWJDdDlsNllDV0dpS1FhZzk5dmdrOER6OUR0RXpKMzhUVFFqRkt6Vmt6M0lEbmhPbDNhMDdIcUV3OWNMVnFlVHRnM1VlRU5FMmxjUW8xTHB6eXRYcy1TLWhCZ3pzNFdPNDlrdkJscTItOFNpbHBqYmpUNTlUV01QZ0hBd2V1YnQ5aW1R?oc=5",
+   "data": "2026-11-26T15:22:41.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ide7ks",
+   "titulo": "Letras Financeiras superam retorno do Tesouro Selic e lideram ranking de renda fixa da B3",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzdFNzZnNTJDY3VBQWV5Y2lkSnBvOGdDVWxWOFRHNjJmT3ItckRlM1ktalo4SG5WY2NvVjZQRllnLUFWVXhvSWVwZ0hlVjVocjNubjQxUW1GdTY5SjZjT3F4UnhRTGdGTlljcFlhbmF2U0xJWmk4ZWxTSVdVRWxacXdwQ19RdGZGX0ZHUWpyakRkREw3SjVKdWNhUjAxVzBFeVpSaG5GOEJyNEE2RUVoNTBtdGxBbENSWVNTSC1ROXptZkU?oc=5",
+   "data": "2026-11-26T15:07:00.000Z",
+   "cat": "Mercado",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9771xc",
+   "titulo": "Quarteto Fantástico: Primeiros Passos dá prejuízo de US$ 37 milhões à Disney, aponta relatório",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1czdnZUYlVJRlRYQUZPckhBV0libm5SbUtwbWpZM0JQdGVHTjdZZ1NfZmUzNDYtWXEzdGxZUWtvcC1VV1VTaDdJZm5QVF9YeTNDUG5hMm5iMmJ4QklMNFJGeUE1MU9saFdqUElKektyRjJpSVp4UnZ2VVBJb0U5cEpGNHM5ZkNpbTVwaTR3WDNkMXltbEQxREZ4dlVjSnd6NUY0?oc=5",
+   "data": "2026-11-26T15:04:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Disney",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11cv1wl",
+   "titulo": "FT: As investigações no caminho da Nvidia e Jensen Huang",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUowLXowazdBQU1vc3VBN3ZWWTl1RXR5Uk4tbmtNWmNnZWVzYkFZLVBFOW80dExXbHVpN3VpdHBRWl9aSFZuVW1QZFdfYzVfMGM5dlBtY2RoUDF4VWNRaGdscXdJdFZJWGhmUldDVFlUQ1BXTEJBRlBSTm9ZM0lJeDB0amh0aVFZcGxsQm44ek5BTElMQ1FXZFBfSUNYWE5tdzFXME9aak5Xc3NpV253S9IBvwFBVV95cUxQNVNLbEltM3Z4OXo4aXZ5MU1nV1hibmVocGJYNWdBLW1mamVXNzhKNm5rVzBkbFFIbTdna3FFYmcwVHl2a19Tbm9yR1RFLU4zTG91TkJHRlcwZkpTeHhnb1ZIc0ZWLXBlZG9VM1VqNHJQQ2M3eTltQ0loR2hJNWRPM2h5ZTZZVzZrWXNuT05fRUQ2QVBBTnR5ZlViZW1yQnk4OTdjU2VleFdoMzFEN29QTGdRaGxURTJjbnp6NnBEYw?oc=5",
+   "data": "2026-11-26T15:01:10.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1w9ni6w",
    "titulo": "Ruralistas ampliam pressão contra o Banco do Brasil após exposição dos calotes do agro",
@@ -131,6 +191,18 @@
    "data": "2026-11-26T14:22:55.000Z",
    "cat": "IPO",
    "empresa": "Banco do Brasil",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ayjkgx",
+   "titulo": "Anthropic: IPO de US$ 81,34 bi lidera ranking",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHlwOF9kenBNbncwY1dzVHpOSjJZWWRNVzdmYXF2LWVfUy1WT0tXaFZuVVZLcy1kY041TDgwbjk1X0FaV1dtT1owVEEzWWU3eEU3RFlPbndoQkhkQTNqUm1QWGJPbmp2aUNRc0RueXRUdTAtek5jSzhPdXRfejZjSXkxcVYycjlTblVfY0htcFVOWjQ?oc=5",
+   "data": "2026-11-26T14:19:46.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
    "score": 9,
    "marco": false,
    "avisado": false
@@ -1781,78 +1853,6 @@
    "cat": "Liderança",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1cepy89",
-   "titulo": "Um cristão pode jogar GTA VI? Entenda o debate teológico sobre o novo jogo",
-   "fonte": "Gazeta do Povo",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUDg3ekRFUmRYYmdiYXBKOExLWVVEWFQ2dGpVM2tJbjA2UC1mNHgxRG1aZ2ZtS1pJTnllS2ZPU09BZFBuQ3BPUDFfTmgxcmthWkRuWmp0Vnk2OVhNQlFzYlpGcUY5TkUwZjEwcTJ4WnBLYVM2N2VnNVk3RTVhZHlfaXRIUTh5NHZGd21qaGxXVXBXcmVLbzN1NXFZaU90enpuVExWN3ZUMTBmelhudjZUaHYzcnpqUWRQ?oc=5",
-   "data": "2026-11-25T18:37:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16w9u5p",
-   "titulo": "GTA VI | Demônios, fantasmas, Pennywise e OVNIs: os segredos sobrenaturais encontrados no jogo",
-   "fonte": "GeekPop News",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRHNVdk1wUFBEMHN1c3E5TzFYd2tsWUNZMDdUTjNHTG1CTVYwaVlkamV2YWxMcksxRmJRWDdydDF2ZURvNllTV182SFpEaTdESmJIMFdhcjNGcTNGa0pJTmU3bTVpN1paQmFhQkJvR1JWU0JHRHFLOGRoZGJzQ0NBMUt5Qk9odS1aZGd1NnMzaHg1SVBqcGNxRXgyQ293d2JfcXBsVFYyTFJZN2oxeUxzVjhMTzE0d2t3?oc=5",
-   "data": "2026-11-25T18:36:59.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pumns9",
-   "titulo": "GTA VI influencia conexões sociais de 630 mil brasileiros",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LRjlXbC1Xd1lFVDRnY1lsZFgzOVFoYk1yYm1RT25URUxGNmJ2N2Nnb1NGMmNoT1A2SVpueDYyOThkY0RveThrN0dleXl2YVBEZFM0RUpOU0FkczA?oc=5",
-   "data": "2026-11-25T18:36:26.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "i2zfng",
-   "titulo": "A melhor mecânica de GTA 6 foi criada para GTA: Vice City, revela ex-dev da Rockstar",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDd5S3NNWmg0b2k2aXlLcFVNMDJkR05vbG9LVUEzZVZQR2R2NGJyYUNCQXNyeHNrWFVTMnJVS183SXBDQUhNemNoRzRDRWRVYzdOLWF4STZMZVA2YUpoakRfOTMxdFZMNTRUaTRaUUhNb29WdFRVLXMzbWNKY2JxMXFZb2tTMUhMdnVid1UtSVVwZUZiUGZpZ2NTQnBCU2M4RHZqcFhRUDVfZDd3QVFDeVR0RTN6NF9FU1J0Vy1WdGVqa1NaN2xR?oc=5",
-   "data": "2026-11-25T18:24:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19zcrqn",
-   "titulo": "Verstappen revela que jogou GTA VI por 40 horas durante o GP de Las Vegas",
-   "fonte": "ge",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTZDNEVqVUVsMUNIV21tS0ZVUWd5bkhUS1FiM2o1ajRVb05XNHdrUFFFNUljbTkzQVRYM2x2dUdQTGJYdzlJY1NpSjJrZFBoUzVkRU1UeDVIZXJ3NWNWeDVXRTNIdUhCY2prM1NScnV5OHJCS2NRV25nOTZGM3FPY1J3RXh0VGdxSnU5LVpXdDNVSEt6ODE0WHZzNmwyUHJYU3BUdXgtRGZ4cWFKUGwwNHBRN3RxX3RpMlRjMmlOa3h2cFAzcWxwMlFJdGhURWhV0gHfAUFVX3lxTE41SXMxOWVOOWNEZVlqNmZGdERmMUlzakJFUXV6dGh0RDV4WEtJRVpFZGdVS2NfUjdBZkh2NkFlNlUzRGVwZW5RcjFnekJmdHJVWVdYNlpIU01RaWZXMjVOQ1dPV0wzenBxb3ZQYTRkeDFULW5VMlQtbUMtZi00dWFVbXpoS1pBOWVFT0ZVcURPcTFUVXVDaEFNelR2Y3VreUtzX2Rqa1dsZVZZenl3QjVaVURIVWQ2SVNSN2Y4eW9rSHQ4dERtR1kxVklDeWRxZUJvWjNKX1B1YWFLOFA2LWM?oc=5",
-   "data": "2026-11-25T18:22:34.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pd6fpy",
-   "titulo": "Caixa avalia compra do BRB em meio à crise provocada pelo Banco Master",
-   "fonte": "Gazeta Mercantil",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSa29UMlRycnZJVnJyR0U2MTFPcWhjR1RGWThsaE5ZUnprSE1VSmpPczJ6U05fNGhoMFFOSGFhOThnVnZZQ3p4OThNMDE3ZzFJS1BZQ3ZNMVl3TTE1cDd1czhHZE9VekdLWU5Ec3FDWnpRNlFOUl9TR2Y5Zw?oc=5",
-   "data": "2026-11-25T18:12:02.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
