@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T12:00:30.272Z",
+ "atualizado": "2026-11-26T12:30:29.681Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1t8f44m",
+   "titulo": "The Fantastic Four: First Steps deu 37 milhões de prejuízo à Disney",
+   "fonte": "Eurogamer.pt",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWg1ckZzMjUzLXplV1V0anNwU0RfMFpWeHluSkpXMmxhMnluTWVhS19TVWgwcmV3QzFNWDhvRlktZ2pHU0NsTDFHN2x5cHc0a3ZnLXZYY3Z1YzIwdEJxS25JaHZxY2RQNm1rREFjMVQxNld5NFFBVHJ6OXhqTnptWVZQMEg3YTlvQTRmTjJ4WnRUWDQ0OVE?oc=5",
+   "data": "2026-11-26T12:25:50.000Z",
+   "cat": "Resultado",
+   "empresa": "Disney",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ot0lkd",
+   "titulo": "Mercados hoje: IPCA-15, equipe ministerial e novas tarifas dos EUA estão no foco",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFlxVGp4YnlfbDQtNUpycjMwcU5aNkpZS2R0OU5zVmR3QmoycURONVRzdndySi1LMDNZaE55N2xya0d6MkNYczFBTGpSenNBVVNvTjVfeTRpZ2VNdlNYS1lsT2psdDRxZWJWbzA1Zk9RUlRZaExNcUtPMzdhV2dfclFtVnlJS08yTWRzT2FKVVBEbDU0clEzU21NUHlLQVBWY3JqQWlSVlpuQTdpQkhWRzBzODBmbHJsY1hMamd4dlV2OGROTGc?oc=5",
+   "data": "2026-11-26T12:19:00.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "it7aww",
+   "titulo": "Justiça bloqueia R$ 4,3 bi de grupo que tentou fraudar compra do Banco Master",
+   "fonte": "bra1.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0R2bWlMT2hYYUo3QkY1X3VrbEY3NEVMRWpIRkh4d0hlVFBCeFZMQkhDQmVzZzNPc29iejlLY2s2dmVURTgyWlBWcVp5SmtERnltVUFQWHNmb3ZVWTBkbjNOVERhb2l0ZUV4MnlYaVhzZ1pQTHlSTVRxZ2cwejEzMUVGWHFyUjgxSU1iczA1WFhraVRlMHd1ZjRRMWZfRGdGMk9fRFVnNnRwWG8wTVNpc3RIQk1zaTktcEFV?oc=5",
+   "data": "2026-11-26T12:02:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dvk2gu",
+   "titulo": "GTA VI se torna o jogo mais vendido do ano, com 47,8 milhões de cópias",
+   "fonte": "O Estado CE",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVndGLVRzZ2ZZZm9YMGNPd3dQTVc4SmFieTJnVWUtZW9ha0NVVXlHT1lRbWRzM1lRVTFYZElxaDB4bUFGVFJvM0lRSHFhZkpYUmN6eUp6MFFiNk1iNVlubkpZTS1ZeWpGM2VJbU94U2ZKbjRxbXhlZnFNYzNBZXhaZmZrZlFPVWY0VjRjTGhKZGRnZUVFdVhQQ2d4TDNGZjN1ajQ0QlB3?oc=5",
+   "data": "2026-11-26T11:48:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "derovo",
    "titulo": "Ibovespa e dólar hoje: Trabuco, ajuste fiscal e IPCA-15 no radar",
@@ -130,6 +178,18 @@
    "data": "2026-11-26T10:48:45.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "48cio3",
+   "titulo": "Ibovespa: IPCA-15 e feriado nos EUA ditam o pregão",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWko1Z0lzNXgtbmhYLXNnWXdBd3lWQUNXTDN6NE1aTzRIQVJhM2xQaUNxM3o5ZERLZGtHNElHbXVPZUt5dE1RYlk1dXJXOF9YYmhySjJKLU0zclFrZHBtX3lOLVZDNDU0bGdiTGpqVnJVZDF5cVBxUTZWZlc5YmlMcGMtQ0RZaVpVVWxhUFQ3MXZlUzgzSFFNRHAxNUk?oc=5",
+   "data": "2026-11-26T10:33:01.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -722,6 +782,18 @@
    "empresa": "GTA VI",
    "score": 6,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "851pix",
+   "titulo": "'O Corpo': POLÊMICA série da Netflix dispara 86% em audiência e alcança 9,5 milhões de visualizações em uma semana",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2hQWVNvRTlRTEVvYTJ0MG1DZXNrbDJGMzVQNjltdDNWdUkwdXVRMk9udlJ4LV80RnFSN1lwT1Y2OVFPbHV1LTRsekQwUkxpcmNuZGFQWkQ3aWQwU0w5U2ROVHlmbXlMT2dHcG10U3JLUEE0MVBsZGx0WXQ5YThxNlR3WXY3LXRqQ28yNE16bzZ3MVIzekVub1VDZE54czViSnE4TU81R1lyMG1yeEVYUHY0RHhzUmdLZFNfQkhXVnFQWkJkcVFsLVF6ekk?oc=5",
+   "data": "2026-11-25T23:11:28.000Z",
+   "cat": "Movimento",
+   "empresa": "Netflix",
+   "score": 5,
+   "marco": false,
    "avisado": false
   },
   {
@@ -1780,78 +1852,6 @@
    "data": "2026-11-25T14:48:42.000Z",
    "cat": "Lançamento",
    "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11krjn6",
-   "titulo": "Embraer tomba 5% com possível tarifa dos EUA sobre aeronaves; veja as maiores baixas do pregão",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOVhVYkpzck9wS1ZsMUhDVGNVOVdCdk1jRnI2SlFFNVJmMXdXV2hKQ1pQRGRpaXFleVEzdkhCb0F2c252MUh3ZHJkSGhGUHdMOGd3cnpmTVBaUmExS3hBZlc4Uy05WGhDT2VRaHlBQmhlRmlqVTV4ZzlXb1FHUGdBNVFjSUp2V19XU1NsZVN1NFZFSGVtM3FBT1UyRXBTNjgxekJTczhzczkyQkVNcS1yUzlGNEE3dDlkTEcyUDNzeXZ2MnE1RjZSdEdPZXNiYTVrNlpEcG1xMXlsd0FNdHpzVTRKbEhic0XSAewBQVVfeXFMT0FfYUQ0NVFmMnBIZGZRYTh6eW5nZFdEYXNEOEVoWGtsXzVsNnJiZ2JCZ1ZXT3luTG1GNzRCaTRXS1Y0Zi0wRmo0NmpjTzNyTDJLZVRZUlVjZzFRQmhVVUJ0S3hzWFh5eXd4X1ExV3VnOXg1ZzE5elo4enZQcTZsRS1panFWUjR3LXFDVWI2RnNyTUF3OENnM3g1SUxyRjJVcFRIUng4dkJzdWxNcExaRTZRQ3F2SVhlLTRjVjRsUEpoUUN4UlVCZUlJS1ZOa0hwdzVqOFNMM3BlZWxUZmgxVnZCM085cUtnLXExUng?oc=5",
-   "data": "2026-11-25T14:47:00.000Z",
-   "cat": "Regulação",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "k3ivan",
-   "titulo": "Meio-Dia Mercado: Ibovespa operava no campo positivo, os mercados americanos reagem a dados mistos de inflação e PIB",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRW15aEdDTlJTNHl1eEhZMGlhNFVrcVpNYWdNSGE3WHRaQkxPcjRrZGxkdks2by1Kc2ZucC1MNmw0eElBX1M1aEhVVDQzRzkwTnJaOFJ0a1JZdVhLSXhkRHNWSGViQ29DMGNuanNPY1hka3FqcTdqd0dsT0xWc2dLbU1jUEM4SjFodlB4NzgxNWR2VEc3MnIzWWV5WGFVUHEwZGZyNFFtNWlpWmtoS1BOOXRzSU9jV1NkV05JQ1RpZVNGN2l6TS1ObFZ1VV8wTm9MZW5sU2JXbmdQSjlBZkRSOVh2VXg?oc=5",
-   "data": "2026-11-25T14:40:04.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "660abs",
-   "titulo": "Dólar cai a R$ 5,90 e Ibovespa avança com foco em ajuste fiscal e tarifas de Trump",
-   "fonte": "Claudio Dantas",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU1BESXB3Wl9DNlNuWkdHU2FZM2RZSkl1X25majh4YzVTbDRDYy1ZZ29FOF9zWXkzT3dXOThOX2N3RFh2MWNIMkYxTGFDanlVOEN4WDhIdkVzNWlLZm8wcWJhbmhBd0wxRmhuQ2REdmdBNXc0eklzdDJLRFBlOUJiVnNGdEQ5N0NaOFFxcGNoZURsamo1ZEN3Y202cnh5bVk3TXFGZzFMTUtmMGlvU2dN?oc=5",
-   "data": "2026-11-25T14:37:51.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rh8fwr",
-   "titulo": "GTA VI: Pediatra alerta que jogo é impróprio para menores e pede atenção à classificação indicativa",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa2pNanIwZWdRZ3pIZS1HVzVaVkFqMGtfUnRxN0tjejltMXlFb3Z5VFU1R1BBLTN1ektHNHEyQjBPa2tWczl0ZG9fekp5YUpkLW5KOTJqa0NocmdtTmNZaUJ6QnRzM1JkSXFCY2N5UUFoUEhjZlU1eDJSN2ZVTGdFLXJxRDM1VHlldGhRclUybmxfQnZNRlc0OVVUSWZqNUJrNXVqbUxibVVReDhmOXhYbnhxVGxLdFpja1g0ang4LXktb1RMOWQyVHU4Y3M2SXc0dUE?oc=5",
-   "data": "2026-11-25T14:33:46.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8vu6tk",
-   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe com fiscal no radar; tarifas pressionam EMBJ3",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ1RjWkZvaVEzX2VESmpsSHN4bFBBUEU3RFNWYzhIcGRXcU42YkFXbGRKYUM1MVVBeTVwdVJwNGRZb2V0Yl9VdXYzbVNCZ3JuelVVcThUSkpia3ItRFpnbHotV0JBNlR0TVBxRHZJTkFNcm9qazZ0SHpESFZNNHBkRnAyWlJMSDlJR1lmQnBYOA?oc=5",
-   "data": "2026-11-25T14:30:37.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fnwr2u",
-   "titulo": "Ibovespa tem alta modesta com fiscal no foco; tarifas dos EUA pressionam Embraer",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1CUnd4ejJPemtWRXB6VWRDaFZKNDJ6T24xUk51VEdjYkpnR1ltaTl5dnF2aDIyWktSdUtIU2R0dkl5Q0JKTkJrTVJHSHdDYURYRHBlak44Qk9FSTc2bDBUUElvSlp0dEI5RWxqYlg3WWlQYXBVZlY4?oc=5",
-   "data": "2026-11-25T14:28:53.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
