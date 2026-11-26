@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T08:00:34.278Z",
+ "atualizado": "2026-11-26T08:30:26.178Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "fv6cfz",
+   "titulo": "GTA 6 – Rockstar explica porque é que não dá para repetir missões (e a culpa é das vossas escolhas)",
+   "fonte": "Future Behind",
+   "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA3Nnd3MXhCOXlZeDNWelZNX3pGYU9kVVN3eGRNVGJDcTRiNHBnMFZ5ci1XUkpEQk00S2JRdE5OUzFBb25fR21JbmcyTFdKc09qNzVSbUliSU5MdnJUUE9TWm5kaEZlVmZRb096RA?oc=5",
+   "data": "2026-11-26T08:05:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1emtqby",
    "titulo": "Sem Wall Street, Ibovespa hoje fica mais sensível a notícias de Brasília e prévia da inflação",
@@ -1830,18 +1842,6 @@
    "data": "2026-11-25T12:53:32.000Z",
    "cat": "Mercado",
    "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "aqqvor",
-   "titulo": "PS5 apresenta mais quedas de FPS que Xbox Series X em GTA VI, aponta análise técnica",
-   "fonte": "mmorpgbr",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTliQUQtZGV6X1I3dWVEc2xqX2xydXA4TzRXcHhYVldvT2xNQloxOEcydFFwWDRWT3RrZEtyXzQwRllmLXcyR0xfaXlkWkhJRG01M3NpY25wNl9XdVpqdm54UG1EeHE1U1FFYk5RaVE2NklVSVhiMm5vZTRXc0lZS0R2ZDhuT0k3VWt3VFZYdXZrRkRZQmh3dTJXeVF2dktMTWNhUjVqZy1VT2dm?oc=5",
-   "data": "2026-11-25T12:43:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
