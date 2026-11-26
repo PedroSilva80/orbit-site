@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T22:00:30.611Z",
+ "atualizado": "2026-11-26T22:30:25.474Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "mctqsj",
+   "titulo": "Ações disparam com a expectativa de que Trabuco, do Bradesco, integre o governo",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWklwQXlESUhwaGxNdFREdE05anVyaUxwWlJrLWRueTBaU1YxejNTWnRuVUlHZndkdU1hYUFxTEt1X3pXSzQzLTFJNGYtR3IwT2JtaEhSNGl6bDRMa1Z4UGtITEZfbWItYkNhRVFJYjhiemhZaVRfUE5SLXl5UEVmMnBTTE0xZkVfVnQ2TV9XVWJ6SHZBdFl0STBPakY2MEpkTEFMVGwxSkpiYlVDeVlTSlgyZGtUdUEwT3hvUndxemQ5RUVWLTEtX0RzbHV2QWRMV0dIYUpoQdIB6wFBVV95cUxPTnZsNGhEUU9OUjVkUlFHSjNhVkI1dDJhMHdxaTV5a3AzLXhNZVRCQklPNmt3a2dsWU51QUlIX2lLNHlSUEFjQ2pmaFNhNTA0QWlBQnRNSGgxZUYzTE1WQUVLVXRKTzZiRXNDSEFMNlNHYzA1bG4taVhEZk92eDVzOGZoOWpPeHdlVUFaV1d2czBXdG50UEkyUEtpMV9jWDRjc2pUNWUwV2JNMWhONEhGZXhoNlJIWVgtUDRYMWJSMllWU0VEQ1RwUWY5c09xam1CYjZBd1hRQ3R1aWV5Nm4ybHNOUkMwR3RfdHlB?oc=5",
+   "data": "2026-11-26T22:15:53.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13dfhme",
+   "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
+   "data": "2026-11-26T22:08:24.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zu5vni",
+   "titulo": "Ibovespa dispara com expectativas sobre o Ministério da Fazenda e desaceleração do IPCA-15",
+   "fonte": "trademap.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42LTE4d29yWi03MkpGM2l0ZjNRQURIQ0VSenQxMkd3RExuQUtpZk5BUW01UGc2ZFBLdTJScVRON1FQeExfUksyYlpxcnhOSnN5dzF4eExFcHQ?oc=5",
+   "data": "2026-11-26T21:50:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "7ppayv",
    "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
@@ -159,6 +195,18 @@
    "avisado": false
   },
   {
+   "id": "11mdl6o",
+   "titulo": "CVM condena investidores por fraude que causou prejuízo milionário a clientes do BB Investimentos",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGJzWGNqYTRfdUZuS0lsVXpCck9PWG90VzcwTUd2NTF1T0loOUZHRWpRX0dZSGt6cWZfSzNzRkE3LW53UUx5VGtlMGFYeTVxUWZBZ0V3NmNIczkwSVdFTUlVd0tLc2lZa2xSQXFoSWN4OUFlLTdMZ2ZzUVlOaU9sQnkzcndkUXB5cGM2U183ZjFMakVydEpSOGVkOFRldUUtVDFZaS15c2hjSVplZU9ONFFKRG0zejhrLUZCOXE1ZUhsQmRVOFZxb3BsMTdvbG15T1d4UC1EanRJbjdSMkHSAeMBQVVfeXFMUDJOR3ZWc0ZMSkdsRFBsUFlJSlA3SjhRd3BqWlpNTEJrVnNNTkIydlhQYlg2TU9qWnRBdWpPMmN0Wm9XU09YTVZxZzJ6ZDVab2hfdm5INkswV0hhQlRMRnlTVFBQMzU0MXpfRXRsUGNVX3RRRHQwdWxQekZmaXlMSVpSN3AwVXN2SGFfRzhDYm1rU3RWcHZkaG5EdE1hNEFYdUkwVmxBT3pPSFBackYtTFVJb1JiaU5sSm1RVVNRa201Rm01NGVxN2NWVkJralJCLV83UjNIc2U5UDJtM0cxU1dhRkk?oc=5",
+   "data": "2026-11-26T21:09:45.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "mog99r",
    "titulo": "Seaan Tiller lança “Rockstar LP”, um álbum onde o rap alternativo encontra o rock",
    "fonte": "Bantumen",
@@ -215,6 +263,18 @@
    "data": "2026-11-26T20:46:00.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12izzvh",
+   "titulo": "Prévia da inflação sobe 0,22% em novembro e estoura teto da meta em 12 meses",
+   "fonte": "Claudio Dantas",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXNXZm5LWWxwMGQ3MlR3RDdpSE45R1J1cnpTMU1YUnpXX0YtMjFmN2Rxa0VBbzRNNFotWk0yNlBJX3hxZGdXQ3k1a0ZkeHRoc3ZhSGl3aFBJX1A1ZU1ZSWpSUW9SQjBjOFl4S2lEbnlOZXRoR3h4ZWpjdUY1OGdsazJ5cVlrSEZTbGFKLUVQRTVKaWFyNGVTQnI3NmxDS1lscU9ORmtmdw?oc=5",
+   "data": "2026-11-26T20:42:26.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -472,6 +532,18 @@
    "avisado": false
   },
   {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-26T17:57:39.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1adtavp",
    "titulo": "GTA VI: como aumentar a vida máxima e conseguir uma escopeta rara",
    "fonte": "Pizza Fria",
@@ -492,6 +564,18 @@
    "cat": "Lançamento",
    "empresa": "Petrobras",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zlo51q",
+   "titulo": "Dólar fecha a R$ 5,74, e Ibovespa dispara",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenY1dElhN0JrVFpPQzRSV19ROGJveFZzQXdjLVoxRFRIekI0WWk5Ry10X2xETW1BNXQ4RlBNUnRhQi1LaGc3dTd4cmtsVVBNazRSTFM5SjQzcjdJeVVsZGNwdGU2Snk1Uy12bnhkNGhXNGF6LTFGMDhueThDMUlsYUFpSEdIV2xVTFdJX25vQ1gxcDdJOUE?oc=5",
+   "data": "2026-11-26T17:46:13.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1769,90 +1853,6 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "glu2dj",
-   "titulo": "Lançamento de GTA VI aumenta as vendas de consoles",
-   "fonte": "GameFoxHub",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb1F1eFRrQmxJY1lDamlpWThwU0pPQjZ4cG4yNHlQMEZScURXa3V0c1R0eTVFU1dmTlBxbW1QQjNmYnBoQXFjWjBmdlJLUHVqMGJVQkVzZWxDMEpXblNTcnhBQWpPdkw4R0ZwXzlZOEZ1UzlYZkFYc3VycWE0N0RzTWU3QXh6ZDVnQ0RB?oc=5",
-   "data": "2026-11-26T11:32:28.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gnhlb7",
-   "titulo": "GTA VI BATE RECORDE NA PLAYSTATION COM MILHÕES DE JOGADORES",
-   "fonte": "24Horas.pt",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTTlEZkt4a3pIblROWkVDbXZzQ0pJQ29DU3JNMzFuUjlCeWZZSHB4Tk5Tcmk1WFUxajYyV0dlN0YtNENQRElqTHlJanJsUnVld3lqbUd4TWVFX3o0THJOMm9qNU1YU0RfUWliU05pQTh5Q3dJWmhCbk1ZRml3M09adHdtT1F6UmpjR1h5ZHpsMA?oc=5",
-   "data": "2026-11-26T11:28:49.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jc5tqc",
-   "titulo": "GTA VI ganha coleção de cards físicos da Panini",
-   "fonte": "R7 Entretenimento",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNzRyQXl2RWo2dWJZMTJHZnUtbGtZdVpnU2xzZERZdWJTU283Vm1yLTdjNGh4aGpEY3dhajdIUk5paEhubFZ1WHV3WUF3NGFZVEpkWnhMSnJtdU9hY0o1YXd0MXJRaHFmdXU1Z2oxd0dIekxJeEdid1N5ZWd6U0ZhazN1RTYtRW9YN0hTR0VBTGtobGNWN3p1R3ZZNEtaVEt0d1dQQ09hSzg4MVZPS0pKMw?oc=5",
-   "data": "2026-11-26T11:13:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ba86w0",
-   "titulo": "Ibovespa: inflação e ata do BCE movimentam mercados nesta quinta",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2dCYWtTbkRXaVhLMnBZSFVXR3FXMEhKZkR1dFhPdmpxQ2p4VTlBWjByRUlXblpMQ1FaWmNJXzBkbkxtQ2JnVEluajljc08xN3FITUN4SUxnb3VBTE5vV3F3RkR2SlBteEtoZndVR2FSS3dNY0lPT0w0YlZYNG44eFB3djBwSXN2YmFiT2F6NjM4NFlMX0xDcWJDOA?oc=5",
-   "data": "2026-11-26T11:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17hyne0",
-   "titulo": "Inflação oficial, nomes para o Ministério da Fazenda, dólar, Ibovespa, mais agenda e pílulas da economia 26.11",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxORElYUzJvOUhjRTFrN3dmQUYzeTFaLVZQZnNyYmU2UGpyNW9Cei1DM3I1ZE9Gb18wdzJEV3ZUMGpDcEF2RlFja2J1VVA1OG1xeXlNeXlvS1ZrY1Q1SmZvSEVCTlpzNDYtdnNsZDJOcGJCc2hJc25Ha3BlN2c0YU13cl9ST1UzeTM1ZHFNRHZEY3MyQ2hKaUY4QUcxTFVlQU91c1JJSl9HR3FOWWNiZlpQajFrdXBicDlraDg5M3JPbDNYcTdsWE9WTEhkWlZsUGJIQ2laQWJxSzlxYmpFbFpvVTNtZGZkb29mdHNLTy1ybndPSXNLdV9sU29HR1A0TURpY1dZVlAzc3FFWVpQSG9wejZnN2FlelhFSWZDUmZGeEt5c0ZMTjdxQTV5NVhKX0RieFRF?oc=5",
-   "data": "2026-11-26T10:56:51.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "j345lb",
-   "titulo": "Rockstar explica por que motivo adicionou o perfil criminal a GTA 6",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0NFaVJLbzBNUzkzbU9lTUtEbjlCUmNVbXdsV0NWRGdibmRxcm1YSGlrc1hxeUNnNEpYeEtZOC13ZEdCcXFLVktWSzBCV1RmQ0psUkNDb0FFSkR6ZVhmUUg5UHMtVVdYV05MSllPSVNxTnNKRmdFMUs3NzREdmpNcjRDcGFfdkQzQkNXLXc4aTM0MnVncjdFY0M0NGJQZTI4NkhWbTFya3U0TmdCZW1YT0NCaw?oc=5",
-   "data": "2026-11-26T10:48:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "olq479",
-   "titulo": "Equipe do Lula 4, PEC fiscal e IPCA-15 ditam ritmo sem NY",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU0tsbTZyQVVwdTNJN0x1ZzlHU1U1TWdPeGtHTWdVeFRBN2VVMHJBTktvdmllRnZLRWF1MFBvLUpiZjRENGlEWlkzTEtHM3dHaWlEbjVOM2lPREtyby03dVBWdW0wZlV4bGtHYnc2NExULV95a21rV29pTGE2TDdpM2ljejR2LUJQSVVQd3NSbjRrOEtRaDRneWxTZmhQVHhEbFZRUGVlTXJMNmJJdnluQkNjcVdpaDhSQzItaFNmOWgtQjI1d3VXS2NJOGdrTk01dVdDaUVFcGVGWWdtanpCV1VKRnhnUdIB5gFBVV95cUxPU0tsbTZyQVVwdTNJN0x1ZzlHU1U1TWdPeGtHTWdVeFRBN2VVMHJBTktvdmllRnZLRWF1MFBvLUpiZjRENGlEWlkzTEtHM3dHaWlEbjVOM2lPREtyby03dVBWdW0wZlV4bGtHYnc2NExULV95a21rV29pTGE2TDdpM2ljejR2LUJQSVVQd3NSbjRrOEtRaDRneWxTZmhQVHhEbFZRUGVlTXJMNmJJdnluQkNjcVdpaDhSQzItaFNmOWgtQjI1d3VXS2NJOGdrTk01dVdDaUVFcGVGWWdtanpCV1VKRnhnUQ?oc=5",
-   "data": "2026-11-26T10:36:29.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
