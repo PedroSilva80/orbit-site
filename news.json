@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T00:00:32.121Z",
+ "atualizado": "2026-11-26T00:30:25.794Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "lgljop",
+   "titulo": "GTA VI: como melhorar o relacionamento entre Jason e Lucia",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5JektlX19LMHlMaUNrVllCX1lRSW55R1JfTWtzVm50c0VOOGxmbk1sUGZXWmhVcEM4djVvTGZldllKeVBSUGJPZGtmUF9oQlptRFFxSlo2NC1sTTc1RGwxMllLZUd3czltX3NESzg4MzVDYVNIaE9BWGpR?oc=5",
+   "data": "2026-11-26T00:23:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "a3uy4f",
+   "titulo": "GTA VI: como fazer 100% do jogo; guia completo de atividades e requisitos",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEpjZG5Vd1J4dmhlLV9sZjB6R09nZkxMTnhhbHFaODdKbWgtTE4wc011UWRxZkwzOVctS2NSS2c5cWNuX2VEY0wwRXJRTmxhQUZuTHZCVGJsSFd3X0QydzhhTlZpS1JNcGdfcENSYnF2ZTh4bXljRGZUUk83QXpwSnA4RQ?oc=5",
+   "data": "2026-11-26T00:10:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1nfjkj4",
    "titulo": "GTA VI: como conseguir o tanque Rhino ainda no início do jogo",
@@ -228,7 +252,8 @@
    "empresa": "Vale",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795653025794
   },
   {
    "id": "ysxhn8",
@@ -1675,6 +1700,18 @@
    "avisado": false
   },
   {
+   "id": "l57x9z",
+   "titulo": "Por que as ações da Nvidia, AMD e Intel despencam novamente hoje",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85akotQVdGSmJibllmUFdLUEdvZC1uVUxvcW4zR0wwbTltUllpcFB5Zm1zTWY2MTBqZHBDX2wxVEtJb0s4WWNobEI2b05YT2NORUVkS25GN0puU3JQVzgyaVVMMkRTT2c?oc=5",
+   "data": "2026-11-25T11:49:57.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "16cs8t8",
    "titulo": "Ações de tecnologia despencam globalmente; SoftBank cai 15% e Nvidia recua 4,5%",
    "fonte": "Times Brasil | CNBC",
@@ -1815,43 +1852,6 @@
    "cat": "IPO",
    "empresa": "",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "922whg",
-   "titulo": "O prejuízo de US$ 115 milhões que fez a produtora de GTA VI pensar duas vezes antes de autorizar um filme da franquia",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNSlQxNzJkbm92NzJTZE03UXFJYUdOSDdsMzU1ZUFaMWJTNVFEMi1MMUt1ejZGdHhJNF9KZDlJN0NTa0V6aElvREpQbWUzc2U4d2pKb1ZrNGZnNUhGYkRrWWotODVEZk5qOXBBc3VQaHZHalJOcFVianNSSGUtU3NpTV9xRjJiYmY3STc2SndqTUN1M0hmVWh4V0o0UV91MUh0eEpvb0xVeTI1QmVlVDZIZUdPWmNWQzEzdVFnZ1FiTmthb1pEdlQ2dS1FeUkzZE5zNmFrZ0ZzV3RCZS1TOFNXeEtJbnVVV184YWxfUng2Mmo?oc=5",
-   "data": "2026-11-25T10:12:58.000Z",
-   "cat": "Resultado",
-   "empresa": "GTA VI",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795615240616
-  },
-  {
-   "id": "112djdd",
-   "titulo": "Invasor no Brasil, peixe-leão infesta até o GTA VI",
-   "fonte": "Portal iG",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZXk0MmFBUjBJSE5hWFBCVU5YNUJoMEhwV1NRS3REOUEtSVhoOHNPUmNpcVZ4Ym1meTBXVklQQzQ5YWJqaW1YVEpLamExak10UjVZUDFtdncwUWo2OC1vTHVab3JVSDRhdkdXQmRFaEwyMEpZQXduVERYQlNzM0RQR0hZOHh3MlVENzlBdmV2X3Zoc1FRajNjSGZpTFJzU0dhdXfSAacBQVVfeXFMUDJ0blE3cXVINVFkT2V3T2hOZGFNVzc5R2tybkNMMmJtTnExUlBhUE5CaHp6Wmw4b2M2clQ2bGFQQl9OUS1QMVNOVlkzRVVWdkREQ3VGcDdELV96OHNLaC1yazlkRW9MSS1wQkNIbXlReTZxak9YZ2N1Y1BWS1oyMlAzbDJURkF3THZhbWMxeXZMU2djMFV5OVcxT0I5UUhLdVA4eWdsbFE?oc=5",
-   "data": "2026-11-25T10:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "capkg1",
-   "titulo": "Ações da Nvidia despencam 8% após euforia com retorno de Huang diminuir",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEhQZkVmblg4czZPZGh2OENMbmNzX3o5N3hqN0NNRkUwT2lYNTU1Z0FMUEpsVXRfZ19SdEhmMGprS3AxR0pmZFJ6ODRqSzY1NUo1VThIVktnelFGN2NJX242aldhclF0T2ZzZTBkWEstbl96VEkzUTFqZUJxSmV1YklJQm41WjdzUXA5eExENDdFMkpEeTA1MHVvVWhBOEN5aVNsSzM1dlFjblZTV19kUlpVb1dfOTRYM29nenkyamxtWk5P?oc=5",
-   "data": "2026-11-25T09:49:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
