@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T19:30:26.117Z",
+ "atualizado": "2026-11-26T20:30:27.386Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "ik3kx7",
+   "titulo": "O mapa do tarifaço de Trump contra o Brasil: o que caiu, o que já vale e o que é proposta",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPRlZpS3BOSlA1VEJIRkVucnBmVDQybndLVXBJaHFuYjAtMzBJa2ctRjFKX01iNjItZFdFRGFZeVRTczg1TkY1WXRvY3dvd01XS3Z5T3ZGcDlxb3NMSzl5d3RpcW1nQmxIZDdnbUpiRzlFaWc5S1JNZXM0eGoxcGdldjEwM2ZDVHpBeXlQVEUzd3RhTDVmUVB1X0RkblpaX2szY2Z3dHJtM3pLTGluV2lTN013?oc=5",
+   "data": "2026-11-26T20:25:55.000Z",
+   "cat": "Regulação",
+   "empresa": "Vale",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18a2mie",
+   "titulo": "GTA VI: depois de 25 horas, ainda não tenho pressa de chegar a Vice City!",
+   "fonte": "O POVO+",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGQ4YWhEX2lGRll0UGlHM1YtWTIzVUlYVXFxbXBWZVYxd3dqMGtVdXVFLTRiZlo3d0VBSVRVNGEyQWNMcmlqM1NzZ3QxamU1MVpyM1pncU5vU3FDUmkzczNwTVVONXJhNTBnZUJhQ0lTeTdOVGlwUjR0X2ItRmpHTTZMdElLU3k1NlZPenpJeENMVThmNHJ1dHVxd3ZrNHV5b25zLWNPSnhMUmRJWUtvQjNPajVtYUtHd2tqOQ?oc=5",
+   "data": "2026-11-26T20:20:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "o9mhxd",
+   "titulo": "Cristãos e jogos eletrônicos: como encarar GTA VI",
+   "fonte": "Instituto Plinio Corrêa de Oliveira",
+   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NcFB3SksxcVRaMHJGZUp5TkRzY2VtUmFFRGx0OE5WNGZIM2V1TjQ3TzZCYTVLS2RHVUNSaEQ4RDUtMnBhUzZVenJaVk0ydDE5RlRVdzAtRlNuUE51eEFLclY1aVo?oc=5",
+   "data": "2026-11-26T20:14:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "q1nl9b",
    "titulo": "Brasil supera meta de turistas estrangeiros e registra receita recorde",
@@ -167,6 +203,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "26sl08",
+   "titulo": "Caixa avalia compra do BRB em meio à crise bilionária provocada pelo Banco Master - aRede",
+   "fonte": "aRede",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUlNLSmhlVWhTbmo4aGxmNmlBeE5peDV0OTBpOW5xYlBzRGhWQUtycG94WmhQOUtUNlhSRjh2NklTSzFWcVFKZExhNWZ4ZG0ybDdMeE81cEdKTmhUVkE4NUwtc3dZcXVJOUwxX0NSUG1zWmEyeTFFaFhPUVRzbzJHMS1LalVEYUJ5a1U0Y0sybV8xeFdmQU9selJiSVRaMXlXRlpsMGJZN2ZjWXQ4VFVLMXdnbDJBYmp40gHAAUFVX3lxTE9KWWNLOFpnZnJqTVR1ZmRxendnT1loQXJ6bHgwNEFBR0FFRDVPbDRmeHF6LUxsSTBrVmx1RkgxRnV0VDRrbGZjUzdUd0pROUpiVUcxVTUyLXRZQ3Y0VkZyZ3ZISXZlWFNWUEozdmVONFRreHJ5aG5rRUJ3SFpEZnVNOGR0MzVtdDJ0YnpNRkZjQzNmb1ZLQ2luQk9INWdZX25hczUzYU82cEdUZVlTU3J2ejFhazNucjFCenBTUy1oUw?oc=5",
+   "data": "2026-11-26T18:06:42.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -359,6 +407,18 @@
    "cat": "Resultado",
    "empresa": "Vale",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "axndee",
+   "titulo": "Álbum GTA VI dispara na Deezer com trilha sonora de Dua Lipa e Lana Del Rey",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObXFCRzhWb190Y05pbERyY3NFa0FjWXVrbHA4ZHRYMVhaVk5FZEw2SDdHd0hCWUUyZnctRkVwME5MZV9hczBJMG9GMWFEYmtpYk00SUJKUm94ZHhoWFhKcFZhUjNiYXlWTjR5ak45SWIwRDdoc0dDTlplLXZUZHNTU0syMWFpMGZxZDMxRjBQeElpWmYwNG1yQXVtUjFkOWNuc2RHZHJTdEFoMy1aU012OEUyaG1jNlZtR2ZXYkdBbHhNbmU2WnpVOW95OW1QN01MU0Nlay11LVpXTDZDci0tYkFQUTJHdFRfeWdWUnVLT0xxN0gx?oc=5",
+   "data": "2026-11-26T17:08:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
    "marco": false,
    "avisado": false
   },
@@ -603,6 +663,18 @@
    "avisado": false
   },
   {
+   "id": "xpx2z2",
+   "titulo": "Take-Two pede ao GitHub a remoção de 3.007 repositórios ligados a ports não oficiais de GTA 6 para PC",
+   "fonte": "Arkade",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQmVOVmRPc0VITFRMYlhqWFNPQkpoZlhWZm5jX1FlQ3c0c0dtQTg3RTJkWExBMnFlY3hIMjNpREh2RW1OOEIxS2pTOUtSM016dHlOd3N0THM0MlpnYjlDNEw5eDBvZk9KaTcwbkFTeGlhNW9ycC1zY2tIM1czQlNOQjVHOE9Uc0hSbWtiN1BBUGtZcnVYdy1aVFN6THUxY2R0MFY3SlFzT2lrT0NYek9uakw1UjV1WU96WXJJODlvb3BCQQ?oc=5",
+   "data": "2026-11-26T15:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "xdh4dt",
    "titulo": "ILFB tem maior alta entre índices de renda fixa da B3",
    "fonte": "SpaceMoney",
@@ -611,6 +683,18 @@
    "cat": "Movimento",
    "empresa": "B3",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ef0wpv",
+   "titulo": "COMISSÃO APROVA PL DO SENADOR LAÉRCIO QUE ESTIMULA COMPRA DA AGRICULTURA FAMILIAR NA MERENDA ESCOLAR",
+   "fonte": "FaxAju",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRU5pQWZJXzBQZUVNOEhyN0QzU0s3Qm1NUU1CS21wV2thNHF2UjR5b1VBc0FXZGNCSU1OeHJHeXp5bnRHM191d2hjU09mZTF3RDA0aHNwVzB2Q3I3Ym9ncGhscnNBTnVCLUtZbUlRZ3VEQ1haYU9WU3ItR09sb2RHMk9Sd1A1T2R3dnVjQ1U0b25NMU9DZzVGNEpDeDQ4SGE3R3AwUHh2cGg5MGx4Ql9ycjRoajdjcmdhTnhBcWY2aENvcHF0clpMNlBxQUc?oc=5",
+   "data": "2026-11-26T15:41:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1769,90 +1853,6 @@
    "cat": "Lançamento",
    "empresa": "AMD",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "193eri8",
-   "titulo": "Meta finalmente lança um aplicativo nativo do Threads para iPad",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3Eya0lSMDVqUTVuY2xZWlBBR2dScTcya3hlbGtvWnRPb05oYXhQTGNDaEZfT3lPRlN5MkJrLU4tWnp3dGFNQnVJd1Q5cjhXaE41YTgySU5mTzdGY19LcTlEQjI2QnN6ZFJUd0ZINFYtaERIb0cyLUJ6VkVLSUU1Y0ZlaXJwcDlaOTU4WC1lb25iWHpqNWJ0d1VLWmJnMzNHb2RadmRIOEJUVjYwVVE?oc=5",
-   "data": "2026-11-26T07:15:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1equ3lf",
-   "titulo": "Versões de GTA 6 para PC já são jogáveis apesar do pedido de remoção da Take-Two no GitHub com base na DMCA",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR09zVmFMbndCT1RxQzFveTY5QURFdkZqZU5fc1RsMmRDR0FvYnYzTnQ0Qk9IMXBmbVlyV3FGdG9DZTRFWkZMaTZFdHlUNzZVbHNuZFJHMmhsZ2dNQ0tGU0pzcUVHY01kejVvZGhha0FmRlBFeDVsQTZpa3hCS1JIbmpVUk9EblczSWRKUHdyMzVtcGVPQ3lHNF91V201V21mZXA5ZllOV2p0c2gxTFFHeGpKTU93blpUX2FDeUdqbnVFVWI1SE14Sk56ZWVZWDVybG1vQzNURmNLbjdzUDJ6bGszWHR3Tk5j?oc=5",
-   "data": "2026-11-26T07:14:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wxa4jg",
-   "titulo": "Rockstar lança 100 consoles PS5 Pro em edição limitada de GTA 6, mas pacote no varejo é improvável",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOGluNXMzTGRfV3pZSFpteWtQaGxWZWpYZGpJZXNyRDkzUm9vbWIzQzhLbllES0NSSnVBOHZrUl9FQTZyLTdDUE9Wai0wZXBfOXJPRWZQQVVFOUpndE9VZVRQZ1VLZlNsdDVvRFN2ZU1FN0lQdktWREhpUmEyVEEydUQ3UUtfQURqS3FoTG1JVmlfUnNqUkt2V3ZyWW8xVmVTOGRxdGIyMjZwVTV4OGVPdlY2ZnhMNVJRSEltODBIY1ZVMGE3dzJvTmVOQmM1X0NBSURDdVpZdl9Va3c?oc=5",
-   "data": "2026-11-26T07:14:42.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ek70se",
-   "titulo": "“Obrigado, Jensen”: operador de opções da Nvidia obtém lucro de 1.984 % após o retorno de Huang",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2Y4OHdpZDNSUU1QQW1XSzZtdHhFWmRGUnJBT3p0d1NpMFFOUjNDVWVsQ0x5d3lPQkdjSFN0MHQxcTdUZGpkRXpSU0p5OTA3Y3IyTkpHbVBFVExDdTJBaUJUOF9jSkN4Z1hZRS15UnJfWnRhTFZxSE1BXzBzczA5Vjk1cjFrV25iNU1yWmVDand5d3d1S0hjaFI0YTd4TzdDWXU4aWw3ay0tUGVTZjh0TkU4SWJ0a3lCUWwyWEdMM3lleWFvS2dsRDFzV1BUYW1R?oc=5",
-   "data": "2026-11-26T07:14:38.000Z",
-   "cat": "Resultado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l02i1b",
-   "titulo": "Iberdrola obtém todas as aprovações para a aquisição da Caruna, maior distribuidora de energia elétrica da Finlândia",
-   "fonte": "Iberdrola",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTlJMeUM4NVFFbTJ0WXEtM041NlozMHJuNXRYREVtWGFWLWVnYVBDeUE0T2F4di1IdnNJMUVDWlYxOTRHOTMtMlhyRE9BQVJBVU1Kdno5aEZUb00wOThEMnMtVDJOY2c2RFFuZ1hVR1RoOUJTY3pJNHN5ZGpCVGRHSUpkTUxwWEtmWS1xMmlwS0traUU2dEpOS3V3RkdzU2ltVkVWZHo2enU3bTBDbUllV0d2NmJDX1ZkcWJ4ZDlkcDQweGNLNDFSZG5acnZjeXlrWEQySFM3R1FPSTBYc2xObWxucHhUM3VkR2Jn?oc=5",
-   "data": "2026-11-26T07:06:51.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "42wkwv",
-   "titulo": "Carro de Jason existe na vida real? Saiba qual modelo inspirou veículo usado pelo protagonista de GTA VI; veja fotos",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRl9xaG9XMDByQ19pSDRQaE9hU28yUUhsa0N1eWpiYUxMWDJrNmR1RkRYaFNULTlwb1Zwd2FZSEZuRWVIbjRmeFBsMFNhQ0l3QWJzXzhuOHhlaWdtNHpLZmYydTdXZlpMTXBtY1lSZWVKRk9TeGcwY3drNi1lNmh5a2JiUU5oaTdXdHVtWFkwWW9IVVAwOFk2YWxGX1l4emh4TDZvcTVuR0pyeF9Dd3lKbDRuTERobVl4NHdoa1AzdXdBU19LMTN0VXNSRGdQT0VHOW1GRVlUY3VhRER4UE9yaU91SnQ5S2syZDJ3ZTNkSVRyeTRsMkNEU3NrbXJwc0ZIaUNwN2ptVGdvb2PSAZoCQVVfeXFMTVdLV2xMUU1OYU85SUFJcmVQd1Q5NFVmT2VxaVhpZkp2SmxGX0VmNXdYRi10UUdSREJYemp4OGF0OUNlSDJ3c2tpbUJCaU9uR2VrS04xUU1DeUM5NmduR0VCZGphRS1NRUI0bWJMejcwY3JkY1VCcUY1aE1RcG0wU0U4MlJaenJPRldwbVZuamxfbGVDRENua0RqUWJyb0t1OVZhNUtid2hMUlM0bGIwb01OOWRIM24xS255VXBFUHJZdFJnMVpxZ0ItY0lKZFhwUVNldnNVQkM5Z2w5cXRQSGtPeFk2M3hFZkZxYnJCa3liQ3FrWWNxSV9MSlk3MW5KUGFNTFY0OFBUQjJRV0hEQ25kYW9fLXVMeW9n?oc=5",
-   "data": "2026-11-26T07:00:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1alaytp",
-   "titulo": "Fusão SpaceX Tesla: o que diz o relato de novembro",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcUNQMm5kR0ZZWjZlODdCQzdrMHNNNHpBbE1LOFc0QXZucnEtYXNlRjBheTY2blRBSUVyVGd6ZUJNOGVLRGpFZHR3a2N3ellYT1gtY2MycWtDd3pxSUJfYWFvX2hCR0RoY0szRzE0UE1Td1pnVnUzOUpZWEEtZzVFdzBTLXdhUUI4?oc=5",
-   "data": "2026-11-26T06:34:12.000Z",
-   "cat": "Corporativo",
-   "empresa": "SpaceX",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
