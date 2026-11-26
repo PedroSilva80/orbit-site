@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T16:30:27.004Z",
+ "atualizado": "2026-11-26T17:00:30.363Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,54 @@
  ],
  "itens": [
   {
+   "id": "e5lvs3",
+   "titulo": "\"GTA VI\": trilha sonora mira o topo da Billboard 200",
+   "fonte": "POPLine",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwdWpMeXQwRlBlYW5nQlFmY3dXbGgxOXFvVWUzalp1VS03VzVudlNLS1FKWTJjdDlqWHdLUmhTM2o0YnNXMW5MamM4NHJCMHVCR3dSSHlTLVc0OFhZVlFyTHFHZko0c1NqRlRINERrS3J2Z3pDcTZCOWpqUnlheEU?oc=5",
+   "data": "2026-11-26T16:45:53.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15mhg9b",
+   "titulo": "GTA 6: Vendas físicas batem recorde histórico no Reino Unido",
+   "fonte": "Última Ficha",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zakRPYm9VQWF6NHQ0Wk9YTGY4b2ljZk9PSERMNE5aU01sc3RRTTNJMkQtbkdmSTM0X1lsRTZBZkVMVjhSYVdTaTU5cURQY3FoM29Va0ZidjRXZDA4dmpPbDVZanE0MUtuZ2tFZWRITk5KamlwWXNQMVN0UQ?oc=5",
+   "data": "2026-11-26T16:41:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1maol0y",
+   "titulo": "Rockstar explica por que motivo a motosserra ficou de fora do arsenal de GTA 6",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3I1dlpHX0hYU1pJVWFLNUlIT08zUlBJd2RjZzZVTDRoMzNVMWNBZDFqYkhlVGNWSHJhMVRYSDRJZkJMRzFEMTBhWVNBWkw4S05Zdktlbk1CMzZkb2MwYUVPVWFJUzNpYmhVd3U0Slk0VmFvaGRYZ2hiMnZ3aFBPZzBtTUMtNTMtZkZELW5FX0RRd0RJQjk1RDBaakhGUzZlTERMektndnFKZmFSREtmYjBHcTRLQmFVV1JOU09CaTFfdw?oc=5",
+   "data": "2026-11-26T16:39:55.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16vz3z7",
+   "titulo": "Como um IPO humano, Grand Theft Auto VI prova porque a eficiência não é uma virtude",
+   "fonte": "Segunda Base",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWlCTzZhRkFZU2xxUU0xbUtGQW5QN3owTWZubEQwZ0RXbXpUMExfUjFCWW9TZThwRFRPYW5vX0ZXdl8zaEprQWc2UEFnb2ZGMi1zay1fd2U3UG5IX19MeHVnYlVVTVhEaS1VejRsSDF5VW84TlJ0b3ZmMDRXblJmLXFyakcxZFdncFZIY1k2cGpwNFhqNGZHV0xWWjZXWFdXS0ltSEptYVlGUi1OakZNQ2tuTGVISmNaQ3k3ZjJBYlE1M1FnZklSa2d3?oc=5",
+   "data": "2026-11-26T16:24:30.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1k4kaz5",
    "titulo": "Dólar recua a R$ 5,73 e Bolsa dispara com inflação abaixo do esperado e Trabuco cotado para a Fazenda",
    "fonte": "Folha MS",
@@ -59,6 +107,18 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7hhxsc",
+   "titulo": "Com apoio do BNDES, Bradesco lança ETF de ações brasileiras essenciais para economia",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNM0NWWmVJLXVKMWdFNDJNLUJTaDRHRm95VEhScVlqSG5lc29hZ1RTSWxqd3J1bnlMZnVmY3VORi1ZRl9ST21wMW9LcVdqSjVoczk0Rkl2RFZHVzZTUEIzVTYweHV0MVJhUHJFWC04Wk5GMFVhMW5EX0tvOFhOdHM0ZHA3RzEwYVFxdFd1V3BvMzhGSWRUbDlwNnlhckFRS2doOGN6Y2dfU1B3UlZ3dF9lU3ZjbEhBVXV1ZmdjejFMWlRrbXQxNjBrU2VBdUw5OW1yVzlIMHlBbDFZSTJ4bVM4OFdvU0xRSWJNVFZN0gH6AUFVX3lxTE1kTEFzZFpzdTY0RWRoYnYtd2E5RnFiSUp3VlRJZFFSbjVsRnJLdkV2RU9LNWNzWGJDRzlVMjg1ZGc4b3RHVXZ4S1o5YmlkbjJfSjhXd29Zelg0ZTlBTFdJYzhUWkwyTnBBcWU0VEtoZ3doc0FIREFXN2xGcGxucnVlT3BpcEU0RTdINFZqM0luMWMwb1o3Z0d5cjFrS09kZTZPU2ZYeWh2ckhqM0U2eVE0aFRsVXhYa0t4ZHBxakFkRmo1TXZWSnN6Z25oZzZaSURQWUZIT29JNDBONS12V1Y2SEFoQmxmTHdwOVU0a3huWDYzWFg1dHdVSGc?oc=5",
+   "data": "2026-11-26T16:21:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "Bradesco",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -82,6 +142,18 @@
    "data": "2026-11-26T16:14:30.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "fq29lj",
+   "titulo": "Dólar hoje vai a R$ 5,71 e Ibovespa salta com Trabuco e novas medidas fiscais",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPVFFpYTJWeW12NGdpdGxKNW1FU29LNV8zYUVxMndKdXNSa2xGV0UxUDJjemltVTZWT3ZSbkZsUnFHV3VfV1R3cklJOEpKWVBIbVZJZ0ZoOGtkWWJKbVFTQjVWVHZxT1BuRHhzTmk3ZERiR21TeDNfOS1ld2EtNzJBU0pUdFlFaER4ZzhwYTJMdTdQbzA4cVdLV1VaaHlYanV4bHFCR3VqeE1QOGsxMXRRMjZhVUUxdFI0MHNRZlBmZTh5UjU4MFhSZ0pYY1BKZThBRXZXZGE5UjhKZ9IB6AFBVV95cUxPTlNWLW9SeVluX2V5SWhWYmUtNDBrV0xVY2lvaVVVQmxvSFNoeVRHOTdCTXBhWmh1T0l6VHU4OGI3QjRzeGxNeEE2RGU5eEsyZUVjQmprYTlTOEtFUTV1MGg5eEJTWG1nZ0NyeDkwbVJpaW5lVmVPZjkwcFl3eFlvSE5DejJ5SkV2U0dkODY0ZU1OOHhYV0g4amZqdnAzWGdESUM0UW9hOVZTSElrdW8wU0FmR2k5b1FQOFk4dUJ2RVNiWTZXcXIwUmpOR3J4WkRtdGYyN0FaU3F1YTNhbkw4TDlrcHAyS2FG?oc=5",
+   "data": "2026-11-26T16:13:51.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -179,6 +251,18 @@
    "cat": "Liderança",
    "empresa": "Vale",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18bm05r",
+   "titulo": "GTA 6: Lançamento de jogo da Rockstar diminui jogadores ativos em Call of Duty em até 42%",
+   "fonte": "Isso É Notícia",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXZ6dk53VjQ5Qzk3OUtGRGJUeTRRSVZSMzdiU2Y1OW90U044SE12SmEzT05IWThTal9ESnpEaG5RU0Z0OU45T1d6dm5rREw1YnBvV1pLUGUtYUFON3lFYzVQRUZkQUVfQWlGX1VIVlZ5UFJoczJkVy1pbWJiRXhPUDdxQ2JaUkc1eFVDalIwWlA4c2toOGpyVnR4ek5MY3J1Y25wWThDWEp6QlhEWk13ZFp0dU5EMlV2MklFUF95WXNvQ3ZrczY5SklGQjA0QVNRR2hB?oc=5",
+   "data": "2026-11-26T15:36:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -420,6 +504,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zggl9w",
+   "titulo": "Take-Two limpa 3 mil repositórios no GitHub e sinaliza guerra preventiva contra vazamentos de GTA 6",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXNkT1dLU21iNENEZ2VGSHVLUE1WejlUbGoyeEpENUFkSHkxZWpfREJXcF8tVmVpTExCdUU4VjlncU94cW5pdThsV1VHamRnT292RmxZQjNubHZKTFZtLXZCRGJxclBsclQ4YXAyQlFEWHFvRmdIZGJLU0FGNGJCeXczbEE4eEVsMGJnXy1hMkp1dw?oc=5",
+   "data": "2026-11-26T13:58:48.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1757,102 +1853,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "181ftf1",
-   "titulo": "Ibovespa dispara com expectativa sobre Lula 4, exterior e retomada de compra de opções de EWZ",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQVd5S1RXTUI0NUFyd3ZRLWlVZWhFYm1iaGc3b1VNMi1lVlFNd1NIV1ZHZmZxalNhNXM4cUtoOWxBSzdMcEZjMFhzZmVES045SlhSeHdyVUhTaFFneW5BRDR2UVpqWkVrSkoyekJkeXgwTkxIZmdaRXdSWnU0T1dnWUFJUC15ZGNSYzk4TjNCejVieUFjek1PQVAybmVEVVNtUnJTRHplUGJlY09wRDFUU0hSTFVoTkZRdzVIb1FFN09QNUxhNV94RHc1Q0N5THNIQlM1Z0VESHdKY2RYbjNUWDJHU1LSAfMBQVVfeXFMTUpFMV9zY1VJQ05EUENYM3kyNzJqeC0zYkc3RXV4Y3JYb09IaTNIWDh2OEU0TXZUZXJlRDNoVm43a0dIVTF5TGJaemlTOVltZVpGRk5BdVVMMEZBZUJsOXNEem55ZDdtMGQwRUh3c2NBbmhUOE54Q2YwT1l5NGRBb0JGZzA3MW5jcFlCTUxGQWg3THVsTEJJZHlQUGxYTEE5ajFfcGJjd1dnOUt5a012S0lmS01fZXhLb2pFeXNsUm1QSU45TXNHRTdCaEEteGtPZ05vSDJ2SW1oYXo1YUJxNmVPSThJRWo5YkpZQkZSN3F3dnZj?oc=5",
-   "data": "2026-11-25T21:25:11.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lf1v45",
-   "titulo": "Ministério italiano usa ‘GTA VI’ em campanha por segurança no trânsito",
-   "fonte": "CartaCapital",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZXI2X2NMS293ZGlLejRwa2RLYkJMY20wTEo5ZUJsV2dFY3d0YzVSZmpWZHJRaVBlYVQ4Q3Y3eko3Zmw4VGRxM2dWZUNjQ3pBZWUwNXYwRDZnTElYcGI1YnFHZWZKZDVRRFhHaEg0WG42QXVoRENXN3l0MjUtaDJHMGhvaWViaVBBV2dOS3lFNnJQbUVyQ0FLemJaOTFNXzk4UnJWWVNkM0JjMjVjejY0?oc=5",
-   "data": "2026-11-25T21:24:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s2amdi",
-   "titulo": "Interesse da Caixa na compra do BRB é revelado em meio à crise da instituição",
-   "fonte": "Tribuna do Agreste",
-   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQS1RpN09aVVpMWkxKNHItbC14dlVWSDlZLUpYMFgwWUdaZTZRMEdaVEVPWTF1LUJ3SV90NUNWdF9ZUVdpTW1rcFpjY3E0NVNaajYtajJfVUxYNHJEY00tWUI1WWo0eUV3ZlVmV2Y1YkZZWlF6aGRXWDlUZmQzcXJnbXRaVjdaVkEtc2FQTFNzc2ctcEE0cnJGbS1GRF9SRXpHZ1QzQkhVUldsMzFVb003d0tNczROZ2ptZTFBRDVZYU9Ua3FvZlV6NjBESFpuMUxUUkU3UA?oc=5",
-   "data": "2026-11-25T21:19:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6f9imj",
-   "titulo": "Atriz revela como é o acordo de sigilo extremo da Rockstar para GTA 6",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWd0SUIya0ZvTzFLTzIzdVFyWVFpX0cwTmVQMmlPeDRydjluUHpISnFMTlpLU1I5TUN6cXhKWWxQQlBuWlpaLThoQUM1TF8yQ1FINWZRRUFzUl92c1NuQVRLRzUzZGdIRmczb01GM010d0tsRUFGS3NSSjlDUjQzR0x4TGZDTGU2WklFRFhRWk52OWdMRFo3TmlhZFNOWElJMGNr?oc=5",
-   "data": "2026-11-25T21:18:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vplbsz",
-   "titulo": "Brasil entra no top 5 de audiência global de GTA VI na Twitch com Alanzoka entre os maiores streamers",
-   "fonte": "ABC Agora",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ZQVRrVVQ1cnBnSjFVMXkxU01fVmx6b2E1ZVdmZ3Q3OGliNVE0aXYxOHhvRm5BaVJrYTR6VXdsNzZyZlViVVhNTEhLcVlhWkczOVktZEtEdGlySS01YWViSVlNRTNlenBYT2dObjJ4VG02T1BpZDhMbGd6dw?oc=5",
-   "data": "2026-11-25T21:13:29.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1irgto8",
-   "titulo": "MBRF (MBRF3) nega ter dobrado meta de sinergias para R$ 2 bi após ofício da CVM",
-   "fonte": "Visno Invest",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdmJhTXR1NUVMcWk5VzB4WkM4c0dkRVZ1eWpwdVA0dXpGVVZkcnUtbGVzZGt4NW11RnhDb3V2dTh1MHVJZ0o5ZXkzS1h2bXBqYWlfd2xiTmc3NHRzUy1fbHdaY2w3SklyX1dCUFJOMlJoQWN2amVtbHdISVYzMXdQNTl4NDJXajJENmo5Mi14RVI4MGdjb2locDM4OXVyQ3J3RVYyYzUxLWlvUUE5bmxyTTFYaWw?oc=5",
-   "data": "2026-11-25T21:10:29.000Z",
-   "cat": "Regulação",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14vz2k5",
-   "titulo": "Painel S.A.: Grão Investimentos, do Grupo Primo, lança ETF de Tesouro Prefixado na B3",
-   "fonte": "Folha de S.Paulo",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxORjhqM3hTSzNNemVyVXFmeUd4UDVqNHpfVHQ1UG8xWVJTWmcycXp5ZzRIRkl5RzdOTDZ2UHJmdTRrSzVKdFFqRW9iM3dkT1k2bjI5NUphY1VINzVBdXJEZlVYX19pNFNkQWxBYnZBNGR4VmhXbHRPd2FManhpVm5uem5ldzAzaHpLQWlCVUhhNkt3bFRKVmtpWHYtX01ndERaNUlxUWU5RlNJejItVW9BUU4tejZZQU91ZkdHZVF6dUtUNlh1dTBzUHlrRQ?oc=5",
-   "data": "2026-11-25T20:57:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jyzrv",
-   "titulo": "Tesouro IPCA+, Treasurys e S&P 500: Itaú dobra a aposta no exterior e reduz o peso do Brasil nas carteiras para 2027",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRjlPdTVabjVJemxkSXpaaHJvNkJSMXNuRXNIMG5iNExrSEVaQTl2cEZBS3oxTDVLQ3huWllicFY2SkJENmRrVGtkLXpzcEFNblhQckMxYUcxUU5UNHJ3VXhlVDdsVmxxTEVFbEg3OEdlRldOLVNpQnVjUDlHZF9yNWYwdXZXa3daZUN1bzJ3bldFa0E5X09RemlXb3p1LW83aHd5aVJybjVOWGo1dTF6bmZRSUF4bUNrY1dFanJxMzFPQQ?oc=5",
-   "data": "2026-11-25T20:45:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Itaú",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
