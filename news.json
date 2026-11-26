@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T14:00:32.269Z",
+ "atualizado": "2026-11-26T14:30:28.818Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "sq2zgq",
+   "titulo": "Ibovespa dispara quase 4% e supera os 172 mil pontos com expectativas sobre Ministério da Fazenda e inflação menor",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGtVcEFaR25JclZBOVV2MXJGaExGZGhPODV3VTcyYWI3aU1ycEZzQ2dZbDdSMHhpVHFjY0NhR0ZUODJKaVhEQlBHc3dWXzFzd1ZXMzZET1VCQmdGa2puU3A0b19Fck0xWUYzU0FHeXBNTm8xT2tkX2ZJZ08xSGdSVFNTLXBjME8zVjRFSTAxZHJXMnYxcno2WGhtdGpCTGs1ZGRB?oc=5",
+   "data": "2026-11-26T14:18:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11c63yg",
+   "titulo": "Suzano (SUZB3) dispara 30,38% após eleições enquanto Ibovespa afunda 19,99%; ação pode chegar a R$ 70",
+   "fonte": "Guia do Investidor",
+   "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUQ0eXpZS1dhb3huWFR4OG90cUZFSVprbmpRdWRJX0pMbXBLcXJBZ1E4cEt5ZHA5QlFESGtsSkJZaEk5SlkxUk5nWFc4Vlg1V2FWUnhhc3lCb3M4d01PaFhNQmd3R3JjajR4VWJ4Rlc1Z25jV2VqbktQRkZELWhhTmw1RVMxVld1dkJnaEtxbGRsaFpsUGlOQ1B2VS1QMXRucXFJYUNTWGlXXzdjWmV5c0Joa1hpTTJveV9BaUFYS1pKc0xpX1ZpaDBFX29QSnM?oc=5",
+   "data": "2026-11-26T14:15:07.000Z",
+   "cat": "Movimento",
+   "empresa": "Suzano",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yjhq7z",
+   "titulo": "GTA 6 está próximo de rodar no PC de forma ilegal, apontam grupos com port de IA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelJOUlM1X0Q0VXZpbjhKR3hLX2JsRDVjZnZ6WnM5blNsOWUzdnpaV2VsbGdacl9KN25LaG1hT3FDUE5JUVQ4bzc3UVo3TEMxMmVOd1cxcTQ0RkxMNnB2QmJZdmYzSFlNejB2OWg0SVZUMlE2QjZPZk84Vml6MnlibDNaQnFuZFowbUU3RlNVOE9zVGd2THVsb0dzT1JUQkFlbS1lQXo0Z3JkeDZFbC1CVzRFT0pCdldTQmlDOWZyb9IBxAFBVV95cUxNdnlibHUxZVY0bV9EQ1hwb0ROX3VPZ0ltS2p2OWRCeW1WR3ZudW5XTDczNVRvSDlHcGRFNE9ZSGZBRG9zUV9ZNFZqSlBwVTJweUZNN0JBS3BmLWhzMlVmV3FVZ3VDRFlKZkhrMWI2TnBNQzdjdmhvaDhaRjJzZGNuMUEyMHFaLXF3aUxjTnpsaXdXa3l2NWg5VzVTMS01Nk9zUXhRRy1pWk9PLTAxNmdOQUlYYU0wSmREWG9DWnVuQkJIVmJj?oc=5",
+   "data": "2026-11-26T14:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "qr9xvm",
+   "titulo": "Famitsu — 16/11 a 22/11, 2026 | Estreia de GTA VI no Japão faz PS5 acabar com longo reinado de vendas do Switch 2",
+   "fonte": "NintendoBoy",
+   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWZKa0lEd2UzLVJVV2tNenVFazIzWVIzc3RUZGxuRkxpVXV6djBuT3dXcDVMNUljQ3pTUEljY210MnJUNzdLYXFZV2ZzNFI5VEFXbDQ4T25QRVNWVkF0X3hYRWlRdVF4azJJalFCQkhHaXNUekFWUHJJaFA5U2xmbFZDVElrVkdpUkJVZzllbUdrelo1S0YycGd5bUs0TFBLQWZzeGZWamw4UHZSSkV0cFRraU90Xy1ySTdBbEctUW1DMTVGYnNWd0Y5NkFHbXNtXzMyaTRkeWpqNWt2?oc=5",
+   "data": "2026-11-26T14:10:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "75mihj",
+   "titulo": "IBOVESPA DISPARA E DÓLAR CAI ABAIXO DE R$ 5,80, DE OLHO EM POSSÍVEIS NOMES PARA A FAZENDA E POLÍTICA FISCAL",
+   "fonte": "Bahia Econômica",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYzNkZjB2TFN3Q05kSmtHTmNqQnE4dmZVY3JfZUFQZm0wZ05jMHRNTmNkd1lkS1N3aGNlc1c5aDlvZVdtUjNsWFB3eU14TTlxMkIzMktyWkZhMzJLVWV2aVE1bUVRaFVwU2ZYYlo0MlVVMWlQWXNCOE5LWVBsRFltVEo2UzJLTm1ReHNJeFF3NE1FcVNiZFpDRDRocTl1dzZDYWJtWHRsbnRXRzY3MlQ5aXpTNmF4TXI2OFZwOUhFYlhsa2c1ekZFVHZ2UWxtVTBrYTNjaHpnaUpPeS1sQnF2eE5hTS1iNEh4c1lGSV9FbTI4NDA?oc=5",
+   "data": "2026-11-26T14:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1nc9mui",
    "titulo": "Senai Amapá lança edital do programa Startup Indústria – Amazon Innovation",
@@ -120,7 +180,8 @@
    "empresa": "Ibovespa",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795703428818
   },
   {
    "id": "1aep44p",
@@ -315,6 +376,18 @@
    "avisado": false
   },
   {
+   "id": "1wffcha",
+   "titulo": "Ibovespa dispara mais de 3% e dólar despenca após Lula sondar Trabuco",
+   "fonte": "Howl.Link",
+   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBub1pPV2pjMHlpSmJhbEhiMU1ubUl2eG1KUERvSHVIR0tlSU9DLU1pV09fdnJPTXpkVUZ3?oc=5",
+   "data": "2026-11-26T12:36:44.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1g99tme",
    "titulo": "INFLAÇÃO NO GOVERNO LULA ESTOURA TETO DA META E COMIDA VOLTA A PUXAR O CUSTO DE VIDA PARA CIMA EM NOVEMBRO",
    "fonte": "Diário 360",
@@ -347,6 +420,18 @@
    "cat": "Regulação",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1j1u0xs",
+   "titulo": "IPCA-15 sobe 0,22% em novembro e segue fora da meta",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnIzUl9IR3ZNbDNLaEc0Rl8tQ1V3LTJNT3Qzd3Q2OUJYZFZwVUF5SV8zUFdXdEJtYktNQTN1eThLSlh1bk4wbE9tREN4UUM1eV9ldWV6dW9QcXVpZ0E5WDNXVi02UUNsRUJWMFMtMWtmYnR0STFJUS02cGUtLTBVb3l3RVRETW5yVHo0dTZIc1A5bXlJSXhFRS1LODU?oc=5",
+   "data": "2026-11-26T12:18:12.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -491,6 +576,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "olq479",
+   "titulo": "Equipe do Lula 4, PEC fiscal e IPCA-15 ditam ritmo sem NY",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPU0tsbTZyQVVwdTNJN0x1ZzlHU1U1TWdPeGtHTWdVeFRBN2VVMHJBTktvdmllRnZLRWF1MFBvLUpiZjRENGlEWlkzTEtHM3dHaWlEbjVOM2lPREtyby03dVBWdW0wZlV4bGtHYnc2NExULV95a21rV29pTGE2TDdpM2ljejR2LUJQSVVQd3NSbjRrOEtRaDRneWxTZmhQVHhEbFZRUGVlTXJMNmJJdnluQkNjcVdpaDhSQzItaFNmOWgtQjI1d3VXS2NJOGdrTk01dVdDaUVFcGVGWWdtanpCV1VKRnhnUdIB5gFBVV95cUxPU0tsbTZyQVVwdTNJN0x1ZzlHU1U1TWdPeGtHTWdVeFRBN2VVMHJBTktvdmllRnZLRWF1MFBvLUpiZjRENGlEWlkzTEtHM3dHaWlEbjVOM2lPREtyby03dVBWdW0wZlV4bGtHYnc2NExULV95a21rV29pTGE2TDdpM2ljejR2LUJQSVVQd3NSbjRrOEtRaDRneWxTZmhQVHhEbFZRUGVlTXJMNmJJdnluQkNjcVdpaDhSQzItaFNmOWgtQjI1d3VXS2NJOGdrTk01dVdDaUVFcGVGWWdtanpCV1VKRnhnUQ?oc=5",
+   "data": "2026-11-26T10:36:29.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1627,6 +1724,18 @@
    "avisado": false
   },
   {
+   "id": "19zcrqn",
+   "titulo": "Verstappen revela que jogou GTA VI por 40 horas durante o GP de Las Vegas",
+   "fonte": "ge",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQTZDNEVqVUVsMUNIV21tS0ZVUWd5bkhUS1FiM2o1ajRVb05XNHdrUFFFNUljbTkzQVRYM2x2dUdQTGJYdzlJY1NpSjJrZFBoUzVkRU1UeDVIZXJ3NWNWeDVXRTNIdUhCY2prM1NScnV5OHJCS2NRV25nOTZGM3FPY1J3RXh0VGdxSnU5LVpXdDNVSEt6ODE0WHZzNmwyUHJYU3BUdXgtRGZ4cWFKUGwwNHBRN3RxX3RpMlRjMmlOa3h2cFAzcWxwMlFJdGhURWhV0gHfAUFVX3lxTE41SXMxOWVOOWNEZVlqNmZGdERmMUlzakJFUXV6dGh0RDV4WEtJRVpFZGdVS2NfUjdBZkh2NkFlNlUzRGVwZW5RcjFnekJmdHJVWVdYNlpIU01RaWZXMjVOQ1dPV0wzenBxb3ZQYTRkeDFULW5VMlQtbUMtZi00dWFVbXpoS1pBOWVFT0ZVcURPcTFUVXVDaEFNelR2Y3VreUtzX2Rqa1dsZVZZenl3QjVaVURIVWQ2SVNSN2Y4eW9rSHQ4dERtR1kxVklDeWRxZUJvWjNKX1B1YWFLOFA2LWM?oc=5",
+   "data": "2026-11-25T18:22:34.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "pd6fpy",
    "titulo": "Caixa avalia compra do BRB em meio à crise provocada pelo Banco Master",
    "fonte": "Gazeta Mercantil",
@@ -1744,115 +1853,6 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ark9u2",
-   "titulo": "Avatar 4 | Disney confirma lançamento de novo filme da franquia de James Cameron",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaTJkdG83Y3hZekFkSEw4MmR5WTdmZWswcThsdW5TUmotZnlWUG1GcTlNVEt1MDVyLU5KNlZUeFE5WnVXVExZRGZzUzg0SC1zVnVKbWJXNnRzS1M5aFBwYmpaSDczWXBVV2l4Y1o2RFVBZTUtYkVNemVVdGVCY1VTUHhHd0Q0TXM4SnBr?oc=5",
-   "data": "2026-11-25T16:58:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gxu372",
-   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3NJVnpFREhPSng0UkZ0VUNNeXpTVVVnaFc3a0pkVnRvandZTlZHRWU3YjlUczlOemNxSVZ2bmRyeVdwWXF3elRyRlVSQ3JRaFhuUWZpSU03aVZXNWgwSTRkY1NESGlnLXZwUmxHdFNiQklIUUl2aG9PSkVYM1BlZzlhQ1hTRHNUakhGaGNhRjV3V0FOSWMyZG1mUnVubTJKUWdVWVdBd3lXT3czV1lNQzdlb2pkbnkxQXR4V1c2UEJwRkFpVW9CZQ?oc=5",
-   "data": "2026-11-25T16:54:58.000Z",
-   "cat": "Regulação",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7hud2k",
-   "titulo": "Após euforia com Nvidia, Nasdaq despenca 4,1% e entra em bear market",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONDh1MWpGQTJ1a1VwZG9GVFVaQmt1NFExRzg5amNPa2lFUEhkTUE5bTZ6bWNNTVJSOHhmQXQ5WFRDTnVOZUtVczlqcG54QnRPMDlSM2JFS0h6emJmcnpRZXJ1bkhWbElTVjVBb0VTUG4weFRxNzlpMXRTcGhTcHhwQlc5RGZlWkhOV25KQXhoaC1lTktUSTJlRF81N3lqVTNCejh3M1FEb2UyRS1zelBhcdIBtgFBVV95cUxOOUtfaW05cXM1U2FNTVRRanFyNHAwNldvamN2bWc5MkJzSC1kNldWQU1rcmJGdy1EcnJzTENyaFJpVVNITklLYndvTXJ0LVktX1NVekxuX3JwU0JSa2syeXIzVUlUcnpnMlVsT3h4RFlCRkNDVHN2OEZmUUZSTjVmb0hrTm0yQWkya3BVU01tT2x5NkhCUnAySkJGQTJyNVVPNVg4TXhUdVFSOUx5ekVMOFFBdkZfUQ?oc=5",
-   "data": "2026-11-25T16:52:25.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "v8x7nt",
-   "titulo": "Ações da Anthropic caem abaixo dos US$ 83 do IPO no pré-mercado, diz Reuters",
-   "fonte": "Paraíba Business",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSzQxTEhfQjR2TWo5cGs0OUlSTENGU2M3UkZuNEFyNGpXYzVrZXVkNjIwb2V1WE9TT3lyUU9XLTdZWlVIMmZfVlV3YWJRRDVaa2xNM3Exc3pGemJhYjUwUTZSMjdVUkYwQjZkbF9PZk9KaFFudVFyR0NLYWNkVExoTnl1Z19McGJCeXl0a3EzYUh2SkxqOXVST09Ic0Jld2pjeXZoNkgzRlRmQQ?oc=5",
-   "data": "2026-11-25T16:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795649431476
-  },
-  {
-   "id": "1myn1an",
-   "titulo": "Embraer despenca 10% na B3 após Estados Unidos proporem tarifa de 10% sobre aeronaves brasileiras",
-   "fonte": "R7",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNd1BCZTg0VmM2UDhjMG5SWFV4MGJaalphUzBZdGF6aGs1NXhMODNvajU3a21MeGdCcGNsbGNUX29NVVVEX2JlaFdOSEJFNmw2TkVlbXZsand3U3dxajI2aWxHbEJ1cG5zZjd0TlV3elliTDdLWTFjU0VRZDFqRHNNQkI1ZEhpT1o3QjA0OVhYaVpHYk1kZmxkblB5VzFJSzNmNjBuMkx6TnIyMnBNOTlkcmpPUUxRUEJwa1Q0Zm0weGFFUEJSYVpTajBNU1RzaUJhaWFDTld1WkxzdnNOUl84cnBfVlEtLVE?oc=5",
-   "data": "2026-11-25T16:29:39.000Z",
-   "cat": "Regulação",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1a1wp8u",
-   "titulo": "GTA VI Online pode superar Fortnite e se tornar franquia multibilionária, diz analista",
-   "fonte": "Combo Infinito",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTWpEang5VkV6Y2xLeXJsUmlRZkFrMnhHank4M3FVRFo5WUR3eGZMSzdEbWtHQ2tYcHJrZ3V1d1RybE1IN0o2ZEVzTzVmSHBUWXltUC1SR0dPN1V6M1VsODlfdDBBaVdFYmNQalVjXzdUYXp0eUpLUEhGaXFVWHNnMVNueFNGaFliOHNQdjNMQUl4dw?oc=5",
-   "data": "2026-11-25T16:28:17.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1yx0e39",
-   "titulo": "Nvidia enfrenta questionamentos do principal senador democrata da área antitruste",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9hQXYtWjEwNnRQdFdaQ2w4YVVoXzRiUUgzOUoyRzI0MlZJR0dYZmlwSUQ5RGJ2cExvMXBCeEYtWUJzRV9LbXg2dkd0NF9JbkdfYXgyc0tKcHJGdlhMVGxibjlhaFd5Q0dyQWR3M0JwV2x5YkJSTzRv?oc=5",
-   "data": "2026-11-25T16:26:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tv91zv",
-   "titulo": "Take-Two já derrubou mais de 3 mil depositórios de GTA 6 para PC",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOElnQ2RReDdjRHJ1NmEtTklIVmZoSXB0SWFDMmp6b2s2bjlPZm5PcjN3SFY5U2VZcVpXRE5yYng2YVFqa1RvRnJsdVJzR3YwUGFlSWMxZGI5TEIwTmh5VEhESDZpTzQ5S2NSdTgyME02aGpFNmY5ZUFwQXgwbXdULVdRSkFDS2FGRjZXQmZGM1ZEN3F5NkstenFkOUlVT0g2SFpJ?oc=5",
-   "data": "2026-11-25T16:26:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1sgd8zg",
-   "titulo": "GTA VI: escolha secreta pode render US$ 10 mil",
-   "fonte": "40graus.com.br",
-   "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBZWVlNRFhRSnJkTi0zLTROa1lEZ3ZjendYYTI1OUh4a1BaZHd2NjBWRTFKWUhqV1d2YlRGbHZkUm5fUXRhV05pRDMyQzR4OEc0U3FSUVRxYzZwbzA5UzlWeG82TnNNX0wzUVktUnBDRkNzQQ?oc=5",
-   "data": "2026-11-25T16:25:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
