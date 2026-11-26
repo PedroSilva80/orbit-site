@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T19:00:30.038Z",
+ "atualizado": "2026-11-26T19:30:26.117Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,42 @@
  ],
  "itens": [
   {
+   "id": "q1nl9b",
+   "titulo": "Brasil supera meta de turistas estrangeiros e registra receita recorde",
+   "fonte": "Diário do Turismo",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanpQTzRXMGl1MXlOYXlEYzEwOE5WbHRHZWF2VlZhUFFhVG9IUVhoemZEd3laQkVjNHdJY19mNmY2YmVmZEVtVzY0ejZ5a3JCdExxS1pDUmFtbHRpLVluTkYyS0RoNFRIRm1qX3JTak1aclFndmJSSTRqQUh2R2dRbU9fUU1EUG1Mc21WT1VBZHNrbm5zMElDUHVKVWlBdlR3VDJkdQ?oc=5",
+   "data": "2026-11-26T19:25:05.000Z",
+   "cat": "Resultado",
+   "empresa": "Meta",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "b3bz8i",
+   "titulo": "Por que GTA 6 tem consequências reais para os crimes? Rockstar explica",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVVmeVI2Sl9zV2g1YWtiM2ZMTTJseUh0VWtlQzlOQUM3REpJOVhsbGlaWTBYc3VmdHhEMEtPM2sya0Njc0lYVUFEdlhGTmxKS2FYOHVKMk9qR0VjbGJLeWtDQURjSEdVSmozaXFrdEVraUhCb3pOb19xeVdDNnRKbFY3VUVTLVZQSjhFbi0tMHJxUXJuLWpzeWpaeW5WYmpMeTQ4?oc=5",
+   "data": "2026-11-26T19:16:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rzv7ha",
+   "titulo": "Ibovespa dispara e dólar recua com possível indicação de Trabuco para a Fazenda",
+   "fonte": "Brasil 247",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXY4dFBUc2ZRSEFmUDFYSy16bHd2ZV9FUHlhVTM1OFJEWi1tdl9sb0w1QlVndXJhdTc4YnU1aWpaR0tzeG50Z3NDZWRKb1JQVi02aGdqNnpYUHN3anUtejVQVkxHb3hoTkxOMTBZRlNVbGtpTmRtRkdUTnpWdldTdXJZTkhadXFUdmNwRXA2WDdQNmMxS3hOZkhhLWJmX1N3UC1VVTRCdEVBUVBaQU00MVlHZ1ZHUQ?oc=5",
+   "data": "2026-11-26T19:15:02.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "jlqoc7",
    "titulo": "Senacon cobra Google e investiga Meta por falhas nas bibliotecas de anúncios",
    "fonte": "BNLData",
@@ -59,6 +95,18 @@
    "cat": "Risco grave",
    "empresa": "Google",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rwwzlx",
+   "titulo": "Caixa analisa aquisição do BRB após impacto de operações",
+   "fonte": "Agora Litoral",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmhmOUVTbWFHdUtSZ3VCeU1XQ3NhS3BXa2drVDFyMmdKSm5wNVhMVHhsOWVNVThvbzZlV3dxb0lfcWJ2YU9iLTFmNmdHbHdmcFNDODcwUnliWG0zWm85VGpqZ0NBVUhHdjdSZzFjcGtCZm01WXItWUY3MTFqa3NtLTktZGloam8tQk04d1FMOHcxdzd5TFBFcUROQUE?oc=5",
+   "data": "2026-11-26T18:38:42.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -226,6 +274,18 @@
    "data": "2026-11-26T17:22:26.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "19wmfd8",
+   "titulo": "Mercado agora | Alívio nas tarifas dos EUA impulsiona bolsas europeias; Ibovespa acelera com blue chip",
+   "fonte": "InvesTalk",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00cFFwdnhKdjFNRHhTc0QxOUFsaVpvM3NMd3d4eEJqQV9xYkhZQk5vQXBDUnppb2phRnFra3lEcElSUDgtdEJQR1pSWmt4OWdqUTcteUQwLUNCd3UwTF9YeGVUWmZMeWlZdU9JTnhibkpLTmhid1E?oc=5",
+   "data": "2026-11-26T17:21:00.000Z",
+   "cat": "Regulação",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -685,7 +745,8 @@
    "empresa": "Banco do Brasil",
    "score": 11,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795721426117
   },
   {
    "id": "11cv1wl",
@@ -1792,67 +1853,6 @@
    "cat": "Corporativo",
    "empresa": "SpaceX",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17pymp1",
-   "titulo": "Kioxia dispara 14% após parceria com Nvidia e ações de chips se recuperam",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGVHZ18zQ2dFbnZBa1NKT1RvUHpNT040U0txWFpvNVZ2aFdmZXJsUGUtalRxZ180S19ZV3JrbFhDVEtXeGdUNnFtTGJlWFZLZDFzLTV2d09XWWQxS2IwR1N5ZE1LVlFlbldsT2xabEY1N1d1d291elpPV1c1VU1BWDN0ZjB1TEt4cFR1MEF1dEttWFZlT1JQa0JDSVE4a3pvNWxhUDMzNHhQYkxMaHRjallqcjNJMTdMYm94T1R4MU81NkZhZmVj?oc=5",
-   "data": "2026-11-26T05:58:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1hqjl1m",
-   "titulo": "Contrato 'Caracu': MP junto ao TCU pede investigação sobre renovação de aluguéis do Banco do Brasil",
-   "fonte": "PlatôBR",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWFHcDBPak5LX0Rlak0yR19sN2NGS2VKTi1IQzY1NDVhb3YzNzM1RjZQRVlMcHN2N1R6RXd0QTZXZzdiU1J5OURBSVZydHUwZlJrN3lWR1BHTW1MYjJwYkRYcGlIb2UwbUh2dU44b2EyS25falVLUnVlS2xnMkJPRkZRRFo0YTdkRmZPblNXVi16WFUySDl4LU50RzYwRlRrTjlFemxhMnI1Zmh2ZjdNSmpUbzFMLUV4QUpF?oc=5",
-   "data": "2026-11-26T03:03:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795689028040
-  },
-  {
-   "id": "nugrue",
-   "titulo": "Governo Trump considerou usar lei da Guerra Fria para restabelecer Jensen Huang na Nvidia",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FYZ29WS1JTdXJkYUFGZTFQWlFGdjBNdTFHTm5TZ3JWOXNDM2hYR1ZIelg0ZGM5TEJia001cTdkX0x1NGRxcFIxekxFcXJ1RExrcHRUNmQtdjFJWTNJalFLTmhzX2dvQ0NEb0JYcWZDSEpyMHg4QU54RnVXVDZNMko3d0I5M0tScEpKaVJycDhwRHFjcWphSmNxeWR0WW0wTlphdUNkZWpOU3ZsZlg3bGVmNDRUeVRIeS1IQTdHWUtGVmR5VkxxdnI5Y1hwWDBka2hlQzdHcERzMkp4cXc?oc=5",
-   "data": "2026-11-26T02:52:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lbnfl3",
-   "titulo": "Amante de ex-CEO da Nvidia manteve contato com serviço de espionagem chinês",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWpNTGRnRFJSR3h4V24wZ3NNeU56bVNjM0VkWEdkdUt5NF8wbENiVUtLS1RiODNzcDlad0NVZTRSMzdrMVFkLTN4d0l6UVFDUUE2TkpIcmxVWFB1anNTZ29JTkZnRkJZNVhla1UweGVzbDFSeXduS09ISi1YTlBEbFBQRG5Ub0hhNFZkcjJmMVN0eFo2bjVBYXRVUXBXOTZmNlR4X0hHRng3cHpFMXg3Sjh1WGd5eTdlWlVyNEtHMDQ4WUxTR0Q3Nw?oc=5",
-   "data": "2026-11-26T02:41:08.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "aflay5",
-   "titulo": "CEO da Coinbase sobre os IPOs da Anthropic e da SpaceX: quem realmente lucrou?",
-   "fonte": "BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAzeFEzS2E1VEtjVGZYRmlLUWxKRS1nSkF3bjFzZU5uazdrNVF4MFZkRURRXzFyZFpVOWEtRjZzeXVkMjR6Yjd4Snh4RVc5V1RVaWg0WHdHNk5MUTVKMHFGbUlzaUs0MkgySXp0RkVBa0hPUk1nYjFoLQ?oc=5",
-   "data": "2026-11-26T02:20:46.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
