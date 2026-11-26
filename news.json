@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T15:30:29.848Z",
+ "atualizado": "2026-11-26T16:00:31.532Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1rojcn2",
+   "titulo": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanJyNEoxVlBjblRQcHlmSGRQUVZuYy0xZGt5TFZwUzNwRE54dkdtSE5fMWUxSWVNQWctMlk1a25WQ00taHZwZzhTeW1RSlgtS0cxTC10OW4wQ1R1R3dYczBDeGdZNnVUV0ZEbzlxbllrTm9Pdml5WERidUJ2ejZqOC1nZnZMU3Bsc2IxLXNrMHFNZzTSAZgBQVVfeXFMTUhxWS1YRmxVMUl5MVNnUHVpSmU0NUtyREJHNkoyS3RkLW4zam9qb05IWUUxOVRrWm82aGFabFpueWllV0NuOTY2Smc2bFFqZ0xRQjQtVkhUWlg5emM4Xzh5NldHWVN4YVBvYks2UlA3bmhaVFl3aGhXa1pvRmJGcjhDdGIwUGY1YkJ2djI3cU4tR3NQSExULWE?oc=5",
+   "data": "2026-11-26T15:46:38.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13zjt5b",
+   "titulo": "VISH! MOSTRARAM O CONTRATO DO GTA VI COM O XBOX! O SERIES S SEMPRE TEVE RAZÃO!",
+   "fonte": "Xboxers",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaExjQ3hxZzc0eGZjWWkwT1pOcmJZbE96MF9xeTE2RW0tMVZVVlNKVFczQV9hUU5xZklBWlZLMnZkcXAzT08wSkVJa0Z3aEpmM3VqdUZpUkl6UkFSQk5WOExpMWF4MjRxWTVLMDMwVGEwUHlhOG8tbHBqQnJCd3BFU1BPY0x2cDhka3VUcVh2X0MzcUdEc3dSVnB6V0E5ZVdo?oc=5",
+   "data": "2026-11-26T15:40:11.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14oe4xa",
+   "titulo": "Rockstar rezou para que o maior segredo do prólogo de GTA 6 não fosse revelado antes da estreia",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3kxTklZaklLNldORDdkYUFkT0x6Z3V0R0xWMU52STlDSUEwQzIyUWNpeEZ6WHBNcm5tdlhrVFEwclZzUGZ1YUtjRG5namdJRkJQOEl5RFpOMHJpMlotX2RGQ0hCTTZ6LXRpbmlWRjcyMVphUnJwVWVlS0Uyd2REcDFhaVlfVHlVLXNyLXlXVktNdjVhaE8wRF9YN2ltOEM3bjk1RTZwX1ptbDJhWHp3VWJNV0l2VHp2ZVNHQmh1RUppYmxJOWhVNk5XNmNKeEhIcTRVbjRlMDU?oc=5",
+   "data": "2026-11-26T15:39:41.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "10miyx8",
+   "titulo": "Quem São os Executivos do Vale do Silício Que Torceram Pelo Retorno de Jensen Huang",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWFhWDdFd2JPci1qTlNyUDhNZVZJUldXTkZiNjdQcktjYlRJMFdCeGJkYnI0X25ocGFNZFlrUE9GTFVpbm5uVFBuWXNTMHA0dk1PMHdFTEpiNGlVSTJhNEdYTFRlZXNrSWJGYUstLTc0dWlOVXB3XzF5Y0REQTY1ZGFGUDlKMUtDS1pVZFVpc3B0YjNYQ0EzODlHdUl5YXN4UGoxQVRMMS1WQnZWWVR6ZTlaTHNHdFZKeDdtZUdpVEZ5eHZ4?oc=5",
+   "data": "2026-11-26T15:38:19.000Z",
+   "cat": "Liderança",
+   "empresa": "Vale",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "umnpa3",
+   "titulo": "Bob Iger, ex-CEO da Disney, teria engravidado funcionária durante caso extraconjugal, revela novo livro",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGhhRzdpZk5fN1IxenhiaG1xWkFWVERWb2hQRWdpV1cycmFUM19XT0NYOHdOSWM3aWg4SDd3X2lNUkdYdW1mTXVJMlYzZGMtbkVCN0hqM093eFd5VS16MjJTUDExSE1xTERONEFOY0N0MjIzWEl2QWU5YXBpNnJjV2hzZXBTNFJMTUdFZVcxMWZORzJHRVcxSjhUVTNwYUJHcmE0MndXSW5IaTVGUURJTnB1ZmxnYUxQS25zbnBxZTl6Q3A5MHNnSWQ1RQ?oc=5",
+   "data": "2026-11-26T15:33:18.000Z",
+   "cat": "Liderança",
+   "empresa": "Disney",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tmcgt2",
    "titulo": "Ibovespa sobe mais de 4% com IPCA-15 abaixo do esperado e nome de Trabuco em alta",
@@ -244,6 +304,18 @@
    "avisado": false
   },
   {
+   "id": "rw3w6",
+   "titulo": "Polícia investiga grupo que tentou comprar o Master por suposta fraude",
+   "fonte": "Congresso em Foco",
+   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2tOaGJPWUFIak5kc2xTWkVJZ1NsUmlZeWpLaDl5a0xqeWxmclRzY3hvTXVXTjhqYm5KMjV4VDdraFdCdG01Q3R2dlZNNl9VNFJaNEgzdmY3R3FZTlh3SzdsYWh2bHVENXFDVWM2di1LZ2FWTVlabnNJMUM3RnA5blI4dWVCTmdMVWx3UUpjNjMzRTVpT3BjZTA4Nk9SNnNQY2R2T0lKZzcwQ2RlMDJsbHZnbWxIX2xZZXFqcEZNTVQ3UQ?oc=5",
+   "data": "2026-11-26T14:11:26.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "qr9xvm",
    "titulo": "Famitsu — 16/11 a 22/11, 2026 | Estreia de GTA VI no Japão faz PS5 acabar com longo reinado de vendas do Switch 2",
    "fonte": "NintendoBoy",
@@ -275,6 +347,18 @@
    "data": "2026-11-26T13:55:03.000Z",
    "cat": "Lançamento",
    "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8csufd",
+   "titulo": "Ackman: meta de 2% do Fed levaria EUA a recessão",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0JOdjlDOWdKRHB4YjNhMFNrX0V6dC16NTliRk1OZ3o4emR2OU1nRVNnTnMwX2duZkVBOVZDT1ZxMFJvUE9taXRWQnYtbVNwZzhGdFVXVzFEeE5qUlpmbFljS0N2ZElQMVhsbHY4MUxIYzhGUTluYVZYNkRfcHFsWm1Cb0QzTzFkNEZhOVVCNVh4WUg3Y2U2dw?oc=5",
+   "data": "2026-11-26T13:53:32.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -449,6 +533,18 @@
    "avisado": false
   },
   {
+   "id": "1v441ws",
+   "titulo": "Ibovespa abre em alta em meio ao IPCA-15 e à expectativa de novas medidas fiscais",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ENV95OWxNMkc1WE1ZRXlJZ0xzNXVENUhzWVBqOXl6Yk5LYzZKLU5XQVdpU2RpSEZmTUpVRl95eE54RjUxb1lmTWQyNzBILUdzR25PV0lFdHk?oc=5",
+   "data": "2026-11-26T13:19:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ydv1u8",
    "titulo": "Vendas no Japão | 16/Nov a 22/Nov – GTA VI lidera e PS5 destrona Switch 2 nos hardwares",
    "fonte": "Universo Nintendo",
@@ -610,6 +706,18 @@
    "fonte": "Estadão",
    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVkFDY0VIeVFxWjJjN2ZTSXYzdFl2clNZaW1XNUQ1VmUwQll4Z0g1NmxOdW1oY2dadk5wVTlGZENEVnkzOXFHc0d3Mndza25mM3l5aEpXQkNsTDB1aFBaeG9sU3g1cm5sVlc4VXpNT19oSDFaNjdJYlE2SlpQRTI4R2VYdkZnUTNhdkdzcEM0RE9pWFU5VDhmNXZYc09XaUloeWczNWRhZlh0b1V3VVcwSk56X2xpeGc1MzEySWJIYms1ZFJOUDFyakdn0gHPAUFVX3lxTE9XeEVEXzJPUWdvaHJOaEs2bnhacFlFWmkySFpBd3JYU0lHVDFHaC1QZDcyWTJTajAxLXhZYjZfQ21QSDdSbFphcVhva0pLZE8walczZXUycFdIdTkzVjFscUJ4NDVVM0JSbmVzRzVULXpITVJyOHlpWUhiSmtpRm52aXowbGY3RU5jelo5M1F3V3hYN3lQY0V4LVJ0THptZHgtdEJxTllsbnFIeDBRZTRWbXFoeFZnWmNfdFd3RGllajlzRDVXci0wbnRSa3ZNZw?oc=5",
    "data": "2026-11-26T12:16:13.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15d7bi8",
+   "titulo": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e é investigada por fraude bilionária",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFlYZFVJMmdDeXNtazlJNHhTaTJKV3ZsbXRyRVdsbGVJemZTeHppMjNUakRkWVY1ZnZqWjJ0dTNwX0tVWFBpeUd5ZW1DVDV3Yy0ySkMxN1JMdlVyb0preVBUUFRGU21zWnJOU3BhUG9oM0VFc2s5eG5iTVlReVlOWUhCV193dnowdXJjeVdrY9IBjwFBVV95cUxNRFlYZFVJMmdDeXNtazlJNHhTaTJKV3ZsbXRyRVdsbGVJemZTeHppMjNUakRkWVY1ZnZqWjJ0dTNwX0tVWFBpeUd5ZW1DVDV3Yy0ySkMxN1JMdlVyb0preVBUUFRGU21zWnJOU3BhUG9oM0VFc2s5eG5iTVlReVlOWUhCV193dnowdXJjeVdrYw?oc=5",
+   "data": "2026-11-26T12:05:46.000Z",
    "cat": "Risco grave",
    "empresa": "",
    "score": 6,
@@ -1701,6 +1809,18 @@
    "avisado": false
   },
   {
+   "id": "1ik1ox3",
+   "titulo": "Caixa avalia compra do BRB em meio à crise ligada ao Banco Master",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzk2eFpyUWhHWFU0ampOSlltMEVjZGJBakxjbjJseUNVa0VSc3JIanQ4a1I2WUNWZnVQTVM1amFhWXJTQ2VhLUM4RFBpZnNuMnUtM3pvM1NoT19Ua1BDZFA2Qzd5V0hsWjhVUnk0MHJCaC04S0dHWkx4VlZod0hvbnFOU3Q0VWRqRFVpejh0Q2cxRW1veDB5bEdobkF4dmR0Q0xsbHZKRlJCQkN5WG0tRHBzWWtrdTFjMnBnempJSkLSAcYBQVVfeXFMTzFoVzlPaG5pLXFOeGFiaElVTEJnMy02d19zX21FY1loSEZJOEk1b3drVThWVFRtNUJHaW8tVV9kblVvMWROT3EzakJ1aVlMQjl0d1BsUElGUXh3YUNsdzZjSkZhVVJmZ1hSSWZJWFVDM3BhMTZJbzZSSzBvMFpBVjlPdXd2Z20tWkhOek9ycS1odlBUcHUybjBvT3Y5VFc4U3NLNWJXWDExSmhpelhiLUhteEhnX0tvd3RlUnRpUDNQT2FTOURB?oc=5",
+   "data": "2026-11-25T20:07:37.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1xpb5cy",
    "titulo": "Panini e Rockstar trazem ao mundo real os cards colecionáveis de GTA VI",
    "fonte": "GKPB - Geek Publicitário",
@@ -1733,126 +1853,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lcmrkg",
-   "titulo": "Take-Two derruba mais de 3 mil repositórios de GTA VI para PC",
-   "fonte": "Pichau Arena",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UVlQ2bHhfRXhEOUhURUptbERNZXU4bW9hdU5ob2lUWmZXOWRjUXBpenB4RlJzNEtSTE1WSDdlUXJRYkt4M05RMTBNbkRJSmtJVFMzUmxRc0lsdk5aM2JlMHF6cVBTUkVJMzNhdlNieHJFNXFDbVE?oc=5",
-   "data": "2026-11-25T19:14:14.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ztsj4n",
-   "titulo": "Ciro Possobom deixa comando da Volkswagen do Brasil após sete anos e meio",
-   "fonte": "Folha PE",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLWpiYkd2SHpic0dySHQ1SmVWSmZNOERJV3VjMHVlYXp2dlB5YlpXQm1LbV9QdDRhRU1XeGtjMFNpOENEUmxHWm4zMW5YZVhlRXNmbGRxS3QxZUNaS09jME1WVjdXVHc5d1AyX1JZV2tzcHNIWDVrdkgtWEV6UFktUXppUGxTYUpmenVfczJ6ZnQxcDNKOU1uSFQ0Qm5JRlo2RnBkckdNQUJJQ2lVM01SbUs1bWR2WTBtc2oyQWRrWUVSdDln?oc=5",
-   "data": "2026-11-25T19:11:00.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xk5u4y",
-   "titulo": "Presidente da Volks do Brasil deixa cargo após sete anos e meio",
-   "fonte": "AutoRanking",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vdy05R3ZhSkRnV3ZzcEpXNUxHSHFhbHlfbHlxdUtiODZCejhkajdkYUxwMzVVWFZLZWN3UHo2WGw4Y0RJenc1cExDNGlJd2tWV1h4ejlvVjY1TzZ0NGtHQkdyN0ljS0dMUlMyTkhfMklsYjY2WVB3TlB3?oc=5",
-   "data": "2026-11-25T19:06:30.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4mykhk",
-   "titulo": "Entrega de xampu por drone da Amazon termina em acidente e investigação federal",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM0hrdGljeDRYeEpsb1I4dkRFV0Z2cXRuRzhIUmpoNE1rQVJWcm9UUUtMdEJhOFVfcUVyTThHblNGd2tDTERUdWYwQ29pOWlteGdJVWlSNk1Uc1NDZ2FxUmJNZ2dpMWRfaWxoanVYclVOdXgtMDVwZzRYblJCV0hrOGpMRE5kTE01THkwTWJ5cHM0cDhMOXFZMzJ3Y1ROVjRw?oc=5",
-   "data": "2026-11-25T19:00:29.000Z",
-   "cat": "Risco grave",
-   "empresa": "Amazon",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15qd94",
-   "titulo": "PRIO recebe aval do Cade para comprar os últimos 20% da Equinor em negociação de US$ 3,35 bilhões na Bacia de Campos e poderá assumir dois campos de petróleo no litoral do Rio de Janeiro, incorporar milhares de barris à sua produção e concentrar",
-   "fonte": "CPG Click Petróleo e Gás",
-   "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxORnRid2hpTkpiTmdTY2d4RzRScFZKQV82UWI0YlNyeHQ2MVFaOTlOUFlzbFYwS08wX0FHN05QamhyTkhrYV8yRnlfd1N3alZ1bm9ab1dEVDRYdzIyTkcxMlVNOXhZcTBENFpzUTh3N0dXRnFIbi1aN24wc2dQWDJpSGlnVUV1a0RYOGpEbkVTUGdRRVBsQ21KX29pSlZZSDd3MDRZYUphUUxQUXVFX1Z0bFhNVHhTMXN6NzdGZnpUem42RmtOdzY0ZHB2OVJiTmpHOC1kSzBqM3lyWkRsRFdkbjJ2YWtoUUZlMk9lS1QwWjhkQnBOZTJuQVFpZHQtQm9TbEZsYl9GNnlPdHNIWmVfbEw3VGczQjlleWo0bW84cjhkTnBPY2hLM2NMSlYtSlV4d1Awc1NHWHozbngwOUx5dWxkN2ZqeDA?oc=5",
-   "data": "2026-11-25T18:59:00.000Z",
-   "cat": "Regulação",
-   "empresa": "PRIO",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "eib1ln",
-   "titulo": "Youtuber brasileiro ganha PlayStation 5 Pro personalizado de GTA VI em edição exclusiva da Rockstar, que produziu apenas 100 unidades no mundo",
-   "fonte": "Gazeta de São Paulo",
-   "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNUC1nVlhMX3A0WE5sNDZ5VmtPLTFzR2tvc05ZT2wta0JVaHBnOU1EMk1vZW5qWkdaNURzOXprYmRnMnJVR2UyNkNUb1JYZmxab2hkNGJMTTYxeXlSVXRnQ0hxbW5uT2pNMDhEYm1mY3dHSUxiT2FvcHhZU1hRajBSMGVUTlY1ZG5CWWtGeG8ydndvbnRuR1dlTGNVb0FNbVNmWTYyWTJvbVd1eWtsMDFDLUYwZU5FdDg5ZE51Rmx5YmdSTzg0UXVXaWt3UG1oQ3NBdVRVOVlhaDRkVGFlX1NCV1VTbjJzSE1oTTdkcGtUdnpWbEYxVnVYU21icUNOckVKUGdsTzBOMy10amxJV1VMRzd5Zw?oc=5",
-   "data": "2026-11-25T18:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11kmkzh",
-   "titulo": "Lancheira da Disney: Empresa brasileira lança sanduicheira que estampa Woody e Buzz no pão",
-   "fonte": "bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRVNUMzBYQkJrcjVLeTd5Z3NLQTVCMHF3bFB1QTlhOVBiTm11dWxodmlTQnctc09oMDJWT2FqSFd5dldwbjF6M2tGSkg4Y3Y4TXVySkRZNFZzRTJKMjhzTVl6enM3cGFweXNXYWJvcFEwSXpTcVR3SGhCemlvUXlxRHROcWpaQTZYMEFfcFBPZC1aUnZCWjR2R3owMVNXU2dtOFdheGFiWVA4dS1iMUtPSXEyUFFmbWxycHVCdkxYNzNVb1dtWEJaVjN3?oc=5",
-   "data": "2026-11-25T18:44:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zt5q3k",
-   "titulo": "Aoostar lança novo mini PC com AMD Ryzen AI 9 HX 470 e conexão OCuLink",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYXFNNF94aC01am9vWWVtUlNkcDVOSVpKM3dabHJSaUlQRXIwaHFidnVpUnB0eDFKSlREbTZNRnRjWDI4ZGt4VHhZRXI1b2dOcUNGbjFQVFJDeF8tUVplUDZYaVhsRmpfN3dQVFR0OXhkNkJ4NHNmM01aU2NDV2gzUWpRcjJ5TEJOM1Z4OEF0VXlUTUdCblFWQUNSTWZCZ0dkRGpybzBEdHQ?oc=5",
-   "data": "2026-11-25T18:43:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "AMD",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "140qn31",
-   "titulo": "Elon Musk faz nova aposta na Justiça dos EUA em disputa com acionistas, e veredicto de fraude ligado à compra do Twitter vira alvo de um pedido de anulação",
-   "fonte": "Estado de Minas",
-   "link": "https://news.google.com/rss/articles/CBMitgJBVV95cUxPOUpRSmU3R2J3WC1VWGNnQmVGX2JtMWRrby1hbEd5N2xMV3ZycGprcl9XQ2dQZi1Zd2NibWtCcTZkUU11M1hYc3hob3dsa2VGdFBnaUEwbGVPc2NNbG9WUE9vNlV3MzgtaG55cTBrQ1Y0X2lIUVZ0RjcxRFRad2FFWHFNTC1EblJkb0VXUmsxM2JsSk5ZcV9KVjZJYXNSdEVSNTBHQVk3THBPbWFLOEJSUnhKUFZlMnA1Vm1HQTh1MTZIeS1pRkdCd19QLUpyVUZCZVFhTDRhTURCMlBITjhDMlZ3WFFDNjlzSEx1ZVlWSVZtWFFtOFRKM0RMbXVWLXFYZklidE5idHZtT2J1LXNqR3p1cERONW1Jejg2Vm5QTGNOeDBQSHRWSTFVei1mQnpFQ2VlM1Z30gG7AkFVX3lxTFByM0Q1aTZ1Sjllc0pwOUJ0VHpPVFZ3cnFvd0MwNHJsSUxNeWdsNDUybDA2cnJ5MnJ0RVFoanN5eGxhZE9PdEpVWjNwMThtMnk3NnA3b1Z3R2pxbHZZX1RTMVEyUmxQUlBQU1VISjVlXzdkX2d3YUR3WW9xRU50bFROeGJCMHU5RkJreUtXY3ZadFo1LWpOMERaYWFiWjNma2djSWszd2dUbEF2ZnN4UlR5LU43YVlSWFlXX1Z3dU0tZl9ISWg1dDNnMzdaTm5WYW40Ykd2MVFGbVlSeGsxbmNsY3owREJMVjF1NGdCTFZIZkJKallQU09nMXI0cnlGRzZRY1E0Zm04blo3MmNHN0huYlgzMFktZTh2R0NHUURrVkN1RUk5dVVseTZ5MWMyUGRiNk5FeWw1aU9fTQ?oc=5",
-   "data": "2026-11-25T18:40:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "138uh8q",
-   "titulo": "Volkswagen terá mudança no comando no Brasil; Ciro Possobom deixa cargo em dezembro de 2026",
-   "fonte": "Rádio Itatiaia",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcC1vSEwyZ2lIMnlldTZRR2xhZ1JQb2E4OW5vOU5MTGd6b0NiZzZ6UXhNenQyNDlRQU51ODhraFYydXl4dEpIOEpjWnJscFZCY3c4bEwyTXd5T0NJcGppNWR6aDgzTU5QVlYybElUT0IxZjVfNTkwU01aaHJQb2ZLdkhxb2NFeGJZTDJXZlRxWGF3eHp1RERCa3ctTDIyRTNNZ2E5aHlKenZMN0M0NXZHQnV4bjY5ZmNHV3ZDeEFMRDBQZw?oc=5",
-   "data": "2026-11-25T18:38:56.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
