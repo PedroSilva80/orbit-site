@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T21:30:27.290Z",
+ "atualizado": "2026-11-26T22:00:30.611Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "7ppayv",
+   "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
+   "fonte": "Bora Investir",
+   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5",
+   "data": "2026-11-26T21:46:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wahwn9",
+   "titulo": "Ibovespa dispara 6% com expectativa de Trabuco na Fazenda e alívio fiscal",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnA0S3dhRVhJRThFbzdyaElxeXlUTkc1MmtDcThubW1zbUJ2M1NsSHdEcjJza2xRcnBXNkJqUFFKTlVRRHdaLXVRZ2NZM3h3b3duTkszYkhVSUs5dlcyS2lnSHhsZmlBNnJEaDRLREUxZUdHRHQwaVREY1pEbjBBZFFBd2prNi1xWlV4UWJLUmtQbmgyUDZuTTU4UUE0cTlPNDNlaFF1dFBFeW40?oc=5",
+   "data": "2026-11-26T21:40:41.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tt1vma",
+   "titulo": "Ibovespa tem a maior alta desde o 1º turno das eleições; dólar recua a R$ 5,74",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
+   "data": "2026-11-26T21:32:46.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ru0q57",
+   "titulo": "Buscas por PS5 dobram na semana de GTA 6, e Google vê segunda onda de interesse",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDdNWjh4YlFZTk52UFBGbkE1SzJuYmhVUE1IU09sa3E2SjltRzFvTXpIYVBzSnhOOVN6cUc0NkFzeUNxYi01YmdUUDhiLWp6ZzhIRjMyLUhnOEg3LUYwdzRpcGhIUThwYjFIejdmN2licUtfMVEzT2JPUzJQR2YwNTJMeWFfWDhxVFFkZExmQ3RnbUhpZENHcnh4cFFxN3JjYTNHLVlCVUhuclNYdHRnZ2Vn?oc=5",
+   "data": "2026-11-26T21:30:06.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ibapgs",
    "titulo": "Ibovespa dispara e recupera os 176 mil pontos com encontro entre Lula e Trabuco",
@@ -288,6 +336,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pqgqzg",
+   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
+   "data": "2026-11-26T18:59:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1341,6 +1401,18 @@
    "avisado": false
   },
   {
+   "id": "112jxx",
+   "titulo": "'Anflopic'? As lições ao mercado de IA com tombo após IPO histórico",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV01kUUpRX3BsZlp3MzJyeG9yRUx5OEFMTUdZR0p0R1VBV2xPdmtMZXhhMVZVVmJNeDVyRkh3RnN3d3M0b3lPcjBFV1JySGJTaV8wUGhLYURROExrTGxBZVhBV3YxdXlMNEhKNGlzdHpVMzZXdWdiWHMxQjJ2aEVPQk8wd0VYZGpub1ZPZXVteFBLbFc5S0dpalZDcHV1Q3BCN3lrS3pXNjJjeGFfZGtEeWFrbExiNUdNZWZMM1J4QQ?oc=5",
+   "data": "2026-11-26T13:30:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1mvizkk",
    "titulo": "Ibovespa dispara quase 3% na abertura com especulação sobre Trabuco na Fazenda",
    "fonte": "Brasil 247",
@@ -1781,78 +1853,6 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "48cio3",
-   "titulo": "Ibovespa: IPCA-15 e feriado nos EUA ditam o pregão",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWko1Z0lzNXgtbmhYLXNnWXdBd3lWQUNXTDN6NE1aTzRIQVJhM2xQaUNxM3o5ZERLZGtHNElHbXVPZUt5dE1RYlk1dXJXOF9YYmhySjJKLU0zclFrZHBtX3lOLVZDNDU0bGdiTGpqVnJVZDF5cVBxUTZWZlc5YmlMcGMtQ0RZaVpVVWxhUFQ3MXZlUzgzSFFNRHAxNUk?oc=5",
-   "data": "2026-11-26T10:33:01.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "6pqhgf",
-   "titulo": "GTA VI: personagens femininas têm 'bumbum harmonizado'? Curvas do jogo chamam atenção",
-   "fonte": "O GLOBO",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUXhvM1E2VzJoWlh6UlhUR0dHSmlVcmNVampmTGZNUlRJdmVpSXowdXB6TmlRWHNtOHAxUzNsdUxRSmJxdGxWQ044ZUZLaVUtWjdNcTBBRERSb2E4bTE5d3NRX1UwZ0xCc1dRdUtrTzBfZTJ6a1F2Y1RGcTNGUElwMTlsSHZLdzlnMTFjYWxhSldMdXhURlpHd3dzRlE4S0ZmSHd3M3lsOHJkZlhVc0pOZl82czIyM0JUdFRaZURQbVZHWHFKRzlBZWFSNkFHd1lp0gHfAUFVX3lxTE93SEQwTHhweTRqVjMxSVYtelRIaXhuWEpLSjRUY1ZkbHFxZU53MEYzaGlhbEJ4Mk9rSG5IMnJBOGFhTVJRaDNuUGRSeHY4ZllNYVlIa1NpNEJKYzZSTzBXRndvbkhLaUFaeGZHRU9RRnZOWGVJT3puRzI3OUNqbk1OZ21DcWpaNTFHMnBrNDk1cWZ2aERfU1JHcFFJYzhndlJ5bzNvQ2w3VnVYMjVsVlliRWJBWVA0ZEJtc19TWWpQV3hUZ1JhUkNEaXlzWUlfeFhuSkc1SXhHS3djbXNFekk?oc=5",
-   "data": "2026-11-26T10:23:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12m0zgq",
-   "titulo": "Governo Trump cogitou usar lei de guerra para pressionar Nvidia, diz jornal",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMWZPeXV3Uy1HZmREWV9ZQS1CODNiNzFQVW5TcURScGNPS3pyUmNxa001eG1QelFPWDFYRVpnLWM4RzMwR0VhWmU5Z3Z1UzZ5UHZSWHl3YzVGYVpVWU12bG9idHptQmxzbWRvZWxWbU1fbFc2Mkw5N2F0ZlR5RmZONDMxSEx0NE9wNm5KVlpqVkhIZzktempvZUpmQ1N5aXNYMmpMbWc0Zl83cHBxVVJpeGZUNkRveF9hZnc?oc=5",
-   "data": "2026-11-26T10:18:10.000Z",
-   "cat": "Mercado",
-   "empresa": "Nvidia",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jkcm7",
-   "titulo": "Feriado nos EUA reduz liquidez do mercado em dia de inflação; Ibovespa em dólar sobe nesta quinta-feira (26)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdnBPQlQ0T2F4OEJzNnNOWWh3ODFDVW1wUGFnckk2MWNZZzRWMXpuMEdYbTFvUDZGdFM1YjAyYzlQaDRWTlRkaUM5LW84cjU5Y21Pa2NuSzVQV053aGotS0VBY3NJYTA2ZGtuVXlNN040Y1VGU21KZ0ZHeDVvMU5RajFCanZXQ0ljZnZiZ0JieUpkcVRQQU1iRENmZG11Z19jMTlxNlRaZ2NYS184b2xNN0tXNWhEeHZ2WDlBd1lKd2NINU5wb1B5TEtpTC15VkxvUjFZenRlRW8?oc=5",
-   "data": "2026-11-26T10:18:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "porio6",
-   "titulo": "GTA 6: Rockstar fez três animações para cada interação com objetos",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPd2FXRk04bnhJTjNPS3MyNUxlcFZubWxaQW5zUlc1Ny0tOXlzZjF1WGZTbzlKV1BNSXRjQ1o2R2ZYeUhSZDAxd3RWcVlzNVVzdV9hZHJzWm5aZk85b0dKTTM0X0xoZnVsc1FGUjh6WFJ5eEEzTWs3RGw0WVZ6TzU2VDh4RU05N1A4ZjQ0YlZlTmwzWW5NRUV3MDlXMmJIRTJUdi1FSlJSV2FQWG9vdFRkRw?oc=5",
-   "data": "2026-11-26T10:07:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "emj6lx",
-   "titulo": "GTA VI pode ser o último grande blockbuster dos videogames",
-   "fonte": "Fast Company Brasil",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSG00SVc0aDRGc203UV9qN2NUM3NRLWJ1LWhfZEIxcVhNZnUzdzlXdkJFQW9LVmRfdlY0RFBFOFJWUDZsSVRlUThoX19EdnBsTWQtc1RwZXFOTk5wbGxvNUptdExXSDNseV8wQ1Z0eWtPVXVoTEQtRThkcFU5bVZleHM5bE53aUJ6YW9NYTZKdVJiMXRuREwzb3pzOA?oc=5",
-   "data": "2026-11-26T10:03:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
