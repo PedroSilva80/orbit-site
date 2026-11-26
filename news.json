@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T17:30:26.723Z",
+ "atualizado": "2026-11-26T18:00:32.251Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "1adtavp",
+   "titulo": "GTA VI: como aumentar a vida máxima e conseguir uma escopeta rara",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9taGRPUW00UWJ5MjdNUVNlRXhsRGFjYmFmWXJpVExLTTgxMHFQeVRiZDROaTBWb01IeFBLeDFCd1pkdGZxOGFab1g5N1EzRHhsVUFZX0NXd3dNeHlmY01obVBib3NuZXBCYUpRTlE1ZGlQcEpQY2tRREJhamh0Zw?oc=5",
+   "data": "2026-11-26T17:53:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10tho01",
+   "titulo": "Ex-diretor da Petrobras lança livro sobre energia e soberania nacional",
+   "fonte": "Jornal Brasília Capital",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkZfblE1OE9pd0drUk5FN1Nmc0U0Qi1IRVBJSWYzVHVXdmlnT25ZYzJuSll3Zm11enVoSDB3NUhjUWRtNWp3a2gySjZvTEJYMHAyUG1jNEpmZXAzOXNtT2tnWldPQ2xabmo0bkNDaFpyOWZMSU4zeWs0bnJUblA3M2VFRzdtR2VCUExaT2dwOXE5OXc2a2ZjNmZwVTEwUQ?oc=5",
+   "data": "2026-11-26T17:51:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oyzbpm",
+   "titulo": "Funcionários da Rockstar rejeitam criação de sindicato após lançamento de GTA 6",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkxrNkpLN042bDVqLWNOblIxUW91a1FCdW5WS29kNUszdVJscnpqMjVMRUxZTmxPM1lCQXJFRTh6c3JxVF9zcGJhdlhWUXI5emt5SkU1dTRvcWk1eWp4dUxpdm84c1pfUzYycHprNGhyYXRqSExXV0Q1Z1pCOTBudUgybGNiYTY3NVdqdkp2NUNVdzUxYng4MFl1V0w2R0tIYzNhQ1BpZkI0UmdxdGYzaVFfZ0thakhEamZLRW44Y9IBxAFBVV95cUxPSGtVUHlnY2oyMjBSU3R3YlBJN0JRcG10T1h6d0xNNkoyVmd6aWhKMml5MDB1STY4bDZWMk9sMmJPLXBHX2xLci0xRmd0NEt6QWVPVVRjV2xrcFdpYTdWZXUzSndnWGVKSXBvX0RRZFY2c3RPa05kNTFzSGF2a21pMFJod05POW1LT252em5Ld0dKRnkyRTJNakVRU0V6dzN2MC1EdWF2UVk3c1M5WHhTNEttc2xNQ0hRTmcwbkZRM0NsdUMz?oc=5",
+   "data": "2026-11-26T17:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wbet26",
+   "titulo": "Instituição islâmica alerta que GTA VI ensina 'violência' e 'feitiçaria' aos jovens",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQnp0bTdYOWVDQmYxNllaMThkQzc0NTVRUUdjc3ZadlRweThJeDlFTDJ1RjczOTVXTDg0ajdrTEU4TzVvSEg5NFNaeGF6TG01TGVnQnRNUVNtVkdhRWJackZIUnBRSnQwWEZKNzVfTXFMWS12bFVjenRwbE9YV0Vha0ZZUUduRU1fTldvZlBlRDVrWFN3SjF5SzNPbHQxa1lpTkRPR2hNdTZFYjFQbjdZUzQ0cDhNa0pKX3EwWTQyZ0xFdXo0YXo3ZVp3d0d1ODhxR1hrTkFveHVHcUtCWnFGOThBVTIxQV9GU1JvbVBsd2pIalpTel9DZw?oc=5",
+   "data": "2026-11-26T17:41:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1nebdbt",
+   "titulo": "GTA VI: como encontrar e restaurar carros clássicos abandonados",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Uc1Z6aVVzVFNNRU1wbFZ4bWdfZkJhUnJ2d3hsOTNSQ0FxSDREX0lOdEJ5SHlKZV8ycGR3WU9QanNlaFFlanZ5Z2U4WkRmSVBDLUVpZHJ4cDJ2a1NFN3FZYk5NbnVIWkJYZDJMQjdxUXpKUy15NEJoc0RwZmQ?oc=5",
+   "data": "2026-11-26T17:35:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "d784d6",
+   "titulo": "GTA VI: como desbloquear missão do Capítulo 2 que dá foco e escopeta rara",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJcXF4aHBibXdVSjQzTGlrTmxQZ09WV0lZVnJLTkVtZmN0Nnk5bDktUGQyWlVXemw2UXFENXFRNU5OZ0JRLUVFOGIxT0RXRnBfWTFwNEsydHY3WmpFX3lIQjJVWWFneVlvclhQOXNDWGlvMkItMHo0Tm1R?oc=5",
+   "data": "2026-11-26T17:22:26.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "wj2rju",
    "titulo": "Ex-CEO da Disney tirou sarro de fãs da Marvel em première: “Esquisitos”",
@@ -166,6 +238,18 @@
    "data": "2026-11-26T16:39:55.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "35lldd",
+   "titulo": "GTA VI impulsiona consumo musical e álbum do game cresce 374%",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYXA5ZUV5ZzVlUm1rUUs4dGROLU5WOWNRZF9JUW05QW1MREpPUldnYkxHcHpwdXRRaXN0X1U5Tm5GQkg3SmhZc1Voc2lrdy05TjFla3JoODdsUXpwbG80SllzQWhaOTB0QUw4NDRSNU9NRDRybm5XWWE3a2M0X3dmRV9obnVpX3lfbndmUFNVWmU5N09JM2d6ZW1wV1B1MXI2MVRfR0taWm81cS1YNGFHYUtac0JSSFFFejVyaGEwSm5DUFJtSlF0MldVOWJGVkR0Ml8xbEczLTl5b0loV1lrag?oc=5",
+   "data": "2026-11-26T16:38:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -291,6 +375,18 @@
    "avisado": false
   },
   {
+   "id": "gxu372",
+   "titulo": "BV recebe aval da CVM e dá novo passo para abertura de capital na B3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxON3NJVnpFREhPSng0UkZ0VUNNeXpTVVVnaFc3a0pkVnRvandZTlZHRWU3YjlUczlOemNxSVZ2bmRyeVdwWXF3elRyRlVSQ3JRaFhuUWZpSU03aVZXNWgwSTRkY1NESGlnLXZwUmxHdFNiQklIUUl2aG9PSkVYM1BlZzlhQ1hTRHNUakhGaGNhRjV3V0FOSWMyZG1mUnVubTJKUWdVWVdBd3lXT3czV1lNQzdlb2pkbnkxQXR4V1c2UEJwRkFpVW9CZQ?oc=5",
+   "data": "2026-11-26T15:51:19.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1rojcn2",
    "titulo": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia",
    "fonte": "Estadão",
@@ -348,7 +444,8 @@
    "empresa": "Vale",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795716032251
   },
   {
    "id": "18bm05r",
@@ -399,6 +496,18 @@
    "avisado": false
   },
   {
+   "id": "110z9aa",
+   "titulo": "Os Altruístas: Conheça a história real por trás da nova minissérie da Netflix sobre fraude de US$ 8 bi",
+   "fonte": "Jovem Pan",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZU11SC15b0U2X0cwZXlORGxPajVTQkt4RGRVVDc4b0M1dnVhWWtUMW9rNUw2M2gxZWdLOUlaLURTTlBRUGlnWW9RNk1TSGFWMlFMOW04bHFwZzZDY0swVjQ4bXFibUhic2tUZEdZekxkdXVUUVFFUHRkOXp0VmNPRlBTZmFXNlVCeU1MQms4S2VlSDg1dE1MM3pXOWpDRFhfZmFRcV84a2hVeUFrWFpWdkVVYlhPMkxPNmhRdExacmlabGZ0THZXRjJfek9Gakh2MzhFU1R0RUlRcUk0N1d1UU0wdzNtc1E?oc=5",
+   "data": "2026-11-26T15:21:21.000Z",
+   "cat": "Risco grave",
+   "empresa": "Netflix",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ide7ks",
    "titulo": "Letras Financeiras superam retorno do Tesouro Selic e lideram ranking de renda fixa da B3",
    "fonte": "Money Times",
@@ -419,6 +528,18 @@
    "cat": "Resultado",
    "empresa": "Disney",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4tceq2",
+   "titulo": "Fraude na Bolsa dá prejuízo de R$ 1,2 milhão a clientes do Banco do Brasil; CVM condena 3",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2oxY2NWeWFxclVLZ01OaFVac1hEYVdHRmtYUTBKenJJSzhUSmswMkdRR0F3b1JSTjNTMy1nS2tjMlVOOC1IcDRma0N0SU1SeE4tX1lPSGRRTkFUclIyZ3NpSURyMk5MS3lQMVFSclp4UTVfcEg2d1QwN3ZDT1ZadWxDVDktRmZIcFpsSTdKRUYtVlRkY3I1LTVLUlJyQWc1bTlfTkJkbTdyMElUVzZuZjVqRFktc1AtZjhTTThfR0pGdjBoZVludENoRFlPTV9EazMwcnFZZnJFTFF6TENwNzNHTEIwMDRs?oc=5",
+   "data": "2026-11-26T15:02:52.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 11,
    "marco": false,
    "avisado": false
   },
@@ -1580,6 +1701,18 @@
    "avisado": false
   },
   {
+   "id": "1vo2pvq",
+   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGthTERRaUdjREJ6bHJiZmlVVkcwRUhQQkNuQ2V3Um1FeGFtOWVUbktCQ29FOWZaeDM0dl9SckRzQktmNEctVUhYblAwSjRVamkxdFU4ZTFxc2JWU1JSdlYwMHVvSFBkWERIV241TUxxVGRiZE1yZDNXY0hyaDFlUTlWN2FvVG00RUs3V1IzclZWNThoZDUwbG45dWNWNmN1S21vYl9kUDhFRzlFalJERUZ4R3h4Z0sweFE?oc=5",
+   "data": "2026-11-26T02:08:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "3w8k2v",
    "titulo": "Embraer cai 6,68% na B3 após EUA proporem tarifa sobre aviões",
    "fonte": "Vero Notícias",
@@ -1720,139 +1853,6 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "a3uy4f",
-   "titulo": "GTA VI: como fazer 100% do jogo; guia completo de atividades e requisitos",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQaEpjZG5Vd1J4dmhlLV9sZjB6R09nZkxMTnhhbHFaODdKbWgtTE4wc011UWRxZkwzOVctS2NSS2c5cWNuX2VEY0wwRXJRTmxhQUZuTHZCVGJsSFd3X0QydzhhTlZpS1JNcGdfcENSYnF2ZTh4bXljRGZUUk83QXpwSnA4RQ?oc=5",
-   "data": "2026-11-26T00:10:01.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nfjkj4",
-   "titulo": "GTA VI: como conseguir o tanque Rhino ainda no início do jogo",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjRYZ2VTNHVfVWRsdlNaOEVZQkpUMWRNZlJUcFZhLWVpSGZ5U2VXRmcxcHpucUpsWVlhckNRMVhZcGhSNzFwTWhPaDlYcWdoNVFoTGhXNF9ySVpkbExQWTZGUXlLdHFVbXZ6eHdEWFF5dUZYRGJuWGwwc2ZWYjhTNQ?oc=5",
-   "data": "2026-11-25T23:48:53.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "56osdi",
-   "titulo": "Vice dos EUA diz que foi informado de que Huang não está sob investigação",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekJhYmFTMnRKWnU4MlBmMDkxOGFSVG5iMTJWOWpESTk1RHhlcml5OFpZWGZ4dEw4Q20wX0dpeElqRzBmS0FwRlVzQWZvOUd6VnJnNll4YXZOaWFwMHZnZ1prQkc1S21maXhuYjlINzZqSnVTSlI2NEZ5QkhLN0ljLWRET3d0bmxWWFFZZk1VYU5hRzM1UFlOX2UtbFAwSzZvbW5YVDRnbEZJenpSZkZwOVhXclJaSWN1?oc=5",
-   "data": "2026-11-25T23:48:52.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zthqep",
-   "titulo": "Aportes estrangeiros nos EUA crescem 49%, mas falha na gestão pós-aquisição compromete 68% dos negócios",
-   "fonte": "jornaltribuna.com.br",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGF1aWdDaUJGYWkzU1RBb1ZuY19yRERoXzg2Nk54VXd1eHlZUFFKWjJSbHJlaUVyVmZ4MkJzSVFfMDhCdDFlYkhQQkVpcXg4SDhLREsxTUl5eTR3R2lkcXJtVzlPUEd3Y2ZxTW5aX2M2RWQwUTBWMmtwRk9CT0h6bGNIUm5EcGNSQzd3X29JWUVnT1gzeHE4c2xiRTBBNFJUTnVwaC1BR3lRVkJwY1AzSUQtT0ZOTDJPVDJTWWJ2STYxNVVIdGU2RGtXbHNsdVJ4N0RteGl0dWg?oc=5",
-   "data": "2026-11-25T23:48:52.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "55msy5",
-   "titulo": "GTA VI irrita conservadores que afirmam que o jogo se tornou “woke”",
-   "fonte": "Portal UAI",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHN5cnBZb1k0WVpKdWZEZ241NFNQX0ZWeUNlbk4zckRZRzZmcDVIWGswZ2Y3eHVHdVY4b2ZIS1p6d0NEdjRGYXlGN1NCbUFHVkVqc0lFTU00RnRpT09LclQzTUlrRURPdWh6UjhHZHliVXNwaXZKWlFLMGZ1T25ESkp6NzQ2LXRsQWRyUGtubmlpRENmSVlkMEZhdmlfX1Zo0gGmAUFVX3lxTFB6dWFNZDh4WnZBV3RGczNSdkcyYUptdFYwNWdWdzFpZmhXWTJtcDJXMXd2UjgweTVPRTFsLU5BQ3UwMzN3UUlpclMxZlVtV2lOazRnbDhncDdXQzhqYW1pQVo4UUlhVDJSZVJCck1pNnFfOEFtejFYcjJOLXVQY1pEVGtRcG9TNlp1Y1JuX0NKTHFMd20wSGJFRGFKM2o5OHotSGZwSmc?oc=5",
-   "data": "2026-11-25T23:45:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wi6oan",
-   "titulo": "GTA VI chega a mais de 39 milhões de jogadores no PlayStation desde a estreia, informa a Sony",
-   "fonte": "Agora RN",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDcyX3M0NGlvcXgtOHFCVkg2Y2hZcXdhVlNta01BVGtWM2twM05pdFVFeUZrUFo2amE3TG1IVWVYdEM1VXotcXRrbEN4Z0hkVlh3cnlkd196bEFnN2Z2cUk4allGRlJzY05DUHF6MmRsZmNNMVdGdzFVSW9nSGlLaXE0alY?oc=5",
-   "data": "2026-11-25T23:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "851pix",
-   "titulo": "'O Corpo': POLÊMICA série da Netflix dispara 86% em audiência e alcança 9,5 milhões de visualizações em uma semana",
-   "fonte": "CinePOP Cinema",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOZ2hQWVNvRTlRTEVvYTJ0MG1DZXNrbDJGMzVQNjltdDNWdUkwdXVRMk9udlJ4LV80RnFSN1lwT1Y2OVFPbHV1LTRsekQwUkxpcmNuZGFQWkQ3aWQwU0w5U2ROVHlmbXlMT2dHcG10U3JLUEE0MVBsZGx0WXQ5YThxNlR3WXY3LXRqQ28yNE16bzZ3MVIzekVub1VDZE54czViSnE4TU81R1lyMG1yeEVYUHY0RHhzUmdLZFNfQkhXVnFQWkJkcVFsLVF6ekk?oc=5",
-   "data": "2026-11-25T23:11:28.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14zrgtz",
-   "titulo": "Influenciador de São Vicente vive o universo de GTA VI ao vivo em Miami durante viagem a Vice City",
-   "fonte": "A Tribuna",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa0l4SVZfQTlxSnpQWkcxQ1BsdnV6Qmd3YnFDTHhDcnMxM3o5QWZBZ3p0RGtra1VfNUtzU0JKRjBXQmxza01nYmtobG9XcHVHeHpYcXhRajFXNFluQTVyNVNzVGhiNFYtY2tndHk3R2hNdldDajg1dDVTN051eXJYODhFUXNldFBubk9VSE1VV21vMEt3WFlKVnpHNkgtbV9maGVCWkhNcWQ0cUZ3cmtHdEFZcGE0WmZWOWV0b1ZMV0VXUTNsaUNUNG1TMl82YXVMb2pla1RnZ0oweVo0ekJxdVFuYkVOcEJrQkhhc2l2V184bmlt?oc=5",
-   "data": "2026-11-25T22:39:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jywkru",
-   "titulo": "Suzano bate recorde anual de instalação de placas de ruas e novos abrigos de ônibus em outubro",
-   "fonte": "Vanguarda Alto Tietê",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDJFV0tRM1hVczZTOWU3aU1CM2VFZjc5OFdfdEFtMGRlV1h0d1lVd3E2bXI5ZUEwdVN3ZjIwSlNHTkRYUlNRUk51U1BvTkdtWFEwQ3pPeERtYXJqcjhZSzB1MWtOaDRwNjlGcWZmQ0VHQUpQMXR6amhyQjdEYUFKNVZrQ0c2TVJUTk9wMmVaU0g2Ni1MNEJIVW5xZ1JxSktKQjc0Wlh0ellKZDdBYS1QaUM3Rmg0QnpGYlFrbjhlTGNiclJRZm11ZQ?oc=5",
-   "data": "2026-11-25T22:36:53.000Z",
-   "cat": "Movimento",
-   "empresa": "Suzano",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1atel5y",
-   "titulo": "Suspense e investigação: três filmes para quem gosta de mistérios e reviravoltas na Netflix",
-   "fonte": "Folha BV",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0pXcTZUUHl2WlRDR3d2VlRJRTZZVXJHMlloZ0h5LS1WZzZFdTJ2TUM1NndYMENQcEU1dEZBRWhmbHNhYkhOdDFYYVhuZjkySmZDc0VfbzZrQ3pfUk9TYnlvbGVSVEYwYkdPYm1JM2l3V2VrU0tEVWdmWTd1aGRSNklITE1Vek9Wc2k0RzRLNnI3c1VyZmR2aWNNMmRmZXY2LUJKNmxJUXltZGVDRGc2Tkdta0RuclRNQ1d2eU0xZVpHVWJoMk9v?oc=5",
-   "data": "2026-11-25T22:00:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Netflix",
-   "score": 9,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795645832696
-  },
-  {
-   "id": "1p3ccsa",
-   "titulo": "Ibovespa dispara com especulações sobre Trabuco na Fazenda, avanço de bancos e queda do dólar",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcWctY0NUcGdEMldQVUJhN1dhWjE1T2hCV1dyRnB4V0JHdElkZFExSGo0dEs2dzQ1S2NlLTJ1Rmt1MVMzMWNZV21nVEd1ZzBPUldOVTdIUVVheUwycGdzbG8zNUVrdnduQUZEWkc5VXhKQzFKMXRNaTNxYnBaUFVWZXp0cnhLQ1M1ZU56bS1SLVdSOXdFR1lVazdKdXpxQmxhbWtacDJobGgzc2JqNm5fLVNocl9JU25UN293Rnd6WUFtNUhpenRJ?oc=5",
-   "data": "2026-11-25T21:51:53.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
