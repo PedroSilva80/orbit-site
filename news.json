@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T16:00:31.532Z",
+ "atualizado": "2026-11-26T16:30:27.004Z",
  "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,78 @@
  ],
  "itens": [
   {
+   "id": "1k4kaz5",
+   "titulo": "Dólar recua a R$ 5,73 e Bolsa dispara com inflação abaixo do esperado e Trabuco cotado para a Fazenda",
+   "fonte": "Folha MS",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdG9TYkVTaUxmTHVnaDVsNGd6Q2phWkJDV2xGUXE0YVRIN3R2dkloNVc1X2lheUF0UGpVSmRsQXNIVEdHZTJqaUZOQ094Rkt6dlZJLUdtaFNkVlRvSk9VMENKSkxFOGJzZUxEd1h1YVgzSFdvZzF2TkV3SVotRnctNEZCRHM3dXI3d0VLQWdwVQ?oc=5",
+   "data": "2026-11-26T16:23:38.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ddwv6m",
+   "titulo": "Pentágono cogitou usar lei da Guerra Fria para restituir CEO da Nvidia ao cargo, diz jornal",
+   "fonte": "Opera Mundi",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcU9LR2pEcmZIOFU2bUZFaklROG0zYzlYZEFJWEp2cEFmNVp1aG8taG5TTHNfSlh4ZGoxdHF2Rkt5TzFxdHBQNHgtZEhNWWFDenoxNUtkeHpxZjZ4UEJtODY1RGJJdTBrcTFMbHBrZWsxcnkwZmx4LXNmc2VaR1Y3UHZyRTUyc2hYZXV3NVU4M2F3Q0I5OFM1eWRhQTZvWWVtT1Fhbm5iMnlLZGIzcC10Xw?oc=5",
+   "data": "2026-11-26T16:20:37.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "gbab6u",
+   "titulo": "Take-Two mandou apagar mais de 3.000 páginas no GitHub ligadas a GTA 6 PC",
+   "fonte": "Eurogamer.pt",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNjJZRnZxbURhYjRUS3pGaWl0d25oVEZ6MTgzeXZmNklkR2JUSmNla1FyeFBJOUhCRnYwVHFxVXBsY2lNY1RRbE52QnJEQWdRWW1ObUs5QzlEZnVBZEtWSl9FTWdEUlVEUFJzQ2xfRzR1Z1AwcXB3UzlCQTF1Ukd6d3NHUmdFQ3ZHOEdYM0RNLWRaLUd2MUQ3OHZYNDRZUQ?oc=5",
+   "data": "2026-11-26T16:14:30.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jfvkoc",
+   "titulo": "PicPay inicia operação de duplicata escritural na B3 e antecipa regulação do crédito empresarial",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdnQ2Z3BCQmtGakF3dmZpRko5RlFuTmVkZjM5TlZWd1hrb1dSTFg3Y2Vud25SRVdqZ09JUmd1VVU2OWJnLUNiUV9aVXlWUzRGOXRhM0NDWHMtOHFRbUkycVlVNURpZ1E0U0l5b1BsQ3h5SlBEOUZvUEdSa0taYWpXblhEMFpEY1BpSDlpQXNLWE9nM2dfcG1xSFFPQmF5bGQ1dU1wN0RhbEE3OTBudXNmWjNWRWtlS2kyOFh2anpFelVSZkhmWmc?oc=5",
+   "data": "2026-11-26T16:10:08.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dr22ak",
+   "titulo": "Bradesco Vida e Previdência lança campanha de previdência privada com Tadeu Schmidt",
+   "fonte": "Academia Brasileira de Marketing",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMm9uQUN6V1JIZzhGWUNFbGVUcFR4TGRid0lxREVGaE5fZ2xCZUd2S2RMRWJ0X2RXYkl0aXR1OUVIcHBTV3E3NEtqUHVmZGRaQXZQbTlpYzZndXRtWmZzT192TUotZHdEX0ctUFR6YkVJQlg3a3k2VGxadHlKSlJRZlVZRWFLeVV0d1FkUDBlWWFYTnBUTmNSWXREbThwWkwyRjdyNQ?oc=5",
+   "data": "2026-11-26T16:06:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1gad5wb",
+   "titulo": "Jogos Vorazes seria a arma perfeita da Netflix na guerra do streaming",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUHNaaFI4WmRrU2pVNnVyUk12dWI4TjNIbzZ3LVgxTktDLU83T0loSFBycHY5VUVfVzh4V3BaejNrMnZndmFoU21TSTBZcDVDbFhTSll5NWhMbkZlYnVFcHF5Y2M3cnRaQXJOVHJIWVZZXzROanFNTXVkMC11YzVSQkFkNU5ickc1dmJKLWdNNEQ2NEhUOHlyU1VJaFlvV25zNTNic3ZWTzFlU21lNElOdFBmbw?oc=5",
+   "data": "2026-11-26T16:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1rojcn2",
    "titulo": "Ajuste fiscal, Previdência, tarifas, bets, IA: o que Trabuco já disse sobre temas-chave da economia",
    "fonte": "Estadão",
@@ -59,6 +131,18 @@
    "cat": "Regulação",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xdh4dt",
+   "titulo": "ILFB tem maior alta entre índices de renda fixa da B3",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDh2NFo0TzQyX2NMYThHMFhOOFF6RHExTGVnLVBBbjhFMXRoaDdKNnV4UEdWZjd5SkZvZnBhU3VFQmh0Ui1kSGNrYjR0c0lVSUlNZ0hmbTNWLWVFR2VSNS0zWklXTHg5TWhMbGhpWGlpN1JObS1wRXBieDVyVk5mS2JUYldCSmJsbGptU3cxeFM?oc=5",
+   "data": "2026-11-26T15:42:28.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1339,6 +1423,18 @@
    "avisado": false
   },
   {
+   "id": "6isxf4",
+   "titulo": "Ciro Possobom deixa o comando da Volkswagen do Brasil no fim do ano",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQNWNHajdFVTFMakV5R3lPUDVQWXFiN0wxY1Eyc1JsNnZTX1RFWmhFSjNFLUkxeEN2QUdQYk82ZXB1U0ppTEJYTHhDMDZHR0M4eE9mQnMzVkJUY3NUR0gxZnVMbU9DMWZPa0VPVENoeGQ3SEhaaWFZTlg2dDB5TEh5SXZ3?oc=5",
+   "data": "2026-11-26T01:36:20.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "8ildhn",
    "titulo": "Embraer cai 4% na Bolsa com tarifa dos EUA, mas Ibovespa sobe 1,58%",
    "fonte": "TV Sim Brasil",
@@ -1757,102 +1853,6 @@
    "cat": "Mercado",
    "empresa": "Itaú",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11ajqbl",
-   "titulo": "Ciro Possobom deixa o comando da Volkswagen do Brasil com legado de proximidade e reforço da identidade nacional da marca",
-   "fonte": "Janela Publicitária",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbGp3aThNdkNvd2lMdExjNlJCZkk0UkpraFlUQm4xZkVZX3VieXZpTlJ0cmJ4VS1odVBvZzBIdDYwY1A1YlpjVDVVeUU3Y3g0ejkxUDVHMkJDRlVwcW1RS19qN3VYTUx4R09rZTF3TFlCZEpBSkE2RXpsa0E2OHBtRWNLUi14U19JVVQyRlFFelNiZHdmZ2Rzdkh6Q1lxTnpVNE9pM2Jqbzlub1hjRHBUZ3l5WnRoWWNxNE0zTHJBNzVmc1NBeC1oS3RJMDNrWGN3Y1FleHEyQzhVSG9FWHIxMGJzLVNQN1oyUm1R?oc=5",
-   "data": "2026-11-25T20:24:19.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mzg3wy",
-   "titulo": "Confira detalhes da edição limitada do DualSense inspirada em GTA VI",
-   "fonte": "Diario de Pernambuco",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMXU4VmdJS19Ta3pzaThBZGRLM1Nrc0xUaTltWC1YVUNyTEY2U280WDl1YVNGdnkzaHVSdnBCTlRHNU9EQmptNXJFQU9lT3ZIaGIzRmlBQ213RkdLckpFOTM0aXRKam1TT01BLWJpTGtBa2xYM1p5aDFpbTdDWnVTOXBwbXJlMG1CVHNfOWNvM0NlVFdsT3FMY2RrMGp5a25kOGNVb3dta20wR3EzRkZESVZLOVhRM2s5NDQxN3pPRGt4aFRPd2JzbVZlMHE1SFVh?oc=5",
-   "data": "2026-11-25T20:17:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t0mhc2",
-   "titulo": "Dólar cai e Ibovespa sobe com mercado atento a tarifas de Trump e medidas fiscais do governo Lula",
-   "fonte": "CBN",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQaHZmRFJLUTV1c0hEeS1GTmlpWEt1SzlfX2l3ZUl5LTdvODBRNGJNSUlpeEFrRF85ckFXN3RsTG9SNjh5UlhjTEU1RHlqLUZaa0RZTlJPUTVpMFJiWWlfQldBSl9SOVd6Y0dsUHlQRXdtWTNkTG9fTngyOGhxbE1mVVExWVlodHBfdWxRa05YZVZCUUxxSXpaLW84Z2dtZGU5X3dhaFo0emdXZ2xzTXIyeG9rVkg1RHdvZ0VpTTdkT1FpSVpLblJiLXBMTkVLOGxPS3A2YjNmTTg3eFBrYVNhRF9URHhKWlBm0gH3AUFVX3lxTFA0VzRqNUQ4Mld3bzRtNTFCU2JjYlVrbkZGV0dvVkY1SFA5TGVaX1Y1c2NKa09YNlJnNnBmMmZFbkh6Z2hqVU9UWDZndFIwV1ZMdnFxRks0UmN3Z0JyV24wRjhKWjVfRXNVb3AzNnQ2Tm4wQ1p0TFZYSG5lcWxzalAyeEV5amtySDU2a3FjTWdSeHZtTVdHTVh1R0RvRHdiZndaQTVQcVJlMHp5SEVob2dGZjVRTGZMODZNQnY2SnUyb1Y5eFlXc0N3MFVac05LNEtGMnpBaVNaYnFYZ1BkdUt4SFRmZDl4T01CazN4bE9kM2t1Y0pveHc?oc=5",
-   "data": "2026-11-25T20:15:29.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t9fsx4",
-   "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lnbGVYdGdvQzJMRXhRS1lsemhDTzMtZmcyRkxCTXVKWjdLVUUwa1lleE5QUlUyMS0ySS1WckI2M2VsUW5GamFIMXNJRE9VR3lKdC0yaEVOVG9qdkd2ZTFET1lZZ2ZhRm1oYzAtcks5ckRqWC1EcEtZQlhMMzRxT3BYNWJYRHRieTd0elVZd3RsbUhFV3NyZTZZRGU2X05hM0daaWxJYw?oc=5",
-   "data": "2026-11-25T20:13:33.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ik1ox3",
-   "titulo": "Caixa avalia compra do BRB em meio à crise ligada ao Banco Master",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdzk2eFpyUWhHWFU0ampOSlltMEVjZGJBakxjbjJseUNVa0VSc3JIanQ4a1I2WUNWZnVQTVM1amFhWXJTQ2VhLUM4RFBpZnNuMnUtM3pvM1NoT19Ua1BDZFA2Qzd5V0hsWjhVUnk0MHJCaC04S0dHWkx4VlZod0hvbnFOU3Q0VWRqRFVpejh0Q2cxRW1veDB5bEdobkF4dmR0Q0xsbHZKRlJCQkN5WG0tRHBzWWtrdTFjMnBnempJSkLSAcYBQVVfeXFMTzFoVzlPaG5pLXFOeGFiaElVTEJnMy02d19zX21FY1loSEZJOEk1b3drVThWVFRtNUJHaW8tVV9kblVvMWROT3EzakJ1aVlMQjl0d1BsUElGUXh3YUNsdzZjSkZhVVJmZ1hSSWZJWFVDM3BhMTZJbzZSSzBvMFpBVjlPdXd2Z20tWkhOek9ycS1odlBUcHUybjBvT3Y5VFc4U3NLNWJXWDExSmhpelhiLUhteEhnX0tvd3RlUnRpUDNQT2FTOURB?oc=5",
-   "data": "2026-11-25T20:07:37.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xpb5cy",
-   "titulo": "Panini e Rockstar trazem ao mundo real os cards colecionáveis de GTA VI",
-   "fonte": "GKPB - Geek Publicitário",
-   "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE82X2JCWDRBZkZOQU5iX2ZZTlJ0dUwzZmhvekFIQmVCZXVadG5qeVY0aFd4UUpQSTVMMUNGWXkzenFwNTRtMlBGWlJwMjZTcFk?oc=5",
-   "data": "2026-11-25T20:04:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dxzx4s",
-   "titulo": "GTA VI bate recorde no PlayStation 5 e faz história na Sony",
-   "fonte": "www.jwave.com.br",
-   "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EMGd2NzdiVFdsYlZNdVV3Mk1ZVVBsM3V0bWJnLXRIbjlBS2tLYk9YNmtodW8xYkFfV0wxVW9pZmJiTUlLM2toeEIxZm1Hb2lPaFVCUWZtSHpTUVhRS0FEdTdWLVJPNG5sbnI0?oc=5",
-   "data": "2026-11-25T19:58:23.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1oy71c0",
-   "titulo": "Vendas de consoles antes de GTA VI: semana corrigida",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRTE0Z1k0Z1Z6MEVMY2JWQ0xHUEhBRGVGaU0zZmZLdHRRUVQzcmlrNUdBWXh2czFDbUNVLW9lcGJySnBfbzRlWlo4RUotUGVhdGJnclAyaW9ldDFYMXR1QUc4TnR5MlhETVFiY1VDN3kzcXhxVnljUVJHa2lfTDI0bGJTTXpfajVKbTAtdFcyeGlwRThTNk9hSWpRYm9BM2g5T0lLcEYxQUdHWHRSWE83c25JSDVkMmpnNXY1dWJEb0I?oc=5",
-   "data": "2026-11-25T19:33:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
