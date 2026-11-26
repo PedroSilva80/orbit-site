@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T22:30:25.474Z",
+ "atualizado": "2026-11-26T23:00:34.031Z",
  "agendaCal": "2026-11-26T17:30:26.723Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,42 @@
  ],
  "itens": [
   {
+   "id": "n0qhbr",
+   "titulo": "GTA VI: como aumentar a estamina em missão secreta The Final Flush",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kU2ljcDhBMFFqcWM5RVRLenlrSUJHQUhhQi1UN0xkRnBNdFo2dFRpZk9zMkpKQTExemVLREN5THprTDBPSjJJdS1rc05sb2kzSE5sLVUyR1FBRmNaWjNoalhaRF91SmNNdmdYY0FMckdhRGszbzFsWElJbkVwUQ?oc=5",
+   "data": "2026-11-26T22:46:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dpllbf",
+   "titulo": "Criador do NVIDIA Profile Inspector lança ferramenta que reduz flicker do G-Sync em monitores OLED",
+   "fonte": "Adrenaline",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmE4WGRQWjh2Vk5tbFp1b0lHWF85U2ltclFjMG0yTlZhU0haREdKbk1kVVp2eS1naURTdnRjdWE1UG9zbFpFNDhsb2xsTExTdFFGbXZqSXl5Zkw1OTJPZE5TR05ZUWVvQTBmTXhVbG9NaWlLNVdIY3dKTnpycWhkaTlKVElEUXFlYzd3X2o4dGQ5d2Fu?oc=5",
+   "data": "2026-11-26T22:36:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bpwphu",
+   "titulo": "Ibovespa dispara 10 mil pontos e Banco do Brasil (BBAS3) sobe 12%",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeUdyQW56dUNpWFNZU0xISjBzdlk1dF9qRFFCelpKMERWeTM4WWZvYlJNQWtxZm9fcV9lV2dPQkhKY05mYjFDdkcwbTZTMHpheWJZa3BURkp4cU1xbW40VmNDQ25sbWNxUTB4eUVSTGlydFXSAXhBVV95cUxNWnFEUFpJOGFRQm1VZWlZZmJ1R2NMT0hZZnVldmM2VFo4Y3pHR0VTU25DZ0k3UG5WVzRWa3pQbkloREV3cGg5b24wN0RaNl9XSDdGbkd6M2JUYlNNQUIzRW50ZnFneFpCTFhnSTFUbEEtWDhKRVhOSnc?oc=5",
+   "data": "2026-11-26T22:31:43.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "mctqsj",
    "titulo": "Ações disparam com a expectativa de que Trabuco, do Bradesco, integre o governo",
    "fonte": "Bloomberg Línea Brasil",
@@ -83,6 +119,18 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vyqd9t",
+   "titulo": "Ibovespa dispara 6% e tem maior alta desde o 1º turno com aposta em Trabuco na Fazenda",
+   "fonte": "Exame",
+   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nTzFxSXVwWmxEZTQ4X3kzMGtkVUNzY18ybzJmZFVCbHlTT183Y2Z2SGM2MUxKYjhlYXc2UE9qcTFkeDE3RDJDR2lmdmhWdkI3OFVRMmRldG42S3U0RWU1R19jQVhfcGduNkZVSlp3?oc=5",
+   "data": "2026-11-26T21:46:16.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1805,54 +1853,6 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t3s4j6",
-   "titulo": "Dólar abre em queda e vai abaixo de R$ 5,80, com prévia da inflação e política econômica no radar",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zLVZXc0pudEp4bXg4MTR0d1h3VzREcktYSVVWVE9OSk9GQlVuQ1poNjVOLXR6UWotMk9WMkJrTzM2WXA5U29NOU5oTVpSc1NwMTViamNsaEZobmRQSEh4ODk4dEpMTTNCM0pKVGNlMDdJb3NVSE5tWdIBhwFBVV95cUxNTl9YZDMwWjdXbVJ0OFoxLTVNR3ZsU1NMdWZ1Zi1Zb0tkbk0wMUsyOGZQRkg2cDFXUzJHZE9rUVVhRjZKYWg0WDY3Q1hLdEJWSzd5ak1zcWVqc2hueWgtdW0yOEpYTXZWVHBPblBvNTZuYng5U3ltRjVDV29jZUlldTNVMndyeFE?oc=5",
-   "data": "2026-11-26T12:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "x4vq3f",
-   "titulo": "Tempo real: Ibovespa sobe forte e recupera os 172 mil pontos com IPCA-15; veja os destaques desta quinta-feira (26)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fSThLVDhWRmFMZVpGOEx2TGhrTjRqQVc4V0tReVVaeHR3cGE0Z3hNNHpTa2RVRWYwcWd1VTNCaDdMM3hyU2pLUXdfbWVfZGNsV2hCU1JrYTF4SmVKVERXVWhRVFFUNTds?oc=5",
-   "data": "2026-11-26T11:57:49.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dvk2gu",
-   "titulo": "GTA VI se torna o jogo mais vendido do ano, com 47,8 milhões de cópias",
-   "fonte": "O Estado CE",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVndGLVRzZ2ZZZm9YMGNPd3dQTVc4SmFieTJnVWUtZW9ha0NVVXlHT1lRbWRzM1lRVTFYZElxaDB4bUFGVFJvM0lRSHFhZkpYUmN6eUp6MFFiNk1iNVlubkpZTS1ZeWpGM2VJbU94U2ZKbjRxbXhlZnFNYzNBZXhaZmZrZlFPVWY0VjRjTGhKZGRnZUVFdVhQQ2d4TDNGZjN1ajQ0QlB3?oc=5",
-   "data": "2026-11-26T11:48:50.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "derovo",
-   "titulo": "Ibovespa e dólar hoje: Trabuco, ajuste fiscal e IPCA-15 no radar",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTk9nQzZybjdCTG9pRkZDbHlOYVpvZThOWEY0d0szaDNtUTNfQ09QZWVqdGhrQWJnOUoxZUpOeV9LNm9IMFpvel9wRHFWQ1lZSlBBYUIzU01IdllmVmJBUm9WRDR6TXhBeFEweV9DTGQxd3AwZkVhcXA2MTUybUd2cGVqOVlSVC1ueDYxajkxb0ZtRFA2cWlhbWxVa3B5R1I2YkZ2Y2NhaUxqRlgwQzN0SlVvbFNGcV9K?oc=5",
-   "data": "2026-11-26T11:42:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
