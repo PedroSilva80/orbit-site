@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-25T23:30:31.476Z",
+ "atualizado": "2026-11-26T00:00:32.121Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,66 @@
  ],
  "itens": [
   {
+   "id": "1nfjkj4",
+   "titulo": "GTA VI: como conseguir o tanque Rhino ainda no início do jogo",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcjRYZ2VTNHVfVWRsdlNaOEVZQkpUMWRNZlJUcFZhLWVpSGZ5U2VXRmcxcHpucUpsWVlhckNRMVhZcGhSNzFwTWhPaDlYcWdoNVFoTGhXNF9ySVpkbExQWTZGUXlLdHFVbXZ6eHdEWFF5dUZYRGJuWGwwc2ZWYjhTNQ?oc=5",
+   "data": "2026-11-25T23:48:53.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "56osdi",
+   "titulo": "Vice dos EUA diz que foi informado de que Huang não está sob investigação",
+   "fonte": "CNN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOekJhYmFTMnRKWnU4MlBmMDkxOGFSVG5iMTJWOWpESTk1RHhlcml5OFpZWGZ4dEw4Q20wX0dpeElqRzBmS0FwRlVzQWZvOUd6VnJnNll4YXZOaWFwMHZnZ1prQkc1S21maXhuYjlINzZqSnVTSlI2NEZ5QkhLN0ljLWRET3d0bmxWWFFZZk1VYU5hRzM1UFlOX2UtbFAwSzZvbW5YVDRnbEZJenpSZkZwOVhXclJaSWN1?oc=5",
+   "data": "2026-11-25T23:48:52.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "zthqep",
+   "titulo": "Aportes estrangeiros nos EUA crescem 49%, mas falha na gestão pós-aquisição compromete 68% dos negócios",
+   "fonte": "jornaltribuna.com.br",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOWGF1aWdDaUJGYWkzU1RBb1ZuY19yRERoXzg2Nk54VXd1eHlZUFFKWjJSbHJlaUVyVmZ4MkJzSVFfMDhCdDFlYkhQQkVpcXg4SDhLREsxTUl5eTR3R2lkcXJtVzlPUEd3Y2ZxTW5aX2M2RWQwUTBWMmtwRk9CT0h6bGNIUm5EcGNSQzd3X29JWUVnT1gzeHE4c2xiRTBBNFJUTnVwaC1BR3lRVkJwY1AzSUQtT0ZOTDJPVDJTWWJ2STYxNVVIdGU2RGtXbHNsdVJ4N0RteGl0dWg?oc=5",
+   "data": "2026-11-25T23:48:52.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "55msy5",
+   "titulo": "GTA VI irrita conservadores que afirmam que o jogo se tornou “woke”",
+   "fonte": "Portal UAI",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcHN5cnBZb1k0WVpKdWZEZ241NFNQX0ZWeUNlbk4zckRZRzZmcDVIWGswZ2Y3eHVHdVY4b2ZIS1p6d0NEdjRGYXlGN1NCbUFHVkVqc0lFTU00RnRpT09LclQzTUlrRURPdWh6UjhHZHliVXNwaXZKWlFLMGZ1T25ESkp6NzQ2LXRsQWRyUGtubmlpRENmSVlkMEZhdmlfX1Zo0gGmAUFVX3lxTFB6dWFNZDh4WnZBV3RGczNSdkcyYUptdFYwNWdWdzFpZmhXWTJtcDJXMXd2UjgweTVPRTFsLU5BQ3UwMzN3UUlpclMxZlVtV2lOazRnbDhncDdXQzhqYW1pQVo4UUlhVDJSZVJCck1pNnFfOEFtejFYcjJOLXVQY1pEVGtRcG9TNlp1Y1JuX0NKTHFMd20wSGJFRGFKM2o5OHotSGZwSmc?oc=5",
+   "data": "2026-11-25T23:45:18.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1wi6oan",
+   "titulo": "GTA VI chega a mais de 39 milhões de jogadores no PlayStation desde a estreia, informa a Sony",
+   "fonte": "Agora RN",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSDcyX3M0NGlvcXgtOHFCVkg2Y2hZcXdhVlNta01BVGtWM2twM05pdFVFeUZrUFo2amE3TG1IVWVYdEM1VXotcXRrbEN4Z0hkVlh3cnlkd196bEFnN2Z2cUk4allGRlJzY05DUHF6MmRsZmNNMVdGdzFVSW9nSGlLaXE0alY?oc=5",
+   "data": "2026-11-25T23:45:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
    "id": "14zrgtz",
    "titulo": "Influenciador de São Vicente vive o universo de GTA VI ao vivo em Miami durante viagem a Vice City",
    "fonte": "A Tribuna",
@@ -58,6 +118,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "jywkru",
+   "titulo": "Suzano bate recorde anual de instalação de placas de ruas e novos abrigos de ônibus em outubro",
+   "fonte": "Vanguarda Alto Tietê",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWDJFV0tRM1hVczZTOWU3aU1CM2VFZjc5OFdfdEFtMGRlV1h0d1lVd3E2bXI5ZUEwdVN3ZjIwSlNHTkRYUlNRUk51U1BvTkdtWFEwQ3pPeERtYXJqcjhZSzB1MWtOaDRwNjlGcWZmQ0VHQUpQMXR6amhyQjdEYUFKNVZrQ0c2TVJUTk9wMmVaU0g2Ni1MNEJIVW5xZ1JxSktKQjc0Wlh0ellKZDdBYS1QaUM3Rmg0QnpGYlFrbjhlTGNiclJRZm11ZQ?oc=5",
+   "data": "2026-11-25T22:36:53.000Z",
+   "cat": "Movimento",
+   "empresa": "Suzano",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -107,6 +179,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vo2pvq",
+   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGthTERRaUdjREJ6bHJiZmlVVkcwRUhQQkNuQ2V3Um1FeGFtOWVUbktCQ29FOWZaeDM0dl9SckRzQktmNEctVUhYblAwSjRVamkxdFU4ZTFxc2JWU1JSdlYwMHVvSFBkWERIV241TUxxVGRiZE1yZDNXY0hyaDFlUTlWN2FvVG00RUs3V1IzclZWNThoZDUwbG45dWNWNmN1S21vYl9kUDhFRzlFalJERUZ4R3h4Z0sweFE?oc=5",
+   "data": "2026-11-25T21:41:23.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1768,90 +1852,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "5r1a4j",
-   "titulo": "Bolsas da Ásia fecham em baixa com dúvidas sobre IA e temor de novas tarifas dos EUA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZFAxZkJvdlRmLWtoSTduWGNuaTFQUE5hM0J4R3I3V1NIdHZ0ME95U1VrNDdubURxdC1BWUZZV2VBUU5saVhoYXZxSkVVTWd5dFE4S2hWemhwWHpVWGxjY1ZFa0h4a3ZMNzdrTnpqTERhLU9IMzdQZ0J0VWg4NGRJMFNmNWVEZ2xhMVc3dmFxSlJ5aHJDQ2tQRDlRWHFnNlpCbXhBWVlPZExYbG40ZGtqbGFETXptd1JMOXNWZG94aWNpY2htLVNub1VR?oc=5",
-   "data": "2026-11-25T09:30:23.000Z",
-   "cat": "Regulação",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9u49su",
-   "titulo": "Futuro Indicativo | Trump age como imperador e reconduz suspeito à presidência da Nvidia",
-   "fonte": "Poder360",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOeXVjM2VueVU5Y0JFdUVERTcwdFN4YTdYZElDZGNMQVZNNHhrbXlqTjZuRDJ1UUNBYmswMlBja2xUUWtWZzFySTc2ZzhzcWFwVDhSaFNibnpnQTlaTmc1eFppTHFFTWJvOExtVzdHbE5KU25LQXAtQS10cmp4aUNCY25SdnNadnNRSXNsX3gwLU5aRTBTRlNfalVRcklXOTFIakZpQWlsYVpFRkczWFh5MVRra0NFdw?oc=5",
-   "data": "2026-11-25T09:01:15.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "896yc3",
-   "titulo": "Netflix: série polêmica sobre religião dispara 86% em audiência",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeW9LQUhxQzV4MWlRVGZCdGI1YVppVjkwWUJ5MTd2SUVROXFJc1c0T3dORVV1c2JKYTRONmdoQVh1MTR0cjQxcVMxYWdWZFFKV0ZmemwtektYeXVFQnkyTGdONmZOemZvNFRORmpwajQ1R2JOVmhUNlF5ZDc1b2U3TVFoWkdpMWR3SnNmeEdrNG1QOGJ6dnRfaGhsQmpOb1BkQ1JEanJST3U?oc=5",
-   "data": "2026-11-25T09:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Netflix",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tv77xb",
-   "titulo": "CEO e presidente da Anthropic venderam mais de 500 milhões em ações no dia seguinte ao IPO",
-   "fonte": "Jornal Económico",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPbGwwUmVUcHBlLUdhWXFpX0xkQ2pjdUlJQlRMbldleTRsUlVfUXRjVXNUVmlGamZPUVpZOUtvSDlsYmt5ZnlWX2VnWFJEOFBTX0laZ0dqalZqdmFlYk4xVjFBVFZjOTZnX21GSy1iUjFNWFR3RTJqQ2NoTmdKXzF3YmZJQnBkb3JRU2tEN290emU0VWtSSXhfQktRSWhsTXY4THY4czVsTVNCSEVla21pbGlrMHdtWHlwWk5pVDF2WFYzYkdaQ2l3MGlTcEI?oc=5",
-   "data": "2026-11-25T09:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1jfe40t",
-   "titulo": "PlayStation afirma que GTA VI teve 39 milhões de jogadores, tornando-o o maior lançamento de sempre na plataforma",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUmNzUmxhUGhkLVBmMGlyUlNTQk5KbEQ0Q0NPNGdxWDZqUUJjUjk1SVZ1Q3JUZHNsOXRfd3NOUVFaemtIZTg1RnVIUHFRejJ6blZjN0Zvbm90anJOQXk2Q0QzUVhJR2VSQ3V6QmRkRXhsZjNPNmdoSFBOQXNBU1laUjlibmY3RVBQblBEb0RBb01FS0tpUjhYTFRtZVZhSThEeERMREM3WFNTUnR6V0E2UGRPaHFSd0lpbVBfXzlsT0p2aXpUVENEMmlhaDh4cmwxMTRCZGhUZmU3NHM0VXhUNVBvRGdYQ3QwcV9yMXRmeWt4TDg?oc=5",
-   "data": "2026-11-25T09:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dwaxr3",
-   "titulo": "GTA VI esconde portal secreto para Vice City",
-   "fonte": "MaisTecnologia",
-   "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeWVQYkkxQi1RYndlWmx4d1BIQVRfcGpCOTMxa2ZXZ09wemdPQjJDMlBhWncxQUZ4X1dqM1BoT1VBNHR1OS12bzJCUHhmcVVzVm05U2VHcnZaemNURElqMU5qWEY5dzBMU1ktYW1iazdaZ0wxOF91M1RxZVR5WDhkLVVR?oc=5",
-   "data": "2026-11-25T08:52:08.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "luxua7",
-   "titulo": "Ibovespa hoje acompanha inflação preferida do Fed e novas projeções para as contas públicas",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQczJFalltWGczRWxSOU5fUExWM2tkLXkyRU94Z0FTT1MzUFE4cEZ0ZkFUVjVCSFNDWV9tVTh1ZjI2M2pzR3BlblRtaUxPMkVxYkFjVlRyQi1zLVpEOXZSLWJfQTFfbUp1Z3ZJcUFtN010SkFZYVZVcENvXzZnVlYzSWxScy1MRUZScXR4enc5d05kUHpmd2ZoWGRoaEhLakFmR0p1THN2N0VxUFZKUGRreDlyUTAwQldFaC03NVFUNmczeU81cHdmeHpUS1NJUzVZNUd4THhxSnlLVk9oX1B3cXcxcGtBb3ZVY1oxZTJnVQ?oc=5",
-   "data": "2026-11-25T08:33:06.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
