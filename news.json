@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-26T23:00:34.031Z",
- "agendaCal": "2026-11-26T17:30:26.723Z",
+ "atualizado": "2026-11-26T23:30:26.851Z",
+ "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -50,6 +50,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1c0ekf7",
+   "titulo": "GTA VI: como conseguir o Impala dos irmãos Winchester, de Supernatural",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0d1lWdTN6eHZsMTU5SDc1Njh5UVRZUGVYdUd4eHQ4THl1dTVEcWJGQmNkeks2V2FPRmw1YXhxMFdRSFVhRGtfTDZJTGZHTGNFMTFZc2NhU2RMQmlTQTNocDVJcXJvX0RPVzFzaU00T1hNWG9HVzBqckMwbw?oc=5",
+   "data": "2026-11-26T22:57:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "n0qhbr",
    "titulo": "GTA VI: como aumentar a estamina em missão secreta The Final Flush",
@@ -696,6 +708,18 @@
    "cat": "Regulação",
    "empresa": "Ibovespa",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1946tae",
+   "titulo": "Ações da Anthropic caem abaixo do IPO e dividem analistas da Hedgeye",
+   "fonte": "Acionista.com.br",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0Wk0zMG9lYzdjSDNOZ2Y3WUVZY29wUV9VRzNWbE03cUhjYXY3VDlrQ21UNkF5NVFZT1JNNW5PTTRiT2lBU05menM2dF8zYUptakhqVU4wazVvNGNSbXBKd296YjFnMEhkOUNQT0I1YnM5Njg?oc=5",
+   "data": "2026-11-26T17:20:19.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1829,30 +1853,6 @@
    "cat": "Risco grave",
    "empresa": "",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15d7bi8",
-   "titulo": "Grupo Fictor: o que faz a empresa que tentou comprar o Banco Master e é investigada por fraude bilionária",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRFlYZFVJMmdDeXNtazlJNHhTaTJKV3ZsbXRyRVdsbGVJemZTeHppMjNUakRkWVY1ZnZqWjJ0dTNwX0tVWFBpeUd5ZW1DVDV3Yy0ySkMxN1JMdlVyb0preVBUUFRGU21zWnJOU3BhUG9oM0VFc2s5eG5iTVlReVlOWUhCV193dnowdXJjeVdrY9IBjwFBVV95cUxNRFlYZFVJMmdDeXNtazlJNHhTaTJKV3ZsbXRyRVdsbGVJemZTeHppMjNUakRkWVY1ZnZqWjJ0dTNwX0tVWFBpeUd5ZW1DVDV3Yy0ySkMxN1JMdlVyb0preVBUUFRGU21zWnJOU3BhUG9oM0VFc2s5eG5iTVlReVlOWUhCV193dnowdXJjeVdrYw?oc=5",
-   "data": "2026-11-26T12:05:46.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "it7aww",
-   "titulo": "Justiça bloqueia R$ 4,3 bi de grupo que tentou fraudar compra do Banco Master",
-   "fonte": "bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0R2bWlMT2hYYUo3QkY1X3VrbEY3NEVMRWpIRkh4d0hlVFBCeFZMQkhDQmVzZzNPc29iejlLY2s2dmVURTgyWlBWcVp5SmtERnltVUFQWHNmb3ZVWTBkbjNOVERhb2l0ZUV4MnlYaVhzZ1pQTHlSTVRxZ2cwejEzMUVGWHFyUjgxSU1iczA1WFhraVRlMHd1ZjRRMWZfRGdGMk9fRFVnNnRwWG8wTVNpc3RIQk1zaTktcEFV?oc=5",
-   "data": "2026-11-26T12:02:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
