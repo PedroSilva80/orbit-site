@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T08:30:26.178Z",
+ "atualizado": "2026-11-26T08:51:53.227Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "183paff",
+   "titulo": "Como promessa de exames com poucas gotas de sangue virou uma das maiores fraudes do Vale do Silício?",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbVRZMW1KX1VBcXZPV3NaNDBrMHBuRWF6SFZsTDhSU0tNeG1iR1ZvNWJlc1BWY0lENkx1U2hydFc4QUdtLUI5NjBZNWY2OTRid2xvWEVxVVhfdDhNV09uV245Rk9sYThXZGlBY2lTb1UyeFhjSFg1dE56bmdZa3RKSnBxNUlOMnVoZUQtdXhKQmdSc1ZFVzExb21PX05hNlJnWHB5VVdOeUtHVG5oTi0wU2JtWU56X1Z0aGg5MFRJN3B4RG81TTFEUXFpYTF4MTdCMHYtRE5Udi1ZYWV2QWRPOF9NeTJwZ9IB6wFBVV95cUxOWWNlNG9mT3Y5SmRCb3kxbTlZdU5OSlF5bmhNRFpHSXFGNlZUQjBFVVpwN01xWG0xZDE3RG1ZVXViai03WjFrQ09jZkdFaWRDSEVfUE96bUR6dy1OdU1ZQTNLNW5Oa1ZIVlpJVnJVNXFlZjc0dmxzWV91OXdCUzNhR3R5ak1ZQVVrS0Uyb3laLXRKOFJRYW5adGdERHRmdTdHX25qMkMtaGF2czJrQ3NYVi13dGZJNFBzTjQ4UnVSN0xZMXBGaXlHbXA3S1d0Tk5WOU9iaXpYOW03SjlMVkhmQXFwRWRjRFZwM09R?oc=5",
+   "data": "2026-11-26T08:30:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "pm7ll2",
+   "titulo": "Helton Simões Gomes: Jogo mais rentável da história, GTA VI esnobou IA: 'tudo foi feito à mão'",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2E3T0dFRjFkSkxLM2xIY2pIXzdncTgwQlJlNFFWRjhtajNkSVJYNnNsMmlYWXhSeWFsTWF4MVR0T2pGdXU3RG1xNEt5UHdWRGdXUlp5QkR3NkdXTzdqVkVOYXg3OGxHaUZDY2wxejNqeS1fVm92c1pkb0lUUTZma3NsQU1DYWJHVkxPSU5qTFdQazdQc3p5eExSREhmRmFuY05sSHRNN2lwcGl6dkU5ZzktMmRxbDJ4bGRxLWdRVmVLb0RJN0hIR2tjcnB6SWZlOUVoN3UwMA?oc=5",
+   "data": "2026-11-26T08:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "112jxx",
+   "titulo": "'Anflopic'? As lições ao mercado de IA com tombo após IPO histórico",
+   "fonte": "UOL",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV01kUUpRX3BsZlp3MzJyeG9yRUx5OEFMTUdZR0p0R1VBV2xPdmtMZXhhMVZVVmJNeDVyRkh3RnN3d3M0b3lPcjBFV1JySGJTaV8wUGhLYURROExrTGxBZVhBV3YxdXlMNEhKNGlzdHpVMzZXdWdiWHMxQjJ2aEVPQk8wd0VYZGpub1ZPZXVteFBLbFc5S0dpalZDcHV1Q3BCN3lrS3pXNjJjeGFfZGtEeWFrbExiNUdNZWZMM1J4QQ?oc=5",
+   "data": "2026-11-26T08:30:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14d6qdc",
+   "titulo": "Braskem salta 12% na B3 e 25,5% em NY após notícia sobre acordo com credores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
+   "data": "2026-11-26T08:11:27.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "fv6cfz",
    "titulo": "GTA 6 – Rockstar explica porque é que não dá para repetir missões (e a culpa é das vossas escolhas)",
@@ -1795,54 +1843,6 @@
    "cat": "Resultado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "veypbc",
-   "titulo": "Ações da dona do Claude caem 15,7% após estreia na Nasdaq e e gestores recomendam cautela",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWUQyTUVlbl9TbzdtXzZENHAzWDVxOGZBRHFOV2ZISUVaTTVTbEhlcS1aMlZ0Z2R3Mm04WEE3WlQxVlRmMXFUaFczZVY4Zy1kUUV1UXFGRmdqRjVDOEgzLUM2UElfN0JqdldkQV9KUW1rWlAydXpLVDBUclQtXzhkUWRFRW9md250MHpWWG5WaGd2bGJFN1FWOFQ3VGdZaXhHN3ZQQV9aclRwZzlVbUZpaFhTeFByTlpaNlFORWwzcw?oc=5",
-   "data": "2026-11-25T13:02:47.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "1tahf5t",
-   "titulo": "Lançamento de GTA VI bate recorde de R$ 22,20 bilhões",
-   "fonte": "SempreUpdate",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50Zl9Nb29OaGdWNjJvNkQ5OWs0cVZvOW5YckdfOWI1VXhiR094c2ZhWlI4NUNEUHE3N0dSX2dkcUlfWXdFamxwQXJYZkV0dE1YZXhNTTdZZDJnZUZVN3p2S3ZRUDlJUUpGS1Y4S2lCcVRtQ1c3WExqbw?oc=5",
-   "data": "2026-11-25T13:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-25T12:56:33.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1qkr5un",
-   "titulo": "Ibovespa Futuro cai a 165 mil pontos com fiscal e inflação no radar",
-   "fonte": "ISTOÉ DINHEIRO",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9paW5uMDBvNTdTUE53bjBwcHNWUmF6VV8tVFExVVAxNV9wR1hveHNjVWU4aHVtMDJBV3JQWE1oVXFZUWF3cGFUX1VjV3o3WDZLZU5GWHE2b25jVTFORlNEUlNyY3Z5ejV2OUVLcHM4WS1YX0RYX1ZnTXRB?oc=5",
-   "data": "2026-11-25T12:53:32.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
