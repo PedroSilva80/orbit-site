@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T03:00:31.983Z",
+ "atualizado": "2026-11-26T03:30:33.050Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1hqjl1m",
+   "titulo": "Contrato 'Caracu': MP junto ao TCU pede investigação sobre renovação de aluguéis do Banco do Brasil",
+   "fonte": "PlatôBR",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaWFHcDBPak5LX0Rlak0yR19sN2NGS2VKTi1IQzY1NDVhb3YzNzM1RjZQRVlMcHN2N1R6RXd0QTZXZzdiU1J5OURBSVZydHUwZlJrN3lWR1BHTW1MYjJwYkRYcGlIb2UwbUh2dU44b2EyS25falVLUnVlS2xnMkJPRkZRRFo0YTdkRmZPblNXVi16WFUySDl4LU50RzYwRlRrTjlFemxhMnI1Zmh2ZjdNSmpUbzFMLUV4QUpF?oc=5",
+   "data": "2026-11-26T03:03:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "aflay5",
    "titulo": "CEO da Coinbase sobre os IPOs da Anthropic e da SpaceX: quem realmente lucrou?",
@@ -1832,18 +1844,6 @@
    "cat": "Movimento",
    "empresa": "Nvidia",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1s0vhy8",
-   "titulo": "Rockstar revela inspirações reais de Jason, protagonista de GTA 6",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTldsdkZiQjFlZzh1MF9DVl9Cbzlic250eTBjZGFnVlN6eDFqX3QzTXRaMnY1Q1k2TFoxOC1Bclc1X1UtU0NhYTRnNjNrWUc1ZGRZOUdqem9GbWVwV09IcE16MzBFa3dGQkZjQ1BlQ2VWM2NYUk1nc0FYNGNWUUVVdTNCblhGZzA4S2dyMzNvbm5FaExNSnhheHM5UzVSUmdxQnpLMWJNTElRZnpJUDhiNTljWHdyQQ?oc=5",
-   "data": "2026-11-25T11:44:31.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
