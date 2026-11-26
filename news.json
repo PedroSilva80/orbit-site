@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T08:51:53.227Z",
+ "atualizado": "2026-11-26T09:00:28.849Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "jqb9o2",
+   "titulo": "Executivo de divisão de trilhos renuncia e responsável por operações de rodovias vai acumular função Motiva (MOTV3)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOTWcyaWRKb2NKRzlwVi1BRzV6SGw0WGlXQmFNeXFuRWFENGlEeVVPaGlpRVlyZ3FBZ2NvQnRCU0d5VHo5REk5TDA3VjJiTDQycEc4azFTcDA0eS1vbnhzRTRWTTlQeHRibm5IRnlmQzhXWGRTNU42b1AzeHJWdUt5QUdmM29ydHd0QW45V1BVdzkyaXhocU1naWQ0NGRtZzBFQ25PekxDN3lxcjZqWlpSeUF4UVl0M1QtaVU2VkZCU180QU9FcGVCLXllUXJXRi1lYmJUeTZ6QzFSbVFQZGRtYlRITQ?oc=5",
+   "data": "2026-11-26T08:55:00.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 7,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "183paff",
    "titulo": "Como promessa de exames com poucas gotas de sangue virou uma das maiores fraudes do Vale do Silício?",
@@ -603,6 +615,18 @@
    "data": "2026-11-25T21:30:21.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "4j1zfu",
+   "titulo": "GTA VI impulsiona consumo musical e álbum cresce 374%",
+   "fonte": "djsound.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9xeGxoTDJTZ2oySkNjQVYzUHF3V3BnVmo4elFpc1RkYlhhN2pyUktMaWFSbktWQV9aRVJEdUZRcV8wVFNuZ0E?oc=5",
+   "data": "2026-11-25T21:29:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1819,30 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "lwtl3w",
-   "titulo": "Itaú BBA vê 50% de risco de recessão em 2027, mas mantém cenário positivo",
-   "fonte": "UOL Economia",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMmdfWFF6SVRZS3FScjM1cEI4am5hVG5nNzJoTERNQTF3MmZMOGtPMFNNWlhheVkxWHp2cmJGZE1vSW9HUE5MR2FRelVMLXJOVF9MQjF1cnJPeVhjSW04akpqY3FNaGdKc2o0UFYwQzZheUR2UFFRODBUMFBXT0ZGTDk5TXc4aDY4RHRqZDhKVUhNMVZIXzVpNjVMcmtEU2xWcElQQUdJWDJDS0Z1Y1lxUW5pOHBEZW02cVJIX3diRFdwZXlsajliRg?oc=5",
-   "data": "2026-11-25T13:17:47.000Z",
-   "cat": "Mercado",
-   "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "170dcuz",
-   "titulo": "A varejista de moda online Shein corta custos – lucro trimestral volta a subir",
-   "fonte": "FashionNetwork Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVjd0eFFEdkxTdG1QZl90LWRRbzZoUkw1OTV1MmlQYXo3REd6VXQtNmRld1VXelVJbjRtZzBTV0N6dGI5LTNOcmlZNkxyNGM5WDlrZk1FRGVvVEIzSWx0cHNLVFBlaEVGLVlWTjY4WFlhSmFKYWZsTzIyUHNFdnNLVUV4RVZGUTYybzJFS1lKNVAyd0FXbDNLaXpHVlZkSGRLeXJGc1B1dWlsYjM1aTQxd3pSVldXRlltVXBwNmNXM0lPQQ?oc=5",
-   "data": "2026-11-25T13:03:37.000Z",
-   "cat": "Resultado",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
