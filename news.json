@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T00:30:25.794Z",
+ "atualizado": "2026-11-26T01:00:33.110Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -49,6 +49,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "f5aa04",
+   "titulo": "GTA VI: saiba como encontrar o Hulk Vermelho e entenda sua curiosa origem",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DUkpmcDhaYzRZWTF0UGV1Zzl1ejNBXzBFcDRCQnpuZlg1OEhaWlBXOEFQUGxELUJBckhxTzVlazl3MVpha1FSd0hJbnU0c1FTbkN5UG5sR09VNFdnTGUzVzl0bkoxQk1hemNSeS1UUEUzaEFnUFRtMVZ5WXlybWs?oc=5",
+   "data": "2026-11-26T00:42:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "lgljop",
    "titulo": "GTA VI: como melhorar o relacionamento entre Jason e Lucia",
@@ -1026,6 +1038,18 @@
    "avisado": false
   },
   {
+   "id": "1p009gb",
+   "titulo": "Prejuízo de US$ 115 milhões faz dona de GTA VI pensar duas vezes antes de levar franquia ao cinema",
+   "fonte": "BPMoney",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVm1Gbm9sWWR5TDUzY3dMLUVJcXRmY0lqa0NUNTBuVHlmUTVRREtnSzFuVmk3VGtvN185a0Z1Q2dhQTdJbjFYOHRIOWl1Tm01elJ5U3R2MzFXdzRNTFI5bk1zNFVZVzVWTGZXaXhiV1VqbHJfdE44amVwYWV2bG5XNUpibXc1UE00OUNQVXZWaW5QOXJrYm5FWEpn?oc=5",
+   "data": "2026-11-25T15:04:18.000Z",
+   "cat": "Resultado",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "6ikgts",
    "titulo": "Governo reduz bloqueio de gastos, mas eleva previsão de rombo nas contas públicas",
    "fonte": "Tribuna da Internet",
@@ -1828,30 +1852,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nkl17j",
-   "titulo": "As ações da empresa de IA Anthropic caem abaixo do preço do IPO.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBYTWlrekN4dVY0UTN1OFNpTThsbHRicTFlSnJvR0NaX1RWRlgwYmgtU1RDelo4OWpZRDFiVlpnaDBlWjVjbjh5S29fbzJ2OGRTdnBBTjF2S3ROTnRoNGVjS01Nci1KT0k0cEpNaUVJQ3ROZmprTWRWYQ?oc=5",
-   "data": "2026-11-25T10:44:35.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12usp2j",
-   "titulo": "Basf aposta em R 97 bilhões em vendas futuras para viabilizar abertura de capital da divisão agrícola",
-   "fonte": "MT HOJE",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNc20xRW1xdzJBZDB1c000VDIwd0tzZUprV2VBcS04eG5hVjNQY0d1X19MRG5zSVloaUZyNTJ1ME9yWW1jM2RsUlc4MERLMGFCWG14SjFJdTk0eWlQbUZZRV9LR09vQUhNVDB6YXZwOGlIQW5Scjd5eGhwZmhWTVB2cFkyTFd4ODc3OW0xcWFlSWI2VWQzNUpfcHBrVl83ek9VRHpldTJCQXhMQUtGUm05VWNzSGUzVjNENVlXZms1ZV9RN2RtbEhVYXRxRkw2QVplYm5DV1ItbjJkYnhC?oc=5",
-   "data": "2026-11-25T10:41:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
