@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-26T10:30:28.040Z",
- "agendaCal": "2026-11-26T05:00:29.697Z",
+ "atualizado": "2026-11-26T11:00:34.893Z",
+ "agendaCal": "2026-11-26T11:00:34.893Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -50,6 +50,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "17hyne0",
+   "titulo": "Inflação oficial, nomes para o Ministério da Fazenda, dólar, Ibovespa, mais agenda e pílulas da economia 26.11",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxORElYUzJvOUhjRTFrN3dmQUYzeTFaLVZQZnNyYmU2UGpyNW9Cei1DM3I1ZE9Gb18wdzJEV3ZUMGpDcEF2RlFja2J1VVA1OG1xeXlNeXlvS1ZrY1Q1SmZvSEVCTlpzNDYtdnNsZDJOcGJCc2hJc25Ha3BlN2c0YU13cl9ST1UzeTM1ZHFNRHZEY3MyQ2hKaUY4QUcxTFVlQU91c1JJSl9HR3FOWWNiZlpQajFrdXBicDlraDg5M3JPbDNYcTdsWE9WTEhkWlZsUGJIQ2laQWJxSzlxYmpFbFpvVTNtZGZkb29mdHNLTy1ybndPSXNLdV9sU29HR1A0TURpY1dZVlAzc3FFWVpQSG9wejZnN2FlelhFSWZDUmZGeEt5c0ZMTjdxQTV5NVhKX0RieFRF?oc=5",
+   "data": "2026-11-26T10:56:51.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "j345lb",
+   "titulo": "Rockstar explica por que motivo adicionou o perfil criminal a GTA 6",
+   "fonte": "IGN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0NFaVJLbzBNUzkzbU9lTUtEbjlCUmNVbXdsV0NWRGdibmRxcm1YSGlrc1hxeUNnNEpYeEtZOC13ZEdCcXFLVktWSzBCV1RmQ0psUkNDb0FFSkR6ZVhmUUg5UHMtVVdYV05MSllPSVNxTnNKRmdFMUs3NzREdmpNcjRDcGFfdkQzQkNXLXc4aTM0MnVncjdFY0M0NGJQZTI4NkhWbTFya3U0TmdCZW1YT0NCaw?oc=5",
+   "data": "2026-11-26T10:48:45.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "6pqhgf",
    "titulo": "GTA VI: personagens femininas têm 'bumbum harmonizado'? Curvas do jogo chamam atenção",
@@ -1829,30 +1853,6 @@
    "cat": "IPO",
    "empresa": "",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rifc3w",
-   "titulo": "Sua missão principal em 'GTA VI' é ter um relacionamento amoroso saudável; e isso está irritando muitos jogadores",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOLWlNQUdHRXZnRUlxaTlxY3UtZVE4UzYweTZVaG84Z3N5LTRxeFZJRHNZMFZzZl9IbXhZOHNrV0N4c1oyUWZpNVZnMWZSbWlqQ0J4d2dXNjRrQmhWSWNFOWFKVVBzMWVmeU5HWlJLOEpZcGxaMTVhc25SbGpoUnlsX3pSLVE4a3JIcWV6Q2JWXzdLSFZqSTdPVVRid2Y4MGZFZDVJODdudlgxeFR3RXBiRnhGTHZtZ1FOc2ZMdHpUSlNOWE5TdzIwTVBsM1pjMGVFTndMVXdwRm1idTBIalhSWnN0Z0l4empqZ0t0UUNfN0ZPdnkxU0twYW13VlQza21jRE1sVVZmNkNrcThuSW5hdkRiUm8ybXI0X3o4dW14X2ExUXJ4YmwwZE9n?oc=5",
-   "data": "2026-11-25T14:14:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rsv3sf",
-   "titulo": "Guerra dos ports de GTA 6 explode enquanto Take-Two derruba 3 mil repositórios",
-   "fonte": "gamepad.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDSEVvQnVYRjBkdi1SRWUzYUplSEN3bHNFS2xkMDBiZDBxdUl6LWtBaERRZXEzcldYd0sxYWNVTV9GS1RXcnc?oc=5",
-   "data": "2026-11-25T14:10:26.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
