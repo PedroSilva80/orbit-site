@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T05:00:29.697Z",
+ "atualizado": "2026-11-26T06:30:27.200Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "17pymp1",
+   "titulo": "Kioxia dispara 14% após parceria com Nvidia e ações de chips se recuperam",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGVHZ18zQ2dFbnZBa1NKT1RvUHpNT040U0txWFpvNVZ2aFdmZXJsUGUtalRxZ180S19ZV3JrbFhDVEtXeGdUNnFtTGJlWFZLZDFzLTV2d09XWWQxS2IwR1N5ZE1LVlFlbldsT2xabEY1N1d1d291elpPV1c1VU1BWDN0ZjB1TEt4cFR1MEF1dEttWFZlT1JQa0JDSVE4a3pvNWxhUDMzNHhQYkxMaHRjallqcjNJMTdMYm94T1R4MU81NkZhZmVj?oc=5",
+   "data": "2026-11-26T05:58:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1hqjl1m",
    "titulo": "Contrato 'Caracu': MP junto ao TCU pede investigação sobre renovação de aluguéis do Banco do Brasil",
@@ -206,6 +218,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1j24ic9",
+   "titulo": "Petróleo e gás: produção recorde mas exploração em ritmo lento",
+   "fonte": "Monitor Mercantil",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY2FGeEhuRzBTbGFqb0RraGtHX2I5c0xjcXdBWHNlU3d5QzBtc2VpZU1DczVueVRBUVB6N2hoQUFBdENFSzNFZHJGZTJCY0hiRWZQUFNTeWFvOEJONk01UmtsNjdDeUp0RFJzYnpqRkxjSFlCLXNWWnhvNWFFdV96SkpYU3hlb1kxZ21yWnFVaHZyZU9TeE5DNktR?oc=5",
+   "data": "2026-11-26T00:12:00.000Z",
+   "cat": "Mercado",
+   "empresa": "",
+   "score": 4,
    "marco": false,
    "avisado": false
   },
@@ -1818,30 +1842,6 @@
    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtaknSAYcBQVVfeXFMTVFtUGotQkMxNmx6YXo3Z2Y0dzBoOS1BN3hIQVVlbDQ5blhLZzZ2MXlVT1NXbEtYTWM5MkxYMTVCaW5YQWRaZG12UG1QOHRkeEp2bUQ4TVVzXzMzNXVRSXZkcnBjdXBhY2ZBYzFqNkxNTWp2TUtQdmhzQkFsOGdmSUg3djAybWpJ?oc=5",
    "data": "2026-11-25T12:00:33.000Z",
    "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1x04hlv",
-   "titulo": "Dólar passa a cair, com novas tarifas de Trump e medidas econômicas de Lula no radar; Ibovespa sobe",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VSmdsNU51NWlvZS03eDR4U3FpZW4yV0VIMXZ4bWctcFc0N2dmcHJzMDdkN0FET1M2dUM2dFlRaVR5MG5sd3c5SURZcU0xRWkzdkdIVDN2MHVTUGZ3VGo5UXdkVk5kVXJFWUNCcDRWcU9uNjgyT191TdIBhwFBVV95cUxNUW1Qai1CQzE2bHphejdnZjR3MGg5LUE3eEhBVWVsNDluWEtnNnYxeVVPU1dsS1hNYzkyTFgxNUJpblhBZFpkbXZQbVA4dGR4SnZtRDhNVXNfMzM1dVFJdmRycGN1cGFjZkFjMWo2TE1NanZNS1B2aHNCQWw4Z2ZJSDd2MDJtakk?oc=5",
-   "data": "2026-11-25T12:00:33.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "kqdet5",
-   "titulo": "Balanço 2023-2026: Política estadual fortalece mapa do queijo artesanal mineiro, com reconhecimento do Mucuri e do Jequitinhonha",
-   "fonte": "Agência Minas",
-   "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNdmlBd2RGeVhzaGlkUmNXMFRsU3g1X2ZEVkhPYWp0Q2tEeE1DMDVfTXhmUGd6NnYxdWJMTGZMQWJLbjIwR1hwM3NlZHFpTUZHMmtiYTZqNG9icV9mSEZSTmh0alNGODVUVThsVUo2ellUaFNObVUxOEkwMWc4Yjk2SFFSdnpNVm5JdVdXNmxkMHZYQ0xiY3VsT2xlU1BTWjBSUWJzY2hUMjhRUnFRUGxVX181ck9ycGhjbUM2dE5OLUxjYWhnWXFIbmNsYm43am1YV1FPbHBTblRWWWZsNXZ3UGNpNDZsWEItVUFScEtPT2tYaGdmTElWZ2xjYWVnQQ?oc=5",
-   "data": "2026-11-25T12:00:00.000Z",
-   "cat": "Resultado",
    "empresa": "",
    "score": 4,
    "marco": false,
