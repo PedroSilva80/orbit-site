@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T03:30:33.050Z",
+ "atualizado": "2026-11-26T04:30:26.489Z",
  "agendaCal": "2026-11-25T22:30:32.696Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
    "cat": "Risco grave",
    "empresa": "Banco do Brasil",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "nugrue",
+   "titulo": "Governo Trump considerou usar lei da Guerra Fria para restabelecer Jensen Huang na Nvidia",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOU0FYZ29WS1JTdXJkYUFGZTFQWlFGdjBNdTFHTm5TZ3JWOXNDM2hYR1ZIelg0ZGM5TEJia001cTdkX0x1NGRxcFIxekxFcXJ1RExrcHRUNmQtdjFJWTNJalFLTmhzX2dvQ0NEb0JYcWZDSEpyMHg4QU54RnVXVDZNMko3d0I5M0tScEpKaVJycDhwRHFjcWphSmNxeWR0WW0wTlphdUNkZWpOU3ZsZlg3bGVmNDRUeVRIeS1IQTdHWUtGVmR5VkxxdnI5Y1hwWDBka2hlQzdHcERzMkp4cXc?oc=5",
+   "data": "2026-11-26T02:52:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Nvidia",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "lbnfl3",
+   "titulo": "Amante de ex-CEO da Nvidia manteve contato com serviço de espionagem chinês",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWpNTGRnRFJSR3h4V24wZ3NNeU56bVNjM0VkWEdkdUt5NF8wbENiVUtLS1RiODNzcDlad0NVZTRSMzdrMVFkLTN4d0l6UVFDUUE2TkpIcmxVWFB1anNTZ29JTkZnRkJZNVhla1UweGVzbDFSeXduS09ISi1YTlBEbFBQRG5Ub0hhNFZkcjJmMVN0eFo2bjVBYXRVUXBXOTZmNlR4X0hHRng3cHpFMXg3Sjh1WGd5eTdlWlVyNEtHMDQ4WUxTR0Q3Nw?oc=5",
+   "data": "2026-11-26T02:41:08.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1820,30 +1844,6 @@
    "cat": "Resultado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ozqdfr",
-   "titulo": "Rockstar hesita em transformar GTA VI em adaptação de cinema",
-   "fonte": "www.n3news.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeWY4UTVCWEtwdTdJODZzbWZiQlNVZEdHZkFvMVZOd2NHRmZMMVdFZENRMzJfMV9aTlFHYTUzMUpndFgxbEFYSjh5SXhrVnJWcEFNdlJPZ25pTllWZ3RXMFQ1OWVZUm8yMEhDNXBGbXhnbFJqSnRiNHVEeUlTMUJzQTllUU9lTHk3eGZpOUt1OWRkS3BBS2hrZGxn?oc=5",
-   "data": "2026-11-25T11:57:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l57x9z",
-   "titulo": "Por que as ações da Nvidia, AMD e Intel despencam novamente hoje",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE85akotQVdGSmJibllmUFdLUEdvZC1uVUxvcW4zR0wwbTltUllpcFB5Zm1zTWY2MTBqZHBDX2wxVEtJb0s4WWNobEI2b05YT2NORUVkS25GN0puU3JQVzgyaVVMMkRTT2c?oc=5",
-   "data": "2026-11-25T11:49:57.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
