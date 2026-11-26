@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T09:30:27.559Z",
+ "atualizado": "2026-11-26T10:00:32.371Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -12,7 +12,8 @@
   "dig|2026-11-22": 1795341630768,
   "dig|2026-11-23": 1795428029253,
   "dig|2026-11-24": 1795514432234,
-  "dig|2026-11-25": 1795600834137
+  "dig|2026-11-25": 1795600834137,
+  "dig|2026-11-26": 1795687232371
  },
  "agenda": [
   {
@@ -49,6 +50,31 @@
   }
  ],
  "itens": [
+  {
+   "id": "xnqlhe",
+   "titulo": "Petrobras prevê retirar do mar 27 plataformas de petróleo até 2031",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORjhXSmJjNl9CcW9IRS1GRUl5ZUdkMVRXTkEzUWo5TkZsclNscU9NZlVXLTJKLVBGNllGZ0FZQXo3Vk9tRzM0NS1IdlNqVzJfUFlHOTR4a2xOVWpCX3lMaUZRQzNkdXVjNkdWWkpPRzhHSkU4S0dwWEZ1T043OWhBTUlxNVZYZVZVNEtFc3k2MmROQ3dFTGVlZl9jTG53VUpKTnNhNQ?oc=5",
+   "data": "2026-11-26T09:48:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7pzb91",
+   "titulo": "Investigação aponta meta do PCC de obter contratos públicos",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejJsOGRQQUk0ZWFmVnE5YmlDWGdvQVVnVWozZUtNTEpvZWtwcnpvS2w2MHphVDNNUjNUbUJrOTBMbHhzTlZHc0lES1F6bm1pR3lFa1hiLV9zSmdpUUt6SWdBWnhrMWt5UXA2bk1qZ3lSWV8wU2M5RlJ2V3h0X3hzTHlrOTI0S2hpNVZHX2tZLUJWT2dqVEk0OTFn?oc=5",
+   "data": "2026-11-26T09:38:22.000Z",
+   "cat": "Risco grave",
+   "empresa": "Meta",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795687232371
+  },
   {
    "id": "1men8fx",
    "titulo": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)",
@@ -1828,31 +1854,6 @@
    "score": 5,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "w5hsl9",
-   "titulo": "Blackstone e Apollo podem bancar compra da Global Payments",
-   "fonte": "Let's Money",
-   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQd2g1WW04cXBJcHBhdFhfUGh1SGpqdjI3cG1tZlJGRHRFU1hjSUZYamg4MS1oM21zQUxGQXZqeFgtT1hwTmJTV19QUVlIY2VJVE5zcGg1RkRNR0lCYS1MVWg4TVhqcEZZbG0tU3E4b1puSTFZQmotMnNSYUpWRThjMjJaSTk3ZnZndkE?oc=5",
-   "data": "2026-11-25T13:41:04.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1p1ujg0",
-   "titulo": "Após proposta tarifária dos EUA, papéis da Embraer despencam no Ibovespa",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUjJ2VnhHeFRpMHV1SVFVVTBBSmFLUnhKUUczTDNsS25QRFltS0E0OEtnOUt0cEt4aDBwM3gzb3RuT01jYUxzSmQwY2lGRUxBRXRKVjhTYzNRSS1rcFZsZEN6Y2lFWllFMWZCendJZGFvZVFtX3FJVHlNTzZJbjVRNEE3dHZhcmlFaTJreFZkNmpnLTExUzFTY215V0NsbkxBaGEzNmFIckYwTDhBSGd3d21UWHBIWHhsUVRHQ25mVWU0UQ?oc=5",
-   "data": "2026-11-25T13:34:05.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795617026227
   }
  ]
 }
