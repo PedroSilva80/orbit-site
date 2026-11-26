@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T07:30:25.775Z",
+ "atualizado": "2026-11-26T08:00:34.278Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1emtqby",
+   "titulo": "Sem Wall Street, Ibovespa hoje fica mais sensível a notícias de Brasília e prévia da inflação",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPR1IzLXprZWFZeXFXZTdXUktwckQ4OHQyZjY5TURreHV2REJBbExQSEdIczg5ZGhjU2c2RGkzb0NWNFBwaGllaE5wVjV5enFzaktzdFBCWFR3bkphckZMNkFOLXhYUTlUZ21zRndyMkVrMDdIUDc4TnJNRnNJZ1ZpcVNlMktBZ2JHTUlmUllLSTItV3ltSW5jMnF2SzZvcHdlUnBBay0tWWtadHVMcjRYSVNNNVdNRUJvYnJtSzJNekJIelZWc2NzN0VQZ1p2WXc4Tl85T2tpZV96ZXNlbXBKS2VZWklZMHlmLXdhcDBCb2Q?oc=5",
+   "data": "2026-11-26T07:33:02.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "j41fy5",
    "titulo": "Marca japonesa lança mini PCs compactos com processadores AMD Ryzen e até 64GB de RAM",
@@ -680,6 +692,18 @@
    "avisado": false
   },
   {
+   "id": "t9fsx4",
+   "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
+   "fonte": "Rádio Geek",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lnbGVYdGdvQzJMRXhRS1lsemhDTzMtZmcyRkxCTXVKWjdLVUUwa1lleE5QUlUyMS0ySS1WckI2M2VsUW5GamFIMXNJRE9VR3lKdC0yaEVOVG9qdkd2ZTFET1lZZ2ZhRm1oYzAtcks5ckRqWC1EcEtZQlhMMzRxT3BYNWJYRHRieTd0elVZd3RsbUhFV3NyZTZZRGU2X05hM0daaWxJYw?oc=5",
+   "data": "2026-11-25T20:13:33.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1xpb5cy",
    "titulo": "Panini e Rockstar trazem ao mundo real os cards colecionáveis de GTA VI",
    "fonte": "GKPB - Geek Publicitário",
@@ -1158,6 +1182,18 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dbmxf0",
+   "titulo": "Ações da Dell acompanham queda de Nvidia, AMD e Intel apesar de demanda recorde",
+   "fonte": "BeInCrypto",
+   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVnB2RW9jSm5aZ1VxUnlIRzdTc0x0YjhiZEx4V25OU1F6TWJDT091cTR3WUJpTkQxUGdEdzlsSDVsaWNhOUttc2JqeVExS1VaaDlhRGhlQjM3N0dsbnFyX3FCa2ZBSEpFeDJURm9DT0puclJsMnc?oc=5",
+   "data": "2026-11-25T16:00:39.000Z",
+   "cat": "Movimento",
+   "empresa": "Nvidia",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1807,42 +1843,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1y1dvzs",
-   "titulo": "Rockstar derruba port não oficial de GTA 6 para PC criado por jovem de 15 anos",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYnU4bVVBTHIzbTNFUndkelI4QTUtUzJYZHVuQVhHRm04cDNuWmJrNnRVQ1ZraE8tLXlON0dKT21kam5iMlp3Tkg0ejVPNHBmVVFNYU9UcFBIRU1YNEhVQzJmTVR4ZkZoXzJfaHlPWkVLTDBIck9uTjdvYTJmUDFYaHhlZFlXbHkxblJaQ1l1MmViLTZ3MUNxR0d5QlNoaUZOeVhacnpaeFFmUlpVaDdJ?oc=5",
-   "data": "2026-11-25T12:37:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15z1ugn",
-   "titulo": "O lançamento de GTA VI prova por que grandes marcas não precisam competir por preço",
-   "fonte": "www.bra1.com.br",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcGRzVEdfa0YxdzUzUDB2bXlnM2VuYzdodVpSSmI1VksyYTNYSVFMa0tnNHpwVTBSak9iUDZLZTVOd0tPT0NKc1cyX3pOajhiUi12ZEpSeWxXYTRnYjJZS0U0Vm52UnhLeTd1THFxX3FfWHBKOV80ZmNrM21ENU5ZNmFYaWs1SDNHNHR0N0Fkd0Y1LU5UMHB1Nm1BYjRCdlVJcjFZMlg5UU1BX1licER4cXlnR0dPNldIdVVuc2JEZlZBQ3VzbS1J?oc=5",
-   "data": "2026-11-25T12:35:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w30s05",
-   "titulo": "Dólar sobe diante de piora em projeção fiscal e inflação dos EUA no radar",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-   "data": "2026-11-25T12:32:08.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
    "marco": false,
    "avisado": false
   }
