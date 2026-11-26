@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T07:00:30.546Z",
+ "atualizado": "2026-11-26T07:30:25.775Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -41,6 +41,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "j41fy5",
+   "titulo": "Marca japonesa lança mini PCs compactos com processadores AMD Ryzen e até 64GB de RAM",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTXBiT0tGQnZsR1RBYjNjMk1XeVd6OGc2RnAtYTY1R0E0X1JxdUJWajJFTjd2M2VYbWVKUGljRTBjNVplOTYzUDlwcHpSQ1BWVmRRQUpqcGNWRU40b2d0SzViRlB2NjJzX0FOZ0NFZWltLXBDTWFDN0sxTEJpUTVtbFpsMHRzS1hfbzBvbnlwWFFTWHhSOU5CVmFKbjNWYjRXVU5oYmdKZXNSYTZON1F0LWdHSEhqVnhYN0cxOVhIS3VtYUItOU9raVVoSQ?oc=5",
+   "data": "2026-11-26T07:15:37.000Z",
+   "cat": "Lançamento",
+   "empresa": "AMD",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "193eri8",
+   "titulo": "Meta finalmente lança um aplicativo nativo do Threads para iPad",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNc3Eya0lSMDVqUTVuY2xZWlBBR2dScTcya3hlbGtvWnRPb05oYXhQTGNDaEZfT3lPRlN5MkJrLU4tWnp3dGFNQnVJd1Q5cjhXaE41YTgySU5mTzdGY19LcTlEQjI2QnN6ZFJUd0ZINFYtaERIb0cyLUJ6VkVLSUU1Y0ZlaXJwcDlaOTU4WC1lb25iWHpqNWJ0d1VLWmJnMzNHb2RadmRIOEJUVjYwVVE?oc=5",
+   "data": "2026-11-26T07:15:31.000Z",
+   "cat": "Lançamento",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1equ3lf",
+   "titulo": "Versões de GTA 6 para PC já são jogáveis apesar do pedido de remoção da Take-Two no GitHub com base na DMCA",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQR09zVmFMbndCT1RxQzFveTY5QURFdkZqZU5fc1RsMmRDR0FvYnYzTnQ0Qk9IMXBmbVlyV3FGdG9DZTRFWkZMaTZFdHlUNzZVbHNuZFJHMmhsZ2dNQ0tGU0pzcUVHY01kejVvZGhha0FmRlBFeDVsQTZpa3hCS1JIbmpVUk9EblczSWRKUHdyMzVtcGVPQ3lHNF91V201V21mZXA5ZllOV2p0c2gxTFFHeGpKTU93blpUX2FDeUdqbnVFVWI1SE14Sk56ZWVZWDVybG1vQzNURmNLbjdzUDJ6bGszWHR3Tk5j?oc=5",
+   "data": "2026-11-26T07:14:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "wxa4jg",
+   "titulo": "Rockstar lança 100 consoles PS5 Pro em edição limitada de GTA 6, mas pacote no varejo é improvável",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOGluNXMzTGRfV3pZSFpteWtQaGxWZWpYZGpJZXNyRDkzUm9vbWIzQzhLbllES0NSSnVBOHZrUl9FQTZyLTdDUE9Wai0wZXBfOXJPRWZQQVVFOUpndE9VZVRQZ1VLZlNsdDVvRFN2ZU1FN0lQdktWREhpUmEyVEEydUQ3UUtfQURqS3FoTG1JVmlfUnNqUkt2V3ZyWW8xVmVTOGRxdGIyMjZwVTV4OGVPdlY2ZnhMNVJRSEltODBIY1ZVMGE3dzJvTmVOQmM1X0NBSURDdVpZdl9Va3c?oc=5",
+   "data": "2026-11-26T07:14:42.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ek70se",
+   "titulo": "“Obrigado, Jensen”: operador de opções da Nvidia obtém lucro de 1.984 % após o retorno de Huang",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV2Y4OHdpZDNSUU1QQW1XSzZtdHhFWmRGUnJBT3p0d1NpMFFOUjNDVWVsQ0x5d3lPQkdjSFN0MHQxcTdUZGpkRXpSU0p5OTA3Y3IyTkpHbVBFVExDdTJBaUJUOF9jSkN4Z1hZRS15UnJfWnRhTFZxSE1BXzBzczA5Vjk1cjFrV25iNU1yWmVDand5d3d1S0hjaFI0YTd4TzdDWXU4aWw3ay0tUGVTZjh0TkU4SWJ0a3lCUWwyWEdMM3lleWFvS2dsRDFzV1BUYW1R?oc=5",
+   "data": "2026-11-26T07:14:38.000Z",
+   "cat": "Resultado",
+   "empresa": "Nvidia",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "l02i1b",
+   "titulo": "Iberdrola obtém todas as aprovações para a aquisição da Caruna, maior distribuidora de energia elétrica da Finlândia",
+   "fonte": "Iberdrola",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQTlJMeUM4NVFFbTJ0WXEtM041NlozMHJuNXRYREVtWGFWLWVnYVBDeUE0T2F4di1IdnNJMUVDWlYxOTRHOTMtMlhyRE9BQVJBVU1Kdno5aEZUb00wOThEMnMtVDJOY2c2RFFuZ1hVR1RoOUJTY3pJNHN5ZGpCVGRHSUpkTUxwWEtmWS1xMmlwS0traUU2dEpOS3V3RkdzU2ltVkVWZHo2enU3bTBDbUllV0d2NmJDX1ZkcWJ4ZDlkcDQweGNLNDFSZG5acnZjeXlrWEQySFM3R1FPSTBYc2xObWxucHhUM3VkR2Jn?oc=5",
+   "data": "2026-11-26T07:06:51.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "42wkwv",
+   "titulo": "Carro de Jason existe na vida real? Saiba qual modelo inspirou veículo usado pelo protagonista de GTA VI; veja fotos",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPRl9xaG9XMDByQ19pSDRQaE9hU28yUUhsa0N1eWpiYUxMWDJrNmR1RkRYaFNULTlwb1Zwd2FZSEZuRWVIbjRmeFBsMFNhQ0l3QWJzXzhuOHhlaWdtNHpLZmYydTdXZlpMTXBtY1lSZWVKRk9TeGcwY3drNi1lNmh5a2JiUU5oaTdXdHVtWFkwWW9IVVAwOFk2YWxGX1l4emh4TDZvcTVuR0pyeF9Dd3lKbDRuTERobVl4NHdoa1AzdXdBU19LMTN0VXNSRGdQT0VHOW1GRVlUY3VhRER4UE9yaU91SnQ5S2syZDJ3ZTNkSVRyeTRsMkNEU3NrbXJwc0ZIaUNwN2ptVGdvb2PSAZoCQVVfeXFMTVdLV2xMUU1OYU85SUFJcmVQd1Q5NFVmT2VxaVhpZkp2SmxGX0VmNXdYRi10UUdSREJYemp4OGF0OUNlSDJ3c2tpbUJCaU9uR2VrS04xUU1DeUM5NmduR0VCZGphRS1NRUI0bWJMejcwY3JkY1VCcUY1aE1RcG0wU0U4MlJaenJPRldwbVZuamxfbGVDRENua0RqUWJyb0t1OVZhNUtid2hMUlM0bGIwb01OOWRIM24xS255VXBFUHJZdFJnMVpxZ0ItY0lKZFhwUVNldnNVQkM5Z2w5cXRQSGtPeFk2M3hFZkZxYnJCa3liQ3FrWWNxSV9MSlk3MW5KUGFNTFY0OFBUQjJRV0hEQ25kYW9fLXVMeW9n?oc=5",
+   "data": "2026-11-26T07:00:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1alaytp",
    "titulo": "Fusão SpaceX Tesla: o que diz o relato de novembro",
@@ -1759,91 +1843,6 @@
    "cat": "Mercado",
    "empresa": "",
    "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1yv379w",
-   "titulo": "Dólar recua a R$ 5,80 e Bolsa sobe com fiscal, tarifaço e inflação dos EUA",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY2VoQlJkYi1tLWtsZVV0bUVRaXRPdXh3OHB3RzBHMW1mUVdPNmN2S2RDT0ZiVk9JUlZYVUhMQWlON0NHOWpmcHNrcGZ6V0t5M2lNVkJyTV91YXBGd1JiU0dEVmZPa3R6X3ExdGZLN2VEaDhDSFJKRS13UEJUTnktSllONW5leHpkbXMxdDR3dnpiWjE3N0F3ZmVFRDU0Q2pIWktKcHV3?oc=5",
-   "data": "2026-11-25T12:32:08.000Z",
-   "cat": "Regulação",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t9fsx4",
-   "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lnbGVYdGdvQzJMRXhRS1lsemhDTzMtZmcyRkxCTXVKWjdLVUUwa1lleE5QUlUyMS0ySS1WckI2M2VsUW5GamFIMXNJRE9VR3lKdC0yaEVOVG9qdkd2ZTFET1lZZ2ZhRm1oYzAtcks5ckRqWC1EcEtZQlhMMzRxT3BYNWJYRHRieTd0elVZd3RsbUhFV3NyZTZZRGU2X05hM0daaWxJYw?oc=5",
-   "data": "2026-11-25T12:28:57.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "skiex2",
-   "titulo": "Pokémon abandona a Netflix e escolhe a Disney+: o que muda na guerra do streaming infantil",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNenF5TzJiVkp3QlFqZDg1ZndES1V3RGRLLTJzeFBiM2lrRXBPeVk0YkNUM3h4Yks5SFk2elRtZ1l6ZGxoQW5oUU5Xa21idWhzWDhpQkM1Q0RjUFBMZVdROUFDY1JXRE5YQjByZmNSUTYzb2Y3dl83VjRfSzZRbzNNZUtxNlQ2WC1KY1A1a2tiOEFQZEU?oc=5",
-   "data": "2026-11-25T12:28:57.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ur9qcz",
-   "titulo": "Dólar sobe e supera R$ 5,97; Ibovespa hoje repercute inflação preferida do Fed",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "data": "2026-11-25T12:11:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10zk25r",
-   "titulo": "Banco do Brasil nega à CVM planos de IPO de controladas e descarta vender fatia na BB Seguridade",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTko1SkhBcEhybWJHZ0JsMnQ4bnJjcGdUOXVfZVpwRl9CeVcxMUZON0tkY3lZYzVmZmdZaUhuOVVTaG81V0tXSE9Zazc3MVdEWWgtT1prSXFFb0ItNDYzSmNLUkVpUHByMjBWZnYyU25feG1iaWFsaHdSQnpfLXIwRlFOanlLS2VzYmZUcmotckxzRTdEeEtrdXlZV25YX2g4Vmc?oc=5",
-   "data": "2026-11-25T12:06:35.000Z",
-   "cat": "IPO",
-   "empresa": "Banco do Brasil",
-   "score": 10,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795629633941
-  },
-  {
-   "id": "e4jppx",
-   "titulo": "Dólar e Ibovespa hoje: moeda sobe a R$ 5,95 de olho em fiscal e inflação dos EUA",
-   "fonte": "Valor Investe",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZnR2ckV0ODY4c19UcUVDZ2hxazlSc2V1UXlHb0ticjNILXIwcEJVb1ZPcXNLSUQyWTVuYTk4Y3NCWjUxMGZxSndXQm1EdEtnRjg2b1lrSEx0OEozYWMxbTFlRU5HTDdERHBXSlBkdnhXa3l5djhNaDF6V1F3cnJaZzZwczNQaDAyV0RBaDY0TmhyZGRudFFaT3FuNlhjWnBVM05Cd1Z3VlhHYWJYMFluOC1WTXNKNkVmWU5jWDFrY2pxdThkVEZDMHcwZ0pTRDJUWGxVcldROVpuMDlVQXNTLXRjZVVLeWJ3ZkgwMndJSGgxWU3SAYICQVVfeXFMUEVPcXhLUXFFWjdoWmltSU00LWw0M01kWGdvOVE0UGpaN2E0dlJCVUtEODVfZWo2OUtvT3R5RWV4M2s1N0hZYjBCNkxJTmdrQmJTM3VGQXg3elNJRzVKend0dTl6dVhPOUZNX0JJaFBvZlJMb3ZpQ0pOTTBIaFBMUzQtU0g0U3F0YllIX2RScFQxeU1DWFBUQkhqSFdKckoxWWUyTGduOFpFYmU3WlBpYlIwQ2RUakZlNjZnY3FYN3B2LU1vRTRfT1ZuUXF6R0ZnZUx6aVFSSUlrbHdRaENHeHBLa19FbFl3aVRoV1l3dWU5bHNzejRjRXBLMFpUOVl1S09n?oc=5",
-   "data": "2026-11-25T12:00:41.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dbmxf0",
-   "titulo": "Ações da Dell acompanham queda de Nvidia, AMD e Intel apesar de demanda recorde",
-   "fonte": "BeInCrypto",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrVnB2RW9jSm5aZ1VxUnlIRzdTc0x0YjhiZEx4V25OU1F6TWJDT091cTR3WUJpTkQxUGdEdzlsSDVsaWNhOUttc2JqeVExS1VaaDlhRGhlQjM3N0dsbnFyX3FCa2ZBSEpFeDJURm9DT0puclJsMnc?oc=5",
-   "data": "2026-11-25T12:00:35.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
