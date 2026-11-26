@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T09:00:28.849Z",
+ "atualizado": "2026-11-26T09:30:27.559Z",
  "agendaCal": "2026-11-26T05:00:29.697Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -24,6 +24,14 @@
    "manchete": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil"
   },
   {
+   "data": "2026-11-26",
+   "tipo": "Indicador",
+   "empresa": "Ibovespa",
+   "origem": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fSThLVDhWRmFMZVpGOEx2TGhrTjRqQVc4V0tReVVaeHR3cGE0Z3hNNHpTa2RVRWYwcWd1VTNCaDdMM3hyU2pLUXdfbWVfZGNsV2hCU1JrYTF4SmVKVERXVWhRVFFUNTds?oc=5",
+   "manchete": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)"
+  },
+  {
    "data": "2026-11-27",
    "tipo": "Lançamento",
    "empresa": "Netflix",
@@ -41,6 +49,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1men8fx",
+   "titulo": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fSThLVDhWRmFMZVpGOEx2TGhrTjRqQVc4V0tReVVaeHR3cGE0Z3hNNHpTa2RVRWYwcWd1VTNCaDdMM3hyU2pLUXdfbWVfZGNsV2hCU1JrYTF4SmVKVERXVWhRVFFUNTds?oc=5",
+   "data": "2026-11-26T09:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "jqb9o2",
    "titulo": "Executivo de divisão de trilhos renuncia e responsável por operações de rodovias vai acumular função Motiva (MOTV3)",
@@ -122,6 +142,18 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-26T07:28:49.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1821,30 +1853,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795617026227
-  },
-  {
-   "id": "4uvxql",
-   "titulo": "Dólar passa a cair e Ibovespa sobe antes de dado de inflação preferido do Fed",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbXB5T05UWmg1TENfbl9xbUo0eWc0N1JveG9heERUb0xzekk2R0hVTDJ2bWI2YUFRN2RWazVMbTg1cm10a1phNnpqYlBLM2FHRzdJSWhmcHdLRU0yLXQzMFBCNWFna3V2LU9CRXVFTHJ0R3NLelhHTVFtSW1PYnFpd3R0TWlUS1E3RU5EZjJQZ1RGTWJqZF8xbWJGazQ0NEJveDN0X1pPR0ZVY2pJLXo3RXRjNmRQY1ZPN290b3lYNUFkVG5Vb0ZCV19GOFlwcXp0T3hnRklfYnNUZnZLNkh6dktkOGfSAeoBQVVfeXFMUDNJaFd2bVd4TFY0azl6TG1lZEw3Q1VkbFZsLWhVbk9wcy1UbmJQeXdFcnJKRUJSLWVCd3JiYlg3U2xiVHBqRkJfdldhRkpFbmpZS2lKY0ZwMk1NVFVkYnQ4QzA5VXJ3TjdiYXVGUmJ6eHRVOGRkNEFzZXp5dGVaNHhCNENzbll2RmdrXzRGdTMzU19XdDF3dUpLS29wSkdLd0I1bHdQUUFEcmVlTTJMakRnMW9nNXZOTk40M3ZGZGFRVU1IQUs3RTB0SjFQeGxrWUNzTGdRbnItbk9PNmVicER3b3pIT1Z3NTJB?oc=5",
-   "data": "2026-11-25T13:27:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rw85gy",
-   "titulo": "Take-Two e Rockstar tomam medidas contra versões não oficiais de GTA 6 para PC",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd3dJY0hUWHdWVGpldTA4bmpsLUtEQnowMi01Ulk2WXJLMWVUa3JIT1pyNHRqOUljd1dDNGxkNVdiVWNZRzZEZ0RfNTIycFFwZXYxNUI1VlpaOHNPSUdoRjNFQlp2VnRQWWVtNzZIX3FuN0FVbzRQcW9BMVJXR2trYzRfUmVad2RmaHp4MmVja2l4NU00T3V1cVZBcVByOUZsZlZnQnZHTndfenl6S2dFYmUwMzB5aDdTR1VGelZMYllGNUJQZjlNaWQ1NS1udjJrN0Y3MHlHdGpZbk54cUFtVnh4ZFB2MU1kc1dPWUdFNG1HV2ZCdkZsSy1EY0xXd0RSYXNYVk4ycWF0Z2s?oc=5",
-   "data": "2026-11-25T13:22:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
