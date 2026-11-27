@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T06:00:29.453Z",
+ "atualizado": "2026-11-27T06:30:29.616Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "ir24ci",
+   "titulo": "Netflix troca estúdio de Solo Leveling e antecipa série em dois anos, acirrando guerra dos webtoons",
+   "fonte": "radiogeekbr.com.br",
+   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnBRbkxOMGxHaVh6dUVQNnVVLVJjeERlUElFZmFicUpxV29xTXVZMjYteUZ2bzJGVE5ZVm9ld1RYZVhHaU5zWGVDX0NpNjJyODRQUTVzbjN6Vnhxd2FNdFJCRXBmQ1ZOcmEya3AzeS1hZU4tYVNzeGlyQ3NNNTRaMi15dGw?oc=5",
+   "data": "2026-11-27T06:14:02.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "w0vl8u",
    "titulo": "Dólar recua frente ao real e Ibovespa avança com desaceleração do IPCA-15 e feriado nos Estados Unidos",
@@ -1825,18 +1837,6 @@
    "cat": "IPO",
    "empresa": "",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1mvizkk",
-   "titulo": "Ibovespa dispara quase 3% na abertura com especulação sobre Trabuco na Fazenda",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWkctUTFaTXhfY3ZqZnNHZG9vVmR2QkRfWTRpM2l0R3BJRWcxM3h4RXhTd21WQ0Nna0hrTEluV3FRd1VnZmVwRzZadXROY0RWei1pQkVhMTU4WFIxQXdDX0tkbm4xaUdwMWptWS00N1dRMjgxSXpOQ3JPbUNzektnRkppc3dnaVVUSlJMNE5sbDdRb3Y0YTFDNjY1QzJMMUdrV2tMUkl3dlFTcnJWQ2FLR1M4QQ?oc=5",
-   "data": "2026-11-26T13:29:27.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
