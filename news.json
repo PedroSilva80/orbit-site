@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T02:30:26.420Z",
+ "atualizado": "2026-11-27T03:00:30.106Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -16,22 +16,6 @@
   "dig|2026-11-26": 1795687232371
  },
  "agenda": [
-  {
-   "data": "2026-11-26",
-   "tipo": "Estreia na bolsa",
-   "empresa": "Anthropic",
-   "origem": "Expressão Rondônia",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaXZpd1dVZFhhcUpiS3lGTjNTZUdmWHF1VnhNcUJFM3lnRUV1OTFYUUNUdzc5RGlqYTVIWlJJUEtyOEtDX0pGYkJBQUg3cVBJbUVpb1dHa2xaaDJuOXdINWtHVnN5NjJ1cmJBcy1pWDRvMExaRERtLVA2djBmMVJYUXZLN19MRXAtUnJtWXBSdUdUQ2l4b3hTb0xlX09XYWhYZFhvUXRTaDBHZHM4a1dLaHllTVNOSmxlbXhlY3YzdUd2TWhkamdicE5Lal9aQnZv?oc=5",
-   "manchete": "Anthropic estreia na bolsa nesta quinta; saiba quanto custa investir na criadora do Claude pelo Brasil"
-  },
-  {
-   "data": "2026-11-26",
-   "tipo": "Indicador",
-   "empresa": "Ibovespa",
-   "origem": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fSThLVDhWRmFMZVpGOEx2TGhrTjRqQVc4V0tReVVaeHR3cGE0Z3hNNHpTa2RVRWYwcWd1VTNCaDdMM3hyU2pLUXdfbWVfZGNsV2hCU1JrYTF4SmVKVERXVWhRVFFUNTds?oc=5",
-   "manchete": "Tempo real: Ibovespa será testado pelo IPCA-15 em dia de feriado nos EUA; veja os destaques desta quinta-feira (26)"
-  },
   {
    "data": "2026-11-27",
    "tipo": "Lançamento",
@@ -50,6 +34,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1gsjimo",
+   "titulo": "Jack Huynh, da AMD, afirma ter batido o recorde mundial de frequência de GPU com uma Radeon RX 9060 XT a 4,837 GHz",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjRtd1RhZ1VLakI5bUtkRFhvWWtaMVMwSUFaTEdVZXRaTjhWek9HMEdFY1RxUW83WUVEbEowODYxY0xzYXVLa0FXRkZNZnl5ZEROdlM4a1lxRFdEejd0Q0hmbHVJMG5GWVdERVJheGhLa0JsZTZqdVhOXzRZaU5PVVFFdzV5dE5TT3R6bHppT0FmNkdKcldPTFdhb1RSLXV0bUNLUTFVakRKYmNFNUpRdC1peUJVaTRVT2gwYlZiLTFOX0lOQmR2OHNseFI2SVpZQWRmUktBTUNqcUVkUXFPSGNSUk41ZWZ6Z1FYSHNfSQ?oc=5",
+   "data": "2026-11-27T02:32:05.000Z",
+   "cat": "Movimento",
+   "empresa": "AMD",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "593fxu",
    "titulo": "Bradesco registra a terceira maior taxa de juros entre os cinco maiores bancos do país",
@@ -1841,18 +1837,6 @@
    "cat": "Regulação",
    "empresa": "Ibovespa",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1yqijc7",
-   "titulo": "Ibovespa salta mais de 3% e recupera os 172 mil pontos com impulso do IPCA-15; 5 coisas para saber antes de investir hoje (26)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQaFFDR0c4OVZWT3ZXazNYWFFKUldvdGpsSHpfVWltRGZYSjg2VzJHR1BYQk5kSkJneWQ2WVRPWEFUc3h2aGw5cW05czd3Q0g0REpKOVhveVpzdDJIcmdJTUNRZUliaktNbzBpWE9YRUxjLUUxOUg1TjV5bVZ3TzU3YkdZSGpXVkkwNVNkN045eWtrREFHbU9HMVZrQU9VRUlOc3h4Yld0SXBqSkJMT3A5czBWN3RKQk1OcGlmR3dUbUgzOGs5UUFteHpjbUZreU5DdVYySV9wcWp1OVZQQU4tZUozZjBLaDVWX0pXZzhrTQ?oc=5",
-   "data": "2026-11-26T13:23:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
