@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T08:00:39.701Z",
+ "atualizado": "2026-11-27T08:30:30.528Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "qf414y",
+   "titulo": "Expectativa por Trabuco na Fazenda leva Ibovespa a disparar 6%",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUxTeGZrQlk0WHdYN0t5dTAtSmhJQU1WT3NvWm85MF84SEFwT25jb3R3V3ktNk5ySGx4VFk2UHVDLUZkWnNRN1dkWndyNFBmRnNHWWFTM0VNNmhHVGpJSHdRb2tZMzNpenFEeTZ6S1hmcW00THRrODg0NTlhUWxrbUYzcWhKdTVOM3QxaEVmVDkzUnVBRmdlckgtSXBPMzNNcXBwT2xTcWtGZHJ3bE5RNkNOMlR6QzlPYnFF0gHKAUFVX3lxTE9JRHl6TXlPVEZTeTdFdGFlRVRIV3VTbk5WdnNGRzluWVl5OEFsbERteDNYUlFXRC1fQUlIQWRyeUhCTmd0Y2hPZy1pT3g2LXh6SVhMaFFtanV0OFFwWWxNaHJYeVJsZFZkZHNLQzJadTNnN1JXeDNGb2l0SlFCNGpUblhBb0tnaFlJQjUzM2pWVXJBSXV0T2JHU29EdFRXLXBsY3kwdDVpd240bU45LW5lVk1SYmg3TlJSVFE2R2VHcFo2V2Rsekk5QUE?oc=5",
+   "data": "2026-11-27T08:00:01.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "17d85nl",
    "titulo": "Desenvolvedores da Rockstar detalham os recursos cortados de 'GTA VI'",
@@ -1827,18 +1839,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795703428818
-  },
-  {
-   "id": "1aep44p",
-   "titulo": "Ibovespa sobe mais de 3% com expectativa sobre Lula 4 e IPCA-15; apenas duas ações caem",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdDRPZkdLbm5TQ0pLUm53LV9lMDhVRjFza3NBTUM5OFJyejlrZGlPZEV6RVhrYkstVU5GQmxiN0trbkRGejBreGx5T2R1Ymp1Y2hwdGdoeXdEMjRob1h2dWpvc3RXUS1CYWJmLTBVakZoSkN1SERKMVZYMmdWUkwtR3M0M1BtRVNJU0dQV0s1bVJtVEg4TkZrVUc3bDhHeHhkSFNzYXdOTmw1OG9OY0JSdmQ5T0hjSXhWMlNhWTlwWk9NeVhJNkhfUVpva3dyNVByWVlYbDNOa3d0SnlhYl9rWmJtZ1DSAfMBQVVfeXFMT094Z0luUE9lTkRralRyd21SWXZlMU9KQ0I3TzVpVnU0cDc4SXlhdXVpYV9WSmVPZl9UczdaYWJUdl83WGNfdm9oUlVFMUdBZ3N4ZlRHN2ZXaWpRZ3k5aS1RUEtPMnRWeUM4eElZR3JaSmJZSjJZb08xRm1OWGE1dUZlMU1LLV9MbEl4VDMzMEt2MFRYbXo5MGU5NEF1bTdnbVlrQUhZVXhQTEJJZlFITFdOMGd3T19QUFNIeW9WUUpDeV9mMTZySTBQTjBFX3UzZW4zWEw4a1IyVFBpNU9tTE1jQkFzb3pfNEdKcFBqbmNGSzNz?oc=5",
-   "data": "2026-11-26T13:33:20.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
