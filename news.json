@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-27T17:30:28.506Z",
- "agendaCal": "2026-11-27T12:00:34.504Z",
+ "atualizado": "2026-11-27T18:00:36.123Z",
+ "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -35,6 +35,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ecnumf",
+   "titulo": "PF investiga grupo de hackers no Vale do Aço em Minas Gerais",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMWc4QWRudjhNTGx6Wl9uS0RHNVprM0pydmFiRGdFT3U2TW56RXZENnViV0hyWXBIOTFZN1JuaVExdjJ3YnFVMW56UW5RTmN6blM4TDNNdmlxVUVnaWl1eDBmVldHRHI5UGhaMW1SUjYxOHVSNmpHazNfVlZ4MXZ3eWhxMFV6SnhMeW5SaHJPNFhrcVlsZ0xmcjRKUkhuZXg4cDdnSmxEeDRKaTFFVEdJaFl1WEtZR0kzc1FNczNIeF85b2k3bkQ2WHczRXhuZG5OX3ctR2N3?oc=5",
+   "data": "2026-11-27T17:42:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "i65bz2",
+   "titulo": "Órgão antitruste chileno processa Apple por suposto monopólio da App Store",
+   "fonte": "MacMagazine",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdk9ycURHZ2tmVGZ4NUNxOVZWakRKUDNudm9BSDJXd3BEVEVrMzFpZE1FNUlpVVhrMERFcWJJNDlWV0dSNng1dnEzd3ZIY0VEbTFwbG9RR01ZZTBmTU1DWFRLb2EwYzFHaV9teVlMXzJhUWlOVm5RQ1hISlJiYV9iR3FvcW83OXItekdrYTh0T1ZILU4wVWFMSmEzUXNyTDBpNjlETzItaGZJNURfc1NLWXdiMlI1ZWZ1akE?oc=5",
+   "data": "2026-11-27T17:33:25.000Z",
+   "cat": "Regulação",
+   "empresa": "Apple",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1n4qh4x",
+   "titulo": "Buscas por Haddad disparam 150% no Google após anúncio de que ficará fora do Lula 4",
+   "fonte": "VEJA",
+   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUEFzRVZhd3pwS3ZJRURoRm9Nd0NGUTgwY3FnZzVfTHBLRW1OaC1mOWtWZnYtYmtHWXZ0a1Q2ajBnR3N2UFU5dDN4bDN6NWpSN3VvdDNSb2d0dndUNlhILVN4eFYtazRiaDlTQ3oteXNVZUx4U2NlZ0lQWUItNkg3bDh3SUl1cFU3UTNQRDZzU3JtRUxUMHQxTmFQWjU3bGo5a0gxNlgzTGVnM21qaW9NRmtsYjROeFk?oc=5",
+   "data": "2026-11-27T17:30:38.000Z",
+   "cat": "Movimento",
+   "empresa": "Google",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1tognc8",
    "titulo": "Ibovespa dispara, mas a conta dos 50% chama atenção para 2027",
@@ -88,6 +124,18 @@
    "titulo": "Como a Rockstar escondeu o maior segredo do início de GTA 6",
    "fonte": "Eurogamer.pt",
    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmRJT04wTFlhaDlsdFgwRTR1blJjVVZGZ0JjaGI0S1NKeUR0UjRkX3AyTGNCbEJRckdRRktDNXdQeVFoTDhSSFo2eVBtZzBjN3c5OU9jX2VuclVXU2ZIWmZMX0I2VG9OQUFpcERGTENpZENFTS0yTmJ4WjE5Z25EZ1VCZVU1dGx6V0VFcFdBRXlXdFdsb1VRSWljNXo?oc=5",
+   "data": "2026-11-27T16:22:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "najrz0",
+   "titulo": "Rockstar pensou em mudar a grande surpresa do início de GTA 6",
+   "fonte": "Eurogamer.pt",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTnNVd3FLYkpLQ0lBdkVlbDVsdW0zZ0VralU5Rm83bk14QlNGRkxHdV9aRlZ1UFpGbDVqeFd5aENzOEhsNWFrc2NIa1dWaThqU204aDJUZFVobUxXWGI2VDZIT3FiclNoVzZNNjZvVU1JRE5lSnlpY25SdHNVMzVBRXhLUGk1TDNGNDBNcWNsMA?oc=5",
    "data": "2026-11-27T16:22:50.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
@@ -161,6 +209,18 @@
    "fonte": "Proddigital POP",
    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGlhYXFkTFlIdGdKV2tTS2Z3dTY1VFo4eFlXRmlySGN0a2dfUWZTMGxXSTVhWlhGcEdYbHdlSEVZWFBiR1ZqdkNYcjhXSU1wNTJzTWttdEZsVGw4NU5tcm5aZ2hCblhOdFVwazNoekRuamZmSElUaUtBbDNCV3cwWGlCVE1GZWtFUVV2S1pES0l5aWg0bkstRjQzNm5sdXg1WUM1VEtiSlhJSW5HOXFnVWszNDJhbHIxdjhwMWwteWhiT3NXVlZLQ1pSa0dkX09yNDZ1c0U3akx5UjRNdjF2YmRRVEdBcEF2ajBwZVI4NEl0VlNk?oc=5",
    "data": "2026-11-27T15:43:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1sqdkbb",
+   "titulo": "Chefe da Rockstar explica por que GTA 6 traz mais consequências para crimes e violência",
+   "fonte": "Tenho Mais Discos Que Amigos",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY19QQ2Y0SWZhdS1wSjUzZjI1QzVEMExyTnZ1b0hSRHltMm5zejVyUHJ5R3QzZnN5OWFobkxocGt0bVNaZDI4RHR1bjEwRngtRkZ4SGRiaUF0aTkzRk5CLUFOLUtVTHE1R2QtMVAxSG43eE9IQmtDRXdWTFZSN1ltZjZqT25MbGNMR0o2X1JTVmRiUndHc3ZfWnFKUk1FeklZNGlNT0JVXzRRWUxTV0dR?oc=5",
+   "data": "2026-11-27T15:40:54.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
@@ -296,6 +356,18 @@
    "cat": "Corporativo",
    "empresa": "Petrobras",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dewjsq",
+   "titulo": "Recorde do Brasileiro 2026 e última meta do ano: o que está em jogo para o Cruzeiro contra o Fluminense",
+   "fonte": "ge",
+   "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOSUN3Q0RZNFZsUUpOS3ppaGR3VUQtblBmV1pOODNuRE9HdDdweVFGQ0NTR1h1MElVWTNGNkcyRHg1bXFWdGNwVnNaYU5RcGRseDdwdWNCREJnNktuMXptMFNHWE53WEphRndPemZydkltQ1hNTi14UmtvOW5MQTFEZmZQWHdabjhHTmFlenVZaF91eDJmVXA3UE5xMHhrcG1uOExvR0FCVWdTZnZqQjZ0bGd6b29RaEh3enNQZDRoZ1NmTzBQekxBYU1NYVlPekljWU1BTXE2SEJ6dDdkTnY1elhscjQzQXJfbDIwemZNdnJjNlBhQ21SZFZBc0JOTzVC0gGPAkFVX3lxTE01Q01NczVZSFJscmQtRm43QVZnMHgxOURXWldoLVZSOENucll0N1lfeFJRTkxFZTFCVHpRREdyMUNHamVqMWktblVpNjNydHhWSkYyQUt3ZmtvcmQ0Z1c5STVVM0pMaUl6YWptTGlhU0t1ZDZPeTZYb3pXTXlHVzdaZnNrNk9KN0s5ZjJDYXVackg1ZHc4YTg2UmI2dFhNZlVoVk1VYlBaUVc4d0otb2dzbl8xd0gxT3JUZHVhS29veHNQZ3hWTVd3bHVMX3ZMSWRIRXFYUGIxeUJwNl9pSmFHOEJPZ3BSTlNJRnBvMXdMaXk0OTFvXy1yNVI0SGhkcVZacEc2VHJIYXd6cTdJNjQ?oc=5",
+   "data": "2026-11-27T14:00:01.000Z",
+   "cat": "Movimento",
+   "empresa": "Meta",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -911,6 +983,18 @@
    "cat": "Lançamento",
    "empresa": "Amazon",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "v2c6rs",
+   "titulo": "Ibovespa em dólar (EWZ) dispara após Trabuco aceitar a Fazenda",
+   "fonte": "TradeMap",
+   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RRFpsMW44RUhmTk9EUmxaWENWRWFGUXVWOEhWcGx4WjRJTV9UYWx2Mnd6ZzhTdU1uRW85UU12WUtIRGh6dnd4bGNJX1NRaUx5T3NaSEw5TzQ?oc=5",
+   "data": "2026-11-27T11:11:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1754,90 +1838,6 @@
    "cat": "Regulação",
    "empresa": "Vale",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18a2mie",
-   "titulo": "GTA VI: depois de 25 horas, ainda não tenho pressa de chegar a Vice City!",
-   "fonte": "O POVO+",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVGQ4YWhEX2lGRll0UGlHM1YtWTIzVUlYVXFxbXBWZVYxd3dqMGtVdXVFLTRiZlo3d0VBSVRVNGEyQWNMcmlqM1NzZ3QxamU1MVpyM1pncU5vU3FDUmkzczNwTVVONXJhNTBnZUJhQ0lTeTdOVGlwUjR0X2ItRmpHTTZMdElLU3k1NlZPenpJeENMVThmNHJ1dHVxd3ZrNHV5b25zLWNPSnhMUmRJWUtvQjNPajVtYUtHd2tqOQ?oc=5",
-   "data": "2026-11-26T20:20:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "o9mhxd",
-   "titulo": "Cristãos e jogos eletrônicos: como encarar GTA VI",
-   "fonte": "Instituto Plinio Corrêa de Oliveira",
-   "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1NcFB3SksxcVRaMHJGZUp5TkRzY2VtUmFFRGx0OE5WNGZIM2V1TjQ3TzZCYTVLS2RHVUNSaEQ4RDUtMnBhUzZVenJaVk0ydDE5RlRVdzAtRlNuUE51eEFLclY1aVo?oc=5",
-   "data": "2026-11-26T20:14:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rg2e1q",
-   "titulo": "Auren (AURE3) diz que compra da AES Brasil gerou R$ 1 bilhão em valor, apesar de cortes de energia",
-   "fonte": "Guia do Investidor",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOENXUmx4MFhucW44OFZMd1QtQ0s1amZyUGZKTURjcXBUcGl0WkRkR3ExMGxXQ3A0VFp2blFIZjNQVmQxaUdSZmFfbi0yUG9WMjd4QTNiVWhGTThRbkZxTUw5Mk9QNVVEcDFwYzFqT2N0TkI0dUhmWk1mdm1HN2RocWxHbVZ3ZG1UcEo4VVUwbGlUZUlfYnlNSlRkV1Nqa0FLbmlPbXNMRURnQUpyNzdlaHpOWHFjajJjVW9RZjlibHdPVkxnbGxMZ0JVaFRONW5T?oc=5",
-   "data": "2026-11-26T20:12:03.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yd0mc3",
-   "titulo": "ETFs sobem até 57% e batem recorde na B3",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE96RU5mampMU3ZoVnZtd1ZFWXpMNjhNZ2hnUWpURjF1UlNqQk9jMjhZTmxYenZWU2ZmMldSREkta3U3dHhrMG9HVkVZM3RPYjNJUDY5RDY4N3dqN3h6UDBoSFF0dUNWX2xEdG5sSUpSaGloMXJ3UXBsZko0eHo?oc=5",
-   "data": "2026-11-26T19:28:38.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "q1nl9b",
-   "titulo": "Brasil supera meta de turistas estrangeiros e registra receita recorde",
-   "fonte": "Diário do Turismo",
-   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanpQTzRXMGl1MXlOYXlEYzEwOE5WbHRHZWF2VlZhUFFhVG9IUVhoemZEd3laQkVjNHdJY19mNmY2YmVmZEVtVzY0ejZ5a3JCdExxS1pDUmFtbHRpLVluTkYyS0RoNFRIRm1qX3JTak1aclFndmJSSTRqQUh2R2dRbU9fUU1EUG1Mc21WT1VBZHNrbm5zMElDUHVKVWlBdlR3VDJkdQ?oc=5",
-   "data": "2026-11-26T19:25:05.000Z",
-   "cat": "Resultado",
-   "empresa": "Meta",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1fb01b0",
-   "titulo": "Criadores de modelos de IA inspiradas em protagonista de GTA VI faturam milhares de dólares por mês",
-   "fonte": "Rede Atlântida",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNd1drY1o0N2xfY0E3cjNva0d4SkNMb2dGWW9RUVdmcU1CWDRNN21mQ2d1ak40bzBhOWhpQk1FSHYxcFVwS0J4MkJibXduX1ZKeHJmOWl6YmM3T1RteWl6bFE3cXN1M2xVYXBKcjYydGhYdFpiamwwdThCSng2MUI0NFpDZGRsWjFROWZNbC1lWEVPSmZJMi1FSEswMXh0TEk5SkJXY0NKRkNodEIzM3p2aVFHaUtfVW1pc0tXOFlOQzhxd2pmZWJXOU5VTUg0d0pBQk96LWk4VWVhRUFIVmltWk1ON1FLNXV0WGlnYlhPY01MUFR1ZUZBd3M5MlRKQU9JMkRaVDFmYU1CTGM?oc=5",
-   "data": "2026-11-26T19:23:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "143b3dn",
-   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa sobe 4% com notícias sobre Fazenda; Bradesco dispara 7%",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
-   "data": "2026-11-26T19:16:12.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
