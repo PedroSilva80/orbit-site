@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T12:00:34.504Z",
+ "atualizado": "2026-11-27T12:30:28.972Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "l0uo4x",
+   "titulo": "Cade aprova sociedade entre Itaú e Klabin em negócio de R$ 1,2 bilhão",
+   "fonte": "Poder360",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMVZOTWg5eVlwajJnVTBZZi1WLVhkc29QSHdwMlNEY21ya0w0NDJwRXlNSkNLM2x1QVF0dHJzMnlkMWt5elM3ZnNjY1BxWExrZC1yMUZkeWQ2a1I4SnBFZTJmTDdtYVRSS181NlRnSWxKckNYbFhqWFhGbG16Nm5SVmR3RmVraWRGSDZnSmxNZ0pvSU5UaWhhdnpHNmtkazJlWV9SSFFCbWZ6b1dZTFhYNw?oc=5",
+   "data": "2026-11-27T12:26:58.000Z",
+   "cat": "Regulação",
+   "empresa": "Itaú",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "3aqazv",
+   "titulo": "Ativos brasileiros disparam em NY após escolha de Trabuco; XP e Bradesco saltam 18%",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcW42al9WLUw4NkZUT1h3eGszZk5yWUJHMEZsVjJqLTNvaWFlWC10cVRiSWI5aUtBRlZJdWpmaG1qTW9BMUs2R0dpaEcwVGVDLWFDdUxQRU55eXdGY0NhSlNTMVdvc1AwSG9DZm5LbzVNVm13M3l2Z2E4SXRjZVpDcG1BZGFBbmZ3c0U4UGx5SnlUaFRFTnNtTFFDQ3c0VEh2SG0teXBXVEYyLWc3Sk9ZV2FHdjRBN1ZMQ2tHSUl3V3F2ekNidGhXbjRZMC1jQQ?oc=5",
+   "data": "2026-11-27T12:21:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tpkvkx",
+   "titulo": "EWZ dispara quase 14% com ida de Trabuco para a Fazenda; ADRs do Bradesco saltam 16% e da Petrobras, 11%",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNQzVFTXQ0eUh4MG8wY25BZjFydHpYdVJ4TE1TS19aTFlmVGhvR1JYdW1obVdtUF9FRWx3Y0txbXBZUHgtTFV6R21YVFFidjA4ZGdwVnExbWc5bFhxeGlRX1kyWWRibmE4bVdOTGUyWi1SczdqRkZ6WlVQUFJtVXY5b3gzeHdXUUFGMDRZa0Y4Rl91ZnhKb0FERE1WeVFLWXpzdUtsMUxxLVVRV3o3eGNxcUFTalJqbEtQTDFSdHpYb2pOU3lPcUd1ZTVHUHp5bnJXYWMxVFhHSmxXVER6MXFTeWhselNSNkFYdFJCVXNoZWdvcU1OVnpFaW13WGljQXBxLUEzeDdRY9IBlgJBVV95cUxQUmJPRnEyTVhON0lGWTVEUXl0bWdJYWxTQ0MyQ3lUSDBweUhKWFRBQnk0cHA3aE9fRERGT2NKd1dCYmpaWGFqd2cyOUprNDNZN3dtU2c0U2xxb1A3VWxfQ3JhMEZhQlJibENENlpwMGhqZnA0RV9nQjlocDFEX19iWUZnNFcyZ1Y5M19mU1EwWk4zenRscnNiMTdDQWItSVVUOVNHRDg5T2ttXy14Qm5udnFXSHgyQ2g4LXZ6bnJELWFRRlVsUmJpZmJvZ3R4UWFOYXlRcTAzNW1VTkthREtQdDM2b2FxbWM3NkZienBPLVhQVloybXFTNUNPY25yYXFxWVRTVUNPRG1NWVRkMjZibU5lV1R5QQ?oc=5",
+   "data": "2026-11-27T12:19:59.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9egtsq",
+   "titulo": "Black Friday 2026: Galaxy A37 despenca 65% em oferta inédita na Amazon",
+   "fonte": "Tecnoblog",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVTZ3THVOSjhpOHlJdnM3eFAzd1hsZFp2X2xLaWZRZjBHNjdsMXdJWlhuQ3BkR2xJLXpoci1XZ1RTWHZmMlhiUW03MF9JYUFxRUdPSWhKejFvNFR4UFE4b2wxc0NFcmgyZ3VIdTNzRTk2R1ZRbGFkd095aTk0dHVrQU4tdm5PNkQ3SDVtWHdnZG00cGlFdlpkZXpXU2tzN0Fa?oc=5",
+   "data": "2026-11-27T12:10:42.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "100kfbl",
+   "titulo": "Ibovespa Futuro dispara quase 3% após confirmação de Trabuco na Fazenda",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcS1melFYdGZadHVjQl9TVFRtZncxeVloTUswQnh0QlJzZkcyQ3A2bk5xMS1BNTFkSHJmTGk0UW1JQkhTN1lLTEpTXzRkeGwxNThnR2c5bDFMWHVCUjZ3ZDJqYVlkOTVob2NFTXdWOVZ4Q29kWFVyV0h3ZmRlZkROR2o0VHlsWXZ1TUktSFRQb1QtNVRvRmNoaWpCRFJnamVyTUppaTUxeWFKR1VKX1HSAbMBQVVfeXFMTTQ5Q2lhOWRyTjFmUE40aVc1emxOc1NCcjBvQUVETVl6Qmh5NENHckZ3ZmpNVGFzV2JBekhLZ1JtaUptdXFSUW96RnVaMFc3LXpSeXgwUG5wUVB3UlNOY1k1RzU5aDlfRU5pM3RpaDRLQVJHQktpeHFKcVRGWVFuVXhPRXdEeUt2TEpHcTdTNExtZWVlUEZna2huLXBTdWRNeXVCeGEzckYyZURjU1FhTU10eFk?oc=5",
+   "data": "2026-11-27T12:06:20.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "v8i605",
+   "titulo": "Multiplayer de GTA VI já roda em port não oficial de PC",
+   "fonte": "GameFoxHub",
+   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSnZTb05wYXJLMlBmdmRpaUluUkEtR2tidi1kVFBrMDY3N1o2RUNNWVh6WmdncXJzY0dQamt6aU5oU1FDSXlmZ2pOUU9uUlZJQzRBSWJyNElONzk1ZTEybEk3cjc0X2luc2dwUzFBMWw5N1dQVHJyWDVBS29TY0ZCT09Ybkh0NGtoTGNQQ2NENA?oc=5",
+   "data": "2026-11-27T12:02:56.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15qinlf",
+   "titulo": "Rockstar contratou antigo jogador de Gran Turismo para melhorar a condução em GTA 6",
+   "fonte": "Eurogamer.pt",
+   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOazNwbzdxc3hDZ3Awc25UV0hYZGk1N3g1NkZrUkl6UWVXMjB1RnkxMXRxeks5NHdhZTdZNWwtODVvLWVodWdSWHBab3Bxak81UlVMd3NDelZnTG1RNGU4aXhvVDRfMkQ3eFJrRUtBZlVialhNTWh6bWdjSTJXbC1SN3hXQlJsUGFOckFYY05LUzk3UEd0elppajdzLXQ2d3V5RTNlV1Q3TERaSU1K?oc=5",
+   "data": "2026-11-27T11:48:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1gukzh3",
    "titulo": "‘GTA VI’ bate recorde com quase US$ 4 bilhões em vendas no dia do lançamento",
@@ -117,7 +201,8 @@
    "empresa": "Anthropic",
    "score": 10,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795782628972
   },
   {
    "id": "w32jyt",
@@ -626,6 +711,18 @@
    "avisado": false
   },
   {
+   "id": "s5w6sj",
+   "titulo": "Bradesco salta 13,9% na Bolsa com Trabuco na Fazenda",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEJGZ254OU9NbC0zODA2VUtfanJJcmgwdXBqWWFOY3hua2dRQ0lwa0FwYXJWRUVIZzc4cFVCN2FMUERlYzRBc1BFMi02by1xbFNnZVlMcHU0emxyb2gwRjlRcWMyemV5b3V2NDhCWEd1dHZwOVNKRWRvNlkySE5LU3lpMWQ3cjZWMWxQWDMyOUdGVXJvQThSMkFOQQ?oc=5",
+   "data": "2026-11-26T22:11:08.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "13dfhme",
    "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
    "fonte": "InfoMoney",
@@ -935,6 +1032,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rg2e1q",
+   "titulo": "Auren (AURE3) diz que compra da AES Brasil gerou R$ 1 bilhão em valor, apesar de cortes de energia",
+   "fonte": "Guia do Investidor",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOENXUmx4MFhucW44OFZMd1QtQ0s1amZyUGZKTURjcXBUcGl0WkRkR3ExMGxXQ3A0VFp2blFIZjNQVmQxaUdSZmFfbi0yUG9WMjd4QTNiVWhGTThRbkZxTUw5Mk9QNVVEcDFwYzFqT2N0TkI0dUhmWk1mdm1HN2RocWxHbVZ3ZG1UcEo4VVUwbGlUZUlfYnlNSlRkV1Nqa0FLbmlPbXNMRURnQUpyNzdlaHpOWHFjajJjVW9RZjlibHdPVkxnbGxMZ0JVaFRONW5T?oc=5",
+   "data": "2026-11-26T20:12:03.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1395,6 +1504,18 @@
    "avisado": false
   },
   {
+   "id": "14ds7xx",
+   "titulo": "Black Friday: 4 erros que podem custar caro na compra do carro",
+   "fonte": "iG Carros",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGtXZ0JPdkxaTWdvSS1hMl9wSlE2OHJuVTUxODZ3TzRMbWE3eUNYWlBZWkJKamJjeXR5bFhSN1R0aVlfcFFoaGZkc1R3ejdnSVpiZGRiNjByT2xjRGtLbUZYRVp6U09kQ204MjJ2SmV1d0N4cDZvMGlrbzZPV1A4eDBYdVpRMDJMYUlnZGhfc1otNURIQUV2d3VvMFrSAZwBQVVfeXFMTTRrV2dCT3ZMWk1nb0ktYTJfcEpRNjhyblU1MTg2d080TG1hN3lDWFpQWVpCSmpiY3l0eWxYUjdUdGlZX3BRaGhmZHNUd3o3Z0laYmRkYjYwck9sY0RrS21GWEVaelNPZENtODIydkpldXdDeHA2bzBpa282T1dQOHgwWHVaUTAyTGFJZ2RoX3NaLTVESEFFdnd1bzBa?oc=5",
+   "data": "2026-11-26T17:00:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "e5lvs3",
    "titulo": "\"GTA VI\": trilha sonora mira o topo da Billboard 200",
    "fonte": "POPLine",
@@ -1718,128 +1839,6 @@
    "score": 8,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "tmcgt2",
-   "titulo": "Ibovespa sobe mais de 4% com IPCA-15 abaixo do esperado e nome de Trabuco em alta",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHhuZVdyXzJKQVpRSHluSEFYZFY2aVJpNnZuajl0bVF1aFZjLWdvZ0dneXRnX3RoSkpaaVh0VEtaeVNlQWU4OFpXMWhwM3NHaVNwemxWblNsMEpRQlpySzhDWmZYckliUUx4c0VHbjFKNm5EUlMyaGQ5d2RhWkZOMGFMaDdsLVQwSHNJZE9SdWNsUW9QNmszcy1rejlWUDQySG1ReTBsMzFKVDExTGxibTRtWXJJaGJVUGxkdg?oc=5",
-   "data": "2026-11-26T15:23:32.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bbatmi",
-   "titulo": "Trump comemorou disparada da Nvidia no mercado. A euforia durou pouco",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPc0lUakJXbk56czViNVpoX2FXMHBETkVSeUJ3eWlmOWd0aFFiUFdsV29HeW02QWdpQlNoRUVnOHBpNi1qbzFCYnJVTjZvTkRkWnh1OEhJWVIzSmk2b1ZQOE11aTNfQVd3MlhKSDI4QWhmbVBSZlQ5YmVHclZOaWlBLTlRZ21pZW1ocVk5YjJaeU1LWkV5Y0JZTXdjX0VjWGFzMTJXSkJTVktNU2ZwTUU1OVhnTlrSAboBQVVfeXFMTjFQTXRjUFVYcXNtWUo4cmo2VFZNMWhNdFFRV1pYQldURjdtZzVNX2NXNXNrbm1ZNWJDdDlsNllDV0dpS1FhZzk5dmdrOER6OUR0RXpKMzhUVFFqRkt6Vmt6M0lEbmhPbDNhMDdIcUV3OWNMVnFlVHRnM1VlRU5FMmxjUW8xTHB6eXRYcy1TLWhCZ3pzNFdPNDlrdkJscTItOFNpbHBqYmpUNTlUV01QZ0hBd2V1YnQ5aW1R?oc=5",
-   "data": "2026-11-26T15:22:41.000Z",
-   "cat": "Movimento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "110z9aa",
-   "titulo": "Os Altruístas: Conheça a história real por trás da nova minissérie da Netflix sobre fraude de US$ 8 bi",
-   "fonte": "Jovem Pan",
-   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZU11SC15b0U2X0cwZXlORGxPajVTQkt4RGRVVDc4b0M1dnVhWWtUMW9rNUw2M2gxZWdLOUlaLURTTlBRUGlnWW9RNk1TSGFWMlFMOW04bHFwZzZDY0swVjQ4bXFibUhic2tUZEdZekxkdXVUUVFFUHRkOXp0VmNPRlBTZmFXNlVCeU1MQms4S2VlSDg1dE1MM3pXOWpDRFhfZmFRcV84a2hVeUFrWFpWdkVVYlhPMkxPNmhRdExacmlabGZ0THZXRjJfek9Gakh2MzhFU1R0RUlRcUk0N1d1UU0wdzNtc1E?oc=5",
-   "data": "2026-11-26T15:21:21.000Z",
-   "cat": "Risco grave",
-   "empresa": "Netflix",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ide7ks",
-   "titulo": "Letras Financeiras superam retorno do Tesouro Selic e lideram ranking de renda fixa da B3",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQzdFNzZnNTJDY3VBQWV5Y2lkSnBvOGdDVWxWOFRHNjJmT3ItckRlM1ktalo4SG5WY2NvVjZQRllnLUFWVXhvSWVwZ0hlVjVocjNubjQxUW1GdTY5SjZjT3F4UnhRTGdGTlljcFlhbmF2U0xJWmk4ZWxTSVdVRWxacXdwQ19RdGZGX0ZHUWpyakRkREw3SjVKdWNhUjAxVzBFeVpSaG5GOEJyNEE2RUVoNTBtdGxBbENSWVNTSC1ROXptZkU?oc=5",
-   "data": "2026-11-26T15:07:00.000Z",
-   "cat": "Mercado",
-   "empresa": "B3",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9771xc",
-   "titulo": "Quarteto Fantástico: Primeiros Passos dá prejuízo de US$ 37 milhões à Disney, aponta relatório",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPb1czdnZUYlVJRlRYQUZPckhBV0libm5SbUtwbWpZM0JQdGVHTjdZZ1NfZmUzNDYtWXEzdGxZUWtvcC1VV1VTaDdJZm5QVF9YeTNDUG5hMm5iMmJ4QklMNFJGeUE1MU9saFdqUElKektyRjJpSVp4UnZ2VVBJb0U5cEpGNHM5ZkNpbTVwaTR3WDNkMXltbEQxREZ4dlVjSnd6NUY0?oc=5",
-   "data": "2026-11-26T15:04:00.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4tceq2",
-   "titulo": "Fraude na Bolsa dá prejuízo de R$ 1,2 milhão a clientes do Banco do Brasil; CVM condena 3",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR2oxY2NWeWFxclVLZ01OaFVac1hEYVdHRmtYUTBKenJJSzhUSmswMkdRR0F3b1JSTjNTMy1nS2tjMlVOOC1IcDRma0N0SU1SeE4tX1lPSGRRTkFUclIyZ3NpSURyMk5MS3lQMVFSclp4UTVfcEg2d1QwN3ZDT1ZadWxDVDktRmZIcFpsSTdKRUYtVlRkY3I1LTVLUlJyQWc1bTlfTkJkbTdyMElUVzZuZjVqRFktc1AtZjhTTThfR0pGdjBoZVludENoRFlPTV9EazMwcnFZZnJFTFF6TENwNzNHTEIwMDRs?oc=5",
-   "data": "2026-11-26T15:02:52.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 11,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795721426117
-  },
-  {
-   "id": "11cv1wl",
-   "titulo": "FT: As investigações no caminho da Nvidia e Jensen Huang",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcUowLXowazdBQU1vc3VBN3ZWWTl1RXR5Uk4tbmtNWmNnZWVzYkFZLVBFOW80dExXbHVpN3VpdHBRWl9aSFZuVW1QZFdfYzVfMGM5dlBtY2RoUDF4VWNRaGdscXdJdFZJWGhmUldDVFlUQ1BXTEJBRlBSTm9ZM0lJeDB0amh0aVFZcGxsQm44ek5BTElMQ1FXZFBfSUNYWE5tdzFXME9aak5Xc3NpV253S9IBvwFBVV95cUxQNVNLbEltM3Z4OXo4aXZ5MU1nV1hibmVocGJYNWdBLW1mamVXNzhKNm5rVzBkbFFIbTdna3FFYmcwVHl2a19Tbm9yR1RFLU4zTG91TkJHRlcwZkpTeHhnb1ZIc0ZWLXBlZG9VM1VqNHJQQ2M3eTltQ0loR2hJNWRPM2h5ZTZZVzZrWXNuT05fRUQ2QVBBTnR5ZlViZW1yQnk4OTdjU2VleFdoMzFEN29QTGdRaGxURTJjbnp6NnBEYw?oc=5",
-   "data": "2026-11-26T15:01:10.000Z",
-   "cat": "Risco grave",
-   "empresa": "Nvidia",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w9ni6w",
-   "titulo": "Ruralistas ampliam pressão contra o Banco do Brasil após exposição dos calotes do agro",
-   "fonte": "ICL Notícias",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWS02bUQ1RmFJWkw5QzhiV3dYWmxCeUhsWTUwNW00Y3dmck9fZHBlNUR5TkZCYzV2QnpVckIzYU1Fblo2WkQ1QnFHRGdqYkl4aHZPODdmaHo5Q2VzMGRZbENvVElaUVpkck1oNDEzRTBXb0VqaFpzSGdqQUtPQ2t4MTBULWtLTnRJZkRlVGd6S29nUDdGV1g1Zk14VmxKSGUzX1phTjJ2aE0xS0RhMmc0aHFyUlA?oc=5",
-   "data": "2026-11-26T14:52:22.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11e5cpi",
-   "titulo": "Ibovespa dispara mais de 4% e dólar recua a R$ 5,71; o que anima o mercado hoje?",
-   "fonte": "Seu Dinheiro",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVmR6YVdZUERiM205M0s3QmhVOXZJWWVuZ2ZLcjZnM2Uwcjc5ZWgwd2xXMUhnTHJHaldwMHFDdjNsSUU3a1hNT015aGtfcG1aRm5YTi1LVWEtTHNjZmpqV0Q1SWNjOHBNT2pHTTJGdnl0R1U3WmpuY3IwVUZibHJOYjExYUJrLTgwSmlHTnF1YVZITjVKWXFMWGo1aVk1UXVqZ2gzSWVFTExnTWFQMmR0V1BuM1NJXzBVOVJHUmFqQkdmQW1U?oc=5",
-   "data": "2026-11-26T14:39:34.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "n74clf",
-   "titulo": "Anthropic: IPO recorde rende 15x a três gestoras",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdG5uZHNvXzVEUkV3eDhBRktrd0VkZjZJOTAyUkJFRzhRZzZDLXVmc3RMRjB5eFp5WkNFSU9zOTZNU3NzU3hXSTdHV0J5S2tybHBURU54YnRUSi1RNk9GV1V1R1BKbGVQUDBtbzU0ZER6UGpCdGR5TFFiaVpxNGxrTDd2alZwd1RjZHVZdWh3Y09CMnB5V3Z4a0NB?oc=5",
-   "data": "2026-11-26T14:38:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795714226723
   }
  ]
 }
