@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T18:30:29.663Z",
+ "atualizado": "2026-11-27T19:00:29.609Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -36,6 +36,66 @@
  ],
  "itens": [
   {
+   "id": "s2esg",
+   "titulo": "Apple pode ter adiado início da produção dos iPhone 18 e iPhone 18e para janeiro",
+   "fonte": "Mundo Conectado",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOUNySnpQODZVZFB6dmN2LWFpUkl0MnVBdGd5NkRBZWdjb3ZUVHJocHpsSzZNTnRMbDQxSzZ1V3JqcU9kM0xMT0FuS1c3a1lIWTBLM05Qdzd6WHZpUlBnOTdjM2xIQzV3XzJmMDA2U2QwVWpGdXJUQmtuTWFONWhHaG9VRmE2OG5xMm45aHM0RXJ3ejQ5ejRLV2hQV1Q?oc=5",
+   "data": "2026-11-27T18:54:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Apple",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1i1ssgu",
+   "titulo": "GTA VI ganha primeiras versões não oficiais para o macOS",
+   "fonte": "MacMagazine",
+   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkxuRTlxNnlXRHh5QTRBbHA0OWUybkU3T2QySjVOdnRzeW53eWJzam1jcW9YRTB6MVZzeEpLUUZoRWVjYW94ZDhBVU9Vanp4MnJsR1hvY2hlREFrUXRLSjV1LURXQVRPWHdxbVB2SnZTeFYtN0haczhkMGJuQ0dWRlVkX1lOX2lRS3ZISTJ0YUlvZ3E4Y1dzZXpjVFFyUHBfOUE?oc=5",
+   "data": "2026-11-27T18:52:36.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "13l85sk",
+   "titulo": "Amazon Echo Dot Max despenca de R$999 e custa R$599 na Black Friday",
+   "fonte": "AdoroCinema",
+   "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51cXZXcmFYUG5IZVZTN1F0SzVSSUlCTWpYbFdza19LdVdjUTNqU2dMYmZLM0d4N2RYQ3Ric2tGU1VRc2RyQlRYcVJURjFWdXBaazNUM2ZFTUlJRDAyUm9GdHpRajhya0NaZ0tVa2JCNELSAXZBVV95cUxPLWMta3JsZjlKY2dtZEF2YVVhdnlsZmFvUFhRb0MtQTYwRmRSY0NUZzNZVTM1QmRQa21RRmJpbVRMUjFQUXVRb0NaRzJxckdhbEcwb0MzZElVdXd0T3dEZ3VHZnlFZjM2VERGS2ZyVmlBcW94c2pB?oc=5",
+   "data": "2026-11-27T18:43:47.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1m3z4a6",
+   "titulo": "FII vende imóvel locado ao Banco do Brasil por R$ 14 milhões; veja lucro",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNd2l3aWZDTDlSaW9SVFBUeHVTX2NXTGdJN042emxmYUxRRXk2OWNNSFBNNTRRLUgydWo4cjctTUZIOGc2aGw1dzE2QW10anpVX0tWa3dZcHQ3R2dXQVdMSmZFRkNwNnlqRi1jQk5GTlJ5RE9WZmJYMUpjdWxmVEh3b21mZDVLSnhhc0NrcFh1NV93bFlydjdYQ0lheExuT2tMRkd0R1A5THNDa3pEazIxdXAxZU3SAboBQVVfeXFMT2o3UUxQRV9rX0R1SlQxUWgtak4tSXQyZnBablpRV29HZTBqUzJaMVhXTEFvVWk5MXFSQVQ1WnVCYVkwYzZ6OWs2TUVVZ2s5Rk8yNVpkOENuUmNEc1pDaFVtMU9rM2l4RzI4N1JMdHVHNUY1QW1tQXBaeWtfRWJiQTU3MElvME9Xbm9FaUhrdmE2TlZPMWpEYXlmY2U4TDg2MmFKRGRmRGZydWx5TFo3STE4MFpzQmIxNFJB?oc=5",
+   "data": "2026-11-27T18:36:27.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "997840",
+   "titulo": "Banco vê Trabuco como blindagem para o BC e para a meta de inflação",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeEdzclZOUnZwTkRaYzdka1RGR2hPd3RLdUtmVjNEWDkxSW8zQ1BURjIzVGVGcFhCN2tjcWZmcWNfa2RzOG9CTXFfY1BxZUJHY1lPZ1M0TEQxVDZDTGRuUjJWVWZ3RFRIbF9venY0SE5ZMmtWaW00MnJPUkljUS1wWWdWQU1uMW5TMmNwNU95VDUtTUFkS3BjOFIweXRYSHBlRHpQLTJyZHVtbDZxbS00VmlB0gG3AUFVX3lxTE9iMTB4UzI1QWJpODdMUGZqc1BBYW40RWVPY0UzdHZGaC1xRVBiVU5XOVE5Qm5lM2I1Y2JRM3NsZUpTanZzaUJjR1BZLWM4S3JvVlBjMVBwUzlzQnIzWFFzalJrVkEtZEF5MS1SMDNaQU1UczNDR0o4NGpQTU1uSENkSlZ3SUYyTTZTVDN5TGxZS0c4aFZyNDl1WUprOXdiczFLZnpXRTl6MXZJMDZpWnMtT2hhb0J0SQ?oc=5",
+   "data": "2026-11-27T18:18:15.000Z",
+   "cat": "Mercado",
+   "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "rwmgc2",
    "titulo": "Alvo de boicote cristão, série 'O corpo' dispara em audiência e vira a mais vista da Netflix",
    "fonte": "O GLOBO",
@@ -43,6 +103,18 @@
    "data": "2026-11-27T18:08:54.000Z",
    "cat": "Movimento",
    "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1s3x8ag",
+   "titulo": "Jogadores criaram cópia do GTA VI para PC usando código vazado do Xbox, diz site",
+   "fonte": "Administradores",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLXBuUGRiaGlOcEJJaXdkX1dOTXU2Sl9pWEdOZWxBMXMwWkkybzFEMVNobW5VNHhTYlFVOVBad3laMkZCNU83UkUwbHBzUUNCSTk4RmNxLWI4VmR2WFJSVmhwdE5DV2xoNGR3S3U3VzdzWE5hQlRaTTFjZEt2LTJqNkxxZVFWcTVUR0NnS2VFQmRyRmF3NGtMM1ZoSmw2TUZMYXpHRTRJRG9OcHNraHdiNk8xWHFNN0VkWXFTa0pvVmo?oc=5",
+   "data": "2026-11-27T17:44:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -57,7 +129,8 @@
    "empresa": "Vale",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795806029609
   },
   {
    "id": "i65bz2",
@@ -248,6 +321,18 @@
    "cat": "Liderança",
    "empresa": "Nvidia",
    "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rhzva6",
+   "titulo": "A ação da Tesla sobe mais de 3% após relatos de possível fusão com a SpaceX",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNFdxR0p3ODB1MUszMm1JNzFPTEpLTGpERWtWZU9BSG9xWTN4VDNaWTZyMXJyV0VLQzBGTHFPaTI1UnBGajhUeFNuckhLX0NOVGR5Q3JTQkV2YTdBTW9ZSHFJbFZVNjZaSndsY0FlUk1HQ2hLdE1neE1YcWZ4eWFuMGZELXltTlhtSE5UdjRRZGQ?oc=5",
+   "data": "2026-11-27T15:02:59.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1753,91 +1838,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gt7dal",
-   "titulo": "Cleitinho convida Lula para posse no Vale do Jequitinhonha e critica calote de Zema na dívida de MG",
-   "fonte": "Brasil de Fato",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQdWJheDFuSUV4TzVEYmlhbGlRWlRQQU1XTjdtamxBZ29VbXRPVjFpd2czNFJfNEFoOFc0SWhBdTQ4RVRuNE9ORWpwYWxNNVJWNE0yLUJ0WHN0OW9JdlB5VlA0OTdKQVBKVDVRQUdPdnlEd3d1YWpPbmJITU0wWnF2WWFfZl9oVkh5a3VaWWdSQW15MExFaWtRTU5Ud0FreGFpUE03VDVxTzM2MXR2dmNxVmM5dmgxLUhIX0dMVFBrcnFibVBCMG1yMXppWE1KOVdROEZ6b2hnQmZ6RHM?oc=5",
-   "data": "2026-11-26T21:02:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Vale",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fdp34y",
-   "titulo": "Trabuco, ex-CEO do Bradesco, chega em Brasília para reunião com Lula",
-   "fonte": "G1",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd2l3NHFBOXZ6MnF0Y1dfcmdUWk5jUkxBMDVmLW52ck1vSkNvR0JvVDRodktPVXJhUjY2U051d2ZjY09Ibjl5X1dvQk1hMU9LeGc4TG9lUW9pSjNzbEs0NjkyTUJlcUdaelozTS15WnByb2pmQjVvRm5lbzJRdlFVTm9MbzNCRlVjVGtVd3QzaHFmV3FoNzNsLXhraXJ0LU4xTFFBdC1zQVVYYndNX0JZckJ5UjdUZlVZbnkyVklHWDMtWG1OSHBsZVBjOUzSAdsBQVVfeXFMTnlrUF9UaGlCaXQ1Z2swQ3BVSkl3NG9XbHJZWng1Yl9HS0NkREg1bVZ1WVlaLURuQVV1ZXY5YzB2b1U0enhBaVZxUlhjeFhsTlhva0VpZWNHUTAyMkFnbGFUN3E3QU9aX3ZfS0xhb3p6SjZRNXpHVXphbWtpVmEtNUpoRTRGQlVJaFZ0emlXOFBIdUhmc2p3enNvV3hYT0pyTVhWM18yenhOS1ZIbG4yN00xZXBYZFBsYjBpWlBuTkZ3ZnY5RW9GZ2ZsVFRmRmtYbFg3WkwxM0tkaXNR?oc=5",
-   "data": "2026-11-26T20:59:22.000Z",
-   "cat": "Liderança",
-   "empresa": "Bradesco",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795728627290
-  },
-  {
-   "id": "ymza23",
-   "titulo": "Dólar cai pela quarta vez consecutiva e Ibovespa dispara mais de 5%",
-   "fonte": "Agrolink",
-   "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNaXNDY2NuQ2RvTkdPeE0xVWdvYWtqbVN5c2RiTTNlLUhOdTFEWnROQjROMzNCNlNBTVZ0SDJvWGEweTZsVnY4Rmd2N3RaZ1FKOFFFVzRmWHI2RGk5NmVHZTVNMzBKaTczQUJwX0FwVVo1VGJhVHFSMkhDWl85R0xQTE5Ma2JBckNac0xLamI4THp6U1FKWjhsMlRFbkppd0V0U2JSaVBIenMtOTU3dEVSUWtOUmxQZW8?oc=5",
-   "data": "2026-11-26T20:57:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12uhuzz",
-   "titulo": "Take-Two derruba mais de 3 mil ports de GTA 6 para PC no GitHub",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlQ1UFBDZG1xcFlrTlk4bjJhMldEMDFfM1ZCcTNyV2pnZE9wd0VDbU9ZRGRlRmdiLThnZm9zZWtGbTUyZ0ZQYTZ1VWIwMUdiR3NGNlk1bDVzTGd5WUsxX1BQU2NDRlJ2aThFNGZzQzJEQmZ6cFVEeDByLXJ6M2JvQ3BUSWhOQVBfZ3lmdjFiWlZta05NWHdPWlFlQQ?oc=5",
-   "data": "2026-11-26T20:46:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12izzvh",
-   "titulo": "Prévia da inflação sobe 0,22% em novembro e estoura teto da meta em 12 meses",
-   "fonte": "Claudio Dantas",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOXNXZm5LWWxwMGQ3MlR3RDdpSE45R1J1cnpTMU1YUnpXX0YtMjFmN2Rxa0VBbzRNNFotWk0yNlBJX3hxZGdXQ3k1a0ZkeHRoc3ZhSGl3aFBJX1A1ZU1ZSWpSUW9SQjBjOFl4S2lEbnlOZXRoR3h4ZWpjdUY1OGdsazJ5cVlrSEZTbGFKLUVQRTVKaWFyNGVTQnI3NmxDS1lscU9ORmtmdw?oc=5",
-   "data": "2026-11-26T20:42:26.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17gbkzj",
-   "titulo": "GTA 6 | Rockstar explica ausência de motosserras e katanas no jogo",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNc0NJNFZ3TzU3YnZRVG9qTVdLN0Ywd0NjSUhOb0FSZ0p1Mm5vOWk3RElhbU9CQ2x6c2pxWmNUTXRBR0JYNEZxdjlUZHB5b0RJMl8xSkpTVnVIcXBoU2xCVUgya2pmUjB6cDdZaUlvbkFrejZtb0lic3JzNkpSbzlyVm9lVVRwNUxZM2xuTks4VkQxX3RmWHhyQg?oc=5",
-   "data": "2026-11-26T20:40:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9g1cnx",
-   "titulo": "Localiza dispara 11% com efeito Trabuco e alívio nos juros; ação está barata?",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQYWtZUzU5M3NWYWZXZWlXcDNCRXdVem9WdkMzdGVQblhmdmtEUUpDZk85WGVYMmFoQUt1eGN5Q0ZPNC1zRFJlLXVzMGYySzY5QWI0Z21UcE4tSEtXbmNRQUdZNUVCVDVfSHhlWUJzUEZsLVdRNVBFOW5KeGE0eTdsZUxfNVFqcG1SOE80MkdYOHk1eDZRMnZCSkdZcEFzSUtsTWpMcmhxR0M4N2xvX2J5WXhlMkJLRDRuamFsS1pqNVRMdE05SWVrLTFn?oc=5",
-   "data": "2026-11-26T20:33:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Localiza",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
