@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T03:30:30.546Z",
+ "atualizado": "2026-11-27T05:00:34.296Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "w0vl8u",
+   "titulo": "Dólar recua frente ao real e Ibovespa avança com desaceleração do IPCA-15 e feriado nos Estados Unidos",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE9fdm1wdjBZRzJ1WGcyMUl5alprMUM1ZzB0bmxiMUxaZmhIQzNEM2w5cDdZakN6VFFNM0pQNGtzdjJJalJNZ0RoTGhGV0dlTldrejUyajE1M0R5THFpU2V1bmN4TGtsYW1yMFotWHBldEtMTE9UR3NIbVdEc2Q4UHV3OG9UMHZjc29meF9UektDYkhrTzV2TjdBaFktOUNyZkJEb2x2dm0tUDdRckNwd0x0OGpMZFpDaFhfVUZsYURVaEk1ajJZa0N2OGZJdw?oc=5",
+   "data": "2026-11-27T04:03:30.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1gsjimo",
    "titulo": "Jack Huynh, da AMD, afirma ter batido o recorde mundial de frequência de GPU com uma Radeon RX 9060 XT a 4,837 GHz",
@@ -1825,18 +1837,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w1nr69",
-   "titulo": "GTA 6 no PC, Take-Two faz GitHub desativar 3.007 repositórios",
-   "fonte": "Pasquale Pillitteri",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObHJFV1VENndzY0NiV1h0b1dVYlNkNl9WNnNsanNwZWducVNVZk9HYnd2Z2RLMEVPMWhuNFVhVlBUOXVFc0tVOXk4d29ta3dqZm1NZzdMT3B3MlgxV1hrZlVpaEZta0ItMk14bnZNX1RNMXo4MldOYnViQXhrTEw0NzREZkR4U245RnV5US13?oc=5",
-   "data": "2026-11-26T13:29:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
