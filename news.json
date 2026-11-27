@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T08:30:30.528Z",
+ "atualizado": "2026-11-27T09:30:27.034Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "12a7x13",
+   "titulo": "Anthropic dispara acima do preço do IPO no intraday, pode ter dificuldades para superar US$ 100 antes de 2027",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzFtY0ZmanA5bUt5RmNycV8zc2U5Y28xZWRLaXFlODRjMDV3Y0RJWVg3UkNoSjluSHkyV1doNGtCUEUzS3JCTWthVjc3YWlOb24zMmIzbXcydGVEQkRfNFJobGpDUUpKTUVzcUJhblMxZXJ1R053Wk9jSHhhcmt4eS1MUnRSM3N1LVMwTE1LaEVPOHI3VV9fVzA5dGdvMXlLeEN0Qlprd0w4Vy03VWl2X1FCc2lMZTAxbUxzZFVHSQ?oc=5",
+   "data": "2026-11-27T09:12:29.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "h42ukk",
+   "titulo": "Frentes de investigação pressionam Nvidia e o seu líder",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMm1FdHNha1JEemM5UzFfNUxfWTA4QjVLZ2hPQnJ3ajYxelgwMHEzRncwd18td2JXbkpkZHBudk01S1dYY1BYeHU4OTJvWV8zNHVPZE5uNW4wbW1DcHV2RXpFMWNqckZESG43VUZ1dHBnZTItejJHVkxnWTlTRDlndFBicG5fc2U4NXNOUXpnelRQb2NhLW5DMjRNLUFLUy0zVFNBYjhLaVI3X1JtRjBZR3R3a9IBwgFBVV95cUxOQXY0OGZxQ1M0ZnpQdUlZT1U0RWlJRzBBeko3eG94R0U2Y0RiMU43M0FoeWhvOV9tR0JmY2hpLW43N3lwTjFGYlJpaEJhOFhrZEpEc3BRM3l6c2pZWU05Yk4wUXp2dEo2M1JnaW1aZnFJWkw1eWdzRUhNbERnZnUyTDlvYnFqZ3MxX0VndGFORVpNOG93SHQwazNmMXpKY0VCSElQQTZDSWVqcUV5bm9lb3BPZVRNZ2U4VjdHWkpGX3U1Zw?oc=5",
+   "data": "2026-11-27T08:00:02.000Z",
+   "cat": "Risco grave",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "qf414y",
    "titulo": "Expectativa por Trabuco na Fazenda leva Ibovespa a disparar 6%",
@@ -1814,31 +1838,6 @@
    "score": 6,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "ucfgv4",
-   "titulo": "Mulher diz que marido ficou mais romântico após jogar GTA VI",
-   "fonte": "Globo",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb2puMElhSkZEU0xzRTI5SzFVcEZuU09ya3VhYllicVgxdldGMnozYkpNeVFxN1FZV1pBbTRROHQyU1hKZ3kyd0pES2tzSC1qYzZTaHVmbm9vMFpsY19INEp3N1FCMHZlYjhXZUQwZGpzV0dVRnRGYi05aWxIWXRFR19Va3RrbGpJWGhGMVNvMWpzWlpQVUJOQ2I1b2kzZTg4RER5anNLemlEMjE3alo2eHJRRk9FV0tGQUo5UVJRTWxkeHpWVEJV0gHWAUFVX3lxTE9pOU1tR3FXUkROM2NaU1M2WkY2ZmRtcFRETWdzeE9mR3ZMSG84N2FiWnFiSUFBcjFOaml2Rkk5NktuQ1pLRnVHdjFFT2hEX25uS3RyMk9oUjhreXpyNTNTUlphdDNZTDg5bUFjdnptY2o0a2tQMXU3X2tuSFU4X0JJa3REcXFmcVFPNEV1YXgtMHRrZEhpX3QySnJqblIzTmFoTWd0WWJPb0pFVF9iZGtIVE1aU0lUZ2lfclhRbWdzV3BkNTlOVzJ3SU0tMmM1eFg1M3FBVEE?oc=5",
-   "data": "2026-11-26T13:43:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1eessr9",
-   "titulo": "Ibovespa dispara mais de 3% com ‘efeito Trabuco’ e IPCA-15 abaixo do esperado; dólar cai a R$ 5,73",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
-   "data": "2026-11-26T13:36:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795703428818
   }
  ]
 }
