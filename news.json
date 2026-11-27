@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T15:00:31.211Z",
+ "atualizado": "2026-11-27T15:30:31.188Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1oetdie",
+   "titulo": "Ações da Coherent Inc disparam com retorno de Jensen Huang à NVIDIA Corporation",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSkdBUzRILTREQWp1S3pNcWJqdVdXVVBmNE5mRFNobTRkdmNLMDFpTktHc3d4YWNLem9PLVNES2liSUItbmUzLVZVQzlnTWxEWjNYM3B1bEg4X2d2VFZHMWdENHdLWHZUZm9TLWo2YmlIV0NxRjFXUDJ3QnBDV1BCN1NkYzRoT05yMjRYX1FhQjVzRDRHVFlCQjVESkxIZ0dEaU5UcUtqWGRKNGkwYllEbk5jWENLYVoxU2NSa0NfenFTdTZjZlVDaDVLbG9fdVFnbGwtS0g5RQ?oc=5",
+   "data": "2026-11-27T14:59:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1d1c2vo",
+   "titulo": "B3 lança stablecoin em parceria com bancos",
+   "fonte": "Startups",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNX3FwcGJfbWxIOUp6c29NZjRiMnNsVmw5TC1JSHVZaW1XTEdNSTlfcWltUTFnbXROUnpQbDJ3WUM2bE5LSEY5emViQ3ZwQUZGSGhzQ3BwTmNTZnQwQjFUUlFZMnVGSVdWdmVPLVFmRk1vcnNNOUk2ZFU4MHZVdnd6OVJJTDZzM3BfVFhv?oc=5",
+   "data": "2026-11-27T14:57:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "jscj1e",
    "titulo": "GTA VI preocupa instituição islâmica por violência e magia",
@@ -742,6 +766,18 @@
    "data": "2026-11-27T10:33:44.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "xovopg",
+   "titulo": "Fidelidade avança com IPO na segunda metade de 2027",
+   "fonte": "ECO",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZjhwSVJKTFYyYWlpQlNFTnM1V0t3Z0UtRWQyV2VJWlFCaC1zcnZQODVhc3JSZ3VPaWU2TUdlRndnRVNPOE12U1RlNDdPU3ZreHc5cHo4a3gzcEw1UGh1NHhLdUpJVkRzR0Nud1hhWFRsbUR4OWRHZXZsNjR5RkNVSVQ1T2g2WGo3ZFFN?oc=5",
+   "data": "2026-11-27T10:33:15.000Z",
+   "cat": "IPO",
+   "empresa": "",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1802,42 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gf9cx2",
-   "titulo": "GTA VI: onde encontrar todas as praias e resorts nudistas",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdlFsbVIyZVA0aTJneG92VE85YXU1OGdoTVBOVjJLRnAzVk95b2VRM2c5cU1YSTc1Q2V6bjRQTDR1el9IVnZBRnd3Y0Z2aGNhOVFqU3NQOHBYcWw5NU1aaExqMzNZLXhnOGdTcTdxTVZfS1BJWUhUOU9VbHVhUF95Y3o1VQ?oc=5",
-   "data": "2026-11-26T17:45:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oyzbpm",
-   "titulo": "Funcionários da Rockstar rejeitam criação de sindicato após lançamento de GTA 6",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRkxrNkpLN042bDVqLWNOblIxUW91a1FCdW5WS29kNUszdVJscnpqMjVMRUxZTmxPM1lCQXJFRTh6c3JxVF9zcGJhdlhWUXI5emt5SkU1dTRvcWk1eWp4dUxpdm84c1pfUzYycHprNGhyYXRqSExXV0Q1Z1pCOTBudUgybGNiYTY3NVdqdkp2NUNVdzUxYng4MFl1V0w2R0tIYzNhQ1BpZkI0UmdxdGYzaVFfZ0thakhEamZLRW44Y9IBxAFBVV95cUxPSGtVUHlnY2oyMjBSU3R3YlBJN0JRcG10T1h6d0xNNkoyVmd6aWhKMml5MDB1STY4bDZWMk9sMmJPLXBHX2xLci0xRmd0NEt6QWVPVVRjV2xrcFdpYTdWZXUzSndnWGVKSXBvX0RRZFY2c3RPa05kNTFzSGF2a21pMFJod05POW1LT252em5Ld0dKRnkyRTJNakVRU0V6dzN2MC1EdWF2UVk3c1M5WHhTNEttc2xNQ0hRTmcwbkZRM0NsdUMz?oc=5",
-   "data": "2026-11-26T17:45:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wbet26",
-   "titulo": "Instituição islâmica alerta que GTA VI ensina 'violência' e 'feitiçaria' aos jovens",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQnp0bTdYOWVDQmYxNllaMThkQzc0NTVRUUdjc3ZadlRweThJeDlFTDJ1RjczOTVXTDg0ajdrTEU4TzVvSEg5NFNaeGF6TG01TGVnQnRNUVNtVkdhRWJackZIUnBRSnQwWEZKNzVfTXFMWS12bFVjenRwbE9YV0Vha0ZZUUduRU1fTldvZlBlRDVrWFN3SjF5SzNPbHQxa1lpTkRPR2hNdTZFYjFQbjdZUzQ0cDhNa0pKX3EwWTQyZ0xFdXo0YXo3ZVp3d0d1ODhxR1hrTkFveHVHcUtCWnFGOThBVTIxQV9GU1JvbVBsd2pIalpTel9DZw?oc=5",
-   "data": "2026-11-26T17:41:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
