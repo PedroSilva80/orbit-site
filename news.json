@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T21:30:27.222Z",
+ "atualizado": "2026-11-27T22:00:35.787Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,43 @@
   }
  ],
  "itens": [
+  {
+   "id": "1daf3rs",
+   "titulo": "Ex-CEO da Disney terá engravidado uma funcionária com quem mantinha um caso extraconjugal",
+   "fonte": "SÁBADO",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWU05Vzk4VE5qX1p0OUpjZnVzNkxab2VyM1BJUVRiWXdvTjY2NlYydUhwS2lYQ1lhRHBRNnVGdzlkbF9MY3JUTEpfM0lmN2REYU5mY2ZicHhJZ3JoXzhLWjZJT2dsT2x2TXVxYW1MTUthRkJBWTVKbjdBVjQwb3ZtT1J3VUJGei1qc2w2dGh6dE5lT09wQWVhNVZDSnhRVDZFS183anhzOGpnOGpkZ04wWlc1aFQ3S2Y4S01DQkVyV2gwMC1R?oc=5",
+   "data": "2026-11-27T21:44:31.000Z",
+   "cat": "Liderança",
+   "empresa": "Disney",
+   "score": 8,
+   "marco": false,
+   "avisado": true,
+   "avisadoEm": 1795816835787
+  },
+  {
+   "id": "1bbrnjm",
+   "titulo": "Ibovespa cai 0,13% após disparar no início do pregão com Trabuco; índice fecha semana com alta de 6,13%",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObkZ5bGFmbm9KVFI1NjFUSUl3YjM2UjlEbTJCbEt2ckliYnp4VVRpblJzQXEwR1hfUU5qN3diVmtQdVBIa3Q1Y0ZSZWxDQS1GMmx3RzBKTDZzNWVEdlFSSVZZVW00cG1XTUV1a3U4eGJ5bXhSRW4tbGl4Ukd4WHpDaVVPZkFNclJfU21FQ19uUzJwMmJIbFdPUTBpNzY0RGs1dERhMkswLTliQVozVGlvME9LeXdRZUkzYURyZXFSRGtLUEVGWVpseFRjbm9YZ29CdURudEdlSGpJVWV0ekpJ?oc=5",
+   "data": "2026-11-27T21:43:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6xn9l3",
+   "titulo": "Ibovespa recua após disparada com efeito Trabuco, mas acumula forte alta na semana",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmhoc3NVemttel9CYzh2MHRLZE01bEpZVkNCVlduTzhOdjJjd1lHdkZlWWVSdHRoM3RuMFpDWHE1c0V4ODNUVTVjOE5fMEw0VWZKMFVnUE1fajVjODZ5bFptM1N2RXpXYU4yVlZKeDBkQ25LM1lFVF84VjAyQkVZaC1fNWtzbDdndWRlQTgyU1ZMQmFZQUdIZy1nOFlmUTRjNGRDRzVBSFAxaTNxWTJmdUNaUEdQZm5f?oc=5",
+   "data": "2026-11-27T21:39:49.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1mxdl0u",
    "titulo": "Apple e OpenAI em guerra judicial. Criadora do ChatGPT responde a acusações de roubo com novo processo por roubo contra a dona do IPhone",
@@ -1492,6 +1529,18 @@
    "avisado": false
   },
   {
+   "id": "15i2dq5",
+   "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar, e dólar cai a R$ 5,74",
+   "fonte": "Rádio Guaíba",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDFlSWl5aXh5V2UzWDJsRHJhUUNhdTBNMGc3ckJUTHFQRGRsdG9QUHNzTl9vckk0ckdITkxRSGtVdzFpWFA3S3pCTmt6X1YyeG5ydDlDeDZBaUhsVjBLZXI3ZENjVFJaS1MxMUNqb2FkajIyVEkwUXpITHdhXzdab05GTlM0RzY3Tk5rOWFycFRnYnJKSWdlNVFkaHVJWVJTV3ZVQ1pad0Fpdw?oc=5",
+   "data": "2026-11-27T10:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "17qyyfa",
    "titulo": "Ação da SpaceX dispara 7,5%: será que doação de Musk pode desencadear rali maior?",
    "fonte": "TradingView",
@@ -1791,55 +1840,6 @@
    "score": 6,
    "marco": false,
    "avisado": false
-  },
-  {
-   "id": "1ifis0l",
-   "titulo": "GTA 6 | GitHub, empresa da Microsoft, faz post celebrando ferramenta que reescreve jogos de PS5 para PC",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDN5SEgxVUtGanUzMkVGQlRTWDc5d292bTNuUVNTZkxvVS1LREtJc2o5VF9IenphaTM0X3Z0RVhEZVNLQzAyTGlxRW9laVUtVkwwQ2MzZVQxSkdxajdmTENGQlVrV1NzWkxlQmt0YVo0Z3ZnSW5GWGNvcmRFbWZTbE5wV2h6R3hfcmlHN1JyejRQTUt6Y3dGZ1RjN2NPa2tkOHAxWTRCZ1MwalJ6LVhlSg?oc=5",
-   "data": "2026-11-27T00:04:24.000Z",
-   "cat": "Lançamento",
-   "empresa": "Microsoft",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xjr1zv",
-   "titulo": "Retorno de Jensen Huang à Nvidia cria novo boom de deepfakes",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0x6OVhKTXp3Tk1hd3cyZ1FlSDk2NzhQOGtoMkN1RGlzMERISFprbHVHeTlHVHhoQjVVZmwxTTNTVy1GcnZkcWhFa0dHZnF0YmFzUFVvYmk2N3UyUFV4MzV6WFpyeUlzODBCaGRuaTd0R1BZbU5IT2lxNnVBaklqaU91bFl6NzlBaUlLRFB6OWt2Tjl0d3FYUjg1SXZ6a1E4X1NUMGpvUWpCakYzSllZNg?oc=5",
-   "data": "2026-11-27T00:03:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dwf2mk",
-   "titulo": "Ibovespa dispara 6,07% aos 176.799,84 pontos com IPCA-15 de 0,22% e sinalização fiscal no Ministério da Fazenda",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeGJoZ3RSZ24zUDVaQnE2TEtUN0p1Rm5CRjI2NGI3WHVRTnAtV1dZY3dlSnJEYkNDUHZ4WkROR01CMUd1emVUYk5ldTEzRHE0M05sT2xwYWwxbVp2NGNMdHl6bE9MUzlyd1pjS2lGRThFb1lkQ29KSmhuVzBEbnZOSThUT0hGT25ybGFabmpEdmhMUE5zdWhRYmNqYVllS3Ytd0t2UmxRdHBZZXpzc0dSTXM5SmlmRGRENzBLanZCOU42cmx6c292OEtxTXZlRTdwUFJV?oc=5",
-   "data": "2026-11-26T23:58:25.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mxt1ie",
-   "titulo": "Apesar de anúncio do Planalto, Trabuco ainda não renunciou ao conselho do Bradesco",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWFZsa3p0LXVKLVhCaEpZV2xFQzNZWUtsWjNpd0dfZEtoREJpRFplaW1rYUR2ampUdUZBdC1xTklnM2I0emdKYnJUUWtwaEJJaEdQYWJrdE5RTEdEV2VBUGU5M3FQOUNfaFIxNnZ4cVlPaEZuSVlUcUxOU1JsQWx4d0NaeHNBUElac1hPR3NyT2ZGTlFWMElaRlRvdlVnRFhBX21TUDRJOEQwTnVwUVB4TC1pTXJCNU9MYnNuX3NuWnR4LU8yWm8yTVRyNnBqVHRRdGVz0gHiAUFVX3lxTE1XVVhrRzhuZjVtWGFTb2Q3T3R5Y3FKdFFRVWtzdnlWS19DTXozUVR2YXNSMlVtdi1PMmU0eEZnMzQxbTN6UmZublYwRmVmd2V0QlhVbk5DcURYcU5PM3dydzRNTTltTElzOWNwQnFrU2ltUGhCajJqTml3aE5jVHNmTjJ0WGFuT0pwZGdRQi1iVnVjLTY1X2lfVWxKOE9UY2pIczZfUk01OXMyVndKSmRYZmxyb2tsdmFTb1hkVUtCeGoyWl9NWnI3MThxUmh5UEh4TXlkbjV3TXJtTzdiUkFuTmc?oc=5",
-   "data": "2026-11-26T23:53:39.000Z",
-   "cat": "Liderança",
-   "empresa": "Bradesco",
-   "score": 9,
-   "marco": true,
-   "avisado": true,
-   "avisadoEm": 1795773634083
   }
  ]
 }
