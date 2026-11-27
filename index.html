@@ -876,7 +876,7 @@
     S.pos.forEach(function (p, i) {
       var c = cache[p.t];
       inv += p.q * p.pm;
-      if (!c) { atual += p.q * p.pm; html += '<div class="item"><div class="line"><div class="who">' + avatar(p.t) + '<div><div class="tname">' + esc(p.t) + '</div><div class="small">' + p.q + ' ação(ões) a ' + brl(p.pm) + '</div></div></div><span class="small">sem cotação</span></div><button class="rm" data-rp="' + i + '">Remover</button></div>'; return; }
+      if (!c) { atual += p.q * p.pm; html += '<div class="item"><div class="line"><div class="who">' + avatar(p.t) + '<div><div class="tname">' + esc(p.t) + '</div><div class="small">' + p.q + ' ação(ões) a ' + brl(p.pm) + '</div></div></div><span class="small">sem cotação</span></div><button class="rm" data-vd="' + i + '">Vender</button> <button class="rm" data-rp="' + i + '">Remover</button></div>'; return; }
       var val = p.q * c.price; atual += val; partes.push({ t:p.t, v:val });
       var sg = sinalPos(p, c);
       itens.push({ t:p.t, txt:sg.txt }); falas.push(sg.fala);
@@ -884,7 +884,7 @@
         '<div class="num">' + brl(val) + '<div class="small ' + cls(sg.g) + '">' + pct(sg.g) + ' (' + (val - p.q * p.pm >= 0 ? '+' : '') + brl(val - p.q * p.pm) + ')</div></div></div>' +
         regua(sg.g) +
         '<div class="line small"><span>Preço ' + brl(c.price) + ' | hoje <span class="' + cls(c.day) + '">' + pct(c.day) + '</span></span><span class="chip ' + sg.tag + '">' + esc(sg.txt) + '</span></div>' +
-        '<button class="rm" data-rp="' + i + '">Remover</button></div>';
+        '<button class="rm" data-vd="' + i + '">Vender</button> <button class="rm" data-rp="' + i + '">Remover</button></div>';
     });
     $('posicoes').innerHTML = html || '<div class="small">Nenhuma compra registrada. Quando comprar pelo app da ' + esc(S.corretora || 'XP') + ', registre aqui para o painel acompanhar.</div>';
 
@@ -1072,6 +1072,8 @@
   }
 
   document.addEventListener('click', function (e) {
+    var vd = e.target.getAttribute && e.target.getAttribute('data-vd');
+    if (vd !== null && vd !== undefined) { venderPos(+vd); return; }
     var a = e.target.getAttribute && e.target.getAttribute('data-rp');
     var b = e.target.getAttribute && e.target.getAttribute('data-rw');
     if (a !== null && a !== undefined) { var rm = S.pos.splice(+a, 1)[0]; if (rm) { SY.ops.push({ o:'rm', t:rm.t }); sySave(); } save(); render(); if (rm && S.ntfy && S.aCel) enviarNtfy('Posição removida: ' + nomeDe(rm.t), rm.t + ' saiu da sua carteira no painel. O servidor para de vigiar essa posição.', 3).catch(function () {}); }
@@ -1106,6 +1108,7 @@
     SY.ops.forEach(function (op) {
       if (op.o === 'add') pos = juntaPos(pos.concat([{ t:op.t, q:op.q, pm:op.pm }]));
       else if (op.o === 'rm') pos = pos.filter(function (p) { return p.t !== op.t; });
+      else if (op.o === 'sell') pos = pos.map(function (p) { return p.t === op.t ? { t:p.t, q:p.q - op.q, pm:p.pm } : p; }).filter(function (p) { return p.q > 0; });
     });
     S.pos = pos;
     CAMPOS.forEach(function (k) {
@@ -1246,6 +1249,25 @@
     if (S.watch.indexOf(t) < 0) S.watch.push(t);
     $('wT').value = ''; save(); atualizar();
   };
+  // Venda: tira so a quantidade vendida (o preco medio do que sobra nao muda) e avisa o lucro no celular.
+  function numBR(v) { return parseFloat(String(v || '').replace(/[^\d,.-]/g, '').replace(/\.(?=\d{3}(\D|$))/g, '').replace(',', '.')); }
+  function venderPos(i) {
+    var p = S.pos[i]; if (!p) return;
+    var c = cache[p.t] || cache[baseT(p.t)];
+    var qs = prompt('Quantas ações de ' + p.t + ' você vendeu? (você tem ' + p.q + ')', String(p.q)); if (qs === null) return;
+    var q = parseInt(qs, 10);
+    if (!(q > 0) || q > p.q) { alert('Quantidade inválida: informe de 1 a ' + p.q + '.'); return; }
+    var ps = prompt('Preço de venda por ação (R$):', c ? String(c.price.toFixed(2)).replace('.', ',') : ''); if (ps === null) return;
+    var pv = numBR(ps);
+    if (!(pv > 0)) { alert('Preço inválido.'); return; }
+    var lucro = (pv - p.pm) * q, pc = (pv / p.pm - 1) * 100, resto = p.q - q;
+    if (!confirm('Registrar venda de ' + q + ' ação(ões) de ' + p.t + ' a ' + brl(pv) + '?\n' + (lucro >= 0 ? 'Lucro' : 'Prejuízo') + ': ' + brl(Math.abs(lucro)) + ' (' + pct(pc) + ')')) return;
+    if (resto > 0) p.q = resto; else S.pos.splice(i, 1);
+    S.vendas = (S.vendas || []).concat([{ t:p.t, q:q, pv:pv, pm:p.pm, data:new Date().toISOString() }]).slice(-100);
+    SY.ops.push({ o:'sell', t:p.t, q:q }); sySave(); save(); render();
+    $('status').textContent = 'Venda registrada: ' + q + ' x ' + p.t + ' a ' + brl(pv) + '.';
+    if (S.ntfy && S.aCel) enviarNtfy('Venda registrada: ' + nomeDe(p.t), 'Você vendeu ' + q + ' ação(ões) de ' + p.t + ' a ' + brl(pv) + '. ' + (lucro >= 0 ? 'Lucro de ' : 'Prejuízo de ') + brl(Math.abs(lucro)) + ' (' + pct(pc) + ').' + (resto > 0 ? ' Ficam ' + resto + ' ação(ões) a ' + brl(p.pm) + '; o servidor continua vigiando.' : ' A posição foi encerrada.'), 3).catch(function () {});
+  }
   $('addPos').onclick = function () {
     var t = norm($('pT').value), q = parseInt($('pQ').value, 10), pm = parseFloat($('pP').value);
     if (!t || !(q > 0) || !(pm > 0)) { $('status').textContent = 'Preencha código, quantidade e preço pago.'; return; }
