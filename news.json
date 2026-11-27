@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T11:00:36.002Z",
+ "atualizado": "2026-11-27T11:22:49.743Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -36,6 +36,42 @@
  ],
  "itens": [
   {
+   "id": "w32jyt",
+   "titulo": "PS5 na Black Friday: oferta ativa na Amazon para jogar GTA 6",
+   "fonte": "LANCE!",
+   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NVEF0MDdfU3JjNmJ5YnhIV2ZyaUFpT1hjZzJJYkZTWEhQNzNndVdNLXZiQWxaTS1HWWRFazlJVkZPWFlsVGRFZlMwX0Y0MG11V2l0am11Y3JpZU1BaGFDc1Y1QzF0MTlHMVc4UGhrS3dULU0?oc=5",
+   "data": "2026-11-27T11:11:52.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1aafqou",
+   "titulo": "Diretor de GTA 6 revela que a Rockstar criou três animações para cada interação com objetos",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHVqaEhETU12b2h4SW91TF9ESER1S0tOaUN0ZS1lMXM4Mzh4Y3VEUExtWGJCRXkySEtxMGtWREV0R0VxcEp3c2hHaHJqUkcyRDBpLS1vN2NHZ0pweUdWOEpDeDJtZFFjdnVnNDh6YWQweWRBWGJ0a09XNEVpblBuRkw5a1RMRnYycDg2WEoyb2YwX09HQUV6clM3TW5aUHVuRFBfNUk0ZnVwcGgyX09pcUpVZTdIaEI3Q1g5bEdLMkx4ZnhpdmJPa3BuOU50S0FMOV9B?oc=5",
+   "data": "2026-11-27T11:05:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xqa1z1",
+   "titulo": "Petróleo Plano de Negócios da Petrobras 2027-2031 prevê perfuração de poço exploratório na Bacia Potiguar",
+   "fonte": "NOVO Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVF1LUlXb05iMGluTjZhZDJSNkROd2doeGFMTnVUWFdSdEFTVFBfWHZrek1uVUhsWVdSekVaUy1waWQ4ZUlVUFRHRFgyMU5vdWNuRTdvWmY2MlZ3bVlOcmlqNnhLX0xvWHBNRkFTNlUxZ0hhbnhEbmhuSWNDNFJmV1FKcmxWVHpvRktrUlZRdFlBNDcyX2p1SlY1eFJmMU1rTl9RQzQ5eF92TTJrT0Q3VkZDZVNoVlVubHJBem5RS2N5OFE?oc=5",
+   "data": "2026-11-27T11:00:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1t8kj7t",
    "titulo": "GTA 6 para PC: Take-Two derruba 3 mil projetos, mas não impede avanços",
    "fonte": "TudoCelular.com",
@@ -43,6 +79,18 @@
    "data": "2026-11-27T10:33:44.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14d6qdc",
+   "titulo": "Braskem salta 12% na B3 e 25,5% em NY após notícia sobre acordo com credores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
+   "data": "2026-11-27T10:07:45.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -140,6 +188,18 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "wzgful",
+   "titulo": "‘Efeito Trabuco’: ETF do Brasil no exterior dispara 12% e Bradesco salta 14% em NY",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZGVEcDdKX0c0b0R2dDYxaEJBbWxuc21DalBuSURaMEJyMmRwOTVOcVFRQ3dMWXVMc2ExbGNHa0pJck5sNVloV2ZTNVRNSWxwR193UWMtREdJdENocU1mYXVlaTRKQVhWbXB0Zzdod09ZSTRuZUo1MUo1SktwRlp6d3pVOGNrZEZPWXJmV1VIMmhmSlhWZHlONUktdWNBQjFOVTVpc3phUmJ0bThhWFNHS1BEaGJGdlUtN2RTanZCQ1lPWlNJbkNv0gHMAUFVX3lxTFBXUmxQdS0wZFdQdWxjN3BHUjM3M2VJaUR4UkUxRDdZOFBoRkZ2SU9wMmlNcXpaQjAtQTAwX3FxaVRBVHZ1RER5RHNLaG16WHJMREtOeXpnWEx5M2FxbVRkak85TUd3TmprUnBVTG81NTN0R1lWc0dLMnlIQnJwc096M19PNXM1M1FhN0ZrdTd6RlNXQnR5TU1RY3Vfay1nTmd5S2tud0M5YmM4aDh4elNnMnJueFhZcGZVUGV0bEVNYzhBTVZZbWNUVnRYcw?oc=5",
+   "data": "2026-11-27T07:26:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1778,66 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Suzano",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yjhq7z",
-   "titulo": "GTA 6 está próximo de rodar no PC de forma ilegal, apontam grupos com port de IA",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOelJOUlM1X0Q0VXZpbjhKR3hLX2JsRDVjZnZ6WnM5blNsOWUzdnpaV2VsbGdacl9KN25LaG1hT3FDUE5JUVQ4bzc3UVo3TEMxMmVOd1cxcTQ0RkxMNnB2QmJZdmYzSFlNejB2OWg0SVZUMlE2QjZPZk84Vml6MnlibDNaQnFuZFowbUU3RlNVOE9zVGd2THVsb0dzT1JUQkFlbS1lQXo0Z3JkeDZFbC1CVzRFT0pCdldTQmlDOWZyb9IBxAFBVV95cUxNdnlibHUxZVY0bV9EQ1hwb0ROX3VPZ0ltS2p2OWRCeW1WR3ZudW5XTDczNVRvSDlHcGRFNE9ZSGZBRG9zUV9ZNFZqSlBwVTJweUZNN0JBS3BmLWhzMlVmV3FVZ3VDRFlKZkhrMWI2TnBNQzdjdmhvaDhaRjJzZGNuMUEyMHFaLXF3aUxjTnpsaXdXa3l2NWg5VzVTMS01Nk9zUXhRRy1pWk9PLTAxNmdOQUlYYU0wSmREWG9DWnVuQkJIVmJj?oc=5",
-   "data": "2026-11-26T14:15:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rw3w6",
-   "titulo": "Polícia investiga grupo que tentou comprar o Master por suposta fraude",
-   "fonte": "Congresso em Foco",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa2tOaGJPWUFIak5kc2xTWkVJZ1NsUmlZeWpLaDl5a0xqeWxmclRzY3hvTXVXTjhqYm5KMjV4VDdraFdCdG01Q3R2dlZNNl9VNFJaNEgzdmY3R3FZTlh3SzdsYWh2bHVENXFDVWM2di1LZ2FWTVlabnNJMUM3RnA5blI4dWVCTmdMVWx3UUpjNjMzRTVpT3BjZTA4Nk9SNnNQY2R2T0lKZzcwQ2RlMDJsbHZnbWxIX2xZZXFqcEZNTVQ3UQ?oc=5",
-   "data": "2026-11-26T14:11:26.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "qr9xvm",
-   "titulo": "Famitsu — 16/11 a 22/11, 2026 | Estreia de GTA VI no Japão faz PS5 acabar com longo reinado de vendas do Switch 2",
-   "fonte": "NintendoBoy",
-   "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWWZKa0lEd2UzLVJVV2tNenVFazIzWVIzc3RUZGxuRkxpVXV6djBuT3dXcDVMNUljQ3pTUEljY210MnJUNzdLYXFZV2ZzNFI5VEFXbDQ4T25QRVNWVkF0X3hYRWlRdVF4azJJalFCQkhHaXNUekFWUHJJaFA5U2xmbFZDVElrVkdpUkJVZzllbUdrelo1S0YycGd5bUs0TFBLQWZzeGZWamw4UHZSSkV0cFRraU90Xy1ySTdBbEctUW1DMTVGYnNWd0Y5NkFHbXNtXzMyaTRkeWpqNWt2?oc=5",
-   "data": "2026-11-26T14:10:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "75mihj",
-   "titulo": "IBOVESPA DISPARA E DÓLAR CAI ABAIXO DE R$ 5,80, DE OLHO EM POSSÍVEIS NOMES PARA A FAZENDA E POLÍTICA FISCAL",
-   "fonte": "Bahia Econômica",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYzNkZjB2TFN3Q05kSmtHTmNqQnE4dmZVY3JfZUFQZm0wZ05jMHRNTmNkd1lkS1N3aGNlc1c5aDlvZVdtUjNsWFB3eU14TTlxMkIzMktyWkZhMzJLVWV2aVE1bUVRaFVwU2ZYYlo0MlVVMWlQWXNCOE5LWVBsRFltVEo2UzJLTm1ReHNJeFF3NE1FcVNiZFpDRDRocTl1dzZDYWJtWHRsbnRXRzY3MlQ5aXpTNmF4TXI2OFZwOUhFYlhsa2c1ekZFVHZ2UWxtVTBrYTNjaHpnaUpPeS1sQnF2eE5hTS1iNEh4c1lGSV9FbTI4NDA?oc=5",
-   "data": "2026-11-26T14:00:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zggl9w",
-   "titulo": "Take-Two limpa 3 mil repositórios no GitHub e sinaliza guerra preventiva contra vazamentos de GTA 6",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVXNkT1dLU21iNENEZ2VGSHVLUE1WejlUbGoyeEpENUFkSHkxZWpfREJXcF8tVmVpTExCdUU4VjlncU94cW5pdThsV1VHamRnT292RmxZQjNubHZKTFZtLXZCRGJxclBsclQ4YXAyQlFEWHFvRmdIZGJLU0FGNGJCeXczbEE4eEVsMGJnXy1hMkp1dw?oc=5",
-   "data": "2026-11-26T13:58:48.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
