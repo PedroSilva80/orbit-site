@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T10:00:34.083Z",
+ "atualizado": "2026-11-27T10:30:29.042Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1dfoo2w",
+   "titulo": "Lula saca Trabuco na Fazenda e anima mercado local em dia curto no exterior; Ibovespa em dólar dispara 11% nesta sexta (27)",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPREIza3Eyc1lNSjl3eXpSVVpRVlVlVDVUelg4LUNLaWlPbGwtWFpCOF9YdnlKMDBrVGFialVid2FDVDNyNmtrNUVOYzN3ZzR4QllzUXR4SW5oY2lSdVR1Tk14V3M3b1Qzbmhsa1dXSlB2Nko1VENhdXRqNTBEZ21NQWJDTzlud2g5U3JUUzRsZkZjZWhjeWs1alRLTDBGQU1OSzRJeFhyWTVKMlVORzN4RGRCVlNuaWVMeE1pMzVWUmtJVFMwTDBvU2tSaEQyRkQ2U1pYMEtjdVItNWxzUmlqdWx1cHYyYXYxQi1F?oc=5",
+   "data": "2026-11-27T10:07:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "co5bcp",
+   "titulo": "Day Trade hoje (27): Ibovespa dispara 6,07% e dólar testa suporte decisivo",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTN2UXVpV1h3dUpNNlQyNHprUE02Wmh2WV9BNk0tcExqbktTcFpidHpJd3I4UTNMUklQMVhDSHpPVTZSTGJNS3RDRGUxei12N0lLSjBvNnNZQ28wVFJNVHBtQ0JOdmIycHFILXBraXNwWllTR2pqVFhWRTM5bG1WbDUzcWRaMUxz0gGOAUFVX3lxTFBZOTJQV282eVNJWGIyVjNYMGhaZXY2dFZzZWJBSEx2VXR4eDY3dGJtVU5iSGRQaE1laVpwbXd4azZJOFRULVVFckdsV0JZX2FHRzgxM2ktU2xqamtObnBlQ29VNFZRV1k2WlMxS1B5VU96dXlQVExNdmJZNzdmbzB6VFlmLXBTQVhqdDgtTmc?oc=5",
+   "data": "2026-11-27T10:03:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "12a7x13",
    "titulo": "Anthropic dispara acima do preço do IPO no intraday, pode ter dificuldades para superar US$ 100 antes de 2027",
@@ -80,6 +104,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vo2pvq",
+   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGthTERRaUdjREJ6bHJiZmlVVkcwRUhQQkNuQ2V3Um1FeGFtOWVUbktCQ29FOWZaeDM0dl9SckRzQktmNEctVUhYblAwSjRVamkxdFU4ZTFxc2JWU1JSdlYwMHVvSFBkWERIV241TUxxVGRiZE1yZDNXY0hyaDFlUTlWN2FvVG00RUs3V1IzclZWNThoZDUwbG45dWNWNmN1S21vYl9kUDhFRzlFalJERUZ4R3h4Z0sweFE?oc=5",
+   "data": "2026-11-27T07:40:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1801,42 +1837,6 @@
    "data": "2026-11-26T13:55:03.000Z",
    "cat": "Lançamento",
    "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "8csufd",
-   "titulo": "Ackman: meta de 2% do Fed levaria EUA a recessão",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR0JOdjlDOWdKRHB4YjNhMFNrX0V6dC16NTliRk1OZ3o4emR2OU1nRVNnTnMwX2duZkVBOVZDT1ZxMFJvUE9taXRWQnYtbVNwZzhGdFVXVzFEeE5qUlpmbFljS0N2ZElQMVhsbHY4MUxIYzhGUTluYVZYNkRfcHFsWm1Cb0QzTzFkNEZhOVVCNVh4WUg3Y2U2dw?oc=5",
-   "data": "2026-11-26T13:53:32.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zdywgt",
-   "titulo": "Ibovespa dispara 3% após dados da inflação e boatos de Trabuco na Fazenda",
-   "fonte": "VEJA",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaEdkUl9MZktOQXBoaTZnS0ZnbjZBVUxKajFwa3VVSWpBV3AxZ2tra3FtZk42MVp3SHJFRjBIWjNPM1FPR3VOazBNakVta3FIVVBjdm9Mcnl4NFZpOGdzTk15RnBNalo1b3VUc2IydXBRUG5XOTg3UTY1NmlZdmdrelBLdk5fajFrb2huVEpGRkoweURUNmV2VnBVdGZteWNWYVpnZlZ5YlRGQlIz?oc=5",
-   "data": "2026-11-26T13:45:21.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yr1znm",
-   "titulo": "“I”, do Black Sabbath, cresce no Spotify após ‘GTA VI’",
-   "fonte": "Wikimetal",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRUZUY2FLNFdYM3lMb1RJX2pablUyOVh0V0FMMG54czNJZXFEN3RSR3hhVVhtbXhoZlVwYXh3czlKaS1TY3NBem1qRlV3cnRFTC1EQzBLTHpWa1RUS1BUWHlkVHV6a3B1YkYtUlJhQUFOZ3ZoMFduem1OWlFvbGNYTWQxNHjSAYoBQVVfeXFMTnBXRms1SVBfTWRzNTF5TThUZ0R5VWdiQXN1VDllc0Q5MS1mZjNkLWVILVpHelVLS0k5N2VwbWVIZjVka2ZIbS1NbHJ1NGlwa3BhaVpWaWt5RzlzTzFUTUNxQU5rTWFOZDliU1huS21JWmxPN0N4VlZQeXFETjRlMXlhQlhqdFpyTkhR?oc=5",
-   "data": "2026-11-26T13:45:18.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
