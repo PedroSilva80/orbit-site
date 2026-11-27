@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T06:30:29.616Z",
+ "atualizado": "2026-11-27T08:00:39.701Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -34,6 +34,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "17d85nl",
+   "titulo": "Desenvolvedores da Rockstar detalham os recursos cortados de 'GTA VI'",
+   "fonte": "Hypebeast",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczZYNU0wMG5FaWN3Z3NBWnZ0b21kTFgxWGNmU0M4UkxIYm0zMXkwUHc0VjZfWTZmRC1SSXpxYUREYWxkWFI4VUNlVmlsUjUzOU9Mcl9KVm1sMEM1a2xpSFYyU3JsOF9fVm1fVGNXUXEyWVA4NlRjMjNLUHRXa05ueGVzTG1HQTRCeXROc0VFajdxRzJOb3hLdTdTeDdKUTBVSjNUMVdGNng3QkRsZzA4SG5FOF8?oc=5",
+   "data": "2026-11-27T07:40:32.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "dz7t37",
+   "titulo": "Coca Cola HBC AG conclui aquisição de US$ 2,6 bilhões da CCBA",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXZsV2VaNDVKU2p6cnBxajdHS0J3NGZrQWVZTGZjWVhJTVcwWWw4RzM4R3A3bzhrNmVoVzFvUHdWUkttOENzQkdmNGRGYm9BQ282RmhVT2thdVBuWTBVTVZLOWdqQTR5WE9WVDZOMDRPcVhJamlVRi1vRG1hU1B2dTA5a1BGSGEzOGZzRld4czNBWUFOaEFab2g5TkJCczFJM29Wc0diaUFHcHY4a0ZSUW96UUFsMWRSNVhPbw?oc=5",
+   "data": "2026-11-27T07:34:00.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "ir24ci",
    "titulo": "Netflix troca estúdio de Solo Leveling e antecipa série em dois anos, acirrando guerra dos webtoons",
@@ -1813,30 +1837,6 @@
    "cat": "Mercado",
    "empresa": "Ibovespa",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "gkzh9l",
-   "titulo": "Lançamento Amazon Leo: status dos 36 satélites",
-   "fonte": "NeoTeo",
-   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcWkwU3kyemk0Q2Iya3l3ZWlNWFlBOFdLOFFuVGJlbEJVT2RyWFFTci1CN0J3Qjg5NHZhdkJYUTVqcU5KV2IxNjNCY0NEbFBvM3JaNnRlcmE3ZHBxOUdUeDNFTHY4N1hGU1B5VDB3a1QzVGx3MDZOZG54c3AyT0xfMjQxY1FJZw?oc=5",
-   "data": "2026-11-26T13:31:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "112jxx",
-   "titulo": "'Anflopic'? As lições ao mercado de IA com tombo após IPO histórico",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV01kUUpRX3BsZlp3MzJyeG9yRUx5OEFMTUdZR0p0R1VBV2xPdmtMZXhhMVZVVmJNeDVyRkh3RnN3d3M0b3lPcjBFV1JySGJTaV8wUGhLYURROExrTGxBZVhBV3YxdXlMNEhKNGlzdHpVMzZXdWdiWHMxQjJ2aEVPQk8wd0VYZGpub1ZPZXVteFBLbFc5S0dpalZDcHV1Q3BCN3lrS3pXNjJjeGFfZGtEeWFrbExiNUdNZWZMM1J4QQ?oc=5",
-   "data": "2026-11-26T13:30:00.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
