@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T10:30:29.042Z",
+ "atualizado": "2026-11-27T11:00:36.002Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1t8kj7t",
+   "titulo": "GTA 6 para PC: Take-Two derruba 3 mil projetos, mas não impede avanços",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVVkUWZZenJRQzRPeWxwaC0zWWRpYlNoTjdkMXg0YkVpMXdvU1JuTWJIRjVyQ01yNmNTZnhqdWYxQ1dGTEFIUGoycnN1ZUJRdnlaMEd3eFlKRHl1bDhjVEZZRkE2ODBGYk1URzg5WjJZbHRLUU9Fc0dlTTBVaE5xQ05KTTZWS2I5LW03RThmWTg2TGhkV1F4b0dxM2ZSMWhIU1NROHdEbDJQWUU?oc=5",
+   "data": "2026-11-27T10:33:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1dfoo2w",
    "titulo": "Lula saca Trabuco na Fazenda e anima mercado local em dia curto no exterior; Ibovespa em dólar dispara 11% nesta sexta (27)",
@@ -1826,18 +1838,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nc9mui",
-   "titulo": "Senai Amapá lança edital do programa Startup Indústria – Amazon Innovation",
-   "fonte": "Diário do Amapá",
-   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPMmxWM1liWUVNT1dYVjFvT3B2THNueGNPQ01Lbmx6MWRVRHROenI3TkpEVzdNc0tkaGxONHUtNEw4NmNEUzc0bER5dmFNaXRjNGU5c2FkRzNjWGZna0d3d1NWODBJSlhNXzdGTGRHRktYN3FFQm9OMlhxQUx0cVo3LTE3X3ZqTHZsQ0tocXQ5MWpLQzJROUw2U210WW9EM3d5VmdHd21MLWdvN1d6OEVBQlNZUWViZ2RTM2taQVZNY1U?oc=5",
-   "data": "2026-11-26T13:55:03.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
