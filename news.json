@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T20:30:27.156Z",
+ "atualizado": "2026-11-27T21:00:31.030Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "15qlfmj",
+   "titulo": "GTA 6 | Desenvolvedor defende Rockstar após votar contra sindicalização: “Melhor lugar que já trabahei”",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQaEI2eThTd2VNXzNkd2dkYzFSZkNJd1NKWHRKSlJWSXBNYlJGQmMyTVE1cDJVdUNmelFFSXAwdTJGalFiLTYtNHdQS3o0U3FzLXZwT25WRF85aVNrZVA0V2dxRFBrb0ZYVU41Y0QzTFNlbnphUzhaTWUtNlNKVjhKSXlPRFZZLWFHcVUyQU9KZEZOb3E3SEhYSzVXYkZTOEtRTF9Lbw?oc=5",
+   "data": "2026-11-27T20:57:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1jry2va",
+   "titulo": "Novo livro acusa ex-CEO da Disney de caso extraconjugal com gravidez de funcionária",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSDZYSkd5ZWlybGU1RF9iUFJnYXlKeG11TkhDU3FreC1jZ3pGa1pGaDBNN01oLWhRMHRobGhLNDZMNWEzd1MyLXdaVlpObndybjRLbzJmb3l0NE96dE43X09VZUFIQzBZa21JR1JMNWJhMmNfaDdaZGVmdXMyRmduRno4ZlViNmlSYlZkNWRmcXE?oc=5",
+   "data": "2026-11-27T20:55:01.000Z",
+   "cat": "Liderança",
+   "empresa": "Disney",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1agjc18",
+   "titulo": "Da Queda À Disparada, Ibovespa Mostra Como o Mercado Reprecifica Riscos",
+   "fonte": "Forbes Brasil",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPLWwtXzgzc1JWTkJsWGlJbXEySzh5MXotQWUtc2tqOXhJZGRzUnFVTTQ4YTZUa1ZOdGZoVTNNXzR2cWxlaTFORFk4UVJackQ2SGo4anBZVFBXRWZKcmNrZ0FZZVhIc3kxTmMwQkUtVVJRa3MyUkNmV2ExeVJyNy1wLTVBWldRd1F4WGlLdEhaeTFNbWxEVjQ0ZHFacmJZLWZiQTlscUlfMC1IM2YyZno5U0xvX2s?oc=5",
+   "data": "2026-11-27T20:44:47.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1bgv7g8",
+   "titulo": "Trabuco na Fazenda: após derrubar dólar e animar Ibovespa a atenção vai ao próximo Copom",
+   "fonte": "ND Mais",
+   "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQTZOd3VZTE1JNHpqT2xKanhIRzVTNHB5c0VhM0ZWdUZrUmhnRXlvbWw1Q2NkbUFURHYwT2QyTlBNVE05Njc3NGFuTU9lTGZpa1lDTTRSUzl4ZzNkbnFVcVJ5WllOS1M3akI5UUNxLXl2WEZ1U3RSdzdvQ0hJZTA0LTJPLUg1TUk?oc=5",
+   "data": "2026-11-27T20:31:03.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "w72hds",
    "titulo": "Prévia da Assembleia de Acionistas da Tesla: Negociações de Fusão com a SpaceX se Intensificam, Relação de Troca de Ações e Controle de Musk em Foco",
@@ -1790,54 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Bradesco",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "s5w6sj",
-   "titulo": "Bradesco salta 13,9% na Bolsa com Trabuco na Fazenda",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaEJGZ254OU9NbC0zODA2VUtfanJJcmgwdXBqWWFOY3hua2dRQ0lwa0FwYXJWRUVIZzc4cFVCN2FMUERlYzRBc1BFMi02by1xbFNnZVlMcHU0emxyb2gwRjlRcWMyemV5b3V2NDhCWEd1dHZwOVNKRWRvNlkySE5LU3lpMWQ3cjZWMWxQWDMyOUdGVXJvQThSMkFOQQ?oc=5",
-   "data": "2026-11-26T22:11:08.000Z",
-   "cat": "Movimento",
-   "empresa": "Bradesco",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13dfhme",
-   "titulo": "Ibovespa tem 2ª maior alta diária desde 2021; 4 ações sobem mais de 50% no mês",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcVBXSzJ2cW5OSGp4ZG1YN2h3aW55SUsxcjhSQTN5b0x4RjdYTFF4eEJ2T19aTUhETDhhM050aWlBWVM2dFNvMHluNWVsTWV3U1k2Ym5WdTdJTmgzTlBGNWNQY3FDQlBvTGxOVmF5VnpadmJSTzZ3NHROVk1BTUNzT21uNDRVTmxicUhNQjVzX0JMMjVWYlBXa2dzYXV5RURCN3ZQRE9ZOU1rUi1FNDZBMlVjMGVOQdIBuwFBVV95cUxOdVZKNmRsM0paNXo2M2Z0dmdQdkVHa0FFZDRIZmFGWjJKTV84WGpTVzh3cC1nNVhlaUVJSGhtcklnVERJcVlmaUMxajhWZElCOEtSbnY3NFpfbjhGMUUzQUFTcGJIVGQ2MmZrZ1F2VVZKTHRiZm80TFZ1ZXRKWVhJbUV4cGtrLXRwLXMwQWVCejc2WmIzaUp4MEFOZGREUFBxeWtkMHVLZHpMUzNpRV9OU01pNkF3azV0dllF?oc=5",
-   "data": "2026-11-26T22:08:24.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "fpkma2",
-   "titulo": "O GTA 6 usa IA? O que a Rockstar e a Take-Two confirmaram e o que ficou por dizer",
-   "fonte": "Fello AI",
-   "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE96bERKNlRGU3FEN2stb3NNVlN3N1h1T2pNcE9FM1RGSnJCajNRWFdWQTV2VXRTb012Vm1RUHBhWE5CUUFSYUhhd1ZibUw?oc=5",
-   "data": "2026-11-26T22:07:43.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yx9og",
-   "titulo": "Ibovespa dispara 6% e dólar cai com Trabuco no radar",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXkzOGRqczJqYno4OGtrYlcxUjZobnpzUl8xck9rT1ZlZFdqNVAyeVFuYXpDVjlKbVY3SEVacERIbG5JVzJyTlozcDdnYzVYYndOOFlISVVEZTdZWTk1WDgtNER5WlFESkxmM2NTalhPLUJ6ektMMDRkZ0RhSVg4V09KZW15MDM3UUJrTVE0b1JMNzFSU0t3TjF0aw?oc=5",
-   "data": "2026-11-26T21:59:42.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
