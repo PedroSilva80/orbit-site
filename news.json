@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T20:17:02.418Z",
+ "atualizado": "2026-11-27T20:30:27.156Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "w72hds",
+   "titulo": "Prévia da Assembleia de Acionistas da Tesla: Negociações de Fusão com a SpaceX se Intensificam, Relação de Troca de Ações e Controle de Musk em Foco",
+   "fonte": "TradingKey",
+   "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUURBTFlUNXRJOU1SbjlVZjNNVWlYQ1ZybUpOLU5YLUhIdU9NNnY4TUhCY2U5RHdSVFE0amtkaFpDZjd1MGQzTE96T1NKa3NrZUFVeXdmaUNVaWxrNk1XUFh0cjBwX2oxZ0pZVllxcUtsQ3BIRTJLYVBtWWNQczdYYjhmOG55WHd3endIZ3Zuc3cxa0JqXzVBUnV3dVF5UGFKMkNNYkt1NFU4LUZyX1FPVHlVVTZuMHVpYnZsbU5fenZ2dFUybTYxUmE2cm9Jb3Rnd3hIZHoxVURiV0NyeHFQUWZR?oc=5",
+   "data": "2026-11-27T20:19:04.000Z",
+   "cat": "Corporativo",
+   "empresa": "Tesla",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "159qwko",
+   "titulo": "GTA VI: Rockstar explica ausência de recurso presente em GTA V –...",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmJQeHFBSHlkeHBZZWUzUzBuNmh4aW96ZGx6X09hWGZTLTB0RF90UUlHRUFhVmxLcl9pS2o4S2cyYTNreXhtNWtZVVpmYlpNelNsTmNRdHdwX1k4aEkwZWd4TzJFb1ppOUNyejNBSFBici1LV0NrdjY2YXc0UnMyZ3lsN3pXckpETU5UUF85MERZY09rNlE?oc=5",
+   "data": "2026-11-27T20:16:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15jaunu",
+   "titulo": "Efeito Trabuco: vale vender títulos do Tesouro com lucro ou ainda é hora de comprar?",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeVBhNTI3QmxNZ2t0cFVQME94SDYxU25LOTVBMzlmdGxoazU5VTBsVVVRM09PZnlHbHlRQTJNUERxblRPcVNtLU15U2J6U1lmTVdNYmV4aGR6VDU3c1dMZjdWNzRCNm1BYVZ1eDI1V1duSnRsWHI3cUkyX1d1YVhoVVpGVDgxT1hTWVo4WXdfY1FKOUlsV1JxVUtyQW1JTjk1cXBDbXZiYm1OTlZzSFptZ0QxdXJpQUZaUGtXSUFBWHZ2MFQ00gHKAUFVX3lxTE1GUVJMTElrUWNMM3p3Mnl6S091b19LdXM1UV8tc2lZVkxIOVc3Yjg1Z1lRb2RGOE9obmVybEZQRHpRS19YOWxfNGE1RGh6dkY3ZTZzRGJ2cjJ1SGVyNWNTNHMzQWFVSE1KZVZ6VHJLMDhrcFVINml3ZEE5dHF6ei10NlhKdWZyRGI3clVUT2JGUl9pZzdMeGxETGFBQVRmMWxQTGtZSEhQOVZCR1p5am1Ka0I5R1c3bEo2bFlqTUlOWXUtb1FlcHJFTnc?oc=5",
+   "data": "2026-11-27T20:14:07.000Z",
+   "cat": "Resultado",
+   "empresa": "Vale",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ggcoi7",
    "titulo": "GTA VI: mod aumenta FPS, mas pode colocar seu PS5 em risco –...",
@@ -1650,6 +1686,18 @@
    "avisado": false
   },
   {
+   "id": "1w0ol1q",
+   "titulo": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
+   "data": "2026-11-26T23:26:51.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "10tdu6p",
    "titulo": "Ibovespa dispara 6% e registra maior alta desde eleições de 2026",
    "fonte": "Tribuna do Paraná",
@@ -1787,54 +1835,6 @@
    "fonte": "SBT News",
    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXkzOGRqczJqYno4OGtrYlcxUjZobnpzUl8xck9rT1ZlZFdqNVAyeVFuYXpDVjlKbVY3SEVacERIbG5JVzJyTlozcDdnYzVYYndOOFlISVVEZTdZWTk1WDgtNER5WlFESkxmM2NTalhPLUJ6ektMMDRkZ0RhSVg4V09KZW15MDM3UUJrTVE0b1JMNzFSU0t3TjF0aw?oc=5",
    "data": "2026-11-26T21:59:42.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zu5vni",
-   "titulo": "Ibovespa dispara com expectativas sobre o Ministério da Fazenda e desaceleração do IPCA-15",
-   "fonte": "trademap.com.br",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE42LTE4d29yWi03MkpGM2l0ZjNRQURIQ0VSenQxMkd3RExuQUtpZk5BUW01UGc2ZFBLdTJScVRON1FQeExfUksyYlpxcnhOSnN5dzF4eExFcHQ?oc=5",
-   "data": "2026-11-26T21:50:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vyqd9t",
-   "titulo": "Ibovespa dispara 6% e tem maior alta desde o 1º turno com aposta em Trabuco na Fazenda",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5nTzFxSXVwWmxEZTQ4X3kzMGtkVUNzY18ybzJmZFVCbHlTT183Y2Z2SGM2MUxKYjhlYXc2UE9qcTFkeDE3RDJDR2lmdmhWdkI3OFVRMmRldG42S3U0RWU1R19jQVhfcGduNkZVSlp3?oc=5",
-   "data": "2026-11-26T21:46:16.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "7ppayv",
-   "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar; dólar cai a R$ 5,74",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVXl1R0NiSDliSVUxSVVrNl9XbzZpSFRUOTlqb0pQRFg2emFnVUp1RmxpaWlDZUs0TnJmbkhrdFo0ZlhoTW5JWlQ4WnlRZkJHNmladDZhTU9IWXkzOEdlcENKNWw0YldyVDJMUktqUWhYSUQtWl9Nc3lPVWM5X2VVbUJoV1E0YkZKMWZIY1dBd2RJczNUR0k1cTRrT0NmaFVoSDNqZFlFOHhxR09MS0ZyeDRfZHhpRlJycm8yOFBrUHlDNDF5cGVPNTV3?oc=5",
-   "data": "2026-11-26T21:46:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wahwn9",
-   "titulo": "Ibovespa dispara 6% com expectativa de Trabuco na Fazenda e alívio fiscal",
-   "fonte": "ADVFN",
-   "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRnA0S3dhRVhJRThFbzdyaElxeXlUTkc1MmtDcThubW1zbUJ2M1NsSHdEcjJza2xRcnBXNkJqUFFKTlVRRHdaLXVRZ2NZM3h3b3duTkszYkhVSUs5dlcyS2lnSHhsZmlBNnJEaDRLREUxZUdHRHQwaVREY1pEbjBBZFFBd2prNi1xWlV4UWJLUmtQbmgyUDZuTTU4UUE0cTlPNDNlaFF1dFBFeW40?oc=5",
-   "data": "2026-11-26T21:40:41.000Z",
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
