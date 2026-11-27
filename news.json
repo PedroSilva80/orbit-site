@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T20:00:31.011Z",
+ "atualizado": "2026-11-27T20:17:02.418Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ggcoi7",
+   "titulo": "GTA VI: mod aumenta FPS, mas pode colocar seu PS5 em risco –...",
+   "fonte": "Combo Infinito",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeGRoMU1VM08weWhMTENUWkw1RWtsLWZ1b1RIQmlRMjNEYXlObnZEU0RWaVY0RDlxeldQckU2V1dFM0dyVElnNWF3MWtWN0lEUGJEd2tuNEhsZlhfalhjTmRsd3BaQ21rYWJWTjlGUElURWJaQnFmV3lLRkRibzNKUWxVQzd5TmFIUXMyc1djNk1zeElGUndSbw?oc=5",
+   "data": "2026-11-27T20:06:19.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "10xtu4t",
+   "titulo": "Com febre de GTA 6, PlayStation 5 lidera ranking de faturamento de Mercado Livre e Amazon na Black Friday",
+   "fonte": "O GLOBO",
+   "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOEJoSDdHMnFZTUl0U2tCanRCb28zbk5DTHRQelM2d0NtMk9nZmN2SUEyX24tVlF0MmtQakdGcjlNTXB1U1RUTjczVnNyTHBYb0pnTmtzY1gxakx5bk4xNTl2Q3NrekRXLVNaMVN1RWo5Z3ZFWHd5T3FlYXQzek9qQ01zRlJZQkx1OW1BejNGWnJ3TDFOeWFtWkZSMkgyM21NZHh6czJRbGxaOVpKeHdOTFZhTVZxdGxIUkNFeHVCVEkxWkRybUV1dnZHNmhNZVNiMkFnaU8ycWZrSjMtU25ORThadHJaeDM5dXRfaklyd1NYOGVzMWQ5NDdOVGIyQ2x4UHfSAZACQVVfeXFMTW1jWHE2YVJyT1ZuLWVaVElSX1l4dUdpM0VmWUx4UVUyMTBnNDhIbU9MWWEzNTZaMUVQUmhxTkd1bGxjS0tQSTNER2dQZ1p0LW5EMzNNZC1XT0pGRnI4VU5xY2VJVkNVRDk0RDNVcEJDbm9mbHZOcW9YQmxmbk9hYmxVX0xoR2U5Z3F3eGxOWHhkRWtRZXFkZEtPZkctUVhxY3NIWEdDZmJhS0xfcnlVQjJHM2Q1OEMxQ2dtdHp5YXNuMHY2ekN3cU52bDZzbmNBc3N4VDcxNnBQaUZMSXczY2FEY0JvQnNpcGZKU2xFOGp1dHc0UDVfdnNVOVR0d2JVOTI2V01lZl9XbHllckFvcGU?oc=5",
+   "data": "2026-11-27T20:04:54.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14lx8g4",
+   "titulo": "Exposição no Itaú Cultural investiga as relações entre criação artística contemporânea e inteligência artificial",
+   "fonte": "Visite Brasília",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQZXB0dTdQbUwzem9SUkExOFhPdWotekFGWHdGWVZvQkVFblV1Z0pWMV9USVFWV2VLX2JlVGtUNzJ3ZVJfeEotNzR5OHdjSzRMUHNkQ0FvUkJ0cUtXaVdyVDE3Z0h6VFoyNjFRa0xhV1hFWXEweUloVW9GeGdRYktkaGpoQkxmNmExbUJtVWJaLUlKTE5STDF4bXFwN1kxQXpVOUViSWJSVXBwamNfYkVTeEMwUnpCa1hhdG5VOUpHODBCQ1czZ19MLUtKZ25OVGFhYjRlbVRmdHRkd01lN2FSYzlFRk5qZw?oc=5",
+   "data": "2026-11-27T19:50:50.000Z",
+   "cat": "Risco grave",
+   "empresa": "Itaú",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1l6xeld",
    "titulo": "Companhia aérea norueguesa vai à falência em meio à alta de combustíveis",
@@ -1802,42 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tt1vma",
-   "titulo": "Ibovespa tem a maior alta desde o 1º turno das eleições; dólar recua a R$ 5,74",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
-   "data": "2026-11-26T21:32:46.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ru0q57",
-   "titulo": "Buscas por PS5 dobram na semana de GTA 6, e Google vê segunda onda de interesse",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSDdNWjh4YlFZTk52UFBGbkE1SzJuYmhVUE1IU09sa3E2SjltRzFvTXpIYVBzSnhOOVN6cUc0NkFzeUNxYi01YmdUUDhiLWp6ZzhIRjMyLUhnOEg3LUYwdzRpcGhIUThwYjFIejdmN2licUtfMVEzT2JPUzJQR2YwNTJMeWFfWDhxVFFkZExmQ3RnbUhpZENHcnh4cFFxN3JjYTNHLVlCVUhuclNYdHRnZ2Vn?oc=5",
-   "data": "2026-11-26T21:30:06.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ibapgs",
-   "titulo": "Ibovespa dispara e recupera os 176 mil pontos com encontro entre Lula e Trabuco",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ0dPdk03LWdNVnVkcXhIVzd1TnEtd3NLTElRellLRHRaX3Y0dUpzRk56Rlh6UVlyY29ZNkRnaElMTmZwYzZZX0JMR3Nua3VhM3VsUW1UYkUzb0Jrc0ZyLTEwdHdtUlVzbGVyUXBPSG1vZE01S0RDYlpvWVFiYW1JLWhPOHdkZ19xeDg5NGV3aTQ0aElKcmJaRDZjTk5qa0ROdGtXV0oyM24wa1dCcWJFOHB1UXNOZw?oc=5",
-   "data": "2026-11-26T21:22:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
