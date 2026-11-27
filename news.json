@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T19:00:29.609Z",
+ "atualizado": "2026-11-27T19:30:26.225Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "1c6gred",
+   "titulo": "Auren Energia colhe ganhos acima do esperado com aquisição bilionária, aponta Itaú BBA",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPVHN4TXNOT3d6M1ZYVHY2b1hMVTM5V3JNMFpKTHJpbEozZ0NXR1kweHlnbnl6TElHa2ZuelBTQUdtTFczblFYOGpiTWZ4QlQ1X2NLeWRhb2NCaEVCdTRnREsxTW9vOTFnc1BOS1hZTWFUcW9BNzJHRk9tcDNKMkF4UUI2X3lEWHVETHVfU1dnQk9leWNPbEdyenBHU1VPamNKVVZkLTZrYXpHRER5WHd2REJhU1dtSXhYc0NDb1RwbnVNdUNIU1hHOTRoMjQ0bjV2WFB0SEN5amR1WG1KaklJb09tT19uX28?oc=5",
+   "data": "2026-11-27T19:28:27.000Z",
+   "cat": "Corporativo",
+   "empresa": "Itaú",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ka8tqn",
+   "titulo": "Indústria de bicicletas do Vale do Sinos pede recuperação judicial de R$ 122 milhões",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQd1JaOVB2Zi01OEE3S1RIWndYd1d6bFpKaC1TZzBuVnlkeWRsZHl3Tk1zeUJndUNoNDE0dkxrUzRPdVM2TVQzYTdhQTZCUzNMQVNDTTVHNUE0bW5kM0ZjMjlIMlp5SjE4V0JWMDRuUjAxV0hWZVhPeE5GM19TVUxJazdXbW1jY2V6aFloUG9FeXJtUGNNY2hsUjBqcm53eWJFMjFqRGZKcTdQVGQ1YjFzUXMyekZxLThSbDFnUEdtcEVrLUVOSF9MbHdHZVZlaHo2LV8tN2xPdW5LVHUyTXJ5S0xWbG5TODlBS1pPNXVRMmJqajJ1U3dyVFVScmFfZVozVWt6c2dRaV9lM0ZZUDBFWm5WRWQ?oc=5",
+   "data": "2026-11-27T19:19:39.000Z",
+   "cat": "Risco grave",
+   "empresa": "Vale",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "1ma6936",
+   "titulo": "A regra de ouro de Sam e Dan Houser, fundadores do GTA 6: nascidos na década de 1970, os irmãos fizeram a marca RockStar Games brilhar com 'sumiço' estratégico em entrevistas e tapetes vermelhos",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNRFdXbDZMekpRRGlVcldxY2ZNQUpZX29lUG1TV3ZvQzFQR21wM0pjNUdsUjE3WTFjeUxYbWp6V2x1QmdnandFV1ZuaVNyX1Z6UWhRQnhaSi16em1QZFd4bF9hSjdUOGJacUdNT3RQajNyYlkzekVpMjV5dkMwQnNLVkM2SGdWbjlkTmFKUlExeUI1R2JJeWpZMmhMNEpaRHA2bUNCTC1VZUM4bFpzalJTTFh1cndsZVAya2dGNERUV05BRzZJWGppNXhma3hpaExfM1RMRk1aWmxkT20xdTZIOFBoTF9YUjk3TFZndzF4ODBiT1NfMWFEaDEzbE9TS2lfSGJHQlFWeUgxMnQ3ZGNfVk8yTm5jZE5mOGdtMFExcUNJazcyR1hoekFtUldqa21qVlRCbFhjLWNRaUxuMTc1dDNJeG1URU8tbEtGVzJOUFBYd0tFenNveEM3a25hcjN4WHVONS1qbkJwQi05TURvU0ZnVS1OOEhEbElneXBuSXRfaDg?oc=5",
+   "data": "2026-11-27T19:14:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1u3ck5v",
+   "titulo": "É possível comprar casas no GTA 6? Veja como a Rockstar lida com a questão imobiliária",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcUVFdTJjdkc4ZWVGQ0dqTXhZTUQ3ajVVQ2gyV040RDA5RnQ3QkNPWjNxNGZRZXFKeU1mOUlJSHpzYUswZlpZT1RQOTRzYVdtb3JaZlFNeDVLYW9IYlp3ZXZIdXZCRE9SWWl3STUwVkVxMFIwUEo0c2x3VGFiVzRkU0VSU1oxd0FIUGVzeUFsSzVlbzJlb1ZOcUd3emNFUWpqR0MwNGZOaUVlQlUybmV3SV8xM2Z6SFhrbUpXWFQ2V2hYLXNGaEg1NTEwdw?oc=5",
+   "data": "2026-11-27T19:02:40.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "s2esg",
    "titulo": "Apple pode ter adiado início da produção dos iPhone 18 e iPhone 18e para janeiro",
@@ -1790,54 +1838,6 @@
    "cat": "Risco grave",
    "empresa": "Banco do Brasil",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "175glex",
-   "titulo": "Ibovespa Salta 6% e Dólar Cai com Possibilidade de Trabuco na Fazenda",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaGNNT3VYeHhFbXM1VzZRUkwtYWJtekt0c2Zmd19KZ2UtNlhsVG54Y0NucTZNS2NVbU1PT1Z6eGN1Ym84cjdnaFN2NW11aXB2YVUzQk5vMW5haDdOdzlDUjF2VC1Za0pEZVBKd1VyeDRJNzEwOElmeTFINENlWlJHTUplU1BwRmZ3MUdsTmR0LVBMVTd5cktONEkzblNfZkd3anhaZWVVUVZDTmg0NGpEWWlB?oc=5",
-   "data": "2026-11-26T21:17:29.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1iq2wl3",
-   "titulo": "Ibovespa salta 6% com especulação sobre Trabuco na Fazenda Por Reuters",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2ZLcUVlODVfZVVBS3BFV2lrRVV0aTBuRmk5UFlkZkNTWVFUMjZ5eHpkdWNGNlBnS0hScWpDeHdCMlV2M0JVQUZEU3ZoSjRuX0VBNTFtRUN4UTNVcXVCZl9MRXp3TnJsclpuc2FpcklTNkEtVEhVR3IyenFlS3gzVVRrSE02NmxZd09lZ0VrbmQtdjlucmlwZUpvRVdlQ09FNEtrXzZvRm5mTDNKV1FCaEs4QQ?oc=5",
-   "data": "2026-11-26T21:13:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "11mdl6o",
-   "titulo": "CVM condena investidores por fraude que causou prejuízo milionário a clientes do BB Investimentos",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdGJzWGNqYTRfdUZuS0lsVXpCck9PWG90VzcwTUd2NTF1T0loOUZHRWpRX0dZSGt6cWZfSzNzRkE3LW53UUx5VGtlMGFYeTVxUWZBZ0V3NmNIczkwSVdFTUlVd0tLc2lZa2xSQXFoSWN4OUFlLTdMZ2ZzUVlOaU9sQnkzcndkUXB5cGM2U183ZjFMakVydEpSOGVkOFRldUUtVDFZaS15c2hjSVplZU9ONFFKRG0zejhrLUZCOXE1ZUhsQmRVOFZxb3BsMTdvbG15T1d4UC1EanRJbjdSMkHSAeMBQVVfeXFMUDJOR3ZWc0ZMSkdsRFBsUFlJSlA3SjhRd3BqWlpNTEJrVnNNTkIydlhQYlg2TU9qWnRBdWpPMmN0Wm9XU09YTVZxZzJ6ZDVab2hfdm5INkswV0hhQlRMRnlTVFBQMzU0MXpfRXRsUGNVX3RRRHQwdWxQekZmaXlMSVpSN3AwVXN2SGFfRzhDYm1rU3RWcHZkaG5EdE1hNEFYdUkwVmxBT3pPSFBackYtTFVJb1JiaU5sSm1RVVNRa201Rm01NGVxN2NWVkJralJCLV83UjNIc2U5UDJtM0cxU1dhRkk?oc=5",
-   "data": "2026-11-26T21:09:45.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mog99r",
-   "titulo": "Seaan Tiller lança “Rockstar LP”, um álbum onde o rap alternativo encontra o rock",
-   "fonte": "Bantumen",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1uRml0enZ5TlRXVjZyeVBhZ1hqdDhuWnk5YTl3dHBnVFhKd1pubTV5TkJpT3hEcG85a2xwTEMwYmRZdzlGT25vcE1KUFlRYWlrWlhta3IyLTJ0WmZiNm1MTk92V2xsanQxZnVXbXNPT2dXNzl0bmtXWDdxUHc?oc=5",
-   "data": "2026-11-26T21:02:45.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
