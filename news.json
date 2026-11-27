@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T00:30:27.755Z",
+ "atualizado": "2026-11-27T01:00:32.124Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "4oisgc",
+   "titulo": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnp6dmwxbWgwNTZZQzZ2bzFQUk5KRk5hazRvZnNJaDhXVU9WNHliVTBNSnEwMTFsRDQ2TVJXaWljd1Awc2JkQ3lVS09nQ3pTRVNFazg5bnk0XzlvcGYxSXRmYW9weWRnZUs1aVdRQkdxY0xrdFBGWW03Rkl3R09JTGRYdk8tVnhwQnRyeXM0dlJ0aWtacFhwY19ZcXpDS044eWxuTkZCSjMwLWFNaXpUYkdhTi1HUnZlTXBteXJyRVFqLXJtSWVkMkVINXQ?oc=5",
+   "data": "2026-11-27T00:46:27.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "rwpxdm",
+   "titulo": "Panini e Rockstar lançam cards físicos de GTA VI",
+   "fonte": "Live MKT News",
+   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92NWV0U3dvWi1YM29DOXdRMjFUeE5yNkFOR251Mk9WeDJ4c0V0dm1PbVlMcXk2Szh6Vi1IaGVhWURYdEtJeGF2MzZmVnVXcDFhWHpNdEJRd2QyY2NJRHBScW5xcFV6UlA0OHVGSlpqMGpqb2lnMERpSEJIVQ?oc=5",
+   "data": "2026-11-27T00:36:12.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1ifis0l",
    "titulo": "GTA 6 | GitHub, empresa da Microsoft, faz post celebrando ferramenta que reescreve jogos de PS5 para PC",
@@ -1829,30 +1853,6 @@
    "cat": "Regulação",
    "empresa": "Nvidia",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l3aql3",
-   "titulo": "Anthropic segue modelo da SpaceX e impõe regras rígidas em abertura de capital",
-   "fonte": "Vero Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFdTTUN1eEFmQTlDWWZDSTVBU1gtbWpQV3I2c3IwRE5CS2F3WnZKdGprRDlQYk9NaVJYM2ZVRFJtdXNZRUxTb1FCRGpHTG9GYkp3QVUxdm05SDlLOHotRGFkeHRKa0RLMXF5ajJZUmRDY2dpSDdKOXRqMVlPZmRMNnV3NjZRNDR1QV9qTjZGcXh1aUhnaHMwc3ROVnlzNjV5TkZwbGFXSW1zd2UxYmx1TFl0NA?oc=5",
-   "data": "2026-11-26T13:00:00.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19p1net",
-   "titulo": "Auren diz que agregou R$ 1 bi com compra da AES Brasil, apesar de cortes de geração renovável",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPc2FFT1RLcTFHN3VSLXlGTWRVdVlvajA0UjFrS2xocWQ2cWt5Z0dhM1NXd2ZhR1FpSlZFTU1WejBRZi1HRUd1VGZxR09jUWZZNmhvVmRFMk1IOEJXUlRFY3VyeGhiZlliNU1SMXUxU3h2dkpKWTd5N3pYNVJTcE9FcmVmaW9uSzlFb0dMWXF2cFFCaU5ZREVpWl9wNEJaRTBuLVpuZFlEM0cxVDAzR1o0SV84ajkteFFRdlBVNGV4cml3V0pYTjB3RXJ4MGlObzN4WFNLMnoxbGhXVkJPdGZ5VFE4SdIB8gFBVV95cUxOU0p6NlRJbTc1cTV2T3VIR001eWhqcHloNk1jLXF5dUV4R3E3T1dhdjhrT1FUY19naFhvUWh0V2Q0OFpCck5WUFp1dG1YTjR6SWh3WFM0ZW92NTZ6SEQ4NlV1STZqVURYMWtuREpoLUNPZTZwaTdnM2t6Y0hkaDhVRUVOOEtwcGVlX3Z1R0p2MjM4VC00Zk1tdXdHalpLZWd0amsxeVRlenNNZ2w5cGVYNXZJY2V5d2EwcVFqekdwVWlxdFY0cTlWWjF2VnkwbGZFZ2R3WGlXU1VITlFzTFJpMXJjNFoyUFd1SzVxT0FyTVRnZw?oc=5",
-   "data": "2026-11-26T12:59:37.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
