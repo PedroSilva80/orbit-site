@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T22:30:29.268Z",
+ "atualizado": "2026-11-27T23:00:35.286Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "tk72fr",
+   "titulo": "Dólar despenca 4%, Magalu (MGLU3) dispara e Ibovespa tem melhor semana desde o primeiro turno",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR0FKTjdmM19Pa0FyTnBEN3BGQ1RTVV8zR3UwQ3VQSTVPdjYzekl0T0c2TUp1b1JHMndkX0s0RnB2em1wSlR5bzdEdnMtR0lTZVg0N1JqcTg4WTZuaEVtdVBuNUNHVi1JZjlmMEtHREgzNnNscjRlTWJKR3RXY3l3UlNmekRQUdIBiwFBVV95cUxPMzFxYmQ0UXBrRFVvQXpYeVdnOS0yRE5ER3RNS2htSS1aQ2tudUd6akh4RmJqMUp5dERXRzhTMXNvWWgwYm9iRE5pa1h6dVRkUlhSRVlDRUVRQW1DYnZjd28zVHFXTHc2WTNVU29oS0NRc083Z3lTTS1iWmg1eWl6Y1lFT2QtX1NhdmlN?oc=5",
+   "data": "2026-11-27T22:31:56.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "mmwaxp",
    "titulo": "GTA VI (PS5): o favorito a jogo do ano cumpre o que promete? | Análise / Review",
@@ -313,6 +325,18 @@
    "avisado": false
   },
   {
+   "id": "1l8opgp",
+   "titulo": "FTX: Amazon lança série sobre fraude de US$ 8 bi",
+   "fonte": "www.ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMWktMDAzdmNVS25BX0d3YjI4NWZvWk9wREpmckVMVHJyT3Fhazd1VkRTVGIydXI1SXVDRnZCOWlJQnNfMTJKWm1PUndrU1dyaHBBckxkdVdGenBDM0l0eWk0aThZcGNySHFVMmltSktUcFFRdWt4R3EwbHVoR0c5eDNDYzloanV4TkhWa24wbHQyYU9MU3RDRg?oc=5",
+   "data": "2026-11-27T19:47:32.000Z",
+   "cat": "Risco grave",
+   "empresa": "Amazon",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "uy72ci",
    "titulo": "“O Garoto Que Roubou Bilhões?”: Amazon lança série documental sobre Sam Bankman-Fried, fundador da FTX",
    "fonte": "Livecoins",
@@ -409,6 +433,18 @@
    "avisado": false
   },
   {
+   "id": "1q1gyh1",
+   "titulo": "Rockstar revela receio com sistema de moralidade que muda a forma de jogar GTA 6",
+   "fonte": "Xbox Power",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdFFvMkR6ODZ0M19NSnNsdmRiMTZ0UGxzTHE3MzlGOTk0a2wxNWlxM0lqU3Q5bkd0cTlBd3hGN2VVNk1NYk8xU1pqVWxxaXkwVGU3cmdjRHZBQy0wTkp1WXgxOVUtLVR3Qk9LYmNiWGhZbHUwWGk1NF9oVmk4dC1fMFdlMDNSQnlDVHRqbzc5YTZGS0ZiTUVfMnRWLUJ6X0Roczg1M1ZMNFhobnQ3NDRYZnhqaGVmbkpFbFFvUUpR?oc=5",
+   "data": "2026-11-27T18:51:08.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "13l85sk",
    "titulo": "Amazon Echo Dot Max despenca de R$999 e custa R$599 na Black Friday",
    "fonte": "AdoroCinema",
@@ -440,6 +476,18 @@
    "data": "2026-11-27T18:18:15.000Z",
    "cat": "Mercado",
    "empresa": "Meta",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1779x0k",
+   "titulo": "Panini e Rockstar Games lançam cards oficiais de GTA VI",
+   "fonte": "Creativosbr",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMXY2RmlVaUpCUmhBeGgwWHZMRHNFcVhEOHFuWU16RXp6TG85TjhqeVBZUTRDWVMzN0FSeGNEakMta0g4M2VXQ2tfNUNHOTAzV2FoQl9SWV9JQTFlU2tFSDg3aGU5eTRYSlBZZHh4S09MclVzNVhacUMyaHREMGdzLWdHWi0yMkhpV2hr?oc=5",
+   "data": "2026-11-27T18:15:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1334,6 +1382,18 @@
    "avisado": false
   },
   {
+   "id": "r5q9k8",
+   "titulo": "Dólar tem maior queda semanal desde 2008, pressiona Vale e Petrobras, e Ibovespa fica no zero a zero",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQRGdENW9FcHB1S2NRX3Q1X04xMS0xWG5oZlkxRjNkbVY2QlZYZmNFUFU4SUhzOThqLUxodHV4bXRwUWplamprZkg1NTNUeDh3cDBoZTFmRXVHUFhoSEpwVGs4LUdwdG5wUE9UVXF2MkxqTUNGSnJQMnlDZGY5RXR6SDZmemY3aU8yVmsyallIS0N3bWRIT0dHTjF6Q2pLdkQtWTg4Rjh5aFhpcTI4eEhELVpUM3FpY2F2VkFXV1MySV9EcTRNVDlIZzRnb25NaEgxNURWM090d05mTnVfRkRLYzlkdmFvZEJHM3FEQ3B0TXdvVEHSAYICQVVfeXFMT1ZzaDlMVllWblowZlVaUUZETVZtbFZVNGdycW9mRW40UkZyU1BaZ3RlMTRNby1zamtJM05ZVDV4OFBoYmdMaHJESmNPR0lxM185T1Y4ZkFqMllGeVA5UklTVWNlQWNTYjBqZEtObm5lX2szbmY4STZwSVBfc0hJeDE4alFWdVlFRTZXYi15bVY2NDVWTkJwRkJrampEQjVuWWhKV2lDWmZMV0R6Z2l5MnMxcHJsNEpoRlgxTmVHOHR5OEZ4WkpqaGVEczBHN1haeldFZFZsdkdyVjFuaTBIQ1pTZWFTb3NFOFNTeXdZWkRkRDZFWHU0UDNMSXJqakZia2NR?oc=5",
+   "data": "2026-11-27T11:59:21.000Z",
+   "cat": "Movimento",
+   "empresa": "Vale",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "15qinlf",
    "titulo": "Rockstar contratou antigo jogador de Gran Turismo para melhorar a condução em GTA 6",
    "fonte": "Eurogamer.pt",
@@ -1775,66 +1835,6 @@
    "fonte": "Instant Gaming News",
    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW1WcGhoQWQtQko2NkNMUDNfY0U1bTJ1Q2wta2l3cloyU2EyY3pubU9PeTZXX1JPMVJPYmVZdHhNQmdld3FFZTJWX25rSlBzSkYyX1Y5c29MU2FqS190QkRCUGkzWVc1cUhLX24xOXBRcG9fOHgzMEdBNVVKcWxXdXN0aFdvMzhHcXUxRHRUZXYtS3E2X0d4UjdXNHVsY3JNZUpIck5zTE4tQW15emc?oc=5",
    "data": "2026-11-27T01:23:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "25wgj2",
-   "titulo": "GTA VI parece correr num PC com uma RX 580",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEpPQVlIZWdxazVqN2puX3QweEFQZ0lPdzE3ejduRjh6NkVDTC1mSlkydWJiWTFxeGhWb2dIQ1lYUVFrU1pjZGxjMWdWcVFBMlVsY0poQ1QwcVh5bU5DNURVRjN0RlhyZE82ajB6akpNUTEwbG5jT3FxUW9idkN3alVSTjRlMmJ3cUU4cVJQNFVqRm1OOFE?oc=5",
-   "data": "2026-11-27T01:23:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19f3thv",
-   "titulo": "GTA VI consegue rodar a cerca de 60 FPS em PS5 com jailbreak",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZENRaU1OZXBlN2swZjk2UHpjckpPU2JicHNSaUU3UTl0TW1XMWh6QlRNMmVDSTBwNWdhUzVCOGxrcUxobzhoaF9fS1NLQzdTckxfSklqT0RTV0FtY0U1WVE5RnVtLWNUZE1tYXEwNzZfV0xkV3BwNHRnWlVWZUhhLVVFdGdnRGFWTWxjYkNpWVRUcnB4UFBVa1V1QXNsR2ZJNXIyQjJfN3FuWGItMEE?oc=5",
-   "data": "2026-11-27T01:23:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nfpkyi",
-   "titulo": "GTA VI: a versão cloud gaming na Xbox One é extremamente sólida",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOTzEyd2xaMmU4NXZzeDVUZjdQT24wOXN0V1RIdVNzLVgwOXU3Q0c0NE1SWTZLdlZ1Zkd0U1AtaVBoX2s5U2xPVzk3UDUyajlFRjFna3pzYzNwdHVjZC1CSUFqY3JvNnJJVnU4Ui1tUWo2Sl9xbnJFMGtXMnNHdXg0Z3Jybnhac0xhMU9EdjdBejZPOE95Q0tYdVBRaWxPTGtsckJMTFVGbEtWczlwZ2dyUw?oc=5",
-   "data": "2026-11-27T01:23:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "m52lo4",
-   "titulo": "GTA VI: Manni L. Perez diz ter conseguido o papel de Lucia há quase 10 anos",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOckRfMVJPV05WUzZqaHBnY1hjOXFRRF9RMnExcTJDUVdMT3djOWdRRkdGcGlEdGVZQ256OWczLUI5bmhHTjJ0cWZGWU5rVHpFQjFKTXo4NFZqalViY3M5YldZZ3o3U3JnbENOU0ZhYkp1ZUlRZ0p0WjRKR3dxT3JsUFl4ejR6ODgzbkM5U2FaTWdJRmZEOGh5WndBbkp5X3loWEJiUUVnaDlwNjhVQUxpUmtmVm95eGdJV0Z2Wm5VMjBfMHNraVIzZmpfZVNPS1ZqUDRlN1VqR2dqekZyOEsxQnBScFVpSU5wbGhDbm81dlgxOHZRaHBEOGFB?oc=5",
-   "data": "2026-11-27T01:23:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3w0msk",
-   "titulo": "GTA VI impulsionou as vendas de consolas nos EUA",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPM1cyZFEya3UwR3BJaERSQXgxODBNbzRXdTZTOFhBaVI2b1NXbFVlMDY4TkhtTWRjcWF1ak5FYWFDU2UyMHIxUG41Nlk1cDM0dk5vUHZDWU1iWmpKa0kzX3JIVU9POVV0alR4N2V2OEd4Nl9XYV9fbzFXekNmbTdZVDhtTGk2ZlZybFVRREt4Wml0REZGaWh5MWFjVkFpQQ?oc=5",
-   "data": "2026-11-27T01:23:55.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
