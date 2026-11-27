@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T13:30:27.826Z",
+ "atualizado": "2026-11-27T14:00:34.568Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,102 @@
   }
  ],
  "itens": [
+  {
+   "id": "u4y96f",
+   "titulo": "Ações de bancos e da B3 disparam após anúncio de Trabuco na Fazenda",
+   "fonte": "UOL Notícias",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNclgybmZzdG4xNU5tcXBjR0gxb19zUWI3OEZZbzVHTEw0NEdWSWRKc0VWZGVCRmQwREptSk9DNUpuRzNaZTN0dEhjOU42WTItc3FqY180bTdBTF9MbzFRMnhXWWNiTVRtMVZsSDNCSmJyOUk3TElVbEdPV0M5M29VNEZiaG96eGNPcEhXUkF2UGxmdXRUNjZralYyQTJIZW9GbEtxQjdiMGdQbmFaUHhiLUVGcjF3MGxYZ3IxamJDUzN2b180ZFl5clJHVENPWExV?oc=5",
+   "data": "2026-11-27T13:48:09.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "11lwx7z",
+   "titulo": "Por que o GTA VI mobiliza as redes sociais mas as ações da Take-Two seguem voláteis",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS3Z1eVluV2Nfa1drUlkyS2lveHJqRXM1MGFZd0hYTDZwR1gxZ200elAzNjZ3OW03SUJmUEwySWlmMU1EUDI3M3dsOElDR1k3Q2JwZVdVdlZtd1F1OHZlN2NwcTQ2dXFuVXZ0cmVGZmN0bkcxRmMxVzVoVkt5YVN3aUpiNS1jcWNFVUZqeDVGS0ZIazVIRFBXRWRDN2J4U1dUcm1mSWZwWnpjTFhiakJGN3dGbHl2M3BBNWpmTnoyZ3djbGZQSFNoOV9CVFZIN1VQLVpVc1BqemYxT0RzcUx1dDJpNG1ZZ9IB9AFBVV95cUxQeUNzUmpvV05nMUVPWXNxLTFSLWZVbnFudThVdjZsYzdyMHdHbGRVMWhiX0stdFhTc3dsMHBmODhtMk1fVUh6TUtVS1UzTWxmaGkyM0RFUEE4djJSX09uVzFJRVpLRjVudWU5d2VRdWc1b00tOEhxYlN2VHdxSmtPYUpucGZlOXFDYWFuSFZiU3ZhZ3FFTnpsQ0dGSlVmVWo5MzJjanFxX0d2VDEzU2ppQmRzaktRandlQjZsaG5BTEpldWtydWpxdDlmeG1UYVhwbXU4aEJoUmZyaDVpdk5mODFIbEZlaU5laE5ZZ0NWbExybmJz?oc=5",
+   "data": "2026-11-27T13:46:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1hipa4y",
+   "titulo": "Como a nova CEO da Sanofi fechou um acordo de US$ 41 bi em tempo recorde para comprar a Insmed",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNclZXWXhpLWNuRDlDRktaaC1IRjc5N2NZMmtwOFVxRmppeWlLMG1HNk11V3dpY1Q0RlJocVh5SXlCekR3ajZKcXdYTkduTnZIUTdZakg2dlNYeUktbUJaNVFTSTUyUDQxX2xXV1BjbE9lSWJIck1mYUg2OGhHR25hUXF2Smw3MmliR3lCczBsLXBZMDhLcVkyMmNFYVE2OG5YSFFUNDRMV1J3OWlYNF8yZ2dPa2d0UGY4RlhnR05XYTM3endJdk5MTEk2TnJFejJUYjQzWnYzZ0RTVnJUeTJvLUIzbjAwUdIB9AFBVV95cUxOMGpnbk1Ld1Fvb0l1dzQwVVpBbzA0ZmdId01NblVuRjR2Y1Q0WnVWcTFEMFV6NzhJbzd6cnFDWXVUVFNNYzZfSG4zZUNqTmJ0UE9YTWJsWHloc3M3QkktWkNyVkh0SWNoZ2d0OE82eGJUUzlEY3dNRm9HNl81Q1pRVl9kdWpTZGRiVEtDYVFmSWNDZ3p6ZFNBQXlkdG9JdFpjejZrbmJ6WnA1TGJkVHZyQ0VBbzFKX3FpUjJicFU5dzhLZ0FNckpKdnNVR1F1b3A1bG8xblRTM09MTmE2UEJ5d1Z5Q0o2d2pMUG83WnNERTQwMGZO?oc=5",
+   "data": "2026-11-27T13:40:26.000Z",
+   "cat": "Liderança",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "12nip90",
+   "titulo": "GTA 6: port não oficial de PC ganha multiplayer antes mesmo da Rockstar revelar o online",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVVJ4OEJ6U2tWT0kweUpDQ0hyeUdqbUhELVl6c3VPRmc2X3MzS1B5d3IxVEdYUVFaRkp4bXl3OS1GNzFhcGMybDlGVEl1Y2JaeGRZMGotdmdTSmJqNjFHX3NaajMycXk5bUJ0NTQ4b2owMlVNdkdEd01vaE54SExhQ2cxcUt0MUV6OFZZaVU5XzJxYmNVT1hKZWZuYmRLWnpJ?oc=5",
+   "data": "2026-11-27T13:38:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vz3jox",
+   "titulo": "Ibovespa sobe mais de 3% com Trabuco na Fazenda; ADRs do Bradesco disparam 24%",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOWNXYjkxMTFxMnVCVTg2OHp5RXBYaWdoVVlUazl5SUZ4dXRIQ1o1Ym5ReWZUUTN4dDQ1X0ItUWtlTjFKRThOS0JLeWxxcC14V0FtRlhSTUJGVzh6MXFqYU9PNldiRWxaZV9UNGZzVlFuWDZ6UDNrQ1U5LXRzck50MjdDZWswR3Y5b3JqdmJaODZHUnl0YmQ4MlNlczMtRUJ4NWRNMzBUTjU4WEdqQy1ia0JrZWZhT2FDT293ekdZZllnZk1GdFlreE50dnZPX084b2lwbVZDMDF3UjZjUVhrdtIB7wFBVV95cUxPUkFmbmR2QVRWUHdTcFFNUmdrYk9RNERoaUhlbFg0ZVBzcVppbDdXanRCYkxQYjBzQnZSWW8zZFYxamtWMXpHcjJlelpmR09mX29zTzcxUy1hX2pmRzFTamZUUjNWSk15SlF2bUtKU3pqc3BYc3EtZzJfcTdRMWVtdUN5dDhDM1gtR0FZUGpMeE94QmNaRmVsZ2Q1MlRTaGlDNG5HMzZfLXNtcmtFMG16THRfMjBjMlZGTm54d25YdHprNWNQbXVSRWRZeTVYaFlwT3YxcXAzeUd0VjdjWnNleWVuVTgwZ1l1UzZoTjlhcw?oc=5",
+   "data": "2026-11-27T13:37:26.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14me8yf",
+   "titulo": "Bradesco lança ETF de setores estratégicos e pode receber R$ 200 milhões do BNDES",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVEpxTzJHZGpJM2NYR3NhNGFSdjhwc21WTm9aZHBTQjZSWEtoQmZpQ21yR0hJSkJCNGlIcEFBYTI3dENaYW12eGRnWWpMMk5NU3FTMzlFQTBIYlpFWkpyZG9QYWY1Z2hmNmYwOEZ5d2Ewa093Z3J3cmVDWVdrVk9WcHJ0c1BacUN0TkV3allkQlF4cFpSSzJQRXh5Rld1UVZHT0lVTk5RUWMteEd5STlqOHRXNThfTWtqd1BicWJoSTZaZ3IxLVVyYTBGalhOZEdWdWE1WEhrLWtFT3FqYWFORg?oc=5",
+   "data": "2026-11-27T13:32:16.000Z",
+   "cat": "Lançamento",
+   "empresa": "Bradesco",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "t2bins",
+   "titulo": "DualSense Galactic Purple despenca de preço e vira destaque na Black Friday da Amazon",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZy12VmIwNDdmYmkwVmQ0TV9vcWMyWEdpTmNoclpZelc5UlVPRExJOTRITmJpWU1WRnAzMHRLVU0ySXhjNXdJaXk4VWJqbEFhdExKZlEwWkpvQUZNYzNuUVU0Q1JZZ2ljVEdNVHBmQ0hIUE81XzlGck04YzE2Umt4UWZHLWtrYU9LczlHYm5PQjFINXFpZnFueVZSYlNFQ29tOUJ1WWxjMXRxNjdzVmFJMEVrMmxpN1BmMGwzaF9R?oc=5",
+   "data": "2026-11-27T13:30:20.000Z",
+   "cat": "Movimento",
+   "empresa": "Amazon",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1e9yoii",
+   "titulo": "Casa em Key Largo que lembra a de Jason no GTA VI entra à venda por US$ 739 mil",
+   "fonte": "arkade.com.br",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcGxYd2JuQ1d3V0FTT2hUSi0tMzlydUllNnFoZGZPU1NJVG1FNjFJcGxxcGppdTdFVloteXZkRFAyQmdKbTNJN085bC1kQlYtVG5fWHpLOG4zc2Z5ZDZMQzBaS2pwVmduY2ZLcXdSTkdSWlM0eDJ0aFg4Tm83bE5HaThyYk9Ia0gzQnJldWJ4V2pCNU0wVTJZVzJLc0sxNm5qWEhz?oc=5",
+   "data": "2026-11-27T13:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "p55uss",
    "titulo": "Ibovespa salta mais de 3% e recupera os 182 mil pontos; 5 coisas para saber antes de investir hoje (27)",
@@ -192,6 +288,18 @@
    "avisado": false
   },
   {
+   "id": "oijmub",
+   "titulo": "GTA 6: Vídeo viral reacende antiga teoria sobre a Rockstar",
+   "fonte": "Notebookcheck.info",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXlxeW43MGhFNGNLbXM4VFJmSEFTX3VheHB5SWVMZ0l2NlZsaTBBS3pacGZ4aExzTWlOaVE3U25QSTNrVEh4cm52VzQtSHR1dmlpNm5wUUtBT3ZXMVV5am5PMWtFMXRrekFZLTBVU1RIOUFDSTJjVUNPZzM5SWxwT2lHbVp4OGYtWGQzbmF6ZEl4eWg0Xzg0WDllb0NSRVA0UEdabjBB?oc=5",
+   "data": "2026-11-27T12:47:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "cqcgd8",
    "titulo": "Bradesco dispara com Trabuco na Fazenda; o que muda para a ação?",
    "fonte": "Valor Investe",
@@ -260,6 +368,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "r31c4o",
+   "titulo": "Buser entra em passagens aéreas e mira R$ 1 bi com aquisição em 2027",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1NSV2hwU2dOM3FuVlVLR3hGYWFqNld2RjlkajlZOEgwMnlGQ0lVNkpRVzM4Y3pHdWVONTlnUTVWaUd3VF9nTnJDa3pzUWRvQy02TEd3Z04wSWRoRl9rRWF2XzZLN0tqUWtTSGdudkFvaVI2M2FWVFlTb0VnYXR6UUh1Tm9vMDg3NEFXY0t1cVBkWWtVR0tOSkNTRGt6SWp6U3I5MkJXc2xOdw?oc=5",
+   "data": "2026-11-27T12:28:31.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -447,6 +567,18 @@
    "avisadoEm": 1795782628972
   },
   {
+   "id": "j42fe5",
+   "titulo": "Bradesco Vida e Previdência lança campanha “Num piscar de olhos” com Tadeu Schmidt",
+   "fonte": "Portal Nosso Meio",
+   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGRpUTkwVk5qWjVVZGY1eUpfcUlWelhIUkIxT2tYY0N3cEEtSzZjWVhyUXpRNkp1SjRGbTZsYmtpd3c1bVgyVHFZMUZuSWlxcmRDRGVhVUIxc2JnYnREQXVCVVBRN0hwdl8tUTZqcGVKQktyN2JnbVg3U2lXOXhZRWpHY2UwdEM4cm45OElPQ1FkTVV1aWo1V1ZTaVN5UVc4WlRwNnEwbTdNUQ?oc=5",
+   "data": "2026-11-27T11:21:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "w32jyt",
    "titulo": "PS5 na Black Friday: oferta ativa na Amazon para jogar GTA 6",
    "fonte": "LANCE!",
@@ -600,6 +732,18 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "a6jfh9",
+   "titulo": "‘Efeito Trabuco’: Ibovespa dispara quase 4% e dólar derrete a R$ 5,50",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWFpiZzA1bmVKS2JHXzhWcnhDMVdxd0hFSzZ1UEVEVUV5b0tYVW9LZGg1S3U4dDFrN19lallRczNieHNRV21xVF9EdHpQanhKdXd2M2JKLURXSHhhX2EzcjBzcTVYOFpMenBOWE41X21VOWQyR3lLUEhrSTQ0N29teFN5eHdqTThlRjZBdHVYZm4ya3dPSmgzREFFZjNPbV9JRDdDYmJQZXU1eWpPOUpydDZFcFRwRGNsbkhrSEhBX2hPc1liX2ptQVM3a0xpNVNDeFE?oc=5",
+   "data": "2026-11-27T07:31:47.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1694,150 +1838,6 @@
    "cat": "Resultado",
    "empresa": "Vale",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "axndee",
-   "titulo": "Álbum GTA VI dispara na Deezer com trilha sonora de Dua Lipa e Lana Del Rey",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxObXFCRzhWb190Y05pbERyY3NFa0FjWXVrbHA4ZHRYMVhaVk5FZEw2SDdHd0hCWUUyZnctRkVwME5MZV9hczBJMG9GMWFEYmtpYk00SUJKUm94ZHhoWFhKcFZhUjNiYXlWTjR5ak45SWIwRDdoc0dDTlplLXZUZHNTU0syMWFpMGZxZDMxRjBQeElpWmYwNG1yQXVtUjFkOWNuc2RHZHJTdEFoMy1aU012OEUyaG1jNlZtR2ZXYkdBbHhNbmU2WnpVOW95OW1QN01MU0Nlay11LVpXTDZDci0tYkFQUTJHdFRfeWdWUnVLT0xxN0gx?oc=5",
-   "data": "2026-11-26T17:08:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gfqskg",
-   "titulo": "GTA VI: álbum oficial do game cresce 374% no streaming após lançamento",
-   "fonte": "R7 Entretenimento",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOHR0YTN1bjJQbjk2cmJFOTBzRHNPWm5zUUVMUW9iSnRNVzE5WTVfNlpVbVF0a0oxTzgwRTRHQm43Y1ktbFBFN0ZteDk4VFNvSVNqTXRENGZIM1lHejcwWWFITUFLU3FQZy1HS1Y5bmJWQ1ZrbndSRUhJX1NLSloxcmpZUGl2bE5hTll1enlkd0FhOURRTDdNbUZxSmkxSjh5VmdvWFZxVk93NjR1WnNUY3pTOWhMQncxZDdFdTZlSUJEUms?oc=5",
-   "data": "2026-11-26T17:05:38.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "9o97yf",
-   "titulo": "Grand Theft Auto: GTA VI teve o maior lançamento da história da PlayStation, diz Sony",
-   "fonte": "Administradores",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUjFJS0xkSTFCWGs0ZTM3RWluYmxiYnQ3d21UUmEtQjl3NVMzLWxGazdIUlNRdW5zQmFLZENkZ1dZbmIwWFFpXzVTMHlMNlhVSGVRTmM0UVJsLXRnSDljWUhTRExVMTkzekxjMk9rZFVOQ0QxQVhxQXg3MlhTNlJHRkkwVzVXQ1dPU3lVQkpVVWU4TjVDeG96ZXNfZ3U?oc=5",
-   "data": "2026-11-26T17:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1q43k4z",
-   "titulo": "Grand Theft Auto: como jogar GTA VI pela nuvem e com Remote Play no Xbox",
-   "fonte": "Administradores",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNalQydWdnZi1uREJtNUZMTnhsOENnRUdjUTZCaGYxelMyWm53SDVUQmZQRGN0RFFkdWdkRF82eE5JcENrRGVhdXFSWlhUcFhQRWgwdWFvTXdBSUg3MEdUV18wTkNVMEFKVDkyaC1SR0FPNXlvLUpuOTVvUTFudjJSM1phVnBUbVhSTXBMUERzdWFMdllK?oc=5",
-   "data": "2026-11-26T17:00:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14ds7xx",
-   "titulo": "Black Friday: 4 erros que podem custar caro na compra do carro",
-   "fonte": "iG Carros",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNNGtXZ0JPdkxaTWdvSS1hMl9wSlE2OHJuVTUxODZ3TzRMbWE3eUNYWlBZWkJKamJjeXR5bFhSN1R0aVlfcFFoaGZkc1R3ejdnSVpiZGRiNjByT2xjRGtLbUZYRVp6U09kQ204MjJ2SmV1d0N4cDZvMGlrbzZPV1A4eDBYdVpRMDJMYUlnZGhfc1otNURIQUV2d3VvMFrSAZwBQVVfeXFMTTRrV2dCT3ZMWk1nb0ktYTJfcEpRNjhyblU1MTg2d080TG1hN3lDWFpQWVpCSmpiY3l0eWxYUjdUdGlZX3BRaGhmZHNUd3o3Z0laYmRkYjYwck9sY0RrS21GWEVaelNPZENtODIydkpldXdDeHA2bzBpa282T1dQOHgwWHVaUTAyTGFJZ2RoX3NaLTVESEFFdnd1bzBa?oc=5",
-   "data": "2026-11-26T17:00:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "e5lvs3",
-   "titulo": "\"GTA VI\": trilha sonora mira o topo da Billboard 200",
-   "fonte": "POPLine",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwdWpMeXQwRlBlYW5nQlFmY3dXbGgxOXFvVWUzalp1VS03VzVudlNLS1FKWTJjdDlqWHdLUmhTM2o0YnNXMW5MamM4NHJCMHVCR3dSSHlTLVc0OFhZVlFyTHFHZko0c1NqRlRINERrS3J2Z3pDcTZCOWpqUnlheEU?oc=5",
-   "data": "2026-11-26T16:45:53.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15mhg9b",
-   "titulo": "GTA 6: Vendas físicas batem recorde histórico no Reino Unido",
-   "fonte": "Última Ficha",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zakRPYm9VQWF6NHQ0Wk9YTGY4b2ljZk9PSERMNE5aU01sc3RRTTNJMkQtbkdmSTM0X1lsRTZBZkVMVjhSYVdTaTU5cURQY3FoM29Va0ZidjRXZDA4dmpPbDVZanE0MUtuZ2tFZWRITk5KamlwWXNQMVN0UQ?oc=5",
-   "data": "2026-11-26T16:41:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1maol0y",
-   "titulo": "Rockstar explica por que motivo a motosserra ficou de fora do arsenal de GTA 6",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ3I1dlpHX0hYU1pJVWFLNUlIT08zUlBJd2RjZzZVTDRoMzNVMWNBZDFqYkhlVGNWSHJhMVRYSDRJZkJMRzFEMTBhWVNBWkw4S05Zdktlbk1CMzZkb2MwYUVPVWFJUzNpYmhVd3U0Slk0VmFvaGRYZ2hiMnZ3aFBPZzBtTUMtNTMtZkZELW5FX0RRd0RJQjk1RDBaakhGUzZlTERMektndnFKZmFSREtmYjBHcTRLQmFVV1JOU09CaTFfdw?oc=5",
-   "data": "2026-11-26T16:39:55.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xcbj2w",
-   "titulo": "Ciro Possobom deixa comando da Volkswagen no Brasil após sete anos",
-   "fonte": "Vrum",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTVLQnRTLTY4MDJkYm9wamZZRkk3V0JMQWNOOC1iWUEyV0NSQ2cyMWU5S2ZMaUNnQXlmZHdRVWJpQkhMVjIyVVNFYWRUc0FVdWpxZjJYZ3czTWVfdHRUTHlhNU5VVTk3eDNYa0U3dzI5YXQzbGdPZlNlRmNxdU50RTZuR0pEei16a2JKWFNhcUt3ZEk5dndXVXdqQjgxSkJKaGNMTkNmZjVKbWVnaFMzMUw5dHFzNGlBLUpaLQ?oc=5",
-   "data": "2026-11-26T16:39:00.000Z",
-   "cat": "Liderança",
-   "empresa": "",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "35lldd",
-   "titulo": "GTA VI impulsiona consumo musical e álbum do game cresce 374%",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYXA5ZUV5ZzVlUm1rUUs4dGROLU5WOWNRZF9JUW05QW1MREpPUldnYkxHcHpwdXRRaXN0X1U5Tm5GQkg3SmhZc1Voc2lrdy05TjFla3JoODdsUXpwbG80SllzQWhaOTB0QUw4NDRSNU9NRDRybm5XWWE3a2M0X3dmRV9obnVpX3lfbndmUFNVWmU5N09JM2d6ZW1wV1B1MXI2MVRfR0taWm81cS1YNGFHYUtac0JSSFFFejVyaGEwSm5DUFJtSlF0MldVOWJGVkR0Ml8xbEczLTl5b0loV1lrag?oc=5",
-   "data": "2026-11-26T16:38:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "t9fsx4",
-   "titulo": "Nova série ‘3 Body Problem: Parallel Realms’ antecipa guerra de adaptações e pressiona a Netflix antes da 2ª temporada",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNN0lnbGVYdGdvQzJMRXhRS1lsemhDTzMtZmcyRkxCTXVKWjdLVUUwa1lleE5QUlUyMS0ySS1WckI2M2VsUW5GamFIMXNJRE9VR3lKdC0yaEVOVG9qdkd2ZTFET1lZZ2ZhRm1oYzAtcks5ckRqWC1EcEtZQlhMMzRxT3BYNWJYRHRieTd0elVZd3RsbUhFV3NyZTZZRGU2X05hM0daaWxJYw?oc=5",
-   "data": "2026-11-26T16:28:44.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "16vz3z7",
-   "titulo": "Como um IPO humano, Grand Theft Auto VI prova porque a eficiência não é uma virtude",
-   "fonte": "Segunda Base",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSWlCTzZhRkFZU2xxUU0xbUtGQW5QN3owTWZubEQwZ0RXbXpUMExfUjFCWW9TZThwRFRPYW5vX0ZXdl8zaEprQWc2UEFnb2ZGMi1zay1fd2U3UG5IX19MeHVnYlVVTVhEaS1VejRsSDF5VW84TlJ0b3ZmMDRXblJmLXFyakcxZFdncFZIY1k2cGpwNFhqNGZHV0xWWjZXWFdXS0ltSEptYVlGUi1OakZNQ2tuTGVISmNaQ3k3ZjJBYlE1M1FnZklSa2d3?oc=5",
-   "data": "2026-11-26T16:24:30.000Z",
-   "cat": "IPO",
-   "empresa": "",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
