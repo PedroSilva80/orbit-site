@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T21:00:31.030Z",
+ "atualizado": "2026-11-27T21:30:27.222Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,78 @@
   }
  ],
  "itens": [
+  {
+   "id": "1mxdl0u",
+   "titulo": "Apple e OpenAI em guerra judicial. Criadora do ChatGPT responde a acusações de roubo com novo processo por roubo contra a dona do IPhone",
+   "fonte": "CNN Portugal",
+   "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxOblViVVZUaE5Fa1RNR3dKOGlZVG4ySzRMeG9aRUdTOUlTOUVidmk2R0JXZDdfeC01UXdDUHFOVl9XMzJubG5IRFpHS0RBMS01TFBRUEl4QUhjbm4zdWdiS2l4ckJFWFZKekJua29MbFZsZWVGOVdGVG5LZnNJTld2cndsaUhIcGtLV0JmejNfRWVFZlg0ZHJGbzl0UzNaN3BFWEx4NnQ1VlhIRlNBOC0wTkN6Y1RrUWxsb2tnaF91SzF2U0Fnb01xWDBrc2RvWDc4aWF1eThPc080N2tNeExkSkV5N1VzM3JoSW1kc0J4Y2Zickp5YWZ5T2RJZEhqSWE3MmJKMk04WEI1VDlVODlhNlVQZFNhdWZUUXBLLVFIUTR6eUVmWUl2QjM3bG9QenVoTFM4?oc=5",
+   "data": "2026-11-27T21:25:56.000Z",
+   "cat": "Mercado",
+   "empresa": "Apple",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1g42mnl",
+   "titulo": "Review | \"GTA VI\" é tão viciante que faz o jogador esquecer da história principal",
+   "fonte": "GeekPop News",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaWwzNjBLdWNUWWZVLXZpWllFSzJmWHVzdExhWEM3eHhELXJnOUM2MzhDN2h1VDAyTGpXOWNGWWNoYVBMNFFsWkhTQ0JZTklZVkdxMWpQZlh0dWpXRG5iYWRxSTkwUk9YcWNfQnAtb0lUeFB5STB5OEJaMF9WNGFhTFBsWUp4YVhEOG9ITjIzUWxoV3FmMXRSOTdpZVRkYldwbDZtMGtibnI?oc=5",
+   "data": "2026-11-27T21:23:13.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cak688",
+   "titulo": "GTA VI se torna o jogo mais assistido da história",
+   "fonte": "Drops de Jogos",
+   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcWNReDQ4VTEtLU5IYXhTeDAzRHh5amlNakZvVlBua1Y3R0xZaGJTZFNKNGZGZ2JDQ0l4WENEb3U2NERpZzNycW5jN1BxaDQ0WXI3aGNMY1Fvbk9zX2daV3NJM2htbGV5Y04tMndmV0V5dklOZUIwWHo1TzNkb3prUnRTbEN1ZFNWUm5hTy1BcVRGd21VbGZLb1YzdUpRT3NZbUNZ?oc=5",
+   "data": "2026-11-27T21:18:35.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uhznum",
+   "titulo": "GTA VI: cinco vezes em que o Brasil aparece de forma inesperada no jogo",
+   "fonte": "Metrópoles",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVJwQ1F2Vng0eWVIQV84d3NTVWJyLUl6bERsQ3VFTUl5QmRxWC1yTm1JVXRKcHRpZWxCUjc3R1RWR2ZKNkJMTS1QdHNNTE41V3UycmI2MUV0Tlhld015V2FzUXBUZmpPTS1LVHlfZ0VKRFZDUTVaVXN0RHBvbjUxQ3JIbEh3bnA5b3dRVldFOVI0UUJEOHI5YnZsQ1d5cTl2bFRLeXlSRnNBRDlUMmwzUS13?oc=5",
+   "data": "2026-11-27T21:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "adsnvo",
+   "titulo": "Dólar despenca a R$ 5,51 com ‘efeito Trabuco’, e Ibovespa devolve ganhos e fecha estável",
+   "fonte": "A Crítica de Campo Grande",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdVVoTDM3NTNSZGExX2RsTnM2bUljdENoWlQzT05GeWdfSDVJU2drNDNuZWMyV09tdVRJRWJ2TlE3MEc5eTdMcjlwbHVGSGg0YmRUNGFRdVlVTW5lUGtMQ05IcnhNb1daWnpDbXJqQlRMZE9fenZhbmNhYWFvZFVzTU9XeVFOZVdxbTRkQ0hBbmxGd2ZxcXlISGM4QWtFUTVCeUxmN1dNalo?oc=5",
+   "data": "2026-11-27T21:13:45.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ues900",
+   "titulo": "Ações da Apple batem valor recorde pela quinta vez neste mês",
+   "fonte": "MacMagazine",
+   "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWMxWEZTNEdSbkJ2aV9HMDkxWTg1eDVOTU1yMExVNWZTdk1Cc2NWY3RqbEJtT19nTnRDcFhDcC10ZW1pTXpMc1FpRC1YSDBIajVTeG5NX0VkN2NORkVhZkVyUmlTRGFrRkFiZUpaZzZtZkRNenFiMnVkcVp4c0oxS2ZUN3V4djE3SVZBbFpHMEEtZDNwcUJjR0dUV0YtajZjVzlVZEdtbw?oc=5",
+   "data": "2026-11-27T21:10:38.000Z",
+   "cat": "Movimento",
+   "empresa": "Apple",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "15qlfmj",
    "titulo": "GTA 6 | Desenvolvedor defende Rockstar após votar contra sindicalização: “Melhor lugar que já trabahei”",
@@ -120,6 +192,18 @@
    "avisado": false
   },
   {
+   "id": "1tsj41v",
+   "titulo": "Guerra Aberta: OpenAI Contra-Ataca na Justiça e Processa a Apple por Práticas Desleais",
+   "fonte": "Seletronic",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbkVha0ppS2ZKdmtCZk9MYlNEaGZFUDNlQ0pXWDAyWTlhX25YczlDUGhDNEpJazllTFpUS293cXd5MGMzUnk0WF9wdHZ1MFlXemtfREdLSDlzSzZURVpERGFsYUQtS0sxbFAzOTZ6RGxJUHVydzZMRE53UVMtckJpbzczamtOZjhabkh2ZkVmLUFQS2lNRFhaNTJMQQ?oc=5",
+   "data": "2026-11-27T20:06:56.000Z",
+   "cat": "Mercado",
+   "empresa": "OpenAI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1ggcoi7",
    "titulo": "GTA VI: mod aumenta FPS, mas pode colocar seu PS5 em risco –...",
    "fonte": "Combo Infinito",
@@ -165,6 +249,18 @@
    "empresa": "",
    "score": 5,
    "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "uy72ci",
+   "titulo": "“O Garoto Que Roubou Bilhões?”: Amazon lança série documental sobre Sam Bankman-Fried, fundador da FTX",
+   "fonte": "Livecoins",
+   "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQOHR5azRPdHZFclBYemhsVjZYMUlSZUhidTRuaXdYUncwNTRlR3hoVGdTSFNDMHBIOTVkcVJYeVc3UWpiZlZBeXVWaFVIalFvN3owN1R5T0tSUmZvNkZfX0xLbkRPeHZTSXU4dmVPZnQtQkxCdzhzeUVDZ25UcS1XUWJ1MWtsNzk0TThCOHBvSWpjWGxaZjNMbkxwUTdJWks0Y0pzVldwTk9OQXJ2UjR1MWI1TndiOEhpNVhlRS00VmrSAcYBQVVfeXFMUDMta3B3bTZaNUptU3FjZDdRMENpN2xnV1NkZFVBMTg4a2I1VGJVa3pvemo5M08weFdXVGVLQzZUalUzVk0tN3lVc29Eam16R1V0ZERCTUx3OWlkV0VpQ2x3eDJsY01aX2VRWEhkWkFSTHRQb3RJaWZqM2hCd2hlYnU0bmFnTVhDYlUxb0pPeFEtOG9JTXM3bm8xMlk4VUtQNTZuTjFWb056U2tLV0RoMmRTaVpab2txQkt5cmNkdW1hTUNwUnNn?oc=5",
+   "data": "2026-11-27T19:44:09.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 7,
+   "marco": false,
    "avisado": false
   },
   {
@@ -573,6 +669,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "3eg7y5",
+   "titulo": "Dólar cai a R$ 5,74 e Ibovespa dispara 6,07% após anúncio de Trabuco",
+   "fonte": "Agência Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ1k0cE9OLVdLOHl4eWlqX3dTd2l4TmVZUU4yNlVQWHhQOVRJRXNhdUNHdmhOOUdjaS1IYWs1b2YwR2V6R0lyWXNCS3NkRXl4SHNiVjRiMGxoR09WXzRWVTVmZDdUS2E3c3hqYk0yV28wQVhnVEcwZlNBT0NreFlNWHJyb2ltbXJUZWhaQVBrYmtHSkg1WTB6dVdBSWxKcE1wNHpxSTI1WUt0dmVBMHg1Xy1vbk1sMVZsVW9EalBSM21NWUNiOUw0dHFWc0FteFI5NWtMcWRTVQ?oc=5",
+   "data": "2026-11-27T14:42:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1069,6 +1177,18 @@
    "avisado": false
   },
   {
+   "id": "1mnife",
+   "titulo": "Ativos brasileiros fecham em disparada em NY após escolha de Trabuco; XP e Bradesco lideram altas",
+   "fonte": "Folha de S.Paulo",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcW42al9WLUw4NkZUT1h3eGszZk5yWUJHMEZsVjJqLTNvaWFlWC10cVRiSWI5aUtBRlZJdWpmaG1qTW9BMUs2R0dpaEcwVGVDLWFDdUxQRU55eXdGY0NhSlNTMVdvc1AwSG9DZm5LbzVNVm13M3l2Z2E4SXRjZVpDcG1BZGFBbmZ3c0U4UGx5SnlUaFRFTnNtTFFDQ3c0VEh2SG0teXBXVEYyLWc3Sk9ZV2FHdjRBN1ZMQ2tHSUl3V3F2ekNidGhXbjRZMC1jQQ?oc=5",
+   "data": "2026-11-27T12:21:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "tpkvkx",
    "titulo": "EWZ dispara quase 14% com ida de Trabuco para a Fazenda; ADRs do Bradesco saltam 16% e da Petrobras, 11%",
    "fonte": "Valor Econômico",
@@ -1368,6 +1488,18 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17qyyfa",
+   "titulo": "Ação da SpaceX dispara 7,5%: será que doação de Musk pode desencadear rali maior?",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11RXZOOE8xVnhoTXlKX3dxWUtZdjAyVEtfSVBUOXVpdHptdldQNGExdThZdkViQlhubHA0RWZfcGZfV1ZIUlBYdjhkd1BQWTBhS1dtZHhzdTNsNWhLdHZmNEFfRXlqdw?oc=5",
+   "data": "2026-11-27T09:36:34.000Z",
+   "cat": "Movimento",
+   "empresa": "SpaceX",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1708,138 +1840,6 @@
    "marco": true,
    "avisado": true,
    "avisadoEm": 1795773634083
-  },
-  {
-   "id": "13g3p61",
-   "titulo": "Fracasso na compra do Master agravou crise da Fictor, aponta investigação",
-   "fonte": "Claudio Dantas",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUpUb25YdHNTN0VwalZvWnFLSV9Dclhwc0dfOGVjSDFMUjNRRC1zeDl2WXpXa2otVmVTdG15TEhIYUVoRU52b0NNSE41akRpR2d4MkdZWFBPWGFOZjhnbEozQ1I2U3hiM21sWndjTVFGb2NFSnVTcA?oc=5",
-   "data": "2026-11-26T23:36:21.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1r1p1yj",
-   "titulo": "Onde encontrar o easter egg de Arthur Morgan, de Red Dead 2, em GTA 6",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWU9ialVwbHRaRktlRzhKSDZPQ1dVbjZ0dC0yRU9jVUt4aU90aWh5OWpWOVhMLWlhVllJUkJxVk9DaFR6U1R6dnoxblYzbGFNeFR2TFlqcWZLazZKRlFKSFNoZnVtZkhxUmNScDJKU1NRdjdlTjNkampJUnotZ3dSOGsxS21hV3pxaVlqc21EZEVfNUNGbkZua1V1dGNXa2gzeUJzMzRJbFp2Zl9icHhr0gG0AUFVX3lxTFBacV9VTEZyRVFjNmZMbDNMeG9WZ25teXY0cmQ5djhZeERVd2FKZ19xV0F6VTZIaG9MOEQ5b29UOE1UZVZWUU1fR3JKc0lyV0VQd1d1NFpGd1Boa1hVeWNDNlR1SXFVMHNsNThVX1hucU1CNHg3SXo1MWs1RVBDWHZCTUdWT2xlTHQ5SWNnMzRvNFVWTlYyQ0t4WTNXWmlFNnA3WXBBS2RvVm9jZktsOGYyNmkweQ?oc=5",
-   "data": "2026-11-26T23:30:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1w0ol1q",
-   "titulo": "Ibovespa dispara 6% com ‘efeito Trabuco’ e recupera os 176 mil pontos; dólar cai a R$ 5,74",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
-   "data": "2026-11-26T23:26:51.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10tdu6p",
-   "titulo": "Ibovespa dispara 6% e registra maior alta desde eleições de 2026",
-   "fonte": "Tribuna do Paraná",
-   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdnFxcjRkS2Z1OHJPS0ZhZk4ycEFkOVlWRXk3dmJiV3NLd0Qwd041WURyZmNRYm1JNVRNR1IwOXFvQjBJcmNmOVE3X243MVN1b0FNRU1nR25nRDNSLXI3T1h4eDlyR2o2d1pWY0RYYmR3MkMzeENXWTJvUXRJZDl4VTFPMllSQW91RlFhMFJVLWw3T293eTZnM08wSEVmTW8zUVlvcWZVMFZEWVRaTk1TMdIBtgFBVV95cUxPX0tkM1ItaFY0LVQ5OFoxaTdYNXVtQmVjUHNDRHBlSDVVSTdjc1VlZHVxaU9DXy13OUJnMVl6R1BjRzh0S0gwZlFScExSU0VwUTVSSXRBN0tPSkx4dlpfb21kUk4wTVlILVRTWHF2ampqWHpwM2h5eUI0SkV3UF9ZYllNOTM1S3lSTDZSODdsWmtza3pjX3d2Y1RuWF8tak9haWVFeU1EelA2MzRITGgzcndPaXNadw?oc=5",
-   "data": "2026-11-26T23:07:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1c0ekf7",
-   "titulo": "GTA VI: como conseguir o Impala dos irmãos Winchester, de Supernatural",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0d1lWdTN6eHZsMTU5SDc1Njh5UVRZUGVYdUd4eHQ4THl1dTVEcWJGQmNkeks2V2FPRmw1YXhxMFdRSFVhRGtfTDZJTGZHTGNFMTFZc2NhU2RMQmlTQTNocDVJcXJvX0RPVzFzaU00T1hNWG9HVzBqckMwbw?oc=5",
-   "data": "2026-11-26T22:57:12.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "n0qhbr",
-   "titulo": "GTA VI: como aumentar a estamina em missão secreta The Final Flush",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9kU2ljcDhBMFFqcWM5RVRLenlrSUJHQUhhQi1UN0xkRnBNdFo2dFRpZk9zMkpKQTExemVLREN5THprTDBPSjJJdS1rc05sb2kzSE5sLVUyR1FBRmNaWjNoalhaRF91SmNNdmdYY0FMckdhRGszbzFsWElJbkVwUQ?oc=5",
-   "data": "2026-11-26T22:46:54.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dpllbf",
-   "titulo": "Criador do NVIDIA Profile Inspector lança ferramenta que reduz flicker do G-Sync em monitores OLED",
-   "fonte": "Adrenaline",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTmE4WGRQWjh2Vk5tbFp1b0lHWF85U2ltclFjMG0yTlZhU0haREdKbk1kVVp2eS1naURTdnRjdWE1UG9zbFpFNDhsb2xsTExTdFFGbXZqSXl5Zkw1OTJPZE5TR05ZUWVvQTBmTXhVbG9NaWlLNVdIY3dKTnpycWhkaTlKVElEUXFlYzd3X2o4dGQ5d2Fu?oc=5",
-   "data": "2026-11-26T22:36:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Nvidia",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "r33ubd",
-   "titulo": "Trabuco aceita a Fazenda e dispara euforia na B3",
-   "fonte": "Startupi",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZmlodnFDcG1MeXVKdzhHVnQwcEhMQkR1eHRoa1BvOHJHeU5tc2tGNVBqUUo2ZWJ2TUlzSnRDVV9qdXhpbFRhamtIZEp2cUl4YWVPZXp5akM5ZVo4dElZTjREa2J2cGxLR0F5WDZnOVZmLURXLTJ5bVBkQzVHdw?oc=5",
-   "data": "2026-11-26T22:35:00.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bpwphu",
-   "titulo": "Ibovespa dispara 10 mil pontos e Banco do Brasil (BBAS3) sobe 12%",
-   "fonte": "Suno - Investimentos Inteligentes",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JeUdyQW56dUNpWFNZU0xISjBzdlk1dF9qRFFCelpKMERWeTM4WWZvYlJNQWtxZm9fcV9lV2dPQkhKY05mYjFDdkcwbTZTMHpheWJZa3BURkp4cU1xbW40VmNDQ25sbWNxUTB4eUVSTGlydFXSAXhBVV95cUxNWnFEUFpJOGFRQm1VZWlZZmJ1R2NMT0hZZnVldmM2VFo4Y3pHR0VTU25DZ0k3UG5WVzRWa3pQbkloREV3cGg5b24wN0RaNl9XSDdGbkd6M2JUYlNNQUIzRW50ZnFneFpCTFhnSTFUbEEtWDhKRVhOSnc?oc=5",
-   "data": "2026-11-26T22:31:43.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "hm9sgd",
-   "titulo": "Bancos disparam na B3 com expectativa sobre a Fazenda",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjVuWnNaOW9oaXp4YkVKUkZXbmc2T25VUG5LaGVGZjRLd2p0RUZ4XzFaaGJXel80RGdhaTR5aElSR3ZDbWF3RzJSVFdBMDZYNzNDdVdJMEJVR2hfZHZ5NUhLcllIUjFkZFB2QjNkdTREWUJvUUQtMGdha0pmbWhRVUIyN0tFTjVkY1Y3c3N3?oc=5",
-   "data": "2026-11-26T22:19:37.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "mctqsj",
-   "titulo": "Ações disparam com a expectativa de que Trabuco, do Bradesco, integre o governo",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOWklwQXlESUhwaGxNdFREdE05anVyaUxwWlJrLWRueTBaU1YxejNTWnRuVUlHZndkdU1hYUFxTEt1X3pXSzQzLTFJNGYtR3IwT2JtaEhSNGl6bDRMa1Z4UGtITEZfbWItYkNhRVFJYjhiemhZaVRfUE5SLXl5UEVmMnBTTE0xZkVfVnQ2TV9XVWJ6SHZBdFl0STBPakY2MEpkTEFMVGwxSkpiYlVDeVlTSlgyZGtUdUEwT3hvUndxemQ5RUVWLTEtX0RzbHV2QWRMV0dIYUpoQdIB6wFBVV95cUxPTnZsNGhEUU9OUjVkUlFHSjNhVkI1dDJhMHdxaTV5a3AzLXhNZVRCQklPNmt3a2dsWU51QUlIX2lLNHlSUEFjQ2pmaFNhNTA0QWlBQnRNSGgxZUYzTE1WQUVLVXRKTzZiRXNDSEFMNlNHYzA1bG4taVhEZk92eDVzOGZoOWpPeHdlVUFaV1d2czBXdG50UEkyUEtpMV9jWDRjc2pUNWUwV2JNMWhONEhGZXhoNlJIWVgtUDRYMWJSMllWU0VEQ1RwUWY5c09xam1CYjZBd1hRQ3R1aWV5Nm4ybHNOUkMwR3RfdHlB?oc=5",
-   "data": "2026-11-26T22:15:53.000Z",
-   "cat": "Movimento",
-   "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
