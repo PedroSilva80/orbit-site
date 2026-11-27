@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T16:30:29.087Z",
+ "atualizado": "2026-11-27T17:00:32.461Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1p7zmig",
+   "titulo": "Euforia dos investidores com Trabuco na Fazenda faz dólar despencar e Ibovespa subir",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZaGZhR0dvY1EyMVJ0UUFQdXpveEY3OXhpY2FCeE9ESktuS04wdjZiXzZrTmVKVWx3NHc2NmdjVnhXdktMSlJBTmJrZFl6MEF4SDRBXzZPT2tWMFl6SHBjTWpJTzZCZ2cxRDFwajdNajh6d2pVQy1J?oc=5",
+   "data": "2026-11-27T16:31:43.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1bu66xr",
+   "titulo": "Como a Rockstar escondeu o maior segredo do início de GTA 6",
+   "fonte": "Eurogamer.pt",
+   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmRJT04wTFlhaDlsdFgwRTR1blJjVVZGZ0JjaGI0S1NKeUR0UjRkX3AyTGNCbEJRckdRRktDNXdQeVFoTDhSSFo2eVBtZzBjN3c5OU9jX2VuclVXU2ZIWmZMX0I2VG9OQUFpcERGTENpZENFTS0yTmJ4WjE5Z25EZ1VCZVU1dGx6V0VFcFdBRXlXdFdsb1VRSWljNXo?oc=5",
+   "data": "2026-11-27T16:22:50.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "10400sk",
    "titulo": "Fachin prorroga por 60 dias investigação da PF sobre filme Dark Horse",
@@ -504,6 +528,18 @@
    "avisado": false
   },
   {
+   "id": "1a0hf66",
+   "titulo": "Petrobras prevê retirar do mar 27 plataformas de petróleo até 2031; custo é de US$ 11,2 bi",
+   "fonte": "Minaspetro",
+   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeTRBczFMQWc4Z2gxY21kd2dFd1h4QlM5U0ZiVG5EVDNRbzZIQ3lJZzAzSlNVVkdMQlpGM2ttV01faGZraVliOE1qczNMb1dsSjRwUzhnam85UjZ6aS0xYkhrNEp6RHFxNGE1M1pyMEwyeXU0MGc2MVpYelZFaE4wQ3ppWUhzeVNTTkw0QXB6bmRkS0RBYWVzQnFXRklqTHNIdDNMRG9tN0RyaV9HdDl4dmlqc3E?oc=5",
+   "data": "2026-11-27T12:47:31.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1oxody2",
    "titulo": "Perdeu o IPO da Anthropic? Agora é melhor comprar a ação?",
    "fonte": "Invezz",
@@ -935,6 +971,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 10,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "oc8xro",
+   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
+   "fonte": "GZH",
+   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
+   "data": "2026-11-27T08:52:46.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1790,54 +1838,6 @@
    "cat": "Risco grave",
    "empresa": "Google",
    "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rwwzlx",
-   "titulo": "Caixa analisa aquisição do BRB após impacto de operações",
-   "fonte": "Agora Litoral",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmhmOUVTbWFHdUtSZ3VCeU1XQ3NhS3BXa2drVDFyMmdKSm5wNVhMVHhsOWVNVThvbzZlV3dxb0lfcWJ2YU9iLTFmNmdHbHdmcFNDODcwUnliWG0zWm85VGpqZ0NBVUhHdjdSZzFjcGtCZm01WXItWUY3MTFqa3NtLTktZGloam8tQk04d1FMOHcxdzd5TFBFcUROQUE?oc=5",
-   "data": "2026-11-26T18:38:42.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "z0fm2s",
-   "titulo": "Estátua do CR7 aparece na casa do Messi no GTA VI: fake news ou verdade?",
-   "fonte": "UOL",
-   "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1UeUp4OEZXNkxVSUl4d0hFOFpGbFlENlp1Wkc0aUNKaXZkRF9YRWVwQ2t5STlydXBBTkdaeGx2TjBUaFprS0U5VjRhQTBWNXVuay1wWVhfNnNYOXhzdDlTVXdyRUxFbHM?oc=5",
-   "data": "2026-11-26T18:37:35.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17xdxid",
-   "titulo": "Bradesco Asset lança ETF focado em setores estratégicos do Brasil",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTEdPanoyeWNSeTN4Nmw1OExpaWdTb05GSU1LYnFOYkVtaU55X21IbVZDdDNVN3VLVHBjTkJLVlVaZlU2dlVTcm9IeTVtUXFSQ3JVTWdiclBnTnJpeEFsN1FwbjBOcjVmcU1oMER2UzNGZEZaektVaFNGTXlKai1mU1NXZkQ1a3pTdFFhM28ybVp6Yy1KbjZiOHJXblc4XzIwdjJj?oc=5",
-   "data": "2026-11-26T18:31:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rgg3b",
-   "titulo": "GTA VI: onde encontrar a Fonte da Juventude e melhorar seus atributos",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE93ZFFlZXRqS09TRmVVNXhNT2JRUzJSbkR0OUxLYllvUE5LNkpLdV83ZFB6cEZxRVRqa2FibFhOQjJ1NWVhSVk3VGNVZWtWQkJLWHVOMmJMVUw3SU9HMnAtUDlrVDE2SmdvQm82VWFtVnZSTGQ1S1B4dg?oc=5",
-   "data": "2026-11-26T18:14:15.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
