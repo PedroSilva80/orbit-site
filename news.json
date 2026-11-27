@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T19:30:26.225Z",
+ "atualizado": "2026-11-27T20:00:31.011Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1l6xeld",
+   "titulo": "Companhia aérea norueguesa vai à falência em meio à alta de combustíveis",
+   "fonte": "DW.com",
+   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFhEZ2RqV2xGZnNpVHQ0dE0ybXhvQkhuS0dabHA4eFVtVDZSQWtpM1h2MVRDWEN6NFZyOXA0dFRZY1pWU0R2T1pyZnNsckV3YXczejBFSmhYeFZfaVNlbUJDQjlLaUdqN0w5RlNxcm1kcFNoSjN6LUxuaUx6c0lrVzd5TF9yTGV0N3BMT0dtRDN4Q3dkNVNJUHdkUzM2WHVBUmw3QS1Ia1ZpQkF0ZW01WFFCc3FJTWJzQWplWElDdC10N1lrVFVVUWFsN1FrUdIBzgFBVV95cUxOVHVNMzJDb25NRlhaZ1JlZjBIUDBhSDJsSVM3cGoxb1lJd01tNjEwTklKeFRxSWtVdWhtTEVUYTVycUFJT1FnbjAwS04zNlJvbDZCS1AyMm9tMGt0aERMZzdmYlZtdHUtM3FLMXBHdVJKNkdRTEU0SkdsUktlckRMeV85dTEwYUI0THBReEtmN1BHWUFQTHdGNXpnblo2OE1oa1I0aDBoUlR0TDZlelFxR29COFhNMDcxNUdkS0FiX01NQ1g1cW1Ld0JQX1RvZw?oc=5",
+   "data": "2026-11-27T19:50:45.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 5,
+   "marco": true,
+   "avisado": false
+  },
   {
    "id": "1c6gred",
    "titulo": "Auren Energia colhe ganhos acima do esperado com aquisição bilionária, aponta Itaú BBA",
@@ -79,6 +91,18 @@
    "data": "2026-11-27T19:02:40.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1glxykt",
+   "titulo": "Take-Two manda remover mais de 3.000 repositórios ligados a GTA VI para PC após vazamento",
+   "fonte": "Administradores",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTmNqQk9uanJmV2lVNEhSbmNINUpQYmVPQlN6WF9la0dFVERGRVBIS2dBVl9GdFVjbUFJaHlvb2h3azdpMUJWbUl6UENKeFlsbmRGWTAzNjU4V0RNV2xac3hVMUFJSW5ybzN6UWptU1lWM0tzak9JRThJcmJJNE96VFVkbWZXenRvckNYSEptOGpXazZ1S1ZfRnM3Rlp6UDFPQ3BHM05SMDYzX1huTWpHLXJBNDJCNGVrbmlGZDlnWmJpRnc?oc=5",
+   "data": "2026-11-27T19:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1814,30 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "o5ivho",
-   "titulo": "Cangooroo lança novos recursos e anuncia integração de ingressos Disney; veja fotos",
-   "fonte": "Panrotas",
-   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPVzZCaERic0tqZHhtSXRqVVptdTE1dWdFSklOUDNnVkxBS2w0N1Jvd0ZRRWEwbzJkd05neTRBSGxGYzVjS3ZnVzJHaTdIWnYzR1JwUC1XLW9Yc2U1Zkc0X0k5VlN4aFlxT0h2V0hqVEpzaWQ3MER0b01GZEk4M3UtdGFQbU5RRUdOUHdyY1hRRllORmstd0l5VmtXY1ZLRkxhUmJKOFhsM0V0ZFRzUm1Mc1BPbE9UdF9rTTFDMDdUZGZfZTFobUptWV9OYzdJcW9LbG5xQXVOSDM5WkVoU2FFSExZZw?oc=5",
-   "data": "2026-11-26T21:22:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "101roaz",
-   "titulo": "Banco do Brasil e Google combatem fraudes com bloqueio de chamadas fraudulentas",
-   "fonte": "Metrô News Jornal",
-   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSzNlanB6YnVwNElXUTgxZnNXdDVUczVnbXhCMVY5YmY4MVZNNWdwWjB5eXZBMTUtWGtDQXhENUQxOGFlT1pjVkk5TmhucXZ5RnVmdjJhSkxsTUlIX0lqZVMxNnNHU3pGRVo0aXZDWkgzVWZURmF2NFE4NlFyZEM3UVBCWGphcTFyUlFsZ1h2dWpLaEdOT0ljQnJPTWhQeVZkZDJ3a1ZfTmI?oc=5",
-   "data": "2026-11-26T21:18:00.000Z",
-   "cat": "Risco grave",
-   "empresa": "Banco do Brasil",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
