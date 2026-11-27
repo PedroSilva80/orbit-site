@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T09:30:27.034Z",
+ "atualizado": "2026-11-27T10:00:34.083Z",
  "agendaCal": "2026-11-27T06:00:29.453Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -13,7 +13,8 @@
   "dig|2026-11-23": 1795428029253,
   "dig|2026-11-24": 1795514432234,
   "dig|2026-11-25": 1795600834137,
-  "dig|2026-11-26": 1795687232371
+  "dig|2026-11-26": 1795687232371,
+  "dig|2026-11-27": 1795773634083
  },
  "agenda": [
   {
@@ -296,7 +297,8 @@
    "empresa": "Bradesco",
    "score": 9,
    "marco": true,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795773634083
   },
   {
    "id": "13g3p61",
@@ -439,6 +441,18 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yx9og",
+   "titulo": "Ibovespa dispara 6% e dólar cai com Trabuco no radar",
+   "fonte": "SBT News",
+   "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSXkzOGRqczJqYno4OGtrYlcxUjZobnpzUl8xck9rT1ZlZFdqNVAyeVFuYXpDVjlKbVY3SEVacERIbG5JVzJyTlozcDdnYzVYYndOOFlISVVEZTdZWTk1WDgtNER5WlFESkxmM2NTalhPLUJ6ektMMDRkZ0RhSVg4V09KZW15MDM3UUJrTVE0b1JMNzFSU0t3TjF0aw?oc=5",
+   "data": "2026-11-26T21:59:42.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1823,18 +1837,6 @@
    "data": "2026-11-26T13:45:18.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14x4fed",
-   "titulo": "Ibovespa hoje: IPCA-15 de novembro traz alívio de curto prazo e PIB dos EUA mostra economia resiliente; veja destaques desta quinta (26)",
-   "fonte": "Empiricus",
-   "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPbjRHOFdsMWhQZnJoN3ZRd0c4VlNoZXhuTVd6YmdqbVdNenJXdzR5Ykp0UFMycTc1NlRFaVp0LTNsNHIwTm5tVW8wdXUzWkI5b3VPZ19FZXNnVDFaQ3laR3BsTDRCVkRJdW9JREoyYURZV0NhZ2pPYzVPQUthcGMtNlFDbml3YXFlOTVRMnhrZml3RDRlSXZObHA3clhlRkhWeGZoTDlDSW1YQ0hxOE9qTmN3dW5GZGRKQ3dLbTYxMUtsZG1UTkFvZjJmMk9DX1h3U0EzZnBtazZMb2FjQWpRRzEyN1AwNVB0UTdYVVhUVW5wcTB3SVFJNzRfZmxFR3JtM2pxdzJyN2JUM1J0MEREMTFZVmRWeVBl?oc=5",
-   "data": "2026-11-26T13:44:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
