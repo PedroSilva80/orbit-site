@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T12:30:28.972Z",
+ "atualizado": "2026-11-27T13:00:31.589Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,90 @@
   }
  ],
  "itens": [
+  {
+   "id": "1pvz3r4",
+   "titulo": "GTA VI: onde encontrar a cobra gigante escondida no pântano",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ia3R4WGVGaGt4MER3dVN3SEdfSy05QzJ6emREVE5oaEVXNHRtYmpTZWtoNkxIZlFSeVdyZEpiUGFpM0sxWnVkNzB6Q2p6ZEJsOU40ZEp6MXBEcXpaSy12bWwwbG93MFYwSTktUDB2REt0ZERobFVhdW00Qk4?oc=5",
+   "data": "2026-11-27T12:51:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "9h4k6s",
+   "titulo": "AMD dispara 5,1% com alívio da China e rali de chips de IA",
+   "fonte": "ADVFN",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0xd0ZSQnhnWm1iV25lWmR0ZzlqdnZJSWNrU2tDM0g2MnpDT3JuMGM5T0tyVDhvZnZyRjNGV193NHB3X3diNU56MFVpUFFxUVN0WEtDa09qU1pPUk1weHEzYmNNUGdWS0FsbDBTVXNrWVlhZUg4Nm1RaEFJMWM4eTg?oc=5",
+   "data": "2026-11-27T12:49:12.000Z",
+   "cat": "Movimento",
+   "empresa": "AMD",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "7fon8r",
+   "titulo": "GTA VI: 5 fantasmas, mistérios sobrenaturais e onde encontrá-los",
+   "fonte": "Pizza Fria",
+   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yNHBmR2RZMmtUcUpmeHMyWGp2eGU2X2xKVHNmcGUybWhpeWZ5MGtpejdVMXlzSXVMQzVQSGkzRE9yOU1CUi1OalFBNDRkVlJfdm9zREtZRjgwT0hndUZiT1ZiTE9zb2hKTi0xMjF5SWNwVVBXVnJqbWxBeDlrdTQ?oc=5",
+   "data": "2026-11-27T12:41:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1b7inne",
+   "titulo": "Bradesco comunica ao mercado ida de Trabuco à Fazenda, mas não fala em renúncia",
+   "fonte": "Gazeta do Povo",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVhBb0YzUnhhOF9GeGt5RnRvWWFqQ2FsVThodXhacnVFbFhrcFhCRTRNS0hGQnRQdXdHR2UxdDBkd0NxdWk2U2JnaDNkamRSNlhKRTlLVzh5VWlUZE5ING9FSEZBUjFrSmF6WHd0ZDVER0otRXNsRzYtSWF1bzZYYlFSNnN4eHVtOERFUElMVi12NDRCQUQ4Q1FVa3B3UUJKOUVjS0F5TXQ3QWMtdlZwS1FnWHFEbzItTmNxNzZaOWxLb0U?oc=5",
+   "data": "2026-11-27T12:41:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Bradesco",
+   "score": 8,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "11sjbbn",
+   "titulo": "Trillia, da B3, lança 42 audiências de Black Friday na Meta",
+   "fonte": "Let's Money",
+   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmgyZjMxcjUtUkhKdkVyMmJvMW5uVHQwemEybV9KaVIzeTJoZGtlN0pWdFVUNXJoU2ViWUxFb1ZkbGtzM1N3a3N3WF9DWEN2MFFWNVl2eW5JS3F0eHJwVmpPUHFqb0RZaFdYSldaWko2UWsybkZJOU9B?oc=5",
+   "data": "2026-11-27T12:39:02.000Z",
+   "cat": "Lançamento",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "17cekaf",
+   "titulo": "Milho abre sexta-feira em queda de mais de 1% na B3 com dólar despencando frente ao real",
+   "fonte": "Notícias Agrícolas",
+   "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdHJUREh1aVY4aUNqU2EyRFRwVnJYblJtdU1VM3hWdG9GMkpOR283dU43YjNacTlhSTBuNlpwVHJrb25TWWRreUN0UDdBY0FqX05GcHRGUFVjUF9UbFd4NFRTRFhBTnRnZFNTMzFaVWhUd05Bd09pVTIyYVJFNHdULTlIWkdTZW1JNWlTaVBvWjM5WXhoVS1DWVl0bTVZR1Bsc3JsQWpmRXYzbC1zam1FLXlFajZGanJBQTFheWU0cU1LSnhKaGJFbDV0Vm5EemdIZTREY19HNkpIQXR6QW0wWHZyRzlndnfSAewBQVVfeXFMUDU5aTF3N1l1MXREN0cwWlA1bExTZFp3RWpmdGlvRVhKVTBIQ3Jsc20tbDhhT2J1QXM2WTFXTFdSY2hEd2pLU0F6ZmlLS0FVeXdiOHo5ejVsbXhLMS1MNzVPZ1JHODZXOGVxUHkzRmlMVnUyQnFqZW51YTJQTGF5a2U2ay1kMmlhMTdkNHJvQ1otb0dZWlN4dGwxVWo3UDdyeW41c3lXWFJESHVoSW1QTF9TaV9fRmgwX3laclBGRUZERGM3NV9SbTdIU1lxcFRZcVNpNFZLOWNrR3NyTUpLei0xSmV5Z0Nra1Y2cVk?oc=5",
+   "data": "2026-11-27T12:33:26.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vyurzx",
+   "titulo": "Panini e Rockstar Games transformaram as cartas colecionáveis de GTA 6 em cards de verdade",
+   "fonte": "Arkade",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc1hscmV0dkcyYmtzSjMwdnY2SlhrY1IzSG03Nlk3d1NUYTdVOWpoeDVTa01HeGdDaER1UUp6bk1MZTMyUXlTZUdpR3hoUUJqUXh0WUhac05Sajd2TXJ0clNfZS1tRzF1eVozTlZlWllJUmFJQVVfazFmcUhFOXBPTTVaaHoxbVdmY3VZWTVvdmZCa1NTM2k4R2dSck41TG9RRVlRZlYxNU0wTGQxbHdPdjRCdw?oc=5",
+   "data": "2026-11-27T12:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "l0uo4x",
    "titulo": "Cade aprova sociedade entre Itaú e Klabin em negócio de R$ 1,2 bilhão",
@@ -129,7 +213,8 @@
    "empresa": "GTA VI",
    "score": 8,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795784431589
   },
   {
    "id": "15je3c7",
@@ -1752,91 +1837,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xdh4dt",
-   "titulo": "ILFB tem maior alta entre índices de renda fixa da B3",
-   "fonte": "SpaceMoney",
-   "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQWDh2NFo0TzQyX2NMYThHMFhOOFF6RHExTGVnLVBBbjhFMXRoaDdKNnV4UEdWZjd5SkZvZnBhU3VFQmh0Ui1kSGNrYjR0c0lVSUlNZ0hmbTNWLWVFR2VSNS0zWklXTHg5TWhMbGhpWGlpN1JObS1wRXBieDVyVk5mS2JUYldCSmJsbGptU3cxeFM?oc=5",
-   "data": "2026-11-26T15:42:28.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ef0wpv",
-   "titulo": "COMISSÃO APROVA PL DO SENADOR LAÉRCIO QUE ESTIMULA COMPRA DA AGRICULTURA FAMILIAR NA MERENDA ESCOLAR",
-   "fonte": "FaxAju",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRU5pQWZJXzBQZUVNOEhyN0QzU0s3Qm1NUU1CS21wV2thNHF2UjR5b1VBc0FXZGNCSU1OeHJHeXp5bnRHM191d2hjU09mZTF3RDA0aHNwVzB2Q3I3Ym9ncGhscnNBTnVCLUtZbUlRZ3VEQ1haYU9WU3ItR09sb2RHMk9Sd1A1T2R3dnVjQ1U0b25NMU9DZzVGNEpDeDQ4SGE3R3AwUHh2cGg5MGx4Ql9ycjRoajdjcmdhTnhBcWY2aENvcHF0clpMNlBxQUc?oc=5",
-   "data": "2026-11-26T15:41:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "13zjt5b",
-   "titulo": "VISH! MOSTRARAM O CONTRATO DO GTA VI COM O XBOX! O SERIES S SEMPRE TEVE RAZÃO!",
-   "fonte": "Xboxers",
-   "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaExjQ3hxZzc0eGZjWWkwT1pOcmJZbE96MF9xeTE2RW0tMVZVVlNKVFczQV9hUU5xZklBWlZLMnZkcXAzT08wSkVJa0Z3aEpmM3VqdUZpUkl6UkFSQk5WOExpMWF4MjRxWTVLMDMwVGEwUHlhOG8tbHBqQnJCd3BFU1BPY0x2cDhka3VUcVh2X0MzcUdEc3dSVnB6V0E5ZVdo?oc=5",
-   "data": "2026-11-26T15:40:11.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "14oe4xa",
-   "titulo": "Rockstar rezou para que o maior segredo do prólogo de GTA 6 não fosse revelado antes da estreia",
-   "fonte": "IGN Portugal",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQT3kxTklZaklLNldORDdkYUFkT0x6Z3V0R0xWMU52STlDSUEwQzIyUWNpeEZ6WHBNcm5tdlhrVFEwclZzUGZ1YUtjRG5namdJRkJQOEl5RFpOMHJpMlotX2RGQ0hCTTZ6LXRpbmlWRjcyMVphUnJwVWVlS0Uyd2REcDFhaVlfVHlVLXNyLXlXVktNdjVhaE8wRF9YN2ltOEM3bjk1RTZwX1ptbDJhWHp3VWJNV0l2VHp2ZVNHQmh1RUppYmxJOWhVNk5XNmNKeEhIcTRVbjRlMDU?oc=5",
-   "data": "2026-11-26T15:39:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": true,
-   "avisado": false
-  },
-  {
-   "id": "10miyx8",
-   "titulo": "Quem São os Executivos do Vale do Silício Que Torceram Pelo Retorno de Jensen Huang",
-   "fonte": "Forbes Brasil",
-   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNNWFhWDdFd2JPci1qTlNyUDhNZVZJUldXTkZiNjdQcktjYlRJMFdCeGJkYnI0X25ocGFNZFlrUE9GTFVpbm5uVFBuWXNTMHA0dk1PMHdFTEpiNGlVSTJhNEdYTFRlZXNrSWJGYUstLTc0dWlOVXB3XzF5Y0REQTY1ZGFGUDlKMUtDS1pVZFVpc3B0YjNYQ0EzODlHdUl5YXN4UGoxQVRMMS1WQnZWWVR6ZTlaTHNHdFZKeDdtZUdpVEZ5eHZ4?oc=5",
-   "data": "2026-11-26T15:38:19.000Z",
-   "cat": "Liderança",
-   "empresa": "Vale",
-   "score": 9,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795716032251
-  },
-  {
-   "id": "18bm05r",
-   "titulo": "GTA 6: Lançamento de jogo da Rockstar diminui jogadores ativos em Call of Duty em até 42%",
-   "fonte": "Isso É Notícia",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxONXZ6dk53VjQ5Qzk3OUtGRGJUeTRRSVZSMzdiU2Y1OW90U044SE12SmEzT05IWThTal9ESnpEaG5RU0Z0OU45T1d6dm5rREw1YnBvV1pLUGUtYUFON3lFYzVQRUZkQUVfQWlGX1VIVlZ5UFJoczJkVy1pbWJiRXhPUDdxQ2JaUkc1eFVDalIwWlA4c2toOGpyVnR4ek5MY3J1Y25wWThDWEp6QlhEWk13ZFp0dU5EMlV2MklFUF95WXNvQ3ZrczY5SklGQjA0QVNRR2hB?oc=5",
-   "data": "2026-11-26T15:36:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "umnpa3",
-   "titulo": "Bob Iger, ex-CEO da Disney, teria engravidado funcionária durante caso extraconjugal, revela novo livro",
-   "fonte": "CinePOP Cinema",
-   "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaGhhRzdpZk5fN1IxenhiaG1xWkFWVERWb2hQRWdpV1cycmFUM19XT0NYOHdOSWM3aWg4SDd3X2lNUkdYdW1mTXVJMlYzZGMtbkVCN0hqM093eFd5VS16MjJTUDExSE1xTERONEFOY0N0MjIzWEl2QWU5YXBpNnJjV2hzZXBTNFJMTUdFZVcxMWZORzJHRVcxSjhUVTNwYUJHcmE0MndXSW5IaTVGUURJTnB1ZmxnYUxQS25zbnBxZTl6Q3A5MHNnSWQ1RQ?oc=5",
-   "data": "2026-11-26T15:33:18.000Z",
-   "cat": "Liderança",
-   "empresa": "Disney",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
