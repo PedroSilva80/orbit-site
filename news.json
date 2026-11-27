@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-26T23:30:26.851Z",
+ "atualizado": "2026-11-27T00:00:30.181Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -51,6 +51,18 @@
  ],
  "itens": [
   {
+   "id": "1r1p1yj",
+   "titulo": "Onde encontrar o easter egg de Arthur Morgan, de Red Dead 2, em GTA 6",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWU9ialVwbHRaRktlRzhKSDZPQ1dVbjZ0dC0yRU9jVUt4aU90aWh5OWpWOVhMLWlhVllJUkJxVk9DaFR6U1R6dnoxblYzbGFNeFR2TFlqcWZLazZKRlFKSFNoZnVtZkhxUmNScDJKU1NRdjdlTjNkampJUnotZ3dSOGsxS21hV3pxaVlqc21EZEVfNUNGbkZua1V1dGNXa2gzeUJzMzRJbFp2Zl9icHhr0gG0AUFVX3lxTFBacV9VTEZyRVFjNmZMbDNMeG9WZ25teXY0cmQ5djhZeERVd2FKZ19xV0F6VTZIaG9MOEQ5b29UOE1UZVZWUU1fR3JKc0lyV0VQd1d1NFpGd1Boa1hVeWNDNlR1SXFVMHNsNThVX1hucU1CNHg3SXo1MWs1RVBDWHZCTUdWT2xlTHQ5SWNnMzRvNFVWTlYyQ0t4WTNXWmlFNnA3WXBBS2RvVm9jZktsOGYyNmkweQ?oc=5",
+   "data": "2026-11-26T23:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1c0ekf7",
    "titulo": "GTA VI: como conseguir o Impala dos irmãos Winchester, de Supernatural",
    "fonte": "Pizza Fria",
@@ -94,6 +106,18 @@
    "data": "2026-11-26T22:31:43.000Z",
    "cat": "Movimento",
    "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hm9sgd",
+   "titulo": "Bancos disparam na B3 com expectativa sobre a Fazenda",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMjVuWnNaOW9oaXp4YkVKUkZXbmc2T25VUG5LaGVGZjRLd2p0RUZ4XzFaaGJXel80RGdhaTR5aElSR3ZDbWF3RzJSVFdBMDZYNzNDdVdJMEJVR2hfZHZ5NUhLcllIUjFkZFB2QjNkdTREWUJvUUQtMGdha0pmbWhRVUIyN0tFTjVkY1Y3c3N3?oc=5",
+   "data": "2026-11-26T22:19:37.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
    "score": 5,
    "marco": false,
    "avisado": false
@@ -551,6 +575,18 @@
    "data": "2026-11-26T18:09:00.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "e2nrgq",
+   "titulo": "Ações do Bradesco (BBDC4) disparam 11% com especulação sobre Trabuco na Fazenda",
+   "fonte": "Valor Investe",
+   "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOLVVIQnRscjByRk9yaEthY3RndlYzMzA1VktKQnpnNmVfdzhIVHV1VFplQlJfeWRxdXF1M0FjNWVFblFnSV9ZT0hIWGZpVjh2UE5tYm16RXZFQjFrUVB2RXlOdExubHNWYjFGVG50Wk0xTkpiN1JqdmRxTEJUaEdYTVV4WWpEYlZCUDFBVVZ0bWpwYWhqNGdlSF9xeEM3d1c4bXBkYzEtS29BdGF2ZDd2cTVBOHFWMHdBREY2UXpCb0hHSUktaVVnS3BXcWxhd2Q0cFF3U1laekNzMDJaVnM4WnRmWWVTZW1Za2hMMzdIVFZOd0NnU2NYeHBxSEI3SzZ0S2FLX1BJZ3hHQdIBmAJBVV95cUxOTEVPeGdsM0NTbDlzcG9mQ2JvR2k1aUdzQUNJOF8wMC1wQ0hnMUZhMEN2QUNCTGE5VGR2aGVhWFlYUkhhWDA4Z3BhbEFuWnBRUVoyMWk2b0lzZ2wxQTZCN0dvRmNOUUhXbTEwUXJaNUpYNXJEam9hZUdtcFZPSzItWWZ2al82bmVYdTBLZm4zTmFOdm1meGhCRGVLVjQ4MGJ5b3FYOGtNSTZ2T09KT000V3hDTjJ5bWdWc2RVNUNmSHNkd3VqdVc2dTBGX3NvVGpldlNiQzVxUGFkSV9jQWtMc2UxMWhXSFphZ2NoQVlPYnZjUVYwOV81Q2pZdGNDandhQWVJZW1kWi1rQkd3dUJ5M1dXMDg0NkFx?oc=5",
+   "data": "2026-11-26T18:08:03.000Z",
+   "cat": "Movimento",
+   "empresa": "Bradesco",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1817,42 +1853,6 @@
    "cat": "Resultado",
    "empresa": "Disney",
    "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1ot0lkd",
-   "titulo": "Mercados hoje: IPCA-15, equipe ministerial e novas tarifas dos EUA estão no foco",
-   "fonte": "Bora Investir",
-   "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPOFlxVGp4YnlfbDQtNUpycjMwcU5aNkpZS2R0OU5zVmR3QmoycURONVRzdndySi1LMDNZaE55N2xya0d6MkNYczFBTGpSenNBVVNvTjVfeTRpZ2VNdlNYS1lsT2psdDRxZWJWbzA1Zk9RUlRZaExNcUtPMzdhV2dfclFtVnlJS08yTWRzT2FKVVBEbDU0clEzU21NUHlLQVBWY3JqQWlSVlpuQTdpQkhWRzBzODBmbHJsY1hMamd4dlV2OGROTGc?oc=5",
-   "data": "2026-11-26T12:19:00.000Z",
-   "cat": "Regulação",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1j1u0xs",
-   "titulo": "IPCA-15 sobe 0,22% em novembro e segue fora da meta",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnIzUl9IR3ZNbDNLaEc0Rl8tQ1V3LTJNT3Qzd3Q2OUJYZFZwVUF5SV8zUFdXdEJtYktNQTN1eThLSlh1bk4wbE9tREN4UUM1eV9ldWV6dW9QcXVpZ0E5WDNXVi02UUNsRUJWMFMtMWtmYnR0STFJUS02cGUtLTBVb3l3RVRETW5yVHo0dTZIc1A5bXlJSXhFRS1LODU?oc=5",
-   "data": "2026-11-26T12:18:12.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sll2kc",
-   "titulo": "Fictor é alvo do MP por suposta fraude bilionária; Justiça bloqueia R$ 4,3 bi de 233 investigados",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVkFDY0VIeVFxWjJjN2ZTSXYzdFl2clNZaW1XNUQ1VmUwQll4Z0g1NmxOdW1oY2dadk5wVTlGZENEVnkzOXFHc0d3Mndza25mM3l5aEpXQkNsTDB1aFBaeG9sU3g1cm5sVlc4VXpNT19oSDFaNjdJYlE2SlpQRTI4R2VYdkZnUTNhdkdzcEM0RE9pWFU5VDhmNXZYc09XaUloeWczNWRhZlh0b1V3VVcwSk56X2xpeGc1MzEySWJIYms1ZFJOUDFyakdn0gHPAUFVX3lxTE9XeEVEXzJPUWdvaHJOaEs2bnhacFlFWmkySFpBd3JYU0lHVDFHaC1QZDcyWTJTajAxLXhZYjZfQ21QSDdSbFphcVhva0pLZE8walczZXUycFdIdTkzVjFscUJ4NDVVM0JSbmVzRzVULXpITVJyOHlpWUhiSmtpRm52aXowbGY3RU5jelo5M1F3V3hYN3lQY0V4LVJ0THptZHgtdEJxTllsbnFIeDBRZTRWbXFoeFZnWmNfdFd3RGllajlzRDVXci0wbnRSa3ZNZw?oc=5",
-   "data": "2026-11-26T12:16:13.000Z",
-   "cat": "Risco grave",
-   "empresa": "",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
