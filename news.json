@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T00:00:30.181Z",
+ "atualizado": "2026-11-27T00:30:27.755Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -50,6 +50,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "1ifis0l",
+   "titulo": "GTA 6 | GitHub, empresa da Microsoft, faz post celebrando ferramenta que reescreve jogos de PS5 para PC",
+   "fonte": "Omelete",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZDN5SEgxVUtGanUzMkVGQlRTWDc5d292bTNuUVNTZkxvVS1LREtJc2o5VF9IenphaTM0X3Z0RVhEZVNLQzAyTGlxRW9laVUtVkwwQ2MzZVQxSkdxajdmTENGQlVrV1NzWkxlQmt0YVo0Z3ZnSW5GWGNvcmRFbWZTbE5wV2h6R3hfcmlHN1JyejRQTUt6Y3dGZ1RjN2NPa2tkOHAxWTRCZ1MwalJ6LVhlSg?oc=5",
+   "data": "2026-11-27T00:04:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "Microsoft",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1xjr1zv",
+   "titulo": "Retorno de Jensen Huang à Nvidia cria novo boom de deepfakes",
+   "fonte": "Times Brasil | CNBC",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd0x6OVhKTXp3Tk1hd3cyZ1FlSDk2NzhQOGtoMkN1RGlzMERISFprbHVHeTlHVHhoQjVVZmwxTTNTVy1GcnZkcWhFa0dHZnF0YmFzUFVvYmk2N3UyUFV4MzV6WFpyeUlzODBCaGRuaTd0R1BZbU5IT2lxNnVBaklqaU91bFl6NzlBaUlLRFB6OWt2Tjl0d3FYUjg1SXZ6a1E4X1NUMGpvUWpCakYzSllZNg?oc=5",
+   "data": "2026-11-27T00:03:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1dwf2mk",
+   "titulo": "Ibovespa dispara 6,07% aos 176.799,84 pontos com IPCA-15 de 0,22% e sinalização fiscal no Ministério da Fazenda",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeGJoZ3RSZ24zUDVaQnE2TEtUN0p1Rm5CRjI2NGI3WHVRTnAtV1dZY3dlSnJEYkNDUHZ4WkROR01CMUd1emVUYk5ldTEzRHE0M05sT2xwYWwxbVp2NGNMdHl6bE9MUzlyd1pjS2lGRThFb1lkQ29KSmhuVzBEbnZOSThUT0hGT25ybGFabmpEdmhMUE5zdWhRYmNqYVllS3Ytd0t2UmxRdHBZZXpzc0dSTXM5SmlmRGRENzBLanZCOU42cmx6c292OEtxTXZlRTdwUFJV?oc=5",
+   "data": "2026-11-26T23:58:25.000Z",
+   "cat": "Mercado",
+   "empresa": "Ibovespa",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "mxt1ie",
+   "titulo": "Apesar de anúncio do Planalto, Trabuco ainda não renunciou ao conselho do Bradesco",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWFZsa3p0LXVKLVhCaEpZV2xFQzNZWUtsWjNpd0dfZEtoREJpRFplaW1rYUR2ampUdUZBdC1xTklnM2I0emdKYnJUUWtwaEJJaEdQYWJrdE5RTEdEV2VBUGU5M3FQOUNfaFIxNnZ4cVlPaEZuSVlUcUxOU1JsQWx4d0NaeHNBUElac1hPR3NyT2ZGTlFWMElaRlRvdlVnRFhBX21TUDRJOEQwTnVwUVB4TC1pTXJCNU9MYnNuX3NuWnR4LU8yWm8yTVRyNnBqVHRRdGVz0gHiAUFVX3lxTE1XVVhrRzhuZjVtWGFTb2Q3T3R5Y3FKdFFRVWtzdnlWS19DTXozUVR2YXNSMlVtdi1PMmU0eEZnMzQxbTN6UmZublYwRmVmd2V0QlhVbk5DcURYcU5PM3dydzRNTTltTElzOWNwQnFrU2ltUGhCajJqTml3aE5jVHNmTjJ0WGFuT0pwZGdRQi1iVnVjLTY1X2lfVWxKOE9UY2pIczZfUk01OXMyVndKSmRYZmxyb2tsdmFTb1hkVUtCeGoyWl9NWnI3MThxUmh5UEh4TXlkbjV3TXJtTzdiUkFuTmc?oc=5",
+   "data": "2026-11-26T23:53:39.000Z",
+   "cat": "Liderança",
+   "empresa": "Bradesco",
+   "score": 9,
+   "marco": true,
+   "avisado": false
+  },
+  {
+   "id": "13g3p61",
+   "titulo": "Fracasso na compra do Master agravou crise da Fictor, aponta investigação",
+   "fonte": "Claudio Dantas",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wdUpUb25YdHNTN0VwalZvWnFLSV9Dclhwc0dfOGVjSDFMUjNRRC1zeDl2WXpXa2otVmVTdG15TEhIYUVoRU52b0NNSE41akRpR2d4MkdZWFBPWGFOZjhnbEozQ1I2U3hiM21sWndjTVFGb2NFSnVTcA?oc=5",
+   "data": "2026-11-26T23:36:21.000Z",
+   "cat": "Risco grave",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1r1p1yj",
    "titulo": "Onde encontrar o easter egg de Arthur Morgan, de Red Dead 2, em GTA 6",
@@ -1793,66 +1853,6 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "tjsu14",
-   "titulo": "IPCA-15 acumulado em 12 meses supera teto da meta e alimentos apresentam alta em novembro",
-   "fonte": "Portal VV8",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT0JCVjdILXRlOS1ld1hjSGdwMXBtaDFvaF81NG1zX0RhZnBjQWZjblRPcFA2ZDkwS3h4eWQxR0FqbDlCclJTNjFZdmkxWVNORUhLcUdVdGlmLTJfT1psa3hHay1NeVFPTEloOGE4TFIzQnR5LTBmeWFsV2w4Wm9aejkwLXU1ZmxJZzBfSGhjNTMwQWFSRzZSVXM5dHRfUDhJV3lYR3dKTzZMVnJWNGYzZTVNR0thNW9KWTVNbUltbHItZFp4cXow?oc=5",
-   "data": "2026-11-26T12:53:31.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1wffcha",
-   "titulo": "Ibovespa dispara mais de 3% e dólar despenca após Lula sondar Trabuco",
-   "fonte": "Howl.Link",
-   "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBub1pPV2pjMHlpSmJhbEhiMU1ubUl2eG1KUERvSHVIR0tlSU9DLU1pV09fdnJPTXpkVUZ3?oc=5",
-   "data": "2026-11-26T12:36:44.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1lc6xiz",
-   "titulo": "Dólar cai a R$ 5,75 com feriado nos EUA e \"prévia da inflação\" no Brasil",
-   "fonte": "CNN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV19Pd0tYcl9NV01FOS04bUVMdGdieXVjOEljbHlQV0NhWnNQZEp5R0tscHN4endnUmYyWDVnSWVXUXZmTmdFLTNWbEVib2swaWRHR01TR1BKcFVneG5HYjRsZV9nYk82SUlxQUQtNlFoWi13TlZQQjE5UWNkSURkV0dvekRLWUF6NGdWX21HNS02WEtmT1BTVHg2RFFHRVhscU42VlR3?oc=5",
-   "data": "2026-11-26T12:36:44.000Z",
-   "cat": "Mercado",
-   "empresa": "",
-   "score": 4,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1g99tme",
-   "titulo": "INFLAÇÃO NO GOVERNO LULA ESTOURA TETO DA META E COMIDA VOLTA A PUXAR O CUSTO DE VIDA PARA CIMA EM NOVEMBRO",
-   "fonte": "Diário 360",
-   "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOFN5QmdCZnNnb3JmelEtQURlZGQ5ZjNaR1JVRmNOMEFmOHdqWmx6YUxCdDREUGZEQWtVZ1c0YW9rSHEwSV90NFZPMHM5MEJydTY3enRVMzE3cEFJMVhqWXdJaVlOeWpOTWt0dWd4WXlkWDlFUlRxWjAtZ1lVNVdpbWFXcFItQmx0RTNuc2ZtQTR5Q2hMQUlWNzN4ck91T19wWm11TG1taEM4QmpoOVFNRy1mS2lCX2hFdnljV0xmWXF1NHFBZnk3REZRTjF0ZnlKdFNOQTFnTEp1NTQ?oc=5",
-   "data": "2026-11-26T12:30:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Meta",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1t8f44m",
-   "titulo": "The Fantastic Four: First Steps deu 37 milhões de prejuízo à Disney",
-   "fonte": "Eurogamer.pt",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNSWg1ckZzMjUzLXplV1V0anNwU0RfMFpWeHluSkpXMmxhMnluTWVhS19TVWgwcmV3QzFNWDhvRlktZ2pHU0NsTDFHN2x5cHc0a3ZnLXZYY3Z1YzIwdEJxS25JaHZxY2RQNm1rREFjMVQxNld5NFFBVHJ6OXhqTnptWVZQMEg3YTlvQTRmTjJ4WnRUWDQ0OVE?oc=5",
-   "data": "2026-11-26T12:25:50.000Z",
-   "cat": "Resultado",
-   "empresa": "Disney",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
