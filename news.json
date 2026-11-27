@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T14:00:34.568Z",
+ "atualizado": "2026-11-27T14:30:32.208Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,66 @@
   }
  ],
  "itens": [
+  {
+   "id": "jxhety",
+   "titulo": "Vídeo viral de GTA 6 revive teoria bizarra sobre o trânsito nos jogos da Rockstar",
+   "fonte": "Canaltech",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWnhlbklOYVVNZEFVVU1TTk1tY2stRmpEbFhrZkR2WXhRR3pndE1ydnBKcnlqV1FBUEpPQWlvelVReWpKT3ljQnRvREVsS2diSlRSOE1VWkNaVC1ESVdaSkVJSzBTUF9Pd0l5NHlFLXVBaWVTQlc3d3NRUndhY0NLb29FT2tQd0JVRDl1MmQyb0ZzTUxwRnJtUFdxMVdKRmZySmREcW9HSExaU3V6NktEU05WYw?oc=5",
+   "data": "2026-11-27T14:11:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "hbn75k",
+   "titulo": "GTA 6: o parque inspirado na Disney World que a Rockstar decidiu não construir em seu jogo...",
+   "fonte": "Sortir à Paris",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPNVF2Yml5TTM5NmpKNGxiS0YzXzBlNHhSM04wM01LTkdUZTR4UkpKRFJUcHVaYkkxQnZTbGdBNUpxS1dzd2dUcFdpbGdSUkFZZE9yaGhDM29YS0drVEU2U0RTNjNxdzl0OE9jOEl5R2xrdm5CTlhOdW9uQVdkQ0lRcFRacHcxSGEwT3VVNDdPQ3liTlc1TzNnYlBtY3VPSEw3NGpjSjl4Ukpvc0RzYVF5NDZsU0NRSnp3Q1FQbnJMRWRfTHQwN082aVdxaHVfOG5WSWh2N090Q0hyMXZnLXExVUM5QWJ2Y0w0ZWM3S3NRMWFaLVlS?oc=5",
+   "data": "2026-11-27T14:06:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rrbili",
+   "titulo": "Chefe da Rockstar North sabia que alguns jogadores de GTA 6 “rejeitariam” novos sistemas, como os perfis criminais, mas insiste que “você ainda pode fazer tudo o que queria fazer antes”",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUktqOVgyOXpkbTdCeTliMFRobExRMGlCejhGMUFjYURCVmhFVnUyMDJZck9DQ2FsMkVYb2dHcXkxdHIxZUg2SEFaQXlwUXJzbkJhdmlXM1lXeHRtRnN6MzZ1SUpVSnNiZFM1MW1fN2IzYXRXTGJpUmhWcE5LdW14UFhqU213OVNVSnMwVUFPQWlZbjB6d0dxOEJ0X3dVZU50dms5SUh4YjkybmM5ck1abTFJMDhnc2Vzc1JKZ28tUHdnRTV1endVMlFXczU4djdZR2hLXzdHbk40MDFoTGNn?oc=5",
+   "data": "2026-11-27T14:05:20.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6nyg79",
+   "titulo": "Petrobras negocia aquisição de 100% de bloco na Bacia de Campos",
+   "fonte": "MegaWhat",
+   "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNejJ4bzdaU25zN0Q3d0UxTTltNlZsS0VsaHFaX3VOdFRiN0JTOTRRbm1JYXV5ZHVXajZhQnpJM3B4S0EzZl80MzFLMjd6TExfdWljVGUwT3l4eWtqOGY1ejFpbGd2UVc3RXhoZFp2LWstOVY1aXYxU2pwZ1hfYjZtanVOa1V2VDFqV2szWXdiTXY1SXBmRHdCcVNOREVla1ZZZkZnZ2xndU9FNVZHNHJ1Tg?oc=5",
+   "data": "2026-11-27T14:00:17.000Z",
+   "cat": "Corporativo",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1bbiyfe",
+   "titulo": "Banco do Brasil (BBAS3), Itaú (ITUB4) e BTG (BPAC11) e mais bancos disparam na Bolsa",
+   "fonte": "Investidor10",
+   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbVVKVlNiT0RpaEtPVVpOQW1BUElkenRTN18xbEVvSDhQYkdpb2Iwb0kxWEh5RlhxNjZVOW4xRUlLSVdiU01WVFpsd2JOMEgzWGhvRWJ6RE9tQU03WkRzbUxBWEtYSUVRaW1DbnRKNHdzejc4X0V6TUFFc0R5b0NwemxTYkVNdUtUaXVkWmlndEVGZ29SS3E5dTdJLXFoZ0Y3a0FDX2JWSml0ZG9rcVl6LTdRU2RtLU9EdEljNXpqONIBxAFBVV95cUxQeUlST0phd1JaRUVYT0J5RmNxUzJtVUk1Znh2cTVHUnQzNzJnU1NFZ1pON2JNTV9YZVM4TkVnV295S05zUnh5bnFQcm0tZWFsUVU4SXlVWnhlSjByeHUzMFI2Z21tMGFoSVl3MEt6YWRxeG52Sm1TWTl2SFJ6MEtPS0hQR0lHWncxY01QQ29SR2ltaVdmZ2VsdDVad1YtYkZvb183dXZLMXFaZDJCVThiTXM3ci10NW5wZmE3cVU4cVdiMFNF?oc=5",
+   "data": "2026-11-27T13:54:05.000Z",
+   "cat": "Movimento",
+   "empresa": "Banco do Brasil",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "u4y96f",
    "titulo": "Ações de bancos e da B3 disparam após anúncio de Trabuco na Fazenda",
@@ -284,6 +344,18 @@
    "cat": "Movimento",
    "empresa": "AMD",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1oxody2",
+   "titulo": "Perdeu o IPO da Anthropic? Agora é melhor comprar a ação?",
+   "fonte": "Invezz",
+   "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVjVkRDJYb19oQWpEZjZ0MFQwQlQ0by1pbnRLMXlkQ1hLdVFQZVFqQ0lWNXpORkhvTkd2Rld5WmRqWHpEeWJvM2J1dDlEbTJVd09XblFNSTNxb3V3QWlTTWk2VmVPV2ZPcklueDZ1djVhTFZNaHJQZVhveUdzSU9FbmplWFhRZWFsY3VxdjQ1Nk0telFTcjlZXzBOY2pESUk?oc=5",
+   "data": "2026-11-27T12:47:12.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
    "marco": false,
    "avisado": false
   },
@@ -1766,78 +1838,6 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "wj2rju",
-   "titulo": "Ex-CEO da Disney tirou sarro de fãs da Marvel em première: “Esquisitos”",
-   "fonte": "Omelete",
-   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdk00eFBsM0dQLXpPWnJ6YjFldkxBRWxCbWJQbDNBNURMMGdmZWJnVHJkN0tGbTFLeTBCcmFtdWZ1U0c5VlBERmNKdHN3Tnp6aXNOQ1doSmc3SXdJU1NZUmE4X05LWFo1NE14ME5wZ2l2OG10UVVLVVFqZTRsbEg3ZThIUllhR1gwdGVhX29iQk5NU3Fa?oc=5",
-   "data": "2026-11-26T17:18:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Disney",
-   "score": 8,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ha7e5i",
-   "titulo": "Funko Friday! Colecionáveis despencam de preço na Black da Amazon",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX21xUDNqRVlrVnlJeHBqTzl6VEJRbF9sU3NURlAyZl9YS0JIVlFKNTNYNEg5TDFGRENLT1VjNnpya1VsdFI5Z01TMmhWVU1ad3JpUlVBdEUwYXpHV0gyRmN3WDkybTdzV19tVFFsdktiZHpKc3h1VmlaUGI0ekN0Z3JpckhoSG5JNHdTYnVqaTVFZkx6a2lHY1N4Q0dOekpFQXc?oc=5",
-   "data": "2026-11-26T17:15:19.000Z",
-   "cat": "Movimento",
-   "empresa": "Amazon",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1utuxoa",
-   "titulo": "DONA DA ROCKSTAR GAMES DEVE QUEBRAR RECORDE DE VENDAS COM \"GTA6\"",
-   "fonte": "sentidohorario.com.br",
-   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONC1OVkhmdXhwS2tuU0NlUDlIdVUtSXc0WjVNMVl1X3hqaEIyNV9wQzl5SkkwX1BJU21DaG9QNEJ0RG1uaHdTRmJnZzJ6UWdiMkFiUy1lUDJyYmpTZ2VndEJoZFMydWd1WENmNllPOFZNdUppb2VvYXhDYTNRU2FSTFNseEJja0VkcEFpV28tV1JOcmpNRExNbQ?oc=5",
-   "data": "2026-11-26T17:11:41.000Z",
-   "cat": "Movimento",
-   "empresa": "Rockstar",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xgj0y1",
-   "titulo": "GTA 6 pode ser o último grande jogo criado sem IA generativa, diz ex-chefe da Take-Two",
-   "fonte": "Exame",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOT1ltUDRBbEFLOHN6WGhXRmNmZnlaTEN5a2szZDE5QUVieHJBRHhQR1RLck1KWGp3ckV2bkdsSE5NTGg3WnJpdktPOFRJV2VXT0JnXzBCellTUlBHVGQ3Yng5MjBRemtJNTBvenZ6RVZwZHZNVm95Z3pxMDI2ZnFlTWx3Z1JCaDg1Z1pxMUt2SVlIV2tUYUQ0MFF6bjZ1ZHh5TG5zX2o2dllzZjViMEs2S25wQ1lhNi1jdURGaUlUQWk3YWI5RXhF?oc=5",
-   "data": "2026-11-26T17:10:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "3tt2m1",
-   "titulo": "ETFs batem recorde e movimentam R$ 419 bilhões na B3",
-   "fonte": "BPMoney",
-   "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPT2VMNmJYZ2FYa2hRd2d5ZXFOU29nb0hGOGFVZUFJTVR1MnZDS3RPY3loUjRtcTIwZ2x4NVZ6MFNwVl9LM2s2WlBmYURlTWRSYjVaRnQtNG9EYVdZRWNGbDU2RFJVbjREcUY3N01PTkJpZ09mbmMzUThoVUZFQWowV2dreVkyMFBadmtmNQ?oc=5",
-   "data": "2026-11-26T17:09:38.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "bhw22k",
-   "titulo": "Faturamento não é lucro: SindiJovem do Vale Germânico discute gestão financeira com caso real de negócio",
-   "fonte": "DuduNews",
-   "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYmg0VUlPVWljOE9DbmlZWHZqTTZNcXdDOXA0NmhpQ2tZTzlLdzlETmpGRjdGRjRrSDJUQ1JCT1FVenljQTFaV2E0RU8wSWE4cmZZeldmckVzd0x5Y2pndnpXVU1FNkh2dGszT0NFNk9rVXdiZjhoTFZ0TlVBalhQTC1ISG9xTlhJWjBNRTNDdDg4ZHYtbWNDOElUYjJuZWkxSGwtWVVDbnNpeFBGR2NUbXdLbmdSQ0RHRHBHdXNUNTFxUVA3Vm5N?oc=5",
-   "data": "2026-11-26T17:09:30.000Z",
-   "cat": "Resultado",
-   "empresa": "Vale",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
