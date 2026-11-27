@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T22:00:35.787Z",
+ "atualizado": "2026-11-27T22:30:29.268Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "mmwaxp",
+   "titulo": "GTA VI (PS5): o favorito a jogo do ano cumpre o que promete? | Análise / Review",
+   "fonte": "TudoCelular.com",
+   "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSUJEOXRHcUhBNlV6SlpEMldaVm80eXFmSVREZ2RCa19wUjNLbnVHY2JzTDFIZ0xuVGppcWdRbzFNdktyd2NDQ0tFeEppMmNtS0FDOEdQV1hPdlh3TTY4OUNvXzV0WXpQdXhyaFFuRUcydzU0UG9FTFVEeElSX3RSLUlhMzFRYU1oZ1Rj?oc=5",
+   "data": "2026-11-27T22:20:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1daf3rs",
    "titulo": "Ex-CEO da Disney terá engravidado uma funcionária com quem mantinha um caso extraconjugal",
@@ -141,6 +153,18 @@
    "cat": "Movimento",
    "empresa": "Apple",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "tuv2vf",
+   "titulo": "GTA 6 começa a rodar no PC, mas Rockstar luta para evitar versão pirata",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNzI3TGxkMVdYaHlNdGN6WjRjVjZyQXRyWVYtT21BOUl6VU9RSEI0bmUybUdnWTlCd3p4Z0NUSG5zaXF6XzhsTUhWdkhXNFpidzJvX0FQT1VrcEM2QThNUUhiTHVBSUxHSnpDSk5obHpRazc1MzlSanZSdDFOWFRZT3dzT01sNzhfYkphYVc0bEg2YzNCWXNfbUVRd1pjRG53c1Zvbi1KSlUtbkFRNkR1S2VfU1NjVnc5d04xQnBB?oc=5",
+   "data": "2026-11-27T21:02:17.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1813,30 +1837,6 @@
    "data": "2026-11-27T01:23:55.000Z",
    "cat": "Lançamento",
    "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "4oisgc",
-   "titulo": "Ibovespa dispara 6,07% e dólar recua a R$ 5,74 com expectativa sobre Fazenda e prévia da inflação em 2026",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcnp6dmwxbWgwNTZZQzZ2bzFQUk5KRk5hazRvZnNJaDhXVU9WNHliVTBNSnEwMTFsRDQ2TVJXaWljd1Awc2JkQ3lVS09nQ3pTRVNFazg5bnk0XzlvcGYxSXRmYW9weWRnZUs1aVdRQkdxY0xrdFBGWW03Rkl3R09JTGRYdk8tVnhwQnRyeXM0dlJ0aWtacFhwY19ZcXpDS044eWxuTkZCSjMwLWFNaXpUYkdhTi1HUnZlTXBteXJyRVFqLXJtSWVkMkVINXQ?oc=5",
-   "data": "2026-11-27T00:46:27.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "rwpxdm",
-   "titulo": "Panini e Rockstar lançam cards físicos de GTA VI",
-   "fonte": "Live MKT News",
-   "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE92NWV0U3dvWi1YM29DOXdRMjFUeE5yNkFOR251Mk9WeDJ4c0V0dm1PbVlMcXk2Szh6Vi1IaGVhWURYdEtJeGF2MzZmVnVXcDFhWHpNdEJRd2QyY2NJRHBScW5xcFV6UlA0OHVGSlpqMGpqb2lnMERpSEJIVQ?oc=5",
-   "data": "2026-11-27T00:36:12.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
