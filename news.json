@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T17:00:32.461Z",
+ "atualizado": "2026-11-27T17:30:28.506Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "1tognc8",
+   "titulo": "Ibovespa dispara, mas a conta dos 50% chama atenção para 2027",
+   "fonte": "Suno - Investimentos Inteligentes",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVTMwUlY5cHF0ZkFwbGpSZHQ2dUMwb1JoZVl2b0ZyNl92TVdhaTF1cHhTMk9HaHd3ODFYeWE4WmQ4OUJERkY0U1dMWEtLX1hicjBKQVFwUmtRUjY5Q3NSbnZUUFBLd1F2OGtHT3VFS04zVmZ3NzdndlZ2Nkh6ZzlrLdIBhgFBVV95cUxQUVdzU043U014empLREtzTXp2UXFkMEw3RlVSRXhlaS1rakRoeUNzcXFVOVdEejVFTzFKNHFaMlRyemdrNjRvdXZnZ3IwSk5mdXhkTkMzVm1DRFJOLUpsRXZVVHRrQk1XanBYeEI5WGh0Si05RDhXd3ZEWHptS0lFbi1DYnY3Zw?oc=5",
+   "data": "2026-11-27T17:17:27.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "vpkwhl",
+   "titulo": "Petrobras recua com queda do dólar e desvalorização do petróleo",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0ZySU1sT1RQRERCQ1UybWRqT1JHZnowWi1aSWdkWWVCYzAyRk5QVXlZekYzOUp2cDd6ZDBUZk9DcmozMm9Jd191U09sWDlLd3hqcGFlV3VsUTJ1Q3YwbE9jVzhRNUgxcUMzZkZFc2RFcTB3VEtZUERQY3RiODcyb0x4d0tiaGl3XzdhdS1TNXJmakNqVEh6RjJMZEkxZDFLNnFjZzhxbS1aeTNlTXQ3eDRTRUllc3RlcXJQenJn0gHMAUFVX3lxTFBaT1BJSWJITVZaQXdHYkFpdHdUbDc3YjZmSlRlMTRYRk8wcGRJRzVwRFBvdm9VeUg4Und6V1dvZjBxZ0ZDeWxjQWVBSm4tU29KZVpXZUVfN2UyYTlLVGx4czBOZ0RFbk5zWHgySm1fck1mU1BNWlJCTXowY3AwSkswMUxVMWdzaUhiUWtwZVpTdEQwS3dHdUY2cmhjb2cxRDY3ZjVJQ1A5ODR0RWE2NV82ckE5WVFVV0tCaUdBWFl6YlRFUjctTk5TSUZJbg?oc=5",
+   "data": "2026-11-27T17:13:43.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "bqjht3",
+   "titulo": "\"Extremamente desapontado\": Denis Villeneuve não gostou que a Disney colocou Vingadores: Doutor Destino no mesmo dia de lançamento de Duna: Parte Três",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZ0VMekxQdi13cWRSdmc0WUs5Z0ZfWFVlTEZvb1pGVmVPTGNIRGNVVzZ4eEVDdlBicEg1aXV3TTVmemJYYTl1M016V2tMakFFeUczYWZWMWZ2aUI5VzJhU1ZjeGtNSWJ1akRXd2pWY3liVUVuT0J6cnZYeWs4M0hMNzJlQXBOYmdLa2Zhb1NXYzFhUThxY2kwd29OcGFTNmZyYTJiT01FaUVia3V5OEhwYlg0X2R4bGpEZ2JiVEp4ZVRWaHBGVmVPbGpjaHlOR3RLNjF3LQ?oc=5",
+   "data": "2026-11-27T17:10:15.000Z",
+   "cat": "Lançamento",
+   "empresa": "Disney",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1p7zmig",
    "titulo": "Euforia dos investidores com Trabuco na Fazenda faz dólar despencar e Ibovespa subir",
@@ -987,6 +1023,18 @@
    "avisado": false
   },
   {
+   "id": "l1rmqr",
+   "titulo": "A figura misteriosa por trás das participações acionárias de quase 900 bilhões de VND e da série de transações envolvendo a aquisição de ações da Transimex e o desinvestimento na Merufa.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEZBdUZMLThjZmg5NDJROHNPMmcycUhnWWhySm9GNnRMYVF5SW1pY0VzTDg2OUp5cmNwajljOTIzWndPem1UMnQ0QUtYWXZnaUdCa0hMX0lNQ0J3bGpOQVlxTlZhSUJoYXVTbDNBdE5HdHozN1RBaEJqanA4UjA0Vk9jZ0xGYlRJQ3Z5ZjB5RWw1dUdLUHlRSG9qbG4wcHV5ZFBmTVdlNjVCY1RGYkpwR29WYjR3X1poeXVTZHhJaHZ0eFJZS0NsakZZcUZsSHFnTmlTMmpnai0?oc=5",
+   "data": "2026-11-27T08:21:54.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "h42ukk",
    "titulo": "Frentes de investigação pressionam Nvidia e o seu líder",
    "fonte": "Valor Econômico",
@@ -1790,54 +1838,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "b3bz8i",
-   "titulo": "Por que GTA 6 tem consequências reais para os crimes? Rockstar explica",
-   "fonte": "Canaltech",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOOVVmeVI2Sl9zV2g1YWtiM2ZMTTJseUh0VWtlQzlOQUM3REpJOVhsbGlaWTBYc3VmdHhEMEtPM2sya0Njc0lYVUFEdlhGTmxKS2FYOHVKMk9qR0VjbGJLeWtDQURjSEdVSmozaXFrdEVraUhCb3pOb19xeVdDNnRKbFY3VUVTLVZQSjhFbi0tMHJxUXJuLWpzeWpaeW5WYmpMeTQ4?oc=5",
-   "data": "2026-11-26T19:16:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rzv7ha",
-   "titulo": "Ibovespa dispara e dólar recua com possível indicação de Trabuco para a Fazenda",
-   "fonte": "Brasil 247",
-   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaXY4dFBUc2ZRSEFmUDFYSy16bHd2ZV9FUHlhVTM1OFJEWi1tdl9sb0w1QlVndXJhdTc4YnU1aWpaR0tzeG50Z3NDZWRKb1JQVi02aGdqNnpYUHN3anUtejVQVkxHb3hoTkxOMTBZRlNVbGtpTmRtRkdUTnpWdldTdXJZTkhadXFUdmNwRXA2WDdQNmMxS3hOZkhhLWJmX1N3UC1VVTRCdEVBUVBaQU00MVlHZ1ZHUQ?oc=5",
-   "data": "2026-11-26T19:15:02.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "pqgqzg",
-   "titulo": "Disney vira a chave de ‘Miraculous’ e lança temporada mais sombria para manter fãs crescidos",
-   "fonte": "Rádio Geek",
-   "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nZFJyQ0QtbVZoQnY2T0VLUzd3b0c3ak0wMjZqeXNEakRCeTd1VEkyN3RTXzdZVmxVSjI4TDd4dlZ4aUZLRFVEN1BrbE9ZbndvRzRIVU12N284R2VyZmxPNElrcHIxc3hCZWdwdUxXc0NTOGVWYjhyR2tfMWpjYjQ?oc=5",
-   "data": "2026-11-26T18:59:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Disney",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "jlqoc7",
-   "titulo": "Senacon cobra Google e investiga Meta por falhas nas bibliotecas de anúncios",
-   "fonte": "BNLData",
-   "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbUlrRDhXUXFxNU9FMllfaGYyM09GQ1hON2hlSE52VEYyY19USmdUQ040MG9EY2VwbXhXN3JhQ3pFXzQySk1wQVMtYlQxYnF4OXR0cXdmX09rMEFHQmdrSmNaUTdCY0p5a3VkYlZrT0N0Q3A5YkFWZDA1SGdUXzY3ejlKTTBtS1c4RS1IckVFNGphbkdsSVJDUzVXQUFTcTREZWc?oc=5",
-   "data": "2026-11-26T18:47:39.000Z",
-   "cat": "Risco grave",
-   "empresa": "Google",
-   "score": 8,
    "marco": false,
    "avisado": false
   }
