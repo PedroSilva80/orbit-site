@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-27T11:30:28.204Z",
- "agendaCal": "2026-11-27T06:00:29.453Z",
+ "atualizado": "2026-11-27T12:00:34.504Z",
+ "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -36,6 +36,66 @@
  ],
  "itens": [
   {
+   "id": "1gukzh3",
+   "titulo": "‘GTA VI’ bate recorde com quase US$ 4 bilhões em vendas no dia do lançamento",
+   "fonte": "Rolling Stone Brasil",
+   "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSU1rTkw3SHNITzlmWWI3V25yVnJ5X0FhLTktX2ZwREpTNTZQalZLVTRnV1JLOUJQU3c1SU1lTkpYQUxWRnJObHB0WV81ZWVxVTJKZUxpY1IxZGF3dmlSZ2llbDcxbHFJNWdjUkZTbVdzZ3p4eDhwdnZFWll6eWc0TDNFa0ozcGF3aGZWdDVzcVNVbXBWckVUaGxXcTdwWFM2VjlSVWVTS3NUUTR4a0pXMDVn?oc=5",
+   "data": "2026-11-27T11:34:33.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "15je3c7",
+   "titulo": "Fundo imobiliário vende agência do Banco do Brasil (BBAS3) por R$ 14 milhões; veja lucro por cota",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVUdockI2YTJuSC04c1h1eG9kT3owWWx5RndLODhKaGpZdG5IWWp5U1dkbkp1ckMyZ05GMzcwaXNtUjVqVWllaVc1QnNudHkxeUNsTjhiN3dMRWdva29FVDZrWnF5ODRwTGxXVVVEVTZxUDU2T1hLcTZvdHVySWFzS01RSk1ad0R6RXlUVEdUNVR3blMxcVlfOThVZzJQZ2VnSTVxWVRpTUV6RWo2UGhzS1NBMVBVenN1TEE2aUl2ejc3RlZ5T044Xw?oc=5",
+   "data": "2026-11-27T11:33:00.000Z",
+   "cat": "Resultado",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1lddwdi",
+   "titulo": "GTA VI disponível: anúncio e projeção da Take-Two",
+   "fonte": "Revista Empreende",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83TmZWc2Q1OWZLU3RNUkRvd25ta01qNVJGVm1ldmZoWFF4LVQ0R2RuY0h1akZuelB6S0tOc05oR1NCaEh4ejBUUGVFczFMcTcwaUNxbm9IalVjLWJpSUpIWF9TUk9SUjZnTFg2VFp6c0hwdHNzZVlhZkZuZ3JUZw?oc=5",
+   "data": "2026-11-27T11:30:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "2gyrhp",
+   "titulo": "Após performance em Nashville, Oliva Rodrigo lança a melancólica \"miss the christmas\" na Amazon Music",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMExuYjN6c3cwN2lWa2M4cUxXakNNZEVfTjRzS0VyS3NDcE84T04zdGlZWnBqXzNzTlN3S0JjVVlsQ2ZFMkdyZjRSTzQ3cUthd1VKZU40d0k4RGpQR2g0YnZqOXRzWTlRR2lwM3djaEpFd1lMc2plemdUdm96V3dwQl85NmJnVk5nWk9UVF9EUzRIdmZMc0QxczZkQzhxSFIwZ2pCcFVmcjdpUktzR0huMkgySVZuWEZtMlI1MXdMc1NjWXNqZkxZcg?oc=5",
+   "data": "2026-11-27T11:29:21.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "18w0as7",
+   "titulo": "Black Friday: o que subiu e o que caiu nas buscas do Google — e o fenômeno GTA 6",
+   "fonte": "Valor Econômico",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTJzTE9ycVQ4TThCUzloQkd3TS0temRnbE85REk4LVdZbUJXZzNXa3dvdmN0RU14T1JiZkUtdEI3THlCQ05UcXhWeXNMdVpyLVpQdkhydXQ5RnZUOW9HdFVmTjR6S1IzbGhyeVdRb0NneUJEXzVWUTRxRlYzNmxBVDQyQUxSR3pVTlItRWp1Ni1kRjBhR1dndllsNTNqeWIzUTJBWTJwVVluZTZqUXdocFBGUGN1OWNXR1JEN1Q1aEQ3VEhoX3R3Uk9zOGJtallo0gHfAUFVX3lxTE1OYlVXelB3MjMwYlh0cFFab1BFUklpbTBRelNBdTc1Y0VJcWVhcDRJc01QWF9DUkJJUmt1NkktYmY1UGlzUWVsdUtseTdhaUtGbWRJWl9YUUZUVnlYYVoxWXA1NmVPcHo2cFFWQ3ZUVFdMQ1dTNzVteERiMl8tZ0VuaHFHTFhhU1ZYYVg0aG1aWVlQV0tqeUliRldSdkhUaGpKV2JhY3lBeXg2OGItWmhWQW9PZnpvcVR5UjJKRnh0bEIxdUFSMFBjSFFCRElXdThQUTZmOGdVc3pIazlIOGc?oc=5",
+   "data": "2026-11-27T11:24:41.000Z",
+   "cat": "Lançamento",
+   "empresa": "Google",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1bqabgt",
    "titulo": "Cade aprova sem restrições operação entre Itaú Unibanco, Bougainville e Klabin",
    "fonte": "Canal Rural",
@@ -44,6 +104,18 @@
    "cat": "Regulação",
    "empresa": "Itaú",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "yv6205",
+   "titulo": "Morgan Stanley sai na frente na disputa pelos novos ricos da Anthropic após IPO",
+   "fonte": "Bloomberg Línea Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGRpMGphbl96TXRtelVSVUN3Y083WTZJZ3gyOEZmN2o1XzQ5d0ZJcDRZLXhMUE8tNUxpa2tPYThTd0cxMExpcW9KVTBGSUdTSm1MbllUcy1FODNuLUxfczBIV09EdVZzZFk3VmhEV3NyVGNOSEJlYWVrdl9TMElOVE5lRWIweVhtdzFLWTRaeEhyRmh1d09PSjhOd2lqU29PVDlSUWtnOXpLaHd6bVE1LTVBbUFlLWpYbzdHYW9nT3lpc03SAdcBQVVfeXFMUE9ZcnNPM1NMTlBXR19VckJ4WUthdHJPbkNMcjZWYkRSQ1AxeFVsSHltTDM3eU53MUFCUzRnQ1ZOVDZ4eTNfcGZwbExNUWJFU0FxdUFDanE1TFFqbGdXMUJfZExTT05fZmdqX0pwUndhN201RGltcktIdlJfaTF3UDB2U3V2SjMzRXFycFpyWkVRb1NnU1gwdEVTUGhXcENVUDIwd3hOemE2T2lZaVJmMG9lVkdpUElnV21oNHJ6VmNkYVpPRWxFWU9kRlV4ZmFmTjBlajcwZjg?oc=5",
+   "data": "2026-11-27T11:22:21.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 10,
    "marco": false,
    "avisado": false
   },
@@ -153,7 +225,8 @@
    "empresa": "Nvidia",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795780834504
   },
   {
    "id": "qf414y",
@@ -259,6 +332,18 @@
    "data": "2026-11-27T02:06:51.000Z",
    "cat": "Mercado",
    "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rkvffh",
+   "titulo": "SENAI Amapá lança edital da 4ª edição do programa Startup Indústria – Amazon Innovation -",
+   "fonte": "amazônia brasil rádio web",
+   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXFBMU1LMzdDNW1nOXRkdWlsZnZjTGdkQU52UEE3bFY2dXh3V1V3Tm5HVjlQTFpBUUk0Nm0tUUEtcHFYNHdVYW1JSHZHUDBDM3JMQ0N5SnB1M0ZNT0xaYkhLWGdaSTNBVnI3Zl82dWx2LW5oN1NsYTkxd0Y4bzlpaW5pMURNZk9UVzhIT2s2VDRSSnYwVm40b3pBVDRVOWdBOVNUQW03N1R4Uk9IRXNfZThCQXN4Zm9HM2RweQ?oc=5",
+   "data": "2026-11-27T01:36:24.000Z",
+   "cat": "Lançamento",
+   "empresa": "Amazon",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1755,91 +1840,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795714226723
-  },
-  {
-   "id": "1twk2o7",
-   "titulo": "Ibovespa dispara 4% com ‘efeito Trabuco’ e recupera os 173 mil pontos; dólar cai a R$ 5,72",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLUFiVGVBdHQ3S1pYQlA5R21CWjVpV3hhMU84MDhCQjlrVjdkTEVod09TbVMtdFVpakR1bTBabExkcnBEcFNGRjlHU2JDR0o2M0NRQm0yZGJ2bTNrOU55QlkzNFczcW9VdW1BYWtwSkNld28xcnZqRU1VQ3Nxb2FUN3FSWTkwTkZrS1dXS3FqX2R4ZVppWUp0MGM0V2hwb2FxX1J0ZFNjZGQ1OEtEQmZCUWUybjVSVUN3cTRzajFhRlRmS0lXQlgwYlhhalVUYmxYWFh5OE5aWUVxcTNpZ1dKOG90YXVtUdIB6wFBVV95cUxPRFotOEpTcVNVMUVudTk1S1htZm9rbVJ2bzU5WGNvVkVGMGE2bFFYRWNnQ3dYUUo4OXE0WGVvSmlGNjF0RUowbGtjamNJT2lSWXpjV1ROTlJNaHJLejF1Mm5mRTJncVJYVmY2UlBlVW9YLWNhZVV4cUtnNjVfMTdFUW5XSnA5Z282VEFTeVJoOVNQbWxoZWFuUDZYNzNyM3JQRHByanIxZVlQUElQWE9JWlVsczVja2JZeTlFNDB6VVVqVmVQREFrN3ZObmR1WjNZNFZUYjVWQXprRW5Yazd2V3VYNHN3WWNBNWxZ?oc=5",
-   "data": "2026-11-26T14:37:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "f69hel",
-   "titulo": "Bradesco (BBDC4) salta mais de 8% com Trabuco cotado para assumir a Fazenda",
-   "fonte": "Investidor10",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOakhRb1ZEd1dEcG42VGJMQVNIbWxSUmpUSzBJM0pyNkRjS2tzdXEtUjlmTkdzenNPVkpCdHlyTE9jZU5xTVFXOGFyLTRtbTY4RlFHdFR6NTZRVWI5alh6ZFhjNDI2UkhlcXNsWmhZdHRscVFGUUxaTW5fS0I2UFhhYTQ5aURLVnp6MUUxTkZycnczdnRSeEVCUnBDeks3QkFIM2wyTVlYR2ZOSjVUWGQzZTllSk1SZEhUMzFF0gHAAUFVX3lxTE5BMjJNNTdfaFVpZkVvUXh1WWc2YTB6Q0xJY0xXS2laVlZ4YU54d0JoX3VrSWEzbkpRb3pTMjdUWGFoeTVrVmpKcHBNMzlIRmhaLURHV1FUeWJ3S1NjTkxUMDJrODBOVkZyVFZLUHJjRC1pTHlwSktnZmgwV0ZKaUNUQTdxTXBOU2tKZDlxUHZ5UHFCd2g0MU44WWlLNkxqN3dwWkpvaGMyclRudmJ1VFZBbXZraWVpMWNCTTNsQk9LTg?oc=5",
-   "data": "2026-11-26T14:36:32.000Z",
-   "cat": "Movimento",
-   "empresa": "Bradesco",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "26d0bt",
-   "titulo": "Ibovespa Hoje Ao Vivo: Bolsa dispara 4% e sobe aos 174 mil pontos",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUWM2dXVvZ0wxN0NqQlUtd3pZdldSSW52alRseG5RdTRKcm9rX3h6My1oeTlPOVIzY0JfMzdJejVGeDdtMzZIalR4UXpjTlJBRVk5MVhOdEdTOEplRHkyNEJGakNOVDNNMXVXVXJtOHBuNUd3RndoYklhc0hGbjFIWGFTWGsxamhtVXY2bWdBdw?oc=5",
-   "data": "2026-11-26T14:35:33.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "70l6fn",
-   "titulo": "Autoridades dos EUA se dividem sobre espionagem chinesa após retorno de Jensen Huang à Nvidia",
-   "fonte": "Terra",
-   "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaGNEZk9ybk56Z3FNVmZOaVlaYUpXTDFUd0tzNkdpS2tlUWFSTTZBNGNGbU9IRTRpa1ZyY1dwM2tkdmF0d1lqazJBYy1SMkdPREprUkc2QW83TkV3Wm0xQVlxcVZENkNwelYyRkU4SmZKUzdkSEZhRHVhM3g2Q3JVUkpIemVfUjdhYUZJbmRIX1E2MU1iZ01JZzNEanBwZEYwZDd5VFRQdF8wdWExeXppenJ1THppYVg1b1g0V1EzS3hNMHdHMUpCZzd3WGRVNUVoZ2JhVmN6amZsa3QyNUJNbzJFMG9sYzRTUWRXSktzdVZTellFZWhPVGtzNDE0dWtZTVVranhYVUZpQzg?oc=5",
-   "data": "2026-11-26T14:32:00.000Z",
-   "cat": "Liderança",
-   "empresa": "Nvidia",
-   "score": 8,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795705235136
-  },
-  {
-   "id": "1ox44aa",
-   "titulo": "Banco do Brasil (BBAS3) nega IPOs de 2 controladas e descarta vender participação na BB Seguridade",
-   "fonte": "Guia do Investidor",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMHJjbnpuNzZhbXVuRWR2MnJOY3VmMHN1S1BuZ0R0SHl6Vzd3ZXpXT0JhYk10djQwVEF4MzJRN0QwSV8wakxiWFRmOU5HWUFZZjZyZlhsZTlWR1JtMmNIUXB0MUZzZG9VREc4UDZvTThwYVBkbDFEbGdDMTBxemNHa1pnZHlSeVdRYXVSLWR6NEprV29pbDJUTVE0T1JYdTNQd1pOZ3dlelhQSWx0NERxa21jVFl5V1lmQ0R5ckg4RFU3dHlfOFo0c0t5VmhsSTNibi1n?oc=5",
-   "data": "2026-11-26T14:22:55.000Z",
-   "cat": "IPO",
-   "empresa": "Banco do Brasil",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ayjkgx",
-   "titulo": "Anthropic: IPO de US$ 81,34 bi lidera ranking",
-   "fonte": "ativovirtual.com.br",
-   "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSHlwOF9kenBNbncwY1dzVHpOSjJZWWRNVzdmYXF2LWVfUy1WT0tXaFZuVVZLcy1kY041TDgwbjk1X0FaV1dtT1owVEEzWWU3eEU3RFlPbndoQkhkQTNqUm1QWGJPbmp2aUNRc0RueXRUdTAtek5jSzhPdXRfejZjSXkxcVYycjlTblVfY0htcFVOWjQ?oc=5",
-   "data": "2026-11-26T14:19:46.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "sq2zgq",
-   "titulo": "Ibovespa dispara quase 4% e supera os 172 mil pontos com expectativas sobre Ministério da Fazenda e inflação menor",
-   "fonte": "Times Brasil | CNBC",
-   "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNGtVcEFaR25JclZBOVV2MXJGaExGZGhPODV3VTcyYWI3aU1ycEZzQ2dZbDdSMHhpVHFjY0NhR0ZUODJKaVhEQlBHc3dWXzFzd1ZXMzZET1VCQmdGa2puU3A0b19Fck0xWUYzU0FHeXBNTm8xT2tkX2ZJZ08xSGdSVFNTLXBjME8zVjRFSTAxZHJXMnYxcno2WGhtdGpCTGs1ZGRB?oc=5",
-   "data": "2026-11-26T14:18:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 7,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
