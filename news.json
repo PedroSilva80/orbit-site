@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T03:00:30.106Z",
+ "atualizado": "2026-11-27T03:30:30.546Z",
  "agendaCal": "2026-11-26T23:30:26.851Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -283,6 +283,18 @@
    "cat": "Lançamento",
    "empresa": "Nvidia",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "r33ubd",
+   "titulo": "Trabuco aceita a Fazenda e dispara euforia na B3",
+   "fonte": "Startupi",
+   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LZmlodnFDcG1MeXVKdzhHVnQwcEhMQkR1eHRoa1BvOHJHeU5tc2tGNVBqUUo2ZWJ2TUlzSnRDVV9qdXhpbFRhamtIZEp2cUl4YWVPZXp5akM5ZVo4dElZTjREa2J2cGxLR0F5WDZnOVZmLURXLTJ5bVBkQzVHdw?oc=5",
+   "data": "2026-11-26T22:35:00.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
    "marco": false,
    "avisado": false
   },
@@ -1825,18 +1837,6 @@
    "cat": "Lançamento",
    "empresa": "Take-Two",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1t55pc7",
-   "titulo": "Dólar cai a R$ 5,77 e Ibovespa avança com alívio sobre tarifas dos EUA -",
-   "fonte": "Folha de Campo Grande -",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWlI1NEtIaklRNVRkb3ZMSGF4YUhQTHFMdmdLNW1DZTREalpYREpUMzY3U0VmQnFRekVqcVJhVmpySHpwMXdNNU1zZlRtZTV5VU1RcnNSbkR6blRRdEViLVNhQ0FRbHIxV1VpUDlwSjZDQ0xDMTRQNDZhVzUxMlhMNm5ZMXoxNThPeWJOQXpVaVF4cm1MT3FrdXRYMnU2eUU0MEhQUDFOOU5pdkpOaEE?oc=5",
-   "data": "2026-11-26T13:28:18.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 7,
    "marco": false,
    "avisado": false
   }
