@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T14:30:32.208Z",
+ "atualizado": "2026-11-27T15:00:31.211Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "jscj1e",
+   "titulo": "GTA VI preocupa instituição islâmica por violência e magia",
+   "fonte": "Jornal Correio do Brasil",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQ0FQVkczUlZGTkdfMlBlZEFNUHRyd240RENpR3hDczVMVEU5MFFqTG5iWVk4Z25RSTU3Q2RzOVp2WW9RbTRFbWg3QVdNejA3WjMxekZ0V0oteE4zWHFXc1pHb3doa2UtUkM2ay1FNURLeUdzN0JOQjVWQzk4d0p1LWY2ODBhWFhoVkk3Y0tR?oc=5",
+   "data": "2026-11-27T14:47:01.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1stfiog",
+   "titulo": "CARAMBA! SERIES S MAIS RÁPIDO QUE O PS5 EM TESTE DE GTA VI! E O XBOX ONE IMPRESSIONOU!",
+   "fonte": "Xboxers",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNS01yWDRtVXdQTlBHQTZLSVp6Y0VhcW1wNTJiMVg4ZC13dk04SjJIUUVmQVp4UFlqelM0ZUVKWmpySTdURHQwZDY4WkxzRnB4aFdiSDZxUW13TklSd0VBaTB2VS1DNG1BV0FEbzVqSmItTHNGWGhPYW1PSTJBTzFmekRzVUFnSmlxZlVSVTkydjhiLXYyQW9SaEk4VS1vYXVfOUNiSUVsRXhWZEk?oc=5",
+   "data": "2026-11-27T14:42:51.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1512fut",
+   "titulo": "Autoridade antitruste do Chile pede multa de US$ 80 milhões à Apple por causa do iOS",
+   "fonte": "TradingView",
+   "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ESG4xcE5nd2pBU2JQMmNXWWswWEt0WFp2cWFtWHNMTFZ4UFh5bTZEbkZ4RThVekkzVVZjUllUc0k3aGV6T2hfM0l4OTlQdVBXNVE3R2EzTDR1Q0t1TUxXOEtOVHdnRlhxS2VKNlg5dWtrSldOS05F?oc=5",
+   "data": "2026-11-27T14:30:33.000Z",
+   "cat": "Regulação",
+   "empresa": "Apple",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "8gwvcp",
+   "titulo": "Elon Musk é o maior beneficiado de uma possível fusão entre SpaceX e Tesla. Entenda",
+   "fonte": "InvestNews",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQX2tRa3FJYVRpVVVYX3JPb0Y3VlVmUmxQbFRUdkZRaENzRmRNMzFyWGJMYy0wS2lhOE81cE1jcUp2TGd4cXFrVHhSTXVSbjNybTg0TGNmQ0JfWkRlM0ZQRVBpZjhnYXZvaUd1Q3FFV0Y4al9WVnhaaHh6R256WkNXNDdwckxDWTBuR1JERTRIMUZxNzF0R0dRVkY1MFYxTWVxdDNadS1mbWdJbVk0WmVzb1BNQlQyNXVZTlHSAb8BQVVfeXFMTi0zd2FwckUzSGtMNVk1eWdac0gxU2JHZ2xvWlV1Q3RDVkJydG41NkhDNmhJRUtJRDRxNUlyWUtqTGlpWU81bEItVV82cW5jY0RLZDJhVzROOU55ajMzd05FdkViYzI5SWROT2tJVmh1RGs1Z2VCdFZLY1JlTThndFVxNUJpNFRubjR4SUp2MkVTUjV0Qm5DVENfNTJGdGFqQkl0Q2pSMnZRSXM4REVqYU5ERENRdWoybF9qaXBGd28?oc=5",
+   "data": "2026-11-27T14:26:19.000Z",
+   "cat": "Corporativo",
+   "empresa": "SpaceX",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "jxhety",
    "titulo": "Vídeo viral de GTA 6 revive teoria bizarra sobre o trânsito nos jogos da Rockstar",
@@ -1790,54 +1838,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1nebdbt",
-   "titulo": "GTA VI: como encontrar e restaurar carros clássicos abandonados",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Uc1Z6aVVzVFNNRU1wbFZ4bWdfZkJhUnJ2d3hsOTNSQ0FxSDREX0lOdEJ5SHlKZV8ycGR3WU9QanNlaFFlanZ5Z2U4WkRmSVBDLUVpZHJ4cDJ2a1NFN3FZYk5NbnVIWkJYZDJMQjdxUXpKUy15NEJoc0RwZmQ?oc=5",
-   "data": "2026-11-26T17:35:58.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "d784d6",
-   "titulo": "GTA VI: como desbloquear missão do Capítulo 2 que dá foco e escopeta rara",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJcXF4aHBibXdVSjQzTGlrTmxQZ09WV0lZVnJLTkVtZmN0Nnk5bDktUGQyWlVXemw2UXFENXFRNU5OZ0JRLUVFOGIxT0RXRnBfWTFwNEsydHY3WmpFX3lIQjJVWWFneVlvclhQOXNDWGlvMkItMHo0Tm1R?oc=5",
-   "data": "2026-11-26T17:22:26.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "19wmfd8",
-   "titulo": "Mercado agora | Alívio nas tarifas dos EUA impulsiona bolsas europeias; Ibovespa acelera com blue chip",
-   "fonte": "InvesTalk",
-   "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE00cFFwdnhKdjFNRHhTc0QxOUFsaVpvM3NMd3d4eEJqQV9xYkhZQk5vQXBDUnppb2phRnFra3lEcElSUDgtdEJQR1pSWmt4OWdqUTcteUQwLUNCd3UwTF9YeGVUWmZMeWlZdU9JTnhibkpLTmhid1E?oc=5",
-   "data": "2026-11-26T17:21:00.000Z",
-   "cat": "Regulação",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1946tae",
-   "titulo": "Ações da Anthropic caem abaixo do IPO e dividem analistas da Hedgeye",
-   "fonte": "Acionista.com.br",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0Wk0zMG9lYzdjSDNOZ2Y3WUVZY29wUV9VRzNWbE03cUhjYXY3VDlrQ21UNkF5NVFZT1JNNW5PTTRiT2lBU05menM2dF8zYUptakhqVU4wazVvNGNSbXBKd296YjFnMEhkOUNQT0I1YnM5Njg?oc=5",
-   "data": "2026-11-26T17:20:19.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 9,
    "marco": false,
    "avisado": false
   }
