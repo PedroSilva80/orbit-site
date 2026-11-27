@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T23:00:35.286Z",
+ "atualizado": "2026-11-27T23:30:30.651Z",
  "agendaCal": "2026-11-27T18:00:36.123Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1yg9uzk",
+   "titulo": "Boicote de exibidores à Netflix pode prejudicar lançamento de 'As Crônicas de Nárnia: O Sobrinho do Mago' nos cinemas?",
+   "fonte": "CinePOP Cinema",
+   "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOVENNRjBQUzE4a3NKOHZNZlVOTnRSVmVOaG1HejlIV2tIUlVOdjJxWVhUd3paRkhoRGQwZVlWQktVUXhaOFNUQi1wcldHNUpSdlhOYjlxaHV5SVVmTFpUc083emtrbGUxX0YwcDFTTFg2QkNxMmJIV1pSbEN0TmFTdVdibmxHbldwWENlZ1o3SzA1VVU5R0VnWkpJRi1WSFY2c3VtdUNBbmNwWDRfSnMyQzZ4R01PX25vMGJFNXJPcWwwVUVmRVFGUnZPYmFXNE8yQ3FGY21DSlN1Mk5hSFE?oc=5",
+   "data": "2026-11-27T23:16:05.000Z",
+   "cat": "Lançamento",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "5ubl5e",
+   "titulo": "CVM tem dois votos favoráveis à liberação de novos derivativos da B3 para investidores de varejo",
+   "fonte": "BitNotícias",
+   "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZDFyOU5xamFwVE5Vd2twWS1WdXJwaEN4T1dsY0JUZ0lDazgxS3JIQ3VVQTFDUGJydW8xZTRmMjFFQmJwRUloNldNSVlJYzBnYWpkM2N5bkc2ckJlWGg1T1JOSG1WOFV2VThoWTlOc0pLX0E3ckNET0Q1T1RxQm8tTVF2UkdMYXVGN0tPejVtOE5fbFNnSS1VZjJQcm5TTHEtbnhldkdwR1M?oc=5",
+   "data": "2026-11-27T23:00:54.000Z",
+   "cat": "Regulação",
+   "empresa": "B3",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tk72fr",
    "titulo": "Dólar despenca 4%, Magalu (MGLU3) dispara e Ibovespa tem melhor semana desde o primeiro turno",
@@ -297,6 +321,18 @@
    "cat": "Lançamento",
    "empresa": "Amazon",
    "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "eyunsx",
+   "titulo": "Ação da ANT a US$ 91,88 Recupera Preço de IPO de US$ 83 na Black Friday",
+   "fonte": "FinanceFeeds",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTaXYwYjNwMkZXdmlRMjVHa2I2VFZLbGEtVGtaZm1LZmFRWlozaFR5Wnd5SENFd3NPOEVyb2NBNGhia3hZUEpoTDhhek9xYTRPRnZaNjJhVnNPeTVFRzVJZWkzNHBDU0NacUEwOHZpNkVWSDlrUG1LOQ?oc=5",
+   "data": "2026-11-27T19:51:29.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1637,6 +1673,18 @@
    "avisado": false
   },
   {
+   "id": "r33ubd",
+   "titulo": "Trabuco aceita a Fazenda e dispara euforia na B3",
+   "fonte": "Startupi",
+   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjVNOHZ4NjdwTy1lbUFQc2ZzeUpveWpqZkhEa1hWZk5HN3FzbEFYajRxNUZaRVByQjNXNk5YVXlZejNZalBHd0d5UGhWVjlxOWd0N2poYXpPZGdRUUhpNDlNakEwbW9OaEtPSG83VDFOQk85UkpzZm1NRkxzNE9Vbw?oc=5",
+   "data": "2026-11-27T09:26:00.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "12a7x13",
    "titulo": "Anthropic dispara acima do preço do IPO no intraday, pode ter dificuldades para superar US$ 100 antes de 2027",
    "fonte": "TradingKey",
@@ -1770,6 +1818,18 @@
    "avisado": false
   },
   {
+   "id": "h6dkaa",
+   "titulo": "Aquisição da Applied Compute por US$ 4,5 bilhões intensifica debate sobre governança e LGPD na inteligência artificial",
+   "fonte": "Brasil Inovador",
+   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcU05d2VYVW9sQTdnNDBhSTFncG95aUJUQXk2OVVnZGNLRnZycFI1dTR2amxjUE14SERfdHRGREFhai1FM2dQQllKZ2dQRlVxanpxdjZGcDV6azFhZHVsakJVU1ZzSGc5cDFFVGd0UktBNWpxVnBDeGpxd2tqamt1RVhzcUpJbTF0MjFLakRoeTN1R0xJeUpRMXVZZGpOMXpQNUZsdldlV2xFd1M4X2sza2JjQ1BoOHN4aWloRmJ2OTQ5VG95T09YZkZmQTRTQ2x5bWpXTkhqeDVRdmowbzBobQ?oc=5",
+   "data": "2026-11-27T05:35:07.000Z",
+   "cat": "Corporativo",
+   "empresa": "",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "w0vl8u",
    "titulo": "Dólar recua frente ao real e Ibovespa avança com desaceleração do IPCA-15 e feriado nos Estados Unidos",
    "fonte": "Brasil Inovador",
@@ -1777,66 +1837,6 @@
    "data": "2026-11-27T04:03:30.000Z",
    "cat": "Mercado",
    "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1gsjimo",
-   "titulo": "Jack Huynh, da AMD, afirma ter batido o recorde mundial de frequência de GPU com uma Radeon RX 9060 XT a 4,837 GHz",
-   "fonte": "Notebookcheck.info",
-   "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMjRtd1RhZ1VLakI5bUtkRFhvWWtaMVMwSUFaTEdVZXRaTjhWek9HMEdFY1RxUW83WUVEbEowODYxY0xzYXVLa0FXRkZNZnl5ZEROdlM4a1lxRFdEejd0Q0hmbHVJMG5GWVdERVJheGhLa0JsZTZqdVhOXzRZaU5PVVFFdzV5dE5TT3R6bHppT0FmNkdKcldPTFdhb1RSLXV0bUNLUTFVakRKYmNFNUpRdC1peUJVaTRVT2gwYlZiLTFOX0lOQmR2OHNseFI2SVpZQWRmUktBTUNqcUVkUXFPSGNSUk41ZWZ6Z1FYSHNfSQ?oc=5",
-   "data": "2026-11-27T02:32:05.000Z",
-   "cat": "Movimento",
-   "empresa": "AMD",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "593fxu",
-   "titulo": "Bradesco registra a terceira maior taxa de juros entre os cinco maiores bancos do país",
-   "fonte": "Jornal Metropolitan",
-   "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTDM1TGRXUml4X0EwaWpzc1RXU3FlRVRKcHZvMTVydkVFclBMaGdTYktSRmZJb2V6VGhfcGdrZWtzXzZHd19GZ0NZVENUZXVuT0xHVVlJTjJZSVI5RUx2RUtvZDFCaW5YTDNyY3Q5WWgzQ1pSb0psc1RQNDlBTVp1SWhsTUFxTFRFSXNGVmlaSQ?oc=5",
-   "data": "2026-11-27T02:06:51.000Z",
-   "cat": "Mercado",
-   "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1rkvffh",
-   "titulo": "SENAI Amapá lança edital da 4ª edição do programa Startup Indústria – Amazon Innovation -",
-   "fonte": "amazônia brasil rádio web",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQXFBMU1LMzdDNW1nOXRkdWlsZnZjTGdkQU52UEE3bFY2dXh3V1V3Tm5HVjlQTFpBUUk0Nm0tUUEtcHFYNHdVYW1JSHZHUDBDM3JMQ0N5SnB1M0ZNT0xaYkhLWGdaSTNBVnI3Zl82dWx2LW5oN1NsYTkxd0Y4bzlpaW5pMURNZk9UVzhIT2s2VDRSSnYwVm40b3pBVDRVOWdBOVNUQW03N1R4Uk9IRXNfZThCQXN4Zm9HM2RweQ?oc=5",
-   "data": "2026-11-27T01:36:24.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "xtoazk",
-   "titulo": "GTA 6 fura o teto do Metacritic e transforma excelência da Rockstar em campo minado",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5FX3NJakQxQkxsVFdSQnBvdFl2bGFhcjFBNzlIczl0Uk5JRl9sQk1oVHVHQkNOQUtabURsMU95RVhUcFp1dGFCMzIwY2Nzd2FUN2d1SEc5dU9McW9IZkJ1VjZxMm1ST1ZHS3VWWVpkSjVHR0Fq?oc=5",
-   "data": "2026-11-27T01:29:30.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1b1a32k",
-   "titulo": "A edição física de GTA VI bateu recordes de vendas na Europa",
-   "fonte": "Instant Gaming News",
-   "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMW1WcGhoQWQtQko2NkNMUDNfY0U1bTJ1Q2wta2l3cloyU2EyY3pubU9PeTZXX1JPMVJPYmVZdHhNQmdld3FFZTJWX25rSlBzSkYyX1Y5c29MU2FqS190QkRCUGkzWVc1cUhLX24xOXBRcG9fOHgzMEdBNVVKcWxXdXN0aFdvMzhHcXUxRHRUZXYtS3E2X0d4UjdXNHVsY3JNZUpIck5zTE4tQW15emc?oc=5",
-   "data": "2026-11-27T01:23:56.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
