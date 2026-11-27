@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-27T15:30:31.188Z",
+ "atualizado": "2026-11-27T16:00:32.924Z",
  "agendaCal": "2026-11-27T12:00:34.504Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1gr8quc",
+   "titulo": "Rockstar contratou finalista mundial de Gran Turismo para aperfeiçoar física dos carros de GTA 6",
+   "fonte": "Proddigital POP",
+   "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTGlhYXFkTFlIdGdKV2tTS2Z3dTY1VFo4eFlXRmlySGN0a2dfUWZTMGxXSTVhWlhGcEdYbHdlSEVZWFBiR1ZqdkNYcjhXSU1wNTJzTWttdEZsVGw4NU5tcm5aZ2hCblhOdFVwazNoekRuamZmSElUaUtBbDNCV3cwWGlCVE1GZWtFUVV2S1pES0l5aWg0bkstRjQzNm5sdXg1WUM1VEtiSlhJSW5HOXFnVWszNDJhbHIxdjhwMWwteWhiT3NXVlZLQ1pSa0dkX09yNDZ1c0U3akx5UjRNdjF2YmRRVEdBcEF2ajBwZVI4NEl0VlNk?oc=5",
+   "data": "2026-11-27T15:43:58.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1w3fiq7",
+   "titulo": "Retorno de Jensen Huang ao comando da Nvidia gera críticas sobre sexismo",
+   "fonte": "Vero Notícias",
+   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQWc5eWRqVUFRdkxqcW9uRWswWFFrYnhCczBlVlRGUG1xbWhxVjVGODRBT2NRS1A2NThxaHhjZlY0eDM5cU85dkNKX1NBMk8tM09fUjV3Y3d3T09aOHEzeV9HSHU3T0JCbzZRVHRGcnR1OFlNLWlkcW5LQTNtaTlwa0s3NmVwamV4ZnRzMUtxeTFTa1oxM2tUNzRFbG5JNUNLZE9zbXhGWnhwSkE?oc=5",
+   "data": "2026-11-27T15:40:00.000Z",
+   "cat": "Liderança",
+   "empresa": "Nvidia",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1oetdie",
    "titulo": "Ações da Coherent Inc disparam com retorno de Jensen Huang à NVIDIA Corporation",
@@ -607,6 +631,18 @@
    "data": "2026-11-27T12:00:00.000Z",
    "cat": "Movimento",
    "empresa": "Bradesco",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1hnuobx",
+   "titulo": "Dólar despenca 3% e opera a R$ 5,57 com escolha de Trabuco para a Fazenda; Ibovespa sobe",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JdE5zdDBPbHB0eXpjTmEtVWVOM28yQjdpVjZOSVBSUTBmZ1Z5dGdNNnZ0NWFUT3hWSmN1Wi1KbnVmaVd3OU1CTkR2N1h4Sl9pVEppejAyejd4dDBxcUVTNnNLQnl5enNXNkxrQVFvelNZRkszV2NXRdIBhwFBVV95cUxPdUhPazRUUjlWbHhCUHU4RDg1TTAyeERRUEhCRG5nVXVaYmdLWDNQa0wzUTRzOUJUeTBLU0xBelZWSE9zcnc4YzB6Y0RSdjFTdVhiUV9IbGtTeUstd2V2T0VOS1BEbjhVckJRcHhubUVxS2l3RDJsenBSRU42OWZhN2VMZjlZc00?oc=5",
+   "data": "2026-11-27T12:00:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1802,42 +1838,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1adtavp",
-   "titulo": "GTA VI: como aumentar a vida máxima e conseguir uma escopeta rara",
-   "fonte": "Pizza Fria",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9taGRPUW00UWJ5MjdNUVNlRXhsRGFjYmFmWXJpVExLTTgxMHFQeVRiZDROaTBWb01IeFBLeDFCd1pkdGZxOGFab1g5N1EzRHhsVUFZX0NXd3dNeHlmY01obVBib3NuZXBCYUpRTlE1ZGlQcEpQY2tRREJhamh0Zw?oc=5",
-   "data": "2026-11-26T17:53:07.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "10tho01",
-   "titulo": "Ex-diretor da Petrobras lança livro sobre energia e soberania nacional",
-   "fonte": "Jornal Brasília Capital",
-   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkZfblE1OE9pd0drUk5FN1Nmc0U0Qi1IRVBJSWYzVHVXdmlnT25ZYzJuSll3Zm11enVoSDB3NUhjUWRtNWp3a2gySjZvTEJYMHAyUG1jNEpmZXAzOXNtT2tnWldPQ2xabmo0bkNDaFpyOWZMSU4zeWs0bnJUblA3M2VFRzdtR2VCUExaT2dwOXE5OXc2a2ZjNmZwVTEwUQ?oc=5",
-   "data": "2026-11-26T17:51:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Petrobras",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "zlo51q",
-   "titulo": "Dólar fecha a R$ 5,74, e Ibovespa dispara",
-   "fonte": "SBT News",
-   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPenY1dElhN0JrVFpPQzRSV19ROGJveFZzQXdjLVoxRFRIekI0WWk5Ry10X2xETW1BNXQ4RlBNUnRhQi1LaGc3dTd4cmtsVVBNazRSTFM5SjQzcjdJeVVsZGNwdGU2Snk1Uy12bnhkNGhXNGF6LTFGMDhueThDMUlsYUFpSEdIV2xVTFdJX25vQ1gxcDdJOUE?oc=5",
-   "data": "2026-11-26T17:46:13.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
