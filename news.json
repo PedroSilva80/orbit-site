@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T07:00:32.405Z",
+ "atualizado": "2026-11-28T07:30:29.889Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -854,6 +854,18 @@
    "cat": "Movimento",
    "empresa": "Banco do Brasil",
    "score": 5,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ng9xxd",
+   "titulo": "GTA 6: portes com IA ameaçam modelo da Rockstar",
+   "fonte": "ativovirtual.com.br",
+   "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTXBVbGVza241TG0tVnZHcmEwRmZxWnU5SHc0c1d4SFNUZlJ4MFFwN3Q4QzlhcFo3TlIyejRhTVVtNmpkU0lCRXVzcnNQYkhRMUVEMHh3S1RweGJ2endTNFRjNHBHdzNZTUtBTEcyOTNVam5NN1RLRjc5U0huZ1hka3dpemtLWHVjSmhiYUdfUWpDVHhsNTNRVQ?oc=5",
+   "data": "2026-11-27T15:47:46.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
    "marco": false,
    "avisado": false
   },
@@ -1816,18 +1828,6 @@
    "data": "2026-11-27T09:36:34.000Z",
    "cat": "Movimento",
    "empresa": "SpaceX",
-   "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "r33ubd",
-   "titulo": "Trabuco aceita a Fazenda e dispara euforia na B3",
-   "fonte": "Startupi",
-   "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjVNOHZ4NjdwTy1lbUFQc2ZzeUpveWpqZkhEa1hWZk5HN3FzbEFYajRxNUZaRVByQjNXNk5YVXlZejNZalBHd0d5UGhWVjlxOWd0N2poYXpPZGdRUUhpNDlNakEwbW9OaEtPSG83VDFOQk85UkpzZm1NRkxzNE9Vbw?oc=5",
-   "data": "2026-11-27T09:26:00.000Z",
-   "cat": "Movimento",
-   "empresa": "B3",
    "score": 5,
    "marco": false,
    "avisado": false
