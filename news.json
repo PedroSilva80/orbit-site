@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T10:00:32.584Z",
+ "atualizado": "2026-11-28T11:00:32.653Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "mco0i8",
+   "titulo": "Novas tarifas dos EUA, dividendos da Petrobras e Nvidia; veja os destaques da semana",
+   "fonte": "InfoMoney",
+   "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTWVTei1uUzQ5a3FRbUw5bW9nZlZFNktlM0lBSW44eV9PWUo5Q0s0QzRqVG1uSFd0X0g5Q2JDbmwybzlyX3hxOTFFZ3pfS00tYVVSVzVManoxbDljaDNOU0s0dUF3RU91bGVIVTBYSjd1Y29sNmVGM0VXTWdqb0RDOThBN2VIT04wNk1SNUJXVzdMV3FFc2dITEZ4VnF2SnpwRU1FTFNDakEyS09GNlF4ZWoxWm1yaEFueUVIV3ZsYkdFaC1a0gHKAUFVX3lxTFBYOUEtaFZjak5OdXdUbU11d3VXMS0wUER4d1o2bWJRQWFMR081RUYtRjhpU1FaQkUxSWc0VXg0dFFuanc0blRVQUpGZFVwM0VnM2VObVBlNXptUHYtbXdKOTBVMDFsNU5TUmFfS0g0dUdNMXZmcXhnTjJqdGd1V0Mtc29UWnNyejFfVlJ1R2hIdEczbTU5Z2ZsaHBndndNX1hrZEtTcjlwYmQ1UW5aRnMxcjRtS0tnNjZxXzM2dTZHNUUyQ0Qtb3FobEE?oc=5",
+   "data": "2026-11-28T10:46:00.000Z",
+   "cat": "Regulação",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "g8x6sx",
    "titulo": "Como o calote do agro levou o Banco do Brasil ao pior resultado da história",
@@ -1817,18 +1829,6 @@
    "data": "2026-11-27T11:00:00.000Z",
    "cat": "Mercado",
    "empresa": "Petrobras",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1t8kj7t",
-   "titulo": "GTA 6 para PC: Take-Two derruba 3 mil projetos, mas não impede avanços",
-   "fonte": "TudoCelular.com",
-   "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTVVkUWZZenJRQzRPeWxwaC0zWWRpYlNoTjdkMXg0YkVpMXdvU1JuTWJIRjVyQ01yNmNTZnhqdWYxQ1dGTEFIUGoycnN1ZUJRdnlaMEd3eFlKRHl1bDhjVEZZRkE2ODBGYk1URzg5WjJZbHRLUU9Fc0dlTTBVaE5xQ05KTTZWS2I5LW03RThmWTg2TGhkV1F4b0dxM2ZSMWhIU1NROHdEbDJQWUU?oc=5",
-   "data": "2026-11-27T10:33:44.000Z",
-   "cat": "Lançamento",
-   "empresa": "Take-Two",
    "score": 6,
    "marco": false,
    "avisado": false
