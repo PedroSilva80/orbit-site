@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T01:00:31.903Z",
+ "atualizado": "2026-11-28T01:30:28.179Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -92,6 +92,18 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "195mkvi",
+   "titulo": "Tupac critica guerra entre costas, fala de Biggie e dispara contra Mobb Deep em gravação inédita na Netflix",
+   "fonte": "Portal Rap Dab",
+   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZEhLd3ZoLW9ONUFDSF9LSnh3V3U1MTVwaGJhVUE2Ul9iY1NKVjRWV1BPSFhhVkpraVlCck5TdGJxUE9CYlYyeVI0X044cXhVR0FLRUxVdjFkRGQ2ZmwxV0RtaXlkdFJZMXBPVjJyc2pwenRvMXY3WEFEejJydmVmYnVNQ1FPeWc40gGIAUFVX3lxTE9kSEt3dmgtb041QUNIX0tKeHdXdTUxNXBoYmFVQTZSX2JjU0pWNFZXUE9IWGFWSmtpWUJyTlN0YnFQT0JiVjJ5UjRfTjhxeFVHQUtFTFV2MWREZDZmbDFXRG1peWR0UlkxcE9WMnJzanB6dG8xdjdYQUR6MnJ2ZWZidU1DUU95Zzg?oc=5",
+   "data": "2026-11-27T22:05:28.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1825,18 +1837,6 @@
    "data": "2026-11-27T07:26:00.000Z",
    "cat": "Movimento",
    "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "ir24ci",
-   "titulo": "Netflix troca estúdio de Solo Leveling e antecipa série em dois anos, acirrando guerra dos webtoons",
-   "fonte": "radiogeekbr.com.br",
-   "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUnBRbkxOMGxHaVh6dUVQNnVVLVJjeERlUElFZmFicUpxV29xTXVZMjYteUZ2bzJGVE5ZVm9ld1RYZVhHaU5zWGVDX0NpNjJyODRQUTVzbjN6Vnhxd2FNdFJCRXBmQ1ZOcmEya3AzeS1hZU4tYVNzeGlyQ3NNNTRaMi15dGw?oc=5",
-   "data": "2026-11-27T06:14:02.000Z",
-   "cat": "Mercado",
-   "empresa": "Netflix",
    "score": 6,
    "marco": false,
    "avisado": false
