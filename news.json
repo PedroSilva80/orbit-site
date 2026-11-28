@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T11:37:47.776Z",
+ "atualizado": "2026-11-28T12:00:32.391Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "110rerv",
+   "titulo": "GTA VI: confira 5 aparições inesperadas do Brasil dentro do game",
+   "fonte": "tmc.com.br",
+   "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSy1kVjRpdkNVMGNsbGNXd0JMcjJMZXpKc1hwbU15RnhSMVZtclk0eVU5OVRmWVpTb19pQkc1dEZ2SDExUDg5NWJGV0gyaFpMN2VnVC1Od3BETFJ1TlhUQWFPSGJhT3hYMngyVEQyTlVvMExocUtoYkdGRUI1RjNlcTdVaDJvXzRDWmpxTlBB?oc=5",
+   "data": "2026-11-28T11:57:49.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "m0dlkf",
    "titulo": "A música de sucesso \"Run Away With Me\", que não alcançou a popularidade esperada, encontra um novo interesse após 11 anos graças ao GTA VI.",
@@ -1818,18 +1830,6 @@
    "cat": "Lançamento",
    "empresa": "Amazon",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "v2c6rs",
-   "titulo": "Ibovespa em dólar (EWZ) dispara após Trabuco aceitar a Fazenda",
-   "fonte": "TradeMap",
-   "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RRFpsMW44RUhmTk9EUmxaWENWRWFGUXVWOEhWcGx4WjRJTV9UYWx2Mnd6ZzhTdU1uRW85UU12WUtIRGh6dnd4bGNJX1NRaUx5T3NaSEw5TzQ?oc=5",
-   "data": "2026-11-27T11:11:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
