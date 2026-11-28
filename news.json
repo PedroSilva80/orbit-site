@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T11:30:27.570Z",
+ "atualizado": "2026-11-28T11:37:47.776Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "m0dlkf",
+   "titulo": "A música de sucesso \"Run Away With Me\", que não alcançou a popularidade esperada, encontra um novo interesse após 11 anos graças ao GTA VI.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQV19hRWUtaE9RSk1EYmNjSkVhRjUwdUVPcFBmanhUeWdYZTlJLWpINWtXSVF2SHJSSXdlc1FYUkxSMmJXem5hRXB1cGtrRzdPclpEWmpUSGdsX3VXNlRGOF80S0wxRnVhblJ5ckpjQ2V0VW1TTGRROV9Tb3JiNUs4MWloTU1vLUFjZmRZb3p5MHpkV0Z5Qnl5U1FxSzZyUVV1WUVOUEp3?oc=5",
+   "data": "2026-11-28T11:05:22.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "mco0i8",
    "titulo": "Novas tarifas dos EUA, dividendos da Petrobras e Nvidia; veja os destaques da semana",
@@ -1818,18 +1830,6 @@
    "cat": "Movimento",
    "empresa": "Ibovespa",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1aafqou",
-   "titulo": "Diretor de GTA 6 revela que a Rockstar criou três animações para cada interação com objetos",
-   "fonte": "IGN Brasil",
-   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcHVqaEhETU12b2h4SW91TF9ESER1S0tOaUN0ZS1lMXM4Mzh4Y3VEUExtWGJCRXkySEtxMGtWREV0R0VxcEp3c2hHaHJqUkcyRDBpLS1vN2NHZ0pweUdWOEpDeDJtZFFjdnVnNDh6YWQweWRBWGJ0a09XNEVpblBuRkw5a1RMRnYycDg2WEoyb2YwX09HQUV6clM3TW5aUHVuRFBfNUk0ZnVwcGgyX09pcUpVZTdIaEI3Q1g5bEdLMkx4ZnhpdmJPa3BuOU50S0FMOV9B?oc=5",
-   "data": "2026-11-27T11:05:20.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
