@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-28T06:00:35.774Z",
- "agendaCal": "2026-11-28T00:30:27.558Z",
+ "atualizado": "2026-11-28T07:00:32.405Z",
+ "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -28,6 +28,18 @@
  ],
  "itens": [
   {
+   "id": "tdkkb",
+   "titulo": "IPO da refinaria de Dangote mira maior listagem da África",
+   "fonte": "SpaceMoney",
+   "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMG1vQ3BDZXZuU25FQ3lNUUltUEZrSEFITXY2WjRvcUU3WXFRMkMzNzVNQ29IT29DX0lkZ0lPY29Dcnh5MXIzRXk0aUxSUkNVeUN2cW1Uc2hlLTBBOEthZHdaWENNRE1FMC1LSzdtRlVIVHJYbWU5b2RxQ3RNSG5YcFI4ZE5Cck5RT3RsVTNnaDdheF82V3dZ?oc=5",
+   "data": "2026-11-28T06:49:14.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "ot35cn",
    "titulo": "IPO da Anthropic: por que as estimativas diferem",
    "fonte": "NeoTeo",
@@ -36,6 +48,18 @@
    "cat": "IPO",
    "empresa": "Anthropic",
    "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1vo2pvq",
+   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGthTERRaUdjREJ6bHJiZmlVVkcwRUhQQkNuQ2V3Um1FeGFtOWVUbktCQ29FOWZaeDM0dl9SckRzQktmNEctVUhYblAwSjRVamkxdFU4ZTFxc2JWU1JSdlYwMHVvSFBkWERIV241TUxxVGRiZE1yZDNXY0hyaDFlUTlWN2FvVG00RUs3V1IzclZWNThoZDUwbG45dWNWNmN1S21vYl9kUDhFRzlFalJERUZ4R3h4Z0sweFE?oc=5",
+   "data": "2026-11-28T04:14:59.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 7,
    "marco": false,
    "avisado": false
   },
@@ -1805,30 +1829,6 @@
    "cat": "Movimento",
    "empresa": "B3",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "12a7x13",
-   "titulo": "Anthropic dispara acima do preço do IPO no intraday, pode ter dificuldades para superar US$ 100 antes de 2027",
-   "fonte": "TradingKey",
-   "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQzFtY0ZmanA5bUt5RmNycV8zc2U5Y28xZWRLaXFlODRjMDV3Y0RJWVg3UkNoSjluSHkyV1doNGtCUEUzS3JCTWthVjc3YWlOb24zMmIzbXcydGVEQkRfNFJobGpDUUpKTUVzcUJhblMxZXJ1R053Wk9jSHhhcmt4eS1MUnRSM3N1LVMwTE1LaEVPOHI3VV9fVzA5dGdvMXlLeEN0Qlprd0w4Vy03VWl2X1FCc2lMZTAxbUxzZFVHSQ?oc=5",
-   "data": "2026-11-27T09:12:29.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "oc8xro",
-   "titulo": "GTA VI: quem são os brasileiros da Rockstar formados em universidades gaúchas",
-   "fonte": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcGxZT2laN1pjcGp4Z0ZHNDVOcWhTbEFodTgzOGhyeDhSNkNGcEFKVFdHdllOY08zNG9aT2pTNHhSbk5KclQ3RDdZNk4taHFnMlBkSkE0WnFKeGx6Rm5zdS1hVEFhay1yOGxtTThGWm9wbFI5YTNxTnVaaUtzYUNXNEVZUF9mV2FDQVVWMVpWUmRlY2xRWFE2Rkh5dm56ampJWlBJQXRGYi1fbEVENmh4d01ORHNVVTlBSE40YlZ2dkFSOTJsa1VMTlpBSXQ5NlFpOTk1NDNKb1c0LUowSjRxQ2o1aGJrcGh4cTVFZWJiQTBLWGs?oc=5",
-   "data": "2026-11-27T08:52:46.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
