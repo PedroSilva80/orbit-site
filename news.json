@@ -1,6 +1,6 @@
 {
- "atualizado": "2026-11-27T23:30:30.651Z",
- "agendaCal": "2026-11-27T18:00:36.123Z",
+ "atualizado": "2026-11-28T00:30:27.558Z",
+ "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
   "2026-11-17|balanco da nvidia (nvdc34)|hoje": 1794909633363,
@@ -35,6 +35,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "1w75nel",
+   "titulo": "Grupo Aeroportuario del Pacifico conclui IPO do FIBRA GAP a Ps. 7,82 bilhões",
+   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
+   "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZldRN1p3VWV1eEdzUDlLT3pwMk5menBRUnFLa0pMS2J3SVJNeGNKNnl3akR6dEZjQjREZmtQNGgwNTNVVjNOZDZPWHJwTTg4VFpKcVUtNGdLckdUdjg1Vk0zTFVLdTdVYW0ycEFJNDlFS2xnMnhsZm5WeXNnVnFRSkNDZGUxVnV2OUdTenk3eXk3T3BMLVFBU09rd29qR1lqUXVoUGx4U1BsRy1EcDNYMW1aN1QwMDNSN3JGQlFfZ2QxWURfcWJwTU9iMTRob2xIa3c?oc=5",
+   "data": "2026-11-27T23:58:00.000Z",
+   "cat": "IPO",
+   "empresa": "",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1yg9uzk",
    "titulo": "Boicote de exibidores à Netflix pode prejudicar lançamento de 'As Crônicas de Nárnia: O Sobrinho do Mago' nos cinemas?",
@@ -1826,18 +1838,6 @@
    "cat": "Corporativo",
    "empresa": "",
    "score": 5,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w0vl8u",
-   "titulo": "Dólar recua frente ao real e Ibovespa avança com desaceleração do IPCA-15 e feriado nos Estados Unidos",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeE9fdm1wdjBZRzJ1WGcyMUl5alprMUM1ZzB0bmxiMUxaZmhIQzNEM2w5cDdZakN6VFFNM0pQNGtzdjJJalJNZ0RoTGhGV0dlTldrejUyajE1M0R5THFpU2V1bmN4TGtsYW1yMFotWHBldEtMTE9UR3NIbVdEc2Q4UHV3OG9UMHZjc29meF9UektDYkhrTzV2TjdBaFktOUNyZkJEb2x2dm0tUDdRckNwd0x0OGpMZFpDaFhfVUZsYURVaEk1ajJZa0N2OGZJdw?oc=5",
-   "data": "2026-11-27T04:03:30.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
    "marco": false,
    "avisado": false
   }
