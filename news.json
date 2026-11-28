@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T11:00:32.653Z",
+ "atualizado": "2026-11-28T11:30:27.570Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -108,6 +108,18 @@
    "data": "2026-11-28T06:49:14.000Z",
    "cat": "IPO",
    "empresa": "",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "14d6qdc",
+   "titulo": "Braskem salta 12% na B3 e 25,5% em NY após notícia sobre acordo com credores",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZWcxOGExRUZrdFVTcHpxS2ZlX0RkSmhFbmNSN1pJNmlpN0VSclViU2VrRGtza0pOWE1fd25lYllPTTMyT0xzQmJfYU5RSnVSSkdPMmVNd1FsX2lXTmdUdjdidFJBQ2YyMUVsb1BFTXExRDRiMzVKdEZPU2Y5YUx5NTF2bmdrX3JXQnRCa1MtYktXd2JEd000OU1yd3N6ekZIMXc4NW9qVW5tSWtaMjVWejZmZXRoSHZ2NlN6X29ZMXo1YXAyLUdycWQ2Mkd3YndQMUstQkZ3?oc=5",
+   "data": "2026-11-28T06:37:46.000Z",
+   "cat": "Movimento",
+   "empresa": "B3",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1817,18 +1829,6 @@
    "data": "2026-11-27T11:05:20.000Z",
    "cat": "Lançamento",
    "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1xqa1z1",
-   "titulo": "Petróleo Plano de Negócios da Petrobras 2027-2031 prevê perfuração de poço exploratório na Bacia Potiguar",
-   "fonte": "NOVO Notícias",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOVF1LUlXb05iMGluTjZhZDJSNkROd2doeGFMTnVUWFdSdEFTVFBfWHZrek1uVUhsWVdSekVaUy1waWQ4ZUlVUFRHRFgyMU5vdWNuRTdvWmY2MlZ3bVlOcmlqNnhLX0xvWHBNRkFTNlUxZ0hhbnhEbmhuSWNDNFJmV1FKcmxWVHpvRktrUlZRdFlBNDcyX2p1SlY1eFJmMU1rTl9RQzQ5eF92TTJrT0Q3VkZDZVNoVlVubHJBem5RS2N5OFE?oc=5",
-   "data": "2026-11-27T11:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Petrobras",
    "score": 6,
    "marco": false,
    "avisado": false
