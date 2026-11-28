@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T13:00:34.446Z",
+ "atualizado": "2026-11-28T14:00:36.075Z",
  "agendaCal": "2026-11-28T13:00:34.446Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "14bxvvs",
+   "titulo": "Efeito Trabuco, dólar em queda e Vamos (VAMO3) dispara 33%: os destaques do Ibovespa na semana",
+   "fonte": "Money Times",
+   "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ0ZNZ25nQkhpQXpKakphYU5QMkpuR1VIUzQtNFI1REQ5UWZVLUhMZUYzTE5FdUx0RUtzTDJJa1RfSHd5VF9DODE3M0ZpWlgtM3pnWWF0dTE0andvZHdNbjk1SDdoT1kxcGxuRUcyQmxqZTdBSDAxQ2Vvd3lHRUt6Z0xEVVJnNzRMU0I2Q1NLS3dFbGNhbFNTb3pOZVc5YjEyNHlyVDRCRFQ5S1ZuMEgxZUs0VnotRUMxUUZXeVNB?oc=5",
+   "data": "2026-11-28T13:22:00.000Z",
+   "cat": "Movimento",
+   "empresa": "Ibovespa",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1rsqyry",
+   "titulo": "Vídeo: jogadores usam telão gigante de estádio para brincar com GTA VI",
+   "fonte": "Terra",
+   "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOGpQbFJoYlZKbzRiSGlOZmx5eHo5NC1ITFBIUTJZZ1NpR3JGYml2NkFoeXdFMWlSVnFoZDlkOE1nbk1tV3pmdTNyU1h0R3ZJTE5GeFBqaEdxdXR0UVdaRTdJeVZhZVdDMWNqdFgwNkNJU0ZKRVZEeFRaWkhUQjBYc2ZVcU94ZXptbFRVVVp4eWVMd0lwbjZET0RjV0p3MDNKYkt5eElZYXl1STA0MHVuVVVLbXFidktqY3FuR1BjR0dpaEN5X2xKbmxhQ3M1WHF6QkxkNHd6N1pWWlhYaktuU2pIbE1lU2plN2V6aWpR?oc=5",
+   "data": "2026-11-28T13:21:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1cnsgui",
+   "titulo": "Tarifa Social de Energia: 27 mil famílias podem perder benefício no Alto Tietê",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNOEdmcmx3bUV6by1ZWF9QNF9nTHl0bVFIb192a0hSek5xVFJwMkdqUVRlZWNuSF94aUdIdDMwcmQ4Y3hfNjNfcHk0Mlo2VDJkQVFTYmlUQWtYamNaRWxfX3hZMklFbEJZSHhfWHJBbHVjdExyalNONDM0UjBqbjVNak1fNVlkUmNOeXUyM0FlV0RJb0Y2U3RDMVdjVEVXTjRZc0NZWlNfNVpuVTFMRExvQjBRY2JvdnU4UURwTXB4di1zeGtXLUtlZFZEMmQzMU85LWN2V00tajViVjZ3ajJpNzc4Z9IB8gFBVV95cUxQb1hKN2RVeGY0UlE4bEd0LUtUcFpjU0Z5UVo5VVJzdVB3X28walJERkRpNnYyT1ZvNDZvOVVXdGJ3bXpLZ25ZV0dzU1BiT3NNeU1BcmI3WTFnMmxZdFdxUDYtMlNNNTRkRDhPRE9xVlZWY3VibkFPdkE1UkxZdVFZWG5zaWRDVXIzQndub00tVGwxUTNRaTJwRk02YU9lYXJjZlZTUkhKRlR2OElrS3dya2pBb2djVnZmOW5MUjB3eGhLQldHNDVIMWhaWHZnYVBOb252OEg1cnhPb3NKNklRalI2UjJkRm9OX01IR3doVXFqdw?oc=5",
+   "data": "2026-11-28T13:16:47.000Z",
+   "cat": "Regulação",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1fs9yf8",
+   "titulo": "GTA 6 PC – Fãs usam IA e build roubada, Take-Two manda apagar projetos",
+   "fonte": "Future Behind",
+   "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9paGlPLS1lRTgtZ1VBY3F6SC1tb1JBZTlIVmUyTVk1X0dUejRhSWQ0TVN6X0ZjZTNZRE5XSl94bEpaUFNsX1E0Y0tpYzM2d3B1eW5QTk9OQmRSeFZlU2xz?oc=5",
+   "data": "2026-11-28T13:04:49.000Z",
+   "cat": "Lançamento",
+   "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "cjvyl9",
    "titulo": "GTA 6: Guias, dicas, lista de códigos e tudo o que você precisa saber sobre o game da Rockstar",
@@ -1784,54 +1832,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795786227826
-  },
-  {
-   "id": "1lddwdi",
-   "titulo": "GTA VI disponível: anúncio e projeção da Take-Two",
-   "fonte": "Revista Empreende",
-   "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE83TmZWc2Q1OWZLU3RNUkRvd25ta01qNVJGVm1ldmZoWFF4LVQ0R2RuY0h1akZuelB6S0tOc05oR1NCaEh4ejBUUGVFczFMcTcwaUNxbm9IalVjLWJpSUpIWF9TUk9SUjZnTFg2VFp6c0hwdHNzZVlhZkZuZ3JUZw?oc=5",
-   "data": "2026-11-27T11:30:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "GTA VI",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "2gyrhp",
-   "titulo": "Após performance em Nashville, Oliva Rodrigo lança a melancólica \"miss the christmas\" na Amazon Music",
-   "fonte": "CinePOP Cinema",
-   "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMExuYjN6c3cwN2lWa2M4cUxXakNNZEVfTjRzS0VyS3NDcE84T04zdGlZWnBqXzNzTlN3S0JjVVlsQ2ZFMkdyZjRSTzQ3cUthd1VKZU40d0k4RGpQR2g0YnZqOXRzWTlRR2lwM3djaEpFd1lMc2plemdUdm96V3dwQl85NmJnVk5nWk9UVF9EUzRIdmZMc0QxczZkQzhxSFIwZ2pCcFVmcjdpUktzR0huMkgySVZuWEZtMlI1MXdMc1NjWXNqZkxZcg?oc=5",
-   "data": "2026-11-27T11:29:21.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "18w0as7",
-   "titulo": "Black Friday: o que subiu e o que caiu nas buscas do Google — e o fenômeno GTA 6",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNaTJzTE9ycVQ4TThCUzloQkd3TS0temRnbE85REk4LVdZbUJXZzNXa3dvdmN0RU14T1JiZkUtdEI3THlCQ05UcXhWeXNMdVpyLVpQdkhydXQ5RnZUOW9HdFVmTjR6S1IzbGhyeVdRb0NneUJEXzVWUTRxRlYzNmxBVDQyQUxSR3pVTlItRWp1Ni1kRjBhR1dndllsNTNqeWIzUTJBWTJwVVluZTZqUXdocFBGUGN1OWNXR1JEN1Q1aEQ3VEhoX3R3Uk9zOGJtallo0gHfAUFVX3lxTE1OYlVXelB3MjMwYlh0cFFab1BFUklpbTBRelNBdTc1Y0VJcWVhcDRJc01QWF9DUkJJUmt1NkktYmY1UGlzUWVsdUtseTdhaUtGbWRJWl9YUUZUVnlYYVoxWXA1NmVPcHo2cFFWQ3ZUVFdMQ1dTNzVteERiMl8tZ0VuaHFHTFhhU1ZYYVg0aG1aWVlQV0tqeUliRldSdkhUaGpKV2JhY3lBeXg2OGItWmhWQW9PZnpvcVR5UjJKRnh0bEIxdUFSMFBjSFFCRElXdThQUTZmOGdVc3pIazlIOGc?oc=5",
-   "data": "2026-11-27T11:24:41.000Z",
-   "cat": "Lançamento",
-   "empresa": "Google",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1bqabgt",
-   "titulo": "Cade aprova sem restrições operação entre Itaú Unibanco, Bougainville e Klabin",
-   "fonte": "Canal Rural",
-   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGJCVDNKZFdMcWpKQThCak5ueDRVTGR3c3dEQVk1UUp6NUltZU40M0pZUjNhZ1NEemdhNWVfVnVFYWlVbnZxRkttREhwb3lEbE13UlZaMWtQMm9vQXpQT20yOHFxeDZ3am96VlVKWk1TNGkwQUpuV1RPY3YtaWE3WFZGV2FRTzMzdTdsTDJSbEx4U0NIOEtickZVRU55eVRnT1BlUW9zVEJ4Mkpyb2xZc3FPY0QxemJx?oc=5",
-   "data": "2026-11-27T11:23:06.000Z",
-   "cat": "Regulação",
-   "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
