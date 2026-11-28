@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T00:30:27.558Z",
+ "atualizado": "2026-11-28T01:00:31.903Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -1046,6 +1046,18 @@
    "avisado": false
   },
   {
+   "id": "ruzlb3",
+   "titulo": "GTA 6 ganha versão pirata estável no PC e modders testam até multiplayer",
+   "fonte": "Estadão",
+   "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTjdXZEJRMmp5V3RGUDhsbEhJV3AxZHlTWHJEVEk1S0ticlNsT0tPaVMydGNaMHdRQnI3NGdicmxYTHUtZERBNTh3N3AyXzdUU21tMjJJVnJlOEJiZl9YaHZuUjI4b0tMSTdCSWdQSG9kQ2E3dElpUFQ0emhjOGlDV01aZ205WUlVeUZLWHg1MGVEUzBacGNwUF9SYmJDa0pfYmdpRG5keWEwcGVETTRPSlgwcHJld9IBuwFBVV95cUxQUlFSRUJxb1NpSWRLR3pLSjRtaGsyd29KSFlhSjEyNDlaZ0lpUi03d25xQVlacUNQREdHVmpqR0ttMXVRS1lBekNOOU9rSHZ3cUNiNlhYTHZrWmJwSnVIVFBtZ2ZacEVOVDh5M3JrSU5KUmcya203THQxZ1BkSjAzemdMYnVHZFZSTWJscDM2dmtmRUVTSFpoME5Ja0t1c09BaF93TncwNGNEMWtyS1RlYldvVmdKUEN4a1lv?oc=5",
+   "data": "2026-11-27T13:15:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
    "id": "1fyr2ph",
    "titulo": "Sabesp aprova saída da EMAE da CVM e da B3 após assembleia; entenda",
    "fonte": "tmc.com.br",
@@ -1826,18 +1838,6 @@
    "cat": "Mercado",
    "empresa": "Netflix",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "h6dkaa",
-   "titulo": "Aquisição da Applied Compute por US$ 4,5 bilhões intensifica debate sobre governança e LGPD na inteligência artificial",
-   "fonte": "Brasil Inovador",
-   "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNcU05d2VYVW9sQTdnNDBhSTFncG95aUJUQXk2OVVnZGNLRnZycFI1dTR2amxjUE14SERfdHRGREFhai1FM2dQQllKZ2dQRlVxanpxdjZGcDV6azFhZHVsakJVU1ZzSGc5cDFFVGd0UktBNWpxVnBDeGpxd2tqamt1RVhzcUpJbTF0MjFLakRoeTN1R0xJeUpRMXVZZGpOMXpQNUZsdldlV2xFd1M4X2sza2JjQ1BoOHN4aWloRmJ2OTQ5VG95T09YZkZmQTRTQ2x5bWpXTkhqeDVRdmowbzBobQ?oc=5",
-   "data": "2026-11-27T05:35:07.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
