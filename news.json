@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T07:30:29.889Z",
+ "atualizado": "2026-11-28T09:30:25.744Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -27,6 +27,54 @@
   }
  ],
  "itens": [
+  {
+   "id": "g8x6sx",
+   "titulo": "Como o calote do agro levou o Banco do Brasil ao pior resultado da história",
+   "fonte": "UOL Economia",
+   "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMERKUlkwV1RtNDdVVndYTzg2QVV2aHJjQVpnSy1UZEV1YU15TVV6RUY2Rkh3SlpPRFl5ZzlZdVRYTkpWelJWOEFVLXpaOWR2Wl9wS3JmY1JzeWZKdll6WXY2SmMzY1VjalBBUGJnbVpDTEJ4V2pGRjFIb1J0WEpaaFZUeEVBMGtzOXphdnZmZmdwY3VYdGJ4Zlh3S1QxVXZPODFUUGdoekFrS1lhZzZKSjMxUmMwTERKUkFzM2E5aUNuUHJfdXJmck5FeUluYW1q?oc=5",
+   "data": "2026-11-28T08:30:00.000Z",
+   "cat": "Risco grave",
+   "empresa": "Banco do Brasil",
+   "score": 8,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "kor8m7",
+   "titulo": "Os números inacreditáveis ​​do sucesso de bilheteria GTA VI, que arrecadou bilhões de dólares.",
+   "fonte": "Vietnam.vn",
+   "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02VTJHR0U4YU5hYkF6RzhRaEItdFpQSGhmRDFXTlgwN0EyeWZ4ZjEwOVpHaFdDck9LZjBoVnNxTFUzTjZ1dnNPdXRUWTFlc2d4VE5zT3NDdXE3UXFuaDd6Z1FTTHVGTXNsUzcxT0g4d1BVZVRVcjF2dHNmQmw?oc=5",
+   "data": "2026-11-28T08:04:44.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "r9dlp",
+   "titulo": "Brasileiro formado na Unicamp comemora participação em GTA 6: 'Realizei um sonho'",
+   "fonte": "G1",
+   "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOU2ZqLXkxR1l0c2Y4OHVPcGtXQll0dEhJTmpxQ0pSNEpMcmJDTXRLY1AxMGJ6ZkZfR253WDhMZUs3YjUxRmdXOXg5NXRXbE1iSUFld0x2a0NDU0l4cms0VGtDVUo5Ni12bDcwdmVVOE8zOXVJV0JZc1V0U2ZCaVdfdXRMVEg1U1RTRzE1UktuSXNJVF9aYlczYmRDVHN5TE0xREtXbHlMX3l2dnlPa3B0QlBEY2RWY2UxNVY3VTNLRHhUbHk4blY1cU43aTZIN2hSQ0FsZV9ReEJfMFEtcDVUb0c2QWtuVDZmVGfSAeoBQVVfeXFMTlNmai15MUdZdHNmODh1T3BrV0JZdHRISU5qcUNKUjRKTHJiQ010S2NQMTBiemZGX0dud1g4TGVLN2I1MUZnVzl4OTV0V2xNYklBZXdMdmtDQ1NJeHJrNFRrQ1VKOTYtdmw3MHZlVThPMzl1SVdCWXNVdFNmQmlXX3V0TFRINVNUU0cxNVJLbklzSVRfWmJXM2JkQ1RzeUxNMURLV2x5TF95dnZ5T2twdEJQRGNkVmNlMTVWN1UzS0R4VGx5OG5WNXFON2k2SDdoUkNBbGVfUXhCXzBRLXA1VG9HNkFrblQ2ZlRn?oc=5",
+   "data": "2026-11-28T08:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "",
+   "score": 4,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1ayx2j5",
+   "titulo": "Ações da Anthropic disparam 11% em semana volátil na Nasdaq",
+   "fonte": "Traders Union",
+   "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVkyVGtvVk1MMGozSTZ6eFZGR2dBbDV2UU16Y21ZMlhVdENBZjViZEFzSXNRcm03R0l2ZTVsT0ppeUFLRFJYU19lREktU3N1Sy1TOU1DdmN0UVR0Sy14NjdEb2xDZzc4T3YwcXVrbWpFUk1RUmptTjcydUJ4cm9HelB2cWZJZE1XbHc?oc=5",
+   "data": "2026-11-28T07:49:03.000Z",
+   "cat": "Movimento",
+   "empresa": "Anthropic",
+   "score": 5,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "tdkkb",
    "titulo": "IPO da refinaria de Dangote mira maior listagem da África",
@@ -1781,54 +1829,6 @@
    "cat": "Movimento",
    "empresa": "B3",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1dfoo2w",
-   "titulo": "Lula saca Trabuco na Fazenda e anima mercado local em dia curto no exterior; Ibovespa em dólar dispara 11% nesta sexta (27)",
-   "fonte": "Money Times",
-   "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPREIza3Eyc1lNSjl3eXpSVVpRVlVlVDVUelg4LUNLaWlPbGwtWFpCOF9YdnlKMDBrVGFialVid2FDVDNyNmtrNUVOYzN3ZzR4QllzUXR4SW5oY2lSdVR1Tk14V3M3b1Qzbmhsa1dXSlB2Nko1VENhdXRqNTBEZ21NQWJDTzlud2g5U3JUUzRsZkZjZWhjeWs1alRLTDBGQU1OSzRJeFhyWTVKMlVORzN4RGRCVlNuaWVMeE1pMzVWUmtJVFMwTDBvU2tSaEQyRkQ2U1pYMEtjdVItNWxzUmlqdWx1cHYyYXYxQi1F?oc=5",
-   "data": "2026-11-27T10:07:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "co5bcp",
-   "titulo": "Day Trade hoje (27): Ibovespa dispara 6,07% e dólar testa suporte decisivo",
-   "fonte": "InfoMoney",
-   "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOTN2UXVpV1h3dUpNNlQyNHprUE02Wmh2WV9BNk0tcExqbktTcFpidHpJd3I4UTNMUklQMVhDSHpPVTZSTGJNS3RDRGUxei12N0lLSjBvNnNZQ28wVFJNVHBtQ0JOdmIycHFILXBraXNwWllTR2pqVFhWRTM5bG1WbDUzcWRaMUxz0gGOAUFVX3lxTFBZOTJQV282eVNJWGIyVjNYMGhaZXY2dFZzZWJBSEx2VXR4eDY3dGJtVU5iSGRQaE1laVpwbXd4azZJOFRULVVFckdsV0JZX2FHRzgxM2ktU2xqamtObnBlQ29VNFZRV1k2WlMxS1B5VU96dXlQVExNdmJZNzdmbzB6VFlmLXBTQVhqdDgtTmc?oc=5",
-   "data": "2026-11-27T10:03:00.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "15i2dq5",
-   "titulo": "Ibovespa B3 sobe 6%, com IPCA-15 e Ministério da Fazenda no radar, e dólar cai a R$ 5,74",
-   "fonte": "Rádio Guaíba",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMDFlSWl5aXh5V2UzWDJsRHJhUUNhdTBNMGc3ckJUTHFQRGRsdG9QUHNzTl9vckk0ckdITkxRSGtVdzFpWFA3S3pCTmt6X1YyeG5ydDlDeDZBaUhsVjBLZXI3ZENjVFJaS1MxMUNqb2FkajIyVEkwUXpITHdhXzdab05GTlM0RzY3Tk5rOWFycFRnYnJKSWdlNVFkaHVJWVJTV3ZVQ1pad0Fpdw?oc=5",
-   "data": "2026-11-27T10:00:00.000Z",
-   "cat": "Mercado",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17qyyfa",
-   "titulo": "Ação da SpaceX dispara 7,5%: será que doação de Musk pode desencadear rali maior?",
-   "fonte": "TradingView",
-   "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11RXZOOE8xVnhoTXlKX3dxWUtZdjAyVEtfSVBUOXVpdHptdldQNGExdThZdkViQlhubHA0RWZfcGZfV1ZIUlBYdjhkd1BQWTBhS1dtZHhzdTNsNWhLdHZmNEFfRXlqdw?oc=5",
-   "data": "2026-11-27T09:36:34.000Z",
-   "cat": "Movimento",
-   "empresa": "SpaceX",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
