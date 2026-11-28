@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T04:00:32.096Z",
+ "atualizado": "2026-11-28T04:30:27.164Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -27,6 +27,30 @@
   }
  ],
  "itens": [
+  {
+   "id": "1h3djgl",
+   "titulo": "As ações da Anthropic fecham acima do preço do IPO após dois pregões abaixo desse valor",
+   "fonte": "Unite.AI",
+   "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOOWVTV3VKOTNqM2UwOVEtZFJRS3FQN3hJT1pNczhzSDBIcnVPWUY3b3RzSndWT19kODdsTEhpQzR3aVBtZVd6UzhqbDkwXzJPdnk1Q2Fvb2RsX3BVb3NlekIwTHkzVVE3U2hTZ190a3VHcHd4OUVZYjRFdDZHVm9rN3ZJdUctOUhyVVh1ZGhCUzJuOUgyTkE?oc=5",
+   "data": "2026-11-28T03:36:04.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "6xd4jx",
+   "titulo": "15 filmes de guerra da Netflix que valem a pena assistir",
+   "fonte": "TechTudo",
+   "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZUNLQTBzWGRvUW8zdjk5RlNFWl8yQjlVbUtUV2RvV3pfZ0ZqQ1pOeUlPZ1hLWXljMVVSVGpoZmJiVlJ1WW9hVE5sdGYtcVVkZXg1N1M1SHRleFJUZmNhNTdmUkl1MndnZmF4aVFBNHprdmstUW1CbE5jeWIxUGFSeDU3Z0ZTOTAtMWtxYS1NTTZROEI0RTRRTGpGaEFWSnFINk9lTHVUZHB3eWtrWFZVSlpyRFV4QzRN0gHHAUFVX3lxTE5HNmtUd3hUdDFjUmloSFRwLUlXaGYwZVFfQ0hoMzF2N00zT256NUoxQ05tcWN5Qjl1dVdzWnBXUDFoTjhZazI0MHltMTh2QWNIYXoxb0tWX0NVdTM5aEN0Zm1qamVTMlBRbGNDaHJEY0NBM0Nob09UZldGaDVTblJLRlo2aWNpQ29VUzdXejc1N0lncExSYzczQU1tc0ljRjJiWmpNMzRpVDVDWXpNZE5fMXlyS003OHF3TkVudklvWDJzemNFVGc?oc=5",
+   "data": "2026-11-28T03:02:00.000Z",
+   "cat": "Mercado",
+   "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "u7jtdj",
    "titulo": "Novo filme da Netflix revive história real de atletas de futebol americano que foram à guerra após o ataque a Pearl Harbor",
@@ -1808,30 +1832,6 @@
    "marco": false,
    "avisado": true,
    "avisadoEm": 1795780834504
-  },
-  {
-   "id": "qf414y",
-   "titulo": "Expectativa por Trabuco na Fazenda leva Ibovespa a disparar 6%",
-   "fonte": "Valor Econômico",
-   "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYUxTeGZrQlk0WHdYN0t5dTAtSmhJQU1WT3NvWm85MF84SEFwT25jb3R3V3ktNk5ySGx4VFk2UHVDLUZkWnNRN1dkWndyNFBmRnNHWWFTM0VNNmhHVGpJSHdRb2tZMzNpenFEeTZ6S1hmcW00THRrODg0NTlhUWxrbUYzcWhKdTVOM3QxaEVmVDkzUnVBRmdlckgtSXBPMzNNcXBwT2xTcWtGZHJ3bE5RNkNOMlR6QzlPYnFF0gHKAUFVX3lxTE9JRHl6TXlPVEZTeTdFdGFlRVRIV3VTbk5WdnNGRzluWVl5OEFsbERteDNYUlFXRC1fQUlIQWRyeUhCTmd0Y2hPZy1pT3g2LXh6SVhMaFFtanV0OFFwWWxNaHJYeVJsZFZkZHNLQzJadTNnN1JXeDNGb2l0SlFCNGpUblhBb0tnaFlJQjUzM2pWVXJBSXV0T2JHU29EdFRXLXBsY3kwdDVpd240bU45LW5lVk1SYmg3TlJSVFE2R2VHcFo2V2Rsekk5QUE?oc=5",
-   "data": "2026-11-27T08:00:01.000Z",
-   "cat": "Movimento",
-   "empresa": "Ibovespa",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "17d85nl",
-   "titulo": "Desenvolvedores da Rockstar detalham os recursos cortados de 'GTA VI'",
-   "fonte": "Hypebeast",
-   "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNczZYNU0wMG5FaWN3Z3NBWnZ0b21kTFgxWGNmU0M4UkxIYm0zMXkwUHc0VjZfWTZmRC1SSXpxYUREYWxkWFI4VUNlVmlsUjUzOU9Mcl9KVm1sMEM1a2xpSFYyU3JsOF9fVm1fVGNXUXEyWVA4NlRjMjNLUHRXa05ueGVzTG1HQTRCeXROc0VFajdxRzJOb3hLdTdTeDdKUTBVSjNUMVdGNng3QkRsZzA4SG5FOF8?oc=5",
-   "data": "2026-11-27T07:40:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 6,
-   "marco": false,
-   "avisado": false
   }
  ]
 }
