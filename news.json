@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T02:30:30.249Z",
+ "atualizado": "2026-11-28T03:00:31.746Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -17,14 +17,6 @@
   "dig|2026-11-27": 1795773634083
  },
  "agenda": [
-  {
-   "data": "2026-11-27",
-   "tipo": "Lançamento",
-   "empresa": "Netflix",
-   "origem": "GZH",
-   "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOLV8wRy1TeEVRVDVLTGJEbTdicHVrblpWb2FZd2hoTUFTXzJ2X0kweWlsTDFYSE1VOS1RRkswdTRqaXplcWJwaTJZLVdtS0owVFlQWEVzV0Q4Nk5mZ3N1WUxXa193S2p0ZW1HWGhGQm43ZXQ3SHpUdFpXVF9fZWEtbHFMQmpIemRFbURQcjZFUkRlRVo5RFhjNk5UOWotaWNNRmNKQkdRR1VWNERGVFVnQXJmTWlYSFA5REh0QnlTRUp2YWtjLWQ3SXNQeHFCWjAwWmQ2YXJCRnF3MTZRQmxKZ1QzZzZDdWhjWEJublM1bDMtb0Nvd3UwNg?oc=5",
-   "manchete": "O que estreia na Netflix nesta semana? Veja os lançamentos de 23 a 27 de novembro"
-  },
   {
    "data": "2026-12-03",
    "tipo": "Lançamento",
