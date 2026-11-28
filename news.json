@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T12:00:32.391Z",
+ "atualizado": "2026-11-28T12:30:27.866Z",
  "agendaCal": "2026-11-28T07:00:32.405Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -28,6 +28,42 @@
   }
  ],
  "itens": [
+  {
+   "id": "cjvyl9",
+   "titulo": "GTA 6: Guias, dicas, lista de códigos e tudo o que você precisa saber sobre o game da Rockstar",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRXFjeVBGV3dDcmJCNUNKaTg5RV9FUVpLSklKV1I5MUpPVlBqVWJxTE9PZUtUbGxZTzVnQTg4cjRKVHozVjZEd3FxdjkxYmI2YjFBVFJZb0ZGWEozNjJfMUdyRjNBVVBDckhkUTkzUlFFY21VcE1OOTF0SGREcVFoYzlDNm1VY0dkc3AxcWlMcEdLR0s2dTR3WXAtYTZWU0s4SnRuMGliN2FNNDlSQ0Iydy1NY20wSHBHREJOTVdnU1pLd0Y0NktLN25vMFlaWGZiREpB?oc=5",
+   "data": "2026-11-28T12:04:17.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "32hj3i",
+   "titulo": "Final feliz: depois de acusar a Rockstar de roubo de imagem e exigir milhões de dólares, Coringa da Flórida vira dublador em GTA 6",
+   "fonte": "IGN Brasil",
+   "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWlpkZG5OYmxEamdNVjFXeGtVQUpBVlU4TXBpaDNwYjJ0OTFPTTNPcTZjYU5HeVdwM3dCTWRhSVhpRGFwTWxtdFdSbXhxb2hVOTlMLTkxX1V6eEx2N0NaLU9HVUlFV3VOQ2VSNmVOdzhNdno5NG1WX3NIZ1NwaEhMYnFKN1pna2hGV2RRSnhLZnQxTGdJb2MxRVpycktJeWkydV9IRG5EbUswYl9PZWVjUE93c2NPWjFHMnM0dmJ6NFpTX1pQYm8zYVZkZldtS1Nsb1o0UHFJQXY2bUtuaUZJ?oc=5",
+   "data": "2026-11-28T12:04:07.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "1uruylt",
+   "titulo": "Petrobras aprova plano de investimentos de US$ 122 bilhões até 2031 e prevê ampliar produção de petróleo e gás",
+   "fonte": "Jornal Grande Bahia",
+   "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcjkzYkRYUEF1YTlHcFNrYWxXSWhuT3V4UlM2NkRDblU3QUFZY2F0U0gta0lKdzUzOGZYN3hBUUlFU3FWZVFvelc0YU1vZ0lYSUdoNGpjX25mMjdjWXlRUjFlTHNNRDNJa3JWd3c5NGE0bHVHbU54SW1nbFRCcjdXb2dOTzlTZmpseWVkVHNxQVZ6NnZVRTZhNFhZSXVkOGQ3c0d5aHU2eHFVcnpVd21NQk5kR0ItOGpBNmNLNW9UMWZZWFFtUEFpUm9tdDV5cUozUE82UFJhU1ktVkxzUlJCaVlpUjMtdw?oc=5",
+   "data": "2026-11-28T12:00:51.000Z",
+   "cat": "Mercado",
+   "empresa": "Petrobras",
+   "score": 7,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "110rerv",
    "titulo": "GTA VI: confira 5 aparições inesperadas do Brasil dentro do game",
@@ -158,7 +194,8 @@
    "empresa": "Anthropic",
    "score": 9,
    "marco": false,
-   "avisado": false
+   "avisado": true,
+   "avisadoEm": 1795869027866
   },
   {
    "id": "1vo2pvq",
@@ -1792,43 +1829,6 @@
    "data": "2026-11-27T11:23:06.000Z",
    "cat": "Regulação",
    "empresa": "Itaú",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "yv6205",
-   "titulo": "Morgan Stanley sai na frente na disputa pelos novos ricos da Anthropic após IPO",
-   "fonte": "Bloomberg Línea Brasil",
-   "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGRpMGphbl96TXRtelVSVUN3Y083WTZJZ3gyOEZmN2o1XzQ5d0ZJcDRZLXhMUE8tNUxpa2tPYThTd0cxMExpcW9KVTBGSUdTSm1MbllUcy1FODNuLUxfczBIV09EdVZzZFk3VmhEV3NyVGNOSEJlYWVrdl9TMElOVE5lRWIweVhtdzFLWTRaeEhyRmh1d09PSjhOd2lqU29PVDlSUWtnOXpLaHd6bVE1LTVBbUFlLWpYbzdHYW9nT3lpc03SAdcBQVVfeXFMUE9ZcnNPM1NMTlBXR19VckJ4WUthdHJPbkNMcjZWYkRSQ1AxeFVsSHltTDM3eU53MUFCUzRnQ1ZOVDZ4eTNfcGZwbExNUWJFU0FxdUFDanE1TFFqbGdXMUJfZExTT05fZmdqX0pwUndhN201RGltcktIdlJfaTF3UDB2U3V2SjMzRXFycFpyWkVRb1NnU1gwdEVTUGhXcENVUDIwd3hOemE2T2lZaVJmMG9lVkdpUElnV21oNHJ6VmNkYVpPRWxFWU9kRlV4ZmFmTjBlajcwZjg?oc=5",
-   "data": "2026-11-27T11:22:21.000Z",
-   "cat": "IPO",
-   "empresa": "Anthropic",
-   "score": 10,
-   "marco": false,
-   "avisado": true,
-   "avisadoEm": 1795782628972
-  },
-  {
-   "id": "j42fe5",
-   "titulo": "Bradesco Vida e Previdência lança campanha “Num piscar de olhos” com Tadeu Schmidt",
-   "fonte": "Portal Nosso Meio",
-   "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWGRpUTkwVk5qWjVVZGY1eUpfcUlWelhIUkIxT2tYY0N3cEEtSzZjWVhyUXpRNkp1SjRGbTZsYmtpd3c1bVgyVHFZMUZuSWlxcmRDRGVhVUIxc2JnYnREQXVCVVBRN0hwdl8tUTZqcGVKQktyN2JnbVg3U2lXOXhZRWpHY2UwdEM4cm45OElPQ1FkTVV1aWo1V1ZTaVN5UVc4WlRwNnEwbTdNUQ?oc=5",
-   "data": "2026-11-27T11:21:00.000Z",
-   "cat": "Lançamento",
-   "empresa": "Bradesco",
-   "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "w32jyt",
-   "titulo": "PS5 na Black Friday: oferta ativa na Amazon para jogar GTA 6",
-   "fonte": "LANCE!",
-   "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NVEF0MDdfU3JjNmJ5YnhIV2ZyaUFpT1hjZzJJYkZTWEhQNzNndVdNLXZiQWxaTS1HWWRFazlJVkZPWFlsVGRFZlMwX0Y0MG11V2l0am11Y3JpZU1BaGFDc1Y1QzF0MTlHMVc4UGhrS3dULU0?oc=5",
-   "data": "2026-11-27T11:11:52.000Z",
-   "cat": "Lançamento",
-   "empresa": "Amazon",
    "score": 6,
    "marco": false,
    "avisado": false
