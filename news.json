@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T05:00:31.077Z",
+ "atualizado": "2026-11-28T06:00:35.774Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -27,6 +27,18 @@
   }
  ],
  "itens": [
+  {
+   "id": "ot35cn",
+   "titulo": "IPO da Anthropic: por que as estimativas diferem",
+   "fonte": "NeoTeo",
+   "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMFZ6Q0lYaGVuV0J2cUJONlF1Y29rUHNSNjBVdFNySGFXUWNPbDktMFVFS0VoZ0k0bEE2aTU1bnhadWhkSVJJRlJReDI0NXg2Z2lVYWNyV1Z4Ty1UczhuMmJDcDVOS2FzWXlZRml6STg0X04yNk56MUlGRWlYc3Foa0dGbmE5dTFIU2RScVE3Qk1veF9xb1dRNy1LMjhFZw?oc=5",
+   "data": "2026-11-28T05:41:31.000Z",
+   "cat": "IPO",
+   "empresa": "Anthropic",
+   "score": 9,
+   "marco": false,
+   "avisado": false
+  },
   {
    "id": "1h3djgl",
    "titulo": "As ações da Anthropic fecham acima do preço do IPO após dois pregões abaixo desse valor",
@@ -1817,18 +1829,6 @@
    "cat": "Lançamento",
    "empresa": "GTA VI",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "l1rmqr",
-   "titulo": "A figura misteriosa por trás das participações acionárias de quase 900 bilhões de VND e da série de transações envolvendo a aquisição de ações da Transimex e o desinvestimento na Merufa.",
-   "fonte": "Vietnam.vn",
-   "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSEZBdUZMLThjZmg5NDJROHNPMmcycUhnWWhySm9GNnRMYVF5SW1pY0VzTDg2OUp5cmNwajljOTIzWndPem1UMnQ0QUtYWXZnaUdCa0hMX0lNQ0J3bGpOQVlxTlZhSUJoYXVTbDNBdE5HdHozN1RBaEJqanA4UjA0Vk9jZ0xGYlRJQ3Z5ZjB5RWw1dUdLUHlRSG9qbG4wcHV5ZFBmTVdlNjVCY1RGYkpwR29WYjR3X1poeXVTZHhJaHZ0eFJZS0NsakZZcUZsSHFnTmlTMmpnai0?oc=5",
-   "data": "2026-11-27T08:21:54.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
