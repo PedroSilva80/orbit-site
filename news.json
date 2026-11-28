@@ -1,5 +1,5 @@
 {
- "atualizado": "2026-11-28T03:00:31.746Z",
+ "atualizado": "2026-11-28T04:00:32.096Z",
  "agendaCal": "2026-11-28T00:30:27.558Z",
  "eventosAvisados": {
   "2026-11-17|balanco da nvidia (nvdc34)|amanha": 1794875185555,
@@ -35,6 +35,18 @@
    "data": "2026-11-28T02:00:00.000Z",
    "cat": "Mercado",
    "empresa": "Netflix",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "16dncrf",
+   "titulo": "Modders rodam multiplayer de GTA 6 no PC antes da Rockstar",
+   "fonte": "TV Sim Brasil",
+   "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVlycFo2QTNvY2V0ZEJUVG93TW1yM2t2Z1dENW9VNzFNbHJYcklocTNVcHE0QWxGcU5zTVh0UlBvMG5oNFdablJPV0tfZmtJZXV5SU1EVHREUGJ4OV9GUUlrZ2M0TUNwdHY1UnRFSHVKcVUyQk52UTJ5RGJMWXJDb1FzUUhINXlCTGRueUZaMTktTHYtMUlCaWN2NXlUVjRCR0Q4QS00Zkk2N3V4Rl9Da29hTQ?oc=5",
+   "data": "2026-11-28T00:10:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "Rockstar",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -480,6 +492,18 @@
    "data": "2026-11-27T19:00:00.000Z",
    "cat": "Lançamento",
    "empresa": "Take-Two",
+   "score": 6,
+   "marco": false,
+   "avisado": false
+  },
+  {
+   "id": "ma3yub",
+   "titulo": "GTA VI e a disputa pela atenção que não se compra",
+   "fonte": "Meio e Mensagem",
+   "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNG5zRGR3SEtaZ3NVLUtTM09rdzdrMEc1YW5mR0FobnpuWXNjcmFuZWJyV1B0NU5vMmNxNE9heDFxZUozT2Q1YXdramliQ0R0cEhxZ0dybGdXUXlCU3V1LUs1X1RPSjdydVlPNFNqQkxZU0F4Vm1uZWRjNFk0Z2hKNVdXckIzZWpUU2F5YnNBa0dhT3Nj?oc=5",
+   "data": "2026-11-27T19:00:00.000Z",
+   "cat": "Lançamento",
+   "empresa": "GTA VI",
    "score": 6,
    "marco": false,
    "avisado": false
@@ -1806,30 +1830,6 @@
    "cat": "Lançamento",
    "empresa": "Rockstar",
    "score": 6,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "1vo2pvq",
-   "titulo": "Rockstar lança edição deluxe de álbum de GTA 6 com música de Anitta",
-   "fonte": "Estadão",
-   "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZGthTERRaUdjREJ6bHJiZmlVVkcwRUhQQkNuQ2V3Um1FeGFtOWVUbktCQ29FOWZaeDM0dl9SckRzQktmNEctVUhYblAwSjRVamkxdFU4ZTFxc2JWU1JSdlYwMHVvSFBkWERIV241TUxxVGRiZE1yZDNXY0hyaDFlUTlWN2FvVG00RUs3V1IzclZWNThoZDUwbG45dWNWNmN1S21vYl9kUDhFRzlFalJERUZ4R3h4Z0sweFE?oc=5",
-   "data": "2026-11-27T07:40:32.000Z",
-   "cat": "Lançamento",
-   "empresa": "Rockstar",
-   "score": 7,
-   "marco": false,
-   "avisado": false
-  },
-  {
-   "id": "dz7t37",
-   "titulo": "Coca Cola HBC AG conclui aquisição de US$ 2,6 bilhões da CCBA",
-   "fonte": "Investing.com Brasil - Finanças, Câmbio e Investimentos",
-   "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMXZsV2VaNDVKU2p6cnBxajdHS0J3NGZrQWVZTGZjWVhJTVcwWWw4RzM4R3A3bzhrNmVoVzFvUHdWUkttOENzQkdmNGRGYm9BQ282RmhVT2thdVBuWTBVTVZLOWdqQTR5WE9WVDZOMDRPcVhJamlVRi1vRG1hU1B2dTA5a1BGSGEzOGZzRld4czNBWUFOaEFab2g5TkJCczFJM29Wc0diaUFHcHY4a0ZSUW96UUFsMWRSNVhPbw?oc=5",
-   "data": "2026-11-27T07:34:00.000Z",
-   "cat": "Corporativo",
-   "empresa": "",
-   "score": 5,
    "marco": false,
    "avisado": false
   }
